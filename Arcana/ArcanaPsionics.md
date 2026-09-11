@@ -49,170 +49,20 @@ Listen (Wis), Move Silently (Dex), Profession (Wis), Read/Write Language
 
 **Skill Points at Each Level:** 3 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Table:The Psionic Agent</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Psionic skills, psionic powers</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Psionic Focus, psionic powers</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Draw power, psionic powers</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Charged shot, psionic powers</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Combat Manifestation, psionic powers</p></td>
-<td><p>+5</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Power penetration, psionic powers</p></td>
-<td><p>+6</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>Deadly Aim, psionic powers</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table:The Psionic Agent**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
+| 1st   | +0                | +0        | +2       | +0        | Psionic skills, psionic powers       | +1            | +0               |
+| 2nd   | +1                | +0        | +3       | +0        | Psionic Focus, psionic powers        | +2            | +0               |
+| 3rd   | +2                | +1        | +3       | +1        | Bonus feat, psionic powers           | +2            | +0               |
+| 4th   | +3                | +1        | +4       | +1        | Draw power, psionic powers           | +3            | +0               |
+| 5th   | +3                | +1        | +4       | +1        | Charged shot, psionic powers         | +4            | +1               |
+| 6th   | +4                | +2        | +5       | +2        | Bonus feat, psionic powers           | +4            | +1               |
+| 7th   | +5                | +2        | +5       | +2        | Combat Manifestation, psionic powers | +5            | +1               |
+| 8th   | +6                | +2        | +6       | +2        | Power penetration, psionic powers    | +6            | +1               |
+| 9th   | +6                | +3        | +6       | +3        | Bonus feat, psionic powers           | +7            | +2               |
+| 10th  | +7                | +3        | +7       | +3        | Deadly Aim, psionic powers           | +7            | +2               |
 
 Class Features
 
@@ -243,154 +93,19 @@ indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Psionic Agent’s key ability modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Psionic Agent Level</strong></p></td>
-<td><p><strong>Pts/Day</strong></p></td>
-<td><h4>Powers Discovered by Level</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>8</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>11</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>16</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>21</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>26</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>33</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Psionic Agent Level | Pts/Day | Powers Discovered by Level |       |       |       |       |
+|---------------------|---------|----------------------------|-------|-------|-------|-------|
+|                     |         | **0**                      | **1** | **2** | **3** | **4** |
+| 1                   | 2       | 2                          | —     | —     | —     | —     |
+| 2                   | 3       | 3                          | —     | —     | —     | —     |
+| 3                   | 4       | 3                          | 1     | —     | —     | —     |
+| 4                   | 5       | 3                          | 2     | —     | —     | —     |
+| 5                   | 8       | 3                          | 3     | 1     | —     | —     |
+| 6                   | 11      | 3                          | 3     | 2     | —     | —     |
+| 7                   | 16      | 3                          | 3     | 2     | 1     | —     |
+| 8                   | 21      | 3                          | 3     | 3     | 1     | —     |
+| 9                   | 26      | 3                          | 3     | 3     | 2     | —     |
+| 10                  | 33      | 3                          | 3     | 3     | 2     | 1     |
 
 A Psionic Agent can manifest a certain number of powers per day based on
 her available power points. (0-level powers have a special cost.) She
@@ -796,58 +511,12 @@ returns to wherever it originally came from.
 As your level increases, you can summon better weapons, although the
 power point cost is also greater.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Level</h2></td>
-<td><h2>Weapons</h2></td>
-<td><h2>Example</h2></td>
-<td><h2>Power Points</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1–3</p></td>
-<td><p>Simple melee</p></td>
-<td><p>Knife</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>4–6</p></td>
-<td><p>Handgun</p></td>
-<td><p>Colt Python</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>7–9</p></td>
-<td><p>SMG, rifle, shotgun</p></td>
-<td><p>Winchester 94</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>Exotic or Archaic melee</p></td>
-<td><p>Katana</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Level | Weapons                 | Example       | Power Points |
+|-------|-------------------------|---------------|--------------|
+| 1–3   | Simple melee            | Knife         | 1            |
+| 4–6   | Handgun                 | Colt Python   | 3            |
+| 7–9   | SMG, rifle, shotgun     | Winchester 94 | 7            |
+| 10    | Exotic or Archaic melee | Katana        | 11           |
 
 Weapons gained by *call weaponry *are distinctive due to the low hum
 they emit.

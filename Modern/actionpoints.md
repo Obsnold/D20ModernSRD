@@ -33,8 +33,8 @@ may be able to roll more than one d6 when spending 1 action point. If
 the character does so, apply the highest result and disregard the other
 rolls.
 
-| **Character Level** | **Action Point Dice Rolled** |
-|---------------------|------------------------------|
-| 1st–7th             | 1d6                          |
-| 8th–14th            | 2d6                          |
-| 15th–20th           | 3d6                          |
+| Character Level | Action Point Dice Rolled |
+|-----------------|--------------------------|
+| 1st–7th         | 1d6                      |
+| 8th–14th        | 2d6                      |
+| 15th–20th       | 3d6                      |

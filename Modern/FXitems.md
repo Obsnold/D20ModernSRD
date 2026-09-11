@@ -145,38 +145,11 @@ action).
 **Purchase DC:** To calculate the purchase DC for armor with an
 enhancement bonus but no special qualities, use the following table.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Enhancement Bonus</strong></p></td>
-<td><h3>Purchase DC Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>+1</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td><p>+2</p></td>
-<td><p>+13</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>+3</p></td>
-<td><p>+18</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Enhancement Bonus | Purchase DC Modifier |
+|-------------------|----------------------|
+| +1                | +8                   |
+| +2                | +13                  |
+| +3                | +18                  |
 
 Armor with special qualities has an additional purchase DC modifier, as
 noted under each item entry.
@@ -223,15 +196,11 @@ the user must speak a command word (an attack action).
 **Purchase DC:** To calculate the purchase DC for a weapon with an
 enchantment bonus but no special qualities, use the following table.
 
-|                       |                          |
-|-----------------------|--------------------------|
-| **Enhancement Bonus** | **Purchase DC Modifier** |
-|                       |                          |
-| +1                    | +10                      |
-| +2                    | +15                      |
-|                       |                          |
-| +3                    | +20                      |
-|                       |                          |
+| Enhancement Bonus | Purchase DC Modifier |
+|-------------------|----------------------|
+| +1                | +10                  |
+| +2                | +15                  |
+| +3                | +20                  |
 
 Weapons with special qualities have an additional purchase DC modifier,
 as noted under each item entry.
@@ -647,48 +616,14 @@ activated by command word or use-activated.
 level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Item’s Nature</strong></p></td>
-<td><h4>FX Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Single-use item</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Continuous effect or bonus <strong><sup>1</sup></strong></p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Limited number of uses per day</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Limited number of charges</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 See Limit on FX Items Worn. A continuous effect item that does
-not take up one of these limited spaces has a +4 FX modifier (instead of
-+3).</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Item’s Nature                           | FX Modifier |
+|-----------------------------------------|-------------|
+| Single-use item                         | —           |
+| Continuous effect or bonus <sup>1</sup> | +3          |
+| Limited number of uses per day          | +2          |
+| Limited number of charges               | +1          |
+
+1 See Limit on FX Items Worn. A continuous effect item that does not take up one of these limited spaces has a +4 FX modifier (instead of +3).
 
 Examples of wondrous items include the following.
 

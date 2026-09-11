@@ -405,42 +405,12 @@ upgrades (see Ability Upgrades). It does not retain the previous frame’s
 armor, locomotive means, manipulators, sensors, physical ability score
 upgrades, accessories, or mounted weapons, as these were all destroyed.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Robot Frame </strong></p></td>
-<td><h4>Repair Check DC</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Armature or Biomorph</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Biodroid</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td><p>Bioreplica</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Liquid-State</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Robot Frame          | Repair Check DC |
+|----------------------|-----------------|
+| Armature or Biomorph | 20              |
+| Biodroid             | 30              |
+| Bioreplica           | 40              |
+| Liquid-State         | 50              |
 
 ## ROBOT FRAMES
 
@@ -494,232 +464,20 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Armature Robot Frames (Pl 5)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>——— Base Ability Scores ———</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot Size</strong></p></td>
-<td><p><strong>Base Purchase DC</strong></p></td>
-<td><p><strong>Base Hit Dice</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><h4>Str</h4></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Maximum Hit Dice/</strong></p>
-<p><strong>Purchase DC Modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>44</p></td>
-<td><p>32d10</p></td>
-<td><p>120</p></td>
-<td><p>47</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>64d10/+3 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>36</p></td>
-<td><p>16d10</p></td>
-<td><p>80</p></td>
-<td><p>39</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>31d10/+3 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>28</p></td>
-<td><p>8d10</p></td>
-<td><p>40</p></td>
-<td><p>31</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>15d10/+2 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>24</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>23</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>7d10/+1 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>20</p></td>
-<td><p>1d10</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>16</p></td>
-<td><p>1/2d10</p></td>
-<td><p>5</p></td>
-<td><p>11</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>12</p></td>
-<td><p>1/4d10</p></td>
-<td><p>—</p></td>
-<td><p>7</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>8</p></td>
-<td><p>1/8d10</p></td>
-<td><p>—</p></td>
-<td><p>5</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>4</p></td>
-<td><p>1/16d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Armature Robot Frames (Pl 5)**
+
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|----------------|----------------------|-------------------|----------------------|-----------------------------|---------|---------|---------|---------|---------|-------------------------------------------|
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 44                   | 32d10             | 120                  | 47                          | 6       | —       | —       | 10      | 1       | 64d10/+3 per HD                           |
+| Gargantuan     | 36                   | 16d10             | 80                   | 39                          | 6       | —       | —       | 10      | 1       | 31d10/+3 per HD                           |
+| Huge           | 28                   | 8d10              | 40                   | 31                          | 6       | —       | —       | 10      | 1       | 15d10/+2 per HD                           |
+| Large          | 24                   | 2d10              | 20                   | 23                          | 8       | —       | —       | 10      | 1       | 7d10/+1 per HD                            |
+| Medium-size    | 20                   | 1d10              | 10                   | 15                          | 10      | —       | —       | 10      | 1       | —                                         |
+| Small          | 16                   | 1/2d10            | 5                    | 11                          | 12      | —       | —       | 10      | 1       | —                                         |
+| Tiny           | 12                   | 1/4d10            | —                    | 7                           | 14      | —       | —       | 10      | 1       | —                                         |
+| Diminutive     | 8                    | 1/8d10            | —                    | 5                           | 16      | —       | —       | 10      | 1       | —                                         |
+| Fine           | 4                    | 1/16d10           | —                    | 1                           | 18      | —       | —       | 10      | 1       | —                                         |
 
 BIOMORPH (PL 5)
 
@@ -743,232 +501,20 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Biomorph Robot Frames (Pl 5)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>——— Base Ability Scores ———</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot Size</strong></p></td>
-<td><p><strong>Base Purchase DC</strong></p></td>
-<td><p><strong>Base Hit Dice</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><h4>Str</h4></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Maximum Hit Dice/</strong></p>
-<p><strong>Purchase DC Modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>48</p></td>
-<td><p>32d10</p></td>
-<td><p>120</p></td>
-<td><p>46</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>64d10/+3 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>40</p></td>
-<td><p>16d10</p></td>
-<td><p>80</p></td>
-<td><p>38</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>31d10/+3 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>32</p></td>
-<td><p>8d10</p></td>
-<td><p>40</p></td>
-<td><p>30</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>15d10/+2 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>28</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>22</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>7d10/+1 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>24</p></td>
-<td><p>1d10</p></td>
-<td><p>10</p></td>
-<td><p>14</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>20</p></td>
-<td><p>1/2d10</p></td>
-<td><p>5</p></td>
-<td><p>10</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>16</p></td>
-<td><p>1/4d10</p></td>
-<td><p>—</p></td>
-<td><p>6</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>12</p></td>
-<td><p>1/8d10</p></td>
-<td><p>—</p></td>
-<td><p>4</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>8</p></td>
-<td><p>1/16d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Biomorph Robot Frames (Pl 5)**
+
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|----------------|----------------------|-------------------|----------------------|-----------------------------|---------|---------|---------|---------|---------|-------------------------------------------|
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 48                   | 32d10             | 120                  | 46                          | 6       | —       | —       | 10      | 1       | 64d10/+3 per HD                           |
+| Gargantuan     | 40                   | 16d10             | 80                   | 38                          | 6       | —       | —       | 10      | 1       | 31d10/+3 per HD                           |
+| Huge           | 32                   | 8d10              | 40                   | 30                          | 6       | —       | —       | 10      | 1       | 15d10/+2 per HD                           |
+| Large          | 28                   | 2d10              | 20                   | 22                          | 8       | —       | —       | 10      | 1       | 7d10/+1 per HD                            |
+| Medium-size    | 24                   | 1d10              | 10                   | 14                          | 10      | —       | —       | 10      | 1       | —                                         |
+| Small          | 20                   | 1/2d10            | 5                    | 10                          | 12      | —       | —       | 10      | 1       | —                                         |
+| Tiny           | 16                   | 1/4d10            | —                    | 6                           | 14      | —       | —       | 10      | 1       | —                                         |
+| Diminutive     | 12                   | 1/8d10            | —                    | 4                           | 16      | —       | —       | 10      | 1       | —                                         |
+| Fine           | 8                    | 1/16d10           | —                    | 1                           | 18      | —       | —       | 10      | 1       | —                                         |
 
 BIODROID (PL 6)
 
@@ -999,232 +545,20 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Restriction:** Licensed (+1).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Biodroid Robot Frames (Pl 6)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>——— Base Ability Scores ———</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot Size</strong></p></td>
-<td><p><strong>Base Purchase DC</strong></p></td>
-<td><p><strong>Base Hit Dice</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><h4>Str</h4></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Maximum Hit Dice/</strong></p>
-<p><strong>Purchase DC Modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>48</p></td>
-<td><p>32d10</p></td>
-<td><p>120</p></td>
-<td><p>44</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>45d10/+4 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>40</p></td>
-<td><p>16d10</p></td>
-<td><p>80</p></td>
-<td><p>36</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>31d10/+3 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>32</p></td>
-<td><p>8d10</p></td>
-<td><p>40</p></td>
-<td><p>28</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>15d10/+2 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>28</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>20</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>7d10/+1 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>24</p></td>
-<td><p>1d10</p></td>
-<td><p>10</p></td>
-<td><p>12</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>20</p></td>
-<td><p>1/2d10</p></td>
-<td><p>5</p></td>
-<td><p>8</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>16</p></td>
-<td><p>1/4d10</p></td>
-<td><p>—</p></td>
-<td><p>4</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>12</p></td>
-<td><p>1/8d10</p></td>
-<td><p>—</p></td>
-<td><p>2</p></td>
-<td><p>17</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>8</p></td>
-<td><p>1/16d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>19</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Biodroid Robot Frames (Pl 6)**
+
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|----------------|----------------------|-------------------|----------------------|-----------------------------|---------|---------|---------|---------|---------|-------------------------------------------|
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 48                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 5       | 45d10/+4 per HD                           |
+| Gargantuan     | 40                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 5       | 31d10/+3 per HD                           |
+| Huge           | 32                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 5       | 15d10/+2 per HD                           |
+| Large          | 28                   | 2d10              | 20                   | 20                          | 9       | —       | 10      | 10      | 5       | 7d10/+1 per HD                            |
+| Medium-size    | 24                   | 1d10              | 10                   | 12                          | 11      | —       | 10      | 10      | 5       | —                                         |
+| Small          | 20                   | 1/2d10            | 5                    | 8                           | 13      | —       | 10      | 10      | 5       | —                                         |
+| Tiny           | 16                   | 1/4d10            | —                    | 4                           | 15      | —       | 10      | 10      | 5       | —                                         |
+| Diminutive     | 12                   | 1/8d10            | —                    | 2                           | 17      | —       | 10      | 10      | 5       | —                                         |
+| Fine           | 8                    | 1/16d10           | —                    | 1                           | 19      | —       | 10      | 10      | 5       | —                                         |
 
 BIOREPLICA (PL 7)
 
@@ -1258,232 +592,20 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Restriction:** Restricted (+2) or Illegal (+4).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Bioreplica Robot Frames (Pl 7)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>——— Base Ability Scores ———</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot Size</strong></p></td>
-<td><p><strong>Base Purchase DC</strong></p></td>
-<td><p><strong>Base Hit Dice</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><h4>Str</h4></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Maximum Hit Dice/</strong></p>
-<p><strong>Purchase DC Modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>52</p></td>
-<td><p>32d10</p></td>
-<td><p>120</p></td>
-<td><p>44</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>45d10/+4 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>44</p></td>
-<td><p>16d10</p></td>
-<td><p>80</p></td>
-<td><p>36</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>31d10/+3 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>36</p></td>
-<td><p>8d10</p></td>
-<td><p>40</p></td>
-<td><p>28</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>15d10/+2 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>32</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>20</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>7d10/+1 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>28</p></td>
-<td><p>1d10</p></td>
-<td><p>10</p></td>
-<td><p>12</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>24</p></td>
-<td><p>1/2d10</p></td>
-<td><p>5</p></td>
-<td><p>8</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>20</p></td>
-<td><p>1/4d10</p></td>
-<td><p>—</p></td>
-<td><p>4</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>16</p></td>
-<td><p>1/8d10</p></td>
-<td><p>—</p></td>
-<td><p>2</p></td>
-<td><p>17</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>12</p></td>
-<td><p>1/16d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>19</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Bioreplica Robot Frames (Pl 7)**
+
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|----------------|----------------------|-------------------|----------------------|-----------------------------|---------|---------|---------|---------|---------|-------------------------------------------|
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 52                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 10      | 45d10/+4 per HD                           |
+| Gargantuan     | 44                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 10      | 31d10/+3 per HD                           |
+| Huge           | 36                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 10      | 15d10/+2 per HD                           |
+| Large          | 32                   | 2d10              | 20                   | 20                          | 9       | —       | 10      | 10      | 10      | 7d10/+1 per HD                            |
+| Medium-size    | 28                   | 1d10              | 10                   | 12                          | 11      | —       | 10      | 10      | 10      | —                                         |
+| Small          | 24                   | 1/2d10            | 5                    | 8                           | 13      | —       | 10      | 10      | 10      | —                                         |
+| Tiny           | 20                   | 1/4d10            | —                    | 4                           | 15      | —       | 10      | 10      | 10      | —                                         |
+| Diminutive     | 16                   | 1/8d10            | —                    | 2                           | 17      | —       | 10      | 10      | 10      | —                                         |
+| Fine           | 12                   | 1/16d10           | —                    | 1                           | 19      | —       | 10      | 10      | 10      | —                                         |
 
 LIQUID-STATE (PL 8)
 
@@ -1543,232 +665,20 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** Military (+3).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Liquid-State Robot Frames (Pl 8)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>——— Base Ability Scores ———</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Robot Size</h3></td>
-<td><p><strong>Base Purchase DC</strong></p></td>
-<td><p><strong>Base Hit Dice</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><h4>Str</h4></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Maximum Hit Dice/</strong></p>
-<p><strong>Purchase DC Modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>56</p></td>
-<td><p>32d10</p></td>
-<td><p>120</p></td>
-<td><p>45</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>40d10/+3 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>48</p></td>
-<td><p>16d10</p></td>
-<td><p>80</p></td>
-<td><p>37</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>32d10/+3 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>40</p></td>
-<td><p>8d10</p></td>
-<td><p>40</p></td>
-<td><p>29</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>24d10/+2 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>36</p></td>
-<td><p>4d10</p></td>
-<td><p>20</p></td>
-<td><p>23</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>16d10/+2 per HD</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>32</p></td>
-<td><p>2d10</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>8d10/+1 per HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>28</p></td>
-<td><p>1d10</p></td>
-<td><p>5</p></td>
-<td><p>9</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>24</p></td>
-<td><p>1/2d10</p></td>
-<td><p>—</p></td>
-<td><p>5</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>20</p></td>
-<td><p>1/4d10</p></td>
-<td><p>—</p></td>
-<td><p>3</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>16</p></td>
-<td><p>1/8d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>20</p></td>
-<td><p>—</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Liquid-State Robot Frames (Pl 8)**
+
+|             |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|-------------|----------------------|-------------------|----------------------|-----------------------------|---------|---------|---------|---------|---------|-------------------------------------------|
+| Robot Size  | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal    | 56                   | 32d10             | 120                  | 45                          | 8       | —       | 10      | 11      | 10      | 40d10/+3 per HD                           |
+| Gargantuan  | 48                   | 16d10             | 80                   | 37                          | 8       | —       | 10      | 11      | 10      | 32d10/+3 per HD                           |
+| Huge        | 40                   | 8d10              | 40                   | 29                          | 8       | —       | 10      | 11      | 10      | 24d10/+2 per HD                           |
+| Large       | 36                   | 4d10              | 20                   | 23                          | 10      | —       | 10      | 11      | 10      | 16d10/+2 per HD                           |
+| Medium-size | 32                   | 2d10              | 10                   | 13                          | 12      | —       | 10      | 11      | 10      | 8d10/+1 per HD                            |
+| Small       | 28                   | 1d10              | 5                    | 9                           | 14      | —       | 10      | 11      | 10      | —                                         |
+| Tiny        | 24                   | 1/2d10            | —                    | 5                           | 16      | —       | 10      | 11      | 10      | —                                         |
+| Diminutive  | 20                   | 1/4d10            | —                    | 3                           | 18      | —       | 10      | 11      | 10      | —                                         |
+| Fine        | 16                   | 1/8d10            | —                    | 1                           | 20      | —       | 10      | 11      | 10      | —                                         |
 
 ## LOCOMOTION
 
@@ -1938,15 +848,11 @@ A Medium-size or smaller robot may have up to two functioning
 manipulators. Larger robots may be equipped with a greater number of
 functioning manipulators, as determined by their size:
 
-|                         |                  |
-|-------------------------|------------------|
-| **Robot’s Frame Size ** | **Manipulators** |
-|                         |                  |
-| Medium-size or smaller  | Up to 2          |
-| Large                   | Up to 4          |
-|                         |                  |
-| Huge or larger          | Up to 8          |
-|                         |                  |
+| Robot’s Frame Size     | Manipulators |
+|------------------------|--------------|
+| Medium-size or smaller | Up to 2      |
+| Large                  | Up to 4      |
+| Huge or larger         | Up to 8      |
 
 To build a manipulator from scratch, a character must succeed at a Craft
 (mechanical) check (DC 25) after investing 24 hours in its construction.
@@ -1970,24 +876,21 @@ types of manipulators deal nonlethal damage only.
 fraction of the base purchase DC of the robot’s frame (see Frame,
 above).
 
-|                                                         |                                                |                |          |           |                 |           |          |                |              |
-|---------------------------------------------------------|------------------------------------------------|----------------|----------|-----------|-----------------|-----------|----------|----------------|--------------|
-| **Table: Manipulator Damage**                           |                                                |                |          |           |                 |           |          |                |              |
-|                                                         |                                                |                |          |           |                 |           |          |                |              |
-|                                                         | **——————————————— Robot Size ———————————————** |                |          |           |                 |           |          |                |              |
-|                                                         |                                                |                |          |           |                 |           |          |                |              |
-| **Manipulator Type **                                   | **Fine**                                       | **Diminutive** | **Tiny** | **Small** | **Medium-size** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
-| Advanced Hand**<sup>1</sup>**                           | —                                              | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
-| Claw                                                    | —                                              | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
-| Hand**<sup>1</sup>**                                    | —                                              | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
-| Jaws                                                    | —                                              | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
-| Pincer                                                  | —                                              | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
-| Probe                                                   | —                                              | —              | —        | 1         | 1d2             | 1d3       | 1d4      | 1d6            | 1d8          |
-| Special-Use Gripper**<sup>1</sup>**                     | —                                              | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
-| Task Hand**<sup>1</sup>**                               | —                                              | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
-|                                                         |                                                |                |          |           |                 |           |          |                |              |
-| 1 This type of manipulator deals nonlethal damage only. |                                                |                |          |           |                 |           |          |                |              |
-|                                                         |                                                |                |          |           |                 |           |          |                |              |
+**Table: Manipulator Damage**
+
+|                                     | ——————————————— Robot Size ——————————————— |                |          |           |                 |           |          |                |              |
+|-------------------------------------|--------------------------------------------|----------------|----------|-----------|-----------------|-----------|----------|----------------|--------------|
+| **Manipulator Type **               | **Fine**                                   | **Diminutive** | **Tiny** | **Small** | **Medium-size** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
+| Advanced Hand**<sup>1</sup>**       | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Claw                                | —                                          | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
+| Hand**<sup>1</sup>**                | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Jaws                                | —                                          | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
+| Pincer                              | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Probe                               | —                                          | —              | —        | 1         | 1d2             | 1d3       | 1d4      | 1d6            | 1d8          |
+| Special-Use Gripper**<sup>1</sup>** | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Task Hand**<sup>1</sup>**           | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+
+1 This type of manipulator deals nonlethal damage only.
 
 **CLAW (PL 5)**
 
@@ -2844,65 +1747,16 @@ limits and purchase DCs.
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Internal Storage Units</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot’s Frame Size </strong></p></td>
-<td><p><strong>Maximum Weight Limit</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>10 lb.</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium</p></td>
-<td><p>20 lb.</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>40 lb.</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>120 lb.</p></td>
-<td><p>13</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>360 lb.</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>1,000 lb.</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Internal Storage Units**
+
+| Robot’s Frame Size | Maximum Weight Limit | Purchase DC |
+|--------------------|----------------------|-------------|
+| Small              | 10 lb.               | 6           |
+| Medium             | 20 lb.               | 8           |
+| Large              | 40 lb.               | 10          |
+| Huge               | 120 lb.              | 13          |
+| Gargantuan         | 360 lb.              | 17          |
+| Colossal           | 1,000 lb.            | 22          |
 
 **LOADING MECHANISM (PL 5)**
 
@@ -3008,65 +1862,16 @@ the ammunition.
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Robot Weapon Mounts</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot’s Frame Size</strong></p></td>
-<td><p><strong>Maximum Weapon Mounts</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive or Tiny</p></td>
-<td><p>1</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small or Medium-size</p></td>
-<td><p>2</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>3</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>4</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>5</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>6</p></td>
-<td><p>14</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Robot Weapon Mounts**
+
+| Robot’s Frame Size   | Maximum Weapon Mounts | Purchase DC |
+|----------------------|-----------------------|-------------|
+| Diminutive or Tiny   | 1                     | 4           |
+| Small or Medium-size | 2                     | 6           |
+| Large                | 3                     | 8           |
+| Huge                 | 4                     | 10          |
+| Gargantuan           | 5                     | 12          |
+| Colossal             | 6                     | 14          |
 
 **INTEGRATED VIDEOPHONE (PL 6)**
 
@@ -3122,80 +1927,19 @@ size.
 
 **Restriction:** Military (+3).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Robot Self-Destruct Systems</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Robot Size </strong></p></td>
-<td><p><strong>Collateral Damage</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>12d6</p></td>
-<td><p>27</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>9d6</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>6d6</p></td>
-<td><p>21</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>4d6</p></td>
-<td><p>19</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>2d6</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>1d6</p></td>
-<td><p>16</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>—</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>—</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>—</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Robot Self-Destruct Systems**
+
+| Robot Size  | Collateral Damage | Purchase DC |
+|-------------|-------------------|-------------|
+| Colossal    | 12d6              | 27          |
+| Gargantuan  | 9d6               | 24          |
+| Huge        | 6d6               | 21          |
+| Large       | 4d6               | 19          |
+| Medium-size | 2d6               | 17          |
+| Small       | 1d6               | 16          |
+| Tiny        | —                 | 15          |
+| Diminutive  | —                 | 15          |
+| Fine        | —                 | 15          |
 
 **SURVIVOR ARRAY (PL 6)**
 

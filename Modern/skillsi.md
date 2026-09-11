@@ -56,59 +56,13 @@ her move action keeping his or her balance and does not move. A failure
 by 5 or more indicates that the character falls. The difficulty varies
 with the conditions of the surface.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Narrow Surface </strong></p></td>
-<td><h3>DC*</h3></td>
-<td><p><strong>Difficult Surface</strong></p></td>
-<td><h2>DC</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7–12 in. wide</p></td>
-<td><p>10</p></td>
-<td><p>Uneven or angled</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>2–6 in. wide</p></td>
-<td><p>15</p></td>
-<td><p>Slippery surface</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Less than 2 in. wide</p></td>
-<td><p>20</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>*Add +5 to the DC if the narrow surface is slippery or angled;
-add +10 if it is both slippery and angled.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Narrow Surface       | DC* | Difficult Surface | DC |
+|----------------------|-----|-------------------|----|
+| 7–12 in. wide        | 10  | Uneven or angled  | 10 |
+| 2–6 in. wide         | 15  | Slippery surface  | 10 |
+| Less than 2 in. wide | 20  |                   |    |
+
+*Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
 
 **Being Attacked While Balancing:** While balancing, the character is
 flat-footed (the character loses his or her Dexterity bonus to Defense,
@@ -164,50 +118,13 @@ believe.
 A bluff requires interaction between the character and the target.
 Targets unaware of the character can’t be bluffed.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Example Circumstances</strong></p></td>
-<td><h2>Sense Motive Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>The target wants to believe the character.</p></td>
-<td><p>–5</p></td>
-</tr>
-<tr class="even">
-<td><p>The bluff is believable and doesn’t affect the target much one
-way or the other.</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>The bluff is a little hard to believe or puts the target at some
-kind of risk.</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td><p>The bluff is hard to believe or entails a large risk for the
-target.</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>The bluff is way out there; it’s almost too incredible to
-consider.</p></td>
-<td><p>+20</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Example Circumstances                                                            | Sense Motive Modifier |
+|----------------------------------------------------------------------------------|-----------------------|
+| The target wants to believe the character.                                       | –5                    |
+| The bluff is believable and doesn’t affect the target much one way or the other. | +0                    |
+| The bluff is a little hard to believe or puts the target at some kind of risk.   | +5                    |
+| The bluff is hard to believe or entails a large risk for the target.             | +10                   |
+| The bluff is way out there; it’s almost too incredible to consider.              | +20                   |
 
 A bluff is not the same thing as a lie. A bluff is a quick prevarication
 intended to distract, confuse, or mislead, generally only for the short
@@ -326,85 +243,21 @@ rather than a full set of climbing gear to avoid the penalty.
 
 A character with the Athletic feat gets a +2 bonus on all Climb checks.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>DC</h2></td>
-<td><h3>Example Wall or Surface or Task</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0</p></td>
-<td><p>A slope too steep to walk up.</p></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td><p>A knotted rope with a wall to brace against.</p></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>A rope with a wall to brace against. A knotted rope. A surface
-with sizable ledges to hold on to and stand on, such as a rugged cliff
-face.</p></td>
-</tr>
-<tr class="even">
-<td><p>15</p></td>
-<td><p>Any surface with adequate handholds and footholds (natural or
-artificial), such as a rough natural rock surface, a tree, or a
-chain-link fence. An unknotted rope. Pulling yourself up when dangling
-by your hands.</p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>An uneven surface with just a few narrow handholds and footholds,
-such as a coarse masonry wall or a sheer cliff face with a few crevices
-and small toeholds.</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>A rough surface with no real handholds or footholds, such as a
-brick wall.</p></td>
-</tr>
-<tr class="odd">
-<td><p>25</p></td>
-<td><p>Overhang or ceiling with handholds but no footholds.</p></td>
-</tr>
-<tr class="even">
-<td><p>—</p></td>
-<td><p>A perfectly smooth, flat, vertical surface can’t be
-climbed.</p></td>
-</tr>
-<tr class="odd">
-<td><p>–10*</p></td>
-<td><p>Climbing inside an air duct or other location where one can brace
-against two opposite walls (reduces normal DC by 10).</p></td>
-</tr>
-<tr class="even">
-<td><p>–5*</p></td>
-<td><p>Climbing a corner where a character can brace against
-perpendicular walls (reduces normal DC by 5).</p></td>
-</tr>
-<tr class="odd">
-<td><p>+5*</p></td>
-<td><p>Surface is slippery (increases normal DC by 5).</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>*These modifiers are cumulative; use any that apply.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| DC   | Example Wall or Surface or Task                                                                                                                                                                                     |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0    | A slope too steep to walk up.                                                                                                                                                                                       |
+| 5    | A knotted rope with a wall to brace against.                                                                                                                                                                        |
+| 10   | A rope with a wall to brace against. A knotted rope. A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face.                                                                         |
+| 15   | Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence. An unknotted rope. Pulling yourself up when dangling by your hands. |
+| 20   | An uneven surface with just a few narrow handholds and footholds, such as a coarse masonry wall or a sheer cliff face with a few crevices and small toeholds.                                                       |
+| 25   | A rough surface with no real handholds or footholds, such as a brick wall.                                                                                                                                          |
+| 25   | Overhang or ceiling with handholds but no footholds.                                                                                                                                                                |
+| —    | A perfectly smooth, flat, vertical surface can’t be climbed.                                                                                                                                                        |
+| –10* | Climbing inside an air duct or other location where one can brace against two opposite walls (reduces normal DC by 10).                                                                                             |
+| –5*  | Climbing a corner where a character can brace against perpendicular walls (reduces normal DC by 5).                                                                                                                 |
+| +5*  | Surface is slippery (increases normal DC by 5).                                                                                                                                                                     |
+
+*These modifiers are cumulative; use any that apply.
 
 **Time:** Climbing at one-half your speed is a full-round action. Moving
 half that far (one-fourth the character’s speed) is a move action.
@@ -431,50 +284,12 @@ category; usually, such a task requires a Research check. This
 application of the Computer Use skill only pertains to finding files on
 private systems with which the character is not familiar.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Size of Site</h3></td>
-<td><h3>DC</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Personal computer</p></td>
-<td><p>10</p></td>
-<td><p>1 round</p></td>
-</tr>
-<tr class="even">
-<td><p>Small office network</p></td>
-<td><p>15</p></td>
-<td><p>2 rounds</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large office network</p></td>
-<td><p>20</p></td>
-<td><p>1 minute</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Massive corporate network</p></td>
-<td><p>25</p></td>
-<td><p>10 minutes</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size of Site              | DC | Time       |
+|---------------------------|----|------------|
+| Personal computer         | 10 | 1 round    |
+| Small office network      | 15 | 2 rounds   |
+| Large office network      | 20 | 1 minute   |
+| Massive corporate network | 25 | 10 minutes |
 
 **Defeat Computer Security:** This application of Computer Use can’t be
 used untrained. The DC is determined by the quality of the security
@@ -491,42 +306,12 @@ character automatically succeeds at all subsequent security checks at
 that site until the end of the character’s session (see Computer Hacking
 below).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Level of Security</h3></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Minimum</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Average</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Exceptional</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Maximum</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Level of Security | DC |
+|-------------------|----|
+| Minimum           | 20 |
+| Average           | 25 |
+| Exceptional       | 35 |
+| Maximum           | 40 |
 
 ### Computer Hacking
 
@@ -633,45 +418,11 @@ won’t simply decide to use a different computer).
 A character can degrade the programming of multiple computers at a
 single site; doing so adds +2 to the DC for each additional computer.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Scope of Alteration</h3></td>
-<td><h3>DC</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Crash computer</p></td>
-<td><p>10</p></td>
-<td><p>1 minute</p></td>
-</tr>
-<tr class="even">
-<td><p>Destroy programming</p></td>
-<td><p>15</p></td>
-<td><p>10 minutes</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Damage programming</p></td>
-<td><p>20</p></td>
-<td><p>10 minutes</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Scope of Alteration | DC | Time       |
+|---------------------|----|------------|
+| Crash computer      | 10 | 1 minute   |
+| Destroy programming | 15 | 10 minutes |
+| Damage programming  | 20 | 10 minutes |
 
 Fixing the degraded programming requires 1 hour and a Computer Use check
 against a DC equal to the DC for degrading it + 5.
@@ -693,72 +444,16 @@ alerts its administrator that there has been an unauthorized use of the
 equipment. An alerted administrator may attempt to identify the
 character or cut off his or her access to the system.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Type of Operation</h3></td>
-<td><h3>DC</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Shut down passive remote (including cameras and door
-locks)</p></td>
-<td><p>20</p></td>
-<td><p>1 round per remote</p></td>
-</tr>
-<tr class="even">
-<td><p>Shut down active remote (including motion detectors and
-alarms)</p></td>
-<td><p>25</p></td>
-<td><p>1 round per remote</p></td>
-</tr>
-<tr class="odd">
-<td><p>Reset parameters</p></td>
-<td><p>30</p></td>
-<td><p>1 minute per remote</p></td>
-</tr>
-<tr class="even">
-<td><p>Change passcodes</p></td>
-<td><p>25</p></td>
-<td><p>1 minute</p></td>
-</tr>
-<tr class="odd">
-<td><p>Hide evidence of alteration</p></td>
-<td><p>+10</p></td>
-<td><p>1 minute</p></td>
-</tr>
-<tr class="even">
-<td><p>Minimum security</p></td>
-<td><p>–5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Exceptional security</p></td>
-<td><p>+10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Maximum security</p></td>
-<td><p>+15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Operation                                               | DC  | Time                |
+|-----------------------------------------------------------------|-----|---------------------|
+| Shut down passive remote (including cameras and door locks)     | 20  | 1 round per remote  |
+| Shut down active remote (including motion detectors and alarms) | 25  | 1 round per remote  |
+| Reset parameters                                                | 30  | 1 minute per remote |
+| Change passcodes                                                | 25  | 1 minute            |
+| Hide evidence of alteration                                     | +10 | 1 minute            |
+| Minimum security                                                | –5  | —                   |
+| Exceptional security                                            | +10 | —                   |
+| Maximum security                                                | +15 | —                   |
 
 **Special:** A character can take 10 when using the Computer Use skill.
 A character can take 20 in some cases, but not in those that involve a
@@ -819,80 +514,20 @@ psionics.
 either a reaction (when attempted in response to a distraction) or part
 of another action (when at­tempted actively).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Distraction</h3></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Damaged during the action <strong><sup>1</sup></strong></p></td>
-<td><p>10 + damage dealt</p></td>
-</tr>
-<tr class="even">
-<td><p>Taking continuous damage during the action<strong><sup>
-2</sup></strong></p></td>
-<td><p>10 + half of continuous damage last dealt</p></td>
-</tr>
-<tr class="odd">
-<td><p>Vigorous motion (bouncy vehicle ride, small boat in rough water,
-belowdecks in a storm-tossed ship, riding a horse)</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Violent motion (very rough vehicle ride, small boat in rapids, on
-deck of storm-tossed ship, galloping horse)</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Extraordinarily violent motion (earthquake)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Entangled in net or snare</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Grappling or pinned</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Weather is a high wind carrying blinding rain or sleet</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Weather is wind-driven hail, dust, or debris</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 Such as an activity that requires more than a single full-round
-action. Also from an attack of opportunity or readied attack made in
-response to the action being taken (for activities requiring no more
-than a full-round action).</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 Such as from catching on fire.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Distraction                                                                                                         | DC                                        |
+|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Damaged during the action <sup>1</sup>                                                                              | 10 + damage dealt                         |
+| Taking continuous damage during the action<sup>2</sup>                                                              | 10 + half of continuous damage last dealt |
+| Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse) | 10                                        |
+| Violent motion (very rough vehicle ride, small boat in rapids, on deck of storm-tossed ship, galloping horse)       | 15                                        |
+| Extraordinarily violent motion (earthquake)                                                                         | 20                                        |
+| Entangled in net or snare                                                                                           | 15                                        |
+| Grappling or pinned                                                                                                 | 20                                        |
+| Weather is a high wind carrying blinding rain or sleet                                                              | 5                                         |
+| Weather is wind-driven hail, dust, or debris                                                                        | 10                                        |
+
+1 Such as an activity that requires more than a single full-round action. Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).
+2 Such as from catching on fire.
 
 Craft (Int)
 
@@ -930,74 +565,14 @@ explosives, and poisonous substances.
 acids but do not deal damage. A base of a certain type counteracts an
 acid of the same type or a less potent type.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3></h3></td>
-<td><h3></h3></td>
-<td><h3>Craft DCs</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Type of Acid</h3></td>
-<td><h3>Purchase DC</h3></td>
-<td><h3>Acid</h3></td>
-<td><h3>Base</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td><p>Mild (1d6/1d10) <strong><sup>1</sup></strong></p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-<td><p>1 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Potent (2d6/2d10)</p></td>
-<td><p>12</p></td>
-<td><p>20</p></td>
-<td><p>15</p></td>
-<td><p>30 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Concentrated (3d6/3d10)</p></td>
-<td><p>16</p></td>
-<td><p>30</p></td>
-<td><p>20</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 The dice rolls in parentheses are typical contact
-damage/immersion damage caused per round of immersion.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                              |             | Craft DCs |      |         |
+|------------------------------|-------------|-----------|------|---------|
+| Type of Acid                 | Purchase DC | Acid      | Base | Time    |
+| Mild (1d6/1d10) <sup>1</sup> | 8           | 15        | 10   | 1 min.  |
+| Potent (2d6/2d10)            | 12          | 20        | 15   | 30 min. |
+| Concentrated (3d6/3d10)      | 16          | 30        | 20   | 1 hr.   |
+
+1 The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.
 
 **Explosives:** Building an explosive from scratch is dangerous. If the
 Craft (chemical) check fails, the raw materials are wasted. If the check
@@ -1009,88 +584,16 @@ If the check succeeds, the final product is a solid material, about the
 size of a brick. An explosive compound does not include a fuse or
 detonator. Connecting a fuse or detonator requires a Demolitions check.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type of Scratch-Built Explosive </strong></p></td>
-<td><h3>Purchase DC</h3></td>
-<td><p><strong>Craft DC</strong></p></td>
-<td><p><strong>Reflex DC (save for half damage)</strong></p></td>
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Improvised (1d6/5 feet) <sup>1</sup></p></td>
-<td><p>6</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>1 round</p></td>
-</tr>
-<tr class="even">
-<td><p>Simple (2d6/5 feet)</p></td>
-<td><p>12</p></td>
-<td><p>15</p></td>
-<td><p>12</p></td>
-<td><p>10 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Moderate (4d6/10 feet)</p></td>
-<td><p>16</p></td>
-<td><p>20</p></td>
-<td><p>12</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Complex (6d6/15 feet)</p></td>
-<td><p>20</p></td>
-<td><p>25</p></td>
-<td><p>15</p></td>
-<td><p>3 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Powerful (8d6/20 feet)</p></td>
-<td><p>25</p></td>
-<td><p>30</p></td>
-<td><p>15</p></td>
-<td><p>12 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Devastating (10d6/25 feet)</p></td>
-<td><p>30</p></td>
-<td><p>35</p></td>
-<td><p>18</p></td>
-<td><p>24 hr.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 The figures in parentheses are typical damage/burst radius for
-each type of explosive.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Scratch-Built Explosive      | Purchase DC | Craft DC | Reflex DC (save for half damage) | Time    |
+|--------------------------------------|-------------|----------|----------------------------------|---------|
+| Improvised (1d6/5 feet) <sup>1</sup> | 6           | 10       | 10                               | 1 round |
+| Simple (2d6/5 feet)                  | 12          | 15       | 12                               | 10 min. |
+| Moderate (4d6/10 feet)               | 16          | 20       | 12                               | 1 hr.   |
+| Complex (6d6/15 feet)                | 20          | 25       | 15                               | 3 hr.   |
+| Powerful (8d6/20 feet)               | 25          | 30       | 15                               | 12 hr.  |
+| Devastating (10d6/25 feet)           | 30          | 35       | 18                               | 24 hr.  |
+
+1 The figures in parentheses are typical damage/burst radius for each type of explosive.
 
 Scratch built explosives deal concussion damage.
 
@@ -1132,377 +635,37 @@ liquid poison stored in a bottle (containing 4 doses) or a gas stored in
 a pressurized cylinder. When released, the gas is sufficient to fill a
 10-foot-radius area and takes 1 round to fill the area.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Poisons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Poison</h3></td>
-<td><p><strong>Type</strong></p></td>
-<td><p><strong>Save DC</strong></p></td>
-<td><p><strong>Initial Damage</strong></p></td>
-<td><p><strong>Secondary Damage</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-<td><p><strong>Craft DC</strong></p></td>
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Arsenic</p></td>
-<td><p>Ingested</p></td>
-<td><p>15</p></td>
-<td><p>1d4 Str</p></td>
-<td><p>2d4 Con</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>24</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Atropine</p></td>
-<td><p>Injury</p></td>
-<td><p>13</p></td>
-<td><p>1d6 Dex</p></td>
-<td><p>1d6 Str</p></td>
-<td><p>3</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>14</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Belladonna (plant)</p></td>
-<td><p>Injury</p></td>
-<td><p>18</p></td>
-<td><p>1d6 Str</p></td>
-<td><p>2d6 Str</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="even">
-<td><p>Blue vitriol</p></td>
-<td><p>Injury</p></td>
-<td><p>12</p></td>
-<td><p>1d2 Con</p></td>
-<td><p>1d2 Con</p></td>
-<td><p>3</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>9</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Blue-ringed octopus venom</p></td>
-<td><p>Injury</p></td>
-<td><p>15</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="even">
-<td><p>Chloral hydrate</p></td>
-<td><p>Ingested</p></td>
-<td><p>18</p></td>
-<td><p>1d6 Dex</p></td>
-<td><p>Unconsciousness 1d3 hours</p></td>
-<td><p>12</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>28</p></td>
-<td><p>8 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Chloroform<strong><sup>1</sup></strong></p></td>
-<td><p>Inhaled</p></td>
-<td><p>17</p></td>
-<td><p>Unconsciousness 1d3 hours</p></td>
-<td><p>—</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>24</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Curare (plant)</p></td>
-<td><p>Injury</p></td>
-<td><p>18</p></td>
-<td><p>2d4 Dex</p></td>
-<td><p>2d4 Wis</p></td>
-<td><p>15</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cyanide</p></td>
-<td><p>Injury</p></td>
-<td><p>16</p></td>
-<td><p>1d6 Con</p></td>
-<td><p>2d6 Con</p></td>
-<td><p>15</p></td>
-<td><p>Mil (+3)</p></td>
-<td><p>31</p></td>
-<td><p>15 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Cyanogen</p></td>
-<td><p>Inhaled</p></td>
-<td><p>19</p></td>
-<td><p>1d4 Dex</p></td>
-<td><p>2d4 Con</p></td>
-<td><p>12</p></td>
-<td><p>Mil (+3)</p></td>
-<td><p>28</p></td>
-<td><p>8 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>DDT</p></td>
-<td><p>Inhaled</p></td>
-<td><p>17</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>1d4 Str</p></td>
-<td><p>9</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>20</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Knockout gas</p></td>
-<td><p>Inhaled</p></td>
-<td><p>18</p></td>
-<td><p>1d3 Dex</p></td>
-<td><p>Unconsciousness 1d3 hours</p></td>
-<td><p>12</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>26</p></td>
-<td><p>8 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Lead arsenate (gas)</p></td>
-<td><p>Inhaled</p></td>
-<td><p>12</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>6</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>17</p></td>
-<td><p>2 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Lead arsenate (solid)</p></td>
-<td><p>Ingested</p></td>
-<td><p>12</p></td>
-<td><p>1d2 Con</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>6</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>18</p></td>
-<td><p>2 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mustard gas</p></td>
-<td><p>Inhaled</p></td>
-<td><p>17</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>2d4 Con</p></td>
-<td><p>12</p></td>
-<td><p>Mil (+3)</p></td>
-<td><p>26</p></td>
-<td><p>8 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Paris green (gas)</p></td>
-<td><p>Inhaled</p></td>
-<td><p>14</p></td>
-<td><p>1d2 Con</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>20</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Paris green (solid)</p></td>
-<td><p>Ingested</p></td>
-<td><p>14</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>24</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Puffer poison (fish)</p></td>
-<td><p>Injury</p></td>
-<td><p>13</p></td>
-<td><p>1d6 Str</p></td>
-<td><p>Paralysis 2d6 minutes</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="odd">
-<td><p>Rattlesnake venom</p></td>
-<td><p>Injury</p></td>
-<td><p>12</p></td>
-<td><p>1d6 Con</p></td>
-<td><p>1d6 Con</p></td>
-<td><p>12</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="even">
-<td><p>Sarin nerve gas</p></td>
-<td><p>Inhaled</p></td>
-<td><p>18</p></td>
-<td><p>1d4 Con</p></td>
-<td><p>2d4 Con</p></td>
-<td><p>15</p></td>
-<td><p>Illegal (+4)</p></td>
-<td><p>30</p></td>
-<td><p>15 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Scorpion/tarantula venom</p></td>
-<td><p>Injury</p></td>
-<td><p>11</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>12</p></td>
-<td><p>Lic (+1)</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="even">
-<td><p>Strychnine</p></td>
-<td><p>Injury</p></td>
-<td><p>19</p></td>
-<td><p>1d3 Dex</p></td>
-<td><p>2d4 Con</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>23</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tear gas</p></td>
-<td><p>Inhaled</p></td>
-<td><p>15</p></td>
-<td><p>Nauseated 1d6 rounds</p></td>
-<td><p>—</p></td>
-<td><p>9</p></td>
-<td><p>Res (+2)</p></td>
-<td><p>21</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>VX nerve gas</p></td>
-<td><p>Inhaled</p></td>
-<td><p>22</p></td>
-<td><p>1d6 Con</p></td>
-<td><p>2d6 Con</p></td>
-<td><p>21</p></td>
-<td><p>Illegal (+4)</p></td>
-<td><p>42</p></td>
-<td><p>48 hr.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Chloroform gives off vapor that causes unconsciousness.
-Applying chloroform to an unwilling subject requires a successful
-grapple check and pin.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>n/a: Certain poisons can’t be made with the Craft skill. Instead,
-such a poison must be obtained by extracting it from the creature in
-question.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Poisons**
+
+| Poison                    | Type     | Save DC | Initial Damage            | Secondary Damage          | Purchase DC | Restriction  | Craft DC | Time   |
+|---------------------------|----------|---------|---------------------------|---------------------------|-------------|--------------|----------|--------|
+| Arsenic                   | Ingested | 15      | 1d4 Str                   | 2d4 Con                   | 9           | Res (+2)     | 24       | 4 hr.  |
+| Atropine                  | Injury   | 13      | 1d6 Dex                   | 1d6 Str                   | 3           | Res (+2)     | 14       | 1 hr.  |
+| Belladonna (plant)        | Injury   | 18      | 1d6 Str                   | 2d6 Str                   | 14          | Lic (+1)     | n/a      | n/a    |
+| Blue vitriol              | Injury   | 12      | 1d2 Con                   | 1d2 Con                   | 3           | Res (+2)     | 9        | 1 hr.  |
+| Blue-ringed octopus venom | Injury   | 15      | 1d4 Con                   | 1d4 Con                   | 14          | Lic (+1)     | n/a      | n/a    |
+| Chloral hydrate           | Ingested | 18      | 1d6 Dex                   | Unconsciousness 1d3 hours | 12          | Res (+2)     | 28       | 8 hr.  |
+| Chloroform<sup>1</sup>    | Inhaled  | 17      | Unconsciousness 1d3 hours | —                         | 9           | Res (+2)     | 24       | 4 hr.  |
+| Curare (plant)            | Injury   | 18      | 2d4 Dex                   | 2d4 Wis                   | 15          | Res (+2)     | n/a      | n/a    |
+| Cyanide                   | Injury   | 16      | 1d6 Con                   | 2d6 Con                   | 15          | Mil (+3)     | 31       | 15 hr. |
+| Cyanogen                  | Inhaled  | 19      | 1d4 Dex                   | 2d4 Con                   | 12          | Mil (+3)     | 28       | 8 hr.  |
+| DDT                       | Inhaled  | 17      | 1d2 Str                   | 1d4 Str                   | 9           | Lic (+1)     | 20       | 4 hr.  |
+| Knockout gas              | Inhaled  | 18      | 1d3 Dex                   | Unconsciousness 1d3 hours | 12          | Res (+2)     | 26       | 8 hr.  |
+| Lead arsenate (gas)       | Inhaled  | 12      | 1d2 Str                   | 1d4 Con                   | 6           | Res (+2)     | 17       | 2 hr.  |
+| Lead arsenate (solid)     | Ingested | 12      | 1d2 Con                   | 1d4 Con                   | 6           | Res (+2)     | 18       | 2 hr.  |
+| Mustard gas               | Inhaled  | 17      | 1d4 Con                   | 2d4 Con                   | 12          | Mil (+3)     | 26       | 8 hr.  |
+| Paris green (gas)         | Inhaled  | 14      | 1d2 Con                   | 1d4 Con                   | 9           | Res (+2)     | 20       | 4 hr.  |
+| Paris green (solid)       | Ingested | 14      | 1d4 Con                   | 1d4 Con                   | 9           | Res (+2)     | 24       | 4 hr.  |
+| Puffer poison (fish)      | Injury   | 13      | 1d6 Str                   | Paralysis 2d6 minutes     | 13          | Lic (+1)     | n/a      | n/a    |
+| Rattlesnake venom         | Injury   | 12      | 1d6 Con                   | 1d6 Con                   | 12          | Lic (+1)     | n/a      | n/a    |
+| Sarin nerve gas           | Inhaled  | 18      | 1d4 Con                   | 2d4 Con                   | 15          | Illegal (+4) | 30       | 15 hr. |
+| Scorpion/tarantula venom  | Injury   | 11      | 1d2 Str                   | 1d2 Str                   | 12          | Lic (+1)     | n/a      | n/a    |
+| Strychnine                | Injury   | 19      | 1d3 Dex                   | 2d4 Con                   | 9           | Res (+2)     | 23       | 4 hr.  |
+| Tear gas                  | Inhaled  | 15      | Nauseated 1d6 rounds      | —                         | 9           | Res (+2)     | 21       | 4 hr.  |
+| VX nerve gas              | Inhaled  | 22      | 1d6 Con                   | 2d6 Con                   | 21          | Illegal (+4) | 42       | 48 hr. |
+
+1 Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin.
+n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question.
 
 **Special:** A character without a chemical kit takes a –4 penalty on
 Craft (chemical) checks.
@@ -1521,58 +684,12 @@ the kind of device he or she wants to construct; then the Gamemaster
 decides whether the device is simple, moderate, complex, or advanced
 com­pared to current technology.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Type of Scratch-Built Electronics (Examples)</h3></td>
-<td><h3>Purchase DC</h3></td>
-<td><h3>Craft DC</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Simple (timer or detonator)</p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate (radio direction finder, electronic lock)</p></td>
-<td><p>12</p></td>
-<td><p>20</p></td>
-<td><p>12 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Complex (cell phone)</p></td>
-<td><p>16</p></td>
-<td><p>25</p></td>
-<td><p>24 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Advanced (computer)</p></td>
-<td><p>22</p></td>
-<td><p>30</p></td>
-<td><p>60 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Scratch-Built Electronics (Examples)       | Purchase DC | Craft DC | Time   |
+|----------------------------------------------------|-------------|----------|--------|
+| Simple (timer or detonator)                        | 8           | 15       | 1 hr.  |
+| Moderate (radio direction finder, electronic lock) | 12          | 20       | 12 hr. |
+| Complex (cell phone)                               | 16          | 25       | 24 hr. |
+| Advanced (computer)                                | 22          | 30       | 60 hr. |
 
 **Special:** A character without an electrical tool kit takes a –4
 penalty on Craft (electronic) checks.
@@ -1589,58 +706,12 @@ the kind of device he or she wants to construct; then the Gamemaster
 decides if the device is simple, moderate, complex, or advanced compared
 to current technology.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Type of Scratch-Built Mechanical Device (Examples)</h3></td>
-<td><h3>Purchase DC</h3></td>
-<td><h3>Craft DC</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Simple (tripwire trap)</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-<td><p>1 hr</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate (engine component, light armor)</p></td>
-<td><p>12</p></td>
-<td><p>20</p></td>
-<td><p>12 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Complex (automobile engine, 9mm autoloader handgun)</p></td>
-<td><p>16</p></td>
-<td><p>25</p></td>
-<td><p>24 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Advanced (jet engine)</p></td>
-<td><p>20</p></td>
-<td><p>30</p></td>
-<td><p>60 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Scratch-Built Mechanical Device (Examples)  | Purchase DC | Craft DC | Time   |
+|-----------------------------------------------------|-------------|----------|--------|
+| Simple (tripwire trap)                              | 5           | 15       | 1 hr   |
+| Moderate (engine component, light armor)            | 12          | 20       | 12 hr. |
+| Complex (automobile engine, 9mm autoloader handgun) | 16          | 25       | 24 hr. |
+| Advanced (jet engine)                               | 20          | 30       | 60 hr. |
 
 **Special:** A character without a mechanical tool kit takes a –4
 penalty on Craft (mechanical) checks.
@@ -1659,58 +730,12 @@ The Craft (pharmaceutical) check is based on the severity of the disease
 to be countered as measured by the DC of the Fortitude save needed to
 resist it.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Disease Fortitude Save DC</strong></p></td>
-<td><h3>Purchase DC</h3></td>
-<td><p><strong>Craft DC</strong></p></td>
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>14 or lower</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>15–18</p></td>
-<td><p>10</p></td>
-<td><p>20</p></td>
-<td><p>3 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>19–22</p></td>
-<td><p>15</p></td>
-<td><p>25</p></td>
-<td><p>6 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>23 or higher</p></td>
-<td><p>20</p></td>
-<td><p>30</p></td>
-<td><p>12 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Disease Fortitude Save DC | Purchase DC | Craft DC | Time   |
+|---------------------------|-------------|----------|--------|
+| 14 or lower               | 5           | 15       | 1 hr.  |
+| 15–18                     | 10          | 20       | 3 hr.  |
+| 19–22                     | 15          | 25       | 6 hr.  |
+| 23 or higher              | 20          | 30       | 12 hr. |
 
 **Special:** A character without a pharmacist kit takes a –4 penalty on
 Craft (pharmaceutical) checks.
@@ -1725,59 +750,12 @@ structures from scratch, including bookcases, desks, walls, houses, and
 so forth, and includes such handyman skills as plumbing, house painting,
 drywall, laying cement, and building cabinets.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type of Scratch-Built Structure
-(Examples)</strong></p></td>
-<td><h3>Purchase DC</h3></td>
-<td><p><strong>Craft DC</strong></p></td>
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Simple (bookcase, false wall)</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-<td><p>12 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate (catapult, shed, house deck)</p></td>
-<td><p>10</p></td>
-<td><p>20</p></td>
-<td><p>24 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Complex (bunker, domed ceiling)</p></td>
-<td><p>15</p></td>
-<td><p>25</p></td>
-<td><p>60 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Advanced (house)</p></td>
-<td><p>20</p></td>
-<td><p>30</p></td>
-<td><p>600 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Scratch-Built Structure (Examples) | Purchase DC | Craft DC | Time    |
+|--------------------------------------------|-------------|----------|---------|
+| Simple (bookcase, false wall)              | 5           | 15       | 12 hr.  |
+| Moderate (catapult, shed, house deck)      | 10          | 20       | 24 hr.  |
+| Complex (bunker, domed ceiling)            | 15          | 25       | 60 hr.  |
+| Advanced (house)                           | 20          | 30       | 600 hr. |
 
 When building a structure from scratch, the character describes the kind
 of structure he or she wants to construct; then the Gamemaster decides
@@ -1804,46 +782,13 @@ Unless the effort is particularly elaborate or the character must
 acquire an expensive piece of equipment, the basic components have a
 purchase DC of 5.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Skill Check Result</h3></td>
-<td><h3>Effort Achieved</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9 or lower</p></td>
-<td><p>Untalented amateur</p></td>
-</tr>
-<tr class="even">
-<td><p>10–19</p></td>
-<td><p>Talented amateur</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–24</p></td>
-<td><p>Professional</p></td>
-</tr>
-<tr class="even">
-<td><p>25–30</p></td>
-<td><p>Expert</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>31 or higher</p></td>
-<td><p>Master</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Skill Check Result | Effort Achieved    |
+|--------------------|--------------------|
+| 9 or lower         | Untalented amateur |
+| 10–19              | Talented amateur   |
+| 20–24              | Professional       |
+| 25–30              | Expert             |
+| 31 or higher       | Master             |
 
 Creating a work of visual art requires at least a full-round action, but
 usually takes an hour, a day, or more, depending on the scope of the
@@ -1863,46 +808,13 @@ When creating a work of writing, the player simply makes a Craft
 
 No Wealth check is necessary to use this Craft skill.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Skill Check Result</h3></td>
-<td><h3>Effort Achieved</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9 or lower</p></td>
-<td><p>Untalented amateur</p></td>
-</tr>
-<tr class="even">
-<td><p>10–19</p></td>
-<td><p>Talented amateur</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–24</p></td>
-<td><p>Professional</p></td>
-</tr>
-<tr class="even">
-<td><p>25–30</p></td>
-<td><p>Expert</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>31 or higher</p></td>
-<td><p>Master</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Skill Check Result | Effort Achieved    |
+|--------------------|--------------------|
+| 9 or lower         | Untalented amateur |
+| 10–19              | Talented amateur   |
+| 20–24              | Professional       |
+| 25–30              | Expert             |
+| 31 or higher       | Master             |
 
 Creating a work of writing requires at least 1 hour, but usually takes a
 day, a week, or more, depending on the scope of the project.
@@ -2025,27 +937,19 @@ checks.
 **Time:** Diplomacy is at least a full-round action. The GM may
 determine that some negotiations require a longer period of time.
 
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
+| Attitude             | Means                                                                                                                                                                                                                         | Possible Actions                                   |            |              |             |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|------------|--------------|-------------|
-| **Attitude**         | **Means**                                                                                                                                                                                                                     | **Possible Actions**                               |            |              |             |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 | Hostile              | Will take risks to hurt or avoid you                                                                                                                                                                                          | Attack, interfere, berate, flee                    |            |              |             |
 | Unfriendly           | Wishes you ill                                                                                                                                                                                                                | Mislead, gossip, avoid, watch suspiciously, insult |            |              |             |
 | Indifferent          | Doesn’t much care                                                                                                                                                                                                             | Act as socially expected                           |            |              |             |
 | Friendly             | Wishes you well                                                                                                                                                                                                               | Chat, advise, offer limited help, advocate         |            |              |             |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 | Helpful              | Will take risks to help you                                                                                                                                                                                                   | Protect, back up, heal, aid                        |            |              |             |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 | **Initial Attitude** | **<sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup> New Attitude </sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup>** |                                                    |            |              |             |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 |                      | **Hostile**                                                                                                                                                                                                                   | **Unf.**                                           | **Indif.** | **Friendly** | **Helpful** |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 | **Hostile**          | 19 or less                                                                                                                                                                                                                    | 20                                                 | 25         | 35           | 45          |
 | **Unfriendly**       | 4 or less                                                                                                                                                                                                                     | 5                                                  | 15         | 25           | 35          |
 | **Indifferent**      | —                                                                                                                                                                                                                             | 0 or less                                          | 1          | 15           | 25          |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 | **Friendly**         | —                                                                                                                                                                                                                             | —                                                  | 0 or less  | 1            | 15          |
-|                      |                                                                                                                                                                                                                               |                                                    |            |              |             |
 
 ### Bribery and Diplomacy
 
@@ -2070,42 +974,12 @@ succeeds in the check, he or she gains a +2 bonus on the Diplomacy
 check. For every point by which the hero beats the DC, increase the
 bonus by +1 (to a total maximum bonus of +10).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Bribe Target</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bouncer</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>Bureaucrat</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Informant</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Police officer</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Bribe Target   | Purchase DC |
+|----------------|-------------|
+| Bouncer        | 6           |
+| Bureaucrat     | 10          |
+| Informant      | 7           |
+| Police officer | 10          |
 
 Disable Device (Int) Trained Only
 
@@ -2117,46 +991,13 @@ combination locks, and bypass electronic locks. The character must have
 a lockpick set (for a mechanical lock) or an electrical tool kit (for an
 electronic lock). The DC depends on the quality of the lock.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Lock Type (Example)</h3></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Cheap (briefcase lock)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Average (home deadbolt)</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>High quality (business deadbolt)</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>High security (branch bank vault)</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ultra-high security (bank headquarters vault)</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Lock Type (Example)                           | DC |
+|-----------------------------------------------|----|
+| Cheap (briefcase lock)                        | 20 |
+| Average (home deadbolt)                       | 25 |
+| High quality (business deadbolt)              | 30 |
+| High security (branch bank vault)             | 40 |
+| Ultra-high security (bank headquarters vault) | 50 |
 
 **Disable Security Device:** A character can disable a security device,
 such as an electric fence, motion sensor, or security camera. The
@@ -2168,46 +1009,13 @@ When disabling a monitored device, the character can prevent his or her
 tampering from being noticed. Doing so requires 10 minutes and an
 electrical tool kit, and increases the DC of the check by +10.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Device Type (Example)</h3></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Cheap (home door alarm)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Average (store security camera)</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>High quality (art museum motion detector)</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>High security (bank vault alarm)</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ultrahigh security (motion detector at Area 51)</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Device Type (Example)                           | DC |
+|-------------------------------------------------|----|
+| Cheap (home door alarm)                         | 20 |
+| Average (store security camera)                 | 25 |
+| High quality (art museum motion detector)       | 30 |
+| High security (bank vault alarm)                | 35 |
+| Ultrahigh security (motion detector at Area 51) | 40 |
 
 **Traps and Sabotage:** Disabling (or rigging or jamming) a simple
 mechanical device has a DC of 10. More intricate and complex devices
@@ -2264,89 +1072,25 @@ their Spot checks.)
 The effectiveness of the character’s disguise depends in part on how
 much the character is attempting to change his or her appearance.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Disguise</h3></td>
-<td><h3>Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Minor details only</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td><p>Appropriate uniform or costume</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Disguised as different sex</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Disguised as different age category</p></td>
-<td><p>–2 <strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Per step of difference between the character’s age category and
-the disguised age category (child, young adult, adult, middle age, old,
-or venerable).</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Disguise                            | Modifier        |
+|-------------------------------------|-----------------|
+| Minor details only                  | +5              |
+| Appropriate uniform or costume      | +2              |
+| Disguised as different sex          | –2              |
+| Disguised as different age category | –2 <sup>1</sup> |
+
+1 Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).
 
 If the character is impersonating a particular individual, those who
 know what that person looks like automatically get to make Spot checks.
 Furthermore, they get a bonus on their Spot checks.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Familiarity</h3></td>
-<td><h3>Bonus</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Recognizes on sight</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td><p>Friend or associate</p></td>
-<td><p>+6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Close friend</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Intimate</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Familiarity         | Bonus |
+|---------------------|-------|
+| Recognizes on sight | +4    |
+| Friend or associate | +6    |
+| Close friend        | +8    |
+| Intimate            | +10   |
 
 Usually, an individual makes a Spot check to detect a disguise
 immediately upon meeting the character and each hour thereafter. If the
@@ -2406,46 +1150,13 @@ Escape Artist (Dex) Armor Penalty
 **Check:** Make a check to escape from restraints or to squeeze through
 a tight space.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Restraint</h3></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ropes</p></td>
-<td><p>Opponent’s Dex check +20</p></td>
-</tr>
-<tr class="even">
-<td><p>Net</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><p>Handcuffs</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="even">
-<td><p>Tight space</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Grappler</p></td>
-<td><p>Opponent’s grapple check</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Restraint   | DC                       |
+|-------------|--------------------------|
+| Ropes       | Opponent’s Dex check +20 |
+| Net         | 20                       |
+| Handcuffs   | 35                       |
+| Tight space | 30                       |
+| Grappler    | Opponent’s grapple check |
 
 For ropes, a character’s Escape Artist check is opposed by the Dexterity
 check result of the opponent who tied the bonds. Since it’s easier to
@@ -2492,100 +1203,20 @@ character’s degree of familiarity with it, and whether the character
 needs to reproduce the signature or handwriting of a specific
 individual, provide modifiers to the Forgery check, as shown below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Factor</h3></td>
-<td><h3>Check Modifier</h3></td>
-<td><h3>Time</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Document Type</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Simple (typed letter, business card)</p></td>
-<td><p>+0</p></td>
-<td><p>10 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Moderate (letterhead, business form)</p></td>
-<td><p>–2</p></td>
-<td><p>20 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Complex (stock certificate, driver’s license)</p></td>
-<td><p>–4</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Difficult (passport)</p></td>
-<td><p>–8</p></td>
-<td><p>4 hr.</p></td>
-</tr>
-<tr class="even">
-<td><p>Extreme (military/law enforcement ID)</p></td>
-<td><p>–16</p></td>
-<td><p>24 hr.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Familiarity</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Unfamiliar (seen once for less than a minute)</p></td>
-<td><p>–4</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fairly familiar (seen for several minutes)</p></td>
-<td><p>+0</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Quite familiar (on hand, or studied at leisure)</p></td>
-<td><p>+4</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Forger has produced other documents of same type</p></td>
-<td><p>+4</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Document includes specific signature</p></td>
-<td><p>–4</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Factor                                           | Check Modifier | Time    |
+|--------------------------------------------------|----------------|---------|
+| **Document Type**                                |                |         |
+| Simple (typed letter, business card)             | +0             | 10 min. |
+| Moderate (letterhead, business form)             | –2             | 20 min. |
+| Complex (stock certificate, driver’s license)    | –4             | 1 hr.   |
+| Difficult (passport)                             | –8             | 4 hr.   |
+| Extreme (military/law enforcement ID)            | –16            | 24 hr.  |
+| **Familiarity**                                  |                |         |
+| Unfamiliar (seen once for less than a minute)    | –4             |         |
+| Fairly familiar (seen for several minutes)       | +0             |         |
+| Quite familiar (on hand, or studied at leisure)  | +4             |         |
+| Forger has produced other documents of same type | +4             |         |
+| Document includes specific signature             | –4             |         |
 
 Some documents require security or authorization codes, whether
 authentic ones or additional forgeries. The GM makes the character’s
@@ -2600,58 +1231,15 @@ higher than the original Forgery check, the document is determined to be
 fraudulent. The examiner gains bonuses or penalties on his or her check
 as given in the table below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Condition</h3></td>
-<td><h3>Examiner’s Check Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Type of document unknown to examiner</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="even">
-<td><p>Type of document somewhat known to examiner</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Type of document well known to examiner</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Document is put through additional tests
-<strong><sup>1</sup></strong></p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Examiner only casually reviews the document
-<strong><sup>1</sup></strong></p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1<sup> </sup>Cumulative with any of the first three conditions on
-the table. Apply this modifier along with one of the other three
-whenever appropriate.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Condition                                                | Examiner’s Check Modifier |
+|----------------------------------------------------------|---------------------------|
+| Type of document unknown to examiner                     | –4                        |
+| Type of document somewhat known to examiner              | –2                        |
+| Type of document well known to examiner                  | +0                        |
+| Document is put through additional tests <sup>1</sup>    | +4                        |
+| Examiner only casually reviews the document <sup>1</sup> | –2                        |
+
+1Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
 
 A document that contradicts procedure, orders, or previous knowledge, or
 one that requires the examiner to relinquish a possession or a piece of
@@ -2709,46 +1297,13 @@ an increase to his or her Wealth bonus. The amount of the increase
 depends on the difference between the character’s check result and the
 next highest result among the other participants.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Check Result Difference</h3></td>
-<td><h3>Wealth Bonus Increase</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1–9</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>10–19</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–29</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>30­–39</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>40 or more</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Check Result Difference | Wealth Bonus Increase |
+|-------------------------|-----------------------|
+| 1–9                     | +1                    |
+| 10–19                   | +2                    |
+| 20–29                   | +3                    |
+| 30­–39                  | +4                    |
+| 40 or more              | +5                    |
 
 **Try Again?:** No, unless the character wants to put up another stake.
 

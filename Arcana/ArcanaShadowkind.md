@@ -37,182 +37,47 @@ of Shadow.
 
 #### TABLE: SKILL POINTS/LEVEL FOR SHADOWKIND
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Strong</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fast</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Tough</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Smart</p></td>
-<td><p>8 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Dedicated</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Charismatic</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Advanced Class</strong></p></td>
-<td><p><strong>Skill Points Per Level</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Soldier</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Martial Artist</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gunslinger</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Infiltrator</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Daredevil</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Bodyguard</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Field Scientist</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Techie</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Field Medic</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Investigator</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Personality</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Negotiator</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Acolyte</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Arcane Arranger</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Archaic Weaponsmaster</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Glamourist</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mage</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Mystic</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Occultist</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Shadow Hunter</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Shadowjack</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Shadow Slayer</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Speed Demon</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Street Warrior</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Swashbuckler</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Techno Mage</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Thrasher</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Wildlord</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><h4>Prestige Class</h4></td>
-<td><h4>Skill Points Per Level</h4></td>
-</tr>
-<tr class="even">
-<td><p>Archmage</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Artificer</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Ecclesiarch</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Holy/Unholy Knight</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Strong                | 2 + Int modifier           |
+|-----------------------|----------------------------|
+| Fast                  | 4 + Int modifier           |
+| Tough                 | 2 + Int modifier           |
+| Smart                 | 8 + Int modifier           |
+| Dedicated             | 4 + Int modifier           |
+| Charismatic           | 6 + Int modifier           |
+| **Advanced Class**    | **Skill Points Per Level** |
+| Soldier               | 4 + Int modifier           |
+| Martial Artist        | 2 + Int modifier           |
+| Gunslinger            | 4 + Int modifier           |
+| Infiltrator           | 6 + Int modifier           |
+| Daredevil             | 4 + Int modifier           |
+| Bodyguard             | 2 + Int modifier           |
+| Field Scientist       | 6 + Int modifier           |
+| Techie                | 6 + Int modifier           |
+| Field Medic           | 4 + Int modifier           |
+| Investigator          | 4 + Int modifier           |
+| Personality           | 4 + Int modifier           |
+| Negotiator            | 4 + Int modifier           |
+| Acolyte               | 4 + Int modifier           |
+| Arcane Arranger       | 6 + Int modifier           |
+| Archaic Weaponsmaster | 2 + Int modifier           |
+| Glamourist            | 4 + Int modifier           |
+| Mage                  | 6 + Int modifier           |
+| Mystic                | 4 + Int modifier           |
+| Occultist             | 4 + Int modifier           |
+| Shadow Hunter         | 4 + Int modifier           |
+| Shadowjack            | 6 + Int modifier           |
+| Shadow Slayer         | 2 + Int modifier           |
+| Speed Demon           | 4 + Int modifier           |
+| Street Warrior        | 4 + Int modifier           |
+| Swashbuckler          | 4 + Int modifier           |
+| Techno Mage           | 6 + Int modifier           |
+| Thrasher              | 2 + Int modifier           |
+| Wildlord              | 4 + Int modifier           |
+| Prestige Class        | Skill Points Per Level     |
+| Archmage              | 6 + Int modifier           |
+| Artificer             | 6 + Int modifier           |
+| Ecclesiarch           | 4 + Int modifier           |
+| Holy/Unholy Knight    | 4 + Int modifier           |
 
 ## Skill Points Per Level
 
@@ -908,119 +773,24 @@ one), Speak Draconic, Speak Language (any one).
 
 **Level Adjustment:** +3.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>TABLE: HALF-DRAGONS</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p><strong>Breath Weapon<sup>1</sup></strong></p></td>
-<td><p><strong>Energy Immunity</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Black</p></td>
-<td><p>60-foot line of acid</p>
-<p>(6d4 points of acid damage; Reflex half)</p></td>
-<td><p>Acid</p></td>
-</tr>
-<tr class="odd">
-<td><p>Blue</p></td>
-<td><p>60-foot line of electricity</p>
-<p>(6d8 points of electricity damage; Reflex half)</p></td>
-<td><p>Electricity</p></td>
-</tr>
-<tr class="even">
-<td><p>Brass</p></td>
-<td><p>30-foot cone of <em>sleep </em>gas</p>
-<p>(fall asleep for 1d6 rounds; Will negates)</p></td>
-<td><p>Fire<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Bronze</p></td>
-<td><p>30-foot cone of <em>repulsion </em>gas</p>
-<p>(move away for 1d6 rounds; Will negates)</p></td>
-<td><p>Electricity</p></td>
-</tr>
-<tr class="even">
-<td><p>Copper</p></td>
-<td><p>30-foot cone of <em>slow </em>gas</p>
-<p>(slowed, as the spell, for 1d6 rounds; Will negates)</p></td>
-<td><p>Acid</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gold</p></td>
-<td><p>30-foot cone of weaknening gas</p>
-<p>(1d2 temporary Str damage; Fortitude negates)</p></td>
-<td><p>Fire<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Green</p></td>
-<td><p>30-foot cone of corrosive gas</p>
-<p>(6d6 points of acid damage; Reflex half)</p></td>
-<td><p>Acid</p></td>
-</tr>
-<tr class="odd">
-<td><p>Red</p></td>
-<td><p>30-foot cone of fire</p>
-<p>(6d10 points of fire damage; Reflex half)</p></td>
-<td><p>Fire<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Silver</p></td>
-<td><p>30-foot cone of paralyzing gas</p>
-<p>(paralyzed for 1d6 rounds; Fortitude negates)</p></td>
-<td><p>Cold<strong><sup>3</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>White</p></td>
-<td><p>30-foot cone of cold</p>
-<p>(6d6 points of cold damage; Reflex half)</p></td>
-<td><p>Cold<strong><sup>3</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>1 </strong><em>All lines are 5 feet high, 5 feet wide,
-and 60 feet long. All cones are 30 feet long and 30 feet wide at the
-base.</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>2 </strong><em>Dragons with fire immunity take 50% more
-damage against cold-based attacks.</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3 </strong><em>Dragons with cold immunity take 50% more
-damage against fire-based attacks.</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**TABLE: HALF-DRAGONS**
+
+| Type   | Breath Weapon<sup>1</sup>                                                       | Energy Immunity  |
+|--------|---------------------------------------------------------------------------------|------------------|
+| Black  | 60-foot line of acid (6d4 points of acid damage; Reflex half)                   | Acid             |
+| Blue   | 60-foot line of electricity (6d8 points of electricity damage; Reflex half)     | Electricity      |
+| Brass  | 30-foot cone of *sleep *gas (fall asleep for 1d6 rounds; Will negates)          | Fire<sup>2</sup> |
+| Bronze | 30-foot cone of *repulsion *gas (move away for 1d6 rounds; Will negates)        | Electricity      |
+| Copper | 30-foot cone of *slow *gas (slowed, as the spell, for 1d6 rounds; Will negates) | Acid             |
+| Gold   | 30-foot cone of weaknening gas (1d2 temporary Str damage; Fortitude negates)    | Fire<sup>2</sup> |
+| Green  | 30-foot cone of corrosive gas (6d6 points of acid damage; Reflex half)          | Acid             |
+| Red    | 30-foot cone of fire (6d10 points of fire damage; Reflex half)                  | Fire<sup>2</sup> |
+| Silver | 30-foot cone of paralyzing gas (paralyzed for 1d6 rounds; Fortitude negates)    | Cold<sup>3</sup> |
+| White  | 30-foot cone of cold (6d6 points of cold damage; Reflex half)                   | Cold<sup>3</sup> |
+
+1 ***All lines are 5 feet high, 5 feet wide, and 60 feet long. All cones are 30 feet long and 30 feet wide at the base.
+2 ***Dragons with fire immunity take 50% more damage against cold-based attacks.
+3 ***Dragons with cold immunity take 50% more damage against fire-based attacks.
 
 ###### HALF-OGRE
 
@@ -1220,145 +990,30 @@ usually for the purpose of doing business with one another.
 
 **TABLE: LANGUAGES OF SHADOW BY FAMILY**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Language</h4></td>
-<td><h4>Typical Speakers</h4></td>
-<td><h4>Alphabet/Family</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Abyssal</p></td>
-<td><p>Outsiders with allegiances to chaos, evil</p></td>
-<td><p>Fiendish</p></td>
-</tr>
-<tr class="even">
-<td><p>Aquan</p></td>
-<td><p>Water-based creatures</p></td>
-<td><p>Elven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Auran</p></td>
-<td><p>Air-based creatures</p></td>
-<td><p>Draconic</p></td>
-</tr>
-<tr class="even">
-<td><p>Celestial</p></td>
-<td><p>Creatures with good allegiance</p></td>
-<td><p>Celestial</p></td>
-</tr>
-<tr class="odd">
-<td><p>Common</p></td>
-<td><p>Various Shadowkind species</p></td>
-<td><p>Common</p></td>
-</tr>
-<tr class="even">
-<td><p>Draconic</p></td>
-<td><p>Dragons and other reptilian creatures</p></td>
-<td><p>Draconic</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Drow Sign Language</p></td>
-<td><p>Drow</p></td>
-<td><p>None*</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Dwarven</p></td>
-<td><p>Dwarves</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Elven</p></td>
-<td><p>Elves, drow, and half-elves</p></td>
-<td><p>Elven</p></td>
-</tr>
-<tr class="even">
-<td><p>Giant</p></td>
-<td><p>Giants, trolls, ogres</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gnoll</p></td>
-<td><p>Gnolls</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="even">
-<td><p>Gnome</p></td>
-<td><p>Gnomes</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Goblin</p></td>
-<td><p>Goblins, bugbears, and other goblinoids</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="even">
-<td><p>Halfling</p></td>
-<td><p>Halflings</p></td>
-<td><p>Elven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ignan</p></td>
-<td><p>Fire-based or fire-worshiping creatures</p></td>
-<td><p>Draconic</p></td>
-</tr>
-<tr class="even">
-<td><p>Infernal</p></td>
-<td><p>Outsiders with evil, law allegiances</p></td>
-<td><p>Fiendish</p></td>
-</tr>
-<tr class="odd">
-<td><p>Orc</p></td>
-<td><p>Orcs and half-orcs</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="even">
-<td><p>Sylvan</p></td>
-<td><p>Forest-dwelling creatures and fey</p></td>
-<td><p>Elven</p></td>
-</tr>
-<tr class="odd">
-<td><p>Terran</p></td>
-<td><p>Earth-based creatures</p></td>
-<td><p>Dwarven</p></td>
-</tr>
-<tr class="even">
-<td><p>Undertongue</p></td>
-<td><p>Subterranean creatures</p></td>
-<td><p>Elven</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>*<em>See the Footnote on Sign Languages.</em></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Language           | Typical Speakers                          | Alphabet/Family |
+|--------------------|-------------------------------------------|-----------------|
+| Abyssal            | Outsiders with allegiances to chaos, evil | Fiendish        |
+| Aquan              | Water-based creatures                     | Elven           |
+| Auran              | Air-based creatures                       | Draconic        |
+| Celestial          | Creatures with good allegiance            | Celestial       |
+| Common             | Various Shadowkind species                | Common          |
+| Draconic           | Dragons and other reptilian creatures     | Draconic        |
+| Drow Sign Language | Drow                                      | None*           |
+| Dwarven            | Dwarves                                   | Dwarven         |
+| Elven              | Elves, drow, and half-elves               | Elven           |
+| Giant              | Giants, trolls, ogres                     | Dwarven         |
+| Gnoll              | Gnolls                                    | Dwarven         |
+| Gnome              | Gnomes                                    | Dwarven         |
+| Goblin             | Goblins, bugbears, and other goblinoids   | Dwarven         |
+| Halfling           | Halflings                                 | Elven           |
+| Ignan              | Fire-based or fire-worshiping creatures   | Draconic        |
+| Infernal           | Outsiders with evil, law allegiances      | Fiendish        |
+| Orc                | Orcs and half-orcs                        | Dwarven         |
+| Sylvan             | Forest-dwelling creatures and fey         | Elven           |
+| Terran             | Earth-based creatures                     | Dwarven         |
+| Undertongue        | Subterranean creatures                    | Elven           |
+
+See the Footnote on Sign Languages.
 
 ######## Footnote on Sign Languages
 

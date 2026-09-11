@@ -34,416 +34,87 @@ cannot exceed the total MP the creature gains from drawbacks. A creature
 may still have unspent MP after choosing beneficial mutations, however.
 These unspent MP can be spent on new mutations at a later time.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Mutations</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d%</strong></p></td>
-<td><p><strong>Mutation Type </strong></p></td>
-<td><h4>MP Cost</h4></td>
-</tr>
-<tr class="even">
-<td><p>01–02</p></td>
-<td><p>Extra Digits Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>03–04</p></td>
-<td><p>Fins Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>05–06</p></td>
-<td><p>Forked Tongue Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>07–08</p></td>
-<td><p>Horns Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>09–10</p></td>
-<td><p>Scaly Skin Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>11–12</p></td>
-<td><p>Thin Fur Coat Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>13–14</p></td>
-<td><p>Unnatural Eyes Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>15–16</p></td>
-<td><p>Unnatural Hair Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>17–18</p></td>
-<td><p>Unnatural Skin Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>19–20</p></td>
-<td><p>Unnatural Voice Cosmetic</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>21–22</p></td>
-<td><p>Acidic Saliva Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>23–24</p></td>
-<td><p>Adrenaline Jolt Minor</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>25–26</p></td>
-<td><p>Claws Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>27–28</p></td>
-<td><p>Darkvision Minor</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>29–30</p></td>
-<td><p>Energy Diffusion Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>31–32</p></td>
-<td><p>Fangs Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>33–34</p></td>
-<td><p>Force Barrier Minor</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>35–36</p></td>
-<td><p>Gills Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>37–38</p></td>
-<td><p>Great Horns Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>39–40</p></td>
-<td><p>Hypersensitivity Minor</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>41–42</p></td>
-<td><p>Leaper Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>43–44</p></td>
-<td><p>Scaly Armor Minor</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>45–46</p></td>
-<td><p>Scent Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>47–48</p></td>
-<td><p>Second Wind Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>49–50</p></td>
-<td><p>Smokescreen Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>51–52</p></td>
-<td><p>Tail Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>53–54</p></td>
-<td><p>Thick Fur Coat Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>55–56</p></td>
-<td><p>Ultra Immune System Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>57–58</p></td>
-<td><p>Wall Crawler Minor</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>59–60</p></td>
-<td><p>Webbed Digits Minor</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>61–62</p></td>
-<td><p>Echolocator Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>63–64</p></td>
-<td><p>Elasticity Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>65–66</p></td>
-<td><p>Energy Absorption Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>67–68</p></td>
-<td><p>Enlarged Form Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>69–70</p></td>
-<td><p>Exoskeleton Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>71–72</p></td>
-<td><p>Extra Arms Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>73–74</p></td>
-<td><p>Gazing Eye Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>75–76</p></td>
-<td><p>Pheromone Attraction Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>77–78</p></td>
-<td><p>Prehensile Tail Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>79–80</p></td>
-<td><p>Prickly Pear Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td><p>81–82</p></td>
-<td><p>Radioactive Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>83–84</p></td>
-<td><p>Skeletal Reinforcement Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>85–86</p></td>
-<td><p>Stinger Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>87–88</p></td>
-<td><p>Telekinetic Mind Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>89–90</p></td>
-<td><p>Telepathy Major</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>91–92</p></td>
-<td><p>Tentacle Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>93–94</p></td>
-<td><p>Venomous Bite Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>95–96</p></td>
-<td><p>Vexing Voice Major</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td><p>97–98</p></td>
-<td><p>Wings Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>99–100</p></td>
-<td><p>X-Ray Vision Major</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Table: Drawbacks</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>d%</strong></p></td>
-<td><p><strong>Drawback </strong></p></td>
-<td><h4>MP Value</h4></td>
-</tr>
-<tr class="odd">
-<td><p>01–05</p></td>
-<td><p>Ability Decay<strong><sup>1</sup></strong></p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td><p>06–10</p></td>
-<td><p>Blood Hunger</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>11–15</p></td>
-<td><p>Brittle Bones</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td><p>16–20</p></td>
-<td><p>Combat Fear</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>21–25</p></td>
-<td><p>Cybernetic Dependency</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>26–30</p></td>
-<td><p>Festering Sores</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>31–35</p></td>
-<td><p>Frailty</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>36–40</p></td>
-<td><p>Heat/Cold Susceptibility</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>41–45</p></td>
-<td><p>Lethargy</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>46–50</p></td>
-<td><p>Light Sensitivity</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>51–55</p></td>
-<td><p>Lost Arm</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>56–60</p></td>
-<td><p>Mindslave</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>61–65</p></td>
-<td><p>Neutrad Dependency</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>66–70</p></td>
-<td><p>Pheromone Repulsion</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>71–75</p></td>
-<td><p>Poisonous Blood</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>76–80</p></td>
-<td><p>Rapid Aging</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>81–85</p></td>
-<td><p>Reduced Speed<strong><sup>1</sup></strong></p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>86–90</p></td>
-<td><p>Thin Skin</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>91–95</p></td>
-<td><p>Ultraviolet Allergy</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>96–100</p></td>
-<td><p>Weak Immune System</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 You may take this drawback multiple times. Its effects
-stack.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Mutations**
+
+| d%     | Mutation Type                | MP Cost |
+|--------|------------------------------|---------|
+| 01–02  | Extra Digits Cosmetic        | 0       |
+| 03–04  | Fins Cosmetic                | 0       |
+| 05–06  | Forked Tongue Cosmetic       | 0       |
+| 07–08  | Horns Cosmetic               | 0       |
+| 09–10  | Scaly Skin Cosmetic          | 0       |
+| 11–12  | Thin Fur Coat Cosmetic       | 0       |
+| 13–14  | Unnatural Eyes Cosmetic      | 0       |
+| 15–16  | Unnatural Hair Cosmetic      | 0       |
+| 17–18  | Unnatural Skin Cosmetic      | 0       |
+| 19–20  | Unnatural Voice Cosmetic     | 0       |
+| 21–22  | Acidic Saliva Minor          | 1       |
+| 23–24  | Adrenaline Jolt Minor        | 3       |
+| 25–26  | Claws Minor                  | 1       |
+| 27–28  | Darkvision Minor             | 3       |
+| 29–30  | Energy Diffusion Minor       | 2       |
+| 31–32  | Fangs Minor                  | 1       |
+| 33–34  | Force Barrier Minor          | 3       |
+| 35–36  | Gills Minor                  | 2       |
+| 37–38  | Great Horns Minor            | 1       |
+| 39–40  | Hypersensitivity Minor       | 3       |
+| 41–42  | Leaper Minor                 | 1       |
+| 43–44  | Scaly Armor Minor            | 3       |
+| 45–46  | Scent Minor                  | 2       |
+| 47–48  | Second Wind Minor            | 2       |
+| 49–50  | Smokescreen Minor            | 1       |
+| 51–52  | Tail Minor                   | 1       |
+| 53–54  | Thick Fur Coat Minor         | 1       |
+| 55–56  | Ultra Immune System Minor    | 2       |
+| 57–58  | Wall Crawler Minor           | 2       |
+| 59–60  | Webbed Digits Minor          | 1       |
+| 61–62  | Echolocator Major            | 5       |
+| 63–64  | Elasticity Major             | 5       |
+| 65–66  | Energy Absorption Major      | 4       |
+| 67–68  | Enlarged Form Major          | 6       |
+| 69–70  | Exoskeleton Major            | 5       |
+| 71–72  | Extra Arms Major             | 6       |
+| 73–74  | Gazing Eye Major             | 4       |
+| 75–76  | Pheromone Attraction Major   | 6       |
+| 77–78  | Prehensile Tail Major        | 4       |
+| 79–80  | Prickly Pear Major           | 4       |
+| 81–82  | Radioactive Major            | 5       |
+| 83–84  | Skeletal Reinforcement Major | 5       |
+| 85–86  | Stinger Major                | 4       |
+| 87–88  | Telekinetic Mind Major       | 5       |
+| 89–90  | Telepathy Major              | 5       |
+| 91–92  | Tentacle Major               | 6       |
+| 93–94  | Venomous Bite Major          | 4       |
+| 95–96  | Vexing Voice Major           | 4       |
+| 97–98  | Wings Major                  | 6       |
+| 99–100 | X-Ray Vision Major           | 6       |
+
+**Table: Drawbacks**
+
+| d%     | Drawback                  | MP Value |
+|--------|---------------------------|----------|
+| 01–05  | Ability Decay<sup>1</sup> | 4        |
+| 06–10  | Blood Hunger              | 1        |
+| 11–15  | Brittle Bones             | 4        |
+| 16–20  | Combat Fear               | 4        |
+| 21–25  | Cybernetic Dependency     | 6        |
+| 26–30  | Festering Sores           | 2        |
+| 31–35  | Frailty                   | 3        |
+| 36–40  | Heat/Cold Susceptibility  | 1        |
+| 41–45  | Lethargy                  | 2        |
+| 46–50  | Light Sensitivity         | 1        |
+| 51–55  | Lost Arm                  | 3        |
+| 56–60  | Mindslave                 | 2        |
+| 61–65  | Neutrad Dependency        | 5        |
+| 66–70  | Pheromone Repulsion       | 1        |
+| 71–75  | Poisonous Blood           | 6        |
+| 76–80  | Rapid Aging               | 2        |
+| 81–85  | Reduced Speed<sup>1</sup> | 3        |
+| 86–90  | Thin Skin                 | 5        |
+| 91–95  | Ultraviolet Allergy       | 3        |
+| 96–100 | Weak Immune System        | 1        |
+
+1 You may take this drawback multiple times. Its effects stack.
 
 ## Hiding Physical Deformities
 

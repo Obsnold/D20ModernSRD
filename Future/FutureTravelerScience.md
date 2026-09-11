@@ -61,171 +61,21 @@ avoiding meteoroids.
 
 **Hit Points:** The meteoroid’s total hit points.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Meteoroid Encounters</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d% Roll </strong></p></td>
-<td><p><strong>Meteoroid Size </strong></p></td>
-<td><p><strong>Collision Damage<sup>1</sup></strong></p></td>
-<td><p><strong>Computer Use Check DC</strong></p></td>
-<td><p><strong>Pilot Check DC</strong></p></td>
-<td><h4>Defense</h4></td>
-<td><p><strong>Hardness</strong></p></td>
-<td><p><strong>Hit Points</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>01–75</p></td>
-<td><p>No meteoroid</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>76–80</p></td>
-<td><p>Diminutive</p></td>
-<td><p>1d6</p></td>
-<td><p>35</p></td>
-<td><p>5</p></td>
-<td><p>9</p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>81–85</p></td>
-<td><p>Tiny</p></td>
-<td><p>2d6</p></td>
-<td><p>30</p></td>
-<td><p>10</p></td>
-<td><p>7</p></td>
-<td><p>8</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>86–88</p></td>
-<td><p>Small</p></td>
-<td><p>3d6</p></td>
-<td><p>25</p></td>
-<td><p>15</p></td>
-<td><p>6</p></td>
-<td><p>8</p></td>
-<td><p>90</p></td>
-</tr>
-<tr class="odd">
-<td><p>89–91</p></td>
-<td><p>Medium-size</p></td>
-<td><p>4d6</p></td>
-<td><p>20</p></td>
-<td><p>20</p></td>
-<td><p>5</p></td>
-<td><p>8</p></td>
-<td><p>225</p></td>
-</tr>
-<tr class="even">
-<td><p>92–94</p></td>
-<td><p>Large</p></td>
-<td><p>1d6x5</p></td>
-<td><p>15</p></td>
-<td><p>25</p></td>
-<td><p>4</p></td>
-<td><p>8</p></td>
-<td><p>1,125</p></td>
-</tr>
-<tr class="odd">
-<td><p>95–97</p></td>
-<td><p>Huge</p></td>
-<td><p>3d6x5</p></td>
-<td><p>10</p></td>
-<td><p>30</p></td>
-<td><p>3</p></td>
-<td><p>8</p></td>
-<td><p>4,500</p></td>
-</tr>
-<tr class="even">
-<td><p>98–99</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>6d6x5</p></td>
-<td><p>5</p></td>
-<td><p>35</p></td>
-<td><p>1</p></td>
-<td><p>8</p></td>
-<td><p>9,000</p></td>
-</tr>
-<tr class="odd">
-<td><p>100</p></td>
-<td><p>Colossal</p></td>
-<td><p>12d6x5</p></td>
-<td><p>0</p></td>
-<td><p>40</p></td>
-<td><p>–3</p></td>
-<td><p>8</p></td>
-<td><p>36,000</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 Both the meteoroid and the object it strikes take damage from
-the collision.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Meteoroid Encounters**
+
+| d% Roll | Meteoroid Size | Collision Damage<sup>1</sup> | Computer Use Check DC | Pilot Check DC | Defense | Hardness | Hit Points |
+|---------|----------------|------------------------------|-----------------------|----------------|---------|----------|------------|
+| 01–75   | No meteoroid   | —                            | —                     | —              | —       | —        | —          |
+| 76–80   | Diminutive     | 1d6                          | 35                    | 5              | 9       | 8        | 15         |
+| 81–85   | Tiny           | 2d6                          | 30                    | 10             | 7       | 8        | 30         |
+| 86–88   | Small          | 3d6                          | 25                    | 15             | 6       | 8        | 90         |
+| 89–91   | Medium-size    | 4d6                          | 20                    | 20             | 5       | 8        | 225        |
+| 92–94   | Large          | 1d6x5                        | 15                    | 25             | 4       | 8        | 1,125      |
+| 95–97   | Huge           | 3d6x5                        | 10                    | 30             | 3       | 8        | 4,500      |
+| 98–99   | Gargantuan     | 6d6x5                        | 5                     | 35             | 1       | 8        | 9,000      |
+| 100     | Colossal       | 12d6x5                       | 0                     | 40             | –3      | 8        | 36,000     |
+
+1 Both the meteoroid and the object it strikes take damage from the collision.
 
 ### VACUUM EXPOSURE
 
@@ -330,241 +180,26 @@ closer together and farther apart based on their relative orbits around
 the sun, and the travel time between worlds may increase or decrease
 accordingly.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Realistic Travel Times</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>—————————————— Time to Destination
-——————————————</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Distance</h4></td>
-<td><p><strong>PL 5 Engine</strong></p></td>
-<td><p><strong>PL 6 Engine</strong></p></td>
-<td><p><strong>PL 7 Engine</strong></p></td>
-<td><p><strong>PL 8 Engine<sup>1</sup></strong></p></td>
-<td><p><strong>PL 9 Engine<sup>2</sup></strong></p></td>
-<td><p><strong>Light Speed</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to the Moon</p>
-<p>(240,000 mi.)</p></td>
-<td><p>40 hrs.</p></td>
-<td><p>8 hrs.</p></td>
-<td><p>2 hrs.</p></td>
-<td><p>1.96 min.</p></td>
-<td><p>9.2 sec.</p></td>
-<td><p>1.29 sec.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to the Sun (1 AU)</p>
-<p>(93,000,000 mi.)</p></td>
-<td><p>645.8 days</p></td>
-<td><p>129.2 days</p></td>
-<td><p>32.3 days</p></td>
-<td><p>12.6 hrs.</p></td>
-<td><p>59.3 min.</p></td>
-<td><p>8.3 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Mercury</p>
-<p>(56,950,000 mi.)</p></td>
-<td><p>395.5 days</p></td>
-<td><p>79.1 days</p></td>
-<td><p>19.8 days</p></td>
-<td><p>7.7 hrs.</p></td>
-<td><p>36.4 min.</p></td>
-<td><p>5.1 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Venus</p>
-<p>(26,040,000 mi.)</p></td>
-<td><p>180.8 days</p></td>
-<td><p>36.2 days</p></td>
-<td><p>9.04 days</p></td>
-<td><p>3.5 hrs.</p></td>
-<td><p>16.6 min.</p></td>
-<td><p>2.33 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Mars</p>
-<p>(48,360,000 mi.)</p></td>
-<td><p>335.8 days</p></td>
-<td><p>67.2 days</p></td>
-<td><p>16.8 days</p></td>
-<td><p>6.6 hrs.</p></td>
-<td><p>30.7 min.</p></td>
-<td><p>4.3 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Jupiter</p>
-<p>(390,600,000 mi.)</p></td>
-<td><p>7.43 years</p></td>
-<td><p>1.49 years</p></td>
-<td><p>135.6 days</p></td>
-<td><p>2.2 days</p></td>
-<td><p>4.2 hrs.</p></td>
-<td><p>35 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Saturn</p>
-<p>(704,940,000 mi.)</p></td>
-<td><p>13.4 years</p></td>
-<td><p>2.68 years</p></td>
-<td><p>244.8 days</p></td>
-<td><p>4 days</p></td>
-<td><p>7.5 hrs.</p></td>
-<td><p>63.2 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Uranus</p>
-<p>(1,687,020,000 mi.)</p></td>
-<td><p>32.1 years</p></td>
-<td><p>6.42 years</p></td>
-<td><p>1.6 years</p></td>
-<td><p>9.5 days</p></td>
-<td><p>18 hrs.</p></td>
-<td><p>2.52 hrs.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Neptune</p>
-<p>(2,715,600,000 mi.)</p></td>
-<td><p>51.67 years</p></td>
-<td><p>10.33 years</p></td>
-<td><p>2.58 years</p></td>
-<td><p>15.4 days</p></td>
-<td><p>1.2 days</p></td>
-<td><p>4.1 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Pluto</p>
-<p>(3,574,920,000 mi.)</p></td>
-<td><p>68.02 years</p></td>
-<td><p>13.6 years</p></td>
-<td><p>3.4 years</p></td>
-<td><p>20.2 days</p></td>
-<td><p>1.6 days</p></td>
-<td><p>5.33 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>1 light year</p>
-<p>(5,865,696,000,000 mi.)</p></td>
-<td><p>111,600 years</p></td>
-<td><p>22,320 years</p></td>
-<td><p>5,580 years</p></td>
-<td><p>91 years</p></td>
-<td><p>7.14 years</p></td>
-<td><p>1 year</p></td>
-</tr>
-<tr class="odd">
-<td><p>Sun to Alpha Centauri</p>
-<p>(4.4 light years)</p></td>
-<td><p>491,040 years</p></td>
-<td><p>98,208 years</p></td>
-<td><p>24,552 years</p></td>
-<td><p>400 years</p></td>
-<td><p>31.4 years</p></td>
-<td><p>4.4 years</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 A PL 8 engine can achieve a speed of 2,046 miles per second
-(1.1% of the speed of light).</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 A PL 9 engine can achieve a speed of 26,040 miles per second
-(14% of the speed of light).</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Realistic Travel Times**
+
+|                                          | —————————————— Time to Destination —————————————— |                 |                 |                             |                             |                 |
+|------------------------------------------|---------------------------------------------------|-----------------|-----------------|-----------------------------|-----------------------------|-----------------|
+| Distance                                 | **PL 5 Engine**                                   | **PL 6 Engine** | **PL 7 Engine** | **PL 8 Engine<sup>1</sup>** | **PL 9 Engine<sup>2</sup>** | **Light Speed** |
+| Earth to the Moon (240,000 mi.)          | 40 hrs.                                           | 8 hrs.          | 2 hrs.          | 1.96 min.                   | 9.2 sec.                    | 1.29 sec.       |
+| Earth to the Sun (1 AU) (93,000,000 mi.) | 645.8 days                                        | 129.2 days      | 32.3 days       | 12.6 hrs.                   | 59.3 min.                   | 8.3 min.        |
+| Earth to Mercury (56,950,000 mi.)        | 395.5 days                                        | 79.1 days       | 19.8 days       | 7.7 hrs.                    | 36.4 min.                   | 5.1 min.        |
+| Earth to Venus (26,040,000 mi.)          | 180.8 days                                        | 36.2 days       | 9.04 days       | 3.5 hrs.                    | 16.6 min.                   | 2.33 min.       |
+| Earth to Mars (48,360,000 mi.)           | 335.8 days                                        | 67.2 days       | 16.8 days       | 6.6 hrs.                    | 30.7 min.                   | 4.3 min.        |
+| Earth to Jupiter (390,600,000 mi.)       | 7.43 years                                        | 1.49 years      | 135.6 days      | 2.2 days                    | 4.2 hrs.                    | 35 min.         |
+| Earth to Saturn (704,940,000 mi.)        | 13.4 years                                        | 2.68 years      | 244.8 days      | 4 days                      | 7.5 hrs.                    | 63.2 min.       |
+| Earth to Uranus (1,687,020,000 mi.)      | 32.1 years                                        | 6.42 years      | 1.6 years       | 9.5 days                    | 18 hrs.                     | 2.52 hrs.       |
+| Earth to Neptune (2,715,600,000 mi.)     | 51.67 years                                       | 10.33 years     | 2.58 years      | 15.4 days                   | 1.2 days                    | 4.1 min.        |
+| Earth to Pluto (3,574,920,000 mi.)       | 68.02 years                                       | 13.6 years      | 3.4 years       | 20.2 days                   | 1.6 days                    | 5.33 min.       |
+| 1 light year (5,865,696,000,000 mi.)     | 111,600 years                                     | 22,320 years    | 5,580 years     | 91 years                    | 7.14 years                  | 1 year          |
+| Sun to Alpha Centauri (4.4 light years)  | 491,040 years                                     | 98,208 years    | 24,552 years    | 400 years                   | 31.4 years                  | 4.4 years       |
+
+1 A PL 8 engine can achieve a speed of 2,046 miles per second (1.1% of the speed of light).
+2 A PL 9 engine can achieve a speed of 26,040 miles per second (14% of the speed of light).
 
 ## TIME DILATION
 
@@ -591,106 +226,21 @@ hours (10 × 1.4) have passed outside the ship. However, if ten hours
 pass for those left behind, only 7.1 hours have passed aboard the ship
 (10 divided by 1.4).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Time Dilation</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Starship Speed (miles/second)</strong></p></td>
-<td><p><strong>AU per hour</strong></p></td>
-<td><p><strong>% Speed of Light</strong></p></td>
-<td><p><strong>Time Dilation</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>2,046</p></td>
-<td><p>0.18</p></td>
-<td><p>1.1%</p></td>
-<td><p>1.0003</p></td>
-</tr>
-<tr class="odd">
-<td><p>26,040</p></td>
-<td><p>1.0</p></td>
-<td><p>14%</p></td>
-<td><p>1.01</p></td>
-</tr>
-<tr class="even">
-<td><p>52,080</p></td>
-<td><p>2.0</p></td>
-<td><p>28%</p></td>
-<td><p>1.04</p></td>
-</tr>
-<tr class="odd">
-<td><p>78,120</p></td>
-<td><p>3.0</p></td>
-<td><p>42%</p></td>
-<td><p>1.1</p></td>
-</tr>
-<tr class="even">
-<td><p>104,160</p></td>
-<td><p>4.0</p></td>
-<td><p>56%</p></td>
-<td><p>1.2</p></td>
-</tr>
-<tr class="odd">
-<td><p>130,200</p></td>
-<td><p>5.0</p></td>
-<td><p>70%</p></td>
-<td><p>1.4</p></td>
-</tr>
-<tr class="even">
-<td><p>154,380</p></td>
-<td><p>6.0</p></td>
-<td><p>83%</p></td>
-<td><p>1.8</p></td>
-</tr>
-<tr class="odd">
-<td><p>167,400</p></td>
-<td><p>6.5</p></td>
-<td><p>90%</p></td>
-<td><p>2.3</p></td>
-</tr>
-<tr class="even">
-<td><p>180,420</p></td>
-<td><p>7.0</p></td>
-<td><p>97%</p></td>
-<td><p>3.9</p></td>
-</tr>
-<tr class="odd">
-<td><p>182,466</p></td>
-<td><p>7.1</p></td>
-<td><p>98.1%</p></td>
-<td><p>5.1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>185,981</p></td>
-<td><p>7.239</p></td>
-<td><p>99.99%</p></td>
-<td><p>60.2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Time Dilation**
+
+| Starship Speed (miles/second) | AU per hour | % Speed of Light | Time Dilation |
+|-------------------------------|-------------|------------------|---------------|
+| 2,046                         | 0.18        | 1.1%             | 1.0003        |
+| 26,040                        | 1.0         | 14%              | 1.01          |
+| 52,080                        | 2.0         | 28%              | 1.04          |
+| 78,120                        | 3.0         | 42%              | 1.1           |
+| 104,160                       | 4.0         | 56%              | 1.2           |
+| 130,200                       | 5.0         | 70%              | 1.4           |
+| 154,380                       | 6.0         | 83%              | 1.8           |
+| 167,400                       | 6.5         | 90%              | 2.3           |
+| 180,420                       | 7.0         | 97%              | 3.9           |
+| 182,466                       | 7.1         | 98.1%            | 5.1           |
+| 185,981                       | 7.239       | 99.99%           | 60.2          |
 
 **Starship Speed:** The vessel’s speed in miles per second.
 
@@ -833,46 +383,13 @@ re-engage the jump drive. The drawback to this is that jump drives
 require a lot of energy; recharging the drive takes hours, as shown on
 Table: Jump Drive Recharge Time.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Jump Drive Recharge Time</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Starship Size</h3></td>
-<td><h4>Jump Drive Recharge Time</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>8 hours</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>2 hours</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>1 hour</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Jump Drive Recharge Time**
+
+| Starship Size | Jump Drive Recharge Time |
+|---------------|--------------------------|
+| Huge          | 8 hours                  |
+| Gargantuan    | 2 hours                  |
+| Colossal      | 1 hour                   |
 
 **Purchase DC:** 25 + one-half the base purchase DC of the starship.
 
@@ -896,141 +413,24 @@ intelligent alien life.
 Table: Faster-Than-Light (FTL) Drives shows the relativistic cruising
 speeds of various FTL engines.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Faster-Than-Light (FTL) Engines</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Engine</h3></td>
-<td><p><strong>Minimum Ship Size</strong></p></td>
-<td><p><strong>Starship’s Cruising Speed</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 6: Fusion Age</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fusion torch</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>Light speed × 0.5</p></td>
-</tr>
-<tr class="even">
-<td><p>Ion engine</p></td>
-<td><p>Huge</p></td>
-<td><p>Light speed × 0.75</p></td>
-</tr>
-<tr class="odd">
-<td><p>Photon sails</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>Light speed × 1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 7: Gravity Age</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Induction engine</p></td>
-<td><p>Huge</p></td>
-<td><p>Light speed × 5</p></td>
-</tr>
-<tr class="even">
-<td><p>Particle impulse engine</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>Light speed × 10</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Progress Level 8: Energy Age</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Gravitic redirector</p></td>
-<td><p>Colossal</p></td>
-<td><p>Light speed × 25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Inertial flux engine</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>Light speed × 15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 9: Matter Age</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Spatial compressor</p></td>
-<td><p>Colossal</p></td>
-<td><p>Special<strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 A spatial compressor allows a ship to travel from one star
-system to another instantaneously.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Faster-Than-Light (FTL) Engines**
+
+| Engine                            | Minimum Ship Size | Starship’s Cruising Speed |
+|-----------------------------------|-------------------|---------------------------|
+| **Progress Level 6: Fusion Age**  |                   |                           |
+| Fusion torch                      | Gargantuan        | Light speed × 0.5         |
+| Ion engine                        | Huge              | Light speed × 0.75        |
+| Photon sails                      | Gargantuan        | Light speed × 1           |
+| **Progress Level 7: Gravity Age** |                   |                           |
+| Induction engine                  | Huge              | Light speed × 5           |
+| Particle impulse engine           | Gargantuan        | Light speed × 10          |
+| **Progress Level 8: Energy Age**  |                   |                           |
+| Gravitic redirector               | Colossal          | Light speed × 25          |
+| Inertial flux engine              | Gargantuan        | Light speed × 15          |
+| **Progress Level 9: Matter Age**  |                   |                           |
+| Spatial compressor                | Colossal          | Special<sup>1</sup>       |
+
+1 A spatial compressor allows a ship to travel from one star system to another instantaneously.
 
 ## FANTASTIC TRAVEL TIMES
 
@@ -1040,213 +440,23 @@ traveling at the speed of light, then divide the result by the light
 speed multiplier of the drive being used. Some sample travel times
 appear in Table: Fantastic Travel Times.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Fantastic Travel Times</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>———————————— Light Speed Factor
-—————————————</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Distance</strong></p></td>
-<td><p><strong>0.5</strong></p></td>
-<td><p><strong>0.75</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>5</strong></p></td>
-<td><p><strong>10</strong></p></td>
-<td><p><strong>15</strong></p></td>
-<td><p><strong>25</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to the Moon</p>
-<p>(240,000 mi.)</p></td>
-<td><p>2.58 sec.</p></td>
-<td><p>1.72 sec.</p></td>
-<td><p>1.29 sec.</p></td>
-<td><p>0.26 sec.</p></td>
-<td><p>0.13 sec.</p></td>
-<td><p>0.09 sec.</p></td>
-<td><p>0.05 sec.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to the Sun (1 AU)</p>
-<p>(93,000,000 mi.)</p></td>
-<td><p>16.6 min.</p></td>
-<td><p>11.07 min.</p></td>
-<td><p>8.3 min.</p></td>
-<td><p>1.66 min.</p></td>
-<td><p>49.8 sec.</p></td>
-<td><p>33.2 sec.</p></td>
-<td><p>19.9 sec.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Mercury</p>
-<p>(56,950,000 mi.)</p></td>
-<td><p>10.2 min.</p></td>
-<td><p>6.8 min.</p></td>
-<td><p>5.1 min.</p></td>
-<td><p>1.02 min.</p></td>
-<td><p>30.6 sec.</p></td>
-<td><p>20.4 sec.</p></td>
-<td><p>12.2 sec.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Venus</p>
-<p>(26,040,000 mi.)</p></td>
-<td><p>4.66 min.</p></td>
-<td><p>3.11 min.</p></td>
-<td><p>2.33 min.</p></td>
-<td><p>28.2 sec.</p></td>
-<td><p>14.1 sec.</p></td>
-<td><p>9.4 sec.</p></td>
-<td><p>5.6 sec.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Mars</p>
-<p>(48,360,000 mi.)</p></td>
-<td><p>8.6 min.</p></td>
-<td><p>5.7 min.</p></td>
-<td><p>4.3 min.</p></td>
-<td><p>51.6 sec.</p></td>
-<td><p>25.8 sec.</p></td>
-<td><p>17.2 sec.</p></td>
-<td><p>10.3 sec.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Jupiter</p>
-<p>(390,600,000 mi.)</p></td>
-<td><p>70.0 min.</p></td>
-<td><p>46.7 min.</p></td>
-<td><p>35 min.</p></td>
-<td><p>7.0 min.</p></td>
-<td><p>3.5 min.</p></td>
-<td><p>2.3 min.</p></td>
-<td><p>1.4 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Saturn</p>
-<p>(704,940,000 mi.)</p></td>
-<td><p>126.4 min.</p></td>
-<td><p>84.3 min.</p></td>
-<td><p>63.2 min.</p></td>
-<td><p>12.6 min.</p></td>
-<td><p>6.3 min.</p></td>
-<td><p>4.2 min.</p></td>
-<td><p>2.5 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Uranus</p>
-<p>(1,687,020,000 mi.)</p></td>
-<td><p>302.4 min.</p></td>
-<td><p>201.6 min.</p></td>
-<td><p>151.2 min.</p></td>
-<td><p>30.2 min.</p></td>
-<td><p>15.1 min.</p></td>
-<td><p>10.1 min.</p></td>
-<td><p>6.05 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Earth to Neptune</p>
-<p>(2,715,600,000 mi.)</p></td>
-<td><p>486.6 min.</p></td>
-<td><p>324.4 min.</p></td>
-<td><p>243.3 min.</p></td>
-<td><p>48.7 min.</p></td>
-<td><p>24.4 min.</p></td>
-<td><p>16.2 min.</p></td>
-<td><p>9.7 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Earth to Pluto</p>
-<p>(3,574,920,000 mi.)</p></td>
-<td><p>640 min.</p></td>
-<td><p>426.67 min.</p></td>
-<td><p>320 min.</p></td>
-<td><p>64 min.</p></td>
-<td><p>32 min.</p></td>
-<td><p>21.3 min.</p></td>
-<td><p>12.8 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>1 light year</p>
-<p>(5,865,696,000,000 mi.)</p></td>
-<td><p>2.0 years</p></td>
-<td><p>1.33 years</p></td>
-<td><p>1.0 year</p></td>
-<td><p>2.4 mo.</p></td>
-<td><p>1.2 mo.</p></td>
-<td><p>0.8 mo.</p></td>
-<td><p>0.48 mo.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Sun to Alpha Centauri</p>
-<p>(4.4 light years)</p></td>
-<td><p>8.8 years</p></td>
-<td><p>5.87 years</p></td>
-<td><p>4.4 years</p></td>
-<td><p>10.56 mo.</p></td>
-<td><p>5.28 mo.</p></td>
-<td><p>3.53 mo.</p></td>
-<td><p>2.1 mo.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Fantastic Travel Times**
+
+|                                          | ———————————— Light Speed Factor ————————————— |             |            |           |           |           |           |
+|------------------------------------------|-----------------------------------------------|-------------|------------|-----------|-----------|-----------|-----------|
+| **Distance**                             | **0.5**                                       | **0.75**    | **1**      | **5**     | **10**    | **15**    | **25**    |
+| Earth to the Moon (240,000 mi.)          | 2.58 sec.                                     | 1.72 sec.   | 1.29 sec.  | 0.26 sec. | 0.13 sec. | 0.09 sec. | 0.05 sec. |
+| Earth to the Sun (1 AU) (93,000,000 mi.) | 16.6 min.                                     | 11.07 min.  | 8.3 min.   | 1.66 min. | 49.8 sec. | 33.2 sec. | 19.9 sec. |
+| Earth to Mercury (56,950,000 mi.)        | 10.2 min.                                     | 6.8 min.    | 5.1 min.   | 1.02 min. | 30.6 sec. | 20.4 sec. | 12.2 sec. |
+| Earth to Venus (26,040,000 mi.)          | 4.66 min.                                     | 3.11 min.   | 2.33 min.  | 28.2 sec. | 14.1 sec. | 9.4 sec.  | 5.6 sec.  |
+| Earth to Mars (48,360,000 mi.)           | 8.6 min.                                      | 5.7 min.    | 4.3 min.   | 51.6 sec. | 25.8 sec. | 17.2 sec. | 10.3 sec. |
+| Earth to Jupiter (390,600,000 mi.)       | 70.0 min.                                     | 46.7 min.   | 35 min.    | 7.0 min.  | 3.5 min.  | 2.3 min.  | 1.4 min.  |
+| Earth to Saturn (704,940,000 mi.)        | 126.4 min.                                    | 84.3 min.   | 63.2 min.  | 12.6 min. | 6.3 min.  | 4.2 min.  | 2.5 min.  |
+| Earth to Uranus (1,687,020,000 mi.)      | 302.4 min.                                    | 201.6 min.  | 151.2 min. | 30.2 min. | 15.1 min. | 10.1 min. | 6.05 min. |
+| Earth to Neptune (2,715,600,000 mi.)     | 486.6 min.                                    | 324.4 min.  | 243.3 min. | 48.7 min. | 24.4 min. | 16.2 min. | 9.7 min.  |
+| Earth to Pluto (3,574,920,000 mi.)       | 640 min.                                      | 426.67 min. | 320 min.   | 64 min.   | 32 min.   | 21.3 min. | 12.8 min. |
+| 1 light year (5,865,696,000,000 mi.)     | 2.0 years                                     | 1.33 years  | 1.0 year   | 2.4 mo.   | 1.2 mo.   | 0.8 mo.   | 0.48 mo.  |
+| Sun to Alpha Centauri (4.4 light years)  | 8.8 years                                     | 5.87 years  | 4.4 years  | 10.56 mo. | 5.28 mo.  | 3.53 mo.  | 2.1 mo.   |
 
 ######### TELEPORTATION
 
@@ -1366,135 +576,28 @@ The range is limited only by the range of the sensors.
 
 **Restriction:** Restricted (+2).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Transport Booth Purchase DC Modifiers</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Transport Booth’s Purchase DC</h3></td>
-<td><h4>Communication System Modifier</h4></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Progress Level 5: Information Age</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Radio Transceiver</p></td>
-<td><p>+0</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Progress Level 6: Fusion Age</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Laser Transceiver</p></td>
-<td><p>+3</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Progress Level 7: Gravity Ag</strong>e</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Mass Transceiver</p></td>
-<td><p>+5</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Progress Level 8: Energy Age</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Drive Transceiver</p></td>
-<td><p>+8</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Progress Level 9: Matter Age</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ansible</p></td>
-<td><p>+13</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Table: Check DCs For Transport Disks</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Distance</h3></td>
-<td><p><strong>Navigate Check DC</strong></p></td>
-<td><p><strong>Computer Use DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Planetary</p></td>
-<td><p>15</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Interplanetary</p></td>
-<td><p>20</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Interstellar</p></td>
-<td><p>25</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Transport Booth Purchase DC Modifiers**
+
+| Transport Booth’s Purchase DC         | Communication System Modifier |  |
+|---------------------------------------|-------------------------------|--|
+| **Progress Level 5: Information Age** |                               |  |
+| Radio Transceiver                     | +0                            |  |
+| **Progress Level 6: Fusion Age**      |                               |  |
+| Laser Transceiver                     | +3                            |  |
+| **Progress Level 7: Gravity Ag**e     |                               |  |
+| Mass Transceiver                      | +5                            |  |
+| **Progress Level 8: Energy Age**      |                               |  |
+| Drive Transceiver                     | +8                            |  |
+| **Progress Level 9: Matter Age**      |                               |  |
+| Ansible                               | +13                           |  |
+
+**Table: Check DCs For Transport Disks**
+
+| Distance       | Navigate Check DC | Computer Use DC |
+|----------------|-------------------|-----------------|
+| Planetary      | 15                | 20              |
+| Interplanetary | 20                | 25              |
+| Interstellar   | 25                | 30              |
 
 ## DIMENSIONAL TRAVEL
 

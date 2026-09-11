@@ -452,38 +452,37 @@ Creature Type, a creature may gain additional skill points and feats
 depending on its type.
 
 Table: Adjustments to Physical Abilities and Natural Armor
-|Old Size 1|New Size|Str|Dex|Con|Natural Armor Improvement|
-|---|---|---|---|---|---|
-|Fine|Diminutive|—|–2|—|—|
-|Diminutive|Tiny|+2|–2|—|—|
-|Tiny|Small|+4|–2|—|—|
-|Small|Medium-size|+4|–2|+2|—|
-|Medium-size|Large|+8|–2|+4|+2|
-|Large|Huge|+8|–2|+4|+3|
-|Huge|Gargantuan|+8|—|+4|+4|
-|Gargantuan|Colossal|+8|—|+4|+5|
+| Old Size 1  | New Size    | Str | Dex | Con | Natural Armor Improvement |
+|-------------|-------------|-----|-----|-----|---------------------------|
+| Fine        | Diminutive  | —   | –2  | —   | —                         |
+| Diminutive  | Tiny        | +2  | –2  | —   | —                         |
+| Tiny        | Small       | +4  | –2  | —   | —                         |
+| Small       | Medium-size | +4  | –2  | +2  | —                         |
+| Medium-size | Large       | +8  | –2  | +4  | +2                        |
+| Large       | Huge        | +8  | –2  | +4  | +3                        |
+| Huge        | Gargantuan  | +8  | —   | +4  | +4                        |
+| Gargantuan  | Colossal    | +8  | —   | +4  | +5                        |
 
 1 Repeat the adjustment if the creature moves up more than one size category.
 
-
 Table: Bonus Skill Points and Feats by Creature Type
-|Type|Bonus Skill Points|Bonus Feats|
-|---|---|---|
-|Aberration|+2 per extra HD|+1 per 4 extra HD|
-|Animal|—|—|
-|Construct|—|—|
-|Dragon|6 + Int modifier per extra HD|+1 per 4 extra HD|
-|Elemental|+2 per extra HD|+1 per 4 extra HD|
-|Fey|+2 per extra HD|+1 per 4 extra HD|
-|Giant|+2 per extra HD|+1 per 4 extra HD|
-|Humanoid|+1 per extra HD|+1 per 4 extra HD|
-|Magical beast|+1 per extra HD 1|+1 per 4 extra HD|
-|Monstrous humanoid|+2 per extra HD|+1 per 4 extra HD|
-|Ooze|—|—|
-|Outsider|8 + Int modifier per 4 extra HD|+1 per extra HD|
-|Plant|—|—|
-|Undead|+2 per extra HD|+1 per 4 extra HD|
-|Vermin|—|—|
+| Type               | Bonus Skill Points              | Bonus Feats       |
+|--------------------|---------------------------------|-------------------|
+| Aberration         | +2 per extra HD                 | +1 per 4 extra HD |
+| Animal             | —                               | —                 |
+| Construct          | —                               | —                 |
+| Dragon             | 6 + Int modifier per extra HD   | +1 per 4 extra HD |
+| Elemental          | +2 per extra HD                 | +1 per 4 extra HD |
+| Fey                | +2 per extra HD                 | +1 per 4 extra HD |
+| Giant              | +2 per extra HD                 | +1 per 4 extra HD |
+| Humanoid           | +1 per extra HD                 | +1 per 4 extra HD |
+| Magical beast      | +1 per extra HD 1               | +1 per 4 extra HD |
+| Monstrous humanoid | +2 per extra HD                 | +1 per 4 extra HD |
+| Ooze               | —                               | —                 |
+| Outsider           | 8 + Int modifier per 4 extra HD | +1 per extra HD   |
+| Plant              | —                               | —                 |
+| Undead             | +2 per extra HD                 | +1 per 4 extra HD |
+| Vermin             | —                               | —                 |
 
 1 Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.
 
@@ -512,34 +511,34 @@ Creatures that advance by character class gain special talents and
 abilities, which are noted here.
 
 Table: Skill Points per Class Level for Nonhumans
-|Basic Class|Skill Points per Level 1|
-|---|---|
-|Strong|2 + Int modifier|
-|Fast|4 + Int modifier|
-|Tough|2 + Int modifier|
-|Smart|8 + Int modifier|
-|Dedicated|4 + Int modifier|
-|Charismatic|6 + Int modifier|
-|Advanced Class|Skill Points per Level|
-|Soldier|4 + Int modifier|
-|Martial Artist|2 + Int modifier|
-|Gunslinger|4 + Int modifier|
-|Infiltrator|6 + Int modifier|
-|Daredevil|4 + Int modifier|
-|Bodyguard|2 + Int modifier|
-|Field Scientist|6 + Int modifier|
-|Techie|6 + Int modifier|
-|Field Medic|4 + Int modifier|
-|Investigator|4 + Int modifier|
-|Personality|4 + Int modifier|
-|Negotiator|4 + Int modifier|
-|Campaign-Specific Advanced Class|Skill Points per Level|
-|Mage|6 + Int modifier|
-|Acolyte|4+ Int modifier|
-|Shadow Slayer|2+ Int modifier|
-|Occultist|4+ Int modifier|
-|Telepath|4+ Int modifier|
-|Battle Mind|2+ Int modifier|
+| Basic Class                      | Skill Points per Level 1 |
+|----------------------------------|--------------------------|
+| Strong                           | 2 + Int modifier         |
+| Fast                             | 4 + Int modifier         |
+| Tough                            | 2 + Int modifier         |
+| Smart                            | 8 + Int modifier         |
+| Dedicated                        | 4 + Int modifier         |
+| Charismatic                      | 6 + Int modifier         |
+| Advanced Class                   | Skill Points per Level   |
+| Soldier                          | 4 + Int modifier         |
+| Martial Artist                   | 2 + Int modifier         |
+| Gunslinger                       | 4 + Int modifier         |
+| Infiltrator                      | 6 + Int modifier         |
+| Daredevil                        | 4 + Int modifier         |
+| Bodyguard                        | 2 + Int modifier         |
+| Field Scientist                  | 6 + Int modifier         |
+| Techie                           | 6 + Int modifier         |
+| Field Medic                      | 4 + Int modifier         |
+| Investigator                     | 4 + Int modifier         |
+| Personality                      | 4 + Int modifier         |
+| Negotiator                       | 4 + Int modifier         |
+| Campaign-Specific Advanced Class | Skill Points per Level   |
+| Mage                             | 6 + Int modifier         |
+| Acolyte                          | 4+ Int modifier          |
+| Shadow Slayer                    | 2+ Int modifier          |
+| Occultist                        | 4+ Int modifier          |
+| Telepath                         | 4+ Int modifier          |
+| Battle Mind                      | 2+ Int modifier          |
 
 1 Humanoids with 1 or fewer Hit Dice advance as human
 characters do. At 1st level, multiply the number of skill points per

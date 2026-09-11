@@ -353,46 +353,13 @@ effects to manifest after the incantation is completed. The current,
 natural weather conditions are determined by the GM. You can call forth
 weather appropriate to the climate and season of the area you are in.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h1>Season</h1></td>
-<td><h1>Possible Weather</h1></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Spring</p></td>
-<td><p>Tornado, thunderstorm, sleet storm, or hot weather</p></td>
-</tr>
-<tr class="even">
-<td><p>Summer</p></td>
-<td><p>Torrential rain, heat wave, or hailstorm</p></td>
-</tr>
-<tr class="odd">
-<td><p>Autumn</p></td>
-<td><p>Hot or cold weather, fog, or sleet</p></td>
-</tr>
-<tr class="even">
-<td><p>Winter</p></td>
-<td><p>Frigid cold, blizzard, or thaw</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Late winter</p></td>
-<td><p>Hurricane-force winds or early spring (coastal area)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Season      | Possible Weather                                     |
+|-------------|------------------------------------------------------|
+| Spring      | Tornado, thunderstorm, sleet storm, or hot weather   |
+| Summer      | Torrential rain, heat wave, or hailstorm             |
+| Autumn      | Hot or cold weather, fog, or sleet                   |
+| Winter      | Frigid cold, blizzard, or thaw                       |
+| Late winter | Hurricane-force winds or early spring (coastal area) |
 
 You control the general tendencies of the weather, such as the direction
 and intensity of the wind. You cannot control specific applications of
@@ -985,16 +952,12 @@ temporarily insane if they fail their Will saves. Creatures affected by
 this spell behave randomly for the next 16 hours, as indicated on the
 following table:
 
-|          |                                             |
-|----------|---------------------------------------------|
-| **1d10** | **Behavior**                                |
-|          |                                             |
-| 1        | Wander away for 1 minute (unless prevented) |
-| 2–6      | Do nothing for 1 round                      |
-| 7–9      | Attack nearest creature for 1 round         |
-|          |                                             |
-| 10       | Act normally for 1 round                    |
-|          |                                             |
+| 1d10 | Behavior                                    |
+|------|---------------------------------------------|
+| 1    | Wander away for 1 minute (unless prevented) |
+| 2–6  | Do nothing for 1 round                      |
+| 7–9  | Attack nearest creature for 1 round         |
+| 10   | Act normally for 1 round                    |
 
 Except on a result of 1, roll again each round on the creature’s turn to
 see what the subject does that round. Wandering creatures leave the
@@ -1253,174 +1216,46 @@ caster’s Knowledge (arcane lore) check.
 **Seed:** The building blocks of incantation, seeds describe magical
 effects in general terms.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h1>Table: General Factors</h1></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Factor</strong></p></td>
-<td><p><strong>DC modifier</strong></p></td>
-</tr>
-<tr class="even">
-<td><h2>Skill Checks</h2></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Requires skill check other than Knowledge (arcane lore)</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="even">
-<td><h2>Casting Time</h2></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 hour between checks</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="even">
-<td><h2>Range</h2></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Touch to Close/Close to Touch</p></td>
-<td><p>+2/–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Close to Medium/Medium to Close</p></td>
-<td><p>+2/–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium to Long/Long to Medium</p></td>
-<td><p>+2/–2</p></td>
-</tr>
-<tr class="even">
-<td><h2>Target</h2></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Unwilling target must be helpless</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Limited targets (by HD, creature type, etc.)</p></td>
-<td><p>–3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Single target to multiple targets</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td><h2>Duration</h2></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rounds to minutes/minutes to rounds</p></td>
-<td><p>+2/–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Minutes to hours/hours to minutes</p></td>
-<td><p>+4/–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Hours to days /days to hours</p></td>
-<td><p>+6/–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Days to permanent/permanent to days</p></td>
-<td><p>+10/–4</p></td>
-</tr>
-<tr class="odd">
-<td><h2>Material Components</h2></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Expensive component (purchase DC 20–24)</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Expensive component (purchase DC 25–29)</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Expensive component (purchase DC 30+)</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Expensive focus (purchase DC 25–29)</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="even">
-<td><p>Expensive focus (purchase DC 30+)</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><h2>XP Cost</h2></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>per 100 XP (max 1,000 XP)</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td><h2>Extra Casters</h2></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Up to 10 secondary casters</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>11–100 secondary casters</p></td>
-<td><p>–6</p></td>
-</tr>
-<tr class="even">
-<td><p>101+ secondary casters</p></td>
-<td><p>–10</p></td>
-</tr>
-<tr class="odd">
-<td><h2>Backlash</h2></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Per 2d6 points of damage</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Caster is exhausted</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Per negative level caster suffers</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Caster reduced to –1 hp</p></td>
-<td><p>–3</p></td>
-</tr>
-<tr class="even">
-<td><p>Caster infected with disease</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Backlash affects secondary casters too</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: General Factors**
+
+| Factor                                                  | DC modifier |
+|---------------------------------------------------------|-------------|
+| **Skill Checks**                                        |             |
+| Requires skill check other than Knowledge (arcane lore) | –1          |
+| **Casting Time**                                        |             |
+| 1 hour between checks                                   | –1          |
+| **Range**                                               |             |
+| Touch to Close/Close to Touch                           | +2/–2       |
+| Close to Medium/Medium to Close                         | +2/–2       |
+| Medium to Long/Long to Medium                           | +2/–2       |
+| **Target**                                              |             |
+| Unwilling target must be helpless                       | –2          |
+| Limited targets (by HD, creature type, etc.)            | –3          |
+| Single target to multiple targets                       | +4          |
+| **Duration**                                            |             |
+| Rounds to minutes/minutes to rounds                     | +2/–2       |
+| Minutes to hours/hours to minutes                       | +4/–2       |
+| Hours to days /days to hours                            | +6/–2       |
+| Days to permanent/permanent to days                     | +10/–4      |
+| **Material Components**                                 |             |
+| Expensive component (purchase DC 20–24)                 | –1          |
+| Expensive component (purchase DC 25–29)                 | –2          |
+| Expensive component (purchase DC 30+)                   | –4          |
+| Expensive focus (purchase DC 25–29)                     | –1          |
+| Expensive focus (purchase DC 30+)                       | –2          |
+| **XP Cost**                                             |             |
+| per 100 XP (max 1,000 XP)                               | –1          |
+| **Extra Casters**                                       |             |
+| Up to 10 secondary casters                              | –2          |
+| 11–100 secondary casters                                | –6          |
+| 101+ secondary casters                                  | –10         |
+| **Backlash**                                            |             |
+| Per 2d6 points of damage                                | –1          |
+| Caster is exhausted                                     | –2          |
+| Per negative level caster suffers                       | –2          |
+| Caster reduced to –1 hp                                 | –3          |
+| Caster infected with disease                            | –4          |
+| Backlash affects secondary casters too                  | –1          |
 
 Seed: Afflict
 
@@ -1500,114 +1335,30 @@ Knowledge (arcane lore) check DC, according to the chart below. The GM
 must set the Knowledge (arcane lore) check DC for undead not included on
 the chart, using similar undead as a basis for comparison.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h1>Undead</h1></td>
-<td><h4>Knowledge (arcane lore) DC Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Medium or smaller skeleton</p></td>
-<td><p>–12</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium or smaller zombie</p></td>
-<td><p>–12</p></td>
-</tr>
-<tr class="odd">
-<td><p>Animating spirit</p></td>
-<td><p>–10</p></td>
-</tr>
-<tr class="even">
-<td><p>Frightful spirit</p></td>
-<td><p>–8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large skeleton</p></td>
-<td><p>–8</p></td>
-</tr>
-<tr class="even">
-<td><p>Large zombie</p></td>
-<td><p>–6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Groaning spirit</p></td>
-<td><p>–6</p></td>
-</tr>
-<tr class="even">
-<td><p>Small or smaller liquefied zombie</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium liquefied zombie</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Weakening spirit</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mummy</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Large liquefied zombie</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Possessing spirit</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge skeleton</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge liquefied zombie</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Ash wraith</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge zombie</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan or Colossal skeleton</p></td>
-<td><p>+6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan or Colossal zombie</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan liquefied zombie</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal liquefied zombie</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Vampire</p></td>
-<td><p>Hit Dice +4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Undead                            | Knowledge (arcane lore) DC Modifier |
+|-----------------------------------|-------------------------------------|
+| Medium or smaller skeleton        | –12                                 |
+| Medium or smaller zombie          | –12                                 |
+| Animating spirit                  | –10                                 |
+| Frightful spirit                  | –8                                  |
+| Large skeleton                    | –8                                  |
+| Large zombie                      | –6                                  |
+| Groaning spirit                   | –6                                  |
+| Small or smaller liquefied zombie | –4                                  |
+| Medium liquefied zombie           | –2                                  |
+| Weakening spirit                  | +0                                  |
+| Mummy                             | +0                                  |
+| Large liquefied zombie            | +0                                  |
+| Possessing spirit                 | +2                                  |
+| Huge skeleton                     | +2                                  |
+| Huge liquefied zombie             | +2                                  |
+| Ash wraith                        | +4                                  |
+| Huge zombie                       | +4                                  |
+| Gargantuan or Colossal skeleton   | +6                                  |
+| Gargantuan or Colossal zombie     | +8                                  |
+| Gargantuan liquefied zombie       | +8                                  |
+| Colossal liquefied zombie         | +10                                 |
+| Vampire                           | Hit Dice +4                         |
 
 # Seed: Armor
 

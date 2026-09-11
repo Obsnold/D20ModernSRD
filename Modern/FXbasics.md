@@ -221,134 +221,33 @@ provoke an attack of oppor­­­tunity. It does, how­ever, require a
 Concentration check (DC 15 + spell level) to pull off. Failure means the
 spell is lost..
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: FX Actions in Combat</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Attack Actions</strong></p></td>
-<td><h4>AoO?</h4></td>
-</tr>
-<tr class="even">
-<td><p>Activate a ring, rod, staff, wand, or wondrous item</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cast a spell (attack action casting time)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Concentrate to maintain an active spell or power</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dismiss a spell or power</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Drink a potion</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Manifest a power (attack action manifestation time)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Read a scroll</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Turn or rebuke undead</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Use spell-like ability</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Use supernatural ability</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Use extraordinary ability</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Use touch spell on self</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Move Actions</h3></td>
-<td><h3>AoO?</h3></td>
-</tr>
-<tr class="even">
-<td><p>Direct or redirect an active spell or power</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Full-Round Actions</h3></td>
-<td><h3>AoO?</h3></td>
-</tr>
-<tr class="odd">
-<td><p>Cast a spell (full-round action casting time)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Manifest a power</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>  (full-round action manifestation time)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Use touch spell on up to six friends</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Free Actions</h3></td>
-<td><h3>AoO?</h3></td>
-</tr>
-<tr class="odd">
-<td><p>Cease concentration on a spell or power</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Prepare spell components to cast a spell</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Make Spellcraft check on counterspell attempt</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: FX Actions in Combat**
+
+| Attack Actions                                      | AoO? |
+|-----------------------------------------------------|------|
+| Activate a ring, rod, staff, wand, or wondrous item | No   |
+| Cast a spell (attack action casting time)           | Yes  |
+| Concentrate to maintain an active spell or power    | No   |
+| Dismiss a spell or power                            | No   |
+| Drink a potion                                      | Yes  |
+| Manifest a power (attack action manifestation time) | Yes  |
+| Read a scroll                                       | Yes  |
+| Turn or rebuke undead                               | No   |
+| Use spell-like ability                              | Yes  |
+| Use supernatural ability                            | No   |
+| Use extraordinary ability                           | No   |
+| Use touch spell on self                             | No   |
+| Move Actions                                        | AoO? |
+| Direct or redirect an active spell or power         | No   |
+| Full-Round Actions                                  | AoO? |
+| Cast a spell (full-round action casting time)       | Yes  |
+| **Manifest a power**                                |      |
+| (full-round action manifestation time)              | Yes  |
+| Use touch spell on up to six friends                | Yes  |
+| Free Actions                                        | AoO? |
+| Cease concentration on a spell or power             | No   |
+| Prepare spell components to cast a spell            | No   |
+| Make Spellcraft check on counterspell attempt       | No   |
 
 ## Range
 
@@ -815,12 +714,10 @@ and pays the power point cost.
 A power’s cost is determined by its level, as shown below. Every power’s
 cost is also noted in its description for easy reference.
 
-|                  |       |     |     |     |     |     |
-|------------------|-------|-----|-----|-----|-----|-----|
-| Power Level      | 0     | 1   | 2   | 3   | 4   | 5   |
-|                  |       |     |     |     |     |     |
-| Power point cost | 0/1\* | 1   | 3   | 5   | 7   | 9   |
-|                  |       |     |     |     |     |     |
+|                  |       |   |   |   |   |   |
+|------------------|-------|---|---|---|---|---|
+| Power Level      | 0     | 1 | 2 | 3 | 4 | 5 |
+| Power point cost | 0/1\* | 1 | 3 | 5 | 7 | 9 |
 
 \*A psionic character can manifest any 0-level power he or she knows a
 number of times per day equal to 3 + his or her psionic level;

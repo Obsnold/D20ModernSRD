@@ -749,16 +749,12 @@ Throw:** Will negates; **Spell Resistance:** Yes
 Creatures affected by this spell behave randomly, as indicated on the
 following table.
 
-|              |                                             |
-|--------------|---------------------------------------------|
-| **d10 Roll** | **Behavior**                                |
-|              |                                             |
-| 1            | Wander away for 1 minute (unless prevented) |
-| 2–6          | Do nothing for 1 round                      |
-| 7–9          | Attack nearest creature for 1 round         |
-|              |                                             |
-| 10           | Act normally for 1 round                    |
-|              |                                             |
+| d10 Roll | Behavior                                    |
+|----------|---------------------------------------------|
+| 1        | Wander away for 1 minute (unless prevented) |
+| 2–6      | Do nothing for 1 round                      |
+| 7–9      | Attack nearest creature for 1 round         |
+| 10       | Act normally for 1 round                    |
 
 Except on a result of 1, roll again each round on the creature’s turn to
 see what the subject does in that round. Wandering creatures leave the
@@ -936,55 +932,13 @@ emanations may confuse or conceal weaker auras.
 Aura Strength: An aura’s magical power and strength depend on a spell’s
 functioning spell level or an item’s caster level.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Functioning Spell Level</h4></td>
-<td><h4>Item Caster Level</h4></td>
-<td><h4>Aura Power</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0-level or lingering aura</p></td>
-<td><p>Lingering aura</p></td>
-<td><p>Dim</p></td>
-</tr>
-<tr class="even">
-<td><p>1st–2nd</p></td>
-<td><p>1st–3rd</p></td>
-<td><p>Faint</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>4th–5th</p></td>
-<td><p>Moderate</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>6th–7th</p></td>
-<td><p>Strong</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>8th–10th</p></td>
-<td><p>Overwhelming</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Functioning Spell Level   | Item Caster Level | Aura Power   |
+|---------------------------|-------------------|--------------|
+| 0-level or lingering aura | Lingering aura    | Dim          |
+| 1st–2nd                   | 1st–3rd           | Faint        |
+| 3rd                       | 4th–5th           | Moderate     |
+| 4th                       | 6th–7th           | Strong       |
+| 5th                       | 8th–10th          | Overwhelming |
 
 If an aura falls into more than one category, detect magical aura
 indicates the stronger of the two.
@@ -992,42 +946,12 @@ indicates the stronger of the two.
 **Length Aura Lingers:** How long a magical aura lingers after the
 source has vacated the location depends on the aura’s original strength.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Original Strength</h4></td>
-<td><h4>Duration</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Faint</p></td>
-<td><p>1d6 minutes</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate</p></td>
-<td><p>1d6 x 10 minutes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Strong</p></td>
-<td><p>1d6 hours</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Overwhelming</p></td>
-<td><p>1d6 days</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Original Strength | Duration         |
+|-------------------|------------------|
+| Faint             | 1d6 minutes      |
+| Moderate          | 1d6 x 10 minutes |
+| Strong            | 1d6 hours        |
+| Overwhelming      | 1d6 days         |
 
 Each round, the caster can turn to detect things in a new area. The
 spell can penetrate barriers, but 1 foot of stone, 1 inch of common

@@ -534,17 +534,13 @@ actions. The character may use Heroic Surge a number of times per day
 depending on his or her character level (as shown below), but never more
 than once per round.
 
-|                     |                   |
-|---------------------|-------------------|
-| **Character Level** | **Times per Day** |
-|                     |                   |
-| 1st–4th             | 1                 |
-| 5th–8th             | 2                 |
-| 9th–12th            | 3                 |
-| 13th–16th           | 4                 |
-|                     |                   |
-| 17th–20th           | 5                 |
-|                     |                   |
+| Character Level | Times per Day |
+|-----------------|---------------|
+| 1st–4th         | 1             |
+| 5th–8th         | 2             |
+| 9th–12th        | 3             |
+| 13th–16th       | 4             |
+| 17th–20th       | 5             |
 
 # Improved Brawl
 
@@ -939,42 +935,12 @@ character’s normal speed with a –5 penalty on the check, or at up to
 twice the character’s speed with a –20 penalty on the check). The DC
 depends on the surface and the prevailing conditions.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Surface</strong></p></td>
-<td><h3>Track DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Very soft</p></td>
-<td><p><code>5</code></p></td>
-</tr>
-<tr class="even">
-<td><p>Soft</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Firm</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Hard</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Surface   | Track DC       |
+|-----------|----------------|
+| Very soft | <code>5</code> |
+| Soft      | 10             |
+| Firm      | 15             |
+| Hard      | 20             |
 
 **Very Soft:** Any surface (fresh snow, thick dust, wet mud) that holds
 deep, clear impressions of footprints.
@@ -999,116 +965,30 @@ find tracks, but can only follow tracks if the DC is 10 or less. A
 character can use the Search skill to find individual footprints, but
 cannot follow tracks using Search.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Condition</strong></p></td>
-<td><h3>DC Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Every three targets in the group being tracked</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="even">
-<td><p>Size of targets being tracked:
-<strong><sup>1</sup></strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>-8</p></td>
-</tr>
-<tr class="even">
-<td><p>Every 24 hours since the trail was made</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Every hour of rain since the trail was made</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Fresh snow cover since the trail was made</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Poor visibility: <sub>2</sub></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Overcast or moonless night</p></td>
-<td><p>+6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Moonlight</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Fog or precipitation</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tracked target hides trail (and moves at half speed)</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 For a group of mixed sizes, apply only the modifier for the
-largest size category represented.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 Apply only the largest modifier from this category.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Condition                                            | DC Modifier |
+|------------------------------------------------------|-------------|
+| Every three targets in the group being tracked       | –1          |
+| **Size of targets being tracked: <sup>1</sup>**      |             |
+| Fine                                                 | +8          |
+| Diminutive                                           | +4          |
+| Tiny                                                 | +2          |
+| Small                                                | +1          |
+| Medium-size                                          | +0          |
+| Large                                                | –1          |
+| Huge                                                 | –2          |
+| Gargantuan                                           | –4          |
+| Colossal                                             | -8          |
+| Every 24 hours since the trail was made              | +1          |
+| Every hour of rain since the trail was made          | +1          |
+| Fresh snow cover since the trail was made            | +10         |
+| **Poor visibility: <sub>2</sub>**                    |             |
+| Overcast or moonless night                           | +6          |
+| Moonlight                                            | +3          |
+| Fog or precipitation                                 | +3          |
+| Tracked target hides trail (and moves at half speed) | +5          |
+
+1 For a group of mixed sizes, apply only the modifier for the largest size category represented.
+2 Apply only the largest modifier from this category.
 
 # Trustworthy
 

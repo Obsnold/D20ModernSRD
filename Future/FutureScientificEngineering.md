@@ -99,58 +99,16 @@ survive. For example, it may need to consume a particular chemical.
 The frequency with which the organism requires its dependent condition
 varies widely.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Creature Size</h3></td>
-<td><h3>Frequency</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>Once every round</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>Once every minute</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>Once every hour</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>Once every 4 hours</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>Once every 6 hours</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>Once every 8 hours</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>Once every 12 hours</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>Once every 24 hours</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Creature Size | Frequency           |
+|---------------|---------------------|
+| Fine          | Once every round    |
+| Diminutive    | Once every minute   |
+| Tiny          | Once every hour     |
+| Small         | Once every 4 hours  |
+| Medium-size   | Once every 6 hours  |
+| Large         | Once every 8 hours  |
+| Huge          | Once every 12 hours |
+| Gargantuan    | Once every 24 hours |
 
 If the organism’s dependent need is not met, it suffers 1d4 points of
 Constitution damage each time the specified period passes.
@@ -205,50 +163,12 @@ linked to the genetic modification being attempted (at which point he
 permanently gains that special quality). Every time a save fails, the
 subject suffers 2 points of Constitution damage.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p class="heading">Type of Special Quality</p></td>
-<td><p><strong>Fort Save DC</strong></p></td>
-<td><p><strong>Number of Successes</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>+1 to one ability score</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Extraordinary ability (Ex)</p></td>
-<td><p>15</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Supernatural ability (Su)</p></td>
-<td><p>20</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Spell-like ability (Sp)</p></td>
-<td><p>20</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Special Quality    | Fort Save DC | Number of Successes |
+|----------------------------|--------------|---------------------|
+| +1 to one ability score    | 15           | 10                  |
+| Extraordinary ability (Ex) | 15           | 15                  |
+| Supernatural ability (Su)  | 20           | 25                  |
+| Spell-like ability (Sp)    | 20           | 50                  |
 
 During therapy, the ability remains latent, so the patient receives no
 benefits from the intended manipulation. Immediately upon completing the

@@ -38,1228 +38,159 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 item on the black market.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: General Equipment</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Object</strong></p></td>
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Bags and Boxes</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aluminum travel case</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10 lb. Capacity</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>40 lb. Capacity</p></td>
-<td><p>Large</p></td>
-<td><p>10 lb.</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>75 lb. capacity</p></td>
-<td><p>Large</p></td>
-<td><p>15 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Briefcase</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Contractor’s field bag</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Day pack</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Handbag</p></td>
-<td><p>Small</p></td>
-<td><p>1 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Range pack</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Standard</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Oversized</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Patrol box</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Clothing</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Clothing outfit</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Business</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Casual</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Formal</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fatigues</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Uniform</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ghillie suit</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Outerwear</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Coat</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Fatigue jacket</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Overcoat</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Parka</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Photojournalist’s vest</p></td>
-<td><p>Med</p></td>
-<td><p>1 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Windbreaker</p></td>
-<td><p>Med</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tool belt</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h2>Computers and Consumer Electronics</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Camera</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>35mm</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>17</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Digital</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Disposable</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Film</p></td>
-<td><p>Dim</p></td>
-<td><p>—</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Film developing (roll)</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Cell phone</p></td>
-<td><p>Dim</p></td>
-<td><p>—</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Computer</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Desktop</p></td>
-<td><p>Large</p></td>
-<td><p>10 lb.</p></td>
-<td><p>22</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Notebook</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>23</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Upgrade</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>See text</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Digital audio recorder</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Modem</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Broadband</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Cellular</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>PDA</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Portable satellite phone</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>17</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Portable video camera</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Printer</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Scanner</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Walkie-talkie</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Basic</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Professional</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Surveillance Gear</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Black box</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>4</p></td>
-<td><p>Illegal (+4)</p></td>
-</tr>
-<tr class="even">
-<td><p>Caller ID defeater</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cellular interceptor</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>23</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Lineman’s buttset</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Metal detector</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Night vision goggles</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>17</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tap detector</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Telephone tap</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Line tap</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Receiver tap</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>3</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Telephone line tracer</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>23</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h2>Professional Equipment</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Bolt cutter</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Caltrops (25)</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Chemical kit</p></td>
-<td><p>Med</p></td>
-<td><p>6 lb.</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Demolitions kit</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Disguise kit</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Duct tape</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Electrical tool kit</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Basic</p></td>
-<td><p>Large</p></td>
-<td><p>12 lb.</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Deluxe</p></td>
-<td><p>Huge</p></td>
-<td><p>33 lb.</p></td>
-<td><p>21</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Evidence kit</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Basic</p></td>
-<td><p>Med</p></td>
-<td><p>6 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Deluxe</p></td>
-<td><p>Med</p></td>
-<td><p>8 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Fake ID</p></td>
-<td><p>Fine</p></td>
-<td><p>—</p></td>
-<td><p>See text</p></td>
-<td><p>Illegal (+4)</p></td>
-</tr>
-<tr class="odd">
-<td><p>First aid kit</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Forgery kit</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Handcuffs</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Steel</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Zip-tie (25)</p></td>
-<td><p>Dim</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Instrument, keyboard</p></td>
-<td><p>Large</p></td>
-<td><p>12 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Instrument, percussion</p></td>
-<td><p>Huge</p></td>
-<td><p>50 lb.</p></td>
-<td><p>14</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Instrument, stringed</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Instrument, wind</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Lockpicks</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Car opening kit</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Lockpick set</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>9</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Lock release gun</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>12</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Mechanical tool kit</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Basic</p></td>
-<td><p>Large</p></td>
-<td><p>22 lb.</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Deluxe</p></td>
-<td><p>Huge</p></td>
-<td><p>45 lb.</p></td>
-<td><p>20</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medical kit</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Multipurpose tool</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pharmacist kit</p></td>
-<td><p>Med</p></td>
-<td><p>6 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Search-and-rescue kit</p></td>
-<td><p>Med</p></td>
-<td><p>7 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Spike strip</p></td>
-<td><p>Huge</p></td>
-<td><p>22 lb.</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Surgery kit</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Survival Gear</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Backpack</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Binoculars</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Standard</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Rangefinding</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Electro-optical</p></td>
-<td><p>Small</p></td>
-<td><p>4 lb.</p></td>
-<td><p>16</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Chemical light sticks (5)</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Climbing gear</p></td>
-<td><p>Large</p></td>
-<td><p>10 lb.</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Compass</p></td>
-<td><p>Dim</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fire extinguisher</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Flash goggles</p></td>
-<td><p>Tiny</p></td>
-<td><p>2 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Flashlight</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Penlight</p></td>
-<td><p>Dim</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Standard</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Battery flood</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gas mask</p></td>
-<td><p>Small</p></td>
-<td><p>5 lb.</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>GPS receiver</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Map</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Road atlas</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tactical map</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Mesh vest</p></td>
-<td><p>Med</p></td>
-<td><p>7 lb.</p></td>
-<td><p>8</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Portable stove</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Rope (150 ft.)</p></td>
-<td><p>Large</p></td>
-<td><p>12 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Sleeping bag</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Tent</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2-person dome</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4-person dome</p></td>
-<td><p>Med</p></td>
-<td><p>7 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>8-person dome</p></td>
-<td><p>Large</p></td>
-<td><p>10 lb.</p></td>
-<td><p>13</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Trail rations (12)</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Weapon Accessories</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Box magazine</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Detonator</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Blasting cap</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>4</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Radio controlled</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>10</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Timed</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>7</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Wired</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Holster</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Hip</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Concealed carry</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Illuminator</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Laser sight</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Scope</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Standard</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>11</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Electro-optical</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Speed loader</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Suppressor</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pistol</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>12</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rifle</p></td>
-<td><p>Small</p></td>
-<td><p>4 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: General Equipment**
+
+| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+|----------------------------------------|-------|---------|-------------|--------------|
+| **Bags and Boxes**                     |       |         |             |              |
+| **Aluminum travel case**               |       |         |             |              |
+| 10 lb. Capacity                        | Med   | 5 lb.   | 10          | —            |
+| 40 lb. Capacity                        | Large | 10 lb.  | 11          | —            |
+| 75 lb. capacity                        | Large | 15 lb.  | 12          | —            |
+| Briefcase                              | Med   | 2 lb.   | 7           | —            |
+| Contractor’s field bag                 | Med   | 2 lb.   | 6           | —            |
+| Day pack                               | Small | 2 lb.   | 5           | —            |
+| Handbag                                | Small | 1 lb.   | 4           | —            |
+| **Range pack**                         |       |         |             |              |
+| Standard                               | Small | 2 lb.   | 7           | —            |
+| Oversized                              | Med   | 3 lb.   | 9           | —            |
+| Patrol box                             | Med   | 4 lb.   | 9           | —            |
+| **Clothing**                           |       |         |             |              |
+| **Clothing outfit**                    |       |         |             |              |
+| Business                               | Med   | 3 lb.   | 12          | —            |
+| Casual                                 | Med   | 2 lb.   | 8           | —            |
+| Formal                                 | Med   | 3 lb.   | 15          | —            |
+| Fatigues                               | Med   | 3 lb.   | 9           | —            |
+| Uniform                                | Med   | 2 lb.   | 9           | —            |
+| Ghillie suit                           | Med   | 5 lb.   | 6           | —            |
+| **Outerwear**                          |       |         |             |              |
+| Coat                                   | Med   | 2 lb.   | 8           | —            |
+| Fatigue jacket                         | Med   | 2 lb.   | 7           | —            |
+| Overcoat                               | Med   | 3 lb.   | 9           | —            |
+| Parka                                  | Med   | 3 lb.   | 9           | —            |
+| Photojournalist’s vest                 | Med   | 1 lb.   | 9           | —            |
+| Windbreaker                            | Med   | 1 lb.   | 6           | —            |
+| Tool belt                              | Small | 2 lb.   | 9           | —            |
+| **Computers and Consumer Electronics** |       |         |             |              |
+| **Camera**                             |       |         |             |              |
+| 35mm                                   | Small | 2 lb.   | 17          | —            |
+| Digital                                | Tiny  | 0.5 lb. | 14          | —            |
+| Disposable                             | Tiny  | 0.5 lb. | 4           | —            |
+| Film                                   | Dim   | —       | 3           | —            |
+| Film developing (roll)                 | —     | —       | 3           | —            |
+| Cell phone                             | Dim   | —       | 9           | —            |
+| **Computer**                           |       |         |             |              |
+| Desktop                                | Large | 10 lb.  | 22          | —            |
+| Notebook                               | Med   | 5 lb.   | 23          | —            |
+| Upgrade                                | —     | —       | See text    | —            |
+| Digital audio recorder                 | Tiny  | 1 lb.   | 10          | —            |
+| **Modem**                              |       |         |             |              |
+| Broadband                              | Tiny  | 1 lb.   | 6           | —            |
+| Cellular                               | Tiny  | 1 lb.   | 6           | —            |
+| PDA                                    | Tiny  | 0.5 lb. | 16          | —            |
+| Portable satellite phone               | Small | 2 lb.   | 17          | —            |
+| Portable video camera                  | Small | 2 lb.   | 16          | —            |
+| Printer                                | Med   | 3 lb.   | 12          | —            |
+| Scanner                                | Med   | 3 lb.   | 12          | —            |
+| **Walkie-talkie**                      |       |         |             |              |
+| Basic                                  | Tiny  | 1 lb.   | 7           | —            |
+| Professional                           | Tiny  | 1 lb.   | 15          | —            |
+| **Surveillance Gear**                  |       |         |             |              |
+| Black box                              | Tiny  | 0.5 lb. | 4           | Illegal (+4) |
+| Caller ID defeater                     | Tiny  | 1 lb.   | 5           | —            |
+| Cellular interceptor                   | Tiny  | 0.5 lb. | 23          | —            |
+| Lineman’s buttset                      | Tiny  | 1 lb.   | 13          | Lic (+1)     |
+| Metal detector                         | Small | 2 lb.   | 11          | —            |
+| Night vision goggles                   | Small | 3 lb.   | 17          | —            |
+| Tap detector                           | Tiny  | 1 lb.   | 7           | —            |
+| **Telephone tap**                      |       |         |             |              |
+| Line tap                               | Tiny  | 0.5 lb. | 13          | Lic (+1)     |
+| Receiver tap                           | Tiny  | 0.5 lb. | 3           | Res (+2)     |
+| Telephone line tracer                  | Med   | 5 lb.   | 23          | —            |
+| **Professional Equipment**             |       |         |             |              |
+| Bolt cutter                            | Med   | 5 lb.   | 6           | —            |
+| Caltrops (25)                          | Small | 2 lb.   | 5           | —            |
+| Chemical kit                           | Med   | 6 lb.   | 16          | —            |
+| Demolitions kit                        | Med   | 5 lb.   | 13          | Lic (+1)     |
+| Disguise kit                           | Med   | 5 lb.   | 12          | —            |
+| Duct tape                              | Tiny  | 1 lb.   | 3           | —            |
+| **Electrical tool kit**                |       |         |             |              |
+| Basic                                  | Large | 12 lb.  | 14          | —            |
+| Deluxe                                 | Huge  | 33 lb.  | 21          | —            |
+| **Evidence kit**                       |       |         |             |              |
+| Basic                                  | Med   | 6 lb.   | 7           | —            |
+| Deluxe                                 | Med   | 8 lb.   | 15          | —            |
+| Fake ID                                | Fine  | —       | See text    | Illegal (+4) |
+| First aid kit                          | Small | 3 lb.   | 5           | —            |
+| Forgery kit                            | Small | 3 lb.   | 12          | —            |
+| **Handcuffs**                          |       |         |             |              |
+| Steel                                  | Tiny  | 1 lb.   | 7           | —            |
+| Zip-tie (25)                           | Dim   | 0.5 lb. | 6           | —            |
+| Instrument, keyboard                   | Large | 12 lb.  | 12          | —            |
+| Instrument, percussion                 | Huge  | 50 lb.  | 14          | —            |
+| Instrument, stringed                   | Large | 7 lb.   | 13          | —            |
+| Instrument, wind                       | Tiny  | 1 lb.   | 8           | —            |
+| **Lockpicks**                          |       |         |             |              |
+| Car opening kit                        | Tiny  | 1 lb.   | 6           | Lic (+1)     |
+| Lockpick set                           | Tiny  | 1 lb.   | 9           | Lic (+1)     |
+| Lock release gun                       | Tiny  | 0.5 lb. | 12          | Res (+2)     |
+| **Mechanical tool kit**                |       |         |             |              |
+| Basic                                  | Large | 22 lb.  | 13          | —            |
+| Deluxe                                 | Huge  | 45 lb.  | 20          | —            |
+| Medical kit                            | Med   | 5 lb.   | 15          | —            |
+| Multipurpose tool                      | Tiny  | 0.5 lb. | 9           | —            |
+| Pharmacist kit                         | Med   | 6 lb.   | 17          | Res (+2)     |
+| Search-and-rescue kit                  | Med   | 7 lb.   | 12          | —            |
+| Spike strip                            | Huge  | 22 lb.  | 13          | —            |
+| Surgery kit                            | Med   | 5 lb.   | 16          | Lic (+1)     |
+| **Survival Gear**                      |       |         |             |              |
+| Backpack                               | Med   | 3 lb.   | 10          | —            |
+| **Binoculars**                         |       |         |             |              |
+| Standard                               | Small | 2 lb.   | 7           | —            |
+| Rangefinding                           | Small | 3 lb.   | 15          | —            |
+| Electro-optical                        | Small | 4 lb.   | 16          | —            |
+| Chemical light sticks (5)              | Tiny  | 1 lb.   | 2           | —            |
+| Climbing gear                          | Large | 10 lb.  | 11          | —            |
+| Compass                                | Dim   | 0.5 lb. | 5           | —            |
+| Fire extinguisher                      | Med   | 3 lb.   | 8           | —            |
+| Flash goggles                          | Tiny  | 2 lb.   | 15          | —            |
+| **Flashlight**                         |       |         |             |              |
+| Penlight                               | Dim   | 0.5 lb. | 3           | —            |
+| Standard                               | Tiny  | 1 lb.   | 4           | —            |
+| Battery flood                          | Small | 2 lb.   | 6           | —            |
+| Gas mask                               | Small | 5 lb.   | 13          | —            |
+| GPS receiver                           | Tiny  | 1 lb.   | 15          | —            |
+| **Map**                                |       |         |             |              |
+| Road atlas                             | Tiny  | 1 lb.   | 4           | —            |
+| Tactical map                           | Tiny  | 0.5 lb. | 3           | —            |
+| Mesh vest                              | Med   | 7 lb.   | 8           | —            |
+| Portable stove                         | Tiny  | 1 lb.   | 9           | —            |
+| Rope (150 ft.)                         | Large | 12 lb.  | 5           | —            |
+| Sleeping bag                           | Med   | 4 lb.   | 9           | —            |
+| **Tent**                               |       |         |             |              |
+| 2-person dome                          | Med   | 4 lb.   | 11          | —            |
+| 4-person dome                          | Med   | 7 lb.   | 12          | —            |
+| 8-person dome                          | Large | 10 lb.  | 13          | —            |
+| Trail rations (12)                     | Tiny  | 1 lb.   | 5           | —            |
+| **Weapon Accessories**                 |       |         |             |              |
+| Box magazine                           | Tiny  | 0.5 lb. | 4           | —            |
+| **Detonator**                          |       |         |             |              |
+| Blasting cap                           | Tiny  | 0.5 lb. | 4           | Lic (+1)     |
+| Radio controlled                       | Tiny  | 0.5 lb. | 10          | Lic (+1)     |
+| Timed                                  | Tiny  | 0.5 lb. | 7           | Lic (+1)     |
+| Wired                                  | Tiny  | 1 lb.   | 6           | Lic (+1)     |
+| **Holster**                            |       |         |             |              |
+| Hip                                    | Tiny  | 1 lb.   | 5           | —            |
+| Concealed carry                        | Tiny  | 0.5 lb. | 5           | —            |
+| Illuminator                            | Tiny  | 0.5 lb. | 7           | —            |
+| Laser sight                            | Tiny  | 0.5 lb. | 15          | —            |
+| **Scope**                              |       |         |             |              |
+| Standard                               | Tiny  | 0.5 lb. | 11          | —            |
+| Electro-optical                        | Small | 3 lb.   | 18          | —            |
+| Speed loader                           | Tiny  | 0.5 lb. | 3           | —            |
+| **Suppressor**                         |       |         |             |              |
+| Pistol                                 | Tiny  | 1 lb.   | 12          | Mil (+3)     |
+| Rifle                                  | Small | 4 lb.   | 14          | Mil (+3)     |
 
 ## Bags and Boxes
 
@@ -1663,10 +594,8 @@ periodically (purchase DC 5 less than the original purchase DC.
 Note that some skills, by their nature, require a piece of equipment to
 utilize.
 
-|                        |                        |
+| Skill                  | Associated Item        |
 |------------------------|------------------------|
-| **Skill**              | **Associated Item**    |
-|                        |                        |
 | Climb                  | Climbing gear          |
 | Craft (chemical)       | Chemical kit           |
 | Craft (electronic)     | Electrical tool kit    |
@@ -1690,9 +619,7 @@ utilize.
 |                        | Multipurpose tool      |
 | Treat Injury           | First aid kit          |
 |                        | Medical kit            |
-|                        |                        |
 |                        | Surgery kit            |
-|                        |                        |
 
 ### Bolt Cutter
 
@@ -2214,162 +1141,39 @@ Lifestyle items include travel expenses, entertainment and meals beyond
 the ordinary, and housing, for those characters interested in buying a
 home rather than renting. Lifestyle items are shown on the table below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table : Lifestyle Items</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Housing</strong></p></td>
-<td><h5>Purchase DC</h5></td>
-</tr>
-<tr class="even">
-<td><p>Small condo</p></td>
-<td><p>28</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large condo</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>Small house</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium house</p></td>
-<td><p>32</p></td>
-</tr>
-<tr class="even">
-<td><p>Large house</p></td>
-<td><p>34</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mansion</p></td>
-<td><p>36</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Entertainment</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="even">
-<td><p>Movie ticket</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Theater ticket</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td><p>Sporting event ticket</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Meals</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="odd">
-<td><p>Fast food</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>Family restaurant</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Upscale restaurant</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td><p>Fancy restaurant</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Transportation</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="odd">
-<td><p>Airfare</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Domestic, coach</p></td>
-<td><p>14</p></td>
-</tr>
-<tr class="odd">
-<td><p>Domestic, first class</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="even">
-<td><p>International, coach</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="odd">
-<td><p>International, first class</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="even">
-<td><p>Car rental</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Economy car</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>Mid-size or truck</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Luxury</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Lodging</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="even">
-<td><p>Budget motel</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="odd">
-<td><p>Average hotel</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Upscale hotel</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table : Lifestyle Items**
+
+| Housing                    | Purchase DC |
+|----------------------------|-------------|
+| Small condo                | 28          |
+| Large condo                | 30          |
+| Small house                | 30          |
+| Medium house               | 32          |
+| Large house                | 34          |
+| Mansion                    | 36          |
+| Entertainment              | Purchase DC |
+| Movie ticket               | 3           |
+| Theater ticket             | 7           |
+| Sporting event ticket      | 7           |
+| Meals                      | Purchase DC |
+| Fast food                  | 2           |
+| Family restaurant          | 4           |
+| Upscale restaurant         | 7           |
+| Fancy restaurant           | 9           |
+| Transportation             | Purchase DC |
+| **Airfare**                |             |
+| Domestic, coach            | 14          |
+| Domestic, first class      | 17          |
+| International, coach       | 18          |
+| International, first class | 22          |
+| **Car rental**             |             |
+| Economy car                | 6           |
+| Mid-size or truck          | 8           |
+| Luxury                     | 10          |
+| Lodging                    | Purchase DC |
+| Budget motel               | 7           |
+| Average hotel              | 9           |
+| Upscale hotel              | 11          |
 
 ### Housing
 
@@ -2416,114 +1220,31 @@ lodging rates are per day.
 The broad spectrum of services available to characters is only
 represented in overview here. Services are identified on Table:Services.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Services</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Item</strong></p></td>
-<td><h5>Purchase DC</h5></td>
-</tr>
-<tr class="even">
-<td><p>Auto repair</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 to 10 hp damage</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>11 to 20 hp damage</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="odd">
-<td><p>21 to 30 hp damage</p></td>
-<td><p>21</p></td>
-</tr>
-<tr class="even">
-<td><p>30+ hp damage</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="odd">
-<td><p>Towing</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="even">
-<td><p>Bail bonds</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Property crime</p></td>
-<td><p>13</p></td>
-</tr>
-<tr class="even">
-<td><p>Assault crime</p></td>
-<td><p>16</p></td>
-</tr>
-<tr class="odd">
-<td><p>Death crime</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="even">
-<td><p>Bribery</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bouncer</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="even">
-<td><p>Bureaucrat</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Informant</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td><p>Police officer</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Legal services</p></td>
-<td><p>10 + lawyer’s Knowledge (civics) ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Medical services</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Long-term care</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Restore hit points</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p>Surgery</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Treat poison/disease</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Services**
+
+| Item                 | Purchase DC                            |
+|----------------------|----------------------------------------|
+| **Auto repair**      |                                        |
+| 1 to 10 hp damage    | 15                                     |
+| 11 to 20 hp damage   | 18                                     |
+| 21 to 30 hp damage   | 21                                     |
+| 30+ hp damage        | 24                                     |
+| Towing               | 8                                      |
+| **Bail bonds**       |                                        |
+| Property crime       | 13                                     |
+| Assault crime        | 16                                     |
+| Death crime          | 22                                     |
+| **Bribery**          |                                        |
+| Bouncer              | 6                                      |
+| Bureaucrat           | 10                                     |
+| Informant            | 7                                      |
+| Police officer       | 10                                     |
+| Legal services       | 10 + lawyer’s Knowledge (civics) ranks |
+| **Medical services** |                                        |
+| Long-term care       | 10                                     |
+| Restore hit points   | 12                                     |
+| Surgery              | 15                                     |
+| Treat poison/disease | 10                                     |
 
 ### Auto Repair
 

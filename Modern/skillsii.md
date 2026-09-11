@@ -16,50 +16,12 @@ Information ranges from general to protected, and the cost and DC
 increases accordingly for the type of information the character seeks to
 gather, as given in the table below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Type of Information</h2></td>
-<td><h2>DC</h2></td>
-<td><h2>Purchase DC</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>General</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>Specific</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Restricted</p></td>
-<td><p>20</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Protected</p></td>
-<td><p>25</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Information | DC | Purchase DC |
+|---------------------|----|-------------|
+| General             | 10 | 5           |
+| Specific            | 15 | 10          |
+| Restricted          | 20 | 15          |
+| Protected           | 25 | 20          |
 
 General information concerns local happenings, rumors, gossip, and the
 like. Specific information usually relates to a particular question.
@@ -94,50 +56,12 @@ Handle Animal (Cha) Trained Only
 **Check:** The time required to get an effect and the DC depend on what
 the character is trying to do.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Task</h2></td>
-<td><h2>Time</h2></td>
-<td><h2>DC</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Handle an animal</p></td>
-<td><p>Move action</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>“Push” an animal</p></td>
-<td><p>Full-round action</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Teach an animal a trick</p></td>
-<td><p>1 week</p></td>
-<td><p>See text</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Train an animal for a purpose</p></td>
-<td><p>See text</p></td>
-<td><p>See text</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Task                          | Time              | DC       |
+|-------------------------------|-------------------|----------|
+| Handle an animal              | Move action       | 10       |
+| “Push” an animal              | Full-round action | 25       |
+| Teach an animal a trick       | 1 week            | See text |
+| Train an animal for a purpose | See text          | See text |
 
 **Handle an Animal:** This means to command an animal to perform a task
 or trick that it knows. If the animal is wounded or has taken any
@@ -274,64 +198,13 @@ or charging.
 
 The hide check is also modified by the character’s size:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><h2>Modifier</h2></td>
-<td><p><strong>Size</strong></p></td>
-<td><h3>Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>+16</p></td>
-<td><p>Large</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>+12</p></td>
-<td><p>Huge</p></td>
-<td><p>–8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>+8</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>–12</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>+4</p></td>
-<td><p>Colossal</p></td>
-<td><p>–16</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>+0</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size        | Modifier | Size       | Modifier |
+|-------------|----------|------------|----------|
+| Fine        | +16      | Large      | –4       |
+| Diminutive  | +12      | Huge       | –8       |
+| Tiny        | +8       | Gargantuan | –12      |
+| Small       | +4       | Colossal   | –16      |
+| Medium-size | +0       |            |          |
 
 If people are observing the character, even casually, he or she can’t
 hide. The character can run around a corner so that he or she is out of
@@ -342,14 +215,10 @@ Cover and concealment grant circumstance bonuses to Hide checks, as
 shown below. Note that a character can’t hide if he or she has less than
 one-half cover or concealment.
 
-|                          |                        |
-|--------------------------|------------------------|
-| **Cover or Concealment** | **Circumstance Bonus** |
-|                          |                        |
-| Three-quarters           | +5                     |
-|                          |                        |
-| Nine-tenths              | +10                    |
-|                          |                        |
+| Cover or Concealment | Circumstance Bonus |
+|----------------------|--------------------|
+| Three-quarters       | +5                 |
+| Nine-tenths          | +10                |
 
 **Creating a Diversion to Hide:** A character can use the Bluff skill to
 help him or her hide. A successful Bluff check can give the character
@@ -439,46 +308,13 @@ The base DC to analyze a clue is 15. It is modified by the time that has
 elapsed since the clue was left, and whether or not the scene was
 disturbed.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Circumstances</h2></td>
-<td><h2>DC Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Every day since event (max modifier +10)</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Scene is outdoors</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Scene slightly disturbed</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Scene moderately disturbed</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Scene extremely disturbed</p></td>
-<td><p>+6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Circumstances                            | DC Modifier |
+|------------------------------------------|-------------|
+| Every day since event (max modifier +10) | +2          |
+| Scene is outdoors                        | +5          |
+| Scene slightly disturbed                 | +2          |
+| Scene moderately disturbed               | +4          |
+| Scene extremely disturbed                | +6          |
 
 **Collect Evidence:** The character can collect and prepare evidentiary
 material for a lab. This use of the Investigate skill requires an
@@ -548,16 +384,13 @@ All Jump DCs covered here assume that the character can move at least 20
 feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
-|                                                                   |                               |                                   |                               |
-|-------------------------------------------------------------------|-------------------------------|-----------------------------------|-------------------------------|
-| **<sup>Long Jump Distance</sup>**                                 | **<sup>DC</sup><sup>1</sup>** | **<sup>Long Jump Distance</sup>** | **<sup>DC</sup><sup>1</sup>** |
-|                                                                   |                               |                                   |                               |
-| 5 feet                                                            | 5                             | 20 feet                           | 20                            |
-| 10 feet                                                           | 10                            | 25 feet                           | 25                            |
-| 15 feet                                                           | 15                            | 30 feet                           | 30                            |
-|                                                                   |                               |                                   |                               |
-| 1 Requires a 20-foot move. Without a 20-foot move, double the DC. |                               |                                   |                               |
-|                                                                   |                               |                                   |                               |
+| <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
+|-------------------------------|---------------------------|-------------------------------|---------------------------|
+| 5 feet                        | 5                         | 20 feet                       | 20                        |
+| 10 feet                       | 10                        | 25 feet                       | 25                        |
+| 15 feet                       | 15                        | 30 feet                       | 30                        |
+
+1 Requires a 20-foot move. Without a 20-foot move, double the DC.
 
 If the character fails the check by less than 5, he or she doesn’t clear
 the distance, but can make a Reflex save (DC 15) to grab the far edge of
@@ -574,17 +407,14 @@ All Jump DCs covered here assume that the character can move at least 20
 feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
-|                                                                    |                               |                                   |                               |
-|--------------------------------------------------------------------|-------------------------------|-----------------------------------|-------------------------------|
-| **<sup>High Jump Distance</sup>**                                  | **<sup>DC</sup><sup>1</sup>** | **<sup>High Jump Distance</sup>** | **<sup>DC</sup><sup>1</sup>** |
-|                                                                    |                               |                                   |                               |
-| 1 foot                                                             | 4                             | 5 feet                            | 20                            |
-| 2 feet                                                             | 8                             | 6 feet                            | 24                            |
-| 3 feet                                                             | 12                            | 7 feet                            | 28                            |
-| 4 feet                                                             | 16                            | 8 feet                            | 32                            |
-|                                                                    |                               |                                   |                               |
-| 1 Requires a 20-foot move. Without a running start, double the DC. |                               |                                   |                               |
-|                                                                    |                               |                                   |                               |
+| <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
+|-------------------------------|---------------------------|-------------------------------|---------------------------|
+| 1 foot                        | 4                         | 5 feet                        | 20                        |
+| 2 feet                        | 8                         | 6 feet                        | 24                        |
+| 3 feet                        | 12                        | 7 feet                        | 28                        |
+| 4 feet                        | 16                        | 8 feet                        | 32                        |
+
+1 Requires a 20-foot move. Without a running start, double the DC.
 
 If the character succeeds on the check, he or she can reach the height.
 The character grasps the object he or she was trying to reach. If the
@@ -599,62 +429,17 @@ can reach without jumping is given in the table below. (As a Medium-size
 creature, a typical human can reach 8 feet without jumping.) If the
 creature is long instead of tall, treat it as one size category smaller.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Creature Size</h2></td>
-<td><h2>Maximum Height</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>128 ft.</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>64 ft.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>32 ft.</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>16 ft.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>8 ft.</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>4 ft.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>2 ft.</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>1 ft.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>0.5 ft.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Creature Size | Maximum Height |
+|---------------|----------------|
+| Colossal      | 128 ft.        |
+| Gargantuan    | 64 ft.         |
+| Huge          | 32 ft.         |
+| Large         | 16 ft.         |
+| Medium-size   | 8 ft.          |
+| Small         | 4 ft.          |
+| Tiny          | 2 ft.          |
+| Diminutive    | 1 ft.          |
+| Fine          | 0.5 ft.        |
 
 **Hop Up:** The character can jump up onto an object as tall as his or
 her waist with a Jump check (DC 10). Doing so counts as 10 feet of
@@ -799,98 +584,22 @@ the character failed the check.
 A successful Listen check when there isn’t anything to hear results in
 the character hearing nothing.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>DC</h3></td>
-<td><p><strong>Sound</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>–20</p></td>
-<td><p>Gunfire</p></td>
-</tr>
-<tr class="even">
-<td><p>–10</p></td>
-<td><p>A melee battle</p></td>
-</tr>
-<tr class="odd">
-<td><p>0</p></td>
-<td><p>People talking</p></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td><p>A person in medium armor walking at a slow pace, trying not to
-make noise</p></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>An unarmored person walking at a slow pace, trying not to make
-any noise</p></td>
-</tr>
-<tr class="even">
-<td><p>15</p></td>
-<td><p>A 1st-level Fast hero sneaking up on someone
-<sup>1</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>A tiger stalking prey <sup>1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p>30</p></td>
-<td><p>A bird flying through the air</p></td>
-</tr>
-<tr class="odd">
-<td><p>+5</p></td>
-<td><p>Through a door</p></td>
-</tr>
-<tr class="even">
-<td><p>+15</p></td>
-<td><p>Through a solid wall</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 This is actually an opposed check; the DC given is a typical
-Move Silently check result for such a character or creature.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h2>Condition</h2></td>
-<td><h2>Check Penalty</h2></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Per 10 feet of distance</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Listener distracted</p></td>
-<td><p>–5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| DC                                                                                                                              | Sound                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| –20                                                                                                                             | Gunfire                                                                   |
+| –10                                                                                                                             | A melee battle                                                            |
+| 0                                                                                                                               | People talking                                                            |
+| 5                                                                                                                               | A person in medium armor walking at a slow pace, trying not to make noise |
+| 10                                                                                                                              | An unarmored person walking at a slow pace, trying not to make any noise  |
+| 15                                                                                                                              | A 1st-level Fast hero sneaking up on someone <sup>1</sup>                 |
+| 20                                                                                                                              | A tiger stalking prey <sup>1</sup>                                        |
+| 30                                                                                                                              | A bird flying through the air                                             |
+| +5                                                                                                                              | Through a door                                                            |
+| +15                                                                                                                             | Through a solid wall                                                      |
+| **1 This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.** |                                                                           |
+| Condition                                                                                                                       | Check Penalty                                                             |
+| Per 10 feet of distance                                                                                                         | –1                                                                        |
+| Listener distracted                                                                                                             | –5                                                                        |
 
 **Try Again?:** A character can make a Listen check every time he or she
 has the opportunity to hear something in a reactive manner. As a move
@@ -957,42 +666,12 @@ If the character fails, he or she loses half a day before the character
 can try again. The character keeps trying until he or she succeeds,
 losing half a day for each failure.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Length of Trip</strong></p></td>
-<td><h3>DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Short (a few hours)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate (a day or two)</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="odd">
-<td><p>Long (up to a week)</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Extreme (more than a week)</p></td>
-<td><p>28</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Length of Trip             | DC |
+|----------------------------|----|
+| Short (a few hours)        | 20 |
+| Moderate (a day or two)    | 22 |
+| Long (up to a week)        | 25 |
+| Extreme (more than a week) | 28 |
 
 When faced with multiple choices, such as at a branch in a tunnel, a
 character can make a Navigate check (DC 20) to intuit the choice that
@@ -1065,48 +744,13 @@ harp, lute, sitar, and violin.
 for playing wind musical instruments, such as flute, bugle, trumpet,
 tuba, bagpipes, and trombone.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Result</h3></td>
-<td><p><strong>Performance</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>Amateur performance. Audience may appreciate your performance,
-but isn’t impressed.</p></td>
-</tr>
-<tr class="even">
-<td><p>15</p></td>
-<td><p>Routine performance. Audience enjoys your performance, but it
-isn’t exceptional.</p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>Great performance. Audience highly impressed.</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>Memorable performance. Audience enthusiastic.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>30</p></td>
-<td><p>Masterful performance. Audience awed.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Result | Performance                                                                         |
+|--------|-------------------------------------------------------------------------------------|
+| 10     | Amateur performance. Audience may appreciate your performance, but isn’t impressed. |
+| 15     | Routine performance. Audience enjoys your performance, but it isn’t exceptional.    |
+| 20     | Great performance. Audience highly impressed.                                       |
+| 25     | Memorable performance. Audience enthusiastic.                                       |
+| 30     | Masterful performance. Audience awed.                                               |
 
 **Try Again?:** Not for the same performance and audience.
 
@@ -1170,46 +814,13 @@ your Profession check result (if the check succeeds), the number of
 ranks the character has in this skill increases his or her Wealth bonus
 as follows.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Ranks</strong></p></td>
-<td><h2>Wealth Bonus Increase</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1–5</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6–10</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>11–15</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>16–20</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>21–23</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Ranks | Wealth Bonus Increase |
+|-------|-----------------------|
+| 1–5   | +1                    |
+| 6–10  | +2                    |
+| 11–15 | +3                    |
+| 16–20 | +4                    |
+| 21–23 | +5                    |
 
 **Special:** If the Gamemaster deems it appropriate, a character can add
 his or her Profession modifier when making a Reputation check to deal
@@ -1311,58 +922,12 @@ monetary cost when spare parts or new components are needed, represented
 by a Wealth check. If the GM decides this isn’t necessary for the type
 of repair the character is attempting, then no Wealth check is needed.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Repair Task (Example)</h2></td>
-<td><h2>Purchase DC</h2></td>
-<td><h2>Repair DC</h2></td>
-<td><h2>Time</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Simple (tool, simple weapon)</p></td>
-<td><p>4</p></td>
-<td><p>10</p></td>
-<td><p>1 min.</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate (mechanical or electronic component)</p></td>
-<td><p>7</p></td>
-<td><p>15</p></td>
-<td><p>10 min.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Complex (mechanical or electronic device)</p></td>
-<td><p>10</p></td>
-<td><p>20</p></td>
-<td><p>1 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Advanced (cutting-edge mechanical or electronic device)</p></td>
-<td><p>13</p></td>
-<td><p>25</p></td>
-<td><p>10 hr.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Repair Task (Example)                                   | Purchase DC | Repair DC | Time    |
+|---------------------------------------------------------|-------------|-----------|---------|
+| Simple (tool, simple weapon)                            | 4           | 10        | 1 min.  |
+| Moderate (mechanical or electronic component)           | 7           | 15        | 10 min. |
+| Complex (mechanical or electronic device)               | 10          | 20        | 1 hr.   |
+| Advanced (cutting-edge mechanical or electronic device) | 13          | 25        | 10 hr.  |
 
 **Jury-Rig:** A character can choose to attempt jury-rigged, or
 temporary, repairs. Doing this reduces the purchase DC by 3 and the
@@ -1510,40 +1075,11 @@ A Search check can turn up individual footprints, but does not allow a
 character to follow tracks or tell the character which direction the
 creature or creatures went or came from.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>DC</h3></td>
-<td><p><strong>Task</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>Ransack an area to find a certain object.</p></td>
-</tr>
-<tr class="even">
-<td><p>20</p></td>
-<td><p>Notice a typical secret compartment, a simple trap, or an obscure
-clue.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>25+</p></td>
-<td><p>Find a complex or well-hidden secret compartment or trap; notice
-an extremely obscure clue.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| DC  | Task                                                                                        |
+|-----|---------------------------------------------------------------------------------------------|
+| 10  | Ransack an area to find a certain object.                                                   |
+| 20  | Notice a typical secret compartment, a simple trap, or an obscure clue.                     |
+| 25+ | Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue. |
 
 **Special:** A character can take 10 or take 20 when making a Search
 check.
@@ -1694,46 +1230,11 @@ Survival (Wis)
 **Check:** A character can keep his or herself and others safe and fed
 in the wild.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>DC</h3></td>
-<td><p><strong>Task</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>Get along in the wild. Move up to half the character’s overland
-speed while hunting and foraging (no food or water supplies needed). The
-character can provide food and water for one other person for every 2
-points by which the character’s check result exceeds 10.</p></td>
-</tr>
-<tr class="even">
-<td><p>15</p></td>
-<td><p>Gain a +2 circumstance bonus on Fortitude saves against severe
-weather while moving up to half the character’s overland speed, or gain
-a +4 circumstance bonus if stationary. The character may grant the same
-bonus to one other character for every 1 point by which the character’s
-check result exceeds 15.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>18</p></td>
-<td><p>Avoid getting lost and avoid natural hazards, such as
-quicksand.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| DC | Task                                                                                                                                                                                                                                                                                                            |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 | Get along in the wild. Move up to half the character’s overland speed while hunting and foraging (no food or water supplies needed). The character can provide food and water for one other person for every 2 points by which the character’s check result exceeds 10.                                         |
+| 15 | Gain a +2 circumstance bonus on Fortitude saves against severe weather while moving up to half the character’s overland speed, or gain a +4 circumstance bonus if stationary. The character may grant the same bonus to one other character for every 1 point by which the character’s check result exceeds 15. |
+| 18 | Avoid getting lost and avoid natural hazards, such as quicksand.                                                                                                                                                                                                                                                |
 
 With the Track feat, a character can use Survival checks to track a
 character or animal across various terrain types.
@@ -1772,38 +1273,11 @@ fails the check, the character begins to drown.
 
 The DC for the Swim check depends on the water:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Water</h2></td>
-<td><h2>DC</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Calm water</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Rough water</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Stormy water</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Water        | DC |
+|--------------|----|
+| Calm water   | 10 |
+| Rough water  | 15 |
+| Stormy water | 20 |
 
 Each hour that the character swims, make a Swim check against DC 20. If
 the character fails, he or she becomes fatigued. If the character fails

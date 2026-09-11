@@ -162,7 +162,6 @@ descriptions for the spells that a particular feat can’t modify.
 |                  |                    |
 |------------------|--------------------|
 | Empower Spell    | +2                 |
-|                  |                    |
 | Enlarge Spell    | +1                 |
 | Eschew Materials | None               |
 | Extend Spell     | +1                 |
@@ -172,9 +171,7 @@ descriptions for the spells that a particular feat can’t modify.
 | Sacred Spell     | +2                 |
 | Shadowbane Spell | +1                 |
 | Silent Spell     | +1                 |
-|                  |                    |
 | Still Spell      | +1                 |
-|                  |                    |
 
 ##### Preparing and Casting Metamagic Spells
 
@@ -248,12 +245,9 @@ to caster level as manifester level.
 |                         |                              |
 |-------------------------|------------------------------|
 | Power Penetration       | As Spell Penetration         |
-|                         |                              |
 | Power Focus             | As Spell Focus               |
 | Great Power Penetration | As Greater Spell Penetration |
-|                         |                              |
 | Greater Power Focus     | As Greater Spell Focus       |
-|                         |                              |
 
 Feats that require the choice of a school of spells would for its
 psionic equivalent require choosing an attribute (ability score), to the

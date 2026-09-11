@@ -37,127 +37,14 @@ weapons, and other equipment.
 **Restriction:** The level of license required to purchase the mecha
 legally.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Mecha Sizes</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Size</h3></td>
-<td><p><strong>Size Modifier</strong></p></td>
-<td><p><strong>Equipment Slots</strong></p></td>
-<td><p><strong>Hit Points</strong></p></td>
-<td><p><strong>Base Speed</strong></p></td>
-<td><h4>Height</h4></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Fighting Space</strong></p></td>
-<td><p><strong>Reach</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><h4>Restriction</h4></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>–8</p></td>
-<td><p>25</p></td>
-<td><p>800</p></td>
-<td><p>60 ft.</p></td>
-<td><p>64–128 ft.</p></td>
-<td><p>250,000 lb. or more</p></td>
-<td><p>30 ft. by 30 ft.</p></td>
-<td><p>15 ft.</p></td>
-<td><p>60</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>–4</p></td>
-<td><p>17</p></td>
-<td><p>400</p></td>
-<td><p>50 ft.</p></td>
-<td><p>32–64 ft.</p></td>
-<td><p>32,000–250,000 lb.</p></td>
-<td><p>20 ft. by 20 ft.</p></td>
-<td><p>15 ft.</p></td>
-<td><p>48</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>–2</p></td>
-<td><p>11</p></td>
-<td><p>200</p></td>
-<td><p>40 ft.</p></td>
-<td><p>16–32 ft.</p></td>
-<td><p>4,000–32,000 lb.</p></td>
-<td><p>15 ft. by 15 ft.</p></td>
-<td><p>10 ft.</p></td>
-<td><p>44</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>–1</p></td>
-<td><p>7</p></td>
-<td><p>100</p></td>
-<td><p>30 ft.</p></td>
-<td><p>8–16 ft.</p></td>
-<td><p>500–4,000 lb.</p></td>
-<td><p>10 ft. by 10 ft.</p></td>
-<td><p>10 ft.</p></td>
-<td><p>40</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Mecha Sizes**
+
+| Size       | Size Modifier | Equipment Slots | Hit Points | Base Speed | Height     | Weight              | Fighting Space   | Reach  | Purchase DC | Restriction |
+|------------|---------------|-----------------|------------|------------|------------|---------------------|------------------|--------|-------------|-------------|
+| Colossal   | –8            | 25              | 800        | 60 ft.     | 64–128 ft. | 250,000 lb. or more | 30 ft. by 30 ft. | 15 ft. | 60          | Mil (+3)    |
+| Gargantuan | –4            | 17              | 400        | 50 ft.     | 32–64 ft.  | 32,000–250,000 lb.  | 20 ft. by 20 ft. | 15 ft. | 48          | Mil (+3)    |
+| Huge       | –2            | 11              | 200        | 40 ft.     | 16–32 ft.  | 4,000–32,000 lb.    | 15 ft. by 15 ft. | 10 ft. | 44          | Mil (+3)    |
+| Large      | –1            | 7               | 100        | 30 ft.     | 8–16 ft.   | 500–4,000 lb.       | 10 ft. by 10 ft. | 10 ft. | 40          | Res (+2)    |
 
 LARGE MECHA
 
@@ -391,114 +278,17 @@ purchase DC.
 materials used for making them do not require special licenses to
 purchase.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Superstructure Materials</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>—— Modified Base Purchase DC ——</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Superstructure Material </strong></p></td>
-<td><p><strong>Hardness</strong></p></td>
-<td><p><strong>Large</strong></p></td>
-<td><p><strong>Huge</strong></p></td>
-<td><p><strong>Gargantuan</strong></p></td>
-<td><p><strong>Colossal</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Alumisteel (PL 5)</p></td>
-<td><p>10</p></td>
-<td><p>36</p></td>
-<td><p>40</p></td>
-<td><p>44</p></td>
-<td><p>56</p></td>
-</tr>
-<tr class="odd">
-<td><p>Duralloy (PL 6)</p></td>
-<td><p>15</p></td>
-<td><p>40</p></td>
-<td><p>44</p></td>
-<td><p>48</p></td>
-<td><p>60</p></td>
-</tr>
-<tr class="even">
-<td><p>Vanadium (PL 6)</p></td>
-<td><p>20</p></td>
-<td><p>44</p></td>
-<td><p>48</p></td>
-<td><p>52</p></td>
-<td><p>64</p></td>
-</tr>
-<tr class="odd">
-<td><p>Neovulcanium (PL 7)</p></td>
-<td><p>20</p></td>
-<td><p>40</p></td>
-<td><p>44</p></td>
-<td><p>48</p></td>
-<td><p>60</p></td>
-</tr>
-<tr class="even">
-<td><p>Neutronite (PL 7)</p></td>
-<td><p>25</p></td>
-<td><p>44</p></td>
-<td><p>48</p></td>
-<td><p>52</p></td>
-<td><p>64</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Megatanium (PL 8)</p></td>
-<td><p>30</p></td>
-<td><p>40</p></td>
-<td><p>40</p></td>
-<td><p>48</p></td>
-<td><p>60</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Superstructure Materials**
+
+|                              | —— Modified Base Purchase DC —— |           |          |                |              |
+|------------------------------|---------------------------------|-----------|----------|----------------|--------------|
+| **Superstructure Material ** | **Hardness**                    | **Large** | **Huge** | **Gargantuan** | **Colossal** |
+| Alumisteel (PL 5)            | 10                              | 36        | 40       | 44             | 56           |
+| Duralloy (PL 6)              | 15                              | 40        | 44       | 48             | 60           |
+| Vanadium (PL 6)              | 20                              | 44        | 48       | 52             | 64           |
+| Neovulcanium (PL 7)          | 20                              | 40        | 44       | 48             | 60           |
+| Neutronite (PL 7)            | 25                              | 44        | 48       | 52             | 64           |
+| Megatanium (PL 8)            | 30                              | 40        | 40       | 48             | 60           |
 
 **ALUMISTEEL (PL 5)**
 
@@ -1512,597 +1302,42 @@ in its assembly. A character without a mechanical tool kit takes a –4
 penalty on the skill check. The character must also make a Wealth check
 against the weapon’s purchase DC.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Mecha Weapons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Weapon</h3></td>
-<td><h3>Damage</h3></td>
-<td><p><strong>Critical</strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Range Increment</strong></p></td>
-<td><p><strong>Rate of Fire</strong></p></td>
-<td><p><strong>Magazine</strong></p></td>
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 5: Information Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>A3X Dragon flame thrower</p></td>
-<td><p>4d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>20 int.</p></td>
-<td><p>Large</p></td>
-<td><p>75 lb.</p></td>
-<td><p>21</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>M-9 Barrage chaingun</p></td>
-<td><p>5d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>60 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>Linked</p></td>
-<td><p>Huge</p></td>
-<td><p>100 lb.</p></td>
-<td><p>21</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M-53 Firestar rocket launcher</p></td>
-<td><p>10d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>6 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>35 lb.</p></td>
-<td><p>24</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>M-55 Crud rocket launcher</p></td>
-<td><p>10d6</p></td>
-<td><p>—</p></td>
-<td><p>Slashing</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>6 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>35 lb.</p></td>
-<td><p>24</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M-87 Talon missile launcher</p></td>
-<td><p>15d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic/ Fire</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>4 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>20 lb.</p></td>
-<td><p>23</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>PS-15 Panther claws</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>19–20</p></td>
-<td><p>Slashing</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Thunderbolt shock rod</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>20</p></td>
-<td><p>Electricity/ Bludgeoning</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Warpath recoilless rifle</p></td>
-<td><p>10d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>20 box</p></td>
-<td><p>Huge</p></td>
-<td><p>50 lb.</p></td>
-<td><p>22</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Progress Level 6: Fusion Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Corona microwave beam</p></td>
-<td><p>5d6</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>15 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>—</p></td>
-<td><p>Large</p></td>
-<td><p>15 lb.</p></td>
-<td><p>19</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>LK8 armor-piercing pike</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>3</p></td>
-<td><p>Piercing</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>M-21 Comet autolaser</p></td>
-<td><p>8d6</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>75 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>—</p></td>
-<td><p>Huge</p></td>
-<td><p>40 lb.</p></td>
-<td><p>22</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M-70 EMP rocket launcher</p></td>
-<td><p>10d6<strong><sup>2</sup></strong></p></td>
-<td><p>20</p></td>
-<td><p>Electricity</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>6 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>35 lb.</p></td>
-<td><p>27</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>M-75 Cricket rocket launcher</p></td>
-<td><p>10d6<strong><sup>2</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Sonic</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>6 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>35 lb.</p></td>
-<td><p>25</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>NKP Puma pop-up turret</p></td>
-<td><p>8d6</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>75 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>—</p></td>
-<td><p>Large</p></td>
-<td><p>20 lb.</p></td>
-<td><p>23</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>T-95 Cavalcade chaingun</p></td>
-<td><p>7d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>60 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>Linked</p></td>
-<td><p>Huge</p></td>
-<td><p>80 lb.</p></td>
-<td><p>21</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Typhoon 240 laser cannon</p></td>
-<td><p>10d6</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>100 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>—</p></td>
-<td><p>Huge</p></td>
-<td><p>80 lb.</p></td>
-<td><p>25</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 7: Gravity Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Chrysanthemum laser array</p></td>
-<td><p>16d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>1 int.</p></td>
-<td><p>Huge</p></td>
-<td><p>50 lb.</p></td>
-<td><p>26</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>M-300 Rhino mass cannon</p></td>
-<td><p>8d12</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>100 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>—</p></td>
-<td><p>Huge</p></td>
-<td><p>65 lb.</p></td>
-<td><p>29</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>PS-25 Tiger claws</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>19–20</p></td>
-<td><p>Slashing</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Tsunami 480 plasma cannon</p></td>
-<td><p>12d6</p></td>
-<td><p>See text</p></td>
-<td><p>Fire</p></td>
-<td><p>See text</p></td>
-<td><p>Single</p></td>
-<td><p>—</p></td>
-<td><p>Huge</p></td>
-<td><p>75 lb.</p></td>
-<td><p>25</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>XJ-A Python electro-whip</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>20</p></td>
-<td><p>Electricity</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 8: Energy Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Avenger electro-scimitar<strong><sup>3</sup></strong></p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>18–20</p></td>
-<td><p>Slashing/ Electricity</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>LT-5 Longshot mass driver</p></td>
-<td><p>15d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>120 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>10 box</p></td>
-<td><p>Huge</p></td>
-<td><p>90 lb.</p></td>
-<td><p>24</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>RP-91 Reaper laser scythe<strong><sup>3</sup></strong></p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>4</p></td>
-<td><p>Slashing/ Fire</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Varies<strong><sup>1</sup></strong></p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 See the weapon’s description for details.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2 See the weapon’s description for collateral effects to crew and
-passengers.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3 This mastercraft weapon grants a +1 bonus on attack
-rolls.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Mecha Weapons**
+
+| Weapon                                | Damage             | Critical | Damage Type              | Range Increment | Rate of Fire | Magazine | Size               | Weight  | Purchase DC        | Restriction |
+|---------------------------------------|--------------------|----------|--------------------------|-----------------|--------------|----------|--------------------|---------|--------------------|-------------|
+| **Progress Level 5: Information Age** |                    |          |                          |                 |              |          |                    |         |                    |             |
+| A3X Dragon flame thrower              | 4d6                | —        | Fire                     | —               | Single       | 20 int.  | Large              | 75 lb.  | 21                 | Mil (+3)    |
+| M-9 Barrage chaingun                  | 5d6                | 20       | Ballistic                | 60 ft.          | S, A         | Linked   | Huge               | 100 lb. | 21                 | Res (+2)    |
+| M-53 Firestar rocket launcher         | 10d6               | —        | Fire                     | —               | Single       | 6 int.   | Huge               | 35 lb.  | 24                 | Mil (+3)    |
+| M-55 Crud rocket launcher             | 10d6               | —        | Slashing                 | —               | Single       | 6 int.   | Huge               | 35 lb.  | 24                 | Mil (+3)    |
+| M-87 Talon missile launcher           | 15d6               | 20       | Ballistic/ Fire          | —               | Single       | 4 int.   | Huge               | 20 lb.  | 23                 | Mil (+3)    |
+| PS-15 Panther claws                   | Varies<sup>1</sup> | 19–20    | Slashing                 | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| Thunderbolt shock rod                 | Varies<sup>1</sup> | 20       | Electricity/ Bludgeoning | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| Warpath recoilless rifle              | 10d6               | 20       | Ballistic                | 40 ft.          | S, A         | 20 box   | Huge               | 50 lb.  | 22                 | Mil (+3)    |
+| **Progress Level 6: Fusion Age**      |                    |          |                          |                 |              |          |                    |         |                    |             |
+| Corona microwave beam                 | 5d6                | 20       | Fire                     | 15 ft.          | Single       | —        | Large              | 15 lb.  | 19                 | Res (+2)    |
+| LK8 armor-piercing pike               | Varies<sup>1</sup> | 3        | Piercing                 | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| M-21 Comet autolaser                  | 8d6                | 20       | Fire                     | 75 ft.          | S, A         | —        | Huge               | 40 lb.  | 22                 | Mil (+3)    |
+| M-70 EMP rocket launcher              | 10d6<sup>2</sup>   | 20       | Electricity              | —               | Single       | 6 int.   | Huge               | 35 lb.  | 27                 | Mil (+3)    |
+| M-75 Cricket rocket launcher          | 10d6<sup>2</sup>   | —        | Sonic                    | —               | Single       | 6 int.   | Huge               | 35 lb.  | 25                 | Mil (+3)    |
+| NKP Puma pop-up turret                | 8d6                | 20       | Fire                     | 75 ft.          | Single       | —        | Large              | 20 lb.  | 23                 | Mil (+3)    |
+| T-95 Cavalcade chaingun               | 7d6                | 20       | Ballistic                | 60 ft.          | S, A         | Linked   | Huge               | 80 lb.  | 21                 | Res (+2)    |
+| Typhoon 240 laser cannon              | 10d6               | 20       | Fire                     | 100 ft.         | Single       | —        | Huge               | 80 lb.  | 25                 | Mil (+3)    |
+| **Progress Level 7: Gravity Age**     |                    |          |                          |                 |              |          |                    |         |                    |             |
+| Chrysanthemum laser array             | 16d6               | —        | Fire                     | —               | Single       | 1 int.   | Huge               | 50 lb.  | 26                 | Mil (+3)    |
+| M-300 Rhino mass cannon               | 8d12               | 20       | Ballistic                | 100 ft.         | Single       | —        | Huge               | 65 lb.  | 29                 | Mil (+3)    |
+| PS-25 Tiger claws                     | Varies<sup>1</sup> | 19–20    | Slashing                 | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| Tsunami 480 plasma cannon             | 12d6               | See text | Fire                     | See text        | Single       | —        | Huge               | 75 lb.  | 25                 | Mil (+3)    |
+| XJ-A Python electro-whip              | Varies<sup>1</sup> | 20       | Electricity              | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| **Progress Level 8: Energy Age**      |                    |          |                          |                 |              |          |                    |         |                    |             |
+| Avenger electro-scimitar<sup>3</sup>  | Varies<sup>1</sup> | 18–20    | Slashing/ Electricity    | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+| LT-5 Longshot mass driver             | 15d6               | 20       | Ballistic                | 120 ft.         | Single       | 10 box   | Huge               | 90 lb.  | 24                 | Mil (+3)    |
+| RP-91 Reaper laser scythe<sup>3</sup> | Varies<sup>1</sup> | 4        | Slashing/ Fire           | —               | —            | —        | Varies<sup>1</sup> | —       | Varies<sup>1</sup> | —           |
+
+1 See the weapon’s description for details.
+2 See the weapon’s description for collateral effects to crew and passengers.
+3 This mastercraft weapon grants a +1 bonus on attack rolls.
 
 **A3X DRAGON FLAME-THROWER (PL 5)**
 
@@ -3073,14 +2308,11 @@ a purchase DC of 41.
 |                                        |                           |
 |----------------------------------------|---------------------------|
 | **Size:** Large (–1 size)              | **Bonus Hit Points:** 100 |
-|                                        |                           |
 | **Superstructure:** Duralloy           | **Hardness:** 15          |
 | **Armor:** Duralloy                    | **Bonus to Defense:** +8  |
 | **Armor Penalty:** –8                  | **Reach:** 10 ft.         |
 | **Strength Bonus:** +8                 | **Dexterity Penalty:** —  |
-|                                        |                           |
 | **Speed:** 20 ft., fly 90 ft. (clumsy) | **Base Purchase DC:** 40  |
-|                                        |                           |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), M-9 Barrage chaingun (left arm), 6 50-round
@@ -3100,14 +2332,11 @@ a purchase DC of 49.
 |                                      |                           |
 |--------------------------------------|---------------------------|
 | **Size:** Huge (–2 size)             | **Bonus Hit Points:** 200 |
-|                                      |                           |
 | **Superstructure:** Vanadium         | **Hardness:** 20          |
 | **Armor:** Duralloy                  | **Bonus to Defense:** +8  |
 | **Armor Penalty:** –8                | **Reach:** 10 ft.         |
 | **Strength Bonus:** +16              | **Dexterity Penalty:** —  |
-|                                      |                           |
 | **Speed:** 30 ft., fly 90 ft. (poor) | **Base Purchase DC:** 48  |
-|                                      |                           |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), Enigma sensor suite (visor), Typhoon 240
@@ -3129,14 +2358,11 @@ has a purchase DC of 45.
 |                                       |                           |
 |---------------------------------------|---------------------------|
 | **Size:** Huge (–2 size)              | **Bonus Hit Points:** 200 |
-|                                       |                           |
 | **Superstructure:** Neovulcanium      | **Hardness:** 20          |
 | **Armor:** Crystal carbon             | **Bonus to Defense:** +10 |
 | **Armor Penalty:** –8                 | **Reach:** 10 ft.         |
 | **Strength Bonus:** +16               | **Dexterity Penalty:** —  |
-|                                       |                           |
 | **Speed:** 50 ft., fly 100 ft. (poor) | **Base Purchase DC:** 44  |
-|                                       |                           |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and helmet),
 Class IV sensor system (visor), T-95 Cavalcade chaingun (right arm), 6
@@ -3155,14 +2381,11 @@ a purchase DC of 49.
 |                                          |                           |
 |------------------------------------------|---------------------------|
 | **Size:** Gargantuan (–4 size)           | **Bonus Hit Points:** 450 |
-|                                          |                           |
 | **Superstructure:** Neovulcanium         | **Hardness:** 20          |
 | **Armor:** Crystal carbon                | **Bonus to Defense:** +10 |
 | **Armor Penalty:** –8                    | **Reach:** 15 ft.         |
 | **Strength Bonus:** +24                  | **Dexterity Penalty:** –2 |
-|                                          |                           |
 | **Speed:** 50 ft., fly 150 ft. (average) | **Base Purchase DC:** 48  |
-|                                          |                           |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and belt), Mark
 III Oracle targeting system (visor), Class IV sensor system (cranium),
@@ -3185,14 +2408,11 @@ a purchase DC of 61.
 |                                       |                           |
 |---------------------------------------|---------------------------|
 | **Size:** Colossal (–8 size)          | **Bonus Hit Points:** 900 |
-|                                       |                           |
 | **Superstructure:** Megatanium        | **Hardness:** 30          |
 | **Armor:** Megatanium                 | **Bonus to Defense:** +12 |
 | **Armor Penalty:** –10                | **Reach:** 15 ft.         |
 | **Strength Bonus:** +32               | **Dexterity Penalty:** –4 |
-|                                       |                           |
 | **Speed:** 50 ft., fly 200 ft. (poor) | **Base Purchase DC:** 60  |
-|                                       |                           |
 
 **Standard Equipment Package:** Advanced diagnostics (helmet), Class V
 sensor system (helmet), Crackerjack neural link (cranium), Mark IV
@@ -3216,55 +2436,14 @@ other integrated equipment) a mecha can transport in its internal
 storage compartments, as well as the maximum size of an object that will
 fit inside one of these internal compartments.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Mecha Cargo Capacity</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Mecha Size</strong></p></td>
-<td><p><strong>Cargo Capacity</strong></p></td>
-<td><p><strong>Maximum Object Size</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>1,250 lb.</p></td>
-<td><p>Huge</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>500 lb.</p></td>
-<td><p>Large</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>250 lb.</p></td>
-<td><p>Medium-size</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>50 lb.</p></td>
-<td><p>Small</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Mecha Cargo Capacity**
+
+| Mecha Size | Cargo Capacity | Maximum Object Size |
+|------------|----------------|---------------------|
+| Colossal   | 1,250 lb.      | Huge                |
+| Gargantuan | 500 lb.        | Large               |
+| Huge       | 250 lb.        | Medium-size         |
+| Large      | 50 lb.         | Small               |
 
 ## MOVEMENT AND COMBAT
 
@@ -3364,146 +2543,22 @@ level for a minimum distance after descending and before ascending. Any
 flying mecha can begin descending after an ascent without an intervening
 distance.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Flight Maneuverability</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Maneuver </strong></p></td>
-<td><p><strong>Perfect</strong></p></td>
-<td><p><strong>Good</strong></p></td>
-<td><p><strong>Average</strong></p></td>
-<td><p><strong>Poor</strong></p></td>
-<td><p><strong>Clumsy</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Minimum forward speed</p></td>
-<td><p>None</p></td>
-<td><p>None</p></td>
-<td><p>Half</p></td>
-<td><p>Half</p></td>
-<td><p>Half</p></td>
-</tr>
-<tr class="odd">
-<td><p>Hover</p></td>
-<td><p>Yes</p></td>
-<td><p>Yes</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Fly backward</p></td>
-<td><p>Yes</p></td>
-<td><p>Yes</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Reverse</p></td>
-<td><p>Free</p></td>
-<td><p>–5 ft.</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Turn</p></td>
-<td><p>Any</p></td>
-<td><p>90˚/5 ft.</p></td>
-<td><p>45˚/5 ft.</p></td>
-<td><p>45˚/5 ft.</p></td>
-<td><p>45˚/10 ft.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Turn in place</p></td>
-<td><p>Any</p></td>
-<td><p>+90˚/5 ft.</p></td>
-<td><p>+45˚/5 ft.</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Maximum turn</p></td>
-<td><p>Any</p></td>
-<td><p>Any</p></td>
-<td><p>90˚</p></td>
-<td><p>45˚</p></td>
-<td><p>45˚</p></td>
-</tr>
-<tr class="odd">
-<td><p>Up angle</p></td>
-<td><p>Any</p></td>
-<td><p>Any</p></td>
-<td><p>60˚</p></td>
-<td><p>45˚</p></td>
-<td><p>45˚</p></td>
-</tr>
-<tr class="even">
-<td><p>Up speed</p></td>
-<td><p>Full</p></td>
-<td><p>Half</p></td>
-<td><p>Half</p></td>
-<td><p>Half</p></td>
-<td><p>Half</p></td>
-</tr>
-<tr class="odd">
-<td><p>Down angle</p></td>
-<td><p>Any</p></td>
-<td><p>Any</p></td>
-<td><p>Any</p></td>
-<td><p>45˚</p></td>
-<td><p>45˚</p></td>
-</tr>
-<tr class="even">
-<td><p>Down speed</p></td>
-<td><p>Double</p></td>
-<td><p>Double</p></td>
-<td><p>Double</p></td>
-<td><p>Double</p></td>
-<td><p>Double</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Between down and up</p></td>
-<td><p>0 ft.</p></td>
-<td><p>0 ft.</p></td>
-<td><p>5 ft.</p></td>
-<td><p>10 ft.</p></td>
-<td><p>20 ft.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Flight Maneuverability**
+
+| Maneuver              | Perfect | Good       | Average    | Poor      | Clumsy     |
+|-----------------------|---------|------------|------------|-----------|------------|
+| Minimum forward speed | None    | None       | Half       | Half      | Half       |
+| Hover                 | Yes     | Yes        | No         | No        | No         |
+| Fly backward          | Yes     | Yes        | No         | No        | No         |
+| Reverse               | Free    | –5 ft.     | —          | —         | —          |
+| Turn                  | Any     | 90˚/5 ft.  | 45˚/5 ft.  | 45˚/5 ft. | 45˚/10 ft. |
+| Turn in place         | Any     | +90˚/5 ft. | +45˚/5 ft. | No        | No         |
+| Maximum turn          | Any     | Any        | 90˚        | 45˚       | 45˚        |
+| Up angle              | Any     | Any        | 60˚        | 45˚       | 45˚        |
+| Up speed              | Full    | Half       | Half       | Half      | Half       |
+| Down angle            | Any     | Any        | Any        | 45˚       | 45˚        |
+| Down speed            | Double  | Double     | Double     | Double    | Double     |
+| Between down and up   | 0 ft.   | 0 ft.      | 5 ft.      | 10 ft.    | 20 ft.     |
 
 MECHA IN OUTER SPACE
 
@@ -3528,70 +2583,20 @@ dealing the normal critical hit damage for the attack. However, you must
 accept the results of the roll, even if those results are less than
 desirable.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Mecha Critical Hits</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d%</strong></p></td>
-<td><p><strong>Roll Effect(s)</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>01–15</p></td>
-<td><p>Normal damage, crew dazed</p></td>
-</tr>
-<tr class="odd">
-<td><p>16–35</p></td>
-<td><p>Normal critical hit, crew dazed</p></td>
-</tr>
-<tr class="even">
-<td><p>36–45</p></td>
-<td><p>Normal critical hit, mecha knocked prone</p></td>
-</tr>
-<tr class="odd">
-<td><p>46–50</p></td>
-<td><p>Severe critical hit, crew dazed, mecha stunned</p></td>
-</tr>
-<tr class="even">
-<td><p>51–55</p></td>
-<td><p>Severe critical hit, mecha knocked prone</p></td>
-</tr>
-<tr class="odd">
-<td><p>56–60</p></td>
-<td><p>Crew hit (normal damage)</p></td>
-</tr>
-<tr class="even">
-<td><p>61–70</p></td>
-<td><p>Normal damage, equipment damaged</p></td>
-</tr>
-<tr class="odd">
-<td><p>71–80</p></td>
-<td><p>Normal damage, equipment destroyed</p></td>
-</tr>
-<tr class="even">
-<td><p>81–90</p></td>
-<td><p>Normal critical hit, slot damaged</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>91–100</p></td>
-<td><p>Normal critical hit, slot destroyed</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Mecha Critical Hits**
+
+| d%     | Roll Effect(s)                                 |
+|--------|------------------------------------------------|
+| 01–15  | Normal damage, crew dazed                      |
+| 16–35  | Normal critical hit, crew dazed                |
+| 36–45  | Normal critical hit, mecha knocked prone       |
+| 46–50  | Severe critical hit, crew dazed, mecha stunned |
+| 51–55  | Severe critical hit, mecha knocked prone       |
+| 56–60  | Crew hit (normal damage)                       |
+| 61–70  | Normal damage, equipment damaged               |
+| 71–80  | Normal damage, equipment destroyed             |
+| 81–90  | Normal critical hit, slot damaged              |
+| 91–100 | Normal critical hit, slot destroyed            |
 
 **Normal Damage:** The attack deals normal damage (do not apply critical
 hit multipliers).
@@ -3742,42 +2747,12 @@ mecha’s size category, as given below. Add 1.5 times your mecha-modified
 Strength bonus to this base damage to determine the total damage for the
 attack.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Mecha Size</strong></p></td>
-<td><h4>Damage</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>4d8</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Mecha Size | Damage |
+|------------|--------|
+| Large      | 2d6    |
+| Huge       | 2d8    |
+| Gargantuan | 4d6    |
+| Colossal   | 4d8    |
 
 A crush attack deals bludgeoning damage and affects as many creatures as
 can fit under your mecha’s body. Each creature in the affected area must
@@ -3840,42 +2815,12 @@ dealt depends on your mecha’s size, as given below. Add 1.5 times your
 mecha’s Strength bonus to this base damage to determine the total damage
 for the attack.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Mecha Size </strong></p></td>
-<td><h4>Damage</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Mecha Size | Damage |
+|------------|--------|
+| Large      | 1d6    |
+| Huge       | 1d8    |
+| Gargantuan | 2d6    |
+| Colossal   | 2d8    |
 
 Though it can deal significant damage, this form of attack is awkward
 and unbalancing. You take a –2 penalty to your mecha’s Defense and on
@@ -4003,170 +2948,20 @@ Tumble (Dex).
 
 ### Skill Points at Each Level: **5 + Int modifier.**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Mecha Jockey</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level </strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Mecha Weapon Proficiency</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>Luv my mecha (+1)</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Mecha feint</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>Luv my mecha (+2)</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>Evasive action</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>Luv my mecha (+3)</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>Improved evasive action</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Mecha Jockey**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +2       | +1        | Mecha Weapon Proficiency | +1            | +0               |
+| 2nd         | +1                | +0        | +3       | +2        | Luv my mecha (+1)        | +1            | +0               |
+| 3rd         | +2                | +1        | +3       | +2        | Bonus feat               | +2            | +1               |
+| 4th         | +3                | +1        | +4       | +2        | Mecha feint              | +2            | +1               |
+| 5th         | +3                | +1        | +4       | +3        | Luv my mecha (+2)        | +3            | +2               |
+| 6th         | +4                | +2        | +5       | +3        | Bonus feat               | +3            | +2               |
+| 7th         | +5                | +2        | +5       | +4        | Evasive action           | +4            | +3               |
+| 8th         | +6                | +2        | +6       | +4        | Luv my mecha (+3)        | +4            | +3               |
+| 9th         | +6                | +3        | +6       | +4        | Bonus feat               | +5            | +4               |
+| 10th        | +7                | +3        | +7       | +5        | Improved evasive action  | +5            | +4               |
 
 Class Features
 

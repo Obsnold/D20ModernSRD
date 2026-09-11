@@ -137,111 +137,17 @@ the attack roll is always a miss. A natural 20 is always a hit. A
 natural 20 also always threatens a critical hit (see Critical Hits,
 below).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Starship Sizes</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Starship Size </strong></p></td>
-<td><p><strong>Starship’s Size Modifier<sup>1</sup></strong></p></td>
-<td><p><strong>Targeting System’s Equipment
-Bonus<sup>2</sup></strong></p></td>
-<td><p><strong>Autopilot System’s Equipment
-Bonus<sup>3</sup></strong></p></td>
-<td><p><strong>Starship’s Length</strong></p></td>
-<td><p><strong>Starship’s Weight</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>–8</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>64 ft. or more</p></td>
-<td><p>250,000 lb. or more</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>–4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>32–64 ft.</p></td>
-<td><p>32,000–250,000 lb.</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>–2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Less than 32 ft. 4</p></td>
-<td><p>,000–32,000 lb.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 A starship applies its size modifier on all attack rolls and to
-its Defense.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 A starship applies its targeting system’s equipment bonus on
-all attack rolls.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3 A starship on autopilot applies its autopilot system’s
-equipment bonus to its Defense.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Starship Sizes**
+
+| Starship Size | Starship’s Size Modifier<sup>1</sup> | Targeting System’s Equipment Bonus<sup>2</sup> | Autopilot System’s Equipment Bonus<sup>3</sup> | Starship’s Length  | Starship’s Weight   |
+|---------------|--------------------------------------|------------------------------------------------|------------------------------------------------|--------------------|---------------------|
+| Colossal      | –8                                   | +3                                             | +3                                             | 64 ft. or more     | 250,000 lb. or more |
+| Gargantuan    | –4                                   | +2                                             | +2                                             | 32–64 ft.          | 32,000–250,000 lb.  |
+| Huge          | –2                                   | +1                                             | +1                                             | Less than 32 ft. 4 | ,000–32,000 lb.     |
+
+1 A starship applies its size modifier on all attack rolls and to its Defense.
+2 A starship applies its targeting system’s equipment bonus on all attack rolls.
+3 A starship on autopilot applies its autopilot system’s equipment bonus to its Defense.
 
 DEFENSE
 
@@ -325,90 +231,16 @@ crew increases the base purchase DC of the ship. (This modifier is
 already factored in to the base purchase DCs of the ships presented
 below.)
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Crew Quality</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Crew Quality </strong></p></td>
-<td><p><strong>Skill Check Modifier<sup>1</sup> </strong></p></td>
-<td><p><strong>Pilot’s Class Bonus to Defense </strong></p></td>
-<td><p><strong>Pilot’s Dexterity Modifier </strong></p></td>
-<td><p><strong>Gunner’s Modifier to Attack Bonus </strong></p></td>
-<td><p><strong>Starship’s Base Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Untrained</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>–4</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Trained</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>Expert</p></td>
-<td><p>+8</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ace</p></td>
-<td><p>+12</p></td>
-<td><p>+7</p></td>
-<td><p>+6</p></td>
-<td><p>+8/+3</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 This includes Pilot checks.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Crew Quality**
+
+| Crew Quality | Skill Check Modifier<sup>1</sup> | Pilot’s Class Bonus to Defense | Pilot’s Dexterity Modifier | Gunner’s Modifier to Attack Bonus | Starship’s Base Purchase DC |
+|--------------|----------------------------------|--------------------------------|----------------------------|-----------------------------------|-----------------------------|
+| Untrained    | +0                               | +1                             | +0                         | –4                                | –4                          |
+| Trained      | +4                               | +3                             | +2                         | +2                                | 0                           |
+| Expert       | +8                               | +5                             | +4                         | +4                                | +4                          |
+| Ace          | +12                              | +7                             | +6                         | +8/+3                             | +8                          |
+
+1 This includes Pilot checks.
 
 **CREW IMPROVEMENT**
 
@@ -420,55 +252,14 @@ particular quality. A crew cannot be elevated to a higher quality until
 it meets the minimum required time spent serving aboard the ship and the
 minimum amount of ship-to-ship combat experience.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Crew Improvement</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Crew Quality </strong></p></td>
-<td><p><strong>Length of Tour of Duty </strong></p></td>
-<td><h4>Starship Battles Survived</h4></td>
-</tr>
-<tr class="even">
-<td><p>Untrained</p></td>
-<td><p>0–5 months</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Trained</p></td>
-<td><p>6–11 months</p></td>
-<td><p>0–3</p></td>
-</tr>
-<tr class="even">
-<td><p>Expert</p></td>
-<td><p>12–35 months</p></td>
-<td><p>4–11</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ace</p></td>
-<td><p>3 years or more</p></td>
-<td><p>12+</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Crew Improvement**
+
+| Crew Quality | Length of Tour of Duty | Starship Battles Survived |
+|--------------|------------------------|---------------------------|
+| Untrained    | 0–5 months             | 0                         |
+| Trained      | 6–11 months            | 0–3                       |
+| Expert       | 12–35 months           | 4–11                      |
+| Ace          | 3 years or more        | 12+                       |
 
 DAMAGE
 
@@ -511,25 +302,22 @@ system instead: Whenever a critical hit is scored, the attacker rolls
 percentile dice and consults Table: Optional Critical Hit Results to
 determine the effects of the critical hit on the target.
 
-|                                          |                                                  |
-|------------------------------------------|--------------------------------------------------|
-| **Table: Optional Critical Hit Results** |                                                  |
-|                                          |                                                  |
-| **d% Roll**                              | **Effect(s)**                                    |
-| 01–35                                    | Normal critical hit                              |
-| 36–50                                    | Normal critical hit, crew casualties             |
-| 51–55                                    | Severe critical hit, artificial gravity disabled |
-| 56–60                                    | Severe critical hit, crew casualties             |
-| 61–65                                    | Damaged system: comm system                      |
-| 66–70                                    | Damaged system: defense system                   |
-| 71–75                                    | Damaged system: engines                          |
-| 76–80                                    | Damaged system: sensors                          |
-| 81–85                                    | Damaged system: targeting system                 |
-| 86–90                                    | Damaged system: weapon                           |
-| 91–95                                    | Destroyed defensive system                       |
-|                                          |                                                  |
-| 96–100                                   | Destroyed weapon                                 |
-|                                          |                                                  |
+**Table: Optional Critical Hit Results**
+
+| d% Roll | Effect(s)                                        |
+|---------|--------------------------------------------------|
+| 01–35   | Normal critical hit                              |
+| 36–50   | Normal critical hit, crew casualties             |
+| 51–55   | Severe critical hit, artificial gravity disabled |
+| 56–60   | Severe critical hit, crew casualties             |
+| 61–65   | Damaged system: comm system                      |
+| 66–70   | Damaged system: defense system                   |
+| 71–75   | Damaged system: engines                          |
+| 76–80   | Damaged system: sensors                          |
+| 81–85   | Damaged system: targeting system                 |
+| 86–90   | Damaged system: weapon                           |
+| 91–95   | Destroyed defensive system                       |
+| 96–100  | Destroyed weapon                                 |
 
 **Normal Critical Hit:** Roll critical hit damage normally.
 
@@ -655,50 +443,15 @@ When its hit points drop to a certain negative hit point total, the ship
 is destroyed. The point at which a ship is destroyed varies depending on
 its type, as shown in Table: Destruction Threshold.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Destruction Threshold</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Ship Type</strong></p></td>
-<td><h4>Destroyed At</h4></td>
-</tr>
-<tr class="even">
-<td><p>Ultralight</p></td>
-<td><p>–20 hp</p></td>
-</tr>
-<tr class="odd">
-<td><p>Light</p></td>
-<td><p>–40 hp</p></td>
-</tr>
-<tr class="even">
-<td><p>Mediumweight</p></td>
-<td><p>–60 hp</p></td>
-</tr>
-<tr class="odd">
-<td><p>Heavy</p></td>
-<td><p>–80 hp</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Superheavy</p></td>
-<td><p>–100 hp</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Destruction Threshold**
+
+| Ship Type    | Destroyed At |
+|--------------|--------------|
+| Ultralight   | –20 hp       |
+| Light        | –40 hp       |
+| Mediumweight | –60 hp       |
+| Heavy        | –80 hp       |
+| Superheavy   | –100 hp      |
 
 **DISABLED (0 HIT POINTS)**
 
@@ -752,71 +505,17 @@ is breaking apart).
 Use the statistics for a launch (see below) to represent a typical
 evacuation pod.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Evacuation Times</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Ship Type</h3></td>
-<td><p><strong>Untrained Crew Evacuation Time</strong></p></td>
-<td><p><strong>Trained Crew Evacuation
-Time<sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ultralight</p></td>
-<td><p>1d3 rounds</p></td>
-<td><p>Move action</p></td>
-</tr>
-<tr class="even">
-<td><p>Light</p></td>
-<td><p>1d6 rounds</p></td>
-<td><p>Full-round action</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mediumweight</p></td>
-<td><p>2d6 rounds</p></td>
-<td><p>1d4 rounds</p></td>
-</tr>
-<tr class="even">
-<td><p>Heavy</p></td>
-<td><p>3d6 rounds</p></td>
-<td><p>2d4 rounds</p></td>
-</tr>
-<tr class="odd">
-<td><p>Superheavy</p></td>
-<td><p>4d6 rounds</p></td>
-<td><p>3d4 rounds</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 Includes expert and ace crews.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Evacuation Times**
+
+| Ship Type    | Untrained Crew Evacuation Time | Trained Crew Evacuation Time<sup>1</sup> |
+|--------------|--------------------------------|------------------------------------------|
+| Ultralight   | 1d3 rounds                     | Move action                              |
+| Light        | 1d6 rounds                     | Full-round action                        |
+| Mediumweight | 2d6 rounds                     | 1d4 rounds                               |
+| Heavy        | 3d6 rounds                     | 2d4 rounds                               |
+| Superheavy   | 4d6 rounds                     | 3d4 rounds                               |
+
+1 Includes expert and ace crews.
 
 ## STARSHIP CONDITION SUMMARY
 
@@ -1050,166 +749,41 @@ the span of the round, their impact is so minor that they are considered
 free. However, the GM puts reasonable limits on what a ship can really
 do for free.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Starship Actions</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Attack Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Aid another</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attack (ranged)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Attack an object</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Escape a grappling ship</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Feint (see Bluff skill)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Grapple another ship<strong><sup>1</sup></strong></p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Total defense</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Move Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Damage control</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Move at tactical speed</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Operate sensors</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ram<strong><sup>3</sup></strong></p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Sending/jamming a transmission</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Start/complete a full-round action</p></td>
-<td><p>Varies</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Full-Round Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Jump to cruising speed</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Surge forward</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Withdraw</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Free Actions </strong></p></td>
-<td><p><strong>Attack of Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Communicate via comm system</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Turn</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Special Initiative </strong></p></td>
-<td><p><strong>Actions Attack of
-Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Delay</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ready</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>No Action </strong></p></td>
-<td><p><strong>Attack of Opportunity?<sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>500-foot shift</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Avoid hazard</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Technically, a grapple constitutes a single melee attack, not
-an action. A grapple can be made once in an attack action or as an
-attack of opportunity.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 Only starships armed with point-defense systems can make
-attacks of opportunity.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3 Ramming is considered part of a move action.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Starship Actions**
+
+| Attack Actions                     | Attack of Opportunity?<sup>2</sup>             |
+|------------------------------------|------------------------------------------------|
+| Aid another                        | No                                             |
+| Attack (ranged)                    | No                                             |
+| Attack an object                   | No                                             |
+| Escape a grappling ship            | No                                             |
+| Feint (see Bluff skill)            | No                                             |
+| Grapple another ship<sup>1</sup>   | Yes                                            |
+| Total defense                      | No                                             |
+| **Move Actions**                   | **Attack of Opportunity?<sup>2</sup>**         |
+| Damage control                     | No                                             |
+| Move at tactical speed             | No                                             |
+| Operate sensors                    | No                                             |
+| Ram<sup>3</sup>                    | Yes                                            |
+| Sending/jamming a transmission     | No                                             |
+| Start/complete a full-round action | Varies                                         |
+| **Full-Round Actions**             | **Attack of Opportunity?<sup>2</sup>**         |
+| Jump to cruising speed             | Yes                                            |
+| Surge forward                      | Yes                                            |
+| Withdraw                           | No                                             |
+| **Free Actions **                  | **Attack of Opportunity?<sup>2</sup>**         |
+| Communicate via comm system        | No                                             |
+| Turn                               | No                                             |
+| **Special Initiative **            | **Actions Attack of Opportunity?<sup>2</sup>** |
+| Delay                              | No                                             |
+| Ready                              | No                                             |
+| **No Action **                     | **Attack of Opportunity?<sup>2</sup>**         |
+| 500-foot shift                     | No                                             |
+| Avoid hazard                       | No                                             |
+
+1 Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.
+2 Only starships armed with point-defense systems can make attacks of opportunity.
+3 Ramming is considered part of a move action.
 
 ATTACK ACTIONS
 
@@ -1244,124 +818,24 @@ battlefield. Colossal objects occupy four 500-foot squares (a
 1,000-footby- 1,000-foot fighting space). All other objects occupy a
 single 500-foot square.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Space Objects</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Object </strong></p></td>
-<td><p><strong>Defense</strong></p></td>
-<td><p><strong>Hardness</strong></p></td>
-<td><p><strong>Hit Points</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Asteroid, Colossal</p></td>
-<td><p>–3</p></td>
-<td><p>8</p></td>
-<td><p>36,000</p></td>
-</tr>
-<tr class="odd">
-<td><p>Asteroid, Gargantuan</p></td>
-<td><p>1</p></td>
-<td><p>8</p></td>
-<td><p>9,000</p></td>
-</tr>
-<tr class="even">
-<td><p>Asteroid, Huge</p></td>
-<td><p>3</p></td>
-<td><p>8</p></td>
-<td><p>4,500</p></td>
-</tr>
-<tr class="odd">
-<td><p>Asteroid, Large</p></td>
-<td><p>4</p></td>
-<td><p>8</p></td>
-<td><p>1,125</p></td>
-</tr>
-<tr class="even">
-<td><p>Debris cloud, Colossal</p></td>
-<td><p>–3</p></td>
-<td><p>0</p></td>
-<td><p>1,600</p></td>
-</tr>
-<tr class="odd">
-<td><p>Debris cloud, Gargantuan</p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>400</p></td>
-</tr>
-<tr class="even">
-<td><p>Iceball, Colossal</p></td>
-<td><p>–3</p></td>
-<td><p>0</p></td>
-<td><p>7,200</p></td>
-</tr>
-<tr class="odd">
-<td><p>Iceball, Gargantuan</p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>1,800</p></td>
-</tr>
-<tr class="even">
-<td><p>Iceball, Huge</p></td>
-<td><p>3</p></td>
-<td><p>0</p></td>
-<td><p>900</p></td>
-</tr>
-<tr class="odd">
-<td><p>Iceball, Large</p></td>
-<td><p>4</p></td>
-<td><p>0</p></td>
-<td><p>225</p></td>
-</tr>
-<tr class="even">
-<td><p>Mine (Medium-size)</p></td>
-<td><p>5</p></td>
-<td><p>10</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="odd">
-<td><p>Space hulk, Colossal</p></td>
-<td><p>–3</p></td>
-<td><p>10</p></td>
-<td><p>3,600</p></td>
-</tr>
-<tr class="even">
-<td><p>Space hulk, Gargantuan</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-<td><p>900</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Space hulk, Huge</p></td>
-<td><p>3</p></td>
-<td><p>10</p></td>
-<td><p>450</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Space Objects**
+
+| Object                   | Defense | Hardness | Hit Points |
+|--------------------------|---------|----------|------------|
+| Asteroid, Colossal       | –3      | 8        | 36,000     |
+| Asteroid, Gargantuan     | 1       | 8        | 9,000      |
+| Asteroid, Huge           | 3       | 8        | 4,500      |
+| Asteroid, Large          | 4       | 8        | 1,125      |
+| Debris cloud, Colossal   | –3      | 0        | 1,600      |
+| Debris cloud, Gargantuan | 1       | 0        | 400        |
+| Iceball, Colossal        | –3      | 0        | 7,200      |
+| Iceball, Gargantuan      | 1       | 0        | 1,800      |
+| Iceball, Huge            | 3       | 0        | 900        |
+| Iceball, Large           | 4       | 0        | 225        |
+| Mine (Medium-size)       | 5       | 10       | 50         |
+| Space hulk, Colossal     | –3      | 10       | 3,600      |
+| Space hulk, Gargantuan   | 1       | 10       | 900        |
+| Space hulk, Huge         | 3       | 10       | 450        |
 
 **GRAPPLE ANOTHER SHIP**
 
@@ -1453,55 +927,17 @@ Table: Collision Damage shows the amount of damage dealt to both
 colliding forces, based on the size of the smaller of the two colliding
 objects.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Collision Damage</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size of Smaller Ship or Object </strong></p></td>
-<td><p><strong>Collision Damage<sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>12d6×10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>6d6×10</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>3d6×10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>1d6×10</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size or smaller</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Damage is applied to the ramming starship and its
-target.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Collision Damage**
+
+| Size of Smaller Ship or Object | Collision Damage<sup>1</sup> |
+|--------------------------------|------------------------------|
+| Colossal                       | 12d6×10                      |
+| Gargantuan                     | 6d6×10                       |
+| Huge                           | 3d6×10                       |
+| Large                          | 1d6×10                       |
+| Medium-size or smaller         | —                            |
+
+1 Damage is applied to the ramming starship and its target.
 
 **SENDING/JAMMING A TRANSMISSION**
 
@@ -1612,46 +1048,14 @@ Table: Collision Damage to determine collision damage to both the
 starship and the hazard). A new check must be made each round the
 starship and the hazard occupy the same square.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Avoid Hazard DCs</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Hazard Size</strong></p></td>
-<td><h4>Pilot Check DC</h4></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Avoid Hazard DCs**
+
+| Hazard Size | Pilot Check DC |
+|-------------|----------------|
+| Colossal    | 5              |
+| Gargantuan  | 20             |
+| Huge        | 15             |
+| Large       | 10             |
 
 ## MOVING THROUGH OCCUPIED SQUARES
 
@@ -1910,7 +1314,6 @@ space travel to other planets or star systems.
 |                              |                                       |
 |------------------------------|---------------------------------------|
 | **Type:** Ultralight         | **Size:** Gargantuan (–4 size)        |
-|                              |                                       |
 | **Subtype:** Orbital shuttle | **Tactical Speed:** 2,500 ft. (5 sq.) |
 | **Defense:** 11              | **Length:** 60 feet                   |
 | **Flat-footed Defense:** 9   | **Weight:** 220,000 lb.               |
@@ -1920,9 +1323,7 @@ space travel to other planets or star systems.
 | **Initiative Modifier:** +2  | **Cargo Capacity:** 22,000 lb.        |
 | **Pilot’s Class Bonus:** +3  | **Grapple Modifier:** +12             |
 | **Pilot’s Dex Modifier:** +2 | **Base Purchase DC:** 52              |
-|                              |                                       |
 | **Gunner’s Attack Bonus:** — | **Restriction:** Restricted (+2)      |
-|                              |                                       |
 
 **Attack:** None
 
@@ -1953,7 +1354,6 @@ courier category.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Ultralight          | **Size:** Gargantuan (–4 size)        |
-|                               |                                       |
 | **Subtype:** Courier          | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 11               | **Length:** 45 feet                   |
 | **Flat-footed Defense:** 9    | **Weight:** 90,000 lb.                |
@@ -1963,9 +1363,7 @@ courier category.
 | **Initiative Modifier:** +2   | **Cargo Capacity:** 9,000 lb.         |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +12             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 48              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Licensed (+1)        |
-|                               |                                       |
 
 **Attack:** Laser +0 ranged (6d8)
 
@@ -1996,7 +1394,6 @@ missile boats could qualify as escorts.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
-|                               |                                       |
 | **Subtype:** Escort           | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 7                | **Length:** 180 feet                  |
 | **Flat-footed Defense:** 5    | **Weight:** 900 tons                  |
@@ -2006,9 +1403,7 @@ missile boats could qualify as escorts.
 | **Initiative Modifier:** +4   | **Cargo Capacity:** 30 tons           |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
-|                               |                                       |
 
 **Attack:** 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2
 fire-linked rail cannons –8 ranged (9d12) and CHE missile –8 ranged
@@ -2049,7 +1444,6 @@ Fast freighters often carry some minor defensive armament.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
-|                               |                                       |
 | **Subtype:** Fast freighter   | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 7                | **Length:** 110 feet                  |
 | **Flat-footed Defense:** 5    | **Weight:** 450 tons                  |
@@ -2059,9 +1453,7 @@ Fast freighters often carry some minor defensive armament.
 | **Initiative Modifier:** +2   | **Cargo Capacity:** 300 tons          |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
-|                               |                                       |
 
 **Attack:** 2 fire-linked heavy lasers –3 ranged (12d8) and 2
 fire-linked rail cannons –8 ranged (9d12)
@@ -2095,7 +1487,6 @@ carry warheads.
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
 | **Type:** Ultralight             | **Size:** Gargantuan (–4 size)        |
-|                                  |                                       |
 | **Subtype:** Fighter             | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 19                  | **Length:** 36 feet                   |
 | **Flat-footed Defense:** 13      | **Weight:** 39,000 lb.                |
@@ -2105,9 +1496,7 @@ carry warheads.
 | **Initiative Modifier:** +8      | **Cargo Capacity:** 1,700 lb.         |
 | **Pilot’s Class Bonus:** +7      | **Grapple Modifier:** +8              |
 | **Pilot’s Dex Modifier:** +6     | **Base Purchase DC:** 48              |
-|                                  |                                       |
 | **Gunner’s Attack Bonus:** +8/+3 | **Restriction:** Military (+3)        |
-|                                  |                                       |
 
 **Attack:** 2 fire-linked fusion beams +6/+1 ranged (15d8)
 
@@ -2138,7 +1527,6 @@ Evacuation pods and lunar landers fit into this category.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Ultralight          | **Size:** Huge (–2 size)              |
-|                               |                                       |
 | **Subtype:** Launch           | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 13               | **Length:** 24 feet                   |
 | **Flat-footed Defense:** 11   | **Weight:** 24,000 lb.                |
@@ -2148,9 +1536,7 @@ Evacuation pods and lunar landers fit into this category.
 | **Initiative Modifier:** +2   | **Cargo Capacity:** 2,400 lb.         |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +8              |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 40              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Licensed (+1)        |
-|                               |                                       |
 
 **Attack:** Laser +1 ranged (6d8)
 
@@ -2180,7 +1566,6 @@ without engaging in serious combat.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
-|                               |                                       |
 | **Subtype:** Scout            | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 7                | **Length:** 150 feet                  |
 | **Flat-footed Defense:** 5    | **Weight:** 600 tons                  |
@@ -2190,9 +1575,7 @@ without engaging in serious combat.
 | **Initiative Modifier:** +2   | **Cargo Capacity:** 30 tons           |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Military (+3)        |
-|                               |                                       |
 
 **Attack:** 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2 CHE
 missiles –8 ranged (6d12/19–20)
@@ -2222,67 +1605,18 @@ CHE missile launchers (8 missiles each)
 The assault fighter is similar to the PL 6 fighter, but with superior
 engines, armaments, and defenses at the cost of less cargo capacity.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type: </strong>Ultralight</p></td>
-<td><p><strong>Size: </strong>Gargantuan (–4 size)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Subtype: </strong>Assault fighter</p></td>
-<td><p><strong>Tactical Speed: </strong>4,000 ft. (8 sq.)</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Defense: </strong>19</p></td>
-<td><p><strong>Length: </strong>32 feet</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Flat-footed Defense: </strong>13</p></td>
-<td><p><strong>Weight: </strong>36,000 lb.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Autopilot Defense: </strong>6</p></td>
-<td><p><strong>Targeting System Bonus: </strong>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Hardness: </strong>20 (ballistic) or</p>
-<p>40 (other damage forms)</p></td>
-<td><p><strong>Crew: </strong>1 (ace +12)</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Hit Dice: </strong>9d20 (180 hp)</p></td>
-<td><p><strong>Passenger Capacity: </strong>1</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Initiative Modifier: </strong>+8</p></td>
-<td><p><strong>Cargo Capacity: </strong>1,200 lb.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Pilot’s Class Bonus: </strong>+7</p></td>
-<td><p><strong>Grapple Modifier: </strong>+8</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pilot’s Dex Modifier: </strong>+6</p></td>
-<td><p><strong>Base Purchase DC: </strong>48</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Gunner’s Attack Bonus: </strong>+8/+3</p></td>
-<td><p><strong>Restriction: </strong>Military (+3)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| **Type: **Ultralight                                    | **Size: **Gargantuan (–4 size)        |
+|---------------------------------------------------------|---------------------------------------|
+| **Subtype: **Assault fighter                            | **Tactical Speed: **4,000 ft. (8 sq.) |
+| **Defense: **19                                         | **Length: **32 feet                   |
+| **Flat-footed Defense: **13                             | **Weight: **36,000 lb.                |
+| **Autopilot Defense: **6                                | **Targeting System Bonus: **+4        |
+| **Hardness: **20 (ballistic) or 40 (other damage forms) | **Crew: **1 (ace +12)                 |
+| **Hit Dice: **9d20 (180 hp)                             | **Passenger Capacity: **1             |
+| **Initiative Modifier: **+8                             | **Cargo Capacity: **1,200 lb.         |
+| **Pilot’s Class Bonus: **+7                             | **Grapple Modifier: **+8              |
+| **Pilot’s Dex Modifier: **+6                            | **Base Purchase DC: **48              |
+| **Gunner’s Attack Bonus: **+8/+3                        | **Restriction: **Military (+3)        |
 
 **Attack:** 2 fire-linked particle beams +8 ranged (18d8) and plasma
 missile +3 ranged (18d8/19–20); or 2 fire-linked particle beams +8/+3
@@ -2406,7 +1740,6 @@ operate independently in wartime, corvettes are the smallest.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Light               | **Size:** Colossal (–8 size)          |
-|                               |                                       |
 | **Subtype:** Corvette         | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 7                | **Length:** 320 feet                  |
 | **Flat-footed Defense:** 5    | **Weight:** 3,200 tons                |
@@ -2416,9 +1749,7 @@ operate independently in wartime, corvettes are the smallest.
 | **Initiative Modifier:** +4   | **Cargo Capacity:** 150 tons          |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 56              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Military (+3)        |
-|                               |                                       |
 
 **Attack:** 2 fire-linked fusion beams –3 ranged (15d8) and 2
 fire-linked CHE missiles –8 ranged (9d12/19–20); or 2 fire-linked CHE
@@ -2457,7 +1788,6 @@ about 8,000 tons. It carries a crew of 150 to 200.
 |                                |                                       |
 |--------------------------------|---------------------------------------|
 | **Type:** Light                | **Size:** Colossal (–8 size)          |
-|                                |                                       |
 | **Subtype:** Destroyer         | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 11                | **Length:** 450 feet                  |
 | **Flat-footed Defense:** 7     | **Weight:** 8,000 tons                |
@@ -2467,9 +1797,7 @@ about 8,000 tons. It carries a crew of 150 to 200.
 | **Initiative Modifier:** +4    | **Cargo Capacity:** 400 tons          |
 | **Pilot’s Class Bonus:** +5    | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4   | **Base Purchase DC:** 60              |
-|                                |                                       |
 | **Gunner’s Attack Bonus:** +4  | **Restriction:** Military (+3)        |
-|                                |                                       |
 
 **Attack:** 4 fire-linked heavy neutron guns –1 ranged (20d8) and 2
 fire-linked nuclear missiles –6 melee (24d8/19–20) and needle driver –6
@@ -2509,7 +1837,6 @@ by small craft.
 |                                |                                       |
 |--------------------------------|---------------------------------------|
 | **Type:** Light                | **Size:** Colossal (–8 size)          |
-|                                |                                       |
 | **Subtype:** Frigate           | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 11                | **Length:** 360 feet                  |
 | **Flat-footed Defense:** 7     | **Weight:** 4,800 tons                |
@@ -2519,9 +1846,7 @@ by small craft.
 | **Initiative Modifier:** +4    | **Cargo Capacity:** 200 tons          |
 | **Pilot’s Class Bonus:** +5    | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4   | **Base Purchase DC:** 60              |
-|                                |                                       |
 | **Gunner’s Attack Bonus:** +4  | **Restriction:** Military (+3)        |
-|                                |                                       |
 
 **Attack:** 2 fire-linked heavy neutron guns –1 ranged (15d8) and 2
 nuclear missiles –6 ranged (16d8/19–20) and needle driver –6 ranged
@@ -2561,7 +1886,6 @@ at the expense of crew quarters and armaments.
 |                               |                                       |
 |-------------------------------|---------------------------------------|
 | **Type:** Light               | **Size:** Colossal (–8 size)          |
-|                               |                                       |
 | **Subtype:** Hauler           | **Tactical Speed:** 2,500 ft. (5 sq.) |
 | **Defense:** 7                | **Length:** 450 feet                  |
 | **Flat-footed Defense:** 5    | **Weight:** 6,000 tons                |
@@ -2571,9 +1895,7 @@ at the expense of crew quarters and armaments.
 | **Initiative Modifier:** +2   | **Cargo Capacity:** 3,300 tons        |
 | **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 56              |
-|                               |                                       |
 | **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
-|                               |                                       |
 
 **Attack:** 2 fire-linked heavy lasers –3 ranged (12d8)
 
@@ -2647,7 +1969,6 @@ regular runs between densely populated systems.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Bulk freighter     | **Tactical Speed:** 2,500 ft. (5 sq.) |
 | **Defense:** 7                  | **Length:** 800 feet                  |
 | **Flat-footed Defense:** 5      | **Weight:** 32,000 tons               |
@@ -2657,9 +1978,7 @@ regular runs between densely populated systems.
 | **Initiative Modifier:** +2     | **Cargo Capacity:** 20,000 tons       |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 60              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
-|                                 |                                       |
 
 **Attack:** 4 fire-linked heavy lasers –3 ranged (16d8)
 
@@ -2691,7 +2010,6 @@ top-of-the-line engines for the best possible speed.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Clipper            | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 7                  | **Length:** 850 feet                  |
 | **Flat-footed Defense:** 5      | **Weight:** 27,000 tons               |
@@ -2701,9 +2019,7 @@ top-of-the-line engines for the best possible speed.
 | **Initiative Modifier:** +2     | **Cargo Capacity:** 10,000 tons       |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 60              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
-|                                 |                                       |
 
 **Attack:** Battery of 5 lasers +1 ranged (6d8/19–20)
 
@@ -2740,7 +2056,6 @@ carrier or assault transport.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Cruiser            | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 7                  | **Length:** 720 feet                  |
 | **Flat-footed Defense:** 5      | **Weight:** 28,800 tons               |
@@ -2750,9 +2065,7 @@ carrier or assault transport.
 | **Initiative Modifier:** +6     | **Cargo Capacity:** 7,200 tons        |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 64              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Military (+3)        |
-|                                 |                                       |
 
 **Attack:** Battery of 3 fusion beams –1 ranged (10d8/19–20) and battery
 of 3 CHE missiles –6 ranged (6d12/18–20); or Battery of 3 CHE missiles
@@ -2793,7 +2106,6 @@ cruiser hull could easily serve as a light carrier or assault carrier.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Strike cruiser     | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 11                 | **Length:** 950 feet                  |
 | **Flat-footed Defense:** 7      | **Weight:** 38,000 tons               |
@@ -2803,9 +2115,7 @@ cruiser hull could easily serve as a light carrier or assault carrier.
 | **Initiative Modifier:** +8     | **Cargo Capacity:** 1,200 tons        |
 | **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 68              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
-|                                 |                                       |
 
 **Attack:** Battery of 4 antimatter guns +4 ranged (10d8/19–20) and
 battery of 3 plasma missiles –2 ranged (18d8/18–20); or Battery of 3
@@ -2887,7 +2197,6 @@ backbone of any battle fleet.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Battleship         | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 11                 | **Length:** 1,250 feet                |
 | **Flat-footed Defense:** 7      | **Weight:** 125,000 tons              |
@@ -2897,9 +2206,7 @@ backbone of any battle fleet.
 | **Initiative Modifier:** +4     | **Cargo Capacity:** 30,000 tons       |
 | **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 72              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
-|                                 |                                       |
 
 **Attack:** Battery of 3 heavy neutron guns +1 ranged (10d8/19–20) and 2
 fire-linked nuclear missiles –6 ranged (24d8/19–20) and needle driver –6
@@ -2947,7 +2254,6 @@ ultralight craft as a move action.
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
 | **Type:** Heavy                  | **Size:** Colossal (–8 size)          |
-|                                  |                                       |
 | **Subtype:** Fleet carrier       | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 11                  | **Length:** 1,400 feet                |
 | **Flat-footed Defense:** 7       | **Weight:** 140,000 tons              |
@@ -2957,9 +2263,7 @@ ultralight craft as a move action.
 | **Initiative Modifier:** +6      | **Cargo Capacity:** 40,000 tons       |
 | **Pilot’s Class Bonus:** +5      | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4     | **Base Purchase DC:** 72              |
-|                                  |                                       |
 | **Gunner’s Attack Bonus:** +4    | **Restriction:** Military (+3)        |
-|                                  |                                       |
 
 **Attack:** Battery of 5 neutron guns +3 ranged (6d8/19–20) and 2
 batteries of 2 CHE missiles –5 ranged (6d12/18–20)
@@ -2996,7 +2300,6 @@ vehicle storage.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Heavy transport    | **Tactical Speed:** 3,000 ft. (6 sq.) |
 | **Defense:** 7                  | **Length:** 1,320 feet                |
 | **Flat-footed Defense:** 5      | **Weight:** 120,000 tons              |
@@ -3006,9 +2309,7 @@ vehicle storage.
 | **Initiative Modifier:** +2     | **Cargo Capacity:** 60,000 tons       |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 68              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
-|                                 |                                       |
 
 **Attack:** Battery of 3 heavy lasers –1 ranged (8d8/19–20) and battery
 of 3 gauss guns –6 ranged (8d12/19–20); or Battery of 3 gauss guns –1
@@ -3045,7 +2346,6 @@ petrochemicals, or oxygen.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Tanker             | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 7                  | **Length:** 1,200 feet                |
 | **Flat-footed Defense:** 5      | **Weight:** 120,000 tons              |
@@ -3055,9 +2355,7 @@ petrochemicals, or oxygen.
 | **Initiative Modifier:** +2     | **Cargo Capacity:** 52,000 tons       |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 64              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
-|                                 |                                       |
 
 **Attack:** 1 battery of 4 heavy lasers +0 ranged (8d8/19–20)
 
@@ -3090,7 +2388,6 @@ stand up to it in a fair fight.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Battle Cruiser     | **Tactical Speed:** 4,000 ft. (8 sq.) |
 | **Defense:** 11                 | **Length:** 1,360 feet                |
 | **Flat-footed Defense:** 7      | **Weight:** 140,000 tons              |
@@ -3100,9 +2397,7 @@ stand up to it in a fair fight.
 | **Initiative Modifier:** +4     | **Cargo Capacity:** 50,000 tons       |
 | **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 72              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
-|                                 |                                       |
 
 **Attack:** 4 fire-linked heavy particle beams +1 ranged (32d8) and 1
 battery of 3 plasma missiles –2 ranged (18d8/18–20)
@@ -3140,7 +2435,6 @@ number of passengers, usually in varying degrees of luxury.
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
 | **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
-|                                 |                                       |
 | **Subtype:** Liner              | **Tactical Speed:** 4,000 ft. (8 sq.) |
 | **Defense:** 7                  | **Length:** 1,200 feet                |
 | **Flat-footed Defense:** 5      | **Weight:** 84,000 tons               |
@@ -3150,9 +2444,7 @@ number of passengers, usually in varying degrees of luxury.
 | **Initiative Modifier:** +2     | **Cargo Capacity:** 40,000 tons       |
 | **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 68              |
-|                                 |                                       |
 | **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
-|                                 |                                       |
 
 **Attack:** Battery of 4 plasma cannons +2 ranged (14d8/19–20)
 
@@ -3227,7 +2519,6 @@ supplies throughout the long trip to a new world.
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
 | **Type:** Superheavy             | **Size:** Colossal (–8 size)          |
-|                                  |                                       |
 | **Subtype:** Colony ship         | **Tactical Speed:** 4,000 ft. (8 sq.) |
 | **Defense:** 7                   | **Length:** 2,000 feet                |
 | **Flat-footed Defense:** 5       | **Weight:** 400,000 tons              |
@@ -3237,9 +2528,7 @@ supplies throughout the long trip to a new world.
 | **Initiative Modifier:** +2      | **Cargo Capacity:** 100,000 tons      |
 | **Pilot’s Class Bonus:** +3      | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2     | **Base Purchase DC:** 72              |
-|                                  |                                       |
 | **Gunner’s Attack Bonus:** +2    | **Restriction:** Restricted (+2)      |
-|                                  |                                       |
 
 **Attack:** Battery of 4 particle beams +2 ranged (12d8/19–20) and
 battery of 2 plasma missiles –5 ranged (18d8/18–20); or Battery of 2
@@ -3277,7 +2566,6 @@ squares (a 6-square-by-6-square area).
 |                                    |                                       |
 |------------------------------------|---------------------------------------|
 | **Type:** Superheavy               | **Size:** Colossal (–8 size)          |
-|                                    |                                       |
 | **Subtype:** Dreadnought           | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 11                    | **Length:** 2,750 feet                |
 | **Flat-footed Defense:** 7         | **Weight:** 540,000 tons              |
@@ -3287,9 +2575,7 @@ squares (a 6-square-by-6-square area).
 | **Initiative Modifier:** +6        | **Cargo Capacity:** 120,000 tons      |
 | **Pilot’s Class Bonus:** +5        | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4       | **Base Purchase DC:** 80              |
-|                                    |                                       |
 | **Gunner’s Attack Bonus:** +4      | **Restriction:** Military (+3)        |
-|                                    |                                       |
 
 **Attack:** 4 fire-linked quantum cannons +1 ranged (32d8) and battery
 of 4 heavy mass cannons –1 ranged (10d12/19–20) and 2 fire-linked mass
@@ -3336,7 +2622,6 @@ ultralight craft as a move action.
 |                                    |                                       |
 |------------------------------------|---------------------------------------|
 | **Type:** Superheavy               | **Size:** Colossal (–8 size)          |
-|                                    |                                       |
 | **Subtype:** Star carrier          | **Tactical Speed:** 3,500 ft. (7 sq.) |
 | **Defense:** 11                    | **Length:** 3,000 feet                |
 | **Flat-footed Defense:** 7         | **Weight:** 600,000 tons              |
@@ -3346,9 +2631,7 @@ ultralight craft as a move action.
 | **Initiative Modifier:** +6        | **Cargo Capacity:** 200,000 tons      |
 | **Pilot’s Class Bonus:** +5        | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +4       | **Base Purchase DC:** 80              |
-|                                    |                                       |
 | **Gunner’s Attack Bonus:** +4      | **Restriction:** Military (+3)        |
-|                                    |                                       |
 
 **Attack:** Battery of 5 mass cannons +5 ranged (8d12/19–20) and battery
 of 4 antimatter guns –1 ranged (10d8/19–20)
@@ -3383,7 +2666,6 @@ super-transport.
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
 | **Type:** Superheavy             | **Size:** Colossal (–8 size)          |
-|                                  |                                       |
 | **Subtype:** Freighter           | **Tactical Speed:** 4,000 ft. (8 sq.) |
 | **Defense:** 7                   | **Length:** 1,800 feet                |
 | **Flat-footed Defense:** 5       | **Weight:** 320,000 tons              |
@@ -3393,9 +2675,7 @@ super-transport.
 | **Initiative Modifier:** +2      | **Cargo Capacity:** 200,000 tons      |
 | **Pilot’s Class Bonus:** +3      | **Grapple Modifier:** +16             |
 | **Pilot’s Dex Modifier:** +2     | **Base Purchase DC:** 76              |
-|                                  |                                       |
 | **Gunner’s Attack Bonus:** +2    | **Restriction:** Restricted (+2)      |
-|                                  |                                       |
 
 **Attack:** 2 batteries of 3 heavy particle beams –1 ranged (16d8/19–20)
 
@@ -3908,60 +3188,15 @@ Systems).
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Damage Control System</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Ship Type </strong></p></td>
-<td><p><strong>Hit Points Restored</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Ultralight</p></td>
-<td><p>1d10</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="odd">
-<td><p>Light</p></td>
-<td><p>2d10</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="even">
-<td><p>Mediumweight</p></td>
-<td><p>3d10</p></td>
-<td><p>27</p></td>
-</tr>
-<tr class="odd">
-<td><p>Heavy</p></td>
-<td><p>4d10</p></td>
-<td><p>33</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Superheavy</p></td>
-<td><p>5d10</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Damage Control System**
+
+| Ship Type    | Hit Points Restored | Purchase DC |
+|--------------|---------------------|-------------|
+| Ultralight   | 1d10                | 18          |
+| Light        | 2d10                | 22          |
+| Mediumweight | 3d10                | 27          |
+| Heavy        | 4d10                | 33          |
+| Superheavy   | 5d10                | 40          |
 
 **SENSOR JAMMER (PL 5)**
 
@@ -4084,18 +3319,15 @@ Systems).
 
 **Restriction:** Licensed (+1).
 
-|                                  |                          |                 |
-|----------------------------------|--------------------------|-----------------|
-| **Table: Point-Defense Systems** |                          |                 |
-|                                  |                          |                 |
-| **Starship Type **               | **Point-Defense Damage** | **Purchase DC** |
-| Ultralight                       | 1d12×10                  | 31              |
-| Light                            | 2d12×10                  | 34              |
-| Mediumweight                     | 3d12×10                  | 36              |
-| Heavy                            | 4d12×10                  | 38              |
-|                                  |                          |                 |
-| Superheavy                       | 5d12×10                  | 40              |
-|                                  |                          |                 |
+**Table: Point-Defense Systems**
+
+| Starship Type | Point-Defense Damage | Purchase DC |
+|---------------|----------------------|-------------|
+| Ultralight    | 1d12×10              | 31          |
+| Light         | 2d12×10              | 34          |
+| Mediumweight  | 3d12×10              | 36          |
+| Heavy         | 4d12×10              | 38          |
+| Superheavy    | 5d12×10              | 40          |
 
 **RADIATION SHIELDING (PL 6)**
 
@@ -4141,60 +3373,15 @@ Self-Destruct Systems).
 
 **Restriction:** Restricted (+2).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Starship Self-Destruct Systems</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Starship Type </strong></p></td>
-<td><p><strong>Collateral Damage</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Ultralight</p></td>
-<td><p>1d6×10</p></td>
-<td><p>26</p></td>
-</tr>
-<tr class="odd">
-<td><p>Light</p></td>
-<td><p>2d6×10</p></td>
-<td><p>32</p></td>
-</tr>
-<tr class="even">
-<td><p>Mediumweight</p></td>
-<td><p>3d6×10</p></td>
-<td><p>38</p></td>
-</tr>
-<tr class="odd">
-<td><p>Heavy</p></td>
-<td><p>4d6×10</p></td>
-<td><p>44</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Superheavy</p></td>
-<td><p>5d6×10</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Starship Self-Destruct Systems**
+
+| Starship Type | Collateral Damage | Purchase DC |
+|---------------|-------------------|-------------|
+| Ultralight    | 1d6×10            | 26          |
+| Light         | 2d6×10            | 32          |
+| Mediumweight  | 3d6×10            | 38          |
+| Heavy         | 4d6×10            | 44          |
+| Superheavy    | 5d6×10            | 50          |
 
 **STEALTH SCREEN (PL 6)**
 
@@ -4992,687 +4179,58 @@ Apply a penalty on the check based on the size of the pilot’s ship: Huge
 Some starship weapons—such as the needle driver—only have autofire
 settings and can’t normally fire single shots.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Starship Weapons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>Weapon Damage</strong></p></td>
-<td><p><strong>Critical</strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Range Increment</strong></p></td>
-<td><p><strong>Rate of Fire</strong></p></td>
-<td><p><strong>Minimum Ship Size</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Progress Level 6: Fusion Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fusion beam</p></td>
-<td><p>10d8 (45)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>33</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Gauss gun</p></td>
-<td><p>8d12 (52)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Gargantuan</p></td>
-<td><p>35</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Laser</p></td>
-<td><p>6d8 (27)</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Huge</p></td>
-<td><p>28</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Laser, heavy</p></td>
-<td><p>8d8 (36)</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>31</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mine, fusion</p></td>
-<td><p>5d100 (275)</p></td>
-<td><p>—</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Colossal</p></td>
-<td><p>33</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Missile, CHE</p></td>
-<td><p>6d12 (39)</p></td>
-<td><p>19–20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>25<strong><sup>2</sup></strong></p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Missile, KE submunition</p></td>
-<td><p>4d12 (26)</p></td>
-<td><p>19–20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>22<strong><sup>2</sup></strong></p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Missile, nuclear</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>19–20</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>45<strong><sup>2</sup></strong></p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Needle driver</p></td>
-<td><p>8d12 (52)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>A</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>36</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Neutron gun</p></td>
-<td><p>6d8 (27)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>31</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Neutron gun, heavy</p></td>
-<td><p>10d8 (45)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>35</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Rail cannon</p></td>
-<td><p>6d12 (39)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Gargantuan</p></td>
-<td><p>30</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Progress Level 7: Gravity Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Antimatter gun</p></td>
-<td><p>10d8 (45)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>38</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mass cannon</p></td>
-<td><p>8d12 (52)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>37</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Mass cannon, heavy</p></td>
-<td><p>10d12 (65)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>40</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mine, gravitic</p></td>
-<td><p>10d100 (550)</p></td>
-<td><p>—</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Colossal</p></td>
-<td><p>43</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Missile, mass reaction</p></td>
-<td><p>20d8 (90)</p></td>
-<td><p>19–20</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>50<strong><sup>2</sup></strong></p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Missile, plasma</p></td>
-<td><p>18d8 (81)</p></td>
-<td><p>19–20</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>46<strong><sup>2</sup></strong></p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Particle beam</p></td>
-<td><p>12d8 (54)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>36</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Particle beam, heavy</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>39</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Plasma cannon</p></td>
-<td><p>14d8 (63)</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Gargantuan</p></td>
-<td><p>36</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Plasma cannon, heavy</p></td>
-<td><p>18d8 (81)</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Colossal</p></td>
-<td><p>39</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Quantum cannon</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>41</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Progress Level 8: Energy Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Automaser</p></td>
-<td><p>12d8 (54)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>A</p></td>
-<td><p>Colossal</p></td>
-<td><p>40</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>EMP cannon</p></td>
-<td><p>8d8 (36)<strong><sup>3</sup></strong></p></td>
-<td><p>20</p></td>
-<td><p>Electricity</p></td>
-<td><p>4,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>41</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Kinetic lance</p></td>
-<td><p>10d12 (65)</p></td>
-<td><p>20</p></td>
-<td><p>Concussion</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Colossal</p></td>
-<td><p>42</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Maser cannon</p></td>
-<td><p>12d8 (54)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Gargantuan</p></td>
-<td><p>40</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Maser cannon, heavy</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>8,000 ft.</p></td>
-<td><p>Single<strong><sup>1</sup></strong></p></td>
-<td><p>Colossal</p></td>
-<td><p>44</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mine, zero point</p></td>
-<td><p>15d100 (825)</p></td>
-<td><p>—</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Colossal</p></td>
-<td><p>48</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Missile, nova burst</p></td>
-<td><p>12d8 (54)</p></td>
-<td><p>19–20</p></td>
-<td><p>Ballistic/ Energy</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>45<strong><sup>2</sup></strong></p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Missile, starload</p></td>
-<td><p>20d8 (90)</p></td>
-<td><p>19–20</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>Single</p></td>
-<td><p>Huge</p></td>
-<td><p>45<strong><sup>2</sup></strong></p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Neutronium driver</p></td>
-<td><p>12d12 (78)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>42</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Sliver gun</p></td>
-<td><p>8d12 (52)</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>3,000 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>39</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Zero bore</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>52</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Progress Level 9: Matter Age</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Blacklaser</p></td>
-<td><p>16d8 (72)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>8,000 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>Huge</p></td>
-<td><p>50</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mine, null<strong><sup>4</sup></strong></p></td>
-<td><p>10d100 (550)</p></td>
-<td><p>—</p></td>
-<td><p>Energy</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>Colossal</p></td>
-<td><p>53</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Singularity cannon</p></td>
-<td><p>20d8 (90)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>5,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>53</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>String projector</p></td>
-<td><p>12d12 (78)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>6,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Colossal</p></td>
-<td><p>54</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Tachyon gun</p></td>
-<td><p>14d8 (63)</p></td>
-<td><p>20</p></td>
-<td><p>Energy</p></td>
-<td><p>10,000 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>52</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 With a successful Repair check (DC 30) and 1 hour of work, this
-weapon can be modified for semiautomatic or automatic fire mode.
-Resetting the weapon to its original configuration requires another
-check and another hour of labor.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 The purchase DC includes a basic launch system (missile rack or
-missile tube) and eight missiles with warheads. The purchase DC is 2
-lower without the launch system.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3 In addition to taking damage, the ship is dazed for 1 round
-(see Starship Condition Summary).</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4 This weapon’s damage ignores a ship’s hardness.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Starship Weapons**
+
+|                                   | Weapon Damage        | Critical | Damage Type       | Range Increment | Rate of Fire       | Minimum Ship Size | Purchase DC    | Restriction |
+|-----------------------------------|----------------------|----------|-------------------|-----------------|--------------------|-------------------|----------------|-------------|
+| **Progress Level 6: Fusion Age**  |                      |          |                   |                 |                    |                   |                |             |
+| Fusion beam                       | 10d8 (45)            | 20       | Energy            | 3,000 ft.       | Single             | Gargantuan        | 33             | Res (+2)    |
+| Gauss gun                         | 8d12 (52)            | 20       | Ballistic         | 4,000 ft.       | Single<sup>1</sup> | Gargantuan        | 35             | Res (+2)    |
+| Laser                             | 6d8 (27)             | 20       | Fire              | 3,000 ft.       | Single<sup>1</sup> | Huge              | 28             | Lic (+1)    |
+| Laser, heavy                      | 8d8 (36)             | 20       | Fire              | 4,000 ft.       | Single             | Colossal          | 31             | Res (+2)    |
+| Mine, fusion                      | 5d100 (275)          | —        | Energy            | —               | —                  | Colossal          | 33             | Mil (+3)    |
+| Missile, CHE                      | 6d12 (39)            | 19–20    | Ballistic         | —               | Single             | Gargantuan        | 25<sup>2</sup> | Mil (+3)    |
+| Missile, KE submunition           | 4d12 (26)            | 19–20    | Ballistic         | —               | Single             | Gargantuan        | 22<sup>2</sup> | Lic (+1)    |
+| Missile, nuclear                  | 16d8 (72)            | 19–20    | Energy            | —               | Single             | Gargantuan        | 45<sup>2</sup> | Mil (+3)    |
+| Needle driver                     | 8d12 (52)            | 20       | Ballistic         | 4,000 ft.       | A                  | Gargantuan        | 36             | Lic (+1)    |
+| Neutron gun                       | 6d8 (27)             | 20       | Energy            | 5,000 ft.       | Single             | Colossal          | 31             | Mil (+3)    |
+| Neutron gun, heavy                | 10d8 (45)            | 20       | Energy            | 6,000 ft.       | Single             | Colossal          | 35             | Mil (+3)    |
+| Rail cannon                       | 6d12 (39)            | 20       | Ballistic         | 3,000 ft.       | Single<sup>1</sup> | Gargantuan        | 30             | Lic (+1)    |
+| **Progress Level 7: Gravity Age** |                      |          |                   |                 |                    |                   |                |             |
+| Antimatter gun                    | 10d8 (45)            | 20       | Energy            | 5,000 ft.       | Single             | Colossal          | 38             | Mil (+3)    |
+| Mass cannon                       | 8d12 (52)            | 20       | Ballistic         | 5,000 ft.       | Single             | Gargantuan        | 37             | Lic (+1)    |
+| Mass cannon, heavy                | 10d12 (65)           | 20       | Ballistic         | 6,000 ft.       | Single             | Colossal          | 40             | Res (+2)    |
+| Mine, gravitic                    | 10d100 (550)         | —        | Energy            | —               | —                  | Colossal          | 43             | Mil (+3)    |
+| Missile, mass reaction            | 20d8 (90)            | 19–20    | Energy            | —               | Single             | Colossal          | 50<sup>2</sup> | Mil (+3)    |
+| Missile, plasma                   | 18d8 (81)            | 19–20    | Fire              | —               | Single             | Gargantuan        | 46<sup>2</sup> | Res (+2)    |
+| Particle beam                     | 12d8 (54)            | 20       | Energy            | 4,000 ft.       | Single             | Gargantuan        | 36             | Res (+2)    |
+| Particle beam, heavy              | 16d8 (72)            | 20       | Energy            | 5,000 ft.       | Single             | Colossal          | 39             | Res (+2)    |
+| Plasma cannon                     | 14d8 (63)            | 20       | Fire              | 3,000 ft.       | Single<sup>1</sup> | Gargantuan        | 36             | Lic (+1)    |
+| Plasma cannon, heavy              | 18d8 (81)            | 20       | Fire              | 4,000 ft.       | Single<sup>1</sup> | Colossal          | 39             | Res (+2)    |
+| Quantum cannon                    | 16d8 (72)            | 20       | Energy            | 6,000 ft.       | Single             | Gargantuan        | 41             | Res (+2)    |
+| **Progress Level 8: Energy Age**  |                      |          |                   |                 |                    |                   |                |             |
+| Automaser                         | 12d8 (54)            | 20       | Energy            | 6,000 ft.       | A                  | Colossal          | 40             | Res (+2)    |
+| EMP cannon                        | 8d8 (36)<sup>3</sup> | 20       | Electricity       | 4,000 ft.       | Single             | Gargantuan        | 41             | Res (+2)    |
+| Kinetic lance                     | 10d12 (65)           | 20       | Concussion        | 3,000 ft.       | Single<sup>1</sup> | Colossal          | 42             | Res (+2)    |
+| Maser cannon                      | 12d8 (54)            | 20       | Energy            | 6,000 ft.       | Single<sup>1</sup> | Gargantuan        | 40             | Lic (+1)    |
+| Maser cannon, heavy               | 16d8 (72)            | 20       | Energy            | 8,000 ft.       | Single<sup>1</sup> | Colossal          | 44             | Res (+2)    |
+| Mine, zero point                  | 15d100 (825)         | —        | Energy            | —               | —                  | Colossal          | 48             | Mil (+3)    |
+| Missile, nova burst               | 12d8 (54)            | 19–20    | Ballistic/ Energy | —               | Single             | Gargantuan        | 45<sup>2</sup> | Mil (+3)    |
+| Missile, starload                 | 20d8 (90)            | 19–20    | Energy            | —               | Single             | Huge              | 45<sup>2</sup> | Mil (+3)    |
+| Neutronium driver                 | 12d12 (78)           | 20       | Ballistic         | 5,000 ft.       | Single             | Colossal          | 42             | Mil (+3)    |
+| Sliver gun                        | 8d12 (52)            | 20       | Ballistic         | 3,000 ft.       | S, A               | Gargantuan        | 39             | Res (+2)    |
+| Zero bore                         | 16d8 (72)            | 20       | Energy            | 6,000 ft.       | Single             | Colossal          | 52             | Mil (+3)    |
+| **Progress Level 9: Matter Age**  |                      |          |                   |                 |                    |                   |                |             |
+| Blacklaser                        | 16d8 (72)            | 20       | Energy            | 8,000 ft.       | S, A               | Huge              | 50             | Mil (+3)    |
+| Mine, null<sup>4</sup>            | 10d100 (550)         | —        | Energy            | —               | —                  | Colossal          | 53             | Mil (+3)    |
+| Singularity cannon                | 20d8 (90)            | 20       | Energy            | 5,000 ft.       | Single             | Colossal          | 53             | Mil (+3)    |
+| String projector                  | 12d12 (78)           | 20       | Energy            | 6,000 ft.       | Single             | Colossal          | 54             | Mil (+3)    |
+| Tachyon gun                       | 14d8 (63)            | 20       | Energy            | 10,000 ft.      | Single             | Gargantuan        | 52             | Mil (+3)    |
+
+1 With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.
+2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.
+3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).
+4 This weapon’s damage ignores a ship’s hardness.
 
 **FUSION BEAM (PL 6)**
 
@@ -5964,54 +4522,16 @@ hold and retract the grapplers as a free action.
 
 **Restriction:** None.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Grappler Pilot Check Dcs</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size of Target</strong></p></td>
-<td><p><strong>Pilot Check DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>5 + target’s Defense</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>10 + target’s Defense</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>15 + target’s Defense</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>20 + target’s Defense</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>25 + target’s Defense</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>30 + target’s Defense</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Grappler Pilot Check Dcs**
+
+| Size of Target | Pilot Check DC        |
+|----------------|-----------------------|
+| Colossal       | 5 + target’s Defense  |
+| Gargantuan     | 10 + target’s Defense |
+| Huge           | 15 + target’s Defense |
+| Large          | 20 + target’s Defense |
+| Medium-size    | 25 + target’s Defense |
+| Small          | 30 + target’s Defense |
 
 **TRACTOR BEAM EMITTER (PL 7)**
 

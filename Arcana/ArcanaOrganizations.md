@@ -72,17 +72,13 @@ characters must pay the usual market price for the item, or the provider
 requires a higher than normal price (or perhaps some special service) in
 exchange for the item.
 
-|          |                                    |
-|----------|------------------------------------|
-| **Roll** | **Result**                         |
-|          |                                    |
-| 2        | Item unavailable                   |
-| 3–5      | 1 dose of item available           |
-| 6–8      | 1d3 doses of item available        |
-| 9–11     | 1d6 doses of item available        |
-|          |                                    |
-| 12       | unlimited supply of item available |
-|          |                                    |
+| Roll | Result                             |
+|------|------------------------------------|
+| 2    | Item unavailable                   |
+| 3–5  | 1 dose of item available           |
+| 6–8  | 1d3 doses of item available        |
+| 9–11 | 1d6 doses of item available        |
+| 12   | unlimited supply of item available |
 
 ##### Black Feather
 
@@ -1142,18 +1138,14 @@ Research or Knowledge checks required to find information, anyone using
 the M.E. morgue must make an additional Research check to determine how
 long the search took.
 
-|           |                                         |
+| DC        | Time Required                           |
 |-----------|-----------------------------------------|
-| **DC**    | **Time Required**                       |
-|           |                                         |
 | 9 or less | 1d6 + 6 hours with no information found |
 | 10 –14    | 1d6 + 6 hours                           |
 | 15 –19    | 1d6 hours                               |
 | 20 –24    | 3d10 + 30 minutes                       |
 | 25 –29    | 2d10 + 20 minutes                       |
-|           |                                         |
 | 30 +      | 1d10 + 10 minutes                       |
-|           |                                         |
 
 Anastasia Markova
 
@@ -1519,36 +1511,27 @@ wielder’s actions.
 To determine the personality of a particular *Nakamura blade, *roll on
 the following chart.
 
-|         |                 |
-|---------|-----------------|
-| **d20** | **Personality** |
-|         |                 |
-| 1       | Bloodthirsty    |
-| 2–3     | Violent         |
-| 4–6     | Angry           |
-| 7–10    | Impatient       |
-| 11–14   | Patient         |
-| 15–17   | Soothing        |
-| 18–19   | Insightful      |
-|         |                 |
-| 20      | Peace loving    |
-|         |                 |
+| d20   | Personality  |
+|-------|--------------|
+| 1     | Bloodthirsty |
+| 2–3   | Violent      |
+| 4–6   | Angry        |
+| 7–10  | Impatient    |
+| 11–14 | Patient      |
+| 15–17 | Soothing     |
+| 18–19 | Insightful   |
+| 20    | Peace loving |
 
 Some *Nakamura blades *are more deadly than others, but all give immense
 power to the people who wield them. To determine the abilities of a
 particular *Nakamura blade, *roll once on each of the following charts.
 
-|        |                                                               |
+| d6     | Enhancement Bonus                                             |
 |--------|---------------------------------------------------------------|
-| **d6** | **Enhancement Bonus**                                         |
-|        |                                                               |
 | 1–3    | +1                                                            |
 | 4–5    | +2                                                            |
-|        |                                                               |
 | 6      | +3                                                            |
-|        |                                                               |
 | **d%** | **Special Ability**                                           |
-|        |                                                               |
 | 01–05  | Item can Sense Motive (10 ranks)                              |
 | 06–10  | Wielder has free use of Combat Reflexes                       |
 | 11–15  | Wielder has free use of Blind-Fight                           |
@@ -1570,9 +1553,7 @@ particular *Nakamura blade, *roll once on each of the following charts.
 | 89–91  | *Fly *(30 minutes per use) 2/day                              |
 | 92–94  | *Heal*                                                        |
 | 95–97  | *True seeing *at will                                         |
-|        |                                                               |
 | 98–00  | *Passwall *3/day                                              |
-|        |                                                               |
 
 *Type: *Weapon (magic); *Caster Level: *10th; *Purchase DC: *45\*;
 *Weight: *6 lb.

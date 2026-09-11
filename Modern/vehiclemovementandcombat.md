@@ -76,70 +76,15 @@ its initiative modifier, maneuver modifier, and Defense. (The size
 modifier is already included in the vehicle statistics on Table:
 Vehicles)
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Vehicle Sizes</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Vehicle Size</h4></td>
-<td><h4>Size Modifier</h4></td>
-<td><h4>Examples</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>–8</p></td>
-<td><p>Yacht, semi with trailer</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>–4</p></td>
-<td><p>Tank, limousine</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>–2</p></td>
-<td><p>Luxury car, SUV, armored car</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>–1</p></td>
-<td><p>Economy car, Harley</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>+0</p></td>
-<td><p>Racing bike, dirt bike</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Vehicle Sizes**
+
+| Vehicle Size | Size Modifier | Examples                     |
+|--------------|---------------|------------------------------|
+| Colossal     | –8            | Yacht, semi with trailer     |
+| Gargantuan   | –4            | Tank, limousine              |
+| Huge         | –2            | Luxury car, SUV, armored car |
+| Large        | –1            | Economy car, Harley          |
+| Medium-size  | +0            | Racing bike, dirt bike       |
 
 Facing and Firing Arcs
 
@@ -182,25 +127,20 @@ represents a range of possible movement (see Table: Vehicle Speeds and
 Modifiers). Each round, a vehicle moves according to its current speed
 category.
 
-|                                                                                 |                          |                             |                          |                             |     |     |
-|---------------------------------------------------------------------------------|--------------------------|-----------------------------|--------------------------|-----------------------------|-----|-----|
-| **Table: Vehicle Speeds and Modifiers**                                         |                          |                             |                          |                             |     |     |
-|                                                                                 |                          |                             |                          |                             |     |     |
-| **Speed Category**                                                              | **Character Scale**      | **Chase Scale**             | **Defense Modifier**     | **Check/Roll Modifier**     |     |     |
-|                                                                                 |                          |                             |                          |                             |     |     |
-|                                                                                 | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** |     |     |
-|                                                                                 |                          |                             |                          |                             |     |     |
-| Stationary<sup>3</sup>                                                          | 0                        | —                           | 0                        | —                           | +0  | —   |
-| Alley speed                                                                     | 1–20                     | 1                           | 1–2                      | 1                           | +0  | +0  |
-| Street speed                                                                    | 21–50                    | 2                           | 3–5                      | 1                           | +1  | –1  |
-| Highway speed                                                                   | 51–150                   | 4                           | 6–15                     | 2                           | +2  | –2  |
-| All-out                                                                         | 151+                     | 8                           | 16+                      | 2                           | +4  | –4  |
-|                                                                                 |                          |                             |                          |                             |     |     |
-| 1 The number of squares a vehicle can move at this speed.                       |                          |                             |                          |                             |     |     |
-| 2 The number of squares a vehicle must move at this speed before making a turn. |                          |                             |                          |                             |     |     |
-|                                                                                 |                          |                             |                          |                             |     |     |
-| 3 A stationary vehicle cannot move or maneuver.                                 |                          |                             |                          |                             |     |     |
-|                                                                                 |                          |                             |                          |                             |     |     |
+**Table: Vehicle Speeds and Modifiers**
+
+| Speed Category         | Character Scale          | Chase Scale                 | Defense Modifier         | Check/Roll Modifier         |    |    |
+|------------------------|--------------------------|-----------------------------|--------------------------|-----------------------------|----|----|
+|                        | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** |    |    |
+| Stationary<sup>3</sup> | 0                        | —                           | 0                        | —                           | +0 | —  |
+| Alley speed            | 1–20                     | 1                           | 1–2                      | 1                           | +0 | +0 |
+| Street speed           | 21–50                    | 2                           | 3–5                      | 1                           | +1 | –1 |
+| Highway speed          | 51–150                   | 4                           | 6–15                     | 2                           | +2 | –2 |
+| All-out                | 151+                     | 8                           | 16+                      | 2                           | +4 | –4 |
+
+1 The number of squares a vehicle can move at this speed.
+2 The number of squares a vehicle must move at this speed before making a turn.
+3 A stationary vehicle cannot move or maneuver.
 
 Declaring Speed
 
@@ -340,54 +280,15 @@ oil slick forces the drive to make a Drive check (DC 15) to retain
 control of the vehicle (see Losing Control). Failing to avoid an object
 results in a collision with the object (see Collisions and Ramming).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Hazard</h4></td>
-<td><h4>DC</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Caltrops</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>Oil slick</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Object</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Small (tire, light debris)</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size (crate)</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Large (pile of wreckage)</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Structure</p></td>
-<td><p>Cannot be avoided</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Hazard                     | DC                |
+|----------------------------|-------------------|
+| Caltrops                   | 15                |
+| Oil slick                  | 15                |
+| **Object**                 |                   |
+| Small (tire, light debris) | 5                 |
+| Medium-size (crate)        | 10                |
+| Large (pile of wreckage)   | 15                |
+| Structure                  | Cannot be avoided |
 
 **Bootleg Turn:** By making a bootleg turn, a driver can radically
 change direction without turning in a loop. However, in so doing, the
@@ -406,16 +307,12 @@ only changes facing by 45 degrees. Make a Drive check to retain control
 against a DC equal to the DC for the bootleg turn attempted (see Losing
 Control).
 
-|                   |        |
-|-------------------|--------|
-| **Facing Change** | **DC** |
-|                   |        |
-| 45 degrees        | 5      |
-| 90 degrees        | 10     |
-| 135 degrees       | 15     |
-|                   |        |
-| 180 degrees       | 20     |
-|                   |        |
+| Facing Change | DC |
+|---------------|----|
+| 45 degrees    | 5  |
+| 90 degrees    | 10 |
+| 135 degrees   | 15 |
+| 180 degrees   | 20 |
 
 **Dash:** With a dash stunt, a driver can increase the vehicle’s speed
 by one category. (This increase is in addition to any speed change made
@@ -475,78 +372,18 @@ On a failed check, the vehicle fails to clear the gap, and instead falls
 into it (or collides with the far side). Determine damage as for a
 collision (see Collisions and Ramming).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Gap Width</h4></td>
-<td><h4>DC</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1–3 ft. (ditch)</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>4–8 ft. (culvert)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><p>8–15 ft. (creek, small ravine)</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td><p>16–25 ft. (narrow road, small pond)</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>26–40 ft. (wide road, small river)</p></td>
-<td><p>45</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Vehicle Speed Category</h4></td>
-<td><h4>DC Modifier</h4></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Alley speed</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Street speed</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td><p>Highway speed</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>All-out</p></td>
-<td><p>–5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Gap Width                           | DC          |
+|-------------------------------------|-------------|
+| 1–3 ft. (ditch)                     | 15          |
+| 4–8 ft. (culvert)                   | 20          |
+| 8–15 ft. (creek, small ravine)      | 25          |
+| 16–25 ft. (narrow road, small pond) | 35          |
+| 26–40 ft. (wide road, small river)  | 45          |
+| Vehicle Speed Category              | DC Modifier |
+| Alley speed                         | +10         |
+| Street speed                        | +5          |
+| Highway speed                       | +0          |
+| All-out                             | –5          |
 
 A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object;
 the vehicle may be able to avoid taking collision damage from the failed
@@ -588,38 +425,11 @@ lose control of the vehicle.
 The DC for a sideswipe is 15. It’s modified by the relative size and
 speed of the target.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Target Condition</h4></td>
-<td><h4>DC Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Each size category larger</p></td>
-<td><p>–5</p></td>
-</tr>
-<tr class="even">
-<td><p>Each size category smaller</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Each speed category of difference</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Target Condition                  | DC Modifier |
+|-----------------------------------|-------------|
+| Each size category larger         | –5          |
+| Each size category smaller        | +5          |
+| Each speed category of difference | –2          |
 
 On a failed check, both vehicles take damage as though the sideswipe
 attempt was a success. However, the other driver does not need to make a
@@ -659,94 +469,23 @@ The base damage dealt by a vehicle collision depends on the speed and
 size of the objects involved. Use the highest speed and the smallest
 size of the two colliding objects and refer to Table: Collision Damage.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Collision Damage</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Highest Speed</strong></p></td>
-<td><h5>Damage Die Type</h5></td>
-</tr>
-<tr class="even">
-<td><p>Alley speed</p></td>
-<td><p>d2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Street speed</p></td>
-<td><p>d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Highway speed</p></td>
-<td><p>d8</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>All-out</p></td>
-<td><p>d12</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Smallest Object or Creature Size</h4></td>
-<td><h4>Number of Dice</h4></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>16</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Smaller than Tiny</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Collision Damage**
+
+| Highest Speed                    | Damage Die Type |
+|----------------------------------|-----------------|
+| Alley speed                      | d2              |
+| Street speed                     | d4              |
+| Highway speed                    | d8              |
+| All-out                          | d12             |
+| Smallest Object or Creature Size | Number of Dice  |
+| Colossal                         | 20              |
+| Gargantuan                       | 16              |
+| Huge                             | 12              |
+| Large                            | 8               |
+| Medium-size                      | 4               |
+| Small                            | 2               |
+| Tiny                             | 1               |
+| Smaller than Tiny                | 0               |
 
 After finding the base damage, determine the collision’s damage
 multiplier based on how the colliding vehicle struck the other vehicle
@@ -762,52 +501,15 @@ collision, it ends its movement immediately. If not, it pushes the other
 vehicle or object aside, if possible, and continues until it has moved
 the minimum number of squares for its new speed category.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Collision Direction</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Colliding Vehicle’s Target</strong></p></td>
-<td><h5>Multiplier</h5></td>
-</tr>
-<tr class="even">
-<td><p>A stationary object</p></td>
-<td><p>x 1</p></td>
-</tr>
-<tr class="odd">
-<td><p>A moving vehicle, striking head-on or 45 degrees from
-head-on</p></td>
-<td><p>x 2</p></td>
-</tr>
-<tr class="even">
-<td><p>A moving vehicle, striking perpendicular</p></td>
-<td><p>x 1</p></td>
-</tr>
-<tr class="odd">
-<td><p>A moving vehicle, striking from the rear or 45 degrees from the
-rear</p></td>
-<td><p>x 1/2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>A vehicle being sideswiped (see Sideswipe)</p></td>
-<td><p>x 1/4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Collision Direction**
+
+| Colliding Vehicle’s Target                                           | Multiplier |
+|----------------------------------------------------------------------|------------|
+| A stationary object                                                  | x 1        |
+| A moving vehicle, striking head-on or 45 degrees from head-on        | x 2        |
+| A moving vehicle, striking perpendicular                             | x 1        |
+| A moving vehicle, striking from the rear or 45 degrees from the rear | x 1/2      |
+| A vehicle being sideswiped (see Sideswipe)                           | x 1/4      |
 
 The driver of the vehicle that caused the collision must immediately
 make a Drive check (DC 15) or lose control of the vehicle (see Losing
@@ -821,42 +523,12 @@ When a vehicle takes damage from a collision, its occupants may take
 damage as well. The base amount of damage depends on the cover offered
 by the vehicle.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Cover</h4></td>
-<td><h4>Damage</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>None</p></td>
-<td><p>Same as damage taken by vehicle</p></td>
-</tr>
-<tr class="even">
-<td><p>One-quarter</p></td>
-<td><p>One-half damage taken by vehicle</p></td>
-</tr>
-<tr class="odd">
-<td><p>One-half</p></td>
-<td><p>One-quarter damage taken by vehicle</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Three-quarters or more</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Cover                  | Damage                              |
+|------------------------|-------------------------------------|
+| None                   | Same as damage taken by vehicle     |
+| One-quarter            | One-half damage taken by vehicle    |
+| One-half               | One-quarter damage taken by vehicle |
+| Three-quarters or more | None                                |
 
 Each of the occupants may make a Reflex save (DC 15) to take half
 damage.
@@ -978,400 +650,64 @@ abilities when they drive or attack from vehicles. It’s merely a
 shortcut to save time if the GM doesn’t have particular characters
 behind the wheel.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Vehicle Crew Quality</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Crew Quality</strong></p></td>
-<td><p><strong>Check Modifier</strong></p></td>
-<td><p><strong>Attack Bonus</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Untrained</p></td>
-<td><p>–4</p></td>
-<td><p>–2</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Normal</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Skilled</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Expert</p></td>
-<td><p>+8</p></td>
-<td><p>+4</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ace</p></td>
-<td><p>+12</p></td>
-<td><p>+8/+3</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Table: Crewed Vehicles</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Name</strong></p></td>
-<td><p><strong>Crew</strong></p></td>
-<td><p><strong>Initiative</strong></p></td>
-<td><p><strong>Maneuver</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Civilian Aircraft</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bell Jet Ranger</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Bell Model 212</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cessna 172 Skyhawk</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>–2</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>Learjet Model 45</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Civilian Cars</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Acura 3.2 TL</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Aston-Martin Vanquish</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>BMW M3</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Chevrolet Cavalier</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Chevrolet Corvette</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Dodge Neon</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ford Crown Victoria</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Jaguar XJS</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Lamborghini Diablo</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Mercedes E55 AMG</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Volkswagen Jetta</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Civilian Motorcycles</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ducati 998R</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Harley Davidson FLSTF</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Yamaha YZ250F</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Civilian Trucks</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>AM General Hummer</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Chevrolet Suburban</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dodge Caravan</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Ford Escape XLT</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ford F-150 XL</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Toyota Tacoma Xtracab</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Civilian Water Vehicles</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bayliner 1802 Capri</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Fairline Targa 30</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>–2</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Sea-Doo XP</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Other Vehicles</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Armored truck</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Honda TRX400FW</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Limousine</p></td>
-<td><p>1 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Moving truck</p></td>
-<td><p>1 (Normal +2)</p></td>
-<td><p>–2</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="even">
-<td><p>NABI Model 40LFW</p></td>
-<td><p>1 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Military Vehicles</h4></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>BMP-2</p></td>
-<td><p>3 (Skilled +4)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>M1A2 Abrams</p></td>
-<td><p>4 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>M2A2 Bradley</p></td>
-<td><p>3 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>M113A1 Gavin</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>UH-60 Black Hawk</p></td>
-<td><p>2 (Skilled +4)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Vehicle Crew Quality**
+
+| Crew Quality | Check Modifier | Attack Bonus |  |
+|--------------|----------------|--------------|--|
+| Untrained    | –4             | –2           |  |
+| Normal       | +2             | +0           |  |
+| Skilled      | +4             | +2           |  |
+| Expert       | +8             | +4           |  |
+| Ace          | +12            | +8/+3        |  |
+
+**Table: Crewed Vehicles**
+
+| Name                        | Crew           | Initiative | Maneuver |
+|-----------------------------|----------------|------------|----------|
+| **Civilian Aircraft**       |                |            |          |
+| Bell Jet Ranger             | 2 (Skilled +4) | +0         | +0       |
+| Bell Model 212              | 2 (Skilled +4) | +0         | +0       |
+| Cessna 172 Skyhawk          | 1 (Normal +2)  | –2         | –2       |
+| Learjet Model 45            | 2 (Skilled +4) | +0         | +0       |
+| **Civilian Cars**           |                |            |          |
+| Acura 3.2 TL                | 1 (Normal +2)  | +0         | +1       |
+| Aston-Martin Vanquish       | 1 (Normal +2)  | +0         | +2       |
+| BMW M3                      | 1 (Normal +2)  | +0         | +3       |
+| Chevrolet Cavalier          | 1 (Normal +2)  | +1         | +1       |
+| Chevrolet Corvette          | 1 (Normal +2)  | +0         | +2       |
+| Dodge Neon                  | 1 (Normal +2)  | +1         | +1       |
+| Ford Crown Victoria         | 1 (Normal +2)  | +0         | +1       |
+| Jaguar XJS                  | 1 (Normal +2)  | +0         | +1       |
+| Lamborghini Diablo          | 1 (Normal +2)  | +0         | +3       |
+| Mercedes E55 AMG            | 1 (Normal +2)  | +0         | +2       |
+| Volkswagen Jetta            | 1 (Normal +2)  | +0         | +2       |
+| **Civilian Motorcycles**    |                |            |          |
+| Ducati 998R                 | 1 (Normal +2)  | +2         | +5       |
+| Harley Davidson FLSTF       | 1 (Normal +2)  | +1         | +3       |
+| Yamaha YZ250F               | 1 (Normal +2)  | +2         | +4       |
+| **Civilian Trucks**         |                |            |          |
+| AM General Hummer           | 1 (Normal +2)  | +0         | +0       |
+| Chevrolet Suburban          | 1 (Normal +2)  | +0         | +0       |
+| Dodge Caravan               | 1 (Normal +2)  | +0         | +0       |
+| Ford Escape XLT             | 1 (Normal +2)  | +0         | +0       |
+| Ford F-150 XL               | 1 (Normal +2)  | +0         | +0       |
+| Toyota Tacoma Xtracab       | 1 (Normal +2)  | +0         | +0       |
+| **Civilian Water Vehicles** |                |            |          |
+| Bayliner 1802 Capri         | 1 (Normal +2)  | +0         | +0       |
+| Fairline Targa 30           | 1 (Normal +2)  | –2         | –2       |
+| Sea-Doo XP                  | 1 (Normal +2)  | +1         | +3       |
+| **Other Vehicles**          |                |            |          |
+| Armored truck               | 2 (Skilled +4) | +2         | +2       |
+| Honda TRX400FW              | 1 (Normal +2)  | +1         | +3       |
+| Limousine                   | 1 (Skilled +4) | +0         | +0       |
+| Moving truck                | 1 (Normal +2)  | –2         | –2       |
+| NABI Model 40LFW            | 1 (Skilled +4) | +0         | +0       |
+| **Military Vehicles**       |                |            |          |
+| BMP-2                       | 3 (Skilled +4) | +2         | +2       |
+| M1A2 Abrams                 | 4 (Skilled +4) | +0         | +0       |
+| M2A2 Bradley                | 3 (Skilled +4) | +0         | +0       |
+| M113A1 Gavin                | 2 (Skilled +4) | +2         | +2       |
+| UH-60 Black Hawk            | 2 (Skilled +4) | +0         | +0       |
 
 ### Attack Options
 

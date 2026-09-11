@@ -12,50 +12,12 @@ the creature is unique or has traits unlike other members of its
 species. The type of information gleaned in this amount of time depends
 on the hero’s Research check result, as shown below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Type of Information</h3></td>
-<td><h3>Research Check DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Type Traits</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Reveals a creature’s type and any traits common to that
-type.</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Species Traits</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Reveals a specific creature’s Species Traits.</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td><h3>Unique Traits</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Reveals the unique attributes and weaknesses (if any) of a
-specific creature.</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Type of Information                                                           | Research Check DC |
+|-------------------------------------------------------------------------------|-------------------|
+| **Type Traits**                                                               |                   |
+| Reveals a creature’s type and any traits common to that type.                 | 15                |
+| **Species Traits**                                                            |                   |
+| Reveals a specific creature’s Species Traits.                                 | 20                |
+| **Unique Traits**                                                             |                   |
+| Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25                |
 

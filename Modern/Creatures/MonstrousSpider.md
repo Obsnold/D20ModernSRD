@@ -17,70 +17,17 @@ to negate the poison’s secondary damage. The DC of the Fortitude saves
 and the effects vary depending on the monstrous spider’s size, as shown
 on Table: Monstrous Spider Poison.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Monstrous Spider Poison</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Spider Size</strong></p></td>
-<td><p><strong>Fort Save DC</strong></p></td>
-<td><p><strong>Initial/Secondary Damage</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>35</p></td>
-<td><p>2d8 Str</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>31</p></td>
-<td><p>2d6 Str</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>22</p></td>
-<td><p>1d8 Str</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>17</p></td>
-<td><p>1d6 Str</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>14</p></td>
-<td><p>1d4 Str</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>11</p></td>
-<td><p>1d3 Str</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>11</p></td>
-<td><p>1d2 Str</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Monstrous Spider Poison**
+
+| Spider Size | Fort Save DC | Initial/Secondary Damage |
+|-------------|--------------|--------------------------|
+| Colossal    | 35           | 2d8 Str                  |
+| Gargantuan  | 31           | 2d6 Str                  |
+| Huge        | 22           | 1d8 Str                  |
+| Large       | 17           | 1d6 Str                  |
+| Medium-size | 14           | 1d4 Str                  |
+| Small       | 11           | 1d3 Str                  |
+| Tiny        | 11           | 1d2 Str                  |
 
 **Web (Ex):** Monstrous spiders often wait in their webs or in trees,
 then lower themselves silently on silk strands and leap onto prey
@@ -108,82 +55,17 @@ listed on below and damage reduction 5/fire.
 A monstrous spider can move across its own sheet web at its climb speed
 and can determine the exact location of any creature touching the web.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Monstrous Spider Webs</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Spider Size</strong></p></td>
-<td><p><strong>Escape DC</strong></p></td>
-<td><p><strong>Break DC</strong></p></td>
-<td><p><strong>Hit Points</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>32</p></td>
-<td><p>34</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>30</p></td>
-<td><p>32</p></td>
-<td><p>16</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>28</p></td>
-<td><p>30</p></td>
-<td><p>14</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>26</p></td>
-<td><p>28</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>20</p></td>
-<td><p>22</p></td>
-<td><p>6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>18</p></td>
-<td><p>20</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>16</p></td>
-<td><p>18</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Monstrous Spider Webs**
+
+| Spider Size | Escape DC | Break DC | Hit Points |
+|-------------|-----------|----------|------------|
+| Colossal    | 32        | 34       | 18         |
+| Gargantuan  | 30        | 32       | 16         |
+| Huge        | 28        | 30       | 14         |
+| Large       | 26        | 28       | 12         |
+| Medium-size | 20        | 22       | 6          |
+| Small       | 18        | 20       | 4          |
+| Tiny        | 16        | 18       | 2          |
 
 **Resistance to Massive Damage:** Monstrous spiders gain a +5 species
 bonus on Fortitude saves to negate the effects of massive damage.

@@ -93,74 +93,20 @@ speed. It also gains a +8 species bonus on Swim checks.
 qualities of the base creature. It may also gain one or more special
 qualities, chosen from the following list:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Special Quality </strong></p></td>
-<td><h4>CR Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Acidic blood</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="even">
-<td><p>Blindsight</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Breath weapon</p></td>
-<td><p>+2/3</p></td>
-</tr>
-<tr class="even">
-<td><p>Damage reduction 5/–</p></td>
-<td><p>+2/3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Death cloud</p></td>
-<td><p>+2/3</p></td>
-</tr>
-<tr class="even">
-<td><p>Energy resistance 10</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fast healing 5</p></td>
-<td><p>+2/3</p></td>
-</tr>
-<tr class="even">
-<td><p>Improved natural armor</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Poisonous bite</p></td>
-<td><p>+2/3</p></td>
-</tr>
-<tr class="even">
-<td><p>Power resistance</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Psionics</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Scent</p></td>
-<td><p>+1/3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Special Quality        | CR Modifier |
+|------------------------|-------------|
+| Acidic blood           | +1/3        |
+| Blindsight             | +1/3        |
+| Breath weapon          | +2/3        |
+| Damage reduction 5/–   | +2/3        |
+| Death cloud            | +2/3        |
+| Energy resistance 10   | +1/3        |
+| Fast healing 5         | +2/3        |
+| Improved natural armor | +1/3        |
+| Poisonous bite         | +2/3        |
+| Power resistance       | +1/3        |
+| Psionics               | +1/3        |
+| Scent                  | +1/3        |
 
 *Acidic Blood (Ex): *The extraterrestrial has acidic blood. Each time it
 takes damage, it deals acid damage to all adjacent creatures and objects
@@ -209,18 +155,14 @@ vary, as shown below; either roll randomly or choose the type that best
 suits the creature. A poisonous bite increases the creature’s CR by
 +2/3.
 
-|              |                     |                      |
-|--------------|---------------------|----------------------|
-| **Roll d% ** | **Initial Damage ** | **Secondary Damage** |
-|              |                     |                      |
-| 01–17        | 1d6 Str             | 1d6 Str              |
-| 18–34        | 1d6 Dex             | 1d6 Dex              |
-| 35–50        | 1d4 Con             | 1d4 Con              |
-| 51–67        | 2d4 Wis             | 2d4 Wis              |
-| 68–84        | 2d4 Cha             | 2d4 Cha              |
-|              |                     |                      |
-| 85–100       | None                | Paralysis 1d6 hours  |
-|              |                     |                      |
+| Roll d% | Initial Damage | Secondary Damage    |
+|---------|----------------|---------------------|
+| 01–17   | 1d6 Str        | 1d6 Str             |
+| 18–34   | 1d6 Dex        | 1d6 Dex             |
+| 35–50   | 1d4 Con        | 1d4 Con             |
+| 51–67   | 2d4 Wis        | 2d4 Wis             |
+| 68–84   | 2d4 Cha        | 2d4 Cha             |
+| 85–100  | None           | Paralysis 1d6 hours |
 
 *Power Resistance (Ex): *The extraterrestrial gains power resistance
 equal to its Hit Dice. Power resistance increases the creature’s CR by

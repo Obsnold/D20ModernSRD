@@ -919,15 +919,11 @@ electronic ignition systems.
 Devices affected by an *electromagnetic pulse *can be fixed according to
 the following table.
 
-|                                               |                    |                 |               |          |
-|-----------------------------------------------|--------------------|-----------------|---------------|----------|
-| **Repair Task (Example)**                     | **Relevant Skill** | **Purchase DC** | **Repair DC** | **Time** |
-|                                               |                    |                 |               |          |
-| Simple processors (cars, elevator controls)   | Repair             | 7               | 15            | 10 min.  |
-| Complex processors (computers, home theaters) | Repair             | 10              | 20            | 1 hr.    |
-|                                               |                    |                 |               |          |
-| Data recovery (scrambled hard drive)          | Computer Use       | 4               | 25            | 2 hr.    |
-|                                               |                    |                 |               |          |
+| Repair Task (Example)                         | Relevant Skill | Purchase DC | Repair DC | Time    |
+|-----------------------------------------------|----------------|-------------|-----------|---------|
+| Simple processors (cars, elevator controls)   | Repair         | 7           | 15        | 10 min. |
+| Complex processors (computers, home theaters) | Repair         | 10          | 20        | 1 hr.   |
+| Data recovery (scrambled hard drive)          | Computer Use   | 4           | 25        | 2 hr.   |
 
 You can jury-rig repairs more quickly and cheaply, but the repairs may
 not last. See the description of the Repair skill for details.
@@ -1144,56 +1140,12 @@ impart their magical effect. This spell can be used to create one type
 of bullet (as noted in the chart below), or others at the GM’s
 discretion.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h1>Magic Bullet Type</h1></td>
-<td><h1>Other Spell Known</h1></td>
-<td><h1>Effect</h1></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Curing bullet (divine)</p></td>
-<td><p><em>Cure light wounds</em></p></td>
-<td><p>Bullet deals no damage and instead cures 1d8+5 points of
-damage.</p></td>
-</tr>
-<tr class="even">
-<td><p>Inflicting bullet (divine)</p></td>
-<td><p><em>Inflict light wounds</em></p></td>
-<td><p>Creature damaged by pain bullet must succeed at a Will save (DC
-14) or take an additional 1d8+5 points of damage.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Knock-out bullet (arcane)</p></td>
-<td><p><em>Sleep</em></p></td>
-<td><p>Creature damaged by knock-out bullet must succeed at a Will save
-(DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit
-Dice are immne to this effect.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Panic bullet (arcane)</p></td>
-<td><p><em>Cause fear</em></p></td>
-<td><p>Creature damaged by terror bullet must succeed at a Will save (DC
-14) or be panicked (–2 morale penalty on attack rolls, weapon damage
-rolls, and saves) for 1d4 rounds.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Magic Bullet Type          | Other Spell Known      | Effect                                                                                                                                                                   |
+|----------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Curing bullet (divine)     | *Cure light wounds*    | Bullet deals no damage and instead cures 1d8+5 points of damage.                                                                                                         |
+| Inflicting bullet (divine) | *Inflict light wounds* | Creature damaged by pain bullet must succeed at a Will save (DC 14) or take an additional 1d8+5 points of damage.                                                        |
+| Knock-out bullet (arcane)  | *Sleep*                | Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immne to this effect.    |
+| Panic bullet (arcane)      | *Cause fear*           | Creature damaged by terror bullet must succeed at a Will save (DC 14) or be panicked (–2 morale penalty on attack rolls, weapon damage rolls, and saves) for 1d4 rounds. |
 
 Magic Circle
 
@@ -1584,75 +1536,17 @@ Furthermore, if the subject is on another plane or in some other
 dimension (such as the extradimensional space created by a *clown car
 *spell), it gains a +5 circumstance bonus to its Will save.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Knowledge of Subject</strong></p></td>
-<td><h2>Will Save Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>None*</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="even">
-<td><p>Secondhand (you have heard of the subject)</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Firsthand (you have met the subject)</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Familiar (you know the subject well)</p></td>
-<td><p>–5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>*<em>You must have some sort of connection to a creature you have
-no knowledge of.</em></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Connection</strong></p></td>
-<td><h2>Will Save Modifier</h2></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Likeness or picture</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Possession or garment</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Body part, lock of hair, nail clippings, etc.</p></td>
-<td><p>–10</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Knowledge of Subject                                                             | Will Save Modifier |
+|----------------------------------------------------------------------------------|--------------------|
+| None*                                                                            | +10                |
+| Secondhand (you have heard of the subject)                                       | +5                 |
+| Firsthand (you have met the subject)                                             | +0                 |
+| Familiar (you know the subject well)                                             | –5                 |
+| **You must have some sort of connection to a creature you have no knowledge of.* |                    |
+| **Connection**                                                                   | Will Save Modifier |
+| Likeness or picture                                                              | –2                 |
+| Possession or garment                                                            | –4                 |
+| Body part, lock of hair, nail clippings, etc.                                    | –10                |
 
 If the save fails, you can see the subject and the subject’s immediate
 surroundings (approximately 10 feet in all directions of the subject).

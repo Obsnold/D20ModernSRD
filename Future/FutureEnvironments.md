@@ -28,179 +28,21 @@ radioactive material). Then consult Table: Radiation Exposure to
 determine the degree of exposure based on the total time of exposure
 within a given 24-hour period (rounding up).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Radiation Exposure</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>————————— Time of Exposure (Minimum)
-————————</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Situation</strong></p></td>
-<td><p><strong>1 round</strong></p></td>
-<td><p><strong>1 minute</strong></p></td>
-<td><p><strong>10 minutes</strong></p></td>
-<td><p><strong>1 hour</strong></p></td>
-<td><p><strong>1 day</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Character in irradiated area:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Lightly irradiated</p></td>
-<td><p>mild</p></td>
-<td><p>mild</p></td>
-<td><p>mild</p></td>
-<td><p>mild</p></td>
-<td><p>low</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderately irradiated</p></td>
-<td><p>mild</p></td>
-<td><p>mild</p></td>
-<td><p>low</p></td>
-<td><p>low</p></td>
-<td><p>moderate</p></td>
-</tr>
-<tr class="odd">
-<td><p>Highly irradiated</p></td>
-<td><p>low</p></td>
-<td><p>low</p></td>
-<td><p>moderate</p></td>
-<td><p>moderate</p></td>
-<td><p>high</p></td>
-</tr>
-<tr class="even">
-<td><p>Severely irradiated</p></td>
-<td><p>moderate</p></td>
-<td><p>moderate</p></td>
-<td><p>high</p></td>
-<td><p>high</p></td>
-<td><p>severe</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Character exposed to radiation source:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Lightly radioactive materials</p></td>
-<td><p>mild</p></td>
-<td><p>mild</p></td>
-<td><p>low</p></td>
-<td><p>low</p></td>
-<td><p>low</p></td>
-</tr>
-<tr class="odd">
-<td><p>Moderately radioactive materials</p></td>
-<td><p>low</p></td>
-<td><p>low</p></td>
-<td><p>moderate</p></td>
-<td><p>moderate</p></td>
-<td><p>moderate</p></td>
-</tr>
-<tr class="even">
-<td><p>Highly radioactive materials</p></td>
-<td><p>moderate</p></td>
-<td><p>moderate</p></td>
-<td><p>high</p></td>
-<td><p>high</p></td>
-<td><p>high</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Severely radioactive materials</p></td>
-<td><p>high</p></td>
-<td><p>high</p></td>
-<td><p>severe</p></td>
-<td><p>severe</p></td>
-<td><p>severe</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Radiation Exposure**
+
+|                                            | ————————— Time of Exposure (Minimum) ———————— |              |                |            |           |
+|--------------------------------------------|-----------------------------------------------|--------------|----------------|------------|-----------|
+| **Situation**                              | **1 round**                                   | **1 minute** | **10 minutes** | **1 hour** | **1 day** |
+| **Character in irradiated area:**          |                                               |              |                |            |           |
+| Lightly irradiated                         | mild                                          | mild         | mild           | mild       | low       |
+| Moderately irradiated                      | mild                                          | mild         | low            | low        | moderate  |
+| Highly irradiated                          | low                                           | low          | moderate       | moderate   | high      |
+| Severely irradiated                        | moderate                                      | moderate     | high           | high       | severe    |
+| **Character exposed to radiation source:** |                                               |              |                |            |           |
+| Lightly radioactive materials              | mild                                          | mild         | low            | low        | low       |
+| Moderately radioactive materials           | low                                           | low          | moderate       | moderate   | moderate  |
+| Highly radioactive materials               | moderate                                      | moderate     | high           | high       | high      |
+| Severely radioactive materials             | high                                          | high         | severe         | severe     | severe    |
 
 The degree of the exposure determines the severity of the radiation
 sickness, as indicated on Table: Radiation Sickness. At low levels,
@@ -209,76 +51,17 @@ severe short-term effects. This is reflected in the fact that even with
 a failed Fortitude save, the character might not suffer any Constitution
 loss.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Radiation Sickness</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Degree of Exposure</h3></td>
-<td><h3>Fortitude Save DC</h3></td>
-<td><h3>Incubation Period</h3></td>
-<td><h3>Initial and Secondary Damage</h3></td>
-</tr>
-<tr class="even">
-<td><p>Mild</p></td>
-<td><p>12</p></td>
-<td><p>1 day</p></td>
-<td><p>1d4–2 Con*</p></td>
-</tr>
-<tr class="odd">
-<td><p>Low</p></td>
-<td><p>15</p></td>
-<td><p>4d6 hours</p></td>
-<td><p>1d6–2 Con*</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate</p></td>
-<td><p>18</p></td>
-<td><p>3d6 hours</p></td>
-<td><p>1d6–1 Con*</p></td>
-</tr>
-<tr class="odd">
-<td><p>High</p></td>
-<td><p>21</p></td>
-<td><p>2d6 hours</p></td>
-<td><p>1d6 Con</p></td>
-</tr>
-<tr class="even">
-<td><p>Severe</p></td>
-<td><p>24</p></td>
-<td><p>1d6 hours</p></td>
-<td><p>2d6 Con</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>* Minimum damage 0 Con.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Radiation Sickness**
+
+| Degree of Exposure | Fortitude Save DC | Incubation Period | Initial and Secondary Damage |
+|--------------------|-------------------|-------------------|------------------------------|
+| Mild               | 12                | 1 day             | 1d4–2 Con*                   |
+| Low                | 15                | 4d6 hours         | 1d6–2 Con*                   |
+| Moderate           | 18                | 3d6 hours         | 1d6–1 Con*                   |
+| High               | 21                | 2d6 hours         | 1d6 Con                      |
+| Severe             | 24                | 1d6 hours         | 2d6 Con                      |
+
+* Minimum damage 0 Con.
 
 ######## TREATING RADIATION SICKNESS
 
@@ -555,66 +338,19 @@ compartment, as shown in Table: Decompression Times.
 Once the air has completely rushed out through the breach, the pressure
 equalizes and the interior environment becomes a vacuum.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Decompression Times</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Breach Size</strong></p></td>
-<td><p><strong>Decompression Time</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Fine (1-inch square)</p></td>
-<td><p>3 rounds per 10-foot cube of air</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive (3-inch square)</p></td>
-<td><p>3 rounds per 10-foot cube of air</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny (6-inch square)</p></td>
-<td><p>2 rounds per 10-foot cube of air</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small (1-foot square)</p></td>
-<td><p>2 rounds per 10-foot cube of air</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium (2 1/2-foot square)</p></td>
-<td><p>1 round per 10-foot cube of air</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large (5-foot square)</p></td>
-<td><p>1 round per 10-foot cube of air</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge (10-foot square)</p></td>
-<td><p>1 round per 20-foot cube of air</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan (15-foot square)</p></td>
-<td><p>1 round per 30-foot cube of air</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal (20-foot square)</p></td>
-<td><p>1 round per 40-foot cube of air</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Decompression Times**
+
+| Breach Size                 | Decompression Time               |
+|-----------------------------|----------------------------------|
+| Fine (1-inch square)        | 3 rounds per 10-foot cube of air |
+| Diminutive (3-inch square)  | 3 rounds per 10-foot cube of air |
+| Tiny (6-inch square)        | 2 rounds per 10-foot cube of air |
+| Small (1-foot square)       | 2 rounds per 10-foot cube of air |
+| Medium (2 1/2-foot square)  | 1 round per 10-foot cube of air  |
+| Large (5-foot square)       | 1 round per 10-foot cube of air  |
+| Huge (10-foot square)       | 1 round per 20-foot cube of air  |
+| Gargantuan (15-foot square) | 1 round per 30-foot cube of air  |
+| Colossal (20-foot square)   | 1 round per 40-foot cube of air  |
 
 ## STAR SYSTEMS
 
@@ -684,117 +420,26 @@ support life at the distance Earth orbits its sun, and these stars are
 also known to be violently unstable and prone to bursts of stellar
 activity.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Star Systems</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Star’s System’s Classification</strong></p></td>
-<td><p><strong>Degree of Ionizing
-Radiation<sup>1</sup></strong></p></td>
-<td><p><strong>Number of Planets</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Class O (blue-white)</p></td>
-<td><p>Highly irradiated</p></td>
-<td><p>1d4+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Class B (blue-white)</p></td>
-<td><p>Moderately irradiated</p></td>
-<td><p>1d4+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Class A (blue)</p></td>
-<td><p>Moderately irradiated</p></td>
-<td><p>1d6+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Class F (green)</p></td>
-<td><p>Lightly irradiated</p></td>
-<td><p>1d6+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Class G (yellow)</p></td>
-<td><p>Lightly irradiated</p></td>
-<td><p>1d6+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Class K (orange)</p></td>
-<td><p>Moderately irradiated</p></td>
-<td><p>1d6+5</p></td>
-</tr>
-<tr class="even">
-<td><p>Class M (red)</p></td>
-<td><p>Highly irradiated</p></td>
-<td><p>1d8+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Non-Main Sequence Star’s Classification</strong></p></td>
-<td><p><strong>System’s Degree of Ionizing
-Radiation<sup>1</sup></strong></p></td>
-<td><p><strong>Number of Planets</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Black hole</p></td>
-<td><p>Highly irradiated</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Neutron star</p></td>
-<td><p>Severely irradiated</p></td>
-<td><p>1d4–1</p></td>
-</tr>
-<tr class="odd">
-<td><p>White dwarf</p></td>
-<td><p>Moderately irradiated</p></td>
-<td><p>1d4+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Black dwarf</p></td>
-<td><p>Lightly irradiated</p></td>
-<td><p>1d4+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Brown dwarf</p></td>
-<td><p>Lightly irradiated</p></td>
-<td><p>1d4+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Red supergiant</p></td>
-<td><p>Highly irradiated</p></td>
-<td><p>1d4–1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Refer to Table: Radiation Exposure for details.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Star Systems**
+
+| Star’s System’s Classification              | Degree of Ionizing Radiation<sup>1</sup>              | Number of Planets     |
+|---------------------------------------------|-------------------------------------------------------|-----------------------|
+| Class O (blue-white)                        | Highly irradiated                                     | 1d4+1                 |
+| Class B (blue-white)                        | Moderately irradiated                                 | 1d4+2                 |
+| Class A (blue)                              | Moderately irradiated                                 | 1d6+2                 |
+| Class F (green)                             | Lightly irradiated                                    | 1d6+3                 |
+| Class G (yellow)                            | Lightly irradiated                                    | 1d6+4                 |
+| Class K (orange)                            | Moderately irradiated                                 | 1d6+5                 |
+| Class M (red)                               | Highly irradiated                                     | 1d8+2                 |
+| **Non-Main Sequence Star’s Classification** | **System’s Degree of Ionizing Radiation<sup>1</sup>** | **Number of Planets** |
+| Black hole                                  | Highly irradiated                                     | —                     |
+| Neutron star                                | Severely irradiated                                   | 1d4–1                 |
+| White dwarf                                 | Moderately irradiated                                 | 1d4+1                 |
+| Black dwarf                                 | Lightly irradiated                                    | 1d4+2                 |
+| Brown dwarf                                 | Lightly irradiated                                    | 1d4+1                 |
+| Red supergiant                              | Highly irradiated                                     | 1d4–1                 |
+
+1 Refer to Table: Radiation Exposure for details.
 
 **BLACK HOLES**
 

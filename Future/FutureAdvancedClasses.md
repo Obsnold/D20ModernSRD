@@ -50,170 +50,20 @@ Speak Language (none).
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Ambassador</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Diplomatic immunity</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Open arms</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Information access</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Stipend</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Restricted access</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>Stipend</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>Select consuls</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Ambassador**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
+| 1st         | +0                | +0        | +0       | +2        | Diplomatic immunity | +1            | +1               |
+| 2nd         | +1                | +0        | +0       | +3        | Open arms           | +1            | +1               |
+| 3rd         | +2                | +1        | +1       | +3        | Bonus feat          | +2            | +1               |
+| 4th         | +3                | +1        | +1       | +4        | Information access  | +2            | +2               |
+| 5th         | +3                | +1        | +1       | +4        | Stipend             | +3            | +2               |
+| 6th         | +4                | +2        | +2       | +5        | Bonus feat          | +3            | +2               |
+| 7th         | +5                | +2        | +2       | +5        | Restricted access   | +4            | +3               |
+| 8th         | +6                | +2        | +2       | +6        | Stipend             | +4            | +3               |
+| 9th         | +6                | +3        | +3       | +6        | Bonus feat          | +5            | +3               |
+| 10th        | +7                | +3        | +3       | +7        | Select consuls      | +5            | +4               |
 
 ### Class Features
 
@@ -237,84 +87,15 @@ An Ambassador who routinely invokes the privilege of diplomatic
 immunity—either on her own behalf or to protect her selected consuls—is
 likely to be recalled or terminated by those she has sworn to represent.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Diplomatic Immunity</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Severity of Crime </strong></p></td>
-<td><h3>Examples</h3></td>
-<td><h4>DC</h4></td>
-<td><p><strong>Effect of Successful Diplomacy Check</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Class 5</p></td>
-<td><p>Disturbing the peace, public intoxication, noninjurious traffic
-violation</p></td>
-<td><p>15</p></td>
-<td><p>–2 penalty on subsequent Diplomacy checks in that area</p></td>
-</tr>
-<tr class="even">
-<td><p>Class 4</p></td>
-<td><p>Possession of controlled substance, injurious traffic violation,
-operating business without a license, operating a vehicle or starship
-without a license, assault without a deadly weapon</p></td>
-<td><p>20</p></td>
-<td><p>–5 penalty on subsequent Diplomacy a checks in that area</p></td>
-</tr>
-<tr class="odd">
-<td><p>Class 3</p></td>
-<td><p>Attempted bribery of a public official, robbery or grand theft,
-aiding and abetting a known felon, assault with a deadly weapon,
-possession of a concealed weapon</p></td>
-<td><p>25</p></td>
-<td><p>–10 penalty on subsequent Diplomacy checks in the area</p></td>
-</tr>
-<tr class="even">
-<td><p>Class 2</p></td>
-<td><p>Murder or manslaughter, fraud, smuggling, assault against a
-public official, trafficking in controlled substances</p></td>
-<td><p>30</p></td>
-<td><p>Deportation within 2d6 hours</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Class 1</p></td>
-<td><p>Conspiracy against the government, murder of a public official,
-sabotage of public utilities</p></td>
-<td><p>35</p></td>
-<td><p>Detention pending the diplomatic action by character’s affiliated
-government</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Diplomatic Immunity**
+
+| Severity of Crime | Examples                                                                                                                                                                                  | DC | Effect of Successful Diplomacy Check                                         |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------|
+| Class 5           | Disturbing the peace, public intoxication, noninjurious traffic violation                                                                                                                 | 15 | –2 penalty on subsequent Diplomacy checks in that area                       |
+| Class 4           | Possession of controlled substance, injurious traffic violation, operating business without a license, operating a vehicle or starship without a license, assault without a deadly weapon | 20 | –5 penalty on subsequent Diplomacy a checks in that area                     |
+| Class 3           | Attempted bribery of a public official, robbery or grand theft, aiding and abetting a known felon, assault with a deadly weapon, possession of a concealed weapon                         | 25 | –10 penalty on subsequent Diplomacy checks in the area                       |
+| Class 2           | Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances                                                                         | 30 | Deportation within 2d6 hours                                                 |
+| Class 1           | Conspiracy against the government, murder of a public official, sabotage of public utilities                                                                                              | 35 | Detention pending the diplomatic action by character’s affiliated government |
 
 **Open Arms**
 
@@ -410,160 +191,20 @@ Knowledge (popular culture, streetwise, technology) (Int), Navigate
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Dogfighter</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Defender of the universe</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Shake, rattle, and roll (1/day)</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>To the max!</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Shake, rattle, and roll (2/day)+</p></td>
-<td><p>4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Keep it together</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>Shake, rattle, and roll (3/day)</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Dogfighter**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                          | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|----------------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +2       | +0        | Bonus feat                       | +1            | +0               |
+| 2nd         | +1                | +0        | +3       | +0        | Defender of the universe         | +1            | +1               |
+| 3rd         | +2                | +1        | +3       | +1        | Bonus feat                       | +2            | +1               |
+| 4th         | +3                | +1        | +4       | +1        | Shake, rattle, and roll (1/day)  | +2            | +1               |
+| 5th         | +3                | +1        | +4       | +1        | To the max!                      | +3            | +2               |
+| 6th         | +4                | +2        | +5       | +2        | Bonus feat                       | +3            | +2               |
+| 7th         | +5                | +2        | +5       | +2        | Shake, rattle, and roll (2/day)+ | 4             | +2               |
+| 8th         | +6                | +2        | +6       | +2        | Keep it together                 | +4            | +3               |
+| 9th         | +6                | +3        | +6       | +3        | Bonus feat                       | +5            | +3               |
+| 10th        | +7                | +3        | +7       | +3        | Shake, rattle, and roll (3/day)  | +5            | +3               |
 
 ### Class Features
 
@@ -657,160 +298,20 @@ Balance (Dex), Climb (Str), Concentration (Con), Intimidate (Cha), Jump
 **Skill Points at Each Level:** 3 + Int modifier (2 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Dreadnought</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>Fearless, stability, unhindered</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Ability surge (1/day), steamroller</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Master defender (+2)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Ability surge (2/day), knockdown</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Master defender (+4)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Ability surge (3/day), heavy artillery</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>Master defender (+6)</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Dreadnought**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|----------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +1        | Fearless, stability, unhindered        | +0            | +0               |
+| 2nd         | +1                | +3        | +0       | +2        | Ability surge (1/day), steamroller     | +1            | +0               |
+| 3rd         | +2                | +3        | +1       | +2        | Bonus feat                             | +1            | +0               |
+| 4th         | +3                | +4        | +1       | +2        | Master defender (+2)                   | +1            | +1               |
+| 5th         | +3                | +4        | +1       | +3        | Ability surge (2/day), knockdown       | +2            | +1               |
+| 6th         | +4                | +5        | +2       | +3        | Bonus feat                             | +2            | +1               |
+| 7th         | +5                | +5        | +2       | +4        | Master defender (+4)                   | +2            | +2               |
+| 8th         | +6                | +6        | +2       | +4        | Ability surge (3/day), heavy artillery | +3            | +2               |
+| 9th         | +6                | +6        | +3       | +4        | Bonus feat                             | +3            | +2               |
+| 10th        | +7                | +7        | +3       | +5        | Master defender (+6)                   | +3            | +3               |
 
 ### Class Features
 
@@ -937,160 +438,20 @@ Read/Write Language (none), Repair (Int), Search (Int), Speak Language
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Engineer</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>Builder, improve kit (+1)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Quick craft, superior repair</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Improve kit (+2), reconfigure weapon, sabotage</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Craft XP reserve, quick craft</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat, craft XP reserve</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Craft XP reserve, improve kit (+3), quick fix</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Craft XP reserve, weapon upgrade</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat, craft XP reserve</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>Craft XP reserve, unflustered</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Engineer**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                        | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|------------------------------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +0        | Builder, improve kit (+1)                      | +0            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Quick craft, superior repair                   | +1            | +0               |
+| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                                     | +1            | +1               |
+| 4th         | +3                | +2        | +2       | +1        | Improve kit (+2), reconfigure weapon, sabotage | +1            | +1               |
+| 5th         | +3                | +3        | +3       | +1        | Craft XP reserve, quick craft                  | +2            | +1               |
+| 6th         | +4                | +3        | +3       | +2        | Bonus feat, craft XP reserve                   | +2            | +2               |
+| 7th         | +5                | +4        | +4       | +2        | Craft XP reserve, improve kit (+3), quick fix  | +2            | +2               |
+| 8th         | +6                | +4        | +4       | +2        | Craft XP reserve, weapon upgrade               | +3            | +2               |
+| 9th         | +6                | +4        | +4       | +3        | Bonus feat, craft XP reserve                   | +3            | +3               |
+| 10th        | +7                | +5        | +5       | +3        | Craft XP reserve, unflustered                  | +3            | +3               |
 
 ### Class Features
 
@@ -1154,46 +515,14 @@ remains, the Engineer may continue to make repairs for as many hours as
 needed to fully repair the damaged robot, vehicle, mecha, starship, or
 cybernetic attachment.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Superior Repair</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Repair Check Result</strong></p></td>
-<td><p><strong>Damage Repaired</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Less than 20</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–29</p></td>
-<td><p>2d6 + Engineer class level</p></td>
-</tr>
-<tr class="even">
-<td><p>30–39</p></td>
-<td><p>3d6 + Engineer class level</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>40+</p></td>
-<td><p>4d6 + Engineer class level</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Superior Repair**
+
+| Repair Check Result | Damage Repaired            |
+|---------------------|----------------------------|
+| Less than 20        | None                       |
+| 20–29               | 2d6 + Engineer class level |
+| 30–39               | 3d6 + Engineer class level |
+| 40+                 | 4d6 + Engineer class level |
 
 **Bonus Feats**
 
@@ -1303,66 +632,19 @@ check DC by 5.
 At 8th level, an Engineer can upgrade handheld or robot-installed
 weapons, as well as weapon systems aboard vehicles, mecha, or starships.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Weapon Upgrade</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Handheld/Robot Weapon Upgrade </strong></p></td>
-<td><h4>DC</h4></td>
-</tr>
-<tr class="even">
-<td><p>Weapon also dazes target for 1 round</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Weapon also knocks target prone</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>Weapon leaves target shaken for 1d4 rounds</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="odd">
-<td><p>Weapon also stuns target for 1d4 rounds</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Vehicle/Mecha/Starship Weapon Upgrade </strong></p></td>
-<td><p><strong>DC</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Weapon deals an extra two dice of damage</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td><p>Weapon ignores 5 points of target’s hardness/DR</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td><p>Weapon’s critical hit multiplier increases by 1</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Weapon ignores 10 points of target’s hardness/DR</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Weapon Upgrade**
+
+| Handheld/Robot Weapon Upgrade                    | DC     |
+|--------------------------------------------------|--------|
+| Weapon also dazes target for 1 round             | 25     |
+| Weapon also knocks target prone                  | 30     |
+| Weapon leaves target shaken for 1d4 rounds       | 35     |
+| Weapon also stuns target for 1d4 rounds          | 40     |
+| **Vehicle/Mecha/Starship Weapon Upgrade **       | **DC** |
+| Weapon deals an extra two dice of damage         | 25     |
+| Weapon ignores 5 points of target’s hardness/DR  | 30     |
+| Weapon’s critical hit multiplier increases by 1  | 35     |
+| Weapon ignores 10 points of target’s hardness/DR | 40     |
 
 The Engineer must spend 1 hour tinkering with the weapon, after which he
 must succeed at a Craft (mechanical) check. The DC varies depending on
@@ -1433,160 +715,20 @@ Treat Injury (Wis).
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Explorer</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Explorer lore, survivalist</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Resolve, skilled searcher</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Trap sense (+1)</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Extra step</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Trap sense (+2)</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Explorer’s evasion</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>Extra step, trap sense (+3)</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Explorer**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +1        | Explorer lore, survivalist  | +1            | +0               |
+| 2nd         | +1                | +2        | +2       | +2        | Resolve, skilled searcher   | +1            | +0               |
+| 3rd         | +2                | +2        | +2       | +2        | Bonus feat                  | +2            | +1               |
+| 4th         | +3                | +2        | +2       | +2        | Trap sense (+1)             | +2            | +1               |
+| 5th         | +3                | +3        | +3       | +3        | Extra step                  | +3            | +1               |
+| 6th         | +4                | +3        | +3       | +3        | Bonus feat                  | +3            | +2               |
+| 7th         | +5                | +4        | +4       | +4        | Trap sense (+2)             | +4            | +2               |
+| 8th         | +6                | +4        | +4       | +4        | Explorer’s evasion          | +4            | +2               |
+| 9th         | +6                | +4        | +4       | +4        | Bonus feat                  | +5            | +3               |
+| 10th        | +7                | +5        | +5       | +5        | Extra step, trap sense (+3) | +5            | +3               |
 
 ### Class Features
 
@@ -1606,64 +748,14 @@ An Explorer lore check does not reveal the powers of a magic or psionic
 item but may give some hint as to its general function; an Explorer may
 not take 10 or take 20 on this check.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Explorer Lore</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>DC</h4></td>
-<td><p><strong>Type of Knowledge</strong></p></td>
-<td><p><strong>Examples</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p>Common, known by at least a substantial minority of the local
-population.</p></td>
-<td><p>A local official’s hobbies and interests; common legends or
-rumors about a powerful place of mystery.</p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>Uncommon but available, known by only a few people in the
-area.</p></td>
-<td><p>The coordinates of an known but uncharted world; legends or
-rumors about a powerful psionic artifact.</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>Obscure, known by few, hard to come by.</p></td>
-<td><p>The customs of a documented alien species; the true homeworld of
-an ancient royal dynasty.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>30</p></td>
-<td><p>Extremely obscure, known by very few, possibly forgotten by most
-who once knew it, possibly known only by those who don’t understand the
-knowledge’s significance.</p></td>
-<td><p>The most likely location of a long-lost pharaoh’s tomb; the
-history of a powerful artifact and its creator; the likely coordinates
-of a fabled but as-yet-undiscovered planet.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Explorer Lore**
+
+| DC | Type of Knowledge                                                                                                                                                  | Examples                                                                                                                                                                       |
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 | Common, known by at least a substantial minority of the local population.                                                                                          | A local official’s hobbies and interests; common legends or rumors about a powerful place of mystery.                                                                          |
+| 20 | Uncommon but available, known by only a few people in the area.                                                                                                    | The coordinates of an known but uncharted world; legends or rumors about a powerful psionic artifact.                                                                          |
+| 25 | Obscure, known by few, hard to come by.                                                                                                                            | The customs of a documented alien species; the true homeworld of an ancient royal dynasty.                                                                                     |
+| 30 | Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don’t understand the knowledge’s significance. | The most likely location of a long-lost pharaoh’s tomb; the history of a powerful artifact and its creator; the likely coordinates of a fabled but as-yet-undiscovered planet. |
 
 **Survivalist**
 
@@ -1764,160 +856,20 @@ Read/Write Language (none), Sense Motive (Wis), Speak Language (none).
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Field Officer</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Leadership</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Uncanny survival</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Tactical expertise</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+5</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>August leadership</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Tactical mastery</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+8</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>Commanding presence</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+9</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+10</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>Action trust</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Field Officer**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
+| 1st         | +1                | +0        | +0       | +2        | Leadership          | +1            | +1               |
+| 2nd         | +2                | +0        | +0       | +3        | Uncanny survival    | +1            | +1               |
+| 3rd         | +3                | +1        | +1       | +3        | Bonus feat          | +2            | +1               |
+| 4th         | +4                | +1        | +1       | +4        | Tactical expertise  | +2            | +2               |
+| 5th         | +5                | +1        | +1       | +4        | August leadership   | +3            | +2               |
+| 6th         | +6                | +2        | +2       | +5        | Bonus feat          | +3            | +2               |
+| 7th         | +7                | +2        | +2       | +5        | Tactical mastery    | +4            | +3               |
+| 8th         | +8                | +2        | +2       | +6        | Commanding presence | +4            | +3               |
+| 9th         | +9                | +3        | +3       | +6        | Bonus feat          | +5            | +3               |
+| 10th        | +10               | +3        | +3       | +7        | Action trust        | +5            | +4               |
 
 ### Class Features
 
@@ -2075,160 +1027,20 @@ Swim (Str), Tumble (Dex).
 **Skill Points at Each Level:** 3 + Int modifier (2 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Helix Warrior</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>Haul, light sleeper, survivor</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Darkvision (60 ft.)</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Strong as an ox</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Darkvision (90 ft.), superior conditioning</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+7</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Improved reaction</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+8</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Darkvision (120 ft.)</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+9</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+10</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>Decisive attack</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Helix Warrior**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------------------------|---------------|------------------|
+| 1st         | +1                | +1        | +0       | +1        | Haul, light sleeper, survivor              | +1            | +0               |
+| 2nd         | +2                | +2        | +0       | +2        | Darkvision (60 ft.)                        | +1            | +0               |
+| 3rd         | +3                | +2        | +1       | +2        | Bonus feat                                 | +2            | +1               |
+| 4th         | +4                | +2        | +1       | +2        | Strong as an ox                            | +2            | +1               |
+| 5th         | +5                | +3        | +1       | +3        | Darkvision (90 ft.), superior conditioning | +3            | +1               |
+| 6th         | +6                | +3        | +2       | +3        | Bonus feat                                 | +3            | +2               |
+| 7th         | +7                | +4        | +2       | +4        | Improved reaction                          | +4            | +2               |
+| 8th         | +8                | +4        | +2       | +4        | Darkvision (120 ft.)                       | +4            | +2               |
+| 9th         | +9                | +4        | +3       | +4        | Bonus feat                                 | +5            | +3               |
+| 10th        | +10               | +5        | +3       | +5        | Decisive attack                            | +5            | +3               |
 
 ### Class Features
 
@@ -2348,160 +1160,20 @@ Search (Int), Survival (Wis), Treat Injury (Wis), Tumble (Dex).
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Space Monkey</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>Hibernation trance</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Monkey’s wrench</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Monkeys unite</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Know location (+2)</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Monkey shines</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Know location (+4), space suitable</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>Monkey shot</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Space Monkey**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                            | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +1       | +0        | Hibernation trance                 | +1            | +0               |
+| 2nd         | +1                | +3        | +2       | +0        | Monkey’s wrench                    | +1            | +0               |
+| 3rd         | +2                | +3        | +2       | +1        | Bonus feat                         | +2            | +0               |
+| 4th         | +3                | +4        | +2       | +1        | Monkeys unite                      | +2            | +0               |
+| 5th         | +3                | +4        | +3       | +1        | Know location (+2)                 | +3            | +1               |
+| 6th         | +4                | +5        | +3       | +2        | Bonus feat                         | +3            | +1               |
+| 7th         | +5                | +5        | +4       | +2        | Monkey shines                      | +4            | +1               |
+| 8th         | +6                | +6        | +4       | +2        | Know location (+4), space suitable | +4            | +1               |
+| 9th         | +6                | +6        | +4       | +3        | Bonus feat                         | +5            | +2               |
+| 10th        | +7                | +7        | +5       | +3        | Monkey shot                        | +5            | +2               |
 
 ### Class Features
 
@@ -2617,160 +1289,20 @@ Sleight of Hand (Dex), Speak Language (none), Tumble (Dex).
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Swindler</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Cheat fate</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Thousand faces</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Fortune’s favor (+2)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>Warp probability (30 ft.)</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>Fortune’s favor (+4)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>Warp probability (60 ft.)</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+7</p></td>
-<td><p>Fortune’s favor (+6)</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Swindler**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                   | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +1       | +2        | Cheat fate                | +0            | +0               |
+| 2nd         | +1                | +0        | +2       | +3        | Thousand faces            | +1            | +0               |
+| 3rd         | +2                | +1        | +2       | +3        | Bonus feat                | +1            | +1               |
+| 4th         | +3                | +1        | +2       | +4        | Fortune’s favor (+2)      | +1            | +1               |
+| 5th         | +3                | +1        | +3       | +4        | Warp probability (30 ft.) | +2            | +1               |
+| 6th         | +4                | +2        | +3       | +5        | Bonus feat                | +2            | +2               |
+| 7th         | +5                | +2        | +4       | +5        | Fortune’s favor (+4)      | +2            | +2               |
+| 8th         | +6                | +2        | +4       | +6        | Warp probability (60 ft.) | +3            | +2               |
+| 9th         | +6                | +3        | +4       | +6        | Bonus feat                | +3            | +3               |
+| 10th        | +7                | +3        | +5       | +7        | Fortune’s favor (+6)      | +3            | +3               |
 
 ### Class Features
 
@@ -2867,160 +1399,20 @@ Write Language (none), Repair (Int), Research (Int), Speak Language
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Technosavant</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Salvage, Technocant</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Robomancer, technophile</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Cybermancer, skilled salvager</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Down with robots (+1d6/+4), exotic weapon adept</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Super cybersurgeon, virtual Houdini</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Down with robots (+2d6/+8), expeditious salvager</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>Build prototype</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Technosavant**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                          | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +1       | +1        | Salvage, Technocant                              | +1            | +0               |
+| 2nd         | +1                | +0        | +2       | +2        | Robomancer, technophile                          | +1            | +0               |
+| 3rd         | +2                | +1        | +2       | +2        | Bonus feat                                       | +2            | +0               |
+| 4th         | +3                | +1        | +2       | +2        | Cybermancer, skilled salvager                    | +2            | +1               |
+| 5th         | +3                | +1        | +3       | +3        | Down with robots (+1d6/+4), exotic weapon adept  | +3            | +1               |
+| 6th         | +4                | +2        | +3       | +3        | Bonus feat                                       | +3            | +1               |
+| 7th         | +5                | +2        | +4       | +4        | Super cybersurgeon, virtual Houdini              | +4            | +2               |
+| 8th         | +6                | +2        | +4       | +4        | Down with robots (+2d6/+8), expeditious salvager | +4            | +2               |
+| 9th         | +6                | +3        | +4       | +4        | Bonus feat                                       | +5            | +2               |
+| 10th        | +7                | +3        | +5       | +5        | Build prototype                                  | +5            | +3               |
 
 ### Class Features
 
@@ -3183,160 +1575,20 @@ Research (Int), Search (Int), Sense Motive (Wis), Spot (Wis), Survival
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Tracer</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Target species, Urban Tracking</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Swift strike +1d6</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Uncanny stealth (full speed)</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+5</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Swift strike +2d6</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Uncanny stealth (charge/run)</p></td>
-<td><p>+ 4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+8</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Swift strike +3d6</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+9</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+10</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>Swift tracking</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Tracer**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                        | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------------|---------------|------------------|
+| 1st         | +1                | +0        | +2       | +0        | Target species, Urban Tracking | +1            | +0               |
+| 2nd         | +2                | +0        | +3       | +0        | Swift strike +1d6              | +2            | +1               |
+| 3rd         | +3                | +1        | +3       | +1        | Bonus feat                     | +2            | +1               |
+| 4th         | +4                | +1        | +4       | +1        | Uncanny stealth (full speed)   | +2            | +1               |
+| 5th         | +5                | +1        | +4       | +1        | Swift strike +2d6              | +3            | +2               |
+| 6th         | +6                | +2        | +5       | +2        | Bonus feat                     | +3            | +2               |
+| 7th         | +7                | +2        | +5       | +2        | Uncanny stealth (charge/run)   | + 4           | +2               |
+| 8th         | +8                | +2        | +6       | +2        | Swift strike +3d6              | +4            | +3               |
+| 9th         | +9                | +3        | +6       | +3        | Bonus feat                     | +4            | +3               |
+| 10th        | +10               | +3        | +7       | +3        | Swift tracking                 | +5            | +3               |
 
 ### Class Features
 
@@ -3443,160 +1695,20 @@ Motive (Wis), Speak Language (none), Treat Injury (Wis).
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Xenophile</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h4>Special</h4></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Xenolore, xenotype (1st)</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Xenoresistance (+1)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Xenotype (2nd)</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Xenodefense (+1), xenoresistance (+2)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Xenotype (3rd)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>Xenoresistance (+3)</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>Xenodefense (+2), xenotype (4th)</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Xenophile**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                               | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +0       | +2        | Xenolore, xenotype (1st)              | +0            | +0               |
+| 2nd         | +1                | +2        | +0       | +3        | Xenoresistance (+1)                   | +1            | +1               |
+| 3rd         | +2                | +2        | +1       | +3        | Bonus feat                            | +1            | +1               |
+| 4th         | +3                | +2        | +1       | +4        | Xenotype (2nd)                        | +1            | +1               |
+| 5th         | +3                | +3        | +1       | +4        | Xenodefense (+1), xenoresistance (+2) | +2            | +2               |
+| 6th         | +4                | +3        | +2       | +5        | Bonus feat                            | +2            | +2               |
+| 7th         | +5                | +4        | +2       | +5        | Xenotype (3rd)                        | +2            | +2               |
+| 8th         | +6                | +4        | +2       | +6        | Xenoresistance (+3)                   | +3            | +3               |
+| 9th         | +6                | +4        | +3       | +6        | Bonus feat                            | +3            | +3               |
+| 10th        | +7                | +5        | +3       | +7        | Xenodefense (+2), xenotype (4th)      | +3            | +3               |
 
 ### Class Features
 
@@ -3646,94 +1758,27 @@ interval, the bonus against any one xenotype (including the one just
 selected, if desired) increases by 2. A Xenophile who chooses humanoids
 as a xenotype must also specify a particular species.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Xenotypes</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Selected Xenotype</h3></td>
-<td><h3>Special Prerequisite</h3></td>
-</tr>
-<tr class="even">
-<td><p>Aberration</p></td>
-<td><p>Knowledge (earth and life sciences) 12 ranks</p></td>
-</tr>
-<tr class="odd">
-<td><p>Animal</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="even">
-<td><p>Construct</p></td>
-<td><p>Knowledge (technology) 9 ranks</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dragon</p></td>
-<td><p>Knowledge (earth and life sciences) 9 ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Elemental</p></td>
-<td><p>Knowledge (earth and life sciences) 9 ranks</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fey</p></td>
-<td><p>Knowledge (arcane lore) 6 ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Giant</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="odd">
-<td><p>Humanoid<strong><sup>1</sup></strong></p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="even">
-<td><p>Magical beast</p></td>
-<td><p>Knowledge (arcane lore) 9 ranks</p></td>
-</tr>
-<tr class="odd">
-<td><p>Monstrous humanoid</p></td>
-<td><p>Knowledge (earth and life sciences) 9 ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Ooze</p></td>
-<td><p>Knowledge (earth and life sciences) 9 ranks</p></td>
-</tr>
-<tr class="odd">
-<td><p>Outsider</p></td>
-<td><p>Knowledge (theology and philosophy) 9 ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Plant</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="odd">
-<td><p>Undead</p></td>
-<td><p>Knowledge (theology and philosophy) 6 ranks</p></td>
-</tr>
-<tr class="even">
-<td><p>Vermin</p></td>
-<td><p>None</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Choose a specific humanoid species.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Xenotypes**
+
+| Selected Xenotype    | Special Prerequisite                         |
+|----------------------|----------------------------------------------|
+| Aberration           | Knowledge (earth and life sciences) 12 ranks |
+| Animal               | None                                         |
+| Construct            | Knowledge (technology) 9 ranks               |
+| Dragon               | Knowledge (earth and life sciences) 9 ranks  |
+| Elemental            | Knowledge (earth and life sciences) 9 ranks  |
+| Fey                  | Knowledge (arcane lore) 6 ranks              |
+| Giant                | None                                         |
+| Humanoid<sup>1</sup> | None                                         |
+| Magical beast        | Knowledge (arcane lore) 9 ranks              |
+| Monstrous humanoid   | Knowledge (earth and life sciences) 9 ranks  |
+| Ooze                 | Knowledge (earth and life sciences) 9 ranks  |
+| Outsider             | Knowledge (theology and philosophy) 9 ranks  |
+| Plant                | None                                         |
+| Undead               | Knowledge (theology and philosophy) 6 ranks  |
+| Vermin               | None                                         |
+
+1 Choose a specific humanoid species.
 
 **Xenoresistance**
 

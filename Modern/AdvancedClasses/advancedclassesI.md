@@ -28,170 +28,20 @@ Language (none), Spot (Wis), Survival (Wis), Swim (Str).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Soldier</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>Weapon Focus</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Weapon specialization</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>Tactical aid</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Improved critical</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Improved reaction</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>Greater weapon specialization</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>Critical strike</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Soldier**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation bonus |
+|-------------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +0        | Weapon Focus                  | +1            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Weapon specialization         | +1            | +0               |
+| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                    | +2            | +0               |
+| 4th         | +3                | +2        | +2       | +1        | Tactical aid                  | +2            | +0               |
+| 5th         | +3                | +3        | +3       | +1        | Improved critical             | +3            | +1               |
+| 6th         | +4                | +3        | +3       | +2        | Bonus feat                    | +3            | +1               |
+| 7th         | +5                | +4        | +4       | +2        | Improved reaction             | +4            | +1               |
+| 8th         | +6                | +4        | +4       | +2        | Greater weapon specialization | +4            | +1               |
+| 9th         | +6                | +4        | +4       | +3        | Bonus feat                    | +5            | +2               |
+| 10th        | +7                | +5        | +5       | +3        | Critical strike               | +5            | +2               |
 
 ### Class Features
 
@@ -292,24 +142,20 @@ Language (none), Spot (Wis), Tumble (Dex).
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-|                               |                       |               |              |               |                         |                   |                      |
-|-------------------------------|-----------------------|---------------|--------------|---------------|-------------------------|-------------------|----------------------|
-| **Table: The Martial Artist** |                       |               |              |               |                         |                   |                      |
-|                               |                       |               |              |               |                         |                   |                      |
-| **Class Level**               | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**             | **Defense Bonus** | **Reputation Bonus** |
-|                               |                       |               |              |               |                         |                   |                      |
-| 1st                           | +1                    | +0            | +2           | +0            | Living weapon 1d6       | +1                | +0                   |
-| 2nd                           | +2                    | +0            | +3           | +0            | Flying kick             | +2                | +0                   |
-| 3rd                           | +3                    | +1            | +3           | +1            | Bonus feat              | +2                | +0                   |
-| 4th                           | +4                    | +1            | +4           | +1            | Living weapon 1d8       | +3                | +0                   |
-| 5th                           | +5                    | +1            | +4           | +1            | Iron fist (one attack)  | +4                | +1                   |
-| 6th                           | +6                    | +2            | +5           | +2            | Bonus feat              | +4                | +1                   |
-| 7th                           | +7                    | +2            | +5           | +2            | Flurry of blows         | +5                | +1                   |
-| 8th                           | +8                    | +2            | +6           | +2            | Living weapon 1d10      | +6                | +1                   |
-| 9th                           | +9                    | +3            | +6           | +3            | Bonus feat              | +6                | +2                   |
-|                               |                       |               |              |               |                         |                   |                      |
-| 10th                          | +10                   | +3            | +7           | +3            | Iron fist (all attacks) | +7                | +2                   |
-|                               |                       |               |              |               |                         |                   |                      |
+**Table: The Martial Artist**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                 | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-------------------------|---------------|------------------|
+| 1st         | +1                | +0        | +2       | +0        | Living weapon 1d6       | +1            | +0               |
+| 2nd         | +2                | +0        | +3       | +0        | Flying kick             | +2            | +0               |
+| 3rd         | +3                | +1        | +3       | +1        | Bonus feat              | +2            | +0               |
+| 4th         | +4                | +1        | +4       | +1        | Living weapon 1d8       | +3            | +0               |
+| 5th         | +5                | +1        | +4       | +1        | Iron fist (one attack)  | +4            | +1               |
+| 6th         | +6                | +2        | +5       | +2        | Bonus feat              | +4            | +1               |
+| 7th         | +7                | +2        | +5       | +2        | Flurry of blows         | +5            | +1               |
+| 8th         | +8                | +2        | +6       | +2        | Living weapon 1d10      | +6            | +1               |
+| 9th         | +9                | +3        | +6       | +3        | Bonus feat              | +6            | +2               |
+| 10th        | +10               | +3        | +7       | +3        | Iron fist (all attacks) | +7            | +2               |
 
 ### Class Features
 
@@ -404,160 +250,20 @@ Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: The Gunslinger</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Close combat shot</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Weapon focus</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Defensive position</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Lightning shot</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Sharp-shooting</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Greater weapon focus</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>Bullseye</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Gunslinger**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+| 1st         | +0                | +0        | +1       | +1        | Close combat shot    | +1            | +0               |
+| 2nd         | +1                | +0        | +2       | +2        | Weapon focus         | +1            | +0               |
+| 3rd         | +2                | +1        | +2       | +2        | Bonus feat           | +2            | +1               |
+| 4th         | +3                | +1        | +2       | +2        | Defensive position   | +2            | +1               |
+| 5th         | +3                | +1        | +3       | +3        | Lightning shot       | +3            | +1               |
+| 6th         | +4                | +2        | +3       | +3        | Bonus feat           | +3            | +2               |
+| 7th         | +5                | +2        | +4       | +4        | Sharp-shooting       | +4            | +2               |
+| 8th         | +6                | +2        | +4       | +4        | Greater weapon focus | +4            | +2               |
+| 9th         | +6                | +3        | +4       | +4        | Bonus feat           | +5            | +3               |
+| 10th        | +7                | +3        | +5       | +5        | Bullseye             | +5            | +3               |
 
 **Class Features**
 
@@ -661,24 +367,20 @@ business, current events, popular culture, streetwise) (Int), Listen
 
 The following features pertain to the Infiltrator advanced class.
 
-|                            |                       |               |              |               |                          |                   |                      |
-|----------------------------|-----------------------|---------------|--------------|---------------|--------------------------|-------------------|----------------------|
-| **Table: The Infiltrator** |                       |               |              |               |                          |                   |                      |
-|                            |                       |               |              |               |                          |                   |                      |
-| **Class Level**            | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**              | **Defense Bonus** | **Reputation Bonus** |
-|                            |                       |               |              |               |                          |                   |                      |
-| 1st                        | +0                    | +0            | +2           | +0            | Sweep                    | +1                | +1                   |
-| 2nd                        | +1                    | +0            | +3           | +0            | Improvised implements    | +2                | +1                   |
-| 3rd                        | +1                    | +1            | +3           | +1            | Bonus feat               | +2                | +1                   |
-| 4th                        | +2                    | +1            | +4           | +1            | Improved evasion         | +3                | +2                   |
-| 5th                        | +2                    | +1            | +4           | +1            | Skill mastery            | +4                | +2                   |
-| 6th                        | +3                    | +2            | +5           | +2            | Bonus feat               | +4                | +2                   |
-| 7th                        | +3                    | +2            | +5           | +2            | Improvised weapon damage | +5                | +3                   |
-| 8th                        | +4                    | +2            | +6           | +2            | Improved sweep           | +6                | +3                   |
-| 9th                        | +4                    | +3            | +6           | +3            | Bonus feat               | +6                | +3                   |
-|                            |                       |               |              |               |                          |                   |                      |
-| 10th                       | +5                    | +3            | +7           | +3            | Without a trace          | +7                | +4                   |
-|                            |                       |               |              |               |                          |                   |                      |
+**Table: The Infiltrator**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +2       | +0        | Sweep                    | +1            | +1               |
+| 2nd         | +1                | +0        | +3       | +0        | Improvised implements    | +2            | +1               |
+| 3rd         | +1                | +1        | +3       | +1        | Bonus feat               | +2            | +1               |
+| 4th         | +2                | +1        | +4       | +1        | Improved evasion         | +3            | +2               |
+| 5th         | +2                | +1        | +4       | +1        | Skill mastery            | +4            | +2               |
+| 6th         | +3                | +2        | +5       | +2        | Bonus feat               | +4            | +2               |
+| 7th         | +3                | +2        | +5       | +2        | Improvised weapon damage | +5            | +3               |
+| 8th         | +4                | +2        | +6       | +2        | Improved sweep           | +6            | +3               |
+| 9th         | +4                | +3        | +6       | +3        | Bonus feat               | +6            | +3               |
+| 10th        | +5                | +3        | +7       | +3        | Without a trace          | +7            | +4               |
 
 ### Sweep
 
@@ -784,172 +486,20 @@ Speak Language (none), Spot (Wis), Swim (Str), Tumble (Dex).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Daredevil</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Fearless</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Nip-up</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Action boost</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Adrenaline rush</p>
-<p>(one ability score)</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Delay damage</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Adrenaline rush</p>
-<p>(two ability scores)</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Damage threshold</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Daredevil**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +0        | Fearless                             | +1            | +0               |
+| 2nd         | +1                | +3        | +0       | +0        | Nip-up                               | +2            | +0               |
+| 3rd         | +1                | +3        | +1       | +1        | Bonus feat                           | +2            | +1               |
+| 4th         | +2                | +4        | +1       | +1        | Action boost                         | +3            | +1               |
+| 5th         | +2                | +4        | +1       | +1        | Adrenaline rush (one ability score)  | +4            | +1               |
+| 6th         | +3                | +5        | +2       | +2        | Bonus feat                           | +4            | +2               |
+| 7th         | +3                | +5        | +2       | +2        | Delay damage                         | +5            | +2               |
+| 8th         | +4                | +6        | +2       | +2        | Adrenaline rush (two ability scores) | +6            | +2               |
+| 9th         | +4                | +6        | +3       | +3        | Bonus feat                           | +6            | +3               |
+| 10th        | +5                | +7        | +3       | +3        | Damage threshold                     | +7            | +3               |
 
 ### Class Features
 
@@ -1043,24 +593,20 @@ Speak Language (none), Spot (Wis).
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-|                          |                       |               |              |               |                       |                   |                      |
-|--------------------------|-----------------------|---------------|--------------|---------------|-----------------------|-------------------|----------------------|
-| **Table: The Bodyguard** |                       |               |              |               |                       |                   |                      |
-|                          |                       |               |              |               |                       |                   |                      |
-| **Class Level**          | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**           | **Defense Bonus** | **Reputation Bonus** |
-|                          |                       |               |              |               |                       |                   |                      |
-| 1st                      | +0                    | +1            | +2           | +0            | Harm’s way            | +1                | +0                   |
-| 2nd                      | +1                    | +2            | +3           | +0            | Combat sense +1       | +1                | +0                   |
-| 3rd                      | +2                    | +2            | +3           | +1            | Bonus feat            | +2                | +1                   |
-| 4th                      | +3                    | +2            | +4           | +1            | Sudden action         | +2                | +1                   |
-| 5th                      | +3                    | +3            | +4           | +1            | Improved charge       | +3                | +1                   |
-| 6th                      | +4                    | +3            | +5           | +2            | Bonus feat            | +3                | +2                   |
-| 7th                      | +5                    | +4            | +5           | +2            | Defensive strike      | +4                | +2                   |
-| 8th                      | +6                    | +4            | +6           | +2            | Combat sense +2       | +4                | +2                   |
-| 9th                      | +6                    | +4            | +6           | +3            | Bonus feat            | +5                | +3                   |
-|                          |                       |               |              |               |                       |                   |                      |
-| 10th                     | +7                    | +5            | +7           | +3            | Blanket protection +5 | +3                |                      |
-|                          |                       |               |              |               |                       |                   |                      |
+**Table: The Bodyguard**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------------|---------------|------------------|
+| 1st         | +0                | +1        | +2       | +0        | Harm’s way            | +1            | +0               |
+| 2nd         | +1                | +2        | +3       | +0        | Combat sense +1       | +1            | +0               |
+| 3rd         | +2                | +2        | +3       | +1        | Bonus feat            | +2            | +1               |
+| 4th         | +3                | +2        | +4       | +1        | Sudden action         | +2            | +1               |
+| 5th         | +3                | +3        | +4       | +1        | Improved charge       | +3            | +1               |
+| 6th         | +4                | +3        | +5       | +2        | Bonus feat            | +3            | +2               |
+| 7th         | +5                | +4        | +5       | +2        | Defensive strike      | +4            | +2               |
+| 8th         | +6                | +4        | +6       | +2        | Combat sense +2       | +4            | +2               |
+| 9th         | +6                | +4        | +6       | +3        | Bonus feat            | +5            | +3               |
+| 10th        | +7                | +5        | +7       | +3        | Blanket protection +5 | +3            |                  |
 
 ### Class Features
 
@@ -1169,24 +715,20 @@ Navigate (Int), Pilot (Dex), Profession (Wis), Read/Write Language
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-|                                |                       |               |              |               |                          |                   |                      |
-|--------------------------------|-----------------------|---------------|--------------|---------------|--------------------------|-------------------|----------------------|
-| **Table: The Field Scientist** |                       |               |              |               |                          |                   |                      |
-|                                |                       |               |              |               |                          |                   |                      |
-| **Class Level**                | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**              | **Defense Bonus** | **Reputation Bonus** |
-|                                |                       |               |              |               |                          |                   |                      |
-| 1st                            | +0                    | +1            | +1           | +0            | Smart defense            | +0                | +0                   |
-| 2nd                            | +1                    | +2            | +2           | +0            | Scientific improvisation | +1                | +0                   |
-| 3rd                            | +1                    | +2            | +2           | +1            | Bonus feat               | +1                | +1                   |
-| 4th                            | +2                    | +2            | +2           | +1            | Skill mastery            | +1                | +1                   |
-| 5th                            | +2                    | +3            | +3           | +1            | Minor breakthrough       | +2                | +1                   |
-| 6th                            | +3                    | +3            | +3           | +2            | Bonus feat               | +2                | +2                   |
-| 7th                            | +3                    | +4            | +4           | +2            | Smart survival           | +2                | +2                   |
-| 8th                            | +4                    | +4            | +4           | +2            | Smart weapon             | +3                | +2                   |
-| 9th                            | +4                    | +4            | +4           | +3            | Bonus feat               | +3                | +3                   |
-|                                |                       |               |              |               |                          |                   |                      |
-| 10th                           | +5                    | +5            | +5           | +3            | Major breakthrough       | +3                | +3                   |
-|                                |                       |               |              |               |                          |                   |                      |
+**Table: The Field Scientist**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +0        | Smart defense            | +0            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Scientific improvisation | +1            | +0               |
+| 3rd         | +1                | +2        | +2       | +1        | Bonus feat               | +1            | +1               |
+| 4th         | +2                | +2        | +2       | +1        | Skill mastery            | +1            | +1               |
+| 5th         | +2                | +3        | +3       | +1        | Minor breakthrough       | +2            | +1               |
+| 6th         | +3                | +3        | +3       | +2        | Bonus feat               | +2            | +2               |
+| 7th         | +3                | +4        | +4       | +2        | Smart survival           | +2            | +2               |
+| 8th         | +4                | +4        | +4       | +2        | Smart weapon             | +3            | +2               |
+| 9th         | +4                | +4        | +4       | +3        | Bonus feat               | +3            | +3               |
+| 10th        | +5                | +5        | +5       | +3        | Major breakthrough       | +3            | +3               |
 
 ### Class Features
 
@@ -1305,24 +847,20 @@ technology) (Int), Navigate (Int), Profession (Wis), Read/Write Language
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-|                       |                       |               |              |               |                 |                   |                      |
-|-----------------------|-----------------------|---------------|--------------|---------------|-----------------|-------------------|----------------------|
-| **Table: The Techie** |                       |               |              |               |                 |                   |                      |
-|                       |                       |               |              |               |                 |                   |                      |
-| **Class Level**       | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**     | **Defense Bonus** | **Reputation Bonus** |
-|                       |                       |               |              |               |                 |                   |                      |
-| 1st                   | +0                    | +0            | +0           | +2            | Jury-rig +2     | +1                | +0                   |
-| 2nd                   | +1                    | +0            | +0           | +3            | Extreme machine | +1                | +0                   |
-| 3rd                   | +1                    | +1            | +1           | +3            | Bonus feat      | +2                | +1                   |
-| 4th                   | +2                    | +1            | +1           | +4            | Build robot     | +2                | +1                   |
-| 5th                   | +2                    | +1            | +1           | +4            | Mastercraft     | +3                | +1                   |
-| 6th                   | +3                    | +2            | +2           | +5            | Bonus feat      | +3                | +2                   |
-| 7th                   | +3                    | +2            | +2           | +5            | Jury-rig +4     | +4                | +2                   |
-| 8th                   | +4                    | +2            | +2           | +6            | Mastercraft     | +4                | +2                   |
-| 9th                   | +4                    | +3            | +3           | +6            | Bonus feat      | +5                | +3                   |
-|                       |                       |               |              |               |                 |                   |                      |
-| 10th                  | +5                    | +3            | +3           | +7            | Mastercraft     | +5                | +3                   |
-|                       |                       |               |              |               |                 |                   |                      |
+**Table: The Techie**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
+| 1st         | +0                | +0        | +0       | +2        | Jury-rig +2     | +1            | +0               |
+| 2nd         | +1                | +0        | +0       | +3        | Extreme machine | +1            | +0               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat      | +2            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Build robot     | +2            | +1               |
+| 5th         | +2                | +1        | +1       | +4        | Mastercraft     | +3            | +1               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat      | +3            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Jury-rig +4     | +4            | +2               |
+| 8th         | +4                | +2        | +2       | +6        | Mastercraft     | +4            | +2               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat      | +5            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Mastercraft     | +5            | +3               |
 
 ### Class Features
 
@@ -1348,26 +886,22 @@ the risk of causing the machine to need repairs later. The DC for the
 Craft check depends on the type of improvement being made, as shown on
 the table below.
 
-|                            |              |                        |
-|----------------------------|--------------|------------------------|
-| **Improvement**            | **Craft DC** | **Repair Chance (d%)** |
-|                            |              |                        |
-| Ranged Weapons             |              |                        |
-| +1 to damage               | 15           | 01–25                  |
-| +2 to damage               | 20           | 01–50                  |
-| +3 to damage               | 25           | 01–75                  |
-| +5 ft. to range increment  | 15           | 01–25                  |
-| +10 ft. to range increment | 25           | 01–50                  |
-| Electronic Devices         |              |                        |
-| +1 equipment bonus         | 15           | 01–25                  |
-| +2 equipment bonus         | 20           | 01–50                  |
-| +3 equipment bonus         | 25           | 01–75                  |
-| Vehicles                   |              |                        |
-| +1 on initiative checks    | 20           | 01–25                  |
-| +1 to maneuver             | 25           | 01–50                  |
-|                            |              |                        |
-| +2 to maneuver             | 30           | 01–75                  |
-|                            |              |                        |
+| Improvement                | Craft DC | Repair Chance (d%) |
+|----------------------------|----------|--------------------|
+| **Ranged Weapons**         |          |                    |
+| +1 to damage               | 15       | 01–25              |
+| +2 to damage               | 20       | 01–50              |
+| +3 to damage               | 25       | 01–75              |
+| +5 ft. to range increment  | 15       | 01–25              |
+| +10 ft. to range increment | 25       | 01–50              |
+| **Electronic Devices**     |          |                    |
+| +1 equipment bonus         | 15       | 01–25              |
+| +2 equipment bonus         | 20       | 01–50              |
+| +3 equipment bonus         | 25       | 01–75              |
+| **Vehicles**               |          |                    |
+| +1 on initiative checks    | 20       | 01–25              |
+| +1 to maneuver             | 25       | 01–50              |
+| +2 to maneuver             | 30       | 01–75              |
 
 The Techie performs the extreme modifications in 1 hour. The Techie
 can’t take 10 or take 20 on this check. If the check succeeds, the
@@ -1405,34 +939,10 @@ Follow these steps to build a robot.
 **Wealth Check:** The purchase DC for the components needed to construct
 a robot is based on the robot’s size.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Size</h3></td>
-<td><h3>Purchase DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size       | Purchase DC |
+|------------|-------------|
+| Diminutive | 18          |
+| Tiny       | 15          |
 
 Make the Wealth check to purchase and gather the necessary components
 prior to starting construction.
@@ -1441,115 +951,27 @@ prior to starting construction.
 locomotion, and hit points. The DC of the Craft (mechanical) check is
 set by the robot’s size and modified by the form of locomotion selected.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Craft DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Components</strong></p></td>
-<td><h4>DC Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Frame Shape and Locomotion<strong> <sup>1</sup></strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Bipedal</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Quadruped</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Treads</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wheels</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>External Components <strong><sup>2</sup></strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Manipulators <strong><sup>3</sup></strong></p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Audio/visual sensor</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Remote Range <strong><sup>1</sup></strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Remote control link, 100 feet</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Remote control link, 200 feet</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Remote control link, 300 feet</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Select only one of the options in this category.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 Select one or more of the options in this category.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3 Necessary for a robot built to use any skill except Listen or
-Spot.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size                                       | Craft DC    |
+|--------------------------------------------|-------------|
+| Diminutive                                 | 15          |
+| Tiny                                       | 12          |
+| **Components**                             | DC Modifier |
+| **Frame Shape and Locomotion<sup>1</sup>** |             |
+| Bipedal                                    | +4          |
+| Quadruped                                  | +3          |
+| Treads                                     | +2          |
+| Wheels                                     | +1          |
+| **External Components <sup>2</sup>**       |             |
+| Manipulators <sup>3</sup>                  | +3          |
+| Audio/visual sensor                        | +2          |
+| **Remote Range <sup>1</sup>**              |             |
+| Remote control link, 100 feet              | +1          |
+| Remote control link, 200 feet              | +3          |
+| Remote control link, 300 feet              | +5          |
+
+1 Select only one of the options in this category.
+2 Select one or more of the options in this category.
+3 Necessary for a robot built to use any skill except Listen or Spot.
 
 Select a frame size and form, add manipulators and sensors as necessary,
 and choose a type of remote control link. Add all the modifiers to
@@ -1671,24 +1093,20 @@ Research (Int), Speak Language (none), Spot (Wis), Treat Injury (Wis).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                            |                       |               |              |               |                       |                   |                      |
-|----------------------------|-----------------------|---------------|--------------|---------------|-----------------------|-------------------|----------------------|
-| **Table: The Field Medic** |                       |               |              |               |                       |                   |                      |
-|                            |                       |               |              |               |                       |                   |                      |
-| **Class Level**            | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**           | **Defense Bonus** | **Reputation Bonus** |
-|                            |                       |               |              |               |                       |                   |                      |
-| 1st                        | +0                    | +2            | +0           | +1            | Medical specialist +1 | +1                | +1                   |
-| 2nd                        | +1                    | +3            | +0           | +2            | Expert healer         | +1                | +1                   |
-| 3rd                        | +1                    | +3            | +1           | +2            | Bonus feat            | +2                | +1                   |
-| 4th                        | +2                    | +4            | +1           | +2            | Medical mastery       | +2                | +2                   |
-| 5th                        | +2                    | +4            | +1           | +3            | Medical specialist +2 | +3                | +2                   |
-| 6th                        | +3                    | +5            | +2           | +3            | Bonus feat            | +3                | +2                   |
-| 7th                        | +3                    | +5            | +2           | +4            | Minor medical miracle | +4                | +3                   |
-| 8th                        | +4                    | +6            | +2           | +4            | Medical specialist +3 | +4                | +3                   |
-| 9th                        | +4                    | +6            | +3           | +4            | Bonus feat            | +5                | +3                   |
-|                            |                       |               |              |               |                       |                   |                      |
-| 10th                       | +5                    | +7            | +3           | +5            | Medical miracle       | +5                | +4                   |
-|                            |                       |               |              |               |                       |                   |                      |
+**Table: The Field Medic**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +1        | Medical specialist +1 | +1            | +1               |
+| 2nd         | +1                | +3        | +0       | +2        | Expert healer         | +1            | +1               |
+| 3rd         | +1                | +3        | +1       | +2        | Bonus feat            | +2            | +1               |
+| 4th         | +2                | +4        | +1       | +2        | Medical mastery       | +2            | +2               |
+| 5th         | +2                | +4        | +1       | +3        | Medical specialist +2 | +3            | +2               |
+| 6th         | +3                | +5        | +2       | +3        | Bonus feat            | +3            | +2               |
+| 7th         | +3                | +5        | +2       | +4        | Minor medical miracle | +4            | +3               |
+| 8th         | +4                | +6        | +2       | +4        | Medical specialist +3 | +4            | +3               |
+| 9th         | +4                | +6        | +3       | +4        | Bonus feat            | +5            | +3               |
+| 10th        | +5                | +7        | +3       | +5        | Medical miracle       | +5            | +4               |
 
 ### Class Features
 
@@ -1782,24 +1200,20 @@ streetwise) (Int), Listen (Wis), Profession (Wis), Read/\_Write Language
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                             |                       |               |              |               |                     |                   |                      |
-|-----------------------------|-----------------------|---------------|--------------|---------------|---------------------|-------------------|----------------------|
-| **Table: The Investigator** |                       |               |              |               |                     |                   |                      |
-|                             |                       |               |              |               |                     |                   |                      |
-| **Class Level**             | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**         | **Defense Bonus** | **Reputation Bonus** |
-|                             |                       |               |              |               |                     |                   |                      |
-| 1st                         | +0                    | +0            | +1           | +1            | Profile             | +1                | +1                   |
-| 2nd                         | +1                    | +0            | +2           | +2            | Contact, low-level  | +1                | +1                   |
-| 3rd                         | +2                    | +1            | +2           | +2            | Bonus feat          | +2                | +1                   |
-| 4th                         | +3                    | +1            | +2           | +2            | Nonlethal force     | +2                | +2                   |
-| 5th                         | +3                    | +1            | +3           | +3            | Contact, mid-level  | +3                | +2                   |
-| 6th                         | +4                    | +2            | +3           | +3            | Bonus feat          | +3                | +2                   |
-| 7th                         | +5                    | +2            | +4           | +4            | Discern lie         | +4                | +3                   |
-| 8th                         | +6                    | +2            | +4           | +4            | Contact, high-level | +4                | +3                   |
-| 9th                         | +6                    | +3            | +4           | +4            | Bonus feat          | +5                | +3                   |
-|                             |                       |               |              |               |                     |                   |                      |
-| 10th                        | +7                    | +3            | +5           | +5            | Sixth sense         | +5                | +4                   |
-|                             |                       |               |              |               |                     |                   |                      |
+**Table: The Investigator**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
+| 1st         | +0                | +0        | +1       | +1        | Profile             | +1            | +1               |
+| 2nd         | +1                | +0        | +2       | +2        | Contact, low-level  | +1            | +1               |
+| 3rd         | +2                | +1        | +2       | +2        | Bonus feat          | +2            | +1               |
+| 4th         | +3                | +1        | +2       | +2        | Nonlethal force     | +2            | +2               |
+| 5th         | +3                | +1        | +3       | +3        | Contact, mid-level  | +3            | +2               |
+| 6th         | +4                | +2        | +3       | +3        | Bonus feat          | +3            | +2               |
+| 7th         | +5                | +2        | +4       | +4        | Discern lie         | +4            | +3               |
+| 8th         | +6                | +2        | +4       | +4        | Contact, high-level | +4            | +3               |
+| 9th         | +6                | +3        | +4       | +4        | Bonus feat          | +5            | +3               |
+| 10th        | +7                | +3        | +5       | +5        | Sixth sense         | +5            | +4               |
 
 ### Class Features
 
@@ -1925,24 +1339,20 @@ events, popular culture) (Int), Perform (act, dance, sing, stand-up)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                            |                       |               |              |               |                        |                   |                      |
-|----------------------------|-----------------------|---------------|--------------|---------------|------------------------|-------------------|----------------------|
-| **Table: The Personality** |                       |               |              |               |                        |                   |                      |
-|                            |                       |               |              |               |                        |                   |                      |
-| **Class Level**            | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**            | **Defense Bonus** | **Reputation Bonus** |
-|                            |                       |               |              |               |                        |                   |                      |
-| 1st                        | +0                    | +1            | +1           | +0            | Unlimited access       | +0                | +2                   |
-| 2nd                        | +1                    | +2            | +2           | +0            | Bonus class skill      | +1                | +2                   |
-| 3rd                        | +1                    | +2            | +2           | +1            | Bonus feat             | +1                | +2                   |
-| 4th                        | +2                    | +2            | +2           | +1            | Royalty                | +1                | +3                   |
-| 5th                        | +2                    | +3            | +3           | +1            | Winning smile          | +2                | +3                   |
-| 6th                        | +3                    | +3            | +3           | +2            | Bonus feat             | +2                | +3                   |
-| 7th                        | +3                    | +4            | +4           | +2            | Bonus class skill      | +2                | +4                   |
-| 8th                        | +4                    | +4            | +4           | +2            | Royalty                | +3                | +4                   |
-| 9th                        | +4                    | +4            | +4           | +3            | Bonus feat             | +3                | +4                   |
-|                            |                       |               |              |               |                        |                   |                      |
-| 10th                       | +5                    | +5            | +5           | +3            | Compelling performance | +3                | +5                   |
-|                            |                       |               |              |               |                        |                   |                      |
+**Table: The Personality**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +0        | Unlimited access       | +0            | +2               |
+| 2nd         | +1                | +2        | +2       | +0        | Bonus class skill      | +1            | +2               |
+| 3rd         | +1                | +2        | +2       | +1        | Bonus feat             | +1            | +2               |
+| 4th         | +2                | +2        | +2       | +1        | Royalty                | +1            | +3               |
+| 5th         | +2                | +3        | +3       | +1        | Winning smile          | +2            | +3               |
+| 6th         | +3                | +3        | +3       | +2        | Bonus feat             | +2            | +3               |
+| 7th         | +3                | +4        | +4       | +2        | Bonus class skill      | +2            | +4               |
+| 8th         | +4                | +4        | +4       | +2        | Royalty                | +3            | +4               |
+| 9th         | +4                | +4        | +4       | +3        | Bonus feat             | +3            | +4               |
+| 10th        | +5                | +5        | +5       | +3        | Compelling performance | +3            | +5               |
 
 ### Class Features
 
@@ -1959,42 +1369,12 @@ When a Personality buys a ticket to a show or for transportation, he or
 she can make a Diplomacy check to get that ticket upgraded. DCs are
 given below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Upgrade</strong></p></td>
-<td><h3>Diplomacy DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Seat at sporting event to field pass</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Hotel room to suite</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Concert or theater ticket to backstage pass</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Economy transportation to first-class</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Upgrade                                     | Diplomacy DC |
+|---------------------------------------------|--------------|
+| Seat at sporting event to field pass        | 10           |
+| Hotel room to suite                         | 15           |
+| Concert or theater ticket to backstage pass | 20           |
+| Economy transportation to first-class       | 25           |
 
 **Bonus Class Skill**
 
@@ -2102,24 +1482,20 @@ Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                           |                       |               |              |               |                             |                   |                      |
-|---------------------------|-----------------------|---------------|--------------|---------------|-----------------------------|-------------------|----------------------|
-| **Table: The Negotiator** |                       |               |              |               |                             |                   |                      |
-|                           |                       |               |              |               |                             |                   |                      |
-| **Class Level**           | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                 | **Defense Bonus** | **Reputation Bonus** |
-|                           |                       |               |              |               |                             |                   |                      |
-| 1st                       | +0                    | +1            | +0           | +2            | Conceal motive              | +0                | +1                   |
-| 2nd                       | +1                    | +2            | +0           | +3            | React first                 | +1                | +1                   |
-| 3rd                       | +2                    | +2            | +1           | +3            | Bonus feat                  | +1                | +1                   |
-| 4th                       | +3                    | +2            | +1           | +4            | Talk down one opponent      | +1                | +2                   |
-| 5th                       | +3                    | +3            | +1           | +4            | No sweat                    | +2                | +2                   |
-| 6th                       | +4                    | +3            | +2           | +5            | Bonus feat                  | +2                | +2                   |
-| 7th                       | +5                    | +4            | +2           | +5            | Talk down several opponents | +2                | +3                   |
-| 8th                       | +6                    | +4            | +2           | +6            | Sow distrust                | +3                | +3                   |
-| 9th                       | +6                    | +4            | +3           | +6            | Bonus feat                  | +3                | +3                   |
-|                           |                       |               |              |               |                             |                   |                      |
-| 10th                      | +7                    | +5            | +3           | +7            | Talk down all opponents     | +3                | +4                   |
-|                           |                       |               |              |               |                             |                   |                      |
+**Table: The Negotiator**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +0       | +2        | Conceal motive              | +0            | +1               |
+| 2nd         | +1                | +2        | +0       | +3        | React first                 | +1            | +1               |
+| 3rd         | +2                | +2        | +1       | +3        | Bonus feat                  | +1            | +1               |
+| 4th         | +3                | +2        | +1       | +4        | Talk down one opponent      | +1            | +2               |
+| 5th         | +3                | +3        | +1       | +4        | No sweat                    | +2            | +2               |
+| 6th         | +4                | +3        | +2       | +5        | Bonus feat                  | +2            | +2               |
+| 7th         | +5                | +4        | +2       | +5        | Talk down several opponents | +2            | +3               |
+| 8th         | +6                | +4        | +2       | +6        | Sow distrust                | +3            | +3               |
+| 9th         | +6                | +4        | +3       | +6        | Bonus feat                  | +3            | +3               |
+| 10th        | +7                | +5        | +3       | +7        | Talk down all opponents     | +3            | +4               |
 
 ### Class Features
 

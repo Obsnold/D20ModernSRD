@@ -361,62 +361,17 @@ base creature did not have a slam attack, use the base damage values in
 the table below. Otherwise, use the values below or the base creature’s
 base damage, whichever is greater.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Size</h3></td>
-<td><h3>Slam Damage</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size        | Slam Damage |
+|-------------|-------------|
+| Fine        | 1           |
+| Diminutive  | 1d2         |
+| Tiny        | 1d3         |
+| Small       | 1d4         |
+| Medium-size | 1d6         |
+| Large       | 1d8         |
+| Huge        | 2d6         |
+| Gargantuan  | 2d8         |
+| Colossal    | 4d6         |
 
 **Special Qualities:** A maniac retains all the special qualities of the
 base creature and gains the additional qualities described below.
@@ -1240,68 +1195,20 @@ construct a robot is based on its size category.
 Make a Wealth check to purchase and gather the necessary components
 before starting construction.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Size </strong></p></td>
-<td><p class="heading">Purchase DC</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>21</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size        | Purchase DC |
+|-------------|-------------|
+| Small       | 21          |
+| Medium-size | 24          |
 
 **2. Construct Frame:** The robot’s body determines its size, shape,
 locomotion, and hit points. The DC of the required Craft (mechanical)
 check is set by the robot’s size and modified by the mode of locomotion
 selected (see the Techie advanced class description).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Size</h3></td>
-<td><h3>Craft (mechanical) DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>21</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size        | Craft (mechanical) DC |
+|-------------|-----------------------|
+| Small       | 18                    |
+| Medium-size | 21                    |
 
 In addition to the external components noted in the Techie advanced
 class description*, *a Techie can add additional components, weapons,
@@ -1310,82 +1217,18 @@ modifier for adding new
 
 components to a robot.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Components</h3></td>
-<td><h3>DC Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p class="heading">Frame Shape and Locomotion</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Articulated frame</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p class="heading">External Components</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Accessory mount</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Loading mechanism</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Basic toolkit</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>Basic electrical kit</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Searchlight</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p class="heading">Armor</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Natural armor bonus +2</p></td>
-<td><p>+2*</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Components                     | DC Modifier |
+|--------------------------------|-------------|
+| **Frame Shape and Locomotion** |             |
+| Articulated frame              | +5          |
+| **External Components**        |             |
+| Accessory mount                | +1          |
+| Loading mechanism              | +2          |
+| Basic toolkit                  | +2          |
+| Basic electrical kit           | +2          |
+| Searchlight                    | +1          |
+| **Armor**                      |             |
+| Natural armor bonus +2         | +2*         |
 
 \*This component can be purchased a number of times equal to the robot’s
 size category (counted up from Diminutive).

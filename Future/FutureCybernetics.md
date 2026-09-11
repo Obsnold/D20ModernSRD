@@ -170,46 +170,14 @@ creature with cybernetic attachments fails a Fortitude save against
 massive damage, the GM should roll percentile dice and consult Table:
 Massive Damage Effects to determine what happens.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Massive Damage Effects</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d% Roll</strong></p></td>
-<td><p><strong>Effect of Failed Fortitude Save</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>01–30</p></td>
-<td><p>Normal Effect</p></td>
-</tr>
-<tr class="odd">
-<td><p>31–60</p></td>
-<td><p>Attachment Disabled</p></td>
-</tr>
-<tr class="even">
-<td><p>61–80</p></td>
-<td><p>Normal Effect and Attachment Disabled</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>81–100</p></td>
-<td><p>Attachment Damaged and Side Effect</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Massive Damage Effects**
+
+| d% Roll | Effect of Failed Fortitude Save       |
+|---------|---------------------------------------|
+| 01–30   | Normal Effect                         |
+| 31–60   | Attachment Disabled                   |
+| 61–80   | Normal Effect and Attachment Disabled |
+| 81–100  | Attachment Damaged and Side Effect    |
 
 **Normal Effect:** The character immediately drops to –1 hit points and
 is dying.
@@ -229,89 +197,22 @@ Construction and Repair, above).
 result of a damaged attachment. Various side effects are presented on
 Table: Side Effects.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Side Effects</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d% Roll</strong></p></td>
-<td><p><strong>Side Effect</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>01–08</p></td>
-<td><p><em>Blurred Vision: </em>Character suffers a 20% miss chance on
-all attacks.</p></td>
-</tr>
-<tr class="odd">
-<td><p>09–17</p></td>
-<td><p><em>Constant Trembling: </em>Character takes a –2 penalty on
-Dexterity-based skill checks.</p></td>
-</tr>
-<tr class="even">
-<td><p>18–25</p></td>
-<td><p><em>Cybernetic Rejection: </em>Character suffers 1d4 points of
-Constitution damage per day.</p></td>
-</tr>
-<tr class="odd">
-<td><p>26–34</p></td>
-<td><p><em>Dizziness: </em>Character takes a –1 penalty on attack rolls,
-saving throws, ability checks, and skill checks.</p></td>
-</tr>
-<tr class="even">
-<td><p>35–42</p></td>
-<td><p><em>Impaired Hearing: </em>Static distortion imposes a –2 penalty
-on all Listen checks.</p></td>
-</tr>
-<tr class="odd">
-<td><p>43–50</p></td>
-<td><p><em>Impaired Vision: </em>Distorted images impose a –2 penalty on
-Spot checks.</p></td>
-</tr>
-<tr class="even">
-<td><p>51–59</p></td>
-<td><p><em>Insomnia: </em>Character can only sleep for minutes at a time
-and gains insufficient rest to heal naturally.</p></td>
-</tr>
-<tr class="odd">
-<td><p>60–67</p></td>
-<td><p><em>Muscle Cramps: </em>Character moves at half speed.</p></td>
-</tr>
-<tr class="even">
-<td><p>68–76</p></td>
-<td><p><em>Muscle Fatigue: </em>Character takes a –2 penalty on
-Strength-based skill checks.</p></td>
-</tr>
-<tr class="odd">
-<td><p>77–84</p></td>
-<td><p><em>Power Surge: </em>Character is shaken for 1 round if wounded;
-a successful Fortitude save (DC 12) negates.</p></td>
-</tr>
-<tr class="even">
-<td><p>85–93</p></td>
-<td><p><em>Psychosis: </em>Character suffers 1d4 points of Charisma
-damage per day, lapsing into a coma if the score drops to 0.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>94–100</p></td>
-<td><p><em>Sensory Overload: </em>Character is stunned for 1 round if
-wounded; a successful Fortitude save (DC 15) negates.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Side Effects**
+
+| d% Roll | Side Effect                                                                                                        |
+|---------|--------------------------------------------------------------------------------------------------------------------|
+| 01–08   | *Blurred Vision: *Character suffers a 20% miss chance on all attacks.                                              |
+| 09–17   | *Constant Trembling: *Character takes a –2 penalty on Dexterity-based skill checks.                                |
+| 18–25   | *Cybernetic Rejection: *Character suffers 1d4 points of Constitution damage per day.                               |
+| 26–34   | *Dizziness: *Character takes a –1 penalty on attack rolls, saving throws, ability checks, and skill checks.        |
+| 35–42   | *Impaired Hearing: *Static distortion imposes a –2 penalty on all Listen checks.                                   |
+| 43–50   | *Impaired Vision: *Distorted images impose a –2 penalty on Spot checks.                                            |
+| 51–59   | *Insomnia: *Character can only sleep for minutes at a time and gains insufficient rest to heal naturally.          |
+| 60–67   | *Muscle Cramps: *Character moves at half speed.                                                                    |
+| 68–76   | *Muscle Fatigue: *Character takes a –2 penalty on Strength-based skill checks.                                     |
+| 77–84   | *Power Surge: *Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates.            |
+| 85–93   | *Psychosis: *Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0. |
+| 94–100  | *Sensory Overload: *Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates.      |
 
 ## REPLACEMENTS
 

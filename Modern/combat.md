@@ -68,66 +68,19 @@ attack, two creatures of the same size strike each other normally,
 regardless of what size they actually are. Creature sizes are compatible
 with vehicle sizes.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Table: Size Modifiers</h4></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Size (Example)</h4></td>
-<td><h4>Size Modifier</h4></td>
-</tr>
-<tr class="even">
-<td><p>Colossal (blue whale [90 ft. long])</p></td>
-<td><p>–8</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan (gray whale [40 ft. long])</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge (elephant)</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large (lion)</p></td>
-<td><p>–1</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size (human)</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small (German shepherd)</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny (housecat)</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive (rat)</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine (horsefly)</p></td>
-<td><p>+8</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Size Modifiers**
+
+| Size (Example)                        | Size Modifier |
+|---------------------------------------|---------------|
+| Colossal (blue whale [90 ft. long])   | –8            |
+| Gargantuan (gray whale [40 ft. long]) | –4            |
+| Huge (elephant)                       | –2            |
+| Large (lion)                          | –1            |
+| Medium-size (human)                   | +0            |
+| Small (German shepherd)               | +1            |
+| Tiny (housecat)                       | +2            |
+| Diminutive (rat)                      | +4            |
+| Fine (horsefly)                       | +8            |
 
 #### Dexterity Modifier
 
@@ -433,302 +386,70 @@ means a span of time from a certain round to the same initiative number
 in the next round. Effects that last a certain number of rounds end just
 before the same initiative count that they began on.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Table: Actions in Combat</h4></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Attack Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity<sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Attack (melee)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attack (ranged)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Attack (unarmed)</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attack (aid another)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Bull rush (attack)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Escape a grapple</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Feint (see the Bluff skill)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ready (triggers an attack action)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Make a dying character stable</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attack a weapon</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Attack an object</p></td>
-<td><p>Maybe<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Total defense</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Use a skill that takes an attack action</p></td>
-<td><p>Usually</p></td>
-</tr>
-<tr class="odd">
-<td><p>Start/complete full-round action</p></td>
-<td><p>Varies</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Move Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity<sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Move your speed</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Use a piece of equipment</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Climb (one-quarter speed)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Climb, accelerated (one-half speed)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Crawl</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Draw a weapon<sup>3</sup></p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Holster a weapon</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Move a heavy object</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Open a door</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pick up an object</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Reload a firearm with a box magazine or speed loader</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Retrieve a stored object</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Stand up from prone, sitting, or kneeling</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Swim</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Use a skill that takes a move action</p></td>
-<td><p>Usually</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Full-Round Actions</strong></p></td>
-<td><p><strong>Attack of Opportunity<sup>1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Bull rush (charge)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Charge</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Coup de grace</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Full attack</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Overrun (charge)</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Run</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Withdraw</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Extinguish flames</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Use a skill that takes a full round</p></td>
-<td><p>Usually</p></td>
-</tr>
-<tr class="even">
-<td><p>Reload a firearm with an internal magazine</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><em>Free Actions</em></p></td>
-<td><p><em>Attack of
-Opportunity</em><strong><em><sup>1</sup></em></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Drop an object</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>Drop to prone, sitting, or kneeling</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td><p>Speak</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h5>Action Type Varies</h5></td>
-<td><p><strong>Attack of Opportunity<sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Disarm<strong><sup>4</sup></strong></p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Grapple<strong><sup>4</sup></strong></p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="even">
-<td><p>Load a weapon</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr class="odd">
-<td><p>Trip an opponent<strong><sup>4</sup></strong></p></td>
-<td><p>No (Yes if unarmed)</p></td>
-</tr>
-<tr class="even">
-<td><p>Use a feat<strong><sup>5</sup></strong></p></td>
-<td><p>Varies</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>No Action</strong></p></td>
-<td><p><strong>Attack of Opportunity<sup>1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Delay</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="even">
-<td><p>5-foot step</p></td>
-<td><p>No</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1 Regardless of the action, if a character moves out of a
-threatened square, the character usually provokes an attack of
-opportunity. This column indicates whether the action itself, not
-moving, provokes an attack of opportunity.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 If the object is being held, carried, or worn by a creature,
-yes. If not, no.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3 If the character has a base attack bonus of +1 or higher, he or
-she can combine this action with a regular move. If the character has
-the Two-Weapon Fighting feat, he or she can draw two light or one-handed
-weapons in the time it would normally take to draw one.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4 These attack forms substitute for a melee attack, not an
-action. As melee attacks, they can be used once in an attack or charge
-action, one or more times in a full attack action, or even as an attack
-of opportunity.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5<sup> </sup>The description of a feat defines its
-effect.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Actions in Combat**
+
+| Attack Actions                                       | Attack of Opportunity<sup>1</sup>     |
+|------------------------------------------------------|---------------------------------------|
+| Attack (melee)                                       | No                                    |
+| Attack (ranged)                                      | Yes                                   |
+| Attack (unarmed)                                     | Yes                                   |
+| Attack (aid another)                                 | No                                    |
+| Bull rush (attack)                                   | No                                    |
+| Escape a grapple                                     | No                                    |
+| Feint (see the Bluff skill)                          | No                                    |
+| Ready (triggers an attack action)                    | No                                    |
+| Make a dying character stable                        | Yes                                   |
+| Attack a weapon                                      | Yes                                   |
+| Attack an object                                     | Maybe<sup>2</sup>                     |
+| Total defense                                        | No                                    |
+| Use a skill that takes an attack action              | Usually                               |
+| Start/complete full-round action                     | Varies                                |
+| **Move Actions**                                     | **Attack of Opportunity<sup>1</sup>** |
+| Move your speed                                      | Yes                                   |
+| Use a piece of equipment                             | No                                    |
+| Climb (one-quarter speed)                            | No                                    |
+| Climb, accelerated (one-half speed)                  | No                                    |
+| Crawl                                                | No                                    |
+| Draw a weapon<sup>3</sup>                            | No                                    |
+| Holster a weapon                                     | Yes                                   |
+| Move a heavy object                                  | Yes                                   |
+| Open a door                                          | No                                    |
+| Pick up an object                                    | Yes                                   |
+| Reload a firearm with a box magazine or speed loader | Yes                                   |
+| Retrieve a stored object                             | Yes                                   |
+| Stand up from prone, sitting, or kneeling            | Yes                                   |
+| Swim                                                 | No                                    |
+| Use a skill that takes a move action                 | Usually                               |
+| **Full-Round Actions**                               | **Attack of Opportunity<sup>1</sup>** |
+| Bull rush (charge)                                   | No                                    |
+| Charge                                               | No                                    |
+| Coup de grace                                        | Yes                                   |
+| Full attack                                          | No                                    |
+| Overrun (charge)                                     | No                                    |
+| Run                                                  | Yes                                   |
+| Withdraw                                             | No                                    |
+| Extinguish flames                                    | No                                    |
+| Use a skill that takes a full round                  | Usually                               |
+| Reload a firearm with an internal magazine           | Yes                                   |
+| *Free Actions*                                       | *Attack of Opportunity**<sup>1</sup>* |
+| Drop an object                                       | No                                    |
+| Drop to prone, sitting, or kneeling                  | No                                    |
+| Speak                                                | No                                    |
+| Action Type Varies                                   | **Attack of Opportunity<sup>1</sup>** |
+| Disarm<sup>4</sup>                                   | Yes                                   |
+| Grapple<sup>4</sup>                                  | Yes                                   |
+| Load a weapon                                        | Yes                                   |
+| Trip an opponent<sup>4</sup>                         | No (Yes if unarmed)                   |
+| Use a feat<sup>5</sup>                               | Varies                                |
+| **No Action**                                        | **Attack of Opportunity<sup>1</sup>** |
+| Delay                                                | No                                    |
+| 5-foot step                                          | No                                    |
+
+1 Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
+2 If the object is being held, carried, or worn by a creature, yes. If not, no.
+3 If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.
+4 These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.
+5The description of a feat defines its effect.
 
 ### Action Types
 
@@ -1016,55 +737,14 @@ Double Weapons: A character can use a double weapon to make an extra
 attack as if he or she were fighting with two weapons. The penalties
 apply as if the off-hand weapon were light.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Two-Weapon Fighting Penalties</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Circumstances</h4></td>
-<td><h4>Primary Hand</h4></td>
-<td><h4>Off Hand</h4></td>
-</tr>
-<tr class="even">
-<td><p>Normal penalties</p></td>
-<td><p>–6</p></td>
-<td><p>–10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Off-hand weapon is light</p></td>
-<td><p>–4</p></td>
-<td><p>–8</p></td>
-</tr>
-<tr class="even">
-<td><p>Two-Weapon Fighting feat</p></td>
-<td><p>–4</p></td>
-<td><p>–4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Off-hand weapon is light and Two-Weapon Fighting feat</p></td>
-<td><p>–2</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Two-Weapon Fighting Penalties**
+
+| Circumstances                                         | Primary Hand | Off Hand |
+|-------------------------------------------------------|--------------|----------|
+| Normal penalties                                      | –6           | –10      |
+| Off-hand weapon is light                              | –4           | –8       |
+| Two-Weapon Fighting feat                              | –4           | –4       |
+| Off-hand weapon is light and Two-Weapon Fighting feat | –2           | –2       |
 
 #### Run
 
@@ -1281,191 +961,38 @@ to the defender’s Defense. The GM judges what bonuses and penalties
 apply, using Table: Defense Modifiers and Table: Attack Roll Modifiers
 as guides.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Defense Modifiers</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Circumstance</strong></p></td>
-<td><p><strong>Melee</strong></p></td>
-<td><p><strong>Ranged</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Defender sitting or kneeling</p></td>
-<td><p>–2</p></td>
-<td><p>+2<strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Defender prone</p></td>
-<td><p>–4</p></td>
-<td><p>+4<strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Defender stunned or cowering</p></td>
-<td><p>–2<strong><sup>2</sup></strong></p></td>
-<td><p>–2<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Defender climbing</p></td>
-<td><p>–2<strong><sup>2</sup></strong></p></td>
-<td><p>–2<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Defender flat-footed</p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Defender running</p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-<td><p>+2<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Defender grappling (attacker not)</p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-<td><p>+0<strong><sup>3</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Defender pinned</p></td>
-<td><p>–4<strong><sup>4</sup></strong></p></td>
-<td><p>+0<strong><sup>4</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Defender helpless (such as paralyzed, sleeping, or
-bound)</p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-<td><p>+0<strong><sup>2</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Defender has cover</p></td>
-<td><p>—–— See Cover —–—</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Defender concealed or invisible</p></td>
-<td><p>— See Concealment —</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 Does not apply if target is adjacent to attacker. This
-circumstance may instead improve bonus to Defense granted by cover. See
-Cover, below.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2 The defender loses any Dexterity bonus to Defense.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3 Roll randomly to see which grappling combatant the character
-strikes. That defender loses any Dexterity bonus to Defense.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4 Treat the defender’s Dexterity as 0 (–5 modifier).</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Table: Attack Roll Modifiers</h4></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Circumstance</h4></td>
-<td><p><strong>Melee</strong></p></td>
-<td><p><strong>Ranged</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Attacker flanking defender<sup>1</sup></p></td>
-<td><p>+2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attacker on higher ground</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>Attacker prone</p></td>
-<td><p>–4</p></td>
-<td><p>–2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Attacker invisible</p></td>
-<td><p>+2<strong><sup>3</sup></strong></p></td>
-<td><p>+2<strong><sup>3</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 A character flanks a defender when he or she has an ally on the
-opposite side of the defender threatening the defender.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2 Some ranged weapons can’t be used while the attacker is
-prone.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3 The defender loses any Dexterity bonus to Defense.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Defense Modifiers**
+
+| Circumstance                                                                                                                                       | Melee               | Ranged         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------|
+| Defender sitting or kneeling                                                                                                                       | –2                  | +2<sup>1</sup> |
+| Defender prone                                                                                                                                     | –4                  | +4<sup>1</sup> |
+| Defender stunned or cowering                                                                                                                       | –2<sup>2</sup>      | –2<sup>2</sup> |
+| Defender climbing                                                                                                                                  | –2<sup>2</sup>      | –2<sup>2</sup> |
+| Defender flat-footed                                                                                                                               | +0<sup>2</sup>      | +0<sup>2</sup> |
+| Defender running                                                                                                                                   | +0<sup>2</sup>      | +2<sup>2</sup> |
+| Defender grappling (attacker not)                                                                                                                  | +0<sup>2</sup>      | +0<sup>3</sup> |
+| Defender pinned                                                                                                                                    | –4<sup>4</sup>      | +0<sup>4</sup> |
+| Defender helpless (such as paralyzed, sleeping, or bound)                                                                                          | +0<sup>2</sup>      | +0<sup>2</sup> |
+| Defender has cover                                                                                                                                 | —–— See Cover —–—   |                |
+| Defender concealed or invisible                                                                                                                    | — See Concealment — |                |
+| **1 Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.** |                     |                |
+| **2 The defender loses any Dexterity bonus to Defense.**                                                                                           |                     |                |
+| **3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.**                    |                     |                |
+| **4 Treat the defender’s Dexterity as 0 (–5 modifier).**                                                                                           |                     |                |
+
+**Table: Attack Roll Modifiers**
+
+| Circumstance                           | Melee          | Ranged         |
+|----------------------------------------|----------------|----------------|
+| Attacker flanking defender<sup>1</sup> | +2             | —              |
+| Attacker on higher ground              | +1             | +0             |
+| Attacker prone                         | –4             | –2             |
+| Attacker invisible                     | +2<sup>3</sup> | +2<sup>3</sup> |
+
+1 A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
+2 Some ranged weapons can’t be used while the attacker is prone.
+3 The defender loses any Dexterity bonus to Defense.
 
 #### Cover
 
@@ -1522,19 +1049,17 @@ out of the way and didn’t provide cover after all. A covering character
 can choose not to apply his or her Dexterity bonus to Defense and/or his
 or her dodge bonus, if the character so desires.
 
-|                                                                                                                |                            |                  |
-|----------------------------------------------------------------------------------------------------------------|----------------------------|------------------|
-| **Table: Cover**                                                                                               |                            |                  |
-|                                                                                                                |                            |                  |
-| **Degree of Cover (Example)**                                                                                  | **Cover Bonus to Defense** | **Reflex Saves** |
-| One-quarter (standing behind a 3-ft. high wall)                                                                | +2                         | +1               |
-| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4                         | +2               |
-| Three-quarters (peering around a corner or a big tree)                                                         | +7                         | +3               |
-| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)                                    | +10                        | +4 <sup>1</sup>  |
-| Total (on the other side of a solid wall)                                                                      | —                          | —                |
-|                                                                                                                |                            |                  |
-| 1 Half damage if save is failed; no damage if successful.                                                      |                            |                  |
-|                                                                                                                |                            |                  |
+**Table: Cover**
+
+| Degree of Cover (Example)                                                                                      | Cover Bonus to Defense | Reflex Saves    |
+|----------------------------------------------------------------------------------------------------------------|------------------------|-----------------|
+| One-quarter (standing behind a 3-ft. high wall)                                                                | +2                     | +1              |
+| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4                     | +2              |
+| Three-quarters (peering around a corner or a big tree)                                                         | +7                     | +3              |
+| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)                                    | +10                    | +4 <sup>1</sup> |
+| Total (on the other side of a solid wall)                                                                      | —                      | —               |
+
+1 Half damage if save is failed; no damage if successful.
 
 #### Concealment
 
@@ -1559,51 +1084,15 @@ before or after the attack roll. When multiple concealment conditions
 apply to a defender, use the one that would produce the highest miss
 chance. Do not add the miss chances together.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Concealment</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Concealment (Example)</h4></td>
-<td><h4>Miss Chance</h4></td>
-</tr>
-<tr class="even">
-<td><p>One-quarter (light fog; light foliage)</p></td>
-<td><p>10%</p></td>
-</tr>
-<tr class="odd">
-<td><p>One-half (shadows; dense fog at 5 ft.)</p></td>
-<td><p>20%</p></td>
-</tr>
-<tr class="even">
-<td><p>Three-quarters (dense foliage)</p></td>
-<td><p>30%</p></td>
-</tr>
-<tr class="odd">
-<td><p>Nine-tenths (near total darkness)</p></td>
-<td><p>40%</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Total (attacker blind; total darkness; smoke grenade; dense fog
-at 10 ft.)</p></td>
-<td><p>50% and must guess target’s location</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Concealment**
+
+| Concealment (Example)                                                      | Miss Chance                          |
+|----------------------------------------------------------------------------|--------------------------------------|
+| One-quarter (light fog; light foliage)                                     | 10%                                  |
+| One-half (shadows; dense fog at 5 ft.)                                     | 20%                                  |
+| Three-quarters (dense foliage)                                             | 30%                                  |
+| Nine-tenths (near total darkness)                                          | 40%                                  |
+| Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.) | 50% and must guess target’s location |
 
 Helpless Defenders
 
@@ -1823,17 +1312,14 @@ within one range increment, you do not need to make an attack roll. Roll
 1d4 and consult the table to see which corner of the square the
 explosive bounces to.
 
-|                             |                               |
-|-----------------------------|-------------------------------|
-| **Thrown Explosives (hit)** |                               |
-|                             |                               |
-| **Roll on d4**              | **Corner of targeted square** |
-| 1                           | Upper Left                    |
-| 2                           | Upper Right                   |
-| 3                           | Lower Right                   |
-|                             |                               |
-| 4                           | Lower Left                    |
-|                             |                               |
+**Thrown Explosives (hit)**
+
+| Roll on d4 | Corner of targeted square |
+|------------|---------------------------|
+| 1          | Upper Left                |
+| 2          | Upper Right               |
+| 3          | Lower Right               |
+| 4          | Lower Left                |
 
 If the target square is more than one range increment away, make an
 attack roll. The square has an effective Defense of 10. Thrown weapons
@@ -1847,140 +1333,37 @@ square nearby in a random direction. Consult the tables below to
 determine where the explosive lands. If the weapon was thrown two to
 three range increments (11 to 30 feet), roll 1d8.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Thrown Explosive (Miss 2 to 3 Range
-Increments)</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Roll on d8</h4></td>
-<td><h4>Location Struck</h4></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>upper right corner, one square beyond target</p></td>
-</tr>
-<tr class="odd">
-<td><p>2</p></td>
-<td><p>upper right corner, one square right of target</p></td>
-</tr>
-<tr class="even">
-<td><p>3</p></td>
-<td><p>lower right corner, one square right of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>4</p></td>
-<td><p>lower right corner, one square short of target</p></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td><p>lower left corner, one square short of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>6</p></td>
-<td><p>lower left corner, one square left of target</p></td>
-</tr>
-<tr class="even">
-<td><p>7</p></td>
-<td><p>upper left corner, one square left of target</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>upper left corner, one square beyond target</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Thrown Explosive (Miss 2 to 3 Range Increments)**
+
+| Roll on d8 | Location Struck                                |
+|------------|------------------------------------------------|
+| 1          | upper right corner, one square beyond target   |
+| 2          | upper right corner, one square right of target |
+| 3          | lower right corner, one square right of target |
+| 4          | lower right corner, one square short of target |
+| 5          | lower left corner, one square short of target  |
+| 6          | lower left corner, one square left of target   |
+| 7          | upper left corner, one square left of target   |
+| 8          | upper left corner, one square beyond target    |
 
 For ranges of up to five range increments (31 to 50 feet), roll 1d12.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Thrown Explosives (Miss 4 to5 Range
-Increments)</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h6>Roll on d12</h6></td>
-<td><h6>Location Struck</h6></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>upper right corner, two squares beyond target</p></td>
-</tr>
-<tr class="odd">
-<td><p>2</p></td>
-<td><p>upper right corner, one square beyond and right of
-target</p></td>
-</tr>
-<tr class="even">
-<td><p>3</p></td>
-<td><p>upper right corner, two squares right of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>4</p></td>
-<td><p>lower right corner, two squares right of target</p></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td><p>lower right corner, one square short and right of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>6</p></td>
-<td><p>lower right corner, two squares short of target</p></td>
-</tr>
-<tr class="even">
-<td><p>7</p></td>
-<td><p>lower left corner, two squares short of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>8</p></td>
-<td><p>lower left corner, one square short and left of target</p></td>
-</tr>
-<tr class="even">
-<td><p>9</p></td>
-<td><p>lower left corner, two squares left of target</p></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>upper left corner, two squares left of target</p></td>
-</tr>
-<tr class="even">
-<td><p>11</p></td>
-<td><p>upper left corner, one square beyond and left of target</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td><p>upper left corner, two squares beyond target</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Thrown Explosives (Miss 4 to5 Range Increments)**
+
+| Roll on d12 | Location Struck                                           |
+|-------------|-----------------------------------------------------------|
+| 1           | upper right corner, two squares beyond target             |
+| 2           | upper right corner, one square beyond and right of target |
+| 3           | upper right corner, two squares right of target           |
+| 4           | lower right corner, two squares right of target           |
+| 5           | lower right corner, one square short and right of target  |
+| 6           | lower right corner, two squares short of target           |
+| 7           | lower left corner, two squares short of target            |
+| 8           | lower left corner, one square short and left of target    |
+| 9           | lower left corner, two squares left of target             |
+| 10          | upper left corner, two squares left of target             |
+| 11          | upper left corner, one square beyond and left of target   |
+| 12          | upper left corner, two squares beyond target              |
 
 After determining where the explosive landed, it deals its damage to all
 targets within the burst radius of the weapon. The targets may make
@@ -2035,22 +1418,19 @@ hit depending on their size and whether they are immobile or being held,
 carried, or worn by opponents. The base Defense of objects is shown on
 Table: Size and Defense of Objects.
 
-|                                        |             |
-|----------------------------------------|-------------|
-| **Table: Size and Defense of Objects** |             |
-|                                        |             |
-| **Size (Example)**                     | **Defense** |
-| Colossal (jetliner)                    | –3          |
-| Gargantuan (army tank)                 | 1           |
-| Huge (typical car)                     | 3           |
-| Large (big door)                       | 4           |
-| Medium-size (dirt bike)                | 5           |
-| Small (chair)                          | 6           |
-| Tiny (laptop computer)                 | 7           |
-| Diminutive (paperback book)            | 9           |
-|                                        |             |
-| Fine (pencil)                          | 13          |
-|                                        |             |
+**Table: Size and Defense of Objects**
+
+| Size (Example)              | Defense |
+|-----------------------------|---------|
+| Colossal (jetliner)         | –3      |
+| Gargantuan (army tank)      | 1       |
+| Huge (typical car)          | 3       |
+| Large (big door)            | 4       |
+| Medium-size (dirt bike)     | 5       |
+| Small (chair)               | 6       |
+| Tiny (laptop computer)      | 7       |
+| Diminutive (paperback book) | 9       |
+| Fine (pencil)               | 13      |
 
 If a character uses a full-round action to make an attack against an
 inanimate, immobile object, the character gets an automatic hit with a
@@ -2074,295 +1454,53 @@ Hit Points: An object’s hit point total depends on what it is made of or
 how big it is (see Table Substance Hardness and Hit Points and Table
 Object Hardness and Hit Points).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Substance Hardness and Hit
-Points</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Substance</strong></p></td>
-<td><h4>Hardness</h4></td>
-<td><p><strong>Hit Points</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Paper</p></td>
-<td><p>0</p></td>
-<td><p>2/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rope</p></td>
-<td><p>0</p></td>
-<td><p>2/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Plastic, soft</p></td>
-<td><p>0</p></td>
-<td><p>3/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Glass</p></td>
-<td><p>1</p></td>
-<td><p>1/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ceramic</p></td>
-<td><p>1</p></td>
-<td><p>2/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ice</p></td>
-<td><p>0</p></td>
-<td><p>3/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Plastic, hard</p></td>
-<td><p>2</p></td>
-<td><p>5/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Wood</p></td>
-<td><p>5</p></td>
-<td><p>10/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Aluminum</p></td>
-<td><p>6</p></td>
-<td><p>10/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Concrete</p></td>
-<td><p>8</p></td>
-<td><p>15/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Steel</p></td>
-<td><p>10</p></td>
-<td><p>30/inch of thickness</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Table: Object Hardness and Hit Points</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Object</strong></p></td>
-<td><p><strong>Hardness</strong></p></td>
-<td><p><strong>Hit Points</strong></p></td>
-<td><p><strong>Break DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Lock</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Cheap</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Average</p></td>
-<td><p>3</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>High quality</p></td>
-<td><p>5</p></td>
-<td><p>10</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>High security</p></td>
-<td><p>10</p></td>
-<td><p>120</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ultrahigh security</p></td>
-<td><p>20</p></td>
-<td><p>150</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td><p>Manufactured objects<strong><sup>1</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>5</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>8</p></td>
-<td><p>10</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>8</p></td>
-<td><p>20</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>10</p></td>
-<td><p>30</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="even">
-<td><p>Firearm, Medium-size</p></td>
-<td><p>5</p></td>
-<td><p>7</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td><p>Rope</p></td>
-<td><p>0</p></td>
-<td><p>2</p></td>
-<td><p>23</p></td>
-</tr>
-<tr class="even">
-<td><p>Simple wooden door</p></td>
-<td><p>5</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-</tr>
-<tr class="odd">
-<td><p>Strong wooden door</p></td>
-<td><p>5</p></td>
-<td><p>20</p></td>
-<td><p>23</p></td>
-</tr>
-<tr class="even">
-<td><p>Steel door</p></td>
-<td><p>10</p></td>
-<td><p>120</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cinderblock wall</p></td>
-<td><p>8</p></td>
-<td><p>90</p></td>
-<td><p>35</p></td>
-</tr>
-<tr class="even">
-<td><p>Chain</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-<td><p>26</p></td>
-</tr>
-<tr class="odd">
-<td><p>Handcuffs</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
-<td><p>Metal bars</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1Figures for manufactured objects are minimum values. The GM may
-adjust these upward to account for objects with more strength and
-durability.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Substance Hardness and Hit Points**
+
+| Substance     | Hardness | Hit Points           |  |
+|---------------|----------|----------------------|--|
+| Paper         | 0        | 2/inch of thickness  |  |
+| Rope          | 0        | 2/inch of thickness  |  |
+| Plastic, soft | 0        | 3/inch of thickness  |  |
+| Glass         | 1        | 1/inch of thickness  |  |
+| Ceramic       | 1        | 2/inch of thickness  |  |
+| Ice           | 0        | 3/inch of thickness  |  |
+| Plastic, hard | 2        | 5/inch of thickness  |  |
+| Wood          | 5        | 10/inch of thickness |  |
+| Aluminum      | 6        | 10/inch of thickness |  |
+| Concrete      | 8        | 15/inch of thickness |  |
+| Steel         | 10       | 30/inch of thickness |  |
+
+**Table: Object Hardness and Hit Points**
+
+| Object                               | Hardness | Hit Points | Break DC |
+|--------------------------------------|----------|------------|----------|
+| **Lock**                             |          |            |          |
+| Cheap                                | 0        | 1          | 10       |
+| Average                              | 3        | 5          | 15       |
+| High quality                         | 5        | 10         | 20       |
+| High security                        | 10       | 120        | 35       |
+| Ultrahigh security                   | 20       | 150        | 40       |
+| **Manufactured objects<sup>1</sup>** |          |            |          |
+| Fine                                 | 0        | 1          | 10       |
+| Diminutive                           | 0        | 1          | 10       |
+| Tiny                                 | 1        | 2          | 10       |
+| Small                                | 3        | 3          | 12       |
+| Medium-size                          | 5        | 5          | 15       |
+| Large                                | 5        | 10         | 15       |
+| Huge                                 | 8        | 10         | 20       |
+| Gargantuan                           | 8        | 20         | 30       |
+| Colossal                             | 10       | 30         | 50       |
+| Firearm, Medium-size                 | 5        | 7          | 17       |
+| Rope                                 | 0        | 2          | 23       |
+| Simple wooden door                   | 5        | 10         | 13       |
+| Strong wooden door                   | 5        | 20         | 23       |
+| Steel door                           | 10       | 120        | 35       |
+| Cinderblock wall                     | 8        | 90         | 35       |
+| Chain                                | 10       | 5          | 26       |
+| Handcuffs                            | 10       | 10         | 30       |
+| Metal bars                           | 10       | 15         | 30       |
+
+1Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
 
 *Energy Attacks:* Acid and sonic/concussive attacks deal normal damage
 to most objects. Electricity and fire attacks deal half damage to most
@@ -2615,22 +1753,19 @@ using a creature’s size modifier on a grapple check (as would be done
 for a melee or ranged attack roll), use the appropriate grapple modifier
 from Table: Grapple **Modifiers.**
 
-|                                         |                      |
-|-----------------------------------------|----------------------|
-| **Table: Grapple Modifiers**            |                      |
-|                                         |                      |
-| **Size (Example)**                      | **Grapple Modifier** |
-| Colossal (blue whale \[90 ft. long\])   | +16                  |
-| Gargantuan (gray whale \[40 ft. long\]) | +12                  |
-| Huge (elephant)                         | +8                   |
-| Large (lion)                            | +4                   |
-| Medium-size (human)                     | +0                   |
-| Small (German shepherd)                 | –4                   |
-| Tiny (housecat)                         | –8                   |
-| Diminutive (rat)                        | –12                  |
-|                                         |                      |
-| Fine (horsefly)                         | –16                  |
-|                                         |                      |
+**Table: Grapple Modifiers**
+
+| Size (Example)                          | Grapple Modifier |
+|-----------------------------------------|------------------|
+| Colossal (blue whale \[90 ft. long\])   | +16              |
+| Gargantuan (gray whale \[40 ft. long\]) | +12              |
+| Huge (elephant)                         | +8               |
+| Large (lion)                            | +4               |
+| Medium-size (human)                     | +0               |
+| Small (German shepherd)                 | –4               |
+| Tiny (housecat)                         | –8               |
+| Diminutive (rat)                        | –12              |
+| Fine (horsefly)                         | –16              |
 
 #### Starting a Grapple
 

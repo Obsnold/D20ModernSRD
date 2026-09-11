@@ -190,52 +190,15 @@ accumulating enough damage to reduce his or her hit point total to
 three-quarters of its full normal value and again after each additional
 one-quarter lost (save DC same as for full moon).
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Task</strong></p></td>
-<td><h4>DC</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Resist involuntary change</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td><p>Return to humanoid form (full moon
-<strong><sup>1</sup></strong>)</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Return to humanoid form (not full moon)</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Voluntary change (full moon)</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Voluntary change (not full moon)</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 For game purposes, the full moon lasts three days every
-month.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Task                                             | DC |
+|--------------------------------------------------|----|
+| Resist involuntary change                        | 25 |
+| Return to humanoid form (full moon <sup>1</sup>) | 25 |
+| Return to humanoid form (not full moon)          | 20 |
+| Voluntary change (full moon)                     | 10 |
+| Voluntary change (not full moon)                 | 15 |
+
+1 For game purposes, the full moon lasts three days every month.
 
 **Try Again?:** Check for an involuntary change once each time a
 triggering event occurs. On a failed check to return to humanoid form

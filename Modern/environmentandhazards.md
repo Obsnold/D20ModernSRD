@@ -7,60 +7,16 @@ It’s a rare mission that doesn’t end up in the dark somewhere, and
 heroes need a way to see. See Table: Light Sources for the radius that a
 light source illuminates and how long it lasts.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Light Sources</h3></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Item</h3></td>
-<td><h3>Light</h3></td>
-<td><h3>Duration</h3></td>
-</tr>
-<tr class="even">
-<td><p>Candle</p></td>
-<td><p>5 feet</p></td>
-<td><p>12 hours</p></td>
-</tr>
-<tr class="odd">
-<td><p>Torch</p></td>
-<td><p>20 feet</p></td>
-<td><p>2 hours</p></td>
-</tr>
-<tr class="even">
-<td><p>Halogen lantern</p></td>
-<td><p>40 feet</p></td>
-<td><p>24 hours</p></td>
-</tr>
-<tr class="odd">
-<td><p>Flashlight</p></td>
-<td><p>20 feet*</p></td>
-<td><p>6 hours</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>*Creates a beam 30 feet long and 5 feet high.</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Light Sources**
+
+| Item            | Light    | Duration |
+|-----------------|----------|----------|
+| Candle          | 5 feet   | 12 hours |
+| Torch           | 20 feet  | 2 hours  |
+| Halogen lantern | 40 feet  | 24 hours |
+| Flashlight      | 20 feet* | 6 hours  |
+
+*Creates a beam 30 feet long and 5 feet high.
 
 ## Heat and Cold
 
@@ -199,108 +155,19 @@ character can make a Strength check to lift the object off him or
 herself or an Escape Artist check (DC 20) to get out from underneath.
 The GM can modify the DCs for these checks based on the circumstances.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Damage from Falling Objects</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Object Size</strong></p></td>
-<td><p><strong>Examples</strong></p></td>
-<td><p><strong>Initial Damage</strong></p></td>
-<td><p><strong>Reflex Save DC</strong></p></td>
-<td><p><strong>Strength Check DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>Penny</p></td>
-<td><p>0</p></td>
-<td><p>n/a</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>Paperweight</p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>Wrench</p></td>
-<td><p>1d3</p></td>
-<td><p>5</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>Vase</p></td>
-<td><p>1d4</p></td>
-<td><p>10</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>Briefcase</p></td>
-<td><p>1d6</p></td>
-<td><p>15</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>Garbage can</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>Oil barrel</p></td>
-<td><p>4d6</p></td>
-<td><p>25</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>Piano</p></td>
-<td><p>8d6</p></td>
-<td><p>30</p></td>
-<td><p>40</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Colossal</p></td>
-<td><p>Vehicle</p></td>
-<td><p>10d6</p></td>
-<td><p>35</p></td>
-<td><p>50</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Damage from Falling Objects**
+
+| Object Size | Examples    | Initial Damage | Reflex Save DC | Strength Check DC |
+|-------------|-------------|----------------|----------------|-------------------|
+| Fine        | Penny       | 0              | n/a            | n/a               |
+| Diminutive  | Paperweight | 1              | 0              | n/a               |
+| Tiny        | Wrench      | 1d3            | 5              | n/a               |
+| Small       | Vase        | 1d4            | 10             | 5                 |
+| Medium-size | Briefcase   | 1d6            | 15             | 10                |
+| Large       | Garbage can | 2d6            | 20             | 20                |
+| Huge        | Oil barrel  | 4d6            | 25             | 30                |
+| Gargantuan  | Piano       | 8d6            | 30             | 40                |
+| Colossal    | Vehicle     | 10d6           | 35             | 50                |
 
 ## Poison
 
@@ -368,119 +235,34 @@ period.
 taking initial damage, if he or she fails a second saving throw. This
 damage is taken each day the saving throw fails.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Diseases</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Disease</strong></p></td>
-<td><p><strong>Type</strong></p></td>
-<td><p><strong>Incubation Period</strong></p></td>
-<td><p><strong>Initial Damage</strong></p></td>
-<td><p><strong>Secondary Damage</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Anthrax</p></td>
-<td><p>Inhaled/Injury DC 16</p></td>
-<td><p>1d2 days</p></td>
-<td><p>1 Con</p></td>
-<td><p>1d4 Con*</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small pox</p></td>
-<td><p>Inhaled/Contact DC 15</p></td>
-<td><p>2d4 days</p></td>
-<td><p>1 Str and 1 Con</p></td>
-<td><p>1d2 Str and 1d2 Con</p></td>
-</tr>
-<tr class="even">
-<td><p>Pneumonia</p></td>
-<td><p>Inhaled DC 12</p></td>
-<td><p>1d4 days</p></td>
-<td><p>1 Str</p></td>
-<td><p>1d3 Str and 1d3 Con</p></td>
-</tr>
-<tr class="odd">
-<td><p>Hantavirus</p></td>
-<td><p>Injury DC 14</p></td>
-<td><p>1 day</p></td>
-<td><p>1d2 Str</p></td>
-<td><p>1d2 Str* and 1d2 Con*</p></td>
-</tr>
-<tr class="even">
-<td><p>Necrotizing faciitis</p></td>
-<td><p>Contact DC 13</p></td>
-<td><p>1d6 days</p></td>
-<td><p>1 Con</p></td>
-<td><p>1d3 Con*</p></td>
-</tr>
-<tr class="odd">
-<td><p>West Nile virus</p></td>
-<td><p>Injury DC 12</p></td>
-<td><p>1d4 days</p></td>
-<td><p>1 Dex and 1 Con</p></td>
-<td><p>1d2 Dex and 1d2 Con*</p></td>
-</tr>
-<tr class="even">
-<td><p>Salmonellosis</p></td>
-<td><p>Ingested DC 13</p></td>
-<td><p>1 day</p></td>
-<td><p>1 Str and 1 Dex</p></td>
-<td><p>1 Str and 1d3 Dex</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>*If damage is sustained, make a second saving throw to avoid 1
-point being permanently drained (instead of damaged).</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Diseases**
+
+| Disease              | Type                  | Incubation Period | Initial Damage  | Secondary Damage      |
+|----------------------|-----------------------|-------------------|-----------------|-----------------------|
+| Anthrax              | Inhaled/Injury DC 16  | 1d2 days          | 1 Con           | 1d4 Con*              |
+| Small pox            | Inhaled/Contact DC 15 | 2d4 days          | 1 Str and 1 Con | 1d2 Str and 1d2 Con   |
+| Pneumonia            | Inhaled DC 12         | 1d4 days          | 1 Str           | 1d3 Str and 1d3 Con   |
+| Hantavirus           | Injury DC 14          | 1 day             | 1d2 Str         | 1d2 Str* and 1d2 Con* |
+| Necrotizing faciitis | Contact DC 13         | 1d6 days          | 1 Con           | 1d3 Con*              |
+| West Nile virus      | Injury DC 12          | 1d4 days          | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con*  |
+| Salmonellosis        | Ingested DC 13        | 1 day             | 1 Str and 1 Dex | 1 Str and 1d3 Dex     |
+
+*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
 
 ## Acid
 
 Corrosive acids deal damage each round of exposure. The amount of damage
 varies depending on the acid’s strength, as noted on Table: Acid Damage.
 
-|                                 |                     |                       |
-|---------------------------------|---------------------|-----------------------|
-| **Table: Acid Damage**          |                     |                       |
-|                                 |                     |                       |
-| **Acid Strength**               | **Splash Attack\*** | **Total Immersion\*** |
-| Mild                            | 1d6                 | 1d10                  |
-| Potent                          | 2d6                 | 2d10                  |
-| Concentrated                    | 3d6                 | 3d10                  |
-|                                 |                     |                       |
-| \*Damage per round of exposure. |                     |                       |
-|                                 |                     |                       |
+**Table: Acid Damage**
+
+| Acid Strength | Splash Attack\* | Total Immersion\* |
+|---------------|-----------------|-------------------|
+| Mild          | 1d6             | 1d10              |
+| Potent        | 2d6             | 2d10              |
+| Concentrated  | 3d6             | 3d10              |
+
+\*Damage per round of exposure.
 
 Acid damage from an attack reduces hit points. A character fully
 immersed in acid takes potentially more damage per round of exposure
@@ -500,61 +282,12 @@ A character can make a Fortitude saving throw to reduce the damage by
 half. If that character is not grounded or is otherwise insulated from
 the current, a successful save indicates that no damage is suffered.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Electricity Damage</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p><strong>Examples</strong></p></td>
-<td><p><strong>Damage</strong></p></td>
-<td><p><strong>Fort DC</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Jolt</p></td>
-<td><p>Car battery, stun gun</p></td>
-<td><p>1d3</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Low voltage</p></td>
-<td><p>Fuse box, electrical socket</p></td>
-<td><p>2d6</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium voltage</p></td>
-<td><p>Industrial transformer, electric fence</p></td>
-<td><p>4d6</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>High voltage</p></td>
-<td><p>Power line, electric chair, lightning</p></td>
-<td><p>8d6</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Electricity Damage**
+
+| Type           | Examples                               | Damage | Fort DC |
+|----------------|----------------------------------------|--------|---------|
+| Jolt           | Car battery, stun gun                  | 1d3    | 10      |
+| Low voltage    | Fuse box, electrical socket            | 2d6    | 15      |
+| Medium voltage | Industrial transformer, electric fence | 4d6    | 15      |
+| High voltage   | Power line, electric chair, lightning  | 8d6    | 20      |
+

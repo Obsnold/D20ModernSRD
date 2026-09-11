@@ -11,14 +11,14 @@ the prerequisites of the class, regardless of what basic classes they
 have gained levels in. The associations between basic classes and
 advanced classes are summarized on the following table.
 
-| **Basic Class1**| **Advanced Class**|
-|-----------------|-------------------|
-| Strong| Soldier; Martial Artist |
-| Fast | Gunslinger; Infiltrator |
-| Tough | Daredevil; Bodyguard |
-| Smart | Field Scientist; Techie, Mage |
-| Dedicated| Field Medic; Investigator, Acolyte |
-| Charismatic| Personality; Negotiator |
+| Basic Class1 | Advanced Class                     |
+|--------------|------------------------------------|
+| Strong       | Soldier; Martial Artist            |
+| Fast         | Gunslinger; Infiltrator            |
+| Tough        | Daredevil; Bodyguard               |
+| Smart        | Field Scientist; Techie, Mage      |
+| Dedicated    | Field Medic; Investigator, Acolyte |
+| Charismatic  | Personality; Negotiator            |
 1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
 
 The Gamemaster may add advanced classes specifically suited to his or

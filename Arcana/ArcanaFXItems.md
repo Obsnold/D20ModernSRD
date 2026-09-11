@@ -150,34 +150,10 @@ would normally take (similar to the *resist energy *spell).
 **Damage Reduction **(armor only): This suit of armor grants the wearer
 damage reduction of a specific type:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Damage Reduction</h2></td>
-<td><h2>Purchase DC Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5/+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10/+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Damage Reduction | Purchase DC Modifier |
+|------------------|----------------------|
+| 5/+1             | +1                   |
+| 10/+1            | +2                   |
 
 **Electricity Resistance:** A suit of armor or a shield with
 
@@ -201,45 +177,11 @@ critical hit or sneak attack is scored on the wearer, there is a chance
 that the critical hit or sneak attack is negated and damage is instead
 rolled normally:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Fortification Type</h3></td>
-<td><h3>Chance for Normal Damage</h3></td>
-<td><h3>Purchase DC Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Light</p></td>
-<td><p>25%</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate</p></td>
-<td><p>75%</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Heavy</p></td>
-<td><p>100%</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Fortification Type | Chance for Normal Damage | Purchase DC Modifier |
+|--------------------|--------------------------|----------------------|
+| Light              | 25%                      | +1                   |
+| Moderate           | 75%                      | +2                   |
+| Heavy              | 100%                     | +3                   |
 
 **Ghost Touch:** This armor or shield seems almost translucent. Both its
 enhancement bonus and its armor bonus count against the attacks of
@@ -290,38 +232,11 @@ normally take (similar to the *resist energy *spell).
 **Spell Resistance **(armor only): This enchantment grants the armor’s
 wearer spell resistance while the armor is worn.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Spell Resistance</h2></td>
-<td><h2>Purchase DC Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>15</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>19</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>23</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Spell Resistance | Purchase DC Modifier |
+|------------------|----------------------|
+| 15               | +1                   |
+| 19               | +2                   |
+| 23               | +3                   |
 
 **Sponsorship:** This suit of armor or a shield is emblazoned with
 corporate logos, emblems, and advertisements. The armor gains no special
@@ -975,66 +890,12 @@ into the backpack, it weighs a fixed amount. This weight, and the limits
 in weight and volume of the backpack’s contents, depend on the
 backpack’s type, as shown below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Pack Type</h2></td>
-<td><h2>Weight</h2></td>
-<td><p><strong>Weight Limit of Contents</strong></p></td>
-<td><p><strong>Volume Limit of Contents</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Light backpack</p></td>
-<td><p>2 lb.</p></td>
-<td><p>250 lb.</p></td>
-<td><p>30 cu. ft.</p></td>
-<td><p>34</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium backpack</p></td>
-<td><p>5 lb.</p></td>
-<td><p>500 lb.</p></td>
-<td><p>70 cu. ft.</p></td>
-<td><p>36</p></td>
-</tr>
-<tr class="odd">
-<td><p>Heavy backpack</p></td>
-<td><p>8 lb.</p></td>
-<td><p>1,000 lb.</p></td>
-<td><p>150 cu. ft.</p></td>
-<td><p>38</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Jumbo backpack</p></td>
-<td><p>20 lb.</p></td>
-<td><p>1,500 lb.</p></td>
-<td><p>250 cu. ft.</p></td>
-<td><p>41</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Pack Type       | Weight | Weight Limit of Contents | Volume Limit of Contents | Purchase DC |
+|-----------------|--------|--------------------------|--------------------------|-------------|
+| Light backpack  | 2 lb.  | 250 lb.                  | 30 cu. ft.               | 34          |
+| Medium backpack | 5 lb.  | 500 lb.                  | 70 cu. ft.               | 36          |
+| Heavy backpack  | 8 lb.  | 1,000 lb.                | 150 cu. ft.              | 38          |
+| Jumbo backpack  | 20 lb. | 1,500 lb.                | 250 cu. ft.              | 41          |
 
 If the backpack is overloaded, or if sharp objects pierce it (from
 inside or outside), the bag ruptures and is ruined. All contents are
@@ -1500,25 +1361,21 @@ item, as indicated below. A newly created *trench coat of useful items
 In addition, the trench coat has 2d6+4 other items, determined by
 rolling on the table below.
 
-|        |                                                                                             |
-|--------|---------------------------------------------------------------------------------------------|
-| **d%** | **Result**                                                                                  |
-|        |                                                                                             |
-| 01–08  | Bundle of cash (increase Wealth bonus by +2)                                                |
-| 09–15  | Loaded flare gun (with 3 extra rounds)                                                      |
-| 16–22  | Gas mask (with an extra filter canister)                                                    |
-| 23–30  | Night vision goggles                                                                        |
-| 31–44  | 24-foot-long metal ladder                                                                   |
-| 45–51  | Diamondback X-20 mountain bike                                                              |
-| 52–59  | Steel handcuffs                                                                             |
-| 60–68  | Portable generator (with full tank of gas)                                                  |
-| 69–75  | Fire exitinguisher                                                                          |
-| 76–83  | Small bag of jewels (increase Wealth bonus by +4)                                           |
-| 84–90  | Cell phone (connects to any cellular network and works for 8 hours before becoming useless) |
-| 91–96  | First aid kit                                                                               |
-|        |                                                                                             |
-| 97–00  | Roll twice more, ignoring results of 97–00                                                  |
-|        |                                                                                             |
+| d%    | Result                                                                                      |
+|-------|---------------------------------------------------------------------------------------------|
+| 01–08 | Bundle of cash (increase Wealth bonus by +2)                                                |
+| 09–15 | Loaded flare gun (with 3 extra rounds)                                                      |
+| 16–22 | Gas mask (with an extra filter canister)                                                    |
+| 23–30 | Night vision goggles                                                                        |
+| 31–44 | 24-foot-long metal ladder                                                                   |
+| 45–51 | Diamondback X-20 mountain bike                                                              |
+| 52–59 | Steel handcuffs                                                                             |
+| 60–68 | Portable generator (with full tank of gas)                                                  |
+| 69–75 | Fire exitinguisher                                                                          |
+| 76–83 | Small bag of jewels (increase Wealth bonus by +4)                                           |
+| 84–90 | Cell phone (connects to any cellular network and works for 8 hours before becoming useless) |
+| 91–96 | First aid kit                                                                               |
+| 97–00 | Roll twice more, ignoring results of 97–00                                                  |
 
 *Type: *Wondrous Item (magic); *Caster Level: *9th; *Purchase DC: *35;
 *Weight: *1 lb.
@@ -1631,45 +1488,12 @@ For the purposes of reward values, an artifact’s purchase DC is 30 + its
 FX modifier. The FX modifier depends on the item’s nature, as shown
 below:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Artifact Effects</h4></td>
-<td><h4>FX Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Each single-use effect</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Each continuous effect, permanent effect, or +3 enhancement
-bonus</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="odd">
-<td><p>Each effect with a limited number of uses per day, or each +2
-enhancement bonus</p></td>
-<td><p>+7</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Each effect with a limited number of charges, or each +1
-enhancement bonus</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Artifact Effects                                                                | FX Modifier |
+|---------------------------------------------------------------------------------|-------------|
+| Each single-use effect                                                          | —           |
+| Each continuous effect, permanent effect, or +3 enhancement bonus               | +10         |
+| Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7          |
+| Each effect with a limited number of charges, or each +1 enhancement bonus      | +5          |
 
 Sample Artifacts
 
@@ -2055,42 +1879,12 @@ A vehicular magic item’s purchase price is 20 + the item’s caster
 level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Item’s Nature</strong></p></td>
-<td><h2>FX Modifier</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Single-use item</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Continuous effect or bonus</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Limited number of uses per day</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Limited number of charges</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Item’s Nature                  | FX Modifier |
+|--------------------------------|-------------|
+| Single-use item                | —           |
+| Continuous effect or bonus     | +3          |
+| Limited number of uses per day | +2          |
+| Limited number of charges      | +1          |
 
 Limits for FX Items on Vehicles
 

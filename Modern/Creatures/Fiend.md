@@ -51,158 +51,24 @@ write these languages.
 
 **Advancement:** By character class.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Fiend Immunities, Resistances, and Damage
-Reduction</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Roll d%</strong></p></td>
-<td><p><strong>Immunity</strong></p></td>
-<td><h4>Roll d%</h4></td>
-<td><p><strong>Resistance</strong></p></td>
-<td><h4>Roll d%</h4></td>
-<td><p><strong>Damage Reduction</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>01–06</p></td>
-<td><p>Acid damage</p></td>
-<td><p>01–21</p></td>
-<td><p>None (do not roll again)</p></td>
-<td><p>01–33</p></td>
-<td><p>None (do not roll again)</p></td>
-</tr>
-<tr class="odd">
-<td><p>07–12</p></td>
-<td><p>Cold damage</p></td>
-<td><p>22–27</p></td>
-<td><p>Acid resistance 10</p></td>
-<td><p>34–45</p></td>
-<td><p>5/specific weapon type <strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>13–18</p></td>
-<td><p>Sonic/concussion damage</p></td>
-<td><p>28–30</p></td>
-<td><p>Acid resistance 20</p></td>
-<td><p>46–57</p></td>
-<td><p>10/specific weapon type<strong><sup> 1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>19–24</p></td>
-<td><p>Electricity damage</p></td>
-<td><p>31–36</p></td>
-<td><p>Cold resistance 10</p></td>
-<td><p>58–63</p></td>
-<td><p>20/specific weapon type<sup>
-</sup><strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>25–30</p></td>
-<td><p>Fire damage</p></td>
-<td><p>37–39</p></td>
-<td><p>Cold resistance 20</p></td>
-<td><p>64–72</p></td>
-<td><p>5/+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>31–36</p></td>
-<td><p>Ballistic damage</p></td>
-<td><p>40–45</p></td>
-<td><p>Sonic/concussion resistance 10</p></td>
-<td><p>73–81</p></td>
-<td><p>10/+1</p></td>
-</tr>
-<tr class="even">
-<td><p>37–42</p></td>
-<td><p>Bludgeoning damage</p></td>
-<td><p>46–48</p></td>
-<td><p>Sonic/concussion resistance 20</p></td>
-<td><p>82–84</p></td>
-<td><p>15/+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>43–48</p></td>
-<td><p>Piercing damage</p></td>
-<td><p>49–54</p></td>
-<td><p>Electricity resistance 10</p></td>
-<td><p>85–87</p></td>
-<td><p>20/+1</p></td>
-</tr>
-<tr class="even">
-<td><p>49–54</p></td>
-<td><p>Slashing damage</p></td>
-<td><p>55–57</p></td>
-<td><p>Electricity resistance 20</p></td>
-<td><p>88–90</p></td>
-<td><p>5/+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>55–60</p></td>
-<td><p>Poison damage</p></td>
-<td><p>58–63</p></td>
-<td><p>Fire resistance 10</p></td>
-<td><p>91–93</p></td>
-<td><p>10/+2</p></td>
-</tr>
-<tr class="even">
-<td><p>61–66</p></td>
-<td><p>Radiation damage</p></td>
-<td><p>64–66</p></td>
-<td><p>Fire resistance 20</p></td>
-<td><p>94–98</p></td>
-<td><p>15/+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>67–100</p></td>
-<td><p>Choose one, and roll again</p></td>
-<td><p>67–100</p></td>
-<td><p>Choose one, and roll again</p></td>
-<td><p>99–100</p></td>
-<td><p>20/+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 Includes weapons made of a specific material (silver or wood,
-for example) or weapons that deal a specific type of damage (ballistic,
-bludgeoning, piercing, or slashing).</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Fiend Immunities, Resistances, and Damage Reduction**
+
+| Roll d% | Immunity                   | Roll d% | Resistance                     | Roll d% | Damage Reduction                    |
+|---------|----------------------------|---------|--------------------------------|---------|-------------------------------------|
+| 01–06   | Acid damage                | 01–21   | None (do not roll again)       | 01–33   | None (do not roll again)            |
+| 07–12   | Cold damage                | 22–27   | Acid resistance 10             | 34–45   | 5/specific weapon type <sup>1</sup> |
+| 13–18   | Sonic/concussion damage    | 28–30   | Acid resistance 20             | 46–57   | 10/specific weapon type<sup>1</sup> |
+| 19–24   | Electricity damage         | 31–36   | Cold resistance 10             | 58–63   | 20/specific weapon type<sup>1</sup> |
+| 25–30   | Fire damage                | 37–39   | Cold resistance 20             | 64–72   | 5/+1                                |
+| 31–36   | Ballistic damage           | 40–45   | Sonic/concussion resistance 10 | 73–81   | 10/+1                               |
+| 37–42   | Bludgeoning damage         | 46–48   | Sonic/concussion resistance 20 | 82–84   | 15/+1                               |
+| 43–48   | Piercing damage            | 49–54   | Electricity resistance 10      | 85–87   | 20/+1                               |
+| 49–54   | Slashing damage            | 55–57   | Electricity resistance 20      | 88–90   | 5/+2                                |
+| 55–60   | Poison damage              | 58–63   | Fire resistance 10             | 91–93   | 10/+2                               |
+| 61–66   | Radiation damage           | 64–66   | Fire resistance 20             | 94–98   | 15/+2                               |
+| 67–100  | Choose one, and roll again | 67–100  | Choose one, and roll again     | 99–100  | 20/+2                               |
+
+1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
 
 ### Festergog (Vomit Fiend)
 

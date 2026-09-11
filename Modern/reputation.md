@@ -50,40 +50,11 @@ recognizes the hero. This provides a +4 bonus or a –4 penalty on checks
 involving the following skills for the duration of the encounter: Bluff,
 Diplomacy, Gather Information, Intimidate, and Perform.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Situation</h3></td>
-<td><h3>Reputation Check Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>The hero is famous, known far and wide with either a positive or
-negative connotation</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="even">
-<td><p>GM character is part of the hero’s professional or social
-circle</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>The hero has some small amount of fame or notoriety</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Situation                                                                             | Reputation Check Modifier |
+|---------------------------------------------------------------------------------------|---------------------------|
+| The hero is famous, known far and wide with either a positive or negative connotation | +10                       |
+| GM character is part of the hero’s professional or social circle                      | +5                        |
+| The hero has some small amount of fame or notoriety                                   | +2                        |
 
 The GM must decide that a character’s fame or infamy can come into play
 in a given situation to make a Reputation check necessary. A character

@@ -39,170 +39,20 @@ Tumble (Dex).
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Table: The Shadow Slayer</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Class Level</h2></td>
-<td><h2>Base Attack Bonus</h2></td>
-<td><h2>Fort Save</h2></td>
-<td><h2>Ref Save</h2></td>
-<td><h2>Will Save</h2></td>
-<td><h2>Special</h2></td>
-<td><h2>Defense Bonus</h2></td>
-<td><h2>Reputation Bonus</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>1st</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>Detect Shadow</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>+0</h2></td>
-</tr>
-<tr class="even">
-<td><h2>2nd</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>Shadow immunity</h2></td>
-<td><h2>+1</h2></td>
-<td><h2>+0</h2></td>
-</tr>
-<tr class="odd">
-<td><h2>3rd</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>Bonus feat</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+0</h2></td>
-</tr>
-<tr class="even">
-<td><h2>4th</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>Slayer weapon</h2></td>
-<td><h2>+2</h2></td>
-<td><h2>+0</h2></td>
-</tr>
-<tr class="odd">
-<td><h2>5th</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>Shadow enemy</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+1</h2></td>
-</tr>
-<tr class="even">
-<td><h2>6th</h2></td>
-<td><h2>+6</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>Bonus feat</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+1</h2></td>
-</tr>
-<tr class="odd">
-<td><h2>7th</h2></td>
-<td><h2>+7</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>Shadow enemy</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+1</h2></td>
-</tr>
-<tr class="even">
-<td><h2>8th</h2></td>
-<td><h2>+8</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>Fast healing</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+1</h2></td>
-</tr>
-<tr class="odd">
-<td><h2>9th</h2></td>
-<td><h2>+9</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>+4</h2></td>
-<td><h2>Bonus feat</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+2</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>10th</h2></td>
-<td><h2>+10</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>Word of slaying</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+2</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Shadow Slayer**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
+| 1st         | +1                | +1        | +1       | +1        | Detect Shadow   | +1            | +0               |
+| 2nd         | +2                | +2        | +2       | +2        | Shadow immunity | +1            | +0               |
+| 3rd         | +3                | +2        | +2       | +2        | Bonus feat      | +2            | +0               |
+| 4th         | +4                | +2        | +2       | +2        | Slayer weapon   | +2            | +0               |
+| 5th         | +5                | +3        | +3       | +3        | Shadow enemy    | +3            | +1               |
+| 6th         | +6                | +3        | +3       | +3        | Bonus feat      | +3            | +1               |
+| 7th         | +7                | +4        | +4       | +4        | Shadow enemy    | +4            | +1               |
+| 8th         | +8                | +4        | +4       | +4        | Fast healing    | +4            | +1               |
+| 9th         | +9                | +4        | +4       | +4        | Bonus feat      | +5            | +2               |
+| 10th        | +10               | +5        | +5       | +5        | Word of slaying | +5            | +2               |
 
 ## Class Features
 
@@ -241,75 +91,17 @@ the supernatural dimension. The power of a Shadow aura depends on the
 type of creature or object emitting the aura and its Hit Dice or caster
 level.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3><sup>Creature/Object</sup></h3></td>
-<td><h3><sup>Rating</sup></h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Outsider</p></td>
-<td><p>HD</p></td>
-</tr>
-<tr class="even">
-<td><p>Magic item or spell</p></td>
-<td><p>Caster level x 1/2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Aberration, construct, dragon, elemental, undead
-creature</p></td>
-<td><p>HD x 1/2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>All other denizens of Shadow</p></td>
-<td><p>HD x 1/5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Rating</sup></strong></p></td>
-<td><p><strong><sup>Aura Power</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 or lower</p></td>
-<td><p>Faint</p></td>
-</tr>
-<tr class="even">
-<td><p>2–4</p></td>
-<td><p>Moderate</p></td>
-</tr>
-<tr class="odd">
-<td><p>5–10</p></td>
-<td><p>Strong</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>11 or higher</p></td>
-<td><p>Overwhelming</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Creature/Object</sup>                                | <sup>Rating</sup>     |
+|-----------------------------------------------------------|-----------------------|
+| Outsider                                                  | HD                    |
+| Magic item or spell                                       | Caster level x 1/2    |
+| Aberration, construct, dragon, elemental, undead creature | HD x 1/2              |
+| All other denizens of Shadow                              | HD x 1/5              |
+| <sup>Rating</sup>                                         | <sup>Aura Power</sup> |
+| 1 or lower                                                | Faint                 |
+| 2–4                                                       | Moderate              |
+| 5–10                                                      | Strong                |
+| 11 or higher                                              | Overwhelming          |
 
 If an aura falls into more than one strength category (for instance, if
 a creature and a magic item are in the same place and each emits an
@@ -319,16 +111,12 @@ aura), the ability indicates the stronger of the two.
 creature or object has vacated the location depends on the aura’s
 original strength.
 
-|                                    |                         |
-|------------------------------------|-------------------------|
-| **<sup>Original Aura Power</sup>** | **<sup>Duration</sup>** |
-|                                    |                         |
-| Faint                              | 1d6 minutes             |
-| Moderate                           | 1d6 x 10 minutes        |
-| Strong                             | 1d6 hours               |
-|                                    |                         |
-| Overwhelming                       | 1d6 days                |
-|                                    |                         |
+| <sup>Original Aura Power</sup> | <sup>Duration</sup> |
+|--------------------------------|---------------------|
+| Faint                          | 1d6 minutes         |
+| Moderate                       | 1d6 x 10 minutes    |
+| Strong                         | 1d6 hours           |
+| Overwhelming                   | 1d6 days            |
 
 Each round, a Shadow Slayer can turn to detect the presence of Shadow in
 a new area. The ability can penetrate barriers, but 1 foot of stone, 1
@@ -380,58 +168,22 @@ when using these skills against creatures of this type. He also gets a
 At each level after 5th, the Shadow Slayer may add +1 to the value of
 the bonus against each of his favored enemy types.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3><sup>Shadow Enemy Type</sup></h3></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aberration</p></td>
-</tr>
-<tr class="even">
-<td><p>Construct</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dragon</p></td>
-</tr>
-<tr class="even">
-<td><p>Elemental</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fey</p></td>
-</tr>
-<tr class="even">
-<td><p>Giant</p></td>
-</tr>
-<tr class="odd">
-<td><p>Humanoid</p></td>
-</tr>
-<tr class="even">
-<td><p>Lycanthrope</p></td>
-</tr>
-<tr class="odd">
-<td><p>Magical beast</p></td>
-</tr>
-<tr class="even">
-<td><p>Monstrous humanoid</p></td>
-</tr>
-<tr class="odd">
-<td><p>Outsider</p></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Undead</p></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table>
+**<sup>Shadow Enemy Type</sup>**
+
+| Aberration |
+|------------|
+
+Construct
+Dragon
+Elemental
+Fey
+Giant
+Humanoid
+Lycanthrope
+Magical beast
+Monstrous humanoid
+Outsider
+Undead
 
 ## Fast Healing
 
@@ -448,16 +200,12 @@ word of power that can devastate creatures of Shadow. The word of
 slaying affects any denizens of Shadow within 15 feet of the Slayer. The
 ill effects depend on the Hit Dice of the creatures, as shown below.
 
-|                   |                       |
-|-------------------|-----------------------|
-| **<sup>HD</sup>** | **<sup>Effect</sup>** |
-|                   |                       |
-| 12 or more        | Dazed                 |
-| 8–11              | Stunned               |
-| 4–7               | Paralyzed             |
-|                   |                       |
-| 3 or less         | Killed                |
-|                   |                       |
+| <sup>HD</sup> | <sup>Effect</sup> |
+|---------------|-------------------|
+| 12 or more    | Dazed             |
+| 8–11          | Stunned           |
+| 4–7           | Paralyzed         |
+| 3 or less     | Killed            |
 
 A dazed creature can’t act for 1d4 rounds. A stunned creature is stunned
 for 2d4 rounds. A paralyzed creature can’t move or act for 1d10 minutes.
@@ -506,170 +254,20 @@ Speak Language (none), Use Magic Device (Cha).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Occultist</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>Arcane skills, spell resistance</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Arcane research (scrolls)</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Shadow contact</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Bind Shadow creature</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Arcane research (items)</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Bind Shadow creature</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>Banish</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Occultist**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +0       | +1        | Arcane skills, spell resistance | +0            | +0               |
+| 2nd         | +1                | +0        | +0       | +2        | Arcane research (scrolls)       | +1            | +0               |
+| 3rd         | +1                | +1        | +1       | +2        | Bonus feat                      | +1            | +1               |
+| 4th         | +2                | +1        | +1       | +2        | Shadow contact                  | +1            | +1               |
+| 5th         | +2                | +1        | +1       | +3        | Bind Shadow creature            | +2            | +1               |
+| 6th         | +3                | +2        | +2       | +3        | Bonus feat                      | +2            | +2               |
+| 7th         | +3                | +2        | +2       | +4        | Arcane research (items)         | +2            | +2               |
+| 8th         | +4                | +2        | +2       | +4        | Bind Shadow creature            | +3            | +2               |
+| 9th         | +4                | +3        | +3       | +4        | Bonus feat                      | +3            | +3               |
+| 10th        | +5                | +3        | +3       | +5        | Banish                          | +3            | +3               |
 
 ### Class Features
 
@@ -724,19 +322,15 @@ You make Use Magic Device checks each time you activate a device such as
 a scroll or a wand. If you are using the check to emulate some quality
 in an ongoing manner, you need to make the checks once per hour.
 
-|                          |                   |
+| <sup>Task</sup>          | <sup>DC</sup>     |
 |--------------------------|-------------------|
-| **<sup>Task</sup>**      | **<sup>DC</sup>** |
-|                          |                   |
 | Activate blindly         | 25                |
 | Decipher a written spell | 25 + spell level  |
 | Emulate class feature    | 20                |
 | Emulate ability score    | See text          |
 | Emulate allegiance       | 30                |
 | Use a scroll             | 20 + caster level |
-|                          |                   |
 | Use a wand               | 20                |
-|                          |                   |
 
 **Activate Blindly:** Some magic items are activated by special words,
 thoughts, or actions. You can activate such items as if you were using
@@ -831,21 +425,17 @@ spell level the Occultist receives upon gaining a new level, and how
 many of these can be researched at each level. A failed Research check
 indicates that the Occultist instead discovers all random spells.
 
-|                      |                  |                  |                  |                  |                         |
-|----------------------|------------------|------------------|------------------|------------------|-------------------------|
-| **<sup>Level</sup>** | **<sup>1</sup>** | **<sup>2</sup>** | **<sup>3</sup>** | **<sup>4</sup>** | **<sup>Research</sup>** |
-|                      |                  |                  |                  |                  |                         |
-| 2nd                  | 3                | —                | —                | —                | 1 (DC 20)               |
-| 3rd                  | 4                | —                | —                | —                | 2 (DC 23)               |
-| 4th                  | 5                | 2                | —                | —                | 3 (DC 25)               |
-| 5th                  | 5                | 3                | —                | —                | 4 (DC 28)               |
-| 6th                  | 5                | 4                | —                | —                | 5 (DC 30)               |
-| 7th                  | 6                | 5                | 2                | —                | 6 (DC 33)               |
-| 8th                  | 6                | 5                | 3                | —                | 7 (DC 35)               |
-| 9th                  | 6                | 5                | 4                | —                | 8 (DC 38)               |
-|                      |                  |                  |                  |                  |                         |
-| 10th                 | 7                | 6                | 5                | 2                | 9 (DC 40)               |
-|                      |                  |                  |                  |                  |                         |
+| <sup>Level</sup> | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> | <sup>Research</sup> |
+|------------------|--------------|--------------|--------------|--------------|---------------------|
+| 2nd              | 3            | —            | —            | —            | 1 (DC 20)           |
+| 3rd              | 4            | —            | —            | —            | 2 (DC 23)           |
+| 4th              | 5            | 2            | —            | —            | 3 (DC 25)           |
+| 5th              | 5            | 3            | —            | —            | 4 (DC 28)           |
+| 6th              | 5            | 4            | —            | —            | 5 (DC 30)           |
+| 7th              | 6            | 5            | 2            | —            | 6 (DC 33)           |
+| 8th              | 6            | 5            | 3            | —            | 7 (DC 35)           |
+| 9th              | 6            | 5            | 4            | —            | 8 (DC 38)           |
+| 10th             | 7            | 6            | 5            | 2            | 9 (DC 40)           |
 
 So, at 2nd level, the Occultist gains three 1st-level arcane spell
 scrolls. One of these spells can be selected by the Occultist if she
@@ -975,24 +565,20 @@ Speak Language (none).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                         |                       |               |              |               |                                      |                   |                      |
-|-------------------------|-----------------------|---------------|--------------|---------------|--------------------------------------|-------------------|----------------------|
-| **Table: The Telepath** |                       |               |              |               |                                      |                   |                      |
-|                         |                       |               |              |               |                                      |                   |                      |
-| **Class Level**         | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                          | **Defense Bonus** | **Reputation Bonus** |
-|                         |                       |               |              |               |                                      |                   |                      |
-| 1st                     | +0                    | +0            | +0           | +2            | Psionic skills, psionic powers       | +0                | +1                   |
-| 2nd                     | +1                    | +0            | +0           | +3            | Trigger power, psionic powers        | +1                | +1                   |
-| 3rd                     | +1                    | +1            | +1           | +3            | Bonus feat, psionic powers           | +1                | +1                   |
-| 4th                     | +2                    | +1            | +1           | +4            | Power crystal, psionic powers        | +1                | +2                   |
-| 5th                     | +2                    | +1            | +1           | +4            | Trigger power, psionic powers        | +2                | +2                   |
-| 6th                     | +3                    | +2            | +2           | +5            | Bonus feat, psionic powers           | +2                | +2                   |
-| 7th                     | +3                    | +2            | +2           | +5            | Combat manifestation, psionic powers | +2                | +3                   |
-| 8th                     | +4                    | +2            | +2           | +6            | Trigger power, psionic powers        | +3                | +3                   |
-| 9th                     | +4                    | +3            | +3           | +6            | Bonus feat, psionic powers           | +3                | +3                   |
-|                         |                       |               |              |               |                                      |                   |                      |
-| 10th                    | +5                    | +3            | +3           | +7            | Maximize power, psionic powers       | +3                | +4                   |
-|                         |                       |               |              |               |                                      |                   |                      |
+**Table: The Telepath**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +0       | +2        | Psionic skills, psionic powers       | +0            | +1               |
+| 2nd         | +1                | +0        | +0       | +3        | Trigger power, psionic powers        | +1            | +1               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat, psionic powers           | +1            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Power crystal, psionic powers        | +1            | +2               |
+| 5th         | +2                | +1        | +1       | +4        | Trigger power, psionic powers        | +2            | +2               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat, psionic powers           | +2            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Combat manifestation, psionic powers | +2            | +3               |
+| 8th         | +4                | +2        | +2       | +6        | Trigger power, psionic powers        | +3            | +3               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat, psionic powers           | +3            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Maximize power, psionic powers       | +3            | +4               |
 
 ### Class Features
 
@@ -1010,42 +596,12 @@ benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3><sup>Task</sup></h3></td>
-<td><h3><sup>DC</sup></h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Resist fear</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>Memorize</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tolerate poison</p></td>
-<td><p>Poison’s DC</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Willpower</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Task</sup> | <sup>DC</sup> |
+|-----------------|---------------|
+| Resist fear     | 15            |
+| Memorize        | 15            |
+| Tolerate poison | Poison’s DC   |
+| Willpower       | 20            |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -1110,16 +666,12 @@ powers as they manifest or psionic effects already in place.
 
 **Check:** You can identify psionic powers and effects.
 
-|                   |                                                                                                                                                     |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **<sup>DC</sup>** | **<sup>Task</sup>**                                                                                                                                 |
-|                   |                                                                                                                                                     |
-| 15 + power level  | Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. |
-| 20 + power level  | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again.          |
-| 20 + power level  | Identify materials created or shaped by psionics. You can’t try again.                                                                              |
-|                   |                                                                                                                                                     |
-| 30 or higher      | Understand a strange or unique psionic effect. You can’t try again.                                                                                 |
-|                   |                                                                                                                                                     |
+| <sup>DC</sup>    | <sup>Task</sup>                                                                                                                                     |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15 + power level | Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. |
+| 20 + power level | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again.          |
+| 20 + power level | Identify materials created or shaped by psionics. You can’t try again.                                                                              |
+| 30 or higher     | Understand a strange or unique psionic effect. You can’t try again.                                                                                 |
 
 **Try Again?:** See above.
 
@@ -1149,171 +701,19 @@ indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Telepath’s key ability modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Telepath Level</sup></strong></p></td>
-<td></td>
-<td><p><strong><sup>—</sup><sup>—</sup><sup> Powers Discovered by Level
-</sup><sup>—</sup><sup>—</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><h5><sup>Pts/Day</sup></h5></td>
-<td><p><strong><sup>0</sup></strong></p></td>
-<td><p><strong><sup>1</sup></strong></p></td>
-<td><p><strong><sup>2</sup></strong></p></td>
-<td><p><strong><sup>3</sup></strong></p></td>
-<td><p><strong><sup>4</sup></strong></p></td>
-<td><p><strong><sup>5</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>7</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>10</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>15</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>20</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>27</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>34</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>43</p></td>
-<td><p>6</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Telepath Level</sup> |                    | <sup>—</sup><sup>—</sup><sup>Powers Discovered by Level</sup><sup>—</sup><sup>—</sup> |              |              |              |              |              |
+|---------------------------|--------------------|---------------------------------------------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
+|                           | <sup>Pts/Day</sup> | <sup>0</sup>                                                                          | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> | <sup>5</sup> |
+| 1st                       | 2                  | 3                                                                                     | 1            | —            | —            | —            | —            |
+| 2nd                       | 3                  | 3                                                                                     | 2            | —            | —            | —            | —            |
+| 3rd                       | 4                  | 3                                                                                     | 3            | —            | —            | —            | —            |
+| 4th                       | 7                  | 4                                                                                     | 3            | 1            | —            | —            | —            |
+| 5th                       | 10                 | 4                                                                                     | 3            | 2            | —            | —            | —            |
+| 6th                       | 15                 | 4                                                                                     | 3            | 2            | 1            | —            | —            |
+| 7th                       | 20                 | 5                                                                                     | 4            | 3            | 2            | —            | —            |
+| 8th                       | 27                 | 5                                                                                     | 4            | 3            | 2            | 1            | —            |
+| 9th                       | 34                 | 5                                                                                     | 4            | 3            | 3            | 2            | —            |
+| 10th                      | 43                 | 6                                                                                     | 4            | 3            | 3            | 2            | 1            |
 
 A Telepath can manifest a certain number of powers per day based on his
 available power points. (0-level powers have a special cost; see FX
@@ -1323,50 +723,14 @@ is shown on the table above. This number is improved by bonus points
 determined by the Telepath’s Charisma score, as shown on the table
 below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3><sup>Cha Score</sup></h3></td>
-<td><h3><sup>Bonus Power Points per Day</sup></h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>12–13</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>14–15</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>16–17</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>18–19</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–21</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>22–23</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Cha Score</sup> | <sup>Bonus Power Points per Day</sup> |
+|----------------------|---------------------------------------|
+| 12–13                | 1                                     |
+| 14–15                | 3                                     |
+| 16–17                | 5                                     |
+| 18–19                | 7                                     |
+| 20–21                | 9                                     |
+| 22–23                | 11                                    |
 
 ### Trigger Power
 
@@ -1469,170 +833,20 @@ Speak Language (none), Spot (Wis), Swim (Str).
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Battle Mind</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Psionic skills, psionic powers</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Psi-blade, imprint tattoo, psionic powers</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Psychic shield, psionic powers</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Combat manifestation, psionic powers</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Improved psi-blade, psionic powers</p></td>
-<td><p>+5</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Improved psychic shield, psionic powers</p></td>
-<td><p>+6</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat, psionic powers</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Ultimate psi-blade, psionic powers</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Battle Mind**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +0        | Psionic skills, psionic powers            | +1            | +0               |
+| 2nd         | +1                | +3        | +0       | +0        | Psi-blade, imprint tattoo, psionic powers | +2            | +0               |
+| 3rd         | +2                | +3        | +1       | +1        | Bonus feat, psionic powers                | +2            | +0               |
+| 4th         | +3                | +4        | +1       | +1        | Psychic shield, psionic powers            | +3            | +0               |
+| 5th         | +3                | +4        | +1       | +1        | Combat manifestation, psionic powers      | +4            | +1               |
+| 6th         | +4                | +5        | +2       | +2        | Bonus feat, psionic powers                | +4            | +1               |
+| 7th         | +5                | +5        | +2       | +2        | Improved psi-blade, psionic powers        | +5            | +1               |
+| 8th         | +6                | +6        | +2       | +2        | Improved psychic shield, psionic powers   | +6            | +1               |
+| 9th         | +6                | +6        | +3       | +3        | Bonus feat, psionic powers                | +6            | +2               |
+| 10th        | +7                | +7        | +3       | +3        | Ultimate psi-blade, psionic powers        | +7            | +2               |
 
 ### Class Features
 
@@ -1650,16 +864,12 @@ benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-|                     |                   |
-|---------------------|-------------------|
-| **<sup>Task</sup>** | **<sup>DC</sup>** |
-|                     |                   |
-| Resist fear         | 15                |
-| Memorize            | 15                |
-| Tolerate poison     | Poison’s DC       |
-|                     |                   |
-| Willpower           | 20                |
-|                     |                   |
+| <sup>Task</sup> | <sup>DC</sup> |
+|-----------------|---------------|
+| Resist fear     | 15            |
+| Memorize        | 15            |
+| Tolerate poison | Poison’s DC   |
+| Willpower       | 20            |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -1743,154 +953,19 @@ latent powers, as indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Battle Mind’s key ability modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Battle Mind Level</sup></strong></p></td>
-<td></td>
-<td><h5><sup>Powers Discovered by Level</sup></h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><sup>Pts/Day</sup></strong></p></td>
-<td><p><strong><sup>0</sup></strong></p></td>
-<td><p><strong><sup>1</sup></strong></p></td>
-<td><p><strong><sup>2</sup></strong></p></td>
-<td><p><strong><sup>3</sup></strong></p></td>
-<td><p><strong><sup>4</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>5</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>8</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>11</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>16</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>21</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>26</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>33</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Battle Mind Level</sup> |                    | <sup>Powers Discovered by Level</sup> |              |              |              |              |
+|------------------------------|--------------------|---------------------------------------|--------------|--------------|--------------|--------------|
+|                              | <sup>Pts/Day</sup> | <sup>0</sup>                          | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> |
+| 1st                          | 2                  | 2                                     | —            | —            | —            | —            |
+| 2nd                          | 3                  | 3                                     | —            | —            | —            | —            |
+| 3rd                          | 4                  | 3                                     | 1            | —            | —            | —            |
+| 4th                          | 5                  | 3                                     | 2            | —            | —            | —            |
+| 5th                          | 8                  | 3                                     | 3            | 1            | —            | —            |
+| 6th                          | 11                 | 3                                     | 3            | 2            | —            | —            |
+| 7th                          | 16                 | 3                                     | 3            | 2            | 1            | —            |
+| 8th                          | 21                 | 3                                     | 3            | 3            | 1            | —            |
+| 9th                          | 26                 | 3                                     | 3            | 3            | 2            | —            |
+| 10th                         | 33                 | 3                                     | 3            | 3            | 2            | 1            |
 
 A Battle Mind can manifest a certain number of powers per day based on
 her available power points. She just pays the power point cost of a
@@ -2017,170 +1092,20 @@ culture, technology) (Int), Profession (Wis), Read/Write Language
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Mage</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Class Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><h3>Special</h3></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Arcane skills, arcane spells, summon familiar</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Scribe scroll, arcane spells</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat, arcane spells, brew potion</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Scribe tattoo, arcane spells</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Spell mastery, arcane spells</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Bonus feat, arcane spells</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>Combat casting, arcane spells</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>Spell mastery, arcane spells</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>Bonus feat, arcane spells</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>Maximize spell, arcane spells</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Mage**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                       | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-----------------------------------------------|---------------|------------------|
+| 1st         | +0                | +0        | +0       | +2        | Arcane skills, arcane spells, summon familiar | +1            | +1               |
+| 2nd         | +1                | +0        | +0       | +3        | Scribe scroll, arcane spells                  | +1            | +1               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat, arcane spells, brew potion        | +2            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Scribe tattoo, arcane spells                  | +2            | +2               |
+| 5th         | +2                | +1        | +1       | +4        | Spell mastery, arcane spells                  | +3            | +2               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat, arcane spells                     | +3            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Combat casting, arcane spells                 | +4            | +3               |
+| 8th         | +4                | +2        | +2       | +6        | Spell mastery, arcane spells                  | +4            | +3               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat, arcane spells                     | +5            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Maximize spell, arcane spells                 | +5            | +4               |
 
 ### Class Features
 
@@ -2234,10 +1159,8 @@ description.
 **Time:** Unless otherwise indicated, using the Spellcraft skill is a
 move action.
 
-|                  |                                                                                                                                                                                                          |
+| DC               | Task                                                                                                                                                                                                     |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **DC**           | **Task**                                                                                                                                                                                                 |
-|                  |                                                                                                                                                                                                          |
 | 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.                                                                                       |
 | 15 + spell level | Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft.                                                                               |
 | 15 + spell level | Prepare a spell from a borrowed spellbook. One try per day.                                                                                                                                              |
@@ -2247,9 +1170,7 @@ move action.
 | 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                   |
 | 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.                                                                                |
 | 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                  |
-|                  |                                                                                                                                                                                                          |
 | 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                      |
-|                  |                                                                                                                                                                                                          |
 
 ### Arcane Spells
 
@@ -2259,262 +1180,27 @@ according to his Mage class level. In addition, the Mage receives bonus
 spells based on his Intelligence score. Determine the Mage’s total
 number of spells per day by consulting the two tables below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Mage Level</h3></td>
-<td><p><strong>———— Spells per Day by Spell Level ————</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><strong>5</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>4</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>4</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Int Score</strong></p></td>
-<td><p><strong>———— Bonus Spells by Spell Level ————</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><strong>5</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>12–13</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>14–15</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>16–17</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>18–19</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–21</p></td>
-<td><p>—</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>22–23</p></td>
-<td><p>—</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Mage Level    | ———— Spells per Day by Spell Level ————   |       |       |       |       |       |
+|---------------|-------------------------------------------|-------|-------|-------|-------|-------|
+|               | **0**                                     | **1** | **2** | **3** | **4** | **5** |
+| 1st           | 3                                         | 1     | —     | —     | —     | —     |
+| 2nd           | 4                                         | 2     | —     | —     | —     | —     |
+| 3rd           | 4                                         | 2     | 1     | —     | —     | —     |
+| 4th           | 4                                         | 3     | 2     | —     | —     | —     |
+| 5th           | 4                                         | 3     | 2     | 1     | —     | —     |
+| 6th           | 4                                         | 3     | 3     | 2     | —     | —     |
+| 7th           | 4                                         | 4     | 3     | 2     | 1     | —     |
+| 8th           | 4                                         | 4     | 3     | 3     | 2     | —     |
+| 9th           | 4                                         | 4     | 4     | 3     | 2     | 1     |
+| 10th          | 4                                         | 4     | 4     | 3     | 3     | 2     |
+| **Int Score** | **———— Bonus Spells by Spell Level ————** |       |       |       |       |       |
+|               | **0**                                     | **1** | **2** | **3** | **4** | **5** |
+| 12–13         | —                                         | 1     | —     | —     | —     | —     |
+| 14–15         | —                                         | 1     | 1     | —     | —     | —     |
+| 16–17         | —                                         | 1     | 1     | 1     | —     | —     |
+| 18–19         | —                                         | 1     | 1     | 1     | 1     | —     |
+| 20–21         | —                                         | 2     | 1     | 1     | 1     | 1     |
+| 22–23         | —                                         | 2     | 2     | 1     | 1     | 1     |
 
 The Mage must prepare spells ahead of time by resting for 8 hours and
 spending 1 hour studying his spellbook. While studying, the Mage decides
@@ -2537,15 +1223,11 @@ spell with a somatic component, the chance of arcane spell failure
 depends on the type of armor being worn and whether the Mage has the
 appropriate Armor Proficiency feat, as shown below.
 
-|                |                                       |                                          |
-|----------------|---------------------------------------|------------------------------------------|
-| **Armor Type** | **Arcane Spell Failure (Proficient)** | **Arcane Spell Failure (Nonproficient)** |
-|                |                                       |                                          |
-| Light          | 10%                                   | 20%                                      |
-| Medium         | 20%                                   | 30%                                      |
-|                |                                       |                                          |
-| Heavy          | 30%                                   | 40%                                      |
-|                |                                       |                                          |
+| Armor Type | Arcane Spell Failure (Proficient) | Arcane Spell Failure (Nonproficient) |
+|------------|-----------------------------------|--------------------------------------|
+| Light      | 10%                               | 20%                                  |
+| Medium     | 20%                               | 30%                                  |
+| Heavy      | 30%                               | 40%                                  |
 
 ### Spellbooks
 
@@ -2670,10 +1352,8 @@ limited by the Intelligence of the conversing creatures.
 *Spell Resistance (Ex): *The familiar of a Mage of 9th level or higher
 gains spell resistance equal to the Mage’s level + 5.
 
-|                    |                                                        |
+| Familiar           | Special Benefit                                        |
 |--------------------|--------------------------------------------------------|
-| **Familiar**       | **Special Benefit**                                    |
-|                    |                                                        |
 | Bat                | Mage gains +3 bonus on Listen checks                   |
 | Cat                | Mage gains +3 bonus on Move Silently checks            |
 | Ferret             | Mage gains +2 bonus on Reflex saves                    |
@@ -2681,9 +1361,7 @@ gains spell resistance equal to the Mage’s level + 5.
 | Owl                | Mage gains +3 bonus on Spot checks in dusk or darkness |
 | Rat                | Mage gains +2 bonus on Fortitude saves                 |
 | Snake (Tiny viper) | Mage gains +3 bonus on Bluff checks                    |
-|                    |                                                        |
 | Toad               | Mage gains +3 hit points                               |
-|                    |                                                        |
 
 **Scribe Scroll**
 
@@ -2856,23 +1534,20 @@ Spellcraft (Int), Treat Injury (Wis).
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-|                        |                       |               |              |               |                                             |                   |                      |
-|------------------------|-----------------------|---------------|--------------|---------------|---------------------------------------------|-------------------|----------------------|
-| **Table: The Acolyte** |                       |               |              |               |                                             |                   |                      |
-|                        |                       |               |              |               |                                             |                   |                      |
-| **Class Level**        | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                                 | **Defense Bonus** | **Reputation Bonus** |
-| 1st                    | +0                    | +2            | +0           | +2            | Divine skills, divine spells                | +1                | +2                   |
-| 2nd                    | +1                    | +3            | +0           | +3            | Turn or rebuke undead, divine spells        | +1                | +2                   |
-| 3rd                    | +2                    | +3            | +1           | +3            | Bonus feat, divine spells                   | +2                | +2                   |
-| 4th                    | +3                    | +4            | +1           | +4            | Spontaneous cast, divine spells             | +2                | +3                   |
-| 5th                    | +3                    | +4            | +1           | +4            | Combat casting, divine spells               | +3                | +3                   |
-| 6th                    | +4                    | +5            | +2           | +5            | Bonus feat, divine spells                   | +3                | +3                   |
-| 7th                    | +5                    | +5            | +2           | +5            | Turn or rebuke magical beast, divine spells | +4                | +4                   |
-| 8th                    | +6                    | +6            | +2           | +6            | Turn or rebuke outsider, divine spells      | +4                | +4                   |
-| 9th                    | +6                    | +6            | +3           | +6            | Bonus feat, divine spells                   | +5                | +4                   |
-|                        |                       |               |              |               |                                             |                   |                      |
-| 10th                   | +7                    | +7            | +3           | +7            | Maximize spell, divine spells               | +5                | +5                   |
-|                        |                       |               |              |               |                                             |                   |                      |
+**Table: The Acolyte**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +2        | Divine skills, divine spells                | +1            | +2               |
+| 2nd         | +1                | +3        | +0       | +3        | Turn or rebuke undead, divine spells        | +1            | +2               |
+| 3rd         | +2                | +3        | +1       | +3        | Bonus feat, divine spells                   | +2            | +2               |
+| 4th         | +3                | +4        | +1       | +4        | Spontaneous cast, divine spells             | +2            | +3               |
+| 5th         | +3                | +4        | +1       | +4        | Combat casting, divine spells               | +3            | +3               |
+| 6th         | +4                | +5        | +2       | +5        | Bonus feat, divine spells                   | +3            | +3               |
+| 7th         | +5                | +5        | +2       | +5        | Turn or rebuke magical beast, divine spells | +4            | +4               |
+| 8th         | +6                | +6        | +2       | +6        | Turn or rebuke outsider, divine spells      | +4            | +4               |
+| 9th         | +6                | +6        | +3       | +6        | Bonus feat, divine spells                   | +5            | +4               |
+| 10th        | +7                | +7        | +3       | +7        | Maximize spell, divine spells               | +5            | +5               |
 
 ### Class Features
 
@@ -2922,69 +1597,16 @@ description.
 
 Time: Unless otherwise indicated, Spellcraft is a move action.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>DC</h3></td>
-<td><h3>Task</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>15 + spell level</p></td>
-<td><p>Identify a spell being cast. (You must see or hear the spell’s
-verbal or somatic components.) You can’t try again.</p></td>
-</tr>
-<tr class="even">
-<td><p>15 + spell level</p></td>
-<td><p>When casting detect magical aura, determine the school of magic
-involved in the aura of a single item or creature you can see. (If the
-aura isn’t a spell effect, the DC is 15 + one-half caster
-level.)</p></td>
-</tr>
-<tr class="odd">
-<td><p>20 + spell level</p></td>
-<td><p>Identify a spell that’s already in place and in effect. (You must
-be able to see or detect the effects of the spell.) You can’t try
-again.</p></td>
-</tr>
-<tr class="even">
-<td><p>20 + spell level</p></td>
-<td><p>Identify materials created or shaped by magic, such as noting
-that an iron wall is the result of a wall of iron spell. You can’t try
-again.</p></td>
-</tr>
-<tr class="odd">
-<td><p>20 + spell level</p></td>
-<td><p>Decipher a written spell (such as a scroll) without using read
-magic. One try per day.</p></td>
-</tr>
-<tr class="even">
-<td><p>25 + spell level</p></td>
-<td><p>After rolling a saving throw against a spell targeted at you,
-determine what spell was cast upon you. This is a reaction.</p></td>
-</tr>
-<tr class="odd">
-<td><p>25</p></td>
-<td><p>Identify a potion. This takes 1 minute.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>30 or higher</p></td>
-<td><p>Understand a strange or unique magical effect. You can’t try
-again.</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| DC               | Task                                                                                                                                                                                                     |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.                                                                                       |
+| 15 + spell level | When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) |
+| 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.                                                               |
+| 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.                                                              |
+| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                   |
+| 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.                                                                                |
+| 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                  |
+| 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                      |
 
 ### Divine Spells
 
@@ -2997,36 +1619,27 @@ per day, according to her Acolyte class level. In addition, the Acolyte
 receives bonus spells based on her Wisdom score. Determine the Acolyte’s
 total number of spells per day by consulting the two tables below.
 
-|                   |                                             |       |       |       |       |       |
-|-------------------|---------------------------------------------|-------|-------|-------|-------|-------|
-| **Acolyte Level** | **———— Spells per Day by Spell Level ————** |       |       |       |       |       |
-|                   |                                             |       |       |       |       |       |
-|                   | **0**                                       | **1** | **2** | **3** | **4** | **5** |
-|                   |                                             |       |       |       |       |       |
-| 1st               | 3                                           | 2     | —     | —     | —     | —     |
-| 2nd               | 4                                           | 3     | —     | —     | —     | —     |
-| 3rd               | 4                                           | 3     | 2     | —     | —     | —     |
-| 4th               | 5                                           | 4     | 3     | —     | —     | —     |
-| 5th               | 5                                           | 4     | 3     | 2     | —     | —     |
-| 6th               | 5                                           | 4     | 4     | 3     | —     | —     |
-| 7th               | 6                                           | 5     | 4     | 3     | 2     | —     |
-| 8th               | 6                                           | 5     | 4     | 4     | 3     | —     |
-| 9th               | 6                                           | 5     | 5     | 4     | 3     | 2     |
-|                   |                                             |       |       |       |       |       |
-| 10th              | 6                                           | 5     | 5     | 4     | 4     | 3     |
-|                   |                                             |       |       |       |       |       |
-| **Wis Score**     | **———— Bonus Spells by Spell Level ————**   |       |       |       |       |       |
-|                   |                                             |       |       |       |       |       |
-|                   | **0**                                       | **1** | **2** | **3** | **4** | **5** |
-|                   |                                             |       |       |       |       |       |
-| 12–13             | —                                           | 1     | —     | —     | —     | —     |
-| 14–15             | —                                           | 1     | 1     | —     | —     | —     |
-| 16–17             | —                                           | 1     | 1     | 1     | —     | —     |
-| 18–19             | —                                           | 1     | 1     | 1     | 1     | —     |
-| 20–21             | —                                           | 2     | 1     | 1     | 1     | 1     |
-|                   |                                             |       |       |       |       |       |
-| 22–23             | —                                           | 2     | 2     | 1     | 1     | 1     |
-|                   |                                             |       |       |       |       |       |
+| Acolyte Level | ———— Spells per Day by Spell Level ————   |       |       |       |       |       |
+|---------------|-------------------------------------------|-------|-------|-------|-------|-------|
+|               | **0**                                     | **1** | **2** | **3** | **4** | **5** |
+| 1st           | 3                                         | 2     | —     | —     | —     | —     |
+| 2nd           | 4                                         | 3     | —     | —     | —     | —     |
+| 3rd           | 4                                         | 3     | 2     | —     | —     | —     |
+| 4th           | 5                                         | 4     | 3     | —     | —     | —     |
+| 5th           | 5                                         | 4     | 3     | 2     | —     | —     |
+| 6th           | 5                                         | 4     | 4     | 3     | —     | —     |
+| 7th           | 6                                         | 5     | 4     | 3     | 2     | —     |
+| 8th           | 6                                         | 5     | 4     | 4     | 3     | —     |
+| 9th           | 6                                         | 5     | 5     | 4     | 3     | 2     |
+| 10th          | 6                                         | 5     | 5     | 4     | 4     | 3     |
+| **Wis Score** | **———— Bonus Spells by Spell Level ————** |       |       |       |       |       |
+|               | **0**                                     | **1** | **2** | **3** | **4** | **5** |
+| 12–13         | —                                         | 1     | —     | —     | —     | —     |
+| 14–15         | —                                         | 1     | 1     | —     | —     | —     |
+| 16–17         | —                                         | 1     | 1     | 1     | —     | —     |
+| 18–19         | —                                         | 1     | 1     | 1     | 1     | —     |
+| 20–21         | —                                         | 2     | 1     | 1     | 1     | 1     |
+| 22–23         | —                                         | 2     | 2     | 1     | 1     | 1     |
 
 The Acolyte meditates or prays for her spells, receiving them through
 her own strength of faith or as divine inspiration. The Acolyte must
@@ -3078,21 +1691,17 @@ creature you can affect, relative to your Acolyte level. With a given
 turning attempt, you can’t turn any creature whose Hit Dice exceeds the
 result of your turning check.
 
-|                          |                                                        |
-|--------------------------|--------------------------------------------------------|
-| **Turning Check Result** | **Most Powerful Creature Affected (Maximum Hit Dice)** |
-|                          |                                                        |
-| 0 or lower               | Acolyte level –4                                       |
-| 1–3                      | Acolyte level –3                                       |
-| 4–6                      | Acolyte level –2                                       |
-| 7–9                      | Acolyte level –1                                       |
-| 10–12                    | Acolyte level                                          |
-| 13–15                    | Acolyte level +1                                       |
-| 16–18                    | Acolyte level +2                                       |
-| 19–21                    | Acolyte level +3                                       |
-|                          |                                                        |
-| 22 or higher             | Acolyte level +4                                       |
-|                          |                                                        |
+| Turning Check Result | Most Powerful Creature Affected (Maximum Hit Dice) |
+|----------------------|----------------------------------------------------|
+| 0 or lower           | Acolyte level –4                                   |
+| 1–3                  | Acolyte level –3                                   |
+| 4–6                  | Acolyte level –2                                   |
+| 7–9                  | Acolyte level –1                                   |
+| 10–12                | Acolyte level                                      |
+| 13–15                | Acolyte level +1                                   |
+| 16–18                | Acolyte level +2                                   |
+| 19–21                | Acolyte level +3                                   |
+| 22 or higher         | Acolyte level +4                                   |
 
 *Turning Damage: *If your turning check result is high enough to let you
 turn at least some of the undead (or other appropriate) creatures within

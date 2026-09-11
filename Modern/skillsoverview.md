@@ -49,19 +49,16 @@ The rules assume that a character can always find a way to learn any
 skill. However, the GM can impose limits depending on circumstances and
 a given situation.
 
-|                                   |                            |                               |
-|-----------------------------------|----------------------------|-------------------------------|
-| **Table: Skill Points per Level** |                            |                               |
-|                                   |                            |                               |
-| **Class**                         | **1st Level Skill Points** | **Higher Level Skill Points** |
-| Strong                            | (3 + Int modifier) x4      | 3 + Int modifier              |
-| Fast                              | (5 + Int modifier) x4      | 5 + Int modifier              |
-| Tough                             | (3 + Int modifier) x4      | 3 + Int modifier              |
-| Smart                             | (9 + Int modifier) x4      | 9 + Int modifier              |
-| Dedicated                         | (5 + Int modifier) x4      | 5 + Int modifier              |
-|                                   |                            |                               |
-| Charismatic                       | (7 + Int modifier) x4      | 7 + Int modifier              |
-|                                   |                            |                               |
+**Table: Skill Points per Level**
+
+| Class       | 1st Level Skill Points | Higher Level Skill Points |
+|-------------|------------------------|---------------------------|
+| Strong      | (3 + Int modifier) x4  | 3 + Int modifier          |
+| Fast        | (5 + Int modifier) x4  | 5 + Int modifier          |
+| Tough       | (3 + Int modifier) x4  | 3 + Int modifier          |
+| Smart       | (9 + Int modifier) x4  | 9 + Int modifier          |
+| Dedicated   | (5 + Int modifier) x4  | 5 + Int modifier          |
+| Charismatic | (7 + Int modifier) x4  | 7 + Int modifier          |
 
 # Skill Checks
 
@@ -75,22 +72,19 @@ Some checks are made against a Difficulty Class (DC). The DC is a number
 set by the GM (using the skill rules as a guideline) that a character
 must attain to succeed.
 
-|                                      |                                                                                                                                             |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| **Table: Difficulty Class Examples** |                                                                                                                                             |
-|                                      |                                                                                                                                             |
-| **Difficulty (DC)**                  | **Example (Skill Used)**                                                                                                                    |
-| Very easy (0)                        | Notice something large in plain sight (Spot)                                                                                                |
-| Easy (5)                             | Climb a knotted rope (Climb)                                                                                                                |
-| Average (10)                         | Hear an approaching security guard (Listen)                                                                                                 |
-| Tough (15)                           | Disarm an explosive (Demolitions)                                                                                                           |
-| Challenging (20)                     | Swim against a strong current (Swim)                                                                                                        |
-| Formidable (25)                      | Break into a secure computer system (Computer Use)                                                                                          |
-| Heroic (30)                          | Leap across a 30-foot chasm (Jump)                                                                                                          |
-| Superheroic (35)                     | Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff) |
-|                                      |                                                                                                                                             |
-| Nearly impossible (40)               | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)                             |
-|                                      |                                                                                                                                             |
+**Table: Difficulty Class Examples**
+
+| Difficulty (DC)        | Example (Skill Used)                                                                                                                        |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Very easy (0)          | Notice something large in plain sight (Spot)                                                                                                |
+| Easy (5)               | Climb a knotted rope (Climb)                                                                                                                |
+| Average (10)           | Hear an approaching security guard (Listen)                                                                                                 |
+| Tough (15)             | Disarm an explosive (Demolitions)                                                                                                           |
+| Challenging (20)       | Swim against a strong current (Swim)                                                                                                        |
+| Formidable (25)        | Break into a secure computer system (Computer Use)                                                                                          |
+| Heroic (30)            | Leap across a 30-foot chasm (Jump)                                                                                                          |
+| Superheroic (35)       | Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff) |
+| Nearly impossible (40) | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)                             |
 
 # Opposed Checks
 
@@ -100,70 +94,17 @@ number, usually another character’s skill check result.
 For ties on opposed checks, the character with the higher key ability
 score wins. If those scores are the same, roll again.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Example Opposed Checks</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Task</h2></td>
-<td><h2>Skill</h2></td>
-<td><h2>Opposing Skill</h2></td>
-</tr>
-<tr class="even">
-<td><p>Sneak up on someone</p></td>
-<td><p>Move Silently</p></td>
-<td><p>Listen</p></td>
-</tr>
-<tr class="odd">
-<td><p>Con someone</p></td>
-<td><p>Bluff</p></td>
-<td><p>Sense Motive</p></td>
-</tr>
-<tr class="even">
-<td><p>Hide from someone</p></td>
-<td><p>Hide</p></td>
-<td><p>Spot</p></td>
-</tr>
-<tr class="odd">
-<td><p>Win a car race</p></td>
-<td><p>Drive</p></td>
-<td><p>Drive</p></td>
-</tr>
-<tr class="even">
-<td><p>Pretend to be someone else</p></td>
-<td><p>Disguise</p></td>
-<td><p>Spot</p></td>
-</tr>
-<tr class="odd">
-<td><p>Steal a key chain</p></td>
-<td><p>Sleight of Hand</p></td>
-<td><p>Spot</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Create a fake ID</p></td>
-<td><p>Forgery</p></td>
-<td><p>Forgery</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Example Opposed Checks**
+
+| Task                       | Skill           | Opposing Skill |
+|----------------------------|-----------------|----------------|
+| Sneak up on someone        | Move Silently   | Listen         |
+| Con someone                | Bluff           | Sense Motive   |
+| Hide from someone          | Hide            | Spot           |
+| Win a car race             | Drive           | Drive          |
+| Pretend to be someone else | Disguise        | Spot           |
+| Steal a key chain          | Sleight of Hand | Spot           |
+| Create a fake ID           | Forgery         | Forgery        |
 
 # Trying Again
 
@@ -314,50 +255,14 @@ doesn’t involve luck. When two characters arm wrestle, for example, the
 stronger character simply wins. In the case of identical scores, make
 opposed Strength checks.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h2>Example Ability Check</h2></td>
-<td><h2>Key Ability</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Forcing open a jammed or locked door</p></td>
-<td><p>Strength</p></td>
-</tr>
-<tr class="even">
-<td><p>Tying a rope</p></td>
-<td><p>Dexterity</p></td>
-</tr>
-<tr class="odd">
-<td><p>Holding one’s breath</p></td>
-<td><p>Constitution</p></td>
-</tr>
-<tr class="even">
-<td><p>Navigating a maze</p></td>
-<td><p>Intelligence</p></td>
-</tr>
-<tr class="odd">
-<td><p>Recognize a stranger you’ve seen before</p></td>
-<td><p>Wisdom</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Getting yourself noticed in a crowd</p></td>
-<td><p>Charisma</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Example Ability Check                   | Key Ability  |
+|-----------------------------------------|--------------|
+| Forcing open a jammed or locked door    | Strength     |
+| Tying a rope                            | Dexterity    |
+| Holding one’s breath                    | Constitution |
+| Navigating a maze                       | Intelligence |
+| Recognize a stranger you’ve seen before | Wisdom       |
+| Getting yourself noticed in a crowd     | Charisma     |
 
 # Modifier Types and Stacking
 

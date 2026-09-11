@@ -16,33 +16,30 @@ Table: Creature Saves and Base Attack Bonuses provides the modifiers to
 a creature’s saving throws and attack rolls based on its type and Hit
 Dice.
 
-|                                                   |                     |                     |                           |                           |                           |
-|---------------------------------------------------|---------------------|---------------------|---------------------------|---------------------------|---------------------------|
-| **Table: Creature Saves and Base Attack Bonuses** |                     |                     |                           |                           |                           |
-|                                                   |                     |                     |                           |                           |                           |
-| **Creature’s Hit Dice**                           | **Good Save Bonus** | **Poor Save Bonus** | **Base Attack Bonus (A)** | **Base Attack Bonus (B)** | **Base Attack Bonus (C)** |
-| 1 or less                                         | +2                  | +0                  | +0                        | +1                        | +0                        |
-| 2                                                 | +3                  | +0                  | +1                        | +2                        | +0                        |
-| 3                                                 | +3                  | +1                  | +2                        | +3                        | +1                        |
-| 4                                                 | +4                  | +1                  | +3                        | +4                        | +1                        |
-| 5                                                 | +4                  | +1                  | +3                        | +5                        | +2                        |
-| 6                                                 | +5                  | +2                  | +4                        | +6/+1                     | +2                        |
-| 7                                                 | +5                  | +2                  | +5                        | +7/+2                     | +3                        |
-| 8                                                 | +6                  | +2                  | +6/+1                     | +8/+3                     | +4                        |
-| 9                                                 | +6                  | +3                  | +6/+1                     | +9/+4                     | +4                        |
-| 10                                                | +7                  | +3                  | +7/+2                     | +10/+5                    | +5                        |
-| 11                                                | +7                  | +3                  | +8/+3                     | +11/+6/+1                 | +5                        |
-| 12                                                | +8                  | +4                  | +9/+4                     | +12/+7/+2                 | +6/+1                     |
-| 13                                                | +8                  | +4                  | +9/+4                     | +13/+8/+3                 | +6/+1                     |
-| 14                                                | +9                  | +4                  | +10/+5                    | +14/+9/+4                 | +7/+2                     |
-| 15                                                | +9                  | +5                  | +11/+6/+1                 | +15/+10/+5                | +7/+2                     |
-| 16                                                | +10                 | +5                  | +12/+7/+2                 | +16/+11/+6/+1             | +8/+3                     |
-| 17                                                | +10                 | +5                  | +12/+7/+2                 | +17/+12/+7/+2             | +8/+3                     |
-| 18                                                | +11                 | +6                  | +13/+8/+3                 | +18/+13/+8/+3             | +9/+4                     |
-| 19                                                | +11                 | +6                  | +14/+9/+4                 | +19/+14/+9/+4             | +9/+4                     |
-|                                                   |                     |                     |                           |                           |                           |
-| 20                                                | +12                 | +6                  | +15/+10/+5                | +20/+15/+10/+5            | +10/+5                    |
-|                                                   |                     |                     |                           |                           |                           |
+**Table: Creature Saves and Base Attack Bonuses**
+
+| Creature’s Hit Dice | Good Save Bonus | Poor Save Bonus | Base Attack Bonus (A) | Base Attack Bonus (B) | Base Attack Bonus (C) |
+|---------------------|-----------------|-----------------|-----------------------|-----------------------|-----------------------|
+| 1 or less           | +2              | +0              | +0                    | +1                    | +0                    |
+| 2                   | +3              | +0              | +1                    | +2                    | +0                    |
+| 3                   | +3              | +1              | +2                    | +3                    | +1                    |
+| 4                   | +4              | +1              | +3                    | +4                    | +1                    |
+| 5                   | +4              | +1              | +3                    | +5                    | +2                    |
+| 6                   | +5              | +2              | +4                    | +6/+1                 | +2                    |
+| 7                   | +5              | +2              | +5                    | +7/+2                 | +3                    |
+| 8                   | +6              | +2              | +6/+1                 | +8/+3                 | +4                    |
+| 9                   | +6              | +3              | +6/+1                 | +9/+4                 | +4                    |
+| 10                  | +7              | +3              | +7/+2                 | +10/+5                | +5                    |
+| 11                  | +7              | +3              | +8/+3                 | +11/+6/+1             | +5                    |
+| 12                  | +8              | +4              | +9/+4                 | +12/+7/+2             | +6/+1                 |
+| 13                  | +8              | +4              | +9/+4                 | +13/+8/+3             | +6/+1                 |
+| 14                  | +9              | +4              | +10/+5                | +14/+9/+4             | +7/+2                 |
+| 15                  | +9              | +5              | +11/+6/+1             | +15/+10/+5            | +7/+2                 |
+| 16                  | +10             | +5              | +12/+7/+2             | +16/+11/+6/+1         | +8/+3                 |
+| 17                  | +10             | +5              | +12/+7/+2             | +17/+12/+7/+2         | +8/+3                 |
+| 18                  | +11             | +6              | +13/+8/+3             | +18/+13/+8/+3         | +9/+4                 |
+| 19                  | +11             | +6              | +14/+9/+4             | +19/+14/+9/+4         | +9/+4                 |
+| 20                  | +12             | +6              | +15/+10/+5            | +20/+15/+10/+5        | +10/+5                |
 
 **Base Attack Bonus (A):** Use this column for aberrations, animals,
 constructs, elementals, giants, humanoids, oozes, plants, and vermin.
@@ -84,164 +81,19 @@ types.
 **Darkvision (Ex):** Most aberrations have darkvision with a range of 60
 feet.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Aberrations</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>42–43</p></td>
-<td><p>10–11</p></td>
-<td><p>28–29</p></td>
-<td><p>32d8</p></td>
-<td><p>2d6</p></td>
-<td><p>4d8</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>34–35</p></td>
-<td><p>10–11</p></td>
-<td><p>24–25</p></td>
-<td><p>16d8</p></td>
-<td><p>1d8</p></td>
-<td><p>4d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>26–27</p></td>
-<td><p>10–11</p></td>
-<td><p>20–21</p></td>
-<td><p>8d8</p></td>
-<td><p>1d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>18–19</p></td>
-<td><p>12–13</p></td>
-<td><p>16–17</p></td>
-<td><p>2d8</p></td>
-<td><p>1d4</p></td>
-<td><p>2d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>10–11</p></td>
-<td><p>14–15</p></td>
-<td><p>12–13</p></td>
-<td><p>1d8</p></td>
-<td><p>1d3</p></td>
-<td><p>2d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>6–7</p></td>
-<td><p>16–17</p></td>
-<td><p>10–11</p></td>
-<td><p>1/2 d8</p></td>
-<td><p>1d2</p></td>
-<td><p>1d6</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>2–3</p></td>
-<td><p>18–19</p></td>
-<td><p>10–11</p></td>
-<td><p>1/4 d8</p></td>
-<td><p>1</p></td>
-<td><p>1d4</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>1</p></td>
-<td><p>20–21</p></td>
-<td><p>10–11</p></td>
-<td><p>1/8 d8</p></td>
-<td><p>—</p></td>
-<td><p>1d3</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>22–23</p></td>
-<td><p>10–11</p></td>
-<td><p>1/16 d8</p></td>
-<td><p>—</p></td>
-<td><p>1d2</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Aberrations**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 10–11 | 28–29 | 32d8       | 2d6  | 4d8  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 10–11 | 24–25 | 16d8       | 1d8  | 4d6  | 2d6  | 2d8  |
+| Huge        | 26–27 | 10–11 | 20–21 | 8d8        | 1d6  | 2d8  | 2d4  | 2d6  |
+| Large       | 18–19 | 12–13 | 16–17 | 2d8        | 1d4  | 2d6  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 14–15 | 12–13 | 1d8        | 1d3  | 2d4  | 1d4  | 1d6  |
+| Small       | 6–7   | 16–17 | 10–11 | 1/2 d8     | 1d2  | 1d6  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 18–19 | 10–11 | 1/4 d8     | 1    | 1d4  | 1d2  | 1d3  |
+| Diminutive  | 1     | 20–21 | 10–11 | 1/8 d8     | —    | 1d3  | 1    | 1d2  |
+| Fine        | 1     | 22–23 | 10–11 | 1/16 d8    | —    | 1d2  | —    | 1    |
 
 ## Animal
 
@@ -273,164 +125,19 @@ with an Intelligence score of 3 or higher can be an animal.
 
 **Low-Light Vision (Ex):** Most animals have low-light vision.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Animals</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><h3>Str</h3></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>42–43</p></td>
-<td><p>10–11</p></td>
-<td><p>28–29</p></td>
-<td><p>32d8</p></td>
-<td><p>2d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>34–35</p></td>
-<td><p>10–11</p></td>
-<td><p>24–25</p></td>
-<td><p>16d8</p></td>
-<td><p>1d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>26–27</p></td>
-<td><p>10–11</p></td>
-<td><p>20–21</p></td>
-<td><p>4d8</p></td>
-<td><p>1d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>18–19</p></td>
-<td><p>12–13</p></td>
-<td><p>16–17</p></td>
-<td><p>2d8</p></td>
-<td><p>1d4</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>10–11</p></td>
-<td><p>14–15</p></td>
-<td><p>12–13</p></td>
-<td><p>1d8</p></td>
-<td><p>1d3</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>6–7</p></td>
-<td><p>16–17</p></td>
-<td><p>10–11</p></td>
-<td><p>1/2 d8</p></td>
-<td><p>1d2</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>2–3</p></td>
-<td><p>18–19</p></td>
-<td><p>10–11</p></td>
-<td><p>1/4 d8</p></td>
-<td><p>1</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>1</p></td>
-<td><p>20–21</p></td>
-<td><p>10–11</p></td>
-<td><p>1/8 d8</p></td>
-<td><p>—</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>22–23</p></td>
-<td><p>10–11</p></td>
-<td><p>1/16 d8</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Animals**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 10–11 | 28–29 | 32d8       | 2d6  | 4d6  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 10–11 | 24–25 | 16d8       | 1d8  | 2d8  | 2d6  | 2d8  |
+| Huge        | 26–27 | 10–11 | 20–21 | 4d8        | 1d6  | 2d6  | 2d4  | 2d6  |
+| Large       | 18–19 | 12–13 | 16–17 | 2d8        | 1d4  | 1d8  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 14–15 | 12–13 | 1d8        | 1d3  | 1d6  | 1d4  | 1d6  |
+| Small       | 6–7   | 16–17 | 10–11 | 1/2 d8     | 1d2  | 1d4  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 18–19 | 10–11 | 1/4 d8     | 1    | 1d3  | 1d2  | 1d3  |
+| Diminutive  | 1     | 20–21 | 10–11 | 1/8 d8     | —    | 1d2  | 1    | 1d2  |
+| Fine        | 1     | 22–23 | 10–11 | 1/16 d8    | —    | 1    | —    | 1    |
 
 ## Construct
 
@@ -478,22 +185,19 @@ and cannot be repaired.
 
 **Special:** Constructs cannot be raised from the dead.
 
-|                       |         |         |         |                |                      |          |          |          |          |
-|-----------------------|---------|---------|---------|----------------|----------------------|----------|----------|----------|----------|
-| **Table: Constructs** |         |         |         |                |                      |          |          |          |          |
-|                       |         |         |         |                |                      |          |          |          |          |
-| **Size**              | **Str** | **Dex** | **Con** | **Minimum HD** | **Extra Hit Points** | **Slam** | **Bite** | **Claw** | **Gore** |
-| Colossal              | 44–47   | 6–7     | —       | 32d10          | 120                  | 4d6      | 2d6      | 2d8      | 4d6      |
-| Gargantuan            | 36–39   | 6–7     | —       | 16d10          | 80                   | 2d8      | 1d8      | 2d6      | 2d8      |
-| Huge                  | 28–31   | 6–7     | —       | 8d10           | 40                   | 2d6      | 1d6      | 2d4      | 2d6      |
-| Large                 | 20–23   | 8–9     | —       | 2d10           | 20                   | 1d8      | 1d4      | 1d6      | 1d8      |
-| Medium-size           | 12–15   | 10–11   | —       | 1d10           | 10                   | 1d6      | 1d3      | 1d4      | 1d6      |
-| Small                 | 8–11    | 12–13   | —       | 1/2 d10        | 5                    | 1d4      | 1d2      | 1d3      | 1d4      |
-| Tiny                  | 4–7     | 14–15   | —       | 1/4 d10        | —                    | 1d3      | 1        | 1d2      | 1d3      |
-| Diminutive            | 2–5     | 16–17   | —       | 1/8 d10        | —                    | 1d2      | —        | 1        | 1d2      |
-|                       |         |         |         |                |                      |          |          |          |          |
-| Fine                  | 1       | 18–19   | —       | 1/16 d10       | —                    | 1        | —        | —        | 1        |
-|                       |         |         |         |                |                      |          |          |          |          |
+**Table: Constructs**
+
+| Size        | Str   | Dex   | Con | Minimum HD | Extra Hit Points | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-----|------------|------------------|------|------|------|------|
+| Colossal    | 44–47 | 6–7   | —   | 32d10      | 120              | 4d6  | 2d6  | 2d8  | 4d6  |
+| Gargantuan  | 36–39 | 6–7   | —   | 16d10      | 80               | 2d8  | 1d8  | 2d6  | 2d8  |
+| Huge        | 28–31 | 6–7   | —   | 8d10       | 40               | 2d6  | 1d6  | 2d4  | 2d6  |
+| Large       | 20–23 | 8–9   | —   | 2d10       | 20               | 1d8  | 1d4  | 1d6  | 1d8  |
+| Medium-size | 12–15 | 10–11 | —   | 1d10       | 10               | 1d6  | 1d3  | 1d4  | 1d6  |
+| Small       | 8–11  | 12–13 | —   | 1/2 d10    | 5                | 1d4  | 1d2  | 1d3  | 1d4  |
+| Tiny        | 4–7   | 14–15 | —   | 1/4 d10    | —                | 1d3  | 1    | 1d2  | 1d3  |
+| Diminutive  | 2–5   | 16–17 | —   | 1/8 d10    | —                | 1d2  | —    | 1    | 1d2  |
+| Fine        | 1     | 18–19 | —   | 1/16 d10   | —                | 1    | —    | —    | 1    |
 
 ## Dragon
 
@@ -523,164 +227,19 @@ feet.
 **Immunities:** Dragons are immune to sleep, hold, and paralysis
 effects.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Dragons</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><h3>Str</h3></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>46–47</p></td>
-<td><p>6–7</p></td>
-<td><p>30–31</p></td>
-<td><p>38d12</p></td>
-<td><p>2d8</p></td>
-<td><p>4d8</p></td>
-<td><p>4d6</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>38–39</p></td>
-<td><p>6–7</p></td>
-<td><p>26–27</p></td>
-<td><p>27d12</p></td>
-<td><p>2d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>30–31</p></td>
-<td><p>6–7</p></td>
-<td><p>22–23</p></td>
-<td><p>19d12</p></td>
-<td><p>1d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>22–23</p></td>
-<td><p>8–9</p></td>
-<td><p>18–19</p></td>
-<td><p>10d12</p></td>
-<td><p>1d6</p></td>
-<td><p>2d6</p></td>
-<td><p>1d8</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>14–15</p></td>
-<td><p>10–11</p></td>
-<td><p>14–15</p></td>
-<td><p>7d12</p></td>
-<td><p>1d4</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>10–11</p></td>
-<td><p>12–13</p></td>
-<td><p>12–13</p></td>
-<td><p>4d12</p></td>
-<td><p>—</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>6–7</p></td>
-<td><p>14–15</p></td>
-<td><p>12–13</p></td>
-<td><p>3d12</p></td>
-<td><p>—</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>4–5</p></td>
-<td><p>16–17</p></td>
-<td><p>12–13</p></td>
-<td><p>1d12</p></td>
-<td><p>—</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>4–5</p></td>
-<td><p>18–19</p></td>
-<td><p>12–13</p></td>
-<td><p>1/2 d12</p></td>
-<td><p>—</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Dragons**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 46–47 | 6–7   | 30–31 | 38d12      | 2d8  | 4d8  | 4d6  | 4d6  |
+| Gargantuan  | 38–39 | 6–7   | 26–27 | 27d12      | 2d6  | 4d6  | 2d8  | 2d8  |
+| Huge        | 30–31 | 6–7   | 22–23 | 19d12      | 1d8  | 2d8  | 2d6  | 2d6  |
+| Large       | 22–23 | 8–9   | 18–19 | 10d12      | 1d6  | 2d6  | 1d8  | 1d8  |
+| Medium-size | 14–15 | 10–11 | 14–15 | 7d12       | 1d4  | 1d8  | 1d6  | 1d6  |
+| Small       | 10–11 | 12–13 | 12–13 | 4d12       | —    | 1d6  | 1d4  | 1d4  |
+| Tiny        | 6–7   | 14–15 | 12–13 | 3d12       | —    | 1d4  | 1d3  | 1d3  |
+| Diminutive  | 4–5   | 16–17 | 12–13 | 1d12       | —    | 1d3  | 1d2  | 1d2  |
+| Fine        | 4–5   | 18–19 | 12–13 | 1/2 d12    | —    | 1d2  | 1    | 1    |
 
 ## Elemental
 
@@ -715,22 +274,19 @@ effects of massive damage.
 
 **Special:** Elementals cannot be raised from the dead.
 
-|                       |         |         |         |                |          |          |          |          |
-|-----------------------|---------|---------|---------|----------------|----------|----------|----------|----------|
-| **Table: Elementals** |         |         |         |                |          |          |          |          |
-|                       |         |         |         |                |          |          |          |          |
-| **Size**              | **Str** | **Dex** | **Con** | **Minimum HD** | **Slam** | **Bite** | **Claw** | **Gore** |
-| Colossal              | 44–45   | 6–7     | 28–29   | 32d8           | 4d6      | 4d6      | 2d8      | 2d6      |
-| Gargantuan            | 36–37   | 6–7     | 24–25   | 16d8           | 2d8      | 2d8      | 2d6      | 1d8      |
-| Huge                  | 28–29   | 6–7     | 20–21   | 8d8            | 2d6      | 2d6      | 2d4      | 1d6      |
-| Large                 | 20–21   | 8–9     | 16–17   | 4d8            | 1d8      | 1d8      | 1d6      | 1d4      |
-| Medium-size           | 12–13   | 10–11   | 12–13   | 2d8            | 1d6      | 1d6      | 1d4      | 1d3      |
-| Small                 | 8–9     | 12–13   | 10–11   | 1d8            | 1d4      | 1d4      | 1d3      | 1d2      |
-| Tiny                  | 6–7     | 14–15   | 10–11   | 1/2 d8         | 1d3      | 1d3      | 1d2      | 1        |
-| Diminutive            | 4–5     | 16–17   | 10–11   | 1/4 d8         | 1d2      | 1d2      | 1        | —        |
-|                       |         |         |         |                |          |          |          |          |
-| Fine                  | 4–5     | 18–19   | 10–11   | 1/8 d8         | 1        | 1        | —        | —        |
-|                       |         |         |         |                |          |          |          |          |
+**Table: Elementals**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 44–45 | 6–7   | 28–29 | 32d8       | 4d6  | 4d6  | 2d8  | 2d6  |
+| Gargantuan  | 36–37 | 6–7   | 24–25 | 16d8       | 2d8  | 2d8  | 2d6  | 1d8  |
+| Huge        | 28–29 | 6–7   | 20–21 | 8d8        | 2d6  | 2d6  | 2d4  | 1d6  |
+| Large       | 20–21 | 8–9   | 16–17 | 4d8        | 1d8  | 1d8  | 1d6  | 1d4  |
+| Medium-size | 12–13 | 10–11 | 12–13 | 2d8        | 1d6  | 1d6  | 1d4  | 1d3  |
+| Small       | 8–9   | 12–13 | 10–11 | 1d8        | 1d4  | 1d4  | 1d3  | 1d2  |
+| Tiny        | 6–7   | 14–15 | 10–11 | 1/2 d8     | 1d3  | 1d3  | 1d2  | 1    |
+| Diminutive  | 4–5   | 16–17 | 10–11 | 1/4 d8     | 1d2  | 1d2  | 1    | —    |
+| Fine        | 4–5   | 18–19 | 10–11 | 1/8 d8     | 1    | 1    | —    | —    |
 
 ## Fey
 
@@ -762,164 +318,19 @@ as all lighter types.
 
 **Low-Light Vision (Ex):** Most fey have low-light vision.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Fey</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>42–43</p></td>
-<td><p>8–9</p></td>
-<td><p>26–27</p></td>
-<td><p>32d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>34–35</p></td>
-<td><p>8–9</p></td>
-<td><p>22–23</p></td>
-<td><p>16d6</p></td>
-<td><p>1d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>26–27</p></td>
-<td><p>8–9</p></td>
-<td><p>18–19</p></td>
-<td><p>8d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>18–19</p></td>
-<td><p>10–11</p></td>
-<td><p>14–15</p></td>
-<td><p>2d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>10–11</p></td>
-<td><p>12–13</p></td>
-<td><p>10–11</p></td>
-<td><p>1d6</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>6–7</p></td>
-<td><p>14–16</p></td>
-<td><p>8–9</p></td>
-<td><p>1/2 d6</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>2–3</p></td>
-<td><p>16–17</p></td>
-<td><p>8–9</p></td>
-<td><p>1/4 d6</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>1</p></td>
-<td><p>18–19</p></td>
-<td><p>8–9</p></td>
-<td><p>1/8 d6</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>20–21</p></td>
-<td><p>8–9</p></td>
-<td><p>1/16 d6</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Fey**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 8–9   | 26–27 | 32d6       | 2d6  | 2d8  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 8–9   | 22–23 | 16d6       | 1d8  | 2d6  | 2d6  | 2d8  |
+| Huge        | 26–27 | 8–9   | 18–19 | 8d6        | 1d6  | 1d8  | 2d4  | 2d6  |
+| Large       | 18–19 | 10–11 | 14–15 | 2d6        | 1d4  | 1d6  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 12–13 | 10–11 | 1d6        | 1d3  | 1d4  | 1d4  | 1d6  |
+| Small       | 6–7   | 14–16 | 8–9   | 1/2 d6     | 1d2  | 1d3  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 16–17 | 8–9   | 1/4 d6     | 1    | 1d2  | 1d2  | 1d3  |
+| Diminutive  | 1     | 18–19 | 8–9   | 1/8 d6     | —    | 1    | 1    | 1d2  |
+| Fine        | 1     | 20–21 | 8–9   | 1/16 d6    | —    | —    | —    | 1    |
 
 ## Giant
 
@@ -952,109 +363,14 @@ Proficiency with whatever type of armor they are accustomed to wearing
 
 **Low-Light Vision (Ex):** Most giants have low-light vision.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Giants</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>46–47</p></td>
-<td><p>6–7</p></td>
-<td><p>28–31</p></td>
-<td><p>32d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>38–39</p></td>
-<td><p>6–7</p></td>
-<td><p>24–27</p></td>
-<td><p>16d8</p></td>
-<td><p>1d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>30–31</p></td>
-<td><p>6–7</p></td>
-<td><p>20–23</p></td>
-<td><p>8d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>22–23</p></td>
-<td><p>8–9</p></td>
-<td><p>16–19</p></td>
-<td><p>2d8</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Giants**
+
+| Size       | Str   | Dex | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|------------|-------|-----|-------|------------|------|------|------|------|
+| Colossal   | 46–47 | 6–7 | 28–31 | 32d8       | 2d6  | 2d8  | 2d8  | 4d6  |
+| Gargantuan | 38–39 | 6–7 | 24–27 | 16d8       | 1d8  | 2d6  | 2d6  | 2d8  |
+| Huge       | 30–31 | 6–7 | 20–23 | 8d8        | 1d6  | 1d8  | 2d4  | 2d6  |
+| Large      | 22–23 | 8–9 | 16–19 | 2d8        | 1d4  | 1d6  | 1d6  | 1d8  |
 
 ## Humanoid
 
@@ -1087,19 +403,17 @@ Proficiency, Armor Proficiency (light), or Simple Weapons Proficiency.
 darkvision with a range of 60 feet, low-light vision, or both (as noted
 in their entries).
 
-|                                                                                  |         |         |         |                |                      |          |          |          |
-|----------------------------------------------------------------------------------|---------|---------|---------|----------------|----------------------|----------|----------|----------|
-| **Table: Humanoids **                                                            |         |         |         |                |                      |          |          |          |
-|                                                                                  |         |         |         |                |                      |          |          |          |
-| **Size**                                                                         | **Str** | **Dex** | **Con** | **Minimum HD** | **Slam<sup>1</sup>** | **Bite** | **Claw** | **Gore** |
-| Medium-size                                                                      | 10–15   | 10–13   | 10–11   | 1d8            | 1d3                  | 1d4      | 1d4      | 1d6      |
-| Small                                                                            | 6–11    | 12–15   | 8–9     | 1/2 d8         | 1d2                  | 1d3      | 1d3      | 1d4      |
-| Tiny                                                                             | 2–7     | 14–17   | 8–9     | 1/4 d8         | 1                    | 1d2      | 1d2      | 1d3      |
-| Diminutive                                                                       | 1       | 16–19   | 8–9     | 1/8 d8         | —                    | 1        | 1        | 1d2      |
-| Fine                                                                             | 1       | 18–21   | 8–9     | 1/16 d8        | —                    | —        | —        | 1        |
-|                                                                                  |         |         |         |                |                      |          |          |          |
-| 1<sup> </sup>Unarmed attacks qualify as slam attacks that deal nonlethal damage. |         |         |         |                |                      |          |          |          |
-|                                                                                  |         |         |         |                |                      |          |          |          |
+**Table: Humanoids**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam<sup>1</sup> | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------------------|------|------|------|
+| Medium-size | 10–15 | 10–13 | 10–11 | 1d8        | 1d3              | 1d4  | 1d4  | 1d6  |
+| Small       | 6–11  | 12–15 | 8–9   | 1/2 d8     | 1d2              | 1d3  | 1d3  | 1d4  |
+| Tiny        | 2–7   | 14–17 | 8–9   | 1/4 d8     | 1                | 1d2  | 1d2  | 1d3  |
+| Diminutive  | 1     | 16–19 | 8–9   | 1/8 d8     | —                | 1    | 1    | 1d2  |
+| Fine        | 1     | 18–21 | 8–9   | 1/16 d8    | —                | —    | —    | 1    |
+
+1<sup> </sup>Unarmed attacks qualify as slam attacks that deal nonlethal damage.
 
 ## Magical Beast
 
@@ -1130,22 +444,19 @@ their natural weapons only. They are not proficient with armor.
 **Keen Sight (Ex):** Magical beasts have darkvision with a range of 60
 feet and low-light vision (unless noted otherwise).
 
-|                           |         |         |         |                |          |          |          |          |
-|---------------------------|---------|---------|---------|----------------|----------|----------|----------|----------|
-| **Table: Magical beasts** |         |         |         |                |          |          |          |          |
-|                           |         |         |         |                |          |          |          |          |
-| **Size**                  | **Str** | **Dex** | **Con** | **Minimum HD** | **Slam** | **Bite** | **Claw** | **Gore** |
-| Colossal                  | 42–43   | 10–11   | 28–29   | 32d10          | 2d6      | 4d6      | 2d8      | 4d6      |
-| Gargantuan                | 34–35   | 10–11   | 24–25   | 16d10          | 1d8      | 2d8      | 2d6      | 2d8      |
-| Huge                      | 26–27   | 10–11   | 20–21   | 8d10           | 1d6      | 2d6      | 2d4      | 2d6      |
-| Large                     | 18–19   | 12–13   | 16–17   | 2d10           | 1d4      | 1d8      | 1d6      | 1d8      |
-| Medium-size               | 10–11   | 14–15   | 12–13   | 1d10           | 1d3      | 1d6      | 1d4      | 1d6      |
-| Small                     | 6–7     | 16–17   | 10–11   | 1/2 d10        | 1d2      | 1d4      | 1d3      | 1d4      |
-| Tiny                      | 2–3     | 18–19   | 10–11   | 1/4 d10        | 1        | 1d3      | 1d2      | 1d3      |
-| Diminutive                | 1       | 20–21   | 10–11   | 1/8 d10        | —        | 1d2      | 1        | 1d2      |
-|                           |         |         |         |                |          |          |          |          |
-| Fine                      | 1       | 22–23   | 10–11   | 1/16 d10       | —        | 1        | —        | 1        |
-|                           |         |         |         |                |          |          |          |          |
+**Table: Magical beasts**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 10–11 | 28–29 | 32d10      | 2d6  | 4d6  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 10–11 | 24–25 | 16d10      | 1d8  | 2d8  | 2d6  | 2d8  |
+| Huge        | 26–27 | 10–11 | 20–21 | 8d10       | 1d6  | 2d6  | 2d4  | 2d6  |
+| Large       | 18–19 | 12–13 | 16–17 | 2d10       | 1d4  | 1d8  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 14–15 | 12–13 | 1d10       | 1d3  | 1d6  | 1d4  | 1d6  |
+| Small       | 6–7   | 16–17 | 10–11 | 1/2 d10    | 1d2  | 1d4  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 18–19 | 10–11 | 1/4 d10    | 1    | 1d3  | 1d2  | 1d3  |
+| Diminutive  | 1     | 20–21 | 10–11 | 1/8 d10    | —    | 1d2  | 1    | 1d2  |
+| Fine        | 1     | 22–23 | 10–11 | 1/16 d10   | —    | 1    | —    | 1    |
 
 ## Monstrous Humanoid
 
@@ -1179,164 +490,19 @@ types.
 **Darkvision (Ex):** Most monstrous humanoids have darkvision with a
 range of 60 feet.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Monstrous Humanoids</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>42–43</p></td>
-<td><p>8–9</p></td>
-<td><p>26–27</p></td>
-<td><p>32d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>34–35</p></td>
-<td><p>8–9</p></td>
-<td><p>22–23</p></td>
-<td><p>16d8</p></td>
-<td><p>1d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>26–27</p></td>
-<td><p>8–9</p></td>
-<td><p>18–19</p></td>
-<td><p>8d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>18–19</p></td>
-<td><p>10–11</p></td>
-<td><p>14–15</p></td>
-<td><p>2d8</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>10–11</p></td>
-<td><p>12–13</p></td>
-<td><p>10–11</p></td>
-<td><p>1d8</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>6–7</p></td>
-<td><p>14–15</p></td>
-<td><p>8–9</p></td>
-<td><p>1/2 d8</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>2–3</p></td>
-<td><p>16–17</p></td>
-<td><p>8–9</p></td>
-<td><p>1/4 d8</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>1</p></td>
-<td><p>18–19</p></td>
-<td><p>8–9</p></td>
-<td><p>1/8 d8</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>20–21</p></td>
-<td><p>8–9</p></td>
-<td><p>1/16 d8</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Monstrous Humanoids**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 8–9   | 26–27 | 32d8       | 2d6  | 2d8  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 8–9   | 22–23 | 16d8       | 1d8  | 2d6  | 2d6  | 2d8  |
+| Huge        | 26–27 | 8–9   | 18–19 | 8d8        | 1d6  | 1d8  | 2d4  | 2d6  |
+| Large       | 18–19 | 10–11 | 14–15 | 2d8        | 1d4  | 1d6  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 12–13 | 10–11 | 1d8        | 1d3  | 1d4  | 1d4  | 1d6  |
+| Small       | 6–7   | 14–15 | 8–9   | 1/2 d8     | 1d2  | 1d3  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 16–17 | 8–9   | 1/4 d8     | 1    | 1d2  | 1d2  | 1d3  |
+| Diminutive  | 1     | 18–19 | 8–9   | 1/8 d8     | —    | 1    | 1    | 1d2  |
+| Fine        | 1     | 20–21 | 8–9   | 1/16 d8    | —    | —    | —    | 1    |
 
 ## Ooze
 
@@ -1374,178 +540,19 @@ hits, flanking, or the effects of massive damage.
 
 **Blindsight (Ex):** Most oozes have blindsight with a range of 60 feet.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Oozes</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Extra Hit Points</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>44–45</p></td>
-<td><p>6–7</p></td>
-<td><p>26–29</p></td>
-<td><p>32d10</p></td>
-<td><p>40</p></td>
-<td><p>4d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>36–37</p></td>
-<td><p>6–7</p></td>
-<td><p>22–25</p></td>
-<td><p>16d10</p></td>
-<td><p>30</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>28–29</p></td>
-<td><p>6–7</p></td>
-<td><p>18–21</p></td>
-<td><p>8d10</p></td>
-<td><p>20</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>20–21</p></td>
-<td><p>8–9</p></td>
-<td><p>14–17</p></td>
-<td><p>2d10</p></td>
-<td><p>15</p></td>
-<td><p>1d8</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>12–13</p></td>
-<td><p>10–11</p></td>
-<td><p>10–13</p></td>
-<td><p>1d10</p></td>
-<td><p>10</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>8–9</p></td>
-<td><p>12–13</p></td>
-<td><p>8–9</p></td>
-<td><p>1/2 d10</p></td>
-<td><p>5</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>4–5</p></td>
-<td><p>14–15</p></td>
-<td><p>8–9</p></td>
-<td><p>1/4 d10</p></td>
-<td><p>—</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>2–3</p></td>
-<td><p>16–17</p></td>
-<td><p>8–9</p></td>
-<td><p>1/8 d10</p></td>
-<td><p>—</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>2–3</p></td>
-<td><p>18–19</p></td>
-<td><p>8–9</p></td>
-<td><p>1/16 d10</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Oozes**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Extra Hit Points | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------------------|------|------|------|------|
+| Colossal    | 44–45 | 6–7   | 26–29 | 32d10      | 40               | 4d6  | 4d6  | 2d8  | 2d6  |
+| Gargantuan  | 36–37 | 6–7   | 22–25 | 16d10      | 30               | 2d8  | 2d8  | 2d6  | 1d8  |
+| Huge        | 28–29 | 6–7   | 18–21 | 8d10       | 20               | 2d6  | 2d6  | 2d4  | 1d6  |
+| Large       | 20–21 | 8–9   | 14–17 | 2d10       | 15               | 1d8  | 1d8  | 1d6  | 1d4  |
+| Medium-size | 12–13 | 10–11 | 10–13 | 1d10       | 10               | 1d6  | 1d6  | 1d4  | 1d3  |
+| Small       | 8–9   | 12–13 | 8–9   | 1/2 d10    | 5                | 1d4  | 1d4  | 1d3  | 1d2  |
+| Tiny        | 4–5   | 14–15 | 8–9   | 1/4 d10    | —                | 1d3  | 1d3  | 1d2  | 1    |
+| Diminutive  | 2–3   | 16–17 | 8–9   | 1/8 d10    | —                | 1d2  | 1d2  | 1    | —    |
+| Fine        | 2–3   | 18–19 | 8–9   | 1/16 d10   | —                | 1    | 1    | —    | —    |
 
 ## Outsider
 
@@ -1578,164 +585,19 @@ feet.
 
 **Special:** Outsiders cannot be raised from the dead.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Outsiders</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><h3>Str</h3></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>44–47</p></td>
-<td><p>6–7</p></td>
-<td><p>28–29</p></td>
-<td><p>32d8</p></td>
-<td><p>4d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>36–39</p></td>
-<td><p>6–7</p></td>
-<td><p>24–25</p></td>
-<td><p>16d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>28–31</p></td>
-<td><p>6–7</p></td>
-<td><p>20–21</p></td>
-<td><p>8d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>20–23</p></td>
-<td><p>8–9</p></td>
-<td><p>16–17</p></td>
-<td><p>2d8</p></td>
-<td><p>1d8</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>12–15</p></td>
-<td><p>10–11</p></td>
-<td><p>12–13</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>8–11</p></td>
-<td><p>12–13</p></td>
-<td><p>10–11</p></td>
-<td><p>1/2 d8</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>4–7</p></td>
-<td><p>14–15</p></td>
-<td><p>10–11</p></td>
-<td><p>1/4 d8</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>2–3</p></td>
-<td><p>16–17</p></td>
-<td><p>10–11</p></td>
-<td><p>1/8 d8</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>2–3</p></td>
-<td><p>18–19</p></td>
-<td><p>10–11</p></td>
-<td><p>1/16 d8</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Outsiders**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 44–47 | 6–7   | 28–29 | 32d8       | 4d6  | 4d6  | 2d8  | 2d6  |
+| Gargantuan  | 36–39 | 6–7   | 24–25 | 16d8       | 2d8  | 2d8  | 2d6  | 1d8  |
+| Huge        | 28–31 | 6–7   | 20–21 | 8d8        | 2d6  | 2d6  | 2d4  | 1d6  |
+| Large       | 20–23 | 8–9   | 16–17 | 2d8        | 1d8  | 1d8  | 1d6  | 1d4  |
+| Medium-size | 12–15 | 10–11 | 12–13 | 1d8        | 1d6  | 1d6  | 1d4  | 1d3  |
+| Small       | 8–11  | 12–13 | 10–11 | 1/2 d8     | 1d4  | 1d4  | 1d3  | 1d2  |
+| Tiny        | 4–7   | 14–15 | 10–11 | 1/4 d8     | 1d3  | 1d3  | 1d2  | 1    |
+| Diminutive  | 2–3   | 16–17 | 10–11 | 1/8 d8     | 1d2  | 1d2  | 1    | —    |
+| Fine        | 2–3   | 18–19 | 10–11 | 1/16 d8    | 1    | 1    | —    | —    |
 
 ## Plant
 
@@ -1768,22 +630,19 @@ low-light vision.
 **Blindsight (Ex):** Most plants without visual sensory organs have
 blindsight with a range of 60 feet.
 
-|                   |         |         |         |                |          |          |          |          |
-|-------------------|---------|---------|---------|----------------|----------|----------|----------|----------|
-| **Table: Plants** |         |         |         |                |          |          |          |          |
-|                   |         |         |         |                |          |          |          |          |
-| **Size**          | **Str** | **Dex** | **Con** | **Minimum HD** | **Slam** | **Bite** | **Claw** | **Gore** |
-| Colossal          | 44–45   | 6–7     | 28–29   | 32d8           | 4d6      | 2d6      | 2d8      | 4d6      |
-| Gargantuan        | 36–37   | 6–7     | 24–25   | 16d8           | 2d8      | 1d8      | 2d6      | 2d8      |
-| Huge              | 28–29   | 6–7     | 20–21   | 4d8            | 2d6      | 1d6      | 2d4      | 2d6      |
-| Large             | 20–21   | 8–9     | 16–17   | 2d8            | 1d8      | 1d4      | 1d6      | 1d8      |
-| Medium-size       | 12–13   | 10–11   | 12–13   | 1d8            | 1d6      | 1d3      | 1d4      | 1d6      |
-| Small             | 8–9     | 12–13   | 10–11   | 1/2 d8         | 1d4      | 1d2      | 1d3      | 1d4      |
-| Tiny              | 4–5     | 14–15   | 10–11   | 1/4 d8         | 1d3      | 1        | 1d2      | 1d3      |
-| Diminutive        | 2–3     | 16–17   | 10–11   | 1/8 d8         | 1d2      | —        | 1        | 1d2      |
-|                   |         |         |         |                |          |          |          |          |
-| Fine              | 2–3     | 18–19   | 10–11   | 1/16 d8        | 1        | —        | —        | 1        |
-|                   |         |         |         |                |          |          |          |          |
+**Table: Plants**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 44–45 | 6–7   | 28–29 | 32d8       | 4d6  | 2d6  | 2d8  | 4d6  |
+| Gargantuan  | 36–37 | 6–7   | 24–25 | 16d8       | 2d8  | 1d8  | 2d6  | 2d8  |
+| Huge        | 28–29 | 6–7   | 20–21 | 4d8        | 2d6  | 1d6  | 2d4  | 2d6  |
+| Large       | 20–21 | 8–9   | 16–17 | 2d8        | 1d8  | 1d4  | 1d6  | 1d8  |
+| Medium-size | 12–13 | 10–11 | 12–13 | 1d8        | 1d6  | 1d3  | 1d4  | 1d6  |
+| Small       | 8–9   | 12–13 | 10–11 | 1/2 d8     | 1d4  | 1d2  | 1d3  | 1d4  |
+| Tiny        | 4–5   | 14–15 | 10–11 | 1/4 d8     | 1d3  | 1    | 1d2  | 1d3  |
+| Diminutive  | 2–3   | 16–17 | 10–11 | 1/8 d8     | 1d2  | —    | 1    | 1d2  |
+| Fine        | 2–3   | 18–19 | 10–11 | 1/16 d8    | 1    | —    | —    | 1    |
 
 Undead
 
@@ -1831,164 +690,19 @@ immediately if reduced to 0 hit points or less.
 
 **Special:** Undead cannot be raised from the dead.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Undead</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>44–45</p></td>
-<td><p>6–7</p></td>
-<td><p>—</p></td>
-<td><p>32d12</p></td>
-<td><p>4d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>36–37</p></td>
-<td><p>6–7</p></td>
-<td><p>—</p></td>
-<td><p>21d12</p></td>
-<td><p>2d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>28–29</p></td>
-<td><p>6–7</p></td>
-<td><p>—</p></td>
-<td><p>10d12</p></td>
-<td><p>2d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>20–21</p></td>
-<td><p>8–9</p></td>
-<td><p>—</p></td>
-<td><p>4d12</p></td>
-<td><p>1d8</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>12–13</p></td>
-<td><p>10–11</p></td>
-<td><p>—</p></td>
-<td><p>1d12</p></td>
-<td><p>1d6</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>8–9</p></td>
-<td><p>12–13</p></td>
-<td><p>—</p></td>
-<td><p>1/2 d12</p></td>
-<td><p>1d4</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>4–5</p></td>
-<td><p>14–15</p></td>
-<td><p>—</p></td>
-<td><p>1/4 d12</p></td>
-<td><p>1d3</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>2–3</p></td>
-<td><p>16–17</p></td>
-<td><p>—</p></td>
-<td><p>1/8 d12</p></td>
-<td><p>1d2</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>2–3</p></td>
-<td><p>18–19</p></td>
-<td><p>—</p></td>
-<td><p>1/16 d12</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Undead**
+
+| Size        | Str   | Dex   | Con | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-----|------------|------|------|------|------|
+| Colossal    | 44–45 | 6–7   | —   | 32d12      | 4d6  | 4d6  | 2d8  | 2d6  |
+| Gargantuan  | 36–37 | 6–7   | —   | 21d12      | 2d8  | 2d8  | 2d6  | 1d8  |
+| Huge        | 28–29 | 6–7   | —   | 10d12      | 2d6  | 2d6  | 2d4  | 1d6  |
+| Large       | 20–21 | 8–9   | —   | 4d12       | 1d8  | 1d8  | 1d6  | 1d4  |
+| Medium-size | 12–13 | 10–11 | —   | 1d12       | 1d6  | 1d6  | 1d4  | 1d3  |
+| Small       | 8–9   | 12–13 | —   | 1/2 d12    | 1d4  | 1d4  | 1d3  | 1d2  |
+| Tiny        | 4–5   | 14–15 | —   | 1/4 d12    | 1d3  | 1d3  | 1d2  | 1    |
+| Diminutive  | 2–3   | 16–17 | —   | 1/8 d12    | 1d2  | 1d2  | 1    | —    |
+| Fine        | 2–3   | 18–19 | —   | 1/16 d12   | 1    | 1    | —    | —    |
 
 Vermin
 
@@ -2029,161 +743,17 @@ blindsight with a range of 60 feet.
 **Resistance to Massive Damage (Ex):** Vermin gain a +5 species bonus on
 Fortitude saves to negate the effects of massive damage.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Vermin</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Minimum HD</strong></p></td>
-<td><p><strong>Slam</strong></p></td>
-<td><p><strong>Bite</strong></p></td>
-<td><p><strong>Claw</strong></p></td>
-<td><p><strong>Gore</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>42–43</p></td>
-<td><p>6–7</p></td>
-<td><p>26–27</p></td>
-<td><p>32d8</p></td>
-<td><p>2d6</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-<td><p>4d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>34–35</p></td>
-<td><p>6–7</p></td>
-<td><p>22–23</p></td>
-<td><p>16d8</p></td>
-<td><p>1d8</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>26–27</p></td>
-<td><p>6–7</p></td>
-<td><p>18–19</p></td>
-<td><p>8d8</p></td>
-<td><p>1d6</p></td>
-<td><p>2d6</p></td>
-<td><p>2d4</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>18–19</p></td>
-<td><p>8–9</p></td>
-<td><p>14–15</p></td>
-<td><p>2d8</p></td>
-<td><p>1d4</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>10–11</p></td>
-<td><p>10–11</p></td>
-<td><p>10–11</p></td>
-<td><p>1d8</p></td>
-<td><p>1d3</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>6–7</p></td>
-<td><p>12–13</p></td>
-<td><p>8–9</p></td>
-<td><p>1/2 d8</p></td>
-<td><p>1d2</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>2–3</p></td>
-<td><p>14–15</p></td>
-<td><p>8–9</p></td>
-<td><p>1/4 d8</p></td>
-<td><p>1</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>1</p></td>
-<td><p>16–17</p></td>
-<td><p>8–9</p></td>
-<td><p>1/8 d8</p></td>
-<td><p>—</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>18–19</p></td>
-<td><p>8–9</p></td>
-<td><p>1/16 d8</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Vermin**
+
+| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+|-------------|-------|-------|-------|------------|------|------|------|------|
+| Colossal    | 42–43 | 6–7   | 26–27 | 32d8       | 2d6  | 4d6  | 2d8  | 4d6  |
+| Gargantuan  | 34–35 | 6–7   | 22–23 | 16d8       | 1d8  | 2d8  | 2d6  | 2d8  |
+| Huge        | 26–27 | 6–7   | 18–19 | 8d8        | 1d6  | 2d6  | 2d4  | 2d6  |
+| Large       | 18–19 | 8–9   | 14–15 | 2d8        | 1d4  | 1d8  | 1d6  | 1d8  |
+| Medium-size | 10–11 | 10–11 | 10–11 | 1d8        | 1d3  | 1d6  | 1d4  | 1d6  |
+| Small       | 6–7   | 12–13 | 8–9   | 1/2 d8     | 1d2  | 1d4  | 1d3  | 1d4  |
+| Tiny        | 2–3   | 14–15 | 8–9   | 1/4 d8     | 1    | 1d3  | 1d2  | 1d3  |
+| Diminutive  | 1     | 16–17 | 8–9   | 1/8 d8     | —    | 1d2  | 1    | 1d2  |
+| Fine        | 1     | 18–19 | 8–9   | 1/16 d8    | —    | 1    | —    | 1    |
+

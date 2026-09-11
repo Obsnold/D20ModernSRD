@@ -2305,21 +2305,17 @@ attacks, use the base damage values in the table below. Otherwise, use
 the values below or the base creature’s base damage, whichever is
 greater.
 
-|             |                 |                 |
-|-------------|-----------------|-----------------|
-| **Size **   | **Bite Damage** | **Claw Damage** |
-|             |                 |                 |
-| Fine        | 1               | —               |
-| Diminutive  | 1d2             | —               |
-| Tiny        | 1d3             | 1               |
-| Small       | 1d4             | 1d2             |
-| Medium-size | 1d6             | 1d3             |
-| Large       | 1d8             | 1d4             |
-| Huge        | 2d6             | 1d6             |
-| Gargantuan  | 2d8             | 2d4             |
-|             |                 |                 |
-| Colossal    | 4d6             | 2d6             |
-|             |                 |                 |
+| Size        | Bite Damage | Claw Damage |
+|-------------|-------------|-------------|
+| Fine        | 1           | —           |
+| Diminutive  | 1d2         | —           |
+| Tiny        | 1d3         | 1           |
+| Small       | 1d4         | 1d2         |
+| Medium-size | 1d6         | 1d3         |
+| Large       | 1d8         | 1d4         |
+| Huge        | 2d6         | 1d6         |
+| Gargantuan  | 2d8         | 2d4         |
+| Colossal    | 4d6         | 2d6         |
 
 **Special Qualities:** A ghoul retains all the special qualities of the
 base creature and gains the additional special qualities described
@@ -2489,75 +2485,17 @@ claw attacks, use the base damage values in the table below. Otherwise,
 use the values below or the base creature’s base damage, whichever is
 greater.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Size</h3></td>
-<td><h3>Bite Damage</h3></td>
-<td><h3>Claw Damage</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fine</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>1d2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>1d3</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>1d4</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>1d6</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>1d8</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>2d6</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>2d8</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>4d6</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size        | Bite Damage | Claw Damage |
+|-------------|-------------|-------------|
+| Fine        | 1           | —           |
+| Diminutive  | 1d2         | 1           |
+| Tiny        | 1d3         | 1d2         |
+| Small       | 1d4         | 1d3         |
+| Medium-size | 1d6         | 1d4         |
+| Large       | 1d8         | 1d6         |
+| Huge        | 2d6         | 1d8         |
+| Gargantuan  | 2d8         | 2d6         |
+| Colossal    | 4d6         | 2d8         |
 
 **Special Qualities:** A half-fiend retains all the special qualities of
 the base creature and gains the additional special qualities described
@@ -2590,64 +2528,13 @@ score of 8 or higher possesses spell-like abilities according to its
 character level, as given on the table below. Unless otherwise
 indicated, each ability is usable once per day.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Level</h3></td>
-<td><h3>Abilities</h3></td>
-<td><h3>Level</h3></td>
-<td><h3>Abilities</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1–2</p></td>
-<td><p><em>Mage hand </em>3/day</p></td>
-<td><p>11–12</p></td>
-<td><p><em>Levitate</em></p></td>
-</tr>
-<tr class="even">
-<td><p>3–4</p></td>
-<td><p><em>Daze </em>3/day</p></td>
-<td><p>13–14</p></td>
-<td><p><em>Displacement</em></p></td>
-</tr>
-<tr class="odd">
-<td><p>5–6</p></td>
-<td><p><em>Change self </em></p></td>
-<td><p>15–16</p></td>
-<td><p><em>Tongues</em></p></td>
-</tr>
-<tr class="even">
-<td><p>7–8</p></td>
-<td><p><em>Cause fear </em></p></td>
-<td><p>17–18</p></td>
-<td><p><em>Bestow curse</em></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>9–10</p></td>
-<td><p><em>Blur </em></p></td>
-<td><p>19+</p></td>
-<td><p><em>Animate dead</em></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Level | Abilities         | Level | Abilities      |
+|-------|-------------------|-------|----------------|
+| 1–2   | *Mage hand *3/day | 11–12 | *Levitate*     |
+| 3–4   | *Daze *3/day      | 13–14 | *Displacement* |
+| 5–6   | *Change self *    | 15–16 | *Tongues*      |
+| 7–8   | *Cause fear *     | 17–18 | *Bestow curse* |
+| 9–10  | *Blur *           | 19+   | *Animate dead* |
 
 *Telepathy *(Su): A half-fiend with an Intelligence score of 12 or
 higher can communicate telepathically with any living creature within

@@ -45,170 +45,20 @@ Profession (Wis), Read/Write Language (none), Repair (Int), Research
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Arcane Arranger</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>Word on the street</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>False allegiance</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>Shadow resources</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Pack rat</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Expert in your field</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>Up my sleeve</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>Up my sleeve</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Arcane Arranger**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+| 1st   | +0                | +0        | +0       | +1        | Word on the street   | +0            | +2               |
+| 2nd   | +1                | +0        | +0       | +2        | False allegiance     | +1            | +2               |
+| 3rd   | +1                | +1        | +1       | +2        | Bonus feat           | +1            | +2               |
+| 4th   | +2                | +1        | +1       | +2        | Shadow resources     | +1            | +3               |
+| 5th   | +2                | +1        | +1       | +3        | Pack rat             | +2            | +3               |
+| 6th   | +3                | +2        | +2       | +3        | Bonus feat           | +2            | +3               |
+| 7th   | +3                | +2        | +2       | +4        | Expert in your field | +2            | +4               |
+| 8th   | +4                | +2        | +2       | +4        | Up my sleeve         | +3            | +4               |
+| 9th   | +4                | +3        | +3       | +4        | Bonus feat           | +3            | +4               |
+| 10th  | +5                | +3        | +3       | +5        | Up my sleeve         | +3            | +5               |
 
 ## Class Features
 
@@ -262,16 +112,13 @@ required abilities are:
 |                                                                                                                                        |                         |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | **Common Skill **(Ride, Pilot, Treat Injury)                                                                                           | DC 10                   |
-|                                                                                                                                        |                         |
 | **Uncommon Skill **(subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                   | DC 15                   |
 | **Rare Skill **(skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                        | DC 20                   |
 | **Specific Feat **                                                                                                                     | DC 20                   |
 | **Class Feature **(spellcasting, turn undead, psionics)                                                                                | DC 20                   |
 | **Specific Combination **of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25                   |
 | Finding someone willing to perform activities secretly or illegally                                                                    | DC +5                   |
-|                                                                                                                                        |                         |
 | Finding someone with a specific level of ability                                                                                       | Add desired ranks to DC |
-|                                                                                                                                        |                         |
 
 A successful check indicates that the individual is available, and the
 Arcane Arranger knows about him. It does not guarantee the character
@@ -360,170 +207,20 @@ Profession (Wis), Research (Int), Ride (Dex), and Swim (Str).
 
 **Skill Points at Each Level:** 3 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table:The Archaic Weaponsmaster</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Weapon specialization</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>Imbue weapon +1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Quick weapon draw</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>Expert in your field</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Weapon stun</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>Imbue weapon +2</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>10th</h2></td>
-<td><h2>+7</h2></td>
-<td><h2>+7</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>+3</h2></td>
-<td><h2>Increased weapon critical</h2></td>
-<td><h2>+5</h2></td>
-<td><h2>+4</h2></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table:The Archaic Weaponsmaster**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                   | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|---------------------------|---------------|------------------|
+| 1st   | +0                | +2        | +0       | +0        | Weapon specialization     | +1            | +1               |
+| 2nd   | +1                | +3        | +0       | +0        | Imbue weapon +1           | +1            | +1               |
+| 3rd   | +2                | +3        | +1       | +1        | Bonus feat                | +2            | +1               |
+| 4th   | +3                | +4        | +1       | +1        | Quick weapon draw         | +2            | +2               |
+| 5th   | +3                | +4        | +1       | +1        | Expert in your field      | +3            | +2               |
+| 6th   | +4                | +5        | +2       | +2        | Bonus feat                | +3            | +2               |
+| 7th   | +5                | +5        | +2       | +2        | Weapon stun               | +4            | +3               |
+| 8th   | +6                | +6        | +2       | +2        | Imbue weapon +2           | +4            | +3               |
+| 9th   | +6                | +6        | +3       | +3        | Bonus feat                | +5            | +3               |
+| 10th  | +7                | +7        | +3       | +3        | Increased weapon critical | +5            | +4               |
 
 ## Class Features
 
@@ -635,170 +332,20 @@ streetwise) (Int), Listen (Wis), Perform (act, sing) (Cha), Profession
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table:The Glamourist</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h5>Level</h5></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Self-confidence</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Hidden motives</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Hidden allegiance</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Audience</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Daze</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Utterly convincing</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>Charm person</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table:The Glamourist**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special            | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|--------------------|---------------|------------------|
+| 1st   | +0                | +0        | +2       | +0        | Self-confidence    | +1            | +0               |
+| 2nd   | +1                | +0        | +3       | +0        | Hidden motives     | +1            | +0               |
+| 3rd   | +1                | +1        | +3       | +1        | Bonus feat         | +2            | +1               |
+| 4th   | +2                | +1        | +4       | +1        | Hidden allegiance  | +2            | +1               |
+| 5th   | +2                | +1        | +4       | +1        | Audience           | +3            | +1               |
+| 6th   | +3                | +2        | +5       | +2        | Bonus feat         | +3            | +2               |
+| 7th   | +3                | +2        | +5       | +2        | Daze               | +4            | +2               |
+| 8th   | +4                | +2        | +6       | +2        | Utterly convincing | +4            | +2               |
+| 9th   | +4                | +3        | +6       | +3        | Bonus feat         | +5            | +3               |
+| 10th  | +5                | +3        | +7       | +3        | Charm person       | +5            | +3               |
 
 ## Class Features
 
@@ -909,24 +456,20 @@ Motive (Wis), Sleight of Hand (Dex), Speak Language (none), Spellcraft
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-|                       |                       |               |              |               |                               |                   |                      |
-|-----------------------|-----------------------|---------------|--------------|---------------|-------------------------------|-------------------|----------------------|
-| **Table: The Mystic** |                       |               |              |               |                               |                   |                      |
-|                       |                       |               |              |               |                               |                   |                      |
-| **Level**             | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                   | **Defense Bonus** | **Reputation Bonus** |
-|                       |                       |               |              |               |                               |                   |                      |
-| 1st                   | +0                    | +2            | +1           | +1            | Arcane skills, divine spells  | +1                | +2                   |
-| 2nd                   | +1                    | +3            | +2           | +2            | Turn undead, divine spells    | +1                | +2                   |
-| 3rd                   | +1                    | +3            | +2           | +2            | Bonus feat, divine spells     | +2                | +2                   |
-| 4th                   | +2                    | +4            | +2           | +2            | Combat casting, divine spells | +2                | +3                   |
-| 5th                   | +2                    | +4            | +3           | +3            | Brew potion, divine spells    | +3                | +3                   |
-| 6th                   | +3                    | +5            | +3           | +3            | Bonus feat, divine spells     | +3                | +3                   |
-| 7th                   | +3                    | +5            | +4           | +4            | Discern lie, divine spells    | +4                | +4                   |
-| 8th                   | +4                    | +6            | +4           | +4            | Turn humans, divine spells    | +4                | +4                   |
-| 9th                   | +4                    | +6            | +4           | +4            | Bonus feat, divine spells     | +5                | +4                   |
-|                       |                       |               |              |               |                               |                   |                      |
-| 10th                  | +5                    | +7            | +5           | +5            | Empower spell, divine spells  | +5                | +5                   |
-|                       |                       |               |              |               |                               |                   |                      |
+**Table: The Mystic**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
+| 1st   | +0                | +2        | +1       | +1        | Arcane skills, divine spells  | +1            | +2               |
+| 2nd   | +1                | +3        | +2       | +2        | Turn undead, divine spells    | +1            | +2               |
+| 3rd   | +1                | +3        | +2       | +2        | Bonus feat, divine spells     | +2            | +2               |
+| 4th   | +2                | +4        | +2       | +2        | Combat casting, divine spells | +2            | +3               |
+| 5th   | +2                | +4        | +3       | +3        | Brew potion, divine spells    | +3            | +3               |
+| 6th   | +3                | +5        | +3       | +3        | Bonus feat, divine spells     | +3            | +3               |
+| 7th   | +3                | +5        | +4       | +4        | Discern lie, divine spells    | +4            | +4               |
+| 8th   | +4                | +6        | +4       | +4        | Turn humans, divine spells    | +4            | +4               |
+| 9th   | +4                | +6        | +4       | +4        | Bonus feat, divine spells     | +5            | +4               |
+| 10th  | +5                | +7        | +5       | +5        | Empower spell, divine spells  | +5            | +5               |
 
 ## Class Features
 
@@ -985,406 +528,39 @@ Mystics may not use the spells listed below.
 5th-level: *Mass cure light wounds, mass inflict light wounds, raise
 dead*
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p class="heading">Cha Score</p></td>
-<td><p><strong>—Bonus Spells by Spell Level—</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><strong>5</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>12–13</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>14–15</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>16–17</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>18–19</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>20–21</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>22–23</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Mystic Level</strong></p></td>
-<td><p><strong>—Spells per Day by Spell Level—</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><strong>5</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Mystic Level</strong></p></td>
-<td><p><strong>—Mystic Spells Known—</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><strong>5</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>4</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>5</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>5</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>6</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p>6</p></td>
-<td><p>4</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>7</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>7</p></td>
-<td><p>5</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>9</p></td>
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Cha Score        | —Bonus Spells by Spell Level—       |       |       |       |       |       |
+|------------------|-------------------------------------|-------|-------|-------|-------|-------|
+|                  | **1**                               | **2** | **3** | **4** | **5** |       |
+| 12–13            | 1                                   | —     | —     | —     | —     |       |
+| 14–15            | 1                                   | 1     | —     | —     | —     |       |
+| 16–17            | 1                                   | 1     | 1     | —     | —     |       |
+| 18–19            | 1                                   | 1     | 1     | 1     | —     |       |
+| 20–21            | 2                                   | 1     | 1     | 1     | 1     |       |
+| 22–23            | 2                                   | 2     | 1     | 1     | 1     |       |
+| **Mystic Level** | **—Spells per Day by Spell Level—** |       |       |       |       |       |
+|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
+| 1                | 3                                   | 2     | —     | —     | —     | —     |
+| 2                | 4                                   | 3     | —     | —     | —     | —     |
+| 3                | 4                                   | 3     | 2     | —     | —     | —     |
+| 4                | 5                                   | 4     | 3     | —     | —     | —     |
+| 5                | 5                                   | 4     | 3     | 2     | —     | —     |
+| 6                | 5                                   | 4     | 4     | 3     | —     | —     |
+| 7                | 6                                   | 5     | 4     | 3     | 2     | —     |
+| 8                | 6                                   | 5     | 4     | 4     | 3     | —     |
+| 9                | 6                                   | 5     | 5     | 4     | 3     | 2     |
+| 10               | 6                                   | 5     | 5     | 4     | 4     | 3     |
+| **Mystic Level** | **—Mystic Spells Known—**           |       |       |       |       |       |
+|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
+| 1                | 4                                   | 2     | —     | —     | —     | —     |
+| 2                | 5                                   | 2     | —     | —     | —     | —     |
+| 3                | 5                                   | 3     | 1     | —     | —     | —     |
+| 4                | 6                                   | 3     | 2     | —     | —     | —     |
+| 5                | 6                                   | 4     | 2     | 1     | —     | —     |
+| 6                | 7                                   | 4     | 3     | 2     | —     | —     |
+| 7                | 7                                   | 5     | 3     | 2     | 1     | —     |
+| 8                | 8                                   | 5     | 4     | 3     | 2     | —     |
+| 9                | 8                                   | 5     | 4     | 3     | 2     | 1     |
+| 10               | 9                                   | 5     | 5     | 4     | 3     | 2     |
 
 **Turn or Rebuke Undead**
 
@@ -1526,23 +702,20 @@ Spot (Wis), Survival (Wis).
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-|                             |                       |               |              |               |                           |                   |                      |
-|-----------------------------|-----------------------|---------------|--------------|---------------|---------------------------|-------------------|----------------------|
-| **Table:The Shadow Hunter** |                       |               |              |               |                           |                   |                      |
-|                             |                       |               |              |               |                           |                   |                      |
-| **Level **                  | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special **              | **Defense Bonus** | **Reputation Bonus** |
-| 1st                         | +0                    | +1            | +1           | +1            | Target bonus +1           | +1                | +0                   |
-| 2nd                         | +1                    | +2            | +2           | +2            | Swift track               | +2                | +0                   |
-| 3rd                         | +2                    | +2            | +2           | +2            | Bonus feat                | +2                | +0                   |
-| 4th                         | +3                    | +2            | +2           | +2            | No trace, target bonus +2 | +3                | +0                   |
-| 5th                         | +3                    | +3            | +3           | +3            | Play a hunch              | +4                | +1                   |
-| 6th                         | +4                    | +3            | +3           | +3            | Bonus feat                | +4                | +1                   |
-| 7th                         | +5                    | +4            | +4           | +4            | Target bonus +3           | +5                | +1                   |
-| 8th                         | +6                    | +4            | +4           | +4            | Detect magical aura       | +6                | +2                   |
-| 9th                         | +6                    | +4            | +4           | +4            | Bonus feat                | +6                | +2                   |
-|                             |                       |               |              |               |                           |                   |                      |
-| 10th                        | +7                    | +5            | +5           | +5            | Locate target             | +7                | +2                   |
-|                             |                       |               |              |               |                           |                   |                      |
+**Table:The Shadow Hunter**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                   | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|---------------------------|---------------|------------------|
+| 1st   | +0                | +1        | +1       | +1        | Target bonus +1           | +1            | +0               |
+| 2nd   | +1                | +2        | +2       | +2        | Swift track               | +2            | +0               |
+| 3rd   | +2                | +2        | +2       | +2        | Bonus feat                | +2            | +0               |
+| 4th   | +3                | +2        | +2       | +2        | No trace, target bonus +2 | +3            | +0               |
+| 5th   | +3                | +3        | +3       | +3        | Play a hunch              | +4            | +1               |
+| 6th   | +4                | +3        | +3       | +3        | Bonus feat                | +4            | +1               |
+| 7th   | +5                | +4        | +4       | +4        | Target bonus +3           | +5            | +1               |
+| 8th   | +6                | +4        | +4       | +4        | Detect magical aura       | +6            | +2               |
+| 9th   | +6                | +4        | +4       | +4        | Bonus feat                | +6            | +2               |
+| 10th  | +7                | +5        | +5       | +5        | Locate target             | +7            | +2               |
 
 **Class Features**
 
@@ -1670,23 +843,20 @@ Search (Int).
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
 
-|                           |                       |               |              |               |                      |                   |                      |
-|---------------------------|-----------------------|---------------|--------------|---------------|----------------------|-------------------|----------------------|
-| **Table: The Shadowjack** |                       |               |              |               |                      |                   |                      |
-|                           |                       |               |              |               |                      |                   |                      |
-| **Level**                 | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**          | **Defense Bonus** | **Reputation Bonus** |
-| 1st                       | +0                    | +0            | +0           | +2            | Read/write code      | +1                | +0                   |
-| 2nd                       | +1                    | +0            | +0           | +3            | Online presence      | +1                | +0                   |
-| 3rd                       | +1                    | +1            | +1           | +3            | Bonus feat           | +2                | +1                   |
-| 4th                       | +2                    | +1            | +1           | +4            | Shadowjack abilities | +2                | +1                   |
-| 5th                       | +2                    | +1            | +1           | +4            | Shadowjack abilities | +3                | +1                   |
-| 6th                       | +3                    | +2            | +2           | +5            | Bonus feat           | +3                | +2                   |
-| 7th                       | +3                    | +2            | +2           | +5            | Shadowjack abilities | +4                | +2                   |
-| 8th                       | +4                    | +2            | +2           | +6            | Shadowjack abilities | +4                | +2                   |
-| 9th                       | +4                    | +3            | +3           | +6            | Bonus feat           | +5                | +3                   |
-|                           |                       |               |              |               |                      |                   |                      |
-| 10th                      | +5                    | +3            | +3           | +7            | Virtual incantations | +5                | +3                   |
-|                           |                       |               |              |               |                      |                   |                      |
+**Table: The Shadowjack**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+| 1st   | +0                | +0        | +0       | +2        | Read/write code      | +1            | +0               |
+| 2nd   | +1                | +0        | +0       | +3        | Online presence      | +1            | +0               |
+| 3rd   | +1                | +1        | +1       | +3        | Bonus feat           | +2            | +1               |
+| 4th   | +2                | +1        | +1       | +4        | Shadowjack abilities | +2            | +1               |
+| 5th   | +2                | +1        | +1       | +4        | Shadowjack abilities | +3            | +1               |
+| 6th   | +3                | +2        | +2       | +5        | Bonus feat           | +3            | +2               |
+| 7th   | +3                | +2        | +2       | +5        | Shadowjack abilities | +4            | +2               |
+| 8th   | +4                | +2        | +2       | +6        | Shadowjack abilities | +4            | +2               |
+| 9th   | +4                | +3        | +3       | +6        | Bonus feat           | +5            | +3               |
+| 10th  | +5                | +3        | +3       | +7        | Virtual incantations | +5            | +3               |
 
 **Class Features**
 
@@ -1749,16 +919,12 @@ successfully installed it automatically defeats that systems’ security
 upon return trips—the Shadowjack no longer needs to make Computer Use
 checks to enter that system.
 
-|                       |        |
-|-----------------------|--------|
-| **Level of Security** | **DC** |
-|                       |        |
-| Minimum               | 25     |
-| Average               | 30º    |
-| Exceptional           | 40     |
-|                       |        |
-| Maximum               | 45     |
-|                       |        |
+| Level of Security | DC  |
+|-------------------|-----|
+| Minimum           | 25  |
+| Average           | 30º |
+| Exceptional       | 40  |
+| Maximum           | 45  |
 
 It is important to keep backdoors hidden from the system administrator,
 who will always be on the lookout for such invasions. A backdoor
@@ -1850,160 +1016,20 @@ Tumble (Dex).
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Speed Demon</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Uncanny dodge X</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Hit the weak spot</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat, vehicle empathy</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Need for speed</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Nursing the turns</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat, commandeer</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Leadfoot</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Redlining the needle</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat. restore vehicle</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>One with the machine</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Speed Demon**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
+| 1st   | +0                | +0        | +2       | +0        | Uncanny dodge X             | +1            | +0               |
+| 2nd   | +1                | +0        | +3       | +0        | Hit the weak spot           | +1            | +0               |
+| 3rd   | +2                | +1        | +3       | +1        | Bonus feat, vehicle empathy | +2            | +1               |
+| 4th   | +3                | +1        | +4       | +1        | Need for speed              | +2            | +1               |
+| 5th   | +3                | +1        | +4       | +1        | Nursing the turns           | +3            | +1               |
+| 6th   | +4                | +2        | +5       | +2        | Bonus feat, commandeer      | +3            | +2               |
+| 7th   | +5                | +2        | +5       | +2        | Leadfoot                    | +4            | +2               |
+| 8th   | +6                | +2        | +6       | +2        | Redlining the needle        | +4            | +2               |
+| 9th   | +6                | +3        | +6       | +3        | Bonus feat. restore vehicle | +5            | +3               |
+| 10th  | +7                | +3        | +7       | +3        | One with the machine        | +5            | +3               |
 
 **Class Features**
 
@@ -2155,23 +1181,20 @@ Survival (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-|                               |                       |               |              |               |                          |                   |                      |
-|-------------------------------|-----------------------|---------------|--------------|---------------|--------------------------|-------------------|----------------------|
-| **Table: The Street Warrior** |                       |               |              |               |                          |                   |                      |
-|                               |                       |               |              |               |                          |                   |                      |
-| **Level**                     | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**              | **Defense Bonus** | **Reputation Bonus** |
-| 1st                           | +1                    | +2            | +0           | +0            | Urban survival           | +1                | +1                   |
-| 2nd                           | +2                    | +3            | +0           | +0            | Improvised weapons       | +1                | +1                   |
-| 3rd                           | +3                    | +3            | +1           | +1            | Bonus feat               | +2                | +1                   |
-| 4th                           | +4                    | +4            | +1           | +1            | Street cred              | +2                | +2                   |
-| 5th                           | +5                    | +4            | +1           | +1            | Improved streetfighting  | +3                | +2                   |
-| 6th                           | +6                    | +5            | +2           | +2            | Bonus feat               | +3                | +2                   |
-| 7th                           | +7                    | +5            | +2           | +2            | Weapon specialization    | +4                | +3                   |
-| 8th                           | +8                    | +6            | +2           | +2            | Improvised weapon damage | +4                | +3                   |
-| 9th                           | +9                    | +6            | +3           | +3            | Bonus feat               | +5                | +3                   |
-|                               |                       |               |              |               |                          |                   |                      |
-| 10th                          | +10                   | +7            | +3           | +3            | Advanced streetfighting  | +5                | +4                   |
-|                               |                       |               |              |               |                          |                   |                      |
+**Table: The Street Warrior**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
+| 1st   | +1                | +2        | +0       | +0        | Urban survival           | +1            | +1               |
+| 2nd   | +2                | +3        | +0       | +0        | Improvised weapons       | +1            | +1               |
+| 3rd   | +3                | +3        | +1       | +1        | Bonus feat               | +2            | +1               |
+| 4th   | +4                | +4        | +1       | +1        | Street cred              | +2            | +2               |
+| 5th   | +5                | +4        | +1       | +1        | Improved streetfighting  | +3            | +2               |
+| 6th   | +6                | +5        | +2       | +2        | Bonus feat               | +3            | +2               |
+| 7th   | +7                | +5        | +2       | +2        | Weapon specialization    | +4            | +3               |
+| 8th   | +8                | +6        | +2       | +2        | Improvised weapon damage | +4            | +3               |
+| 9th   | +9                | +6        | +3       | +3        | Bonus feat               | +5            | +3               |
+| 10th  | +10               | +7        | +3       | +3        | Advanced streetfighting  | +5            | +4               |
 
 **Class Features**
 
@@ -2272,170 +1295,20 @@ Swim (Str), Tumble (Dex).
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Swashbuckler</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>Weapon focus</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>Quick weapon draw</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Weapon specialization</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>Find the mark</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>Greater weapon specialization</p></td>
-<td><p>+5</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>Deflect missiles</p></td>
-<td><p>+6</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+6</p></td>
-<td><p>+4</p></td>
-<td><p>+6</p></td>
-<td><p>+3</p></td>
-<td><p>Bonus feat</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10th</p></td>
-<td><p>+7</p></td>
-<td><p>+5</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>Touché</p></td>
-<td><p>+7</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Swashbuckler**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
+| 1st   | +0                | +1        | +2       | +0        | Weapon focus                  | +1            | +0               |
+| 2nd   | +1                | +2        | +3       | +0        | Quick weapon draw             | +2            | +0               |
+| 3rd   | +2                | +2        | +3       | +1        | Bonus feat                    | +2            | +0               |
+| 4th   | +3                | +2        | +4       | +1        | Weapon specialization         | +3            | +0               |
+| 5th   | +3                | +3        | +4       | +1        | Find the mark                 | +4            | +1               |
+| 6th   | +4                | +3        | +5       | +2        | Bonus feat                    | +4            | +1               |
+| 7th   | +5                | +4        | +5       | +2        | Greater weapon specialization | +5            | +1               |
+| 8th   | +6                | +4        | +6       | +2        | Deflect missiles              | +6            | +1               |
+| 9th   | +6                | +4        | +6       | +3        | Bonus feat                    | +6            | +2               |
+| 10th  | +7                | +5        | +7       | +3        | Touché                        | +7            | +2               |
 
 ##### Class Features
 
@@ -2548,23 +1421,20 @@ Read/Write Language (none), Repair (Int), Research (Int), Speak Language
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
 
-|                            |                       |               |              |               |                                           |                   |                      |
-|----------------------------|-----------------------|---------------|--------------|---------------|-------------------------------------------|-------------------|----------------------|
-| **Table: The Techno Mage** |                       |               |              |               |                                           |                   |                      |
-|                            |                       |               |              |               |                                           |                   |                      |
-| **Level**                  | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                               | **Defense Bonus** | **Reputation Bonus** |
-| 1st                        | +0                    | +0            | +1           | +0            | Arcane skills, arcane spells              | +1                | +0                   |
-| 2nd                        | +1                    | +0            | +2           | +0            | Machine empathy, arcane spells            | +1                | +0                   |
-| 3rd                        | +1                    | +1            | +2           | +1            | Bonus feat, arcane spells, program spell  | +2                | +1                   |
-| 4th                        | +2                    | +1            | +2           | +1            | Create homunculus, arcane spells          | +2                | +1                   |
-| 5th                        | +2                    | +1            | +3           | +1            | Arcane spontaneous casting, arcane spells | +3                | +1                   |
-| 6th                        | +3                    | +2            | +3           | +2            | Bonus feat, arcane spells                 | +3                | +2                   |
-| 7th                        | +3                    | +2            | +4           | +2            | Spell focus, arcane spells                | +4                | +2                   |
-| 8th                        | +4                    | +2            | +4           | +2            | Online casting, arcane spells             | +4                | +2                   |
-| 9th                        | +4                    | +3            | +4           | +3            | Bonus feat, arcane spells                 | +5                | +3                   |
-|                            |                       |               |              |               |                                           |                   |                      |
-| 10th                       | +5                    | +3            | +5           | +3            | Quicken spells, arcane spells             | +5                | +3                   |
-|                            |                       |               |              |               |                                           |                   |                      |
+**Table: The Techno Mage**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
+| 1st   | +0                | +0        | +1       | +0        | Arcane skills, arcane spells              | +1            | +0               |
+| 2nd   | +1                | +0        | +2       | +0        | Machine empathy, arcane spells            | +1            | +0               |
+| 3rd   | +1                | +1        | +2       | +1        | Bonus feat, arcane spells, program spell  | +2            | +1               |
+| 4th   | +2                | +1        | +2       | +1        | Create homunculus, arcane spells          | +2            | +1               |
+| 5th   | +2                | +1        | +3       | +1        | Arcane spontaneous casting, arcane spells | +3            | +1               |
+| 6th   | +3                | +2        | +3       | +2        | Bonus feat, arcane spells                 | +3            | +2               |
+| 7th   | +3                | +2        | +4       | +2        | Spell focus, arcane spells                | +4            | +2               |
+| 8th   | +4                | +2        | +4       | +2        | Online casting, arcane spells             | +4            | +2               |
+| 9th   | +4                | +3        | +4       | +3        | Bonus feat, arcane spells                 | +5            | +3               |
+| 10th  | +5                | +3        | +5       | +3        | Quicken spells, arcane spells             | +5            | +3               |
 
 ##### Class Features
 
@@ -2580,45 +1450,11 @@ spells with somatic components harder to perform. When casting an arcane
 spell with a somatic component, the chance of arcane spell failure
 depends on the type of armor being worn, as shown below.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Armor Type</h5></td>
-<td><p><strong>Arcane Spell Failure, Proficient</strong></p></td>
-<td><p><strong>Arcane Spell Failure, Nonproficient</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Light</p></td>
-<td><p>0%</p></td>
-<td><p>10%</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium</p></td>
-<td><p>10%</p></td>
-<td><p>20%</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Heavy</p></td>
-<td><p>20%</p></td>
-<td><p>30%</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Armor Type | Arcane Spell Failure, Proficient | Arcane Spell Failure, Nonproficient |
+|------------|----------------------------------|-------------------------------------|
+| Light      | 0%                               | 10%                                 |
+| Medium     | 10%                              | 20%                                 |
+| Heavy      | 20%                              | 30%                                 |
 
 **Spellfiles**
 
@@ -2665,24 +1501,17 @@ Intelligence modifier.
 In addition, the Techno Mage receives bonus spells based on his
 Intelligence score, as shown below.
 
-|                       |                                     |       |       |       |       |       |
+| Int Score             | —Bonus Spells by Spell Level—       |       |       |       |       |       |
 |-----------------------|-------------------------------------|-------|-------|-------|-------|-------|
-| **Int Score**         | **—Bonus Spells by Spell Level—**   |       |       |       |       |       |
-|                       |                                     |       |       |       |       |       |
 |                       | **1**                               | **2** | **3** | **4** | **5** |       |
-|                       |                                     |       |       |       |       |       |
 | 12–13                 | 1                                   | —     | —     | —     | —     |       |
 | 14–15                 | 1                                   | 1     | —     | —     | —     |       |
 | 16–17                 | 1                                   | 1     | 1     | —     | —     |       |
 | 18–19                 | 1                                   | 1     | 1     | 1     | —     |       |
 | 20–21                 | 2                                   | 1     | 1     | 1     | 1     |       |
-|                       |                                     |       |       |       |       |       |
 | 22–23                 | 2                                   | 2     | 1     | 1     | 1     |       |
-|                       |                                     |       |       |       |       |       |
 | **Techno Mage Level** | **—Spells per Day by Spell Level—** |       |       |       |       |       |
-|                       |                                     |       |       |       |       |       |
 |                       | **0**                               | **1** | **2** | **3** | **4** | **5** |
-|                       |                                     |       |       |       |       |       |
 | 1                     | 3                                   | 1     | —     | —     | —     | —     |
 | 2                     | 4                                   | 2     | —     | —     | —     | —     |
 | 3                     | 4                                   | 2     | 1     | —     | —     | —     |
@@ -2692,9 +1521,7 @@ Intelligence score, as shown below.
 | 7                     | 4                                   | 4     | 3     | 2     | 1     | —     |
 | 8                     | 4                                   | 4     | 3     | 3     | 2     | —     |
 | 9                     | 4                                   | 4     | 4     | 3     | 2     | 1     |
-|                       |                                     |       |       |       |       |       |
 | 10                    | 4                                   | 4     | 4     | 3     | 3     | 2     |
-|                       |                                     |       |       |       |       |       |
 
 **Machine Empathy**
 
@@ -2834,23 +1661,20 @@ Survival (Wis), Tumble (Dex).
 
 **Skill Points at Each Level:** 3 + Intelligence modifier.
 
-|                         |                       |               |              |               |                        |                   |                      |
-|-------------------------|-----------------------|---------------|--------------|---------------|------------------------|-------------------|----------------------|
-| **Table: The Thrasher** |                       |               |              |               |                        |                   |                      |
-|                         |                       |               |              |               |                        |                   |                      |
-| **Level**               | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**            | **Defense Bonus** | **Reputation Bonus** |
-| 1st                     | +0                    | +2            | +1           | +0            | Tough Defense          | +1                | +0                   |
-| 2nd                     | +1                    | +3            | +2           | +0            | Ability surge 1/day    | +1                | +0                   |
-| 3rd                     | +2                    | +3            | +2           | +1            | Bonus feat             | +2                | +0                   |
-| 4th                     | +3                    | +4            | +2           | +1            | Uncanny dodge X        | +2                | +0                   |
-| 5th                     | +3                    | +4            | +3           | +1            | Ability surge 2/day    | +3                | +1                   |
-| 6th                     | +4                    | +5            | +3           | +2            | Bonus feat             | +3                | +1                   |
-| 7th                     | +5                    | +5            | +3           | +2            | Damage reduction 5/+1  | +4                | +1                   |
-| 8th                     | +6                    | +6            | +4           | +2            | Ability surge 3/day    | +4                | +1                   |
-| 9th                     | +6                    | +6            | +4           | +3            | Bonus feat             | +5                | +2                   |
-|                         |                       |               |              |               |                        |                   |                      |
-| 10th                    | +7                    | +7            | +5           | +3            | Damage reduction 10/+1 | +5                | +2                   |
-|                         |                       |               |              |               |                        |                   |                      |
+**Table: The Thrasher**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|------------------------|---------------|------------------|
+| 1st   | +0                | +2        | +1       | +0        | Tough Defense          | +1            | +0               |
+| 2nd   | +1                | +3        | +2       | +0        | Ability surge 1/day    | +1            | +0               |
+| 3rd   | +2                | +3        | +2       | +1        | Bonus feat             | +2            | +0               |
+| 4th   | +3                | +4        | +2       | +1        | Uncanny dodge X        | +2            | +0               |
+| 5th   | +3                | +4        | +3       | +1        | Ability surge 2/day    | +3            | +1               |
+| 6th   | +4                | +5        | +3       | +2        | Bonus feat             | +3            | +1               |
+| 7th   | +5                | +5        | +3       | +2        | Damage reduction 5/+1  | +4            | +1               |
+| 8th   | +6                | +6        | +4       | +2        | Ability surge 3/day    | +4            | +1               |
+| 9th   | +6                | +6        | +4       | +3        | Bonus feat             | +5            | +2               |
+| 10th  | +7                | +7        | +5       | +3        | Damage reduction 10/+1 | +5            | +2               |
 
 ##### Class Features
 
@@ -2966,23 +1790,20 @@ sciences), Move Silently (Dex), Navigate (Int), Pilot (Dex), Profession
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-|                         |                       |               |              |               |                                 |                   |                      |
-|-------------------------|-----------------------|---------------|--------------|---------------|---------------------------------|-------------------|----------------------|
-| **Table: The Wildlord** |                       |               |              |               |                                 |                   |                      |
-|                         |                       |               |              |               |                                 |                   |                      |
-| **Level**               | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**                     | **Defense Bonus** | **Reputation Bonus** |
-| 1st                     | +0                    | +2            | +0           | +2            | Animal empathy                  | +1                | +1                   |
-| 2nd                     | +1                    | +3            | +0           | +3            | Track, animal companion         | +1                | +1                   |
-| 3rd                     | +2                    | +3            | +1           | +3            | Bonus feat, fast climb          | +2                | +1                   |
-| 4th                     | +3                    | +4            | +1           | +4            | Resist venom, call companion    | +2                | +2                   |
-| 5th                     | +3                    | +4            | +1           | +4            | Skill mastery                   | +3                | +2                   |
-| 6th                     | +4                    | +5            | +2           | +5            | Bonus feat                      | +3                | +2                   |
-| 7th                     | +5                    | +5            | +2           | +5            | Expert in your field            | +4                | +3                   |
-| 8th                     | +6                    | +6            | +2           | +6            | Command/rebuke animals          | +4                | +3                   |
-| 9th                     | +6                    | +6            | +3           | +6            | Bonus feat, transform companion | +5                | +3                   |
-|                         |                       |               |              |               |                                 |                   |                      |
-| 10th                    | +7                    | +7            | +3           | +7            | Command/rebuke magical beasts   | +5                | +4                   |
-|                         |                       |               |              |               |                                 |                   |                      |
+**Table: The Wildlord**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
+| 1st   | +0                | +2        | +0       | +2        | Animal empathy                  | +1            | +1               |
+| 2nd   | +1                | +3        | +0       | +3        | Track, animal companion         | +1            | +1               |
+| 3rd   | +2                | +3        | +1       | +3        | Bonus feat, fast climb          | +2            | +1               |
+| 4th   | +3                | +4        | +1       | +4        | Resist venom, call companion    | +2            | +2               |
+| 5th   | +3                | +4        | +1       | +4        | Skill mastery                   | +3            | +2               |
+| 6th   | +4                | +5        | +2       | +5        | Bonus feat                      | +3            | +2               |
+| 7th   | +5                | +5        | +2       | +5        | Expert in your field            | +4            | +3               |
+| 8th   | +6                | +6        | +2       | +6        | Command/rebuke animals          | +4            | +3               |
+| 9th   | +6                | +6        | +3       | +6        | Bonus feat, transform companion | +5            | +3               |
+| 10th  | +7                | +7        | +3       | +7        | Command/rebuke magical beasts   | +5            | +4               |
 
 ##### Class Features
 
@@ -3111,19 +1932,15 @@ ability to turn, command, or rebuke undead for the Acolyte*.*
 As the Wildlord grows in power and ability, so too does the power of her
 animal companion.
 
-|                 |              |                   |                 |                    |
-|-----------------|--------------|-------------------|-----------------|--------------------|
-| **Class Level** | **Bonus HD** | **Natural Armor** | **Str/DexAdj.** | **Special**        |
-|                 |              |                   |                 |                    |
-| 2-3             | +0           | 0                 | +0              | Link, share spells |
-| 4–5             | +2           | 2                 | +1              | Evasion            |
-| 6               | +4           | 4                 | +2              | Devotion           |
-| 7               | +6           | 6                 | +3              | Multiattack        |
-| 8               | +8           | 8                 | +4              |                    |
-| 9               | +10          | 10                | +5              | Improved evasion   |
-|                 |              |                   |                 |                    |
-| 10              | +12          | 12                | +6              |                    |
-|                 |              |                   |                 |                    |
+| Class Level | Bonus HD | Natural Armor | Str/DexAdj. | Special            |
+|-------------|----------|---------------|-------------|--------------------|
+| 2-3         | +0       | 0             | +0          | Link, share spells |
+| 4–5         | +2       | 2             | +1          | Evasion            |
+| 6           | +4       | 4             | +2          | Devotion           |
+| 7           | +6       | 6             | +3          | Multiattack        |
+| 8           | +8       | 8             | +4          |                    |
+| 9           | +10      | 10            | +5          | Improved evasion   |
+| 10          | +12      | 12            | +6          |                    |
 
 *Class Level: *The level of the Wildlord.
 
@@ -3216,18 +2033,15 @@ theology and philosophy) (Int), Profession (Wis), Read/Write Language
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
 
-|                         |                       |               |              |               |                      |                   |                      |
-|-------------------------|-----------------------|---------------|--------------|---------------|----------------------|-------------------|----------------------|
-| **Table: The Archmage** |                       |               |              |               |                      |                   |                      |
-|                         |                       |               |              |               |                      |                   |                      |
-| **Level**               | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special**          | **Defense Bonus** | **Reputation Bonus** |
-| 1st                     | +0                    | +0            | +0           | +2            | Total spellcasting   | +1                | +2                   |
-| 2nd                     | +1                    | +0            | +0           | +3            | Increased spells/day | +1                | +2                   |
-| 3rd                     | +1                    | +1            | +1           | +3            | Gifted incantations  | +2                | +2                   |
-| 4th                     | +2                    | +1            | +1           | +4            | Increased spells/day | +2                | +3                   |
-|                         |                       |               |              |               |                      |                   |                      |
-| 5th                     | +2                    | +1            | +1           | +4            | Granted incantations | +3                | +3                   |
-|                         |                       |               |              |               |                      |                   |                      |
+**Table: The Archmage**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+| 1st   | +0                | +0        | +0       | +2        | Total spellcasting   | +1            | +2               |
+| 2nd   | +1                | +0        | +0       | +3        | Increased spells/day | +1            | +2               |
+| 3rd   | +1                | +1        | +1       | +3        | Gifted incantations  | +2            | +2               |
+| 4th   | +2                | +1        | +1       | +4        | Increased spells/day | +2            | +3               |
+| 5th   | +2                | +1        | +1       | +4        | Granted incantations | +3            | +3               |
 
 ##### Class Features
 
@@ -3302,110 +2116,15 @@ Research (Int), Search (Int), Speak Language (none).
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Artificer</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Craft artifice</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Craft artifice, bonus feat</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Craft artifice</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Craft artifice, bonus feat</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Craft artifice</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Artificer**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                    | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|----------------------------|---------------|------------------|
+| 1st   | +0                | +1        | +0       | +2        | Craft artifice             | +1            | +2               |
+| 2nd   | +1                | +2        | +0       | +3        | Craft artifice, bonus feat | +1            | +2               |
+| 3rd   | +1                | +2        | +1       | +3        | Craft artifice             | +2            | +2               |
+| 4th   | +2                | +2        | +1       | +4        | Craft artifice, bonus feat | +2            | +3               |
+| 5th   | +2                | +3        | +1       | +4        | Craft artifice             | +3            | +3               |
 
 ##### Class Features
 
@@ -3591,110 +2310,15 @@ Survival (Wis), Treat Injury (Wis).
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Ecclesiarch</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Total spellcasting</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Increased spells/day</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Total turning</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Increased spells/day</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Innovative turning</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Ecclesiarch**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+| 1st   | +0                | +0        | +0       | +2        | Total spellcasting   | +1            | +2               |
+| 2nd   | +1                | +0        | +0       | +3        | Increased spells/day | +1            | +2               |
+| 3rd   | +1                | +1        | +1       | +3        | Total turning        | +2            | +2               |
+| 4th   | +2                | +1        | +1       | +4        | Increased spells/day | +2            | +3               |
+| 5th   | +2                | +1        | +1       | +4        | Innovative turning   | +3            | +3               |
 
 ##### Class Features
 
@@ -3732,22 +2356,19 @@ bolster the new creature type). Certain types of creatures have
 restrictions on how they may be affected. The types that may be affected
 are:
 
-|                                                                                                   |                       |
-|---------------------------------------------------------------------------------------------------|-----------------------|
-| Aberrations                                                                                       | Humans \*             |
-|                                                                                                   |                       |
-| Animals                                                                                           | Magical beasts\*\*    |
-| Constructs                                                                                        | Monstrous humanoids\* |
-| Dragons\*\*                                                                                       | Oozes                 |
-| Elementals                                                                                        | Outsiders\*\*         |
-| Fey\*                                                                                             | Plants                |
-| Giants\*                                                                                          | Undead                |
-| Humanoids \*                                                                                      | Vermin                |
-|                                                                                                   |                       |
-| \*This type of creature cannot be destroyed by turning, regardless of the success of the turning. |                       |
-|                                                                                                   |                       |
-| \*\*This type of creature cannot be destroyed by turning, and cannot be commanded.                |                       |
-|                                                                                                   |                       |
+|              |                       |
+|--------------|-----------------------|
+| Aberrations  | Humans \*             |
+| Animals      | Magical beasts\*\*    |
+| Constructs   | Monstrous humanoids\* |
+| Dragons\*\*  | Oozes                 |
+| Elementals   | Outsiders\*\*         |
+| Fey\*        | Plants                |
+| Giants\*     | Undead                |
+| Humanoids \* | Vermin                |
+
+\*This type of creature cannot be destroyed by turning, regardless of the success of the turning.
+\*\*This type of creature cannot be destroyed by turning, and cannot be commanded.
 
 ### HOLY/UNHOLY KNIGHT
 
@@ -3801,110 +2422,15 @@ Profession (Wis), Read/Write Language (none), Ride (Dex), Sense Motive
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Table: The Holy/Unholy Knight</h5></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Level</strong></p></td>
-<td><p><strong>Base Attack Bonus</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>Defense Bonus</strong></p></td>
-<td><p><strong>Reputation Bonus</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td><p>Divine grace, divine spells</p></td>
-<td><p>+0</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Sense allegiance, divine spells</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td><p>Smite allegiance, divine spells</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Divine touch, divine spells</p></td>
-<td><p>+1</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+5</p></td>
-<td><p>+4</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td><p>Turn undead, divine spells</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: The Holy/Unholy Knight**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+|-------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
+| 1st   | +1                | +2        | +0       | +2        | Divine grace, divine spells     | +0            | +1               |
+| 2nd   | +2                | +3        | +0       | +3        | Sense allegiance, divine spells | +1            | +1               |
+| 3rd   | +3                | +3        | +1       | +3        | Smite allegiance, divine spells | +1            | +1               |
+| 4th   | +4                | +4        | +1       | +4        | Divine touch, divine spells     | +1            | +2               |
+| 5th   | +5                | +4        | +1       | +4        | Turn undead, divine spells      | +2            | +2               |
 
 ##### Class Features
 
@@ -3929,87 +2455,14 @@ Knight’s spell preparation.
 The Holy/Unholy Knight receives no benefit to number of spells due to
 higher ability scores.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5>Knight Level</h5></td>
-<td><p><strong>—Spells per Day by Spell Level—</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><h5>0</h5></td>
-<td><h5>1</h5></td>
-<td><h5>2</h5></td>
-<td><h5>3</h5></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Knight Level | —Spells per Day by Spell Level— |   |   |   |
+|--------------|---------------------------------|---|---|---|
+|              | 0                               | 1 | 2 | 3 |
+| 1            | 2                               | 1 | — | — |
+| 2            | 3                               | 2 | — | — |
+| 3            | 3                               | 2 | 1 | — |
+| 4            | 4                               | 3 | 2 | — |
+| 5            | 4                               | 3 | 2 | 1 |
 
 **Divine Grace**
 

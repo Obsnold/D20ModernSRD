@@ -133,929 +133,64 @@ internal magazine, is a full-round action.
 Loading a belt of linked ammunition is a full-round action. Linking two
 belts together is a move action.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Ranged Weapons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Weapon</h3></td>
-<td><p><strong>Damage</strong></p></td>
-<td><p><strong>Critical</strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Range Increment</strong></p></td>
-<td><p><strong>Rate of Fire</strong></p></td>
-<td><p><strong>Magazine</strong></p></td>
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Handguns (require the Personal Firearms Proficiency
-feat)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Beretta 92F (9mm autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S</p></td>
-<td><p>15 box</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Beretta 93R (9mm machine pistol)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S,A</p></td>
-<td><p>20 box</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Colt Double Eagle (10mm autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>9 box</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Colt M1911 (.45 autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>7 box</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Colt Python<strong><sup>1 </sup></strong>(.357 revolver)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S</p></td>
-<td><p>6 cyl.</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>5</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Derringer (.45)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>2 int.</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Desert Eagle (.50AE autoloader)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S</p></td>
-<td><p>8 box</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Glock 17<strong><sup>1</sup></strong> (9mm autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>17 box</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Glock 20<strong><sup>1 </sup></strong>(10mm autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S</p></td>
-<td><p>15 box</p></td>
-<td><p>Small</p></td>
-<td><p>3 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>MAC Ingram M10 (.45 machine pistol)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Med</p></td>
-<td><p>6 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pathfinder (.22 revolver)</p></td>
-<td><p>2d4</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>20 ft.</p></td>
-<td><p>S</p></td>
-<td><p>6 cyl.</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Ruger Service-Six (.38S revolver)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>6 cyl.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>S&amp;W M29 (.44 magnum revolver)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>6 cyl.</p></td>
-<td><p>Med</p></td>
-<td><p>3 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>SITES M9 (9mm autoloader)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>8 box</p></td>
-<td><p>Tiny</p></td>
-<td><p>2 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Skorpion (.32 machine pistol)</p></td>
-<td><p>2d4</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>20 box</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>TEC-9 (9mm machine pistol)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S or A</p></td>
-<td><p>32 box</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Walther PPK (.32 autoloader)</p></td>
-<td><p>2d4</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>7 box</p></td>
-<td><p>Small</p></td>
-<td><p>1 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Longarms (require the Personal Firearms Proficiency
-feat)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>AKM/AK-47 (7.62mmR assault rifle)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>70 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Large</p></td>
-<td><p>10 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Barrett Light Fifty (.50 sniper rifle)</p></td>
-<td><p>2d12</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>120 ft.</p></td>
-<td><p>S</p></td>
-<td><p>11 box</p></td>
-<td><p>Huge</p></td>
-<td><p>35 lb.</p></td>
-<td><p>22</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Benelli 121 M1 (12-gague shotgun)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S</p></td>
-<td><p>7 int</p></td>
-<td><p>Large</p></td>
-<td><p>8 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Beretta M3P (12-gauge shotgun)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>S</p></td>
-<td><p>5 box</p></td>
-<td><p>Large</p></td>
-<td><p>9 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Browning BPS (10-gauge shotgun)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>5 int.</p></td>
-<td><p>Large</p></td>
-<td><p>11 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>HK G3 (7.62mm assault rifle)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>90 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>20 box</p></td>
-<td><p>Large</p></td>
-<td><p>11 lb.</p></td>
-<td><p>19</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>HK MP5<strong><sup>1</sup></strong><sup> </sup>(9mm submachine
-gun)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>50 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>20</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>HK MP5K (9mm submachine gun)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>15 box</p></td>
-<td><p>Med</p></td>
-<td><p>5 lb.</p></td>
-<td><p>19</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>HK PSG1<strong><sup>1 </sup></strong>(7.62mm sniper
-rifle)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>90 ft.</p></td>
-<td><p>S</p></td>
-<td><p>5 box</p></td>
-<td><p>Large</p></td>
-<td><p>16 lb.</p></td>
-<td><p>22</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M16A2 (5.56mm assault rifle)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>80 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Large</p></td>
-<td><p>8 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>M4 Carbine (5.56mm assault rifle)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>60 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M-60 (medium machine gun)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>100 ft.</p></td>
-<td><p>A</p></td>
-<td><p>Linked</p></td>
-<td><p>Huge</p></td>
-<td><p>22 lb.</p></td>
-<td><p>21</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Mossberg (12-gauge shotgun)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>30 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>6 int.</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Remington 700 (7.62mm hunting rifle)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>80 ft.</p></td>
-<td><p>Single</p></td>
-<td><p>5 int.</p></td>
-<td><p>Large</p></td>
-<td><p>8 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Sawed-off shotgun (12-ga shotgun)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>10 ft.</p></td>
-<td><p>S</p></td>
-<td><p>2 int.</p></td>
-<td><p>Med</p></td>
-<td><p>4 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Illegal (+4)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Steyr AUG (5.56mm assault rifle)</p></td>
-<td><p>2d8</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>80 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>30 box</p></td>
-<td><p>Large</p></td>
-<td><p>9 lb.</p></td>
-<td><p>19</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Uzi (9mm submachine gun)</p></td>
-<td><p>2d6</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>40 ft.</p></td>
-<td><p>S, A</p></td>
-<td><p>20 box</p></td>
-<td><p>Large</p></td>
-<td><p>8 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Winchester 94 (.444 hunting rifle)</p></td>
-<td><p>2d10</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>90 ft.</p></td>
-<td><p>S</p></td>
-<td><p>6 int.</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Heavy Weapons (each requires a specific Exotic Firearms
-Proficiency feat)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>M2HB (heavy machine gun)</p></td>
-<td><p>2d12</p></td>
-<td><p>20</p></td>
-<td><p>Ballistic</p></td>
-<td><p>110 ft.</p></td>
-<td><p>A</p></td>
-<td><p>Linked</p></td>
-<td><p>Huge</p></td>
-<td><p>75 lb.</p></td>
-<td><p>22</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>M72A3 LAW (rocket launcher)</p></td>
-<td><p>10d6<strong><sup>2</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>150 ft.</p></td>
-<td><p>1</p></td>
-<td><p>1 int.</p></td>
-<td><p>Large</p></td>
-<td><p>5 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>M79 (grenade launcher)</p></td>
-<td><p>Varies<strong><sup>2</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>70 ft.</p></td>
-<td><p>1</p></td>
-<td><p>1 int.</p></td>
-<td><p>Large</p></td>
-<td><p>7 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Other Ranged Weapons (Weapons Proficiency feat needed
-given in parentheses)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Compound bow (Archaic)<strong><sup>2</sup></strong></p></td>
-<td><p>1d8</p></td>
-<td><p>20</p></td>
-<td><p>Piercing</p></td>
-<td><p>40 ft.</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>Large</p></td>
-<td><p>3 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Crossbow (Simple)</p></td>
-<td><p>1d10</p></td>
-<td><p>19–20</p></td>
-<td><p>Piercing</p></td>
-<td><p>40 ft.</p></td>
-<td><p>1</p></td>
-<td><p>1 int.</p></td>
-<td><p>Med</p></td>
-<td><p>7 lb.</p></td>
-<td><p>9</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Flamethrower (no feat
-needed)<strong><sup>3</sup></strong></p></td>
-<td><p>3d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>1</p></td>
-<td><p>10 int.</p></td>
-<td><p>Large</p></td>
-<td><p>50 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Javelin (Simple)</p></td>
-<td><p>1d6</p></td>
-<td><p>20</p></td>
-<td><p>Piercing</p></td>
-<td><p>30 ft.</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pepper spray (Simple)</p></td>
-<td><p>Special<strong><sup>2</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Special<strong><sup>2</sup></strong></p></td>
-<td><p>5 ft.</p></td>
-<td><p>1</p></td>
-<td><p>1 int.</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>5</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Shuriken (Archaic)</p></td>
-<td><p>1</p></td>
-<td><p>20</p></td>
-<td><p>Piercing</p></td>
-<td><p>10 ft.</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>Tiny</p></td>
-<td><p>0.5 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Taser (Simple)</p></td>
-<td><p>1d4<strong><sup>2</sup></strong></p></td>
-<td><p>—</p></td>
-<td><p>Electricity</p></td>
-<td><p>5 ft.</p></td>
-<td><p>1</p></td>
-<td><p>1 int.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>7</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Whip (Simple)</p></td>
-<td><p>1d2</p></td>
-<td><p>20</p></td>
-<td><p>Slashing</p></td>
-<td><p>15 ft.<sup>3</sup></p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>4</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1<sup> </sup>This mastercraft weapon grants a +1 bonus on attack
-rolls.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 This weapon does special damage. See the weapon
-description.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3 See the description of this weapon for special rules.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Ranged Weapons**
+
+| Weapon                                                                          | Damage              | Critical | Damage Type         | Range Increment    | Rate of Fire | Magazine | Size  | Weight  | Purchase DC | Restriction  |
+|---------------------------------------------------------------------------------|---------------------|----------|---------------------|--------------------|--------------|----------|-------|---------|-------------|--------------|
+| **Handguns (require the Personal Firearms Proficiency feat)**                   |                     |          |                     |                    |              |          |       |         |             |              |
+| Beretta 92F (9mm autoloader)                                                    | 2d6                 | 20       | Ballistic           | 40 ft.             | S            | 15 box   | Small | 3 lb.   | 16          | Lic (+1)     |
+| Beretta 93R (9mm machine pistol)                                                | 2d6                 | 20       | Ballistic           | 30 ft.             | S,A          | 20 box   | Med   | 3 lb.   | 18          | Res (+2)     |
+| Colt Double Eagle (10mm autoloader)                                             | 2d6                 | 20       | Ballistic           | 30 ft.             | S            | 9 box    | Small | 3 lb.   | 16          | Lic (+1)     |
+| Colt M1911 (.45 autoloader)                                                     | 2d6                 | 20       | Ballistic           | 30 ft.             | S            | 7 box    | Small | 3 lb.   | 15          | Lic (+1)     |
+| Colt Python<sup>1</sup>(.357 revolver)                                          | 2d6                 | 20       | Ballistic           | 40 ft.             | S            | 6 cyl.   | Med   | 3 lb.   | 5           | Lic (+1)     |
+| Derringer (.45)                                                                 | 2d6                 | 20       | Ballistic           | 10 ft.             | Single       | 2 int.   | Tiny  | 1 lb.   | 14          | Lic (+1)     |
+| Desert Eagle (.50AE autoloader)                                                 | 2d8                 | 20       | Ballistic           | 40 ft.             | S            | 8 box    | Med   | 4 lb.   | 18          | Lic (+1)     |
+| Glock 17<sup>1</sup> (9mm autoloader)                                           | 2d6                 | 20       | Ballistic           | 30 ft.             | S            | 17 box   | Small | 2 lb.   | 18          | Lic (+1)     |
+| Glock 20<sup>1</sup>(10mm autoloader)                                           | 2d6                 | 20       | Ballistic           | 40 ft.             | S            | 15 box   | Small | 3 lb.   | 18          | Lic (+1)     |
+| MAC Ingram M10 (.45 machine pistol)                                             | 2d6                 | 20       | Ballistic           | 40 ft.             | S, A         | 30 box   | Med   | 6 lb.   | 15          | Res (+2)     |
+| Pathfinder (.22 revolver)                                                       | 2d4                 | 20       | Ballistic           | 20 ft.             | S            | 6 cyl.   | Tiny  | 1 lb.   | 14          | Lic (+1)     |
+| Ruger Service-Six (.38S revolver)                                               | 2d6                 | 20       | Ballistic           | 30 ft.             | S            | 6 cyl.   | Small | 2 lb.   | 14          | Lic (+1)     |
+| S&amp;W M29 (.44 magnum revolver)                                               | 2d8                 | 20       | Ballistic           | 30 ft.             | S            | 6 cyl.   | Med   | 3 lb.   | 15          | Lic (+1)     |
+| SITES M9 (9mm autoloader)                                                       | 2d6                 | 20       | Ballistic           | 30 ft.             | S            | 8 box    | Tiny  | 2 lb.   | 15          | Lic (+1)     |
+| Skorpion (.32 machine pistol)                                                   | 2d4                 | 20       | Ballistic           | 40 ft.             | S, A         | 20 box   | Med   | 4 lb.   | 17          | Res (+2)     |
+| TEC-9 (9mm machine pistol)                                                      | 2d6                 | 20       | Ballistic           | 40 ft.             | S or A       | 32 box   | Med   | 4 lb.   | 14          | Res (+2)     |
+| Walther PPK (.32 autoloader)                                                    | 2d4                 | 20       | Ballistic           | 30 ft.             | S            | 7 box    | Small | 1 lb.   | 15          | Lic (+1)     |
+| **Longarms (require the Personal Firearms Proficiency feat)**                   |                     |          |                     |                    |              |          |       |         |             |              |
+| AKM/AK-47 (7.62mmR assault rifle)                                               | 2d8                 | 20       | Ballistic           | 70 ft.             | S, A         | 30 box   | Large | 10 lb.  | 15          | Res (+2)     |
+| Barrett Light Fifty (.50 sniper rifle)                                          | 2d12                | 20       | Ballistic           | 120 ft.            | S            | 11 box   | Huge  | 35 lb.  | 22          | Lic (+1)     |
+| Benelli 121 M1 (12-gague shotgun)                                               | 2d8                 | 20       | Ballistic           | 40 ft.             | S            | 7 int    | Large | 8 lb.   | 17          | Lic (+1)     |
+| Beretta M3P (12-gauge shotgun)                                                  | 2d8                 | 20       | Ballistic           | 30 ft.             | S            | 5 box    | Large | 9 lb.   | 16          | Lic (+1)     |
+| Browning BPS (10-gauge shotgun)                                                 | 2d10                | 20       | Ballistic           | 30 ft.             | Single       | 5 int.   | Large | 11 lb.  | 16          | Lic (+1)     |
+| HK G3 (7.62mm assault rifle)                                                    | 2d10                | 20       | Ballistic           | 90 ft.             | S, A         | 20 box   | Large | 11 lb.  | 19          | Res (+2)     |
+| HK MP5<sup>1</sup>(9mm submachine gun)                                          | 2d6                 | 20       | Ballistic           | 50 ft.             | S, A         | 30 box   | Large | 7 lb.   | 20          | Res (+2)     |
+| HK MP5K (9mm submachine gun)                                                    | 2d6                 | 20       | Ballistic           | 40 ft.             | S, A         | 15 box   | Med   | 5 lb.   | 19          | Res (+2)     |
+| HK PSG1<sup>1</sup>(7.62mm sniper rifle)                                        | 2d10                | 20       | Ballistic           | 90 ft.             | S            | 5 box    | Large | 16 lb.  | 22          | Lic (+1)     |
+| M16A2 (5.56mm assault rifle)                                                    | 2d8                 | 20       | Ballistic           | 80 ft.             | S, A         | 30 box   | Large | 8 lb.   | 16          | Res (+2)     |
+| M4 Carbine (5.56mm assault rifle)                                               | 2d8                 | 20       | Ballistic           | 60 ft.             | S, A         | 30 box   | Large | 7 lb.   | 16          | Res (+2)     |
+| M-60 (medium machine gun)                                                       | 2d10                | 20       | Ballistic           | 100 ft.            | A            | Linked   | Huge  | 22 lb.  | 21          | Mil (+3)     |
+| Mossberg (12-gauge shotgun)                                                     | 2d8                 | 20       | Ballistic           | 30 ft.             | Single       | 6 int.   | Large | 7 lb.   | 15          | Lic (+1)     |
+| Remington 700 (7.62mm hunting rifle)                                            | 2d10                | 20       | Ballistic           | 80 ft.             | Single       | 5 int.   | Large | 8 lb.   | 17          | Lic (+1)     |
+| Sawed-off shotgun (12-ga shotgun)                                               | 2d8                 | 20       | Ballistic           | 10 ft.             | S            | 2 int.   | Med   | 4 lb.   | 15          | Illegal (+4) |
+| Steyr AUG (5.56mm assault rifle)                                                | 2d8                 | 20       | Ballistic           | 80 ft.             | S, A         | 30 box   | Large | 9 lb.   | 19          | Res (+2)     |
+| Uzi (9mm submachine gun)                                                        | 2d6                 | 20       | Ballistic           | 40 ft.             | S, A         | 20 box   | Large | 8 lb.   | 18          | Res (+2)     |
+| Winchester 94 (.444 hunting rifle)                                              | 2d10                | 20       | Ballistic           | 90 ft.             | S            | 6 int.   | Large | 7 lb.   | 15          | Lic (+1)     |
+| **Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)**   |                     |          |                     |                    |              |          |       |         |             |              |
+| M2HB (heavy machine gun)                                                        | 2d12                | 20       | Ballistic           | 110 ft.            | A            | Linked   | Huge  | 75 lb.  | 22          | Mil (+3)     |
+| M72A3 LAW (rocket launcher)                                                     | 10d6<sup>2</sup>    | —        | —                   | 150 ft.            | 1            | 1 int.   | Large | 5 lb.   | 15          | Mil (+3)     |
+| M79 (grenade launcher)                                                          | Varies<sup>2</sup>  | —        | —                   | 70 ft.             | 1            | 1 int.   | Large | 7 lb.   | 14          | Mil (+3)     |
+| **Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)** |                     |          |                     |                    |              |          |       |         |             |              |
+| Compound bow (Archaic)<sup>2</sup>                                              | 1d8                 | 20       | Piercing            | 40 ft.             | 1            | —        | Large | 3 lb.   | 10          | —            |
+| Crossbow (Simple)                                                               | 1d10                | 19–20    | Piercing            | 40 ft.             | 1            | 1 int.   | Med   | 7 lb.   | 9           | —            |
+| Flamethrower (no feat needed)<sup>3</sup>                                       | 3d6                 | —        | Fire                | —                  | 1            | 10 int.  | Large | 50 lb.  | 17          | Mil (+3)     |
+| Javelin (Simple)                                                                | 1d6                 | 20       | Piercing            | 30 ft.             | 1            | —        | Med   | 2 lb.   | 4           | —            |
+| Pepper spray (Simple)                                                           | Special<sup>2</sup> | —        | Special<sup>2</sup> | 5 ft.              | 1            | 1 int.   | Tiny  | 0.5 lb. | 5           | —            |
+| Shuriken (Archaic)                                                              | 1                   | 20       | Piercing            | 10 ft.             | 1            | —        | Tiny  | 0.5 lb. | 3           | —            |
+| Taser (Simple)                                                                  | 1d4<sup>2</sup>     | —        | Electricity         | 5 ft.              | 1            | 1 int.   | Small | 2 lb.   | 7           | —            |
+| Whip (Simple)                                                                   | 1d2                 | 20       | Slashing            | 15 ft.<sup>3</sup> | 1            | —        | Small | 2 lb.   | 4           | —            |
+
+1This mastercraft weapon grants a +1 bonus on attack rolls.
+2 This weapon does special damage. See the weapon description.
+3 See the description of this weapon for special rules.
 
 ## Handguns
 
@@ -1534,31 +669,28 @@ from being disarmed if the character fails to disarm the opponent).
 Ammunition for firearms and other ranged weapons is covered on Table:
 Ammunition.
 
-|                                |                 |
-|--------------------------------|-----------------|
-| **Table: Ammunition**          |                 |
-|                                |                 |
-| **Ammunition Type (Quantity)** | **Purchase DC** |
-| 5.56mm (20)                    | 4               |
-| 7.62mm (20)                    | 4               |
-| 7.62mmR (20)                   | 4               |
-| .444 caliber (20)              | 6               |
-| .50 caliber (20)               | 6               |
-| 9mm (50)                       | 5               |
-| 10mm (50)                      | 5               |
-| .22 caliber (50)               | 4               |
-| .32 caliber (50)               | 5               |
-| .38 special (50)               | 5               |
-| .357 caliber (50)              | 5               |
-| .44 caliber (50)               | 5               |
-| .45 caliber (50)               | 5               |
-| .50AE caliber (50)             | 6               |
-| 10-gauge buckshot (10)         | 5               |
-| 12-gauge buckshot (10)         | 4               |
-| Arrow (12)                     | 8               |
-|                                |                 |
-| Crossbow bolt (12)             | 7               |
-|                                |                 |
+**Table: Ammunition**
+
+| Ammunition Type (Quantity) | Purchase DC |
+|----------------------------|-------------|
+| 5.56mm (20)                | 4           |
+| 7.62mm (20)                | 4           |
+| 7.62mmR (20)               | 4           |
+| .444 caliber (20)          | 6           |
+| .50 caliber (20)           | 6           |
+| 9mm (50)                   | 5           |
+| 10mm (50)                  | 5           |
+| .22 caliber (50)           | 4           |
+| .32 caliber (50)           | 5           |
+| .38 special (50)           | 5           |
+| .357 caliber (50)          | 5           |
+| .44 caliber (50)           | 5           |
+| .45 caliber (50)           | 5           |
+| .50AE caliber (50)         | 6           |
+| 10-gauge buckshot (10)     | 5           |
+| 12-gauge buckshot (10)     | 4           |
+| Arrow (12)                 | 8           |
+| Crossbow bolt (12)         | 7           |
 
 **5.56mm, 7.62mm, 7.62mmR, .444, .50**
 
@@ -1598,18 +730,14 @@ rounding the number of rounds in the magazine up.
 Shotgun shells are a little heavier; use the weight value for one damage
 step higher.
 
-|            |                                 |        |        |        |        |         |
-|------------|---------------------------------|--------|--------|--------|--------|---------|
-|            | **Weight per Number of Rounds** |        |        |        |        |         |
-|            |                                 |        |        |        |        |         |
-| **Damage** | **10**                          | **20** | **30** | **40** | **50** | **100** |
-| 2d4        | 0.5lb                           | 0.5lb  | 0.5lb  | 0.5lb  | 1.0lb  | 1.5lb   |
-| 2d6        | 0.5lb                           | 0.5lb  | 0.5lb  | 1.0lb  | 1.0lb  | 2.0lb   |
-| 2d8        | 0.5lb                           | 0.5lb  | 0.5lb  | 1.0lb  | 1.0lb  | 2.0lb   |
-| 2d10       | 0.5lb                           | 1.0lb  | 1.0lb  | 1.5lb  | 1.5lb  | 3.0lb   |
-|            |                                 |        |        |        |        |         |
-| 2d12       | 1.0lb                           | 2.0lb  | 3.0lb  | 4.0lb  | 5.0lb  | 10.0lb  |
-|            |                                 |        |        |        |        |         |
+|            | Weight per Number of Rounds |        |        |        |        |         |
+|------------|-----------------------------|--------|--------|--------|--------|---------|
+| **Damage** | **10**                      | **20** | **30** | **40** | **50** | **100** |
+| 2d4        | 0.5lb                       | 0.5lb  | 0.5lb  | 0.5lb  | 1.0lb  | 1.5lb   |
+| 2d6        | 0.5lb                       | 0.5lb  | 0.5lb  | 1.0lb  | 1.0lb  | 2.0lb   |
+| 2d8        | 0.5lb                       | 0.5lb  | 0.5lb  | 1.0lb  | 1.0lb  | 2.0lb   |
+| 2d10       | 0.5lb                       | 1.0lb  | 1.0lb  | 1.5lb  | 1.5lb  | 3.0lb   |
+| 2d12       | 1.0lb                       | 2.0lb  | 3.0lb  | 4.0lb  | 5.0lb  | 10.0lb  |
 
 ## Explosives and Splash Weapons
 
@@ -1694,377 +822,27 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 weapon on the black market.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Explosives and Splash Weapons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h2>Grenades and Explosives</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Weapon</strong></p></td>
-<td><p><strong>Damage</strong></p></td>
-<td><p><strong>Critical</strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Burst Radius</strong></p></td>
-<td><p><strong>Reflex DC</strong></p></td>
-<td><p><strong>Range Increment</strong></p></td>
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><p><strong>Restriction</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>40mm fragmentation grenade</p></td>
-<td><p>3d6</p></td>
-<td><p>—</p></td>
-<td><p>Slashing</p></td>
-<td><p>10 ft.</p></td>
-<td><p>15</p></td>
-<td><p>—</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>C4/Semtex</p></td>
-<td><p>4d6</p></td>
-<td><p>—</p></td>
-<td><p>Concussion</p></td>
-<td><p>10 ft.</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-<td><p>Small</p></td>
-<td><p>1 lb.</p></td>
-<td><p>12</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Det cord</p></td>
-<td><p>2d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>See text</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-<td><p>Med</p></td>
-<td><p>2 lb.</p></td>
-<td><p>8</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamite</p></td>
-<td><p>2d6</p></td>
-<td><p>—</p></td>
-<td><p>Concussion</p></td>
-<td><p>5 ft.</p></td>
-<td><p>15</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>12</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fragmentation grenade</p></td>
-<td><p>4d6</p></td>
-<td><p>—</p></td>
-<td><p>Slashing</p></td>
-<td><p>20 ft.</p></td>
-<td><p>15</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td><p>Smoke grenade</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>See text</p></td>
-<td><p>—</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tear gas grenade</p></td>
-<td><p>See text</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>See text</p></td>
-<td><p>—</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>12</p></td>
-<td><p>Res (+2)</p></td>
-</tr>
-<tr class="even">
-<td><p>Thermite grenade</p></td>
-<td><p>6d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>5 ft.</p></td>
-<td><p>12</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="odd">
-<td><p>White phosphorus grenade</p></td>
-<td><p>2d6</p></td>
-<td><p>—</p></td>
-<td><p>Fire</p></td>
-<td><p>20 ft.</p></td>
-<td><p>12</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Small</p></td>
-<td><p>2 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Mil (+3)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h3>Splash Weapons</h3></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>Weapon</strong></p></td>
-<td><p><strong>Direct Hit Damage</strong></p></td>
-<td><p><strong>Splash Damage</strong></p></td>
-<td><p><strong>Critical<sup>2</sup></strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Reflex DC</strong></p></td>
-<td><p><strong>Range Increment</strong></p></td>
-<td><p><strong>Size</strong></p></td>
-<td><p><strong>Weight</strong></p></td>
-<td><p><strong>Purchase DC</strong></p></td>
-<td><h5>Restriction</h5></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Acid, mild</p></td>
-<td><p>1d6</p></td>
-<td><p>1</p></td>
-<td><p>20</p></td>
-<td><p>Acid</p></td>
-<td><p>—</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Tiny</p></td>
-<td><p>1 lb.</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Molotov cocktail<strong><sup>1</sup></strong><sup>
-</sup>1d6</p></td>
-<td><p>1</p></td>
-<td><p>20</p></td>
-<td><p>Fire</p></td>
-<td><p>—</p></td>
-<td><p>10 ft.</p></td>
-<td><p>Small</p></td>
-<td><p>1 lb.</p></td>
-<td><p>3</p></td>
-<td><p>—</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1 This weapon cannot be purchased as an item; the purchase DC
-given is for the weapon’s components.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2 Threat range applies to direct hits only; splash damage does
-not threaten a critical hit.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Explosives and Splash Weapons**
+
+| Grenades and Explosives         |                       |                   |                          |                  |               |                     |          |            |                 |                 |
+|---------------------------------|-----------------------|-------------------|--------------------------|------------------|---------------|---------------------|----------|------------|-----------------|-----------------|
+| **Weapon**                      | **Damage**            | **Critical**      | **Damage Type**          | **Burst Radius** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
+| 40mm fragmentation grenade      | 3d6                   | —                 | Slashing                 | 10 ft.           | 15            | —                   | Tiny     | 1 lb.      | 16              | Mil (+3)        |
+| C4/Semtex                       | 4d6                   | —                 | Concussion               | 10 ft.           | 18            | —                   | Small    | 1 lb.      | 12              | Mil (+3)        |
+| Det cord                        | 2d6                   | —                 | Fire                     | See text         | 12            | —                   | Med      | 2 lb.      | 8               | Res (+2)        |
+| Dynamite                        | 2d6                   | —                 | Concussion               | 5 ft.            | 15            | 10 ft.              | Tiny     | 1 lb.      | 12              | Lic (+1)        |
+| Fragmentation grenade           | 4d6                   | —                 | Slashing                 | 20 ft.           | 15            | 10 ft.              | Tiny     | 1 lb.      | 15              | Mil (+3)        |
+| Smoke grenade                   | —                     | —                 | —                        | See text         | —             | 10 ft.              | Small    | 2 lb.      | 10              | —               |
+| Tear gas grenade                | See text              | —                 | —                        | See text         | —             | 10 ft.              | Small    | 2 lb.      | 12              | Res (+2)        |
+| Thermite grenade                | 6d6                   | —                 | Fire                     | 5 ft.            | 12            | 10 ft.              | Small    | 2 lb.      | 17              | Mil (+3)        |
+| White phosphorus grenade        | 2d6                   | —                 | Fire                     | 20 ft.           | 12            | 10 ft.              | Small    | 2 lb.      | 15              | Mil (+3)        |
+| **Splash Weapons**              |                       |                   |                          |                  |               |                     |          |            |                 |                 |
+| **Weapon**                      | **Direct Hit Damage** | **Splash Damage** | **Critical<sup>2</sup>** | **Damage Type**  | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | Restriction     |
+| Acid, mild                      | 1d6                   | 1                 | 20                       | Acid             | —             | 10 ft.              | Tiny     | 1 lb.      | 6               | —               |
+| Molotov cocktail<sup>1</sup>1d6 | 1                     | 20                | Fire                     | —                | 10 ft.        | Small               | 1 lb.    | 3          | —               |                 |
+
+1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
+2 Threat range applies to direct hits only; splash damage does not threaten a critical hit.
 
 ## Grenades and Explosives
 
@@ -2304,48 +1082,38 @@ on their purchase.
 
 **Table: Melee Weapons**
 
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-|------------------------------------------------------------------------------------------|-----------------|--------------|-----------------|---------------------|----------|------------|-----------------|-----------------|
-| **Weapon**                                                                               | **Damage**      | **Critical** | **Damage Type** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| **Simple Weapons (require the Simple Weapons Proficiency feat)**                         |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| Brass knuckles                                                                           | 1               | 20           | Bludgeoning     | —                   | Tiny     | 1 lb.      | 5               | —               |
-| Cleaver                                                                                  | 1d6             | 19–20        | Slashing        | —                   | Small    | 2 lb.      | 5               | —               |
-| Club                                                                                     | 1d6             | 20           | Bludgeoning     | 10 ft.              | Med      | 3 lb.      | 4               | —               |
-| Knife                                                                                    | 1d4             | 19–20        | Piercing        | 10 ft.              | Tiny     | 1 lb.      | 7               | —               |
-| Metal baton                                                                              | 1d6             | 19–20        | Bludgeoning     | —                   | Med      | 2 lb.      | 8               | —               |
-| Pistol whip                                                                              | 1d4             | 20           | Bludgeoning     | —                   | Small    | —          | —               | —               |
-| Rifle butt                                                                               | 1d6             | 20           | Bludgeoning     | —                   | Large    | —          | —               | —               |
-| Sap                                                                                      | 1d6<sup>1</sup> | 20           | Bludgeoning     | —                   | Small    | 3 lb.      | 2               | —               |
-| Stun gun**<sup>1</sup>**                                                                 | 1d3             | 20           | Electricity     | —                   | Tiny     | 1 lb.      | 5               | —               |
-| Tonfa**<sup>1</sup>**                                                                    | 1d4             | 20           | Bludgeoning     | —                   | Med      | 2 lb.      | 6               | —               |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| **Archaic Weapons (require the Archaic Weapons Proficiency feat)**                       |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| Bayonet (fixed)**<sup>1</sup>**                                                          | 1d4/1d6         | 20           | Piercing        | —                   | Large    | 1 lb.      | 7               | —               |
-| Hatchet                                                                                  | 1d6             | 20           | Slashing        | 10 ft.              | Small    | 4 lb.      | 4               | —               |
-| Longsword                                                                                | 1d8             | 19–20        | Slashing        | —                   | Med      | 4 lb.      | 11              | —               |
-| Machete                                                                                  | 1d6             | 19–20        | Slashing        | —                   | Small    | 2 lb.      | 5               | —               |
-| Rapier                                                                                   | 1d6             | 18–20        | Piercing        | —                   | Med      | 3 lb.      | 10              | —               |
-| Spear                                                                                    | 1d8             | 20           | Piercing        | —                   | Large    | 9 lb.      | 6               | —               |
-| Straight razor                                                                           | 1d4             | 19–20        | Slashing        | —                   | Tiny     | 0.5 lb.    | 4               | —               |
-| Sword cane**<sup>1</sup>**                                                               | 1d6             | 18–20        | Piercing        | —                   | Med      | 3 lb.      | 9               | —               |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| **Exotic Melee Weapons (each requires a specific Exotic Melee Weapon Proficiency feat)** |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| Chain**<sup>1</sup>**                                                                    | 1d6/1d6         | 20           | Bludgeoning     | —                   | Large    | 5 lb.      | 5               | —               |
-| Chain saw                                                                                | 3d6             | 20           | Slashing        | —                   | Large    | 10 lb.     | 9               | —               |
-| Kama                                                                                     | 1d6             | 20           | Slashing        | —                   | Small    | 2 lb.      | 5               | —               |
-| Katana                                                                                   | 2d6             | 19–20        | Slashing        | —                   | Large    | 6 lb.      | 12              | —               |
-| Kukri                                                                                    | 1d4             | 18–20        | Slashing        | —                   | Small    | 1 lb.      | 5               | —               |
-| Nunchaku                                                                                 | 1d6             | 20           | Bludgeoning     | —                   | Small    | 2 lb.      | 3               | —               |
-| Three-section staff**<sup>1</sup>**<sup> </sup>                                          | 1d10/1d10       | 20           | Bludgeoning     | —                   | Large    | 3 lb.      | 4               | —               |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
-| 1<sup> </sup>See the description of this weapon for special rules.                       |                 |              |                 |                     |          |            |                 |                 |
-|                                                                                          |                 |              |                 |                     |          |            |                 |                 |
+| Weapon                                                                                   | Damage          | Critical | Damage Type | Range Increment | Size  | Weight  | Purchase DC | Restriction |
+|------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
+| **Simple Weapons (require the Simple Weapons Proficiency feat)**                         |                 |          |             |                 |       |         |             |             |
+| Brass knuckles                                                                           | 1               | 20       | Bludgeoning | —               | Tiny  | 1 lb.   | 5           | —           |
+| Cleaver                                                                                  | 1d6             | 19–20    | Slashing    | —               | Small | 2 lb.   | 5           | —           |
+| Club                                                                                     | 1d6             | 20       | Bludgeoning | 10 ft.          | Med   | 3 lb.   | 4           | —           |
+| Knife                                                                                    | 1d4             | 19–20    | Piercing    | 10 ft.          | Tiny  | 1 lb.   | 7           | —           |
+| Metal baton                                                                              | 1d6             | 19–20    | Bludgeoning | —               | Med   | 2 lb.   | 8           | —           |
+| Pistol whip                                                                              | 1d4             | 20       | Bludgeoning | —               | Small | —       | —           | —           |
+| Rifle butt                                                                               | 1d6             | 20       | Bludgeoning | —               | Large | —       | —           | —           |
+| Sap                                                                                      | 1d6<sup>1</sup> | 20       | Bludgeoning | —               | Small | 3 lb.   | 2           | —           |
+| Stun gun**<sup>1</sup>**                                                                 | 1d3             | 20       | Electricity | —               | Tiny  | 1 lb.   | 5           | —           |
+| Tonfa**<sup>1</sup>**                                                                    | 1d4             | 20       | Bludgeoning | —               | Med   | 2 lb.   | 6           | —           |
+| **Archaic Weapons (require the Archaic Weapons Proficiency feat)**                       |                 |          |             |                 |       |         |             |             |
+| Bayonet (fixed)**<sup>1</sup>**                                                          | 1d4/1d6         | 20       | Piercing    | —               | Large | 1 lb.   | 7           | —           |
+| Hatchet                                                                                  | 1d6             | 20       | Slashing    | 10 ft.          | Small | 4 lb.   | 4           | —           |
+| Longsword                                                                                | 1d8             | 19–20    | Slashing    | —               | Med   | 4 lb.   | 11          | —           |
+| Machete                                                                                  | 1d6             | 19–20    | Slashing    | —               | Small | 2 lb.   | 5           | —           |
+| Rapier                                                                                   | 1d6             | 18–20    | Piercing    | —               | Med   | 3 lb.   | 10          | —           |
+| Spear                                                                                    | 1d8             | 20       | Piercing    | —               | Large | 9 lb.   | 6           | —           |
+| Straight razor                                                                           | 1d4             | 19–20    | Slashing    | —               | Tiny  | 0.5 lb. | 4           | —           |
+| Sword cane**<sup>1</sup>**                                                               | 1d6             | 18–20    | Piercing    | —               | Med   | 3 lb.   | 9           | —           |
+| **Exotic Melee Weapons (each requires a specific Exotic Melee Weapon Proficiency feat)** |                 |          |             |                 |       |         |             |             |
+| Chain**<sup>1</sup>**                                                                    | 1d6/1d6         | 20       | Bludgeoning | —               | Large | 5 lb.   | 5           | —           |
+| Chain saw                                                                                | 3d6             | 20       | Slashing    | —               | Large | 10 lb.  | 9           | —           |
+| Kama                                                                                     | 1d6             | 20       | Slashing    | —               | Small | 2 lb.   | 5           | —           |
+| Katana                                                                                   | 2d6             | 19–20    | Slashing    | —               | Large | 6 lb.   | 12          | —           |
+| Kukri                                                                                    | 1d4             | 18–20    | Slashing    | —               | Small | 1 lb.   | 5           | —           |
+| Nunchaku                                                                                 | 1d6             | 20       | Bludgeoning | —               | Small | 2 lb.   | 3           | —           |
+| Three-section staff**<sup>1</sup>**<sup> </sup>                                          | 1d10/1d10       | 20       | Bludgeoning | —               | Large | 3 lb.   | 4           | —           |
+
+1<sup> </sup>See the description of this weapon for special rules.
 
 ## Simple Melee Weapons
 
@@ -2563,80 +1331,18 @@ or throwing an improvised weapon. An improvised weapon is not considered
 simple, archaic, or exotic, so weapon proficiency feats cannot offset
 the –4 penalty.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Improvised Weapon Damage by Size</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Object Size</strong></p></td>
-<td><p><strong>Examples</strong></p></td>
-<td><h6>Damage</h6></td>
-</tr>
-<tr class="even">
-<td><p>Diminutive</p></td>
-<td><p>Ashtray, CD disk case, crystal paperweight</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tiny</p></td>
-<td><p>Fist-sized rock, mug, screwdriver, softball, flashlight,
-wrench</p></td>
-<td><p>1d2</p></td>
-</tr>
-<tr class="even">
-<td><p>Small</p></td>
-<td><p>Bottle, drill, fire extinguisher, flower pot, helmet, metal
-hubcap, vase</p></td>
-<td><p>1d3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Medium-size</p></td>
-<td><p>Bar stool, brick, briefcase, bowling ball, garbage can lid,
-hockey stick, nail gun</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>Large</p></td>
-<td><p>Empty garbage can, guitar, computer monitor, office chair, tire
-iron</p></td>
-<td><p>1d6</p></td>
-</tr>
-<tr class="odd">
-<td><p>Huge</p></td>
-<td><p>10-foot ladder, mailbox, oil barrel, park bench,
-sawhorse</p></td>
-<td><p>1d8</p></td>
-</tr>
-<tr class="even">
-<td><p>Gargantuan</p></td>
-<td><p>Desk, dumpster, file cabinet, large sofa, soda machine</p></td>
-<td><p>2d6</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Colossal</p></td>
-<td><p>Junked vehicle, stoplight, telephone pole</p></td>
-<td><p>2d8</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Improvised Weapon Damage by Size**
+
+| Object Size | Examples                                                                           | Damage |
+|-------------|------------------------------------------------------------------------------------|--------|
+| Diminutive  | Ashtray, CD disk case, crystal paperweight                                         | 1      |
+| Tiny        | Fist-sized rock, mug, screwdriver, softball, flashlight, wrench                    | 1d2    |
+| Small       | Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase           | 1d3    |
+| Medium-size | Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun | 1d4    |
+| Large       | Empty garbage can, guitar, computer monitor, office chair, tire iron               | 1d6    |
+| Huge        | 10-foot ladder, mailbox, oil barrel, park bench, sawhorse                          | 1d8    |
+| Gargantuan  | Desk, dumpster, file cabinet, large sofa, soda machine                             | 2d6    |
+| Colossal    | Junked vehicle, stoplight, telephone pole                                          | 2d8    |
 
 A character can effectively wield or throw an object of his or her size
 category or smaller using one hand. A character can effectively wield or
@@ -2731,286 +1437,25 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 armor on the black market.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: Armor</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Armor</h3></td>
-<td><h3>Type</h3></td>
-<td><h3>Equipment Bonus</h3></td>
-<td><h3>Nonprof. Bonus</h3></td>
-<td><h3>Maximum Dex Bonus</h3></td>
-<td><h3>Armor Penalty</h3></td>
-<td><h3>Speed (30 ft.)</h3></td>
-<td><h3>Weight</h3></td>
-<td><h3>Purchase DC</h3></td>
-<td><h3>Restriction</h3></td>
-</tr>
-<tr class="even">
-<td><h2>Light Armor</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Leather jacket</p></td>
-<td><p>Impromptu</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+8</p></td>
-<td><p>–0</p></td>
-<td><p>30</p></td>
-<td><p>4 lb.</p></td>
-<td><p>10</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Leather armor</p></td>
-<td><p>Archaic</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+6</p></td>
-<td><p>–0</p></td>
-<td><p>30</p></td>
-<td><p>15 lb.</p></td>
-<td><p>12</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Light undercover shirt</p></td>
-<td><p>Concealable</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+7</p></td>
-<td><p>–0</p></td>
-<td><p>30</p></td>
-<td><p>2 lb.</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pull-up pouch vest</p></td>
-<td><p>Concealable</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+6</p></td>
-<td><p>–1</p></td>
-<td><p>30</p></td>
-<td><p>2 lb.</p></td>
-<td><p>13</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Undercover vest</p></td>
-<td><p>Concealable</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>+5</p></td>
-<td><p>–2</p></td>
-<td><p>30</p></td>
-<td><p>3 lb.</p></td>
-<td><p>14</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h2>Medium Armor</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Concealable vest</p></td>
-<td><p>Concealable</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+4</p></td>
-<td><p>–3</p></td>
-<td><p>25</p></td>
-<td><p>4 lb.</p></td>
-<td><p>15</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Chainmail shirt</p></td>
-<td><p>Archaic</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>–5</p></td>
-<td><p>20</p></td>
-<td><p>40 lb.</p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Light-duty vest</p></td>
-<td><p>Tactical</p></td>
-<td><p>+5</p></td>
-<td><p>+2</p></td>
-<td><p>+3</p></td>
-<td><p>–4</p></td>
-<td><p>25</p></td>
-<td><p>8 lb.</p></td>
-<td><p>16</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Tactical vest</p></td>
-<td><p>Tactical</p></td>
-<td><p>+6</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>–5</p></td>
-<td><p>25</p></td>
-<td><p>10 lb.</p></td>
-<td><p>17</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h2>Heavy Armor</h2></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Special response vest</p></td>
-<td><p>Tactical</p></td>
-<td><p>+7</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>–6</p></td>
-<td><p>20</p></td>
-<td><p>15 lb.</p></td>
-<td><p>18</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="even">
-<td><p>Plate mail</p></td>
-<td><p>Archaic</p></td>
-<td><p>+8</p></td>
-<td><p>+3</p></td>
-<td><p>+1</p></td>
-<td><p>–6</p></td>
-<td><p>20</p></td>
-<td><p>50 lb.</p></td>
-<td><p>23</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Forced entry unit</p></td>
-<td><p>Tactical</p></td>
-<td><p>+9</p></td>
-<td><p>+3</p></td>
-<td><p>+0</p></td>
-<td><p>–8</p></td>
-<td><p>20</p></td>
-<td><p>20 lb.</p></td>
-<td><p>19</p></td>
-<td><p>Lic (+1)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Armor**
+
+| Armor                  | Type        | Equipment Bonus | Nonprof. Bonus | Maximum Dex Bonus | Armor Penalty | Speed (30 ft.) | Weight | Purchase DC | Restriction |
+|------------------------|-------------|-----------------|----------------|-------------------|---------------|----------------|--------|-------------|-------------|
+| **Light Armor**        |             |                 |                |                   |               |                |        |             |             |
+| Leather jacket         | Impromptu   | +1              | +1             | +8                | –0            | 30             | 4 lb.  | 10          | —           |
+| Leather armor          | Archaic     | +2              | +1             | +6                | –0            | 30             | 15 lb. | 12          | —           |
+| Light undercover shirt | Concealable | +2              | +1             | +7                | –0            | 30             | 2 lb.  | 13          | Lic (+1)    |
+| Pull-up pouch vest     | Concealable | +2              | +1             | +6                | –1            | 30             | 2 lb.  | 13          | Lic (+1)    |
+| Undercover vest        | Concealable | +3              | +1             | +5                | –2            | 30             | 3 lb.  | 14          | Lic (+1)    |
+| **Medium Armor**       |             |                 |                |                   |               |                |        |             |             |
+| Concealable vest       | Concealable | +4              | +2             | +4                | –3            | 25             | 4 lb.  | 15          | Lic (+1)    |
+| Chainmail shirt        | Archaic     | +5              | +2             | +2                | –5            | 20             | 40 lb. | 18          | —           |
+| Light-duty vest        | Tactical    | +5              | +2             | +3                | –4            | 25             | 8 lb.  | 16          | Lic (+1)    |
+| Tactical vest          | Tactical    | +6              | +2             | +2                | –5            | 25             | 10 lb. | 17          | Lic (+1)    |
+| **Heavy Armor**        |             |                 |                |                   |               |                |        |             |             |
+| Special response vest  | Tactical    | +7              | +3             | +1                | –6            | 20             | 15 lb. | 18          | Lic (+1)    |
+| Plate mail             | Archaic     | +8              | +3             | +1                | –6            | 20             | 50 lb. | 23          | —           |
+| Forced entry unit      | Tactical    | +9              | +3             | +0                | –8            | 20             | 20 lb. | 19          | Lic (+1)    |
 
 Light Armor
 

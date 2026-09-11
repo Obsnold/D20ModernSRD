@@ -47,62 +47,17 @@ Table below.
 
 **Table: Size Modifiers**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><em>Size</em></strong></p></td>
-<td><h3>Size Modifier</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><em>Colossal</em></p></td>
-<td><p><em>–8</em></p></td>
-</tr>
-<tr class="even">
-<td><p><em>Gargantuan</em></p></td>
-<td><p><em>–4</em></p></td>
-</tr>
-<tr class="odd">
-<td><p><em>Huge </em></p></td>
-<td><p><em>–2</em></p></td>
-</tr>
-<tr class="even">
-<td><p><em>Large </em></p></td>
-<td><p><em>–1</em></p></td>
-</tr>
-<tr class="odd">
-<td><p><em>Medium-size</em></p></td>
-<td><p><em>+0</em></p></td>
-</tr>
-<tr class="even">
-<td><p><em>Small</em></p></td>
-<td><p><em>+1</em></p></td>
-</tr>
-<tr class="odd">
-<td><p><em>Tiny </em></p></td>
-<td><p><em>+2</em></p></td>
-</tr>
-<tr class="even">
-<td><p><em>Diminutive </em></p></td>
-<td><p><em>+4</em></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><em>Fine </em></p></td>
-<td><p><em>+8</em></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Size          | Size Modifier |
+|---------------|---------------|
+| *Colossal*    | *–8*          |
+| *Gargantuan*  | *–4*          |
+| *Huge *       | *–2*          |
+| *Large *      | *–1*          |
+| *Medium-size* | *+0*          |
+| *Small*       | *+1*          |
+| *Tiny *       | *+2*          |
+| *Diminutive * | *+4*          |
+| *Fine *       | *+8*          |
 
 ## Other Modifiers
 

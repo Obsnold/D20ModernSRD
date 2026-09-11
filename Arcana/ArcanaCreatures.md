@@ -308,160 +308,24 @@ Simple Weapons Proficiency as a bonus feat.
 **Automatic Languages**: Celestials speak Celestial and a number of
 additional languages equal to their Intelligence bonus.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Table: Celectial Immunities, Resistances, and Damage
-Reduction</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Roll d%</sup></strong></p></td>
-<td><p><strong><sup>Immunity</sup></strong></p></td>
-<td><h4><sup>Roll d%</sup></h4></td>
-<td><p><strong>Resistance</strong></p></td>
-<td><h4><sup>Roll d%</sup></h4></td>
-<td><p><strong>Damage Reduction</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>01–06</sup></p></td>
-<td><p><sup>Acid damage</sup></p></td>
-<td><p><sup>01–21</sup></p></td>
-<td><p><sup>None (do not roll again)</sup></p></td>
-<td><p><sup>01–33</sup></p></td>
-<td><p><sup>None (do not roll again)</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>07–12</sup></p></td>
-<td><p><sup>Cold damage</sup></p></td>
-<td><p><sup>22–27</sup></p></td>
-<td><p><sup>Acid resistance 10</sup></p></td>
-<td><p><sup>34–45</sup></p></td>
-<td><p><sup>5/specific weapon type
-</sup><strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>13–18</sup></p></td>
-<td><p><sup>Sonic/concussion damage</sup></p></td>
-<td><p><sup>28–30</sup></p></td>
-<td><p><sup>Acid resistance 20</sup></p></td>
-<td><p><sup>46–57</sup></p></td>
-<td><p><sup>10/specific weapon type</sup><strong><sup>
-1</sup></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>19–24</sup></p></td>
-<td><p><sup>Electricity damage</sup></p></td>
-<td><p><sup>31–36</sup></p></td>
-<td><p><sup>Cold resistance 10</sup></p></td>
-<td><p><sup>58–63</sup></p></td>
-<td><p><sup>20/specific weapon type
-</sup><strong><sup>1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>25–30</sup></p></td>
-<td><p><sup>Fire damage</sup></p></td>
-<td><p><sup>37–39</sup></p></td>
-<td><p><sup>Cold resistance 20</sup></p></td>
-<td><p><sup>64–72</sup></p></td>
-<td><p><sup>5/+1</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>31–36</sup></p></td>
-<td><p><sup>Ballistic damage</sup></p></td>
-<td><p><sup>40–45</sup></p></td>
-<td><p><sup>Sonic/concussion resistance 10</sup></p></td>
-<td><p><sup>73–81</sup></p></td>
-<td><p><sup>10/+1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>37–42</sup></p></td>
-<td><p><sup>Bludgeoning damage</sup></p></td>
-<td><p><sup>46–48</sup></p></td>
-<td><p><sup>Sonic/concussion resistance 20</sup></p></td>
-<td><p><sup>82–84</sup></p></td>
-<td><p><sup>15/+1</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>43–48</sup></p></td>
-<td><p><sup>Piercing damage</sup></p></td>
-<td><p><sup>49–54</sup></p></td>
-<td><p><sup>Electricity resistance 10</sup></p></td>
-<td><p><sup>85–87</sup></p></td>
-<td><p><sup>20/+1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>49–54</sup></p></td>
-<td><p><sup>Slashing damage</sup></p></td>
-<td><p><sup>55–57</sup></p></td>
-<td><p><sup>Electricity resistance 20</sup></p></td>
-<td><p><sup>88–90</sup></p></td>
-<td><p><sup>5/+2</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>55–60</sup></p></td>
-<td><p><sup>Poison damage</sup></p></td>
-<td><p><sup>58–63</sup></p></td>
-<td><p><sup>Fire resistance 10</sup></p></td>
-<td><p><sup>91–93</sup></p></td>
-<td><p><sup>10/+2</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>61–66</sup></p></td>
-<td><p><sup>Radiation damage</sup></p></td>
-<td><p><sup>64–66</sup></p></td>
-<td><p><sup>Fire resistance 20</sup></p></td>
-<td><p><sup>94–98</sup></p></td>
-<td><p><sup>15/+2</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>67–100</sup></p></td>
-<td><p><sup>Choose one, and roll again</sup></p></td>
-<td><p><sup>67–100</sup></p></td>
-<td><p><sup>Choose one, and roll again</sup></p></td>
-<td><p><sup>99–100</sup></p></td>
-<td><p><sup>20/+2</sup></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>1 Includes weapons made of a specific material (silver or
-wood, for example) or weapons that deal a specific type of damage
-(ballistic, bludgeoning, piercing, or slashing).</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**<sup>Table: Celectial Immunities, Resistances, and Damage Reduction</sup>**
+
+| <sup>Roll d%</sup> | <sup>Immunity</sup>                   | <sup>Roll d%</sup> | Resistance                                | <sup>Roll d%</sup> | Damage Reduction                               |
+|--------------------|---------------------------------------|--------------------|-------------------------------------------|--------------------|------------------------------------------------|
+| <sup>01–06</sup>   | <sup>Acid damage</sup>                | <sup>01–21</sup>   | <sup>None (do not roll again)</sup>       | <sup>01–33</sup>   | <sup>None (do not roll again)</sup>            |
+| <sup>07–12</sup>   | <sup>Cold damage</sup>                | <sup>22–27</sup>   | <sup>Acid resistance 10</sup>             | <sup>34–45</sup>   | <sup>5/specific weapon type</sup><sup>1</sup>  |
+| <sup>13–18</sup>   | <sup>Sonic/concussion damage</sup>    | <sup>28–30</sup>   | <sup>Acid resistance 20</sup>             | <sup>46–57</sup>   | <sup>10/specific weapon type</sup><sup>1</sup> |
+| <sup>19–24</sup>   | <sup>Electricity damage</sup>         | <sup>31–36</sup>   | <sup>Cold resistance 10</sup>             | <sup>58–63</sup>   | <sup>20/specific weapon type</sup><sup>1</sup> |
+| <sup>25–30</sup>   | <sup>Fire damage</sup>                | <sup>37–39</sup>   | <sup>Cold resistance 20</sup>             | <sup>64–72</sup>   | <sup>5/+1</sup>                                |
+| <sup>31–36</sup>   | <sup>Ballistic damage</sup>           | <sup>40–45</sup>   | <sup>Sonic/concussion resistance 10</sup> | <sup>73–81</sup>   | <sup>10/+1</sup>                               |
+| <sup>37–42</sup>   | <sup>Bludgeoning damage</sup>         | <sup>46–48</sup>   | <sup>Sonic/concussion resistance 20</sup> | <sup>82–84</sup>   | <sup>15/+1</sup>                               |
+| <sup>43–48</sup>   | <sup>Piercing damage</sup>            | <sup>49–54</sup>   | <sup>Electricity resistance 10</sup>      | <sup>85–87</sup>   | <sup>20/+1</sup>                               |
+| <sup>49–54</sup>   | <sup>Slashing damage</sup>            | <sup>55–57</sup>   | <sup>Electricity resistance 20</sup>      | <sup>88–90</sup>   | <sup>5/+2</sup>                                |
+| <sup>55–60</sup>   | <sup>Poison damage</sup>              | <sup>58–63</sup>   | <sup>Fire resistance 10</sup>             | <sup>91–93</sup>   | <sup>10/+2</sup>                               |
+| <sup>61–66</sup>   | <sup>Radiation damage</sup>           | <sup>64–66</sup>   | <sup>Fire resistance 20</sup>             | <sup>94–98</sup>   | <sup>15/+2</sup>                               |
+| <sup>67–100</sup>  | <sup>Choose one, and roll again</sup> | <sup>67–100</sup>  | <sup>Choose one, and roll again</sup>     | <sup>99–100</sup>  | <sup>20/+2</sup>                               |
+
+<sup>1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).</sup>
 
 **<sup>Gotthammer (Avenging Angel): </sup>**<sup>CR 15; Medium outsider;
 HD 14d8+70; hp 133; Mas 20; Init +4 (Improved Initiative); Spd 30 ft.,
@@ -847,794 +711,59 @@ dragon’s age category.</sup>
 **<sup>Keen Senses (Ex): </sup>**<sup>A dragon has low-light vision and
 darkvision with a range of 100 feet x the dragon’s age category.</sup>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Table: Dragon Age Categories</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Category</sup></strong></p></td>
-<td><p><strong><sup>Age in Years</sup></strong></p></td>
-<td><p><strong><sup>Size</sup></strong></p></td>
-<td><p><strong><sup>Base Hit Dice</sup></strong></p></td>
-<td><p><strong><sup>Breath Weapon</sup></strong></p></td>
-<td><p><strong><sup>Fear Aura</sup></strong></p></td>
-<td><p><strong><sup>Crush</sup></strong></p></td>
-<td><p><strong><sup>Tail Sweep</sup></strong></p></td>
-<td><p><strong><sup>SR</sup></strong></p></td>
-<td><p><strong><sup>DR</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>1 Wyrmling</sup></p></td>
-<td><p><sup>0–5</sup></p></td>
-<td><p><sup>Small</sup></p></td>
-<td><p><sup>7d12</sup></p></td>
-<td><p><sup>2d8 </sup></p>
-<p><sup>(DC 14)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>2 Very young</sup></p></td>
-<td><p><sup>6–15</sup></p></td>
-<td><p><sup>Medium</sup></p></td>
-<td><p><sup>10d12</sup></p></td>
-<td><p><sup>4d8 </sup></p>
-<p><sup>(DC 17)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>3 Young</sup></p></td>
-<td><p><sup>16–25</sup></p></td>
-<td><p><sup>Medium</sup></p></td>
-<td><p><sup>13d12</sup></p></td>
-<td><p><sup>6d8 </sup></p>
-<p><sup>(DC 18)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>4 Juvenile</sup></p></td>
-<td><p><sup>26–50</sup></p></td>
-<td><p><sup>Large</sup></p></td>
-<td><p><sup>16d12</sup></p></td>
-<td><p><sup>8d8 </sup></p>
-<p><sup>(DC 21)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>5 Young adult</sup></p></td>
-<td><p><sup>51–100</sup></p></td>
-<td><p><sup>Large</sup></p></td>
-<td><p><sup>19d12</sup></p></td>
-<td><p><sup>10d8 (DC 23)</sup></p></td>
-<td><p><sup>150 ft. (DC 23)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>20</sup></p></td>
-<td><p><sup>5/+1</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>6 Adult</sup></p></td>
-<td><p><sup>101–200</sup></p></td>
-<td><p><sup>Huge</sup></p></td>
-<td><p><sup>22d12</sup></p></td>
-<td><p><sup>12d8 (DC 26)</sup></p></td>
-<td><p><sup>180 ft. (DC 26)</sup></p></td>
-<td><p><sup>2d8+12 (DC 26)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>22</sup></p></td>
-<td><p><sup>5/+1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>7 Mature adult</sup></p></td>
-<td><p><sup>201–400</sup></p></td>
-<td><p><sup>Huge</sup></p></td>
-<td><p><sup>25d12</sup></p></td>
-<td><p><sup>14d8 (DC 27)</sup></p></td>
-<td><p><sup>210 ft. (DC 27)</sup></p></td>
-<td><p><sup>2d8+13 (DC 27)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>24</sup></p></td>
-<td><p><sup>10/+1</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>8 Old</sup></p></td>
-<td><p><sup>401–600</sup></p></td>
-<td><p><sup>Huge</sup></p></td>
-<td><p><sup>28d12</sup></p></td>
-<td><p><sup>16d8 (DC 30)</sup></p></td>
-<td><p><sup>240 ft. (DC 30)</sup></p></td>
-<td><p><sup>2d8+15 (DC 30)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>26</sup></p></td>
-<td><p><sup>10/+1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>9 Very old</sup></p></td>
-<td><p><sup>601–800</sup></p></td>
-<td><p><sup>Huge</sup></p></td>
-<td><p><sup>31d12</sup></p></td>
-<td><p><sup>18d8 (DC 31)</sup></p></td>
-<td><p><sup>270 ft. (DC 32)</sup></p></td>
-<td><p><sup>2d8+16 (DC 31)</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>27</sup></p></td>
-<td><p><sup>15/+2</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>10 Ancient</sup></p></td>
-<td><p><sup>801–1,000</sup></p></td>
-<td><p><sup>Gargantuan</sup></p></td>
-<td><p><sup>34d12</sup></p></td>
-<td><p><sup>20d8 (DC 34)</sup></p></td>
-<td><p><sup>300 ft. (DC 35)</sup></p></td>
-<td><p><sup>4d6+18 (DC 34)</sup></p></td>
-<td><p><sup>2d6+18 (DC 34)</sup></p></td>
-<td><p><sup>29</sup></p></td>
-<td><p><sup>15/+2</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>11 King/Queen</sup></p></td>
-<td><p><sup>1,001–1,200</sup></p></td>
-<td><p><sup>Gargantuan</sup></p></td>
-<td><p><sup>37d12</sup></p></td>
-<td><p><sup>22d8 (DC 36)</sup></p></td>
-<td><p><sup>330 ft. (DC 37)</sup></p></td>
-<td><p><sup>4d6+21 (DC 36)</sup></p></td>
-<td><p><sup>2d6+21 (DC 36)</sup></p></td>
-<td><p><sup>30</sup></p></td>
-<td><p><sup>20/+3</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>12 Emperor/ Empress</sup></p></td>
-<td><p><sup>1,201+</sup></p></td>
-<td><p><sup>Colossal</sup></p></td>
-<td><p><sup>40d12</sup></p></td>
-<td><p><sup>24d8 (DC 39)</sup></p></td>
-<td><p><sup>360 ft. (DC 40)</sup></p></td>
-<td><p><sup>4d8+24 (DC 39)</sup></p></td>
-<td><p><sup>2d8+24 (DC 39)</sup></p></td>
-<td><p><sup>32</sup></p></td>
-<td><p><sup>20/+3</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><sup>Table: Dragon Breath Weapon
-Range</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><sup>Dragon Size</sup></strong></p></td>
-<td><p><strong><sup>Line (Length)</sup></strong></p></td>
-<td><p><strong><sup>Cone (Length)</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Tiny</sup></p></td>
-<td><p><sup>30 ft.</sup></p></td>
-<td><p><sup>15 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Small</sup></p></td>
-<td><p><sup>40 ft.</sup></p></td>
-<td><p><sup>20 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Medium</sup></p></td>
-<td><p><sup>60 ft.</sup></p></td>
-<td><p><sup>30 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Large</sup></p></td>
-<td><p><sup>80 ft.</sup></p></td>
-<td><p><sup>40 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Huge</sup></p></td>
-<td><p><sup>100 ft.</sup></p></td>
-<td><p><sup>50 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Gargantuan</sup></p></td>
-<td><p><sup>120 ft.</sup></p></td>
-<td><p><sup>60 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Colossal</sup></p></td>
-<td><p><sup>140 ft.</sup></p></td>
-<td><p><sup>70 ft.</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h1><sup>Table: Dragon Breath Weapon Types</sup></h1></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><sup>Type</sup></strong></p></td>
-<td><p><strong><sup>Dragon Color</sup></strong></p></td>
-<td><p><strong><sup>Allegiance</sup></strong></p></td>
-<td><p><strong><sup>Notes</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Line of acid</sup></p></td>
-<td><p><sup>Black</sup></p></td>
-<td><p><sup>Evil</sup></p></td>
-<td><p><sup>Damage by age category (see Table: Dragon Age
-Categories)</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Line of electricity</sup></p></td>
-<td><p><sup>Blue</sup></p></td>
-<td><p><sup>Evil</sup></p></td>
-<td><p><sup>Damage by age category (see Table: Dragon Age
-Categories)</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Cone of acid</sup></p></td>
-<td><p><sup>Green</sup></p></td>
-<td><p><sup>Evil</sup></p></td>
-<td><p><sup>Damage by age category (see Table: Dragon Age
-Categories)</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Cone of fire</sup></p></td>
-<td><p><sup>Red</sup></p></td>
-<td><p><sup>Evil</sup></p></td>
-<td><p><sup>Damage by age category (see Table: Dragon Age
-Categories)</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Cone of cold</sup></p></td>
-<td><p><sup>White</sup></p></td>
-<td><p><sup>Evil</sup></p></td>
-<td><p><sup>Damage by age category (see Table: Dragon Age
-Categories)</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Cone of sleep gas</sup></p></td>
-<td><p><sup>Brass</sup></p></td>
-<td><p><sup>Good</sup></p></td>
-<td><p><sup>Will save or fall asleep for 1d6 rounds + 1 round per dragon
-age category</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Cone of repulsion gas</sup></p></td>
-<td><p><sup>Bronze</sup></p></td>
-<td><p><sup>Good</sup></p></td>
-<td><p><sup>Will save or move away for 1d6 rounds + 1 round per dragon
-age category</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Cone of slow gas</sup></p></td>
-<td><p><sup>Copper</sup></p></td>
-<td><p><sup>Good</sup></p></td>
-<td><p><sup>Fortitude save or slowed (as </sup><em><sup>slow
-</sup></em><sup>spell) for 1d6 rounds + 1 round per dragon age
-category</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Cone of weakening gas</sup></p></td>
-<td><p><sup>Gold</sup></p></td>
-<td><p><sup>Good</sup></p></td>
-<td><p><sup>Fortitude save or take 1 point of temporary Strength damage
-per dragon age category</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Cone of paralysis gas</sup></p></td>
-<td><p><sup>Silver</sup></p></td>
-<td><p><sup>Good</sup></p></td>
-<td><p><sup>Fortitude save or paralyzed for 1d6 rounds + 1 round per
-dragon age category</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><sup>Table: Dragon Spells And Spell-Like
-Abilities</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><sup>Age Category</sup></strong></p></td>
-<td><h4><sup>Caster Level*</sup></h4></td>
-<td><p><strong>New Spell-like Ability (choose one)</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Wyrmling</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Very young</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td><p><sup>—</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Young</sup></p></td>
-<td><p><sup>1st</sup></p></td>
-<td><p><em><sup>Daze </sup></em><sup>or </sup><em><sup>detect magical
-aura </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Juvenile</sup></p></td>
-<td><p><sup>2nd</sup></p></td>
-<td><p><em><sup>Sleep </sup></em><sup>or </sup><em><sup>true strike
-</sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Young adult</sup></p></td>
-<td><p><sup>3rd</sup></p></td>
-<td><p><em><sup>Locate object </sup></em><sup>or </sup><em><sup>zone of
-truth </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Adult</sup></p></td>
-<td><p><sup>4th</sup></p></td>
-<td><p><em><sup>Protection from arrows/bullets </sup></em><sup>or
-</sup><em><sup>resist energy </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Mature adult</sup></p></td>
-<td><p><sup>5th</sup></p></td>
-<td><p><em><sup>Blur </sup></em><sup>or </sup><em><sup>invisibility
-</sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Old</sup></p></td>
-<td><p><sup>6th</sup></p></td>
-<td><p><em><sup>Tongues </sup></em><sup>or </sup><em><sup>water
-breathing </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Very old</sup></p></td>
-<td><p><sup>7th</sup></p></td>
-<td><p><em><sup>Arcane eye </sup></em><sup>or </sup><em><sup>minor globe
-of invulnerability </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Ancient</sup></p></td>
-<td><p><sup>8th</sup></p></td>
-<td><p><em><sup>Confusion </sup></em><sup>or </sup><em><sup>freedom of
-movement </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Dragon King/Queen</sup></p></td>
-<td><p><sup>9th</sup></p></td>
-<td><p><em><sup>Break enchantment </sup></em><sup>or </sup><em><sup>true
-seeing </sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Dragon Emperor/Empress</sup></p></td>
-<td><p><sup>10th</sup></p></td>
-<td><p><em><sup>Cloudkill </sup></em><sup>or </sup><em><sup>telekinesis
-</sup></em><sup>1/day</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>*</sup><em><sup>Caster level applies to arcane spells and
-spell-like abilities.</sup></em></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**<sup>Table: Dragon Age Categories</sup>**
+
+| <sup>Category</sup>                                          | <sup>Age in Years</sup>  | <sup>Size</sup>                                                                                    | <sup>Base Hit Dice</sup>                                                                                                   | <sup>Breath Weapon</sup>          | <sup>Fear Aura</sup>       | <sup>Crush</sup>          | <sup>Tail Sweep</sup>     | <sup>SR</sup> | <sup>DR</sup>    |
+|--------------------------------------------------------------|--------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------------------------|---------------------------|---------------------------|---------------|------------------|
+| <sup>1 Wyrmling</sup>                                        | <sup>0–5</sup>           | <sup>Small</sup>                                                                                   | <sup>7d12</sup>                                                                                                            | <sup>2d8</sup> <sup>(DC 14)</sup> | <sup>—</sup>               | <sup>—</sup>              | <sup>—</sup>              | <sup>—</sup>  | <sup>—</sup>     |
+| <sup>2 Very young</sup>                                      | <sup>6–15</sup>          | <sup>Medium</sup>                                                                                  | <sup>10d12</sup>                                                                                                           | <sup>4d8</sup> <sup>(DC 17)</sup> | <sup>—</sup>               | <sup>—</sup>              | <sup>—</sup>              | <sup>—</sup>  | <sup>—</sup>     |
+| <sup>3 Young</sup>                                           | <sup>16–25</sup>         | <sup>Medium</sup>                                                                                  | <sup>13d12</sup>                                                                                                           | <sup>6d8</sup> <sup>(DC 18)</sup> | <sup>—</sup>               | <sup>—</sup>              | <sup>—</sup>              | <sup>—</sup>  | <sup>—</sup>     |
+| <sup>4 Juvenile</sup>                                        | <sup>26–50</sup>         | <sup>Large</sup>                                                                                   | <sup>16d12</sup>                                                                                                           | <sup>8d8</sup> <sup>(DC 21)</sup> | <sup>—</sup>               | <sup>—</sup>              | <sup>—</sup>              | <sup>—</sup>  | <sup>—</sup>     |
+| <sup>5 Young adult</sup>                                     | <sup>51–100</sup>        | <sup>Large</sup>                                                                                   | <sup>19d12</sup>                                                                                                           | <sup>10d8 (DC 23)</sup>           | <sup>150 ft. (DC 23)</sup> | <sup>—</sup>              | <sup>—</sup>              | <sup>20</sup> | <sup>5/+1</sup>  |
+| <sup>6 Adult</sup>                                           | <sup>101–200</sup>       | <sup>Huge</sup>                                                                                    | <sup>22d12</sup>                                                                                                           | <sup>12d8 (DC 26)</sup>           | <sup>180 ft. (DC 26)</sup> | <sup>2d8+12 (DC 26)</sup> | <sup>—</sup>              | <sup>22</sup> | <sup>5/+1</sup>  |
+| <sup>7 Mature adult</sup>                                    | <sup>201–400</sup>       | <sup>Huge</sup>                                                                                    | <sup>25d12</sup>                                                                                                           | <sup>14d8 (DC 27)</sup>           | <sup>210 ft. (DC 27)</sup> | <sup>2d8+13 (DC 27)</sup> | <sup>—</sup>              | <sup>24</sup> | <sup>10/+1</sup> |
+| <sup>8 Old</sup>                                             | <sup>401–600</sup>       | <sup>Huge</sup>                                                                                    | <sup>28d12</sup>                                                                                                           | <sup>16d8 (DC 30)</sup>           | <sup>240 ft. (DC 30)</sup> | <sup>2d8+15 (DC 30)</sup> | <sup>—</sup>              | <sup>26</sup> | <sup>10/+1</sup> |
+| <sup>9 Very old</sup>                                        | <sup>601–800</sup>       | <sup>Huge</sup>                                                                                    | <sup>31d12</sup>                                                                                                           | <sup>18d8 (DC 31)</sup>           | <sup>270 ft. (DC 32)</sup> | <sup>2d8+16 (DC 31)</sup> | <sup>—</sup>              | <sup>27</sup> | <sup>15/+2</sup> |
+| <sup>10 Ancient</sup>                                        | <sup>801–1,000</sup>     | <sup>Gargantuan</sup>                                                                              | <sup>34d12</sup>                                                                                                           | <sup>20d8 (DC 34)</sup>           | <sup>300 ft. (DC 35)</sup> | <sup>4d6+18 (DC 34)</sup> | <sup>2d6+18 (DC 34)</sup> | <sup>29</sup> | <sup>15/+2</sup> |
+| <sup>11 King/Queen</sup>                                     | <sup>1,001–1,200</sup>   | <sup>Gargantuan</sup>                                                                              | <sup>37d12</sup>                                                                                                           | <sup>22d8 (DC 36)</sup>           | <sup>330 ft. (DC 37)</sup> | <sup>4d6+21 (DC 36)</sup> | <sup>2d6+21 (DC 36)</sup> | <sup>30</sup> | <sup>20/+3</sup> |
+| <sup>12 Emperor/ Empress</sup>                               | <sup>1,201+</sup>        | <sup>Colossal</sup>                                                                                | <sup>40d12</sup>                                                                                                           | <sup>24d8 (DC 39)</sup>           | <sup>360 ft. (DC 40)</sup> | <sup>4d8+24 (DC 39)</sup> | <sup>2d8+24 (DC 39)</sup> | <sup>32</sup> | <sup>20/+3</sup> |
+| **<sup>Table: Dragon Breath Weapon Range</sup>**             |                          |                                                                                                    |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Dragon Size</sup>                                       | <sup>Line (Length)</sup> | <sup>Cone (Length)</sup>                                                                           |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Tiny</sup>                                              | <sup>30 ft.</sup>        | <sup>15 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Small</sup>                                             | <sup>40 ft.</sup>        | <sup>20 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Medium</sup>                                            | <sup>60 ft.</sup>        | <sup>30 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Large</sup>                                             | <sup>80 ft.</sup>        | <sup>40 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Huge</sup>                                              | <sup>100 ft.</sup>       | <sup>50 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Gargantuan</sup>                                        | <sup>120 ft.</sup>       | <sup>60 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Colossal</sup>                                          | <sup>140 ft.</sup>       | <sup>70 ft.</sup>                                                                                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| **<sup>Table: Dragon Breath Weapon Types</sup>**             |                          |                                                                                                    |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Type</sup>                                              | <sup>Dragon Color</sup>  | <sup>Allegiance</sup>                                                                              | <sup>Notes</sup>                                                                                                           |                                   |                            |                           |                           |               |                  |
+| <sup>Line of acid</sup>                                      | <sup>Black</sup>         | <sup>Evil</sup>                                                                                    | <sup>Damage by age category (see Table: Dragon Age Categories)</sup>                                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Line of electricity</sup>                               | <sup>Blue</sup>          | <sup>Evil</sup>                                                                                    | <sup>Damage by age category (see Table: Dragon Age Categories)</sup>                                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of acid</sup>                                      | <sup>Green</sup>         | <sup>Evil</sup>                                                                                    | <sup>Damage by age category (see Table: Dragon Age Categories)</sup>                                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of fire</sup>                                      | <sup>Red</sup>           | <sup>Evil</sup>                                                                                    | <sup>Damage by age category (see Table: Dragon Age Categories)</sup>                                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of cold</sup>                                      | <sup>White</sup>         | <sup>Evil</sup>                                                                                    | <sup>Damage by age category (see Table: Dragon Age Categories)</sup>                                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of sleep gas</sup>                                 | <sup>Brass</sup>         | <sup>Good</sup>                                                                                    | <sup>Will save or fall asleep for 1d6 rounds + 1 round per dragon age category</sup>                                       |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of repulsion gas</sup>                             | <sup>Bronze</sup>        | <sup>Good</sup>                                                                                    | <sup>Will save or move away for 1d6 rounds + 1 round per dragon age category</sup>                                         |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of slow gas</sup>                                  | <sup>Copper</sup>        | <sup>Good</sup>                                                                                    | <sup>Fortitude save or slowed (as</sup>*<sup>slow</sup>*<sup>spell) for 1d6 rounds + 1 round per dragon age category</sup> |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of weakening gas</sup>                             | <sup>Gold</sup>          | <sup>Good</sup>                                                                                    | <sup>Fortitude save or take 1 point of temporary Strength damage per dragon age category</sup>                             |                                   |                            |                           |                           |               |                  |
+| <sup>Cone of paralysis gas</sup>                             | <sup>Silver</sup>        | <sup>Good</sup>                                                                                    | <sup>Fortitude save or paralyzed for 1d6 rounds + 1 round per dragon age category</sup>                                    |                                   |                            |                           |                           |               |                  |
+| **<sup>Table: Dragon Spells And Spell-Like Abilities</sup>** |                          |                                                                                                    |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Age Category</sup>                                      | <sup>Caster Level*</sup> | **New Spell-like Ability (choose one)**                                                            |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Wyrmling</sup>                                          | <sup>—</sup>             | <sup>—</sup>                                                                                       |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Very young</sup>                                        | <sup>—</sup>             | <sup>—</sup>                                                                                       |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Young</sup>                                             | <sup>1st</sup>           | *<sup>Daze</sup>*<sup>or</sup>*<sup>detect magical aura</sup>*<sup>1/day</sup>                     |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Juvenile</sup>                                          | <sup>2nd</sup>           | *<sup>Sleep</sup>*<sup>or</sup>*<sup>true strike</sup>*<sup>1/day</sup>                            |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Young adult</sup>                                       | <sup>3rd</sup>           | *<sup>Locate object</sup>*<sup>or</sup>*<sup>zone of truth</sup>*<sup>1/day</sup>                  |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Adult</sup>                                             | <sup>4th</sup>           | *<sup>Protection from arrows/bullets</sup>*<sup>or</sup>*<sup>resist energy</sup>*<sup>1/day</sup> |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Mature adult</sup>                                      | <sup>5th</sup>           | *<sup>Blur</sup>*<sup>or</sup>*<sup>invisibility</sup>*<sup>1/day</sup>                            |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Old</sup>                                               | <sup>6th</sup>           | *<sup>Tongues</sup>*<sup>or</sup>*<sup>water breathing</sup>*<sup>1/day</sup>                      |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Very old</sup>                                          | <sup>7th</sup>           | *<sup>Arcane eye</sup>*<sup>or</sup>*<sup>minor globe of invulnerability</sup>*<sup>1/day</sup>    |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Ancient</sup>                                           | <sup>8th</sup>           | *<sup>Confusion</sup>*<sup>or</sup>*<sup>freedom of movement</sup>*<sup>1/day</sup>                |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Dragon King/Queen</sup>                                 | <sup>9th</sup>           | *<sup>Break enchantment</sup>*<sup>or</sup>*<sup>true seeing</sup>*<sup>1/day</sup>                |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+| <sup>Dragon Emperor/Empress</sup>                            | <sup>10th</sup>          | *<sup>Cloudkill</sup>*<sup>or</sup>*<sup>telekinesis</sup>*<sup>1/day</sup>                        |                                                                                                                            |                                   |                            |                           |                           |               |                  |
+
+<sup>*</sup>*<sup>Caster level applies to arcane spells and spell-like abilities.</sup>*
 
 **<sup>Wyrmling: </sup>**<sup>CR 4; Small dragon; HD 7d12+7; hp 52; Mas
 13; Init +0; Spd 40 ft., fly 100 ft. (average); Defense 17, touch 11,
@@ -4007,38 +3136,11 @@ column of Table: Sidhe Immunities and Resistances.</sup>
 as noted in the chart below. One-of-a-kind sidhe lords may have even
 higher damage reduction (usually 15/+2).</sup>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Sidhe Hit Dice</sup></strong></p></td>
-<td><h4><sup>Damage Reduction</sup></h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>8 or fewer</sup></p></td>
-<td><p><sup>5/+1</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>9–16</sup></p></td>
-<td><p><sup>10/+1</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>17 or more</sup></p></td>
-<td><p><sup>15/+2</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| <sup>Sidhe Hit Dice</sup> | <sup>Damage Reduction</sup> |
+|---------------------------|-----------------------------|
+| <sup>8 or fewer</sup>     | <sup>5/+1</sup>             |
+| <sup>9–16</sup>           | <sup>10/+1</sup>            |
+| <sup>17 or more</sup>     | <sup>15/+2</sup>            |
 
 **<sup>Low-Light Vision (Ex): </sup>**<sup>Sidhe can see twice as far as
 a human in starlight, moonlight, torchlight, and similar conditions of
@@ -4058,113 +3160,22 @@ read and write these languages.</sup>
 
 **<sup>Advancement: </sup>**<sup>By character class.</sup>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Table: Sidhe Immunities and
-Resistances</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Roll d%</sup></strong></p></td>
-<td><p><strong><sup>Immunity</sup></strong></p></td>
-<td><h4><sup>Roll d%</sup></h4></td>
-<td><h2><sup>Resistance</sup></h2></td>
-</tr>
-<tr class="even">
-<td><p><sup>01–06</sup></p></td>
-<td><p><sup>Acid damage</sup></p></td>
-<td><p><sup>01–21</sup></p></td>
-<td><p><sup>None (do not roll again)</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>07–12</sup></p></td>
-<td><p><sup>Cold damage</sup></p></td>
-<td><p><sup>22–27</sup></p></td>
-<td><p><sup>Acid resistance 10</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>13–18</sup></p></td>
-<td><p><sup>Sonic/concussion damage</sup></p></td>
-<td><p><sup>28–30</sup></p></td>
-<td><p><sup>Acid resistance 20</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>19–24</sup></p></td>
-<td><p><sup>Electricity damage</sup></p></td>
-<td><p><sup>31–36</sup></p></td>
-<td><p><sup>Cold resistance 10</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>25–30</sup></p></td>
-<td><p><sup>Fire damage</sup></p></td>
-<td><p><sup>37–39</sup></p></td>
-<td><p><sup>Cold resistance 20</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>31–36</sup></p></td>
-<td><p><sup>Ballistic damage</sup></p></td>
-<td><p><sup>40–45</sup></p></td>
-<td><p><sup>Sonic/concussion resistance 10</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>37–42</sup></p></td>
-<td><p><sup>Bludgeoning damage</sup></p></td>
-<td><p><sup>46–48</sup></p></td>
-<td><p><sup>Sonic/concussion resistance 20</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>43–48</sup></p></td>
-<td><p><sup>Piercing damage</sup></p></td>
-<td><p><sup>49–54</sup></p></td>
-<td><p><sup>Electricity resistance 10</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>49–54</sup></p></td>
-<td><p><sup>Slashing damage</sup></p></td>
-<td><p><sup>55–57</sup></p></td>
-<td><p><sup>Electricity resistance 20</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>55–60</sup></p></td>
-<td><p><sup>Poison damage</sup></p></td>
-<td><p><sup>58–63</sup></p></td>
-<td><p><sup>Fire resistance 10</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>61–66</sup></p></td>
-<td><p><sup>Radiation damage</sup></p></td>
-<td><p><sup>64–66</sup></p></td>
-<td><p><sup>Fire resistance 20</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>67–100</sup></p></td>
-<td><p><sup>Choose one, and roll again</sup></p></td>
-<td><p><sup>67–100</sup></p></td>
-<td><p><sup>Choose one, and roll again</sup></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**<sup>Table: Sidhe Immunities and Resistances</sup>**
+
+| <sup>Roll d%</sup> | <sup>Immunity</sup>                   | <sup>Roll d%</sup> | <sup>Resistance</sup>                     |
+|--------------------|---------------------------------------|--------------------|-------------------------------------------|
+| <sup>01–06</sup>   | <sup>Acid damage</sup>                | <sup>01–21</sup>   | <sup>None (do not roll again)</sup>       |
+| <sup>07–12</sup>   | <sup>Cold damage</sup>                | <sup>22–27</sup>   | <sup>Acid resistance 10</sup>             |
+| <sup>13–18</sup>   | <sup>Sonic/concussion damage</sup>    | <sup>28–30</sup>   | <sup>Acid resistance 20</sup>             |
+| <sup>19–24</sup>   | <sup>Electricity damage</sup>         | <sup>31–36</sup>   | <sup>Cold resistance 10</sup>             |
+| <sup>25–30</sup>   | <sup>Fire damage</sup>                | <sup>37–39</sup>   | <sup>Cold resistance 20</sup>             |
+| <sup>31–36</sup>   | <sup>Ballistic damage</sup>           | <sup>40–45</sup>   | <sup>Sonic/concussion resistance 10</sup> |
+| <sup>37–42</sup>   | <sup>Bludgeoning damage</sup>         | <sup>46–48</sup>   | <sup>Sonic/concussion resistance 20</sup> |
+| <sup>43–48</sup>   | <sup>Piercing damage</sup>            | <sup>49–54</sup>   | <sup>Electricity resistance 10</sup>      |
+| <sup>49–54</sup>   | <sup>Slashing damage</sup>            | <sup>55–57</sup>   | <sup>Electricity resistance 20</sup>      |
+| <sup>55–60</sup>   | <sup>Poison damage</sup>              | <sup>58–63</sup>   | <sup>Fire resistance 10</sup>             |
+| <sup>61–66</sup>   | <sup>Radiation damage</sup>           | <sup>64–66</sup>   | <sup>Fire resistance 20</sup>             |
+| <sup>67–100</sup>  | <sup>Choose one, and roll again</sup> | <sup>67–100</sup>  | <sup>Choose one, and roll again</sup>     |
 
 **<sup>Dreamghast</sup>**
 
@@ -5232,226 +4243,29 @@ severe short-term effects. This is reflected in the fact that even with
 a failed Fortitude save, the character might not suffer any Constitution
 loss.</sup>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><sup>Table: Radiation Exposure</sup></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><h4><sup>Time of Exposure</sup></h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Situation </sup></strong></p></td>
-<td><p><strong><sup>1 rnd </sup></strong></p></td>
-<td><p><strong><sup>1 min </sup></strong></p></td>
-<td><p><strong><sup>10 min </sup></strong></p></td>
-<td><p><strong><sup>1 hr </sup></strong></p></td>
-<td><p><strong><sup>1 day</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>Character in irradiated area:</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Lightly irradiated </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>Moderately irradiated </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>low</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Highly irradiated </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>moderate</sup></p></td>
-</tr>
-<tr class="even">
-<td><p><sup>Severely irradiated </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>high </sup></p></td>
-<td><p><sup>high </sup></p></td>
-<td><p><sup>severe</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Character exposed to radiation source:</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Mildly radioactive materials </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>mild </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>low </sup></p></td>
-<td><p><sup>low</sup></p></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Highly radioactive materials </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>high </sup></p></td>
-<td><p><sup>high </sup></p></td>
-<td><p><sup>severe</sup></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Severely radioactive materials </sup></p></td>
-<td><p><sup>moderate </sup></p></td>
-<td><p><sup>high </sup></p></td>
-<td><p><sup>severe </sup></p></td>
-<td><p><sup>severe </sup></p></td>
-<td><p><sup>severe</sup></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h1><sup>Table: Radiation Sickness</sup></h1></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong><sup>Degree of Exposure </sup></strong></p></td>
-<td><h4><sup>Fort Save DC</sup></h4></td>
-<td><p><strong>Damage</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Mild </sup></p></td>
-<td><p><sup>12</sup></p></td>
-<td><p><sup>1d4–2 Con*</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>Low</sup></p></td>
-<td><p><sup>15</sup></p></td>
-<td><p><sup>1d6–2 Con*</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Moderate </sup></p></td>
-<td><p><sup>18</sup></p></td>
-<td><p><sup>1d6–1 Con</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><sup>High </sup></p></td>
-<td><p><sup>21</sup></p></td>
-<td><p><sup>1d6 Con</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>Severe </sup></p></td>
-<td><p><sup>24</sup></p></td>
-<td><p><sup>2d6 Con</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><sup>*</sup><em><sup>Minimum damage 0 Con.</sup></em></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**<sup>Table: Radiation Exposure</sup>**
+
+|                                                       | <sup>Time of Exposure</sup> |                       |                     |                     |                     |
+|-------------------------------------------------------|-----------------------------|-----------------------|---------------------|---------------------|---------------------|
+| <sup>Situation</sup>                                  | <sup>1 rnd</sup>            | <sup>1 min</sup>      | <sup>10 min</sup>   | <sup>1 hr</sup>     | <sup>1 day</sup>    |
+| **<sup>Character in irradiated area:</sup>**          |                             |                       |                     |                     |                     |
+| <sup>Lightly irradiated</sup>                         | <sup>mild</sup>             | <sup>mild</sup>       | <sup>mild</sup>     | <sup>mild</sup>     | <sup>mild</sup>     |
+| <sup>Moderately irradiated</sup>                      | <sup>mild</sup>             | <sup>mild</sup>       | <sup>low</sup>      | <sup>low</sup>      | <sup>low</sup>      |
+| <sup>Highly irradiated</sup>                          | <sup>low</sup>              | <sup>low</sup>        | <sup>moderate</sup> | <sup>moderate</sup> | <sup>moderate</sup> |
+| <sup>Severely irradiated</sup>                        | <sup>moderate</sup>         | <sup>moderate</sup>   | <sup>high</sup>     | <sup>high</sup>     | <sup>severe</sup>   |
+| **<sup>Character exposed to radiation source:</sup>** |                             |                       |                     |                     |                     |
+| <sup>Mildly radioactive materials</sup>               | <sup>mild</sup>             | <sup>mild</sup>       | <sup>low</sup>      | <sup>low</sup>      | <sup>low</sup>      |
+| <sup>Highly radioactive materials</sup>               | <sup>moderate</sup>         | <sup>moderate</sup>   | <sup>high</sup>     | <sup>high</sup>     | <sup>severe</sup>   |
+| <sup>Severely radioactive materials</sup>             | <sup>moderate</sup>         | <sup>high</sup>       | <sup>severe</sup>   | <sup>severe</sup>   | <sup>severe</sup>   |
+| **<sup>Table: Radiation Sickness</sup>**              |                             |                       |                     |                     |                     |
+| <sup>Degree of Exposure</sup>                         | <sup>Fort Save DC</sup>     | **Damage**            |                     |                     |                     |
+| <sup>Mild</sup>                                       | <sup>12</sup>               | <sup>1d4–2 Con*</sup> |                     |                     |                     |
+| <sup>Low</sup>                                        | <sup>15</sup>               | <sup>1d6–2 Con*</sup> |                     |                     |                     |
+| <sup>Moderate</sup>                                   | <sup>18</sup>               | <sup>1d6–1 Con</sup>  |                     |                     |                     |
+| <sup>High</sup>                                       | <sup>21</sup>               | <sup>1d6 Con</sup>    |                     |                     |                     |
+| <sup>Severe</sup>                                     | <sup>24</sup>               | <sup>2d6 Con</sup>    |                     |                     |                     |
+
+<sup>*</sup>*<sup>Minimum damage 0 Con.</sup>*
 
 **<sup>Urban Wendigo</sup>**
 

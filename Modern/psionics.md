@@ -521,45 +521,11 @@ may confuse or conceal weaker auras.
 Aura Strength: An aura’s psionic power and strength depend on a power’s
 functioning power level or an item’s manifester level.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Functioning Power Level</h3></td>
-<td><h3>Item Manifester Level</h3></td>
-<td><h3>Aura Power</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>0-level or lingering aura</p></td>
-<td><p>Lingering aura</p></td>
-<td><p>Dim</p></td>
-</tr>
-<tr class="even">
-<td><p>1st–3rd</p></td>
-<td><p>1st–5th</p></td>
-<td><p>Faint</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4th–5th</p></td>
-<td><p>—</p></td>
-<td><p>Moderate</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Functioning Power Level   | Item Manifester Level | Aura Power |
+|---------------------------|-----------------------|------------|
+| 0-level or lingering aura | Lingering aura        | Dim        |
+| 1st–3rd                   | 1st–5th               | Faint      |
+| 4th–5th                   | —                     | Moderate   |
 
 If an aura falls into more than one category, detect psionics indicates
 the stronger of the two.
@@ -567,15 +533,11 @@ the stronger of the two.
 Length Aura Lingers: How long the aura lingers after the source has
 vacated the area depends on the aura’s original strength.
 
-|                         |                  |
-|-------------------------|------------------|
-| **Original Aura Power** | **Duration**     |
-|                         |                  |
-| Dim                     | 1 minute         |
-| Faint                   | 1d6 minutes      |
-|                         |                  |
-| Moderate                | 1d6 x 10 minutes |
-|                         |                  |
+| Original Aura Power | Duration         |
+|---------------------|------------------|
+| Dim                 | 1 minute         |
+| Faint               | 1d6 minutes      |
+| Moderate            | 1d6 x 10 minutes |
 
 Each round, the manifester can turn to detect things in a new area. The
 manifester can tell the difference between magical and psionic auras.

@@ -292,18 +292,14 @@ does it make you proficient with the item. The DC of the Knowledge
 (technology) check depends on the item being identified and the
 difference in Progress Level, as shown below:
 
-|                                          |        |
-|------------------------------------------|--------|
-| **Unfamiliar Item**                      | **DC** |
-|                                          |        |
-| Basic tool or instrument                 | 10     |
-| Robotic or vehicular component           | 15     |
-| Cybernetic attachment                    | 20     |
-| Alien weapon or nanotechnology           | 25     |
-| Alien artifact                           | 30     |
-|                                          |        |
-| Each step in Progress Level (up or down) | +5     |
-|                                          |        |
+| Unfamiliar Item                          | DC |
+|------------------------------------------|----|
+| Basic tool or instrument                 | 10 |
+| Robotic or vehicular component           | 15 |
+| Cybernetic attachment                    | 20 |
+| Alien weapon or nanotechnology           | 25 |
+| Alien artifact                           | 30 |
+| Each step in Progress Level (up or down) | +5 |
 
 NAVIGATE (INT)
 
@@ -562,38 +558,11 @@ is made.
 Apply the following modifiers to the Craft check DC for mastercraft
 items:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Mastercraft Feature </strong></p></td>
-<td><h4>DC Modifier</h4></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Mastercraft (+1)</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Mastercraft (+2)</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Mastercraft (+3)</p></td>
-<td><p>+10</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Mastercraft Feature | DC Modifier |
+|---------------------|-------------|
+| Mastercraft (+1)    | +3          |
+| Mastercraft (+2)    | +5          |
+| Mastercraft (+3)    | +10         |
 
 You can add the mastercraft feature to an existing ordinary object or a
 lower-grade mastercraft object by making a Wealth check and then making
@@ -683,32 +652,29 @@ may increase your Wealth score by the amount indicated on the table,
 either by selling the salvaged parts for scrap or using them to offset
 the cost of future building projects.
 
-|                           |                   |                     |                     |
-|---------------------------|-------------------|---------------------|---------------------|
-| TABLE: SALVAGE            |                   |                     |                     |
-|                           |                   |                     |                     |
-| **Salvaged Machine**      | **Time Required** | **Search Check DC** | **Wealth Increase** |
-| **Vehicle**               |                   |                     |                     |
-| Huge or smaller           | 30 min.           | 15                  | +1                  |
-| Gargantuan                | 1 hr.             | 20                  | +2                  |
-| Colossal                  | 3 hr.             | 25                  | +3                  |
-| **Mecha**                 |                   |                     |                     |
-| Huge or smaller           | 30 min.           | 25                  | +2                  |
-| Gargantuan                | 1 hr.             | 30                  | +4                  |
-| Colossal                  | 3 hr.             | 35                  | +6                  |
-| **Starship**              |                   |                     |                     |
-| Huge                      | 1 hr.             | 30                  | +3                  |
-| Gargantuan                | 3 hr.             | 35                  | +5                  |
-| Colossal                  | 6 hr.             | 40                  | +8                  |
-| **Robot**                 |                   |                     |                     |
-| Tiny or smaller           | 10 min.           | 20                  | +1                  |
-| Small to Large            | 30 min.           | 25                  | +2                  |
-| Huge or bigger            | 1 hr.             | 30                  | +3                  |
-| **Cybernetic Attachment** |                   |                     |                     |
-| Replacement               | 10 min.           | 15                  | +1                  |
-|                           |                   |                     |                     |
-| Enhancement               | 30 min.           | 20                  | +2                  |
-|                           |                   |                     |                     |
+**TABLE: SALVAGE**
+
+| Salvaged Machine          | Time Required | Search Check DC | Wealth Increase |
+|---------------------------|---------------|-----------------|-----------------|
+| **Vehicle**               |               |                 |                 |
+| Huge or smaller           | 30 min.       | 15              | +1              |
+| Gargantuan                | 1 hr.         | 20              | +2              |
+| Colossal                  | 3 hr.         | 25              | +3              |
+| **Mecha**                 |               |                 |                 |
+| Huge or smaller           | 30 min.       | 25              | +2              |
+| Gargantuan                | 1 hr.         | 30              | +4              |
+| Colossal                  | 3 hr.         | 35              | +6              |
+| **Starship**              |               |                 |                 |
+| Huge                      | 1 hr.         | 30              | +3              |
+| Gargantuan                | 3 hr.         | 35              | +5              |
+| Colossal                  | 6 hr.         | 40              | +8              |
+| **Robot**                 |               |                 |                 |
+| Tiny or smaller           | 10 min.       | 20              | +1              |
+| Small to Large            | 30 min.       | 25              | +2              |
+| Huge or bigger            | 1 hr.         | 30              | +3              |
+| **Cybernetic Attachment** |               |                 |                 |
+| Replacement               | 10 min.       | 15              | +1              |
+| Enhancement               | 30 min.       | 20              | +2              |
 
 **Special:** A particular vehicle, mecha, starship, robot, or cybernetic
 attachment can be successfully salvaged only once. Any further attempts
@@ -897,95 +863,18 @@ area of town.
 The DC of the check, and the number of checks required to track down
 your quarry, depends on the community population and the conditions:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Population</strong></p></td>
-<td><p><strong>DC</strong></p></td>
-<td><p><strong>Checks Required</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fewer than 2,000</p></td>
-<td><p>5</p></td>
-<td><p>1d4</p></td>
-</tr>
-<tr class="even">
-<td><p>2,000–9,999</p></td>
-<td><p>10</p></td>
-<td><p>1d4+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>10,000–49,999</p></td>
-<td><p>15</p></td>
-<td><p>2d4</p></td>
-</tr>
-<tr class="even">
-<td><p>50,000–99,999</p></td>
-<td><p>20</p></td>
-<td><p>2d4+1</p></td>
-</tr>
-<tr class="odd">
-<td><p>100,000–499,999</p></td>
-<td><p>25</p></td>
-<td><p>3d4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>500,000+</p></td>
-<td><p>30</p></td>
-<td><p>3d4+1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h3>Condition</h3></td>
-<td><h3>DC Modifier</h3></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Every three creatures in the group being sought</p></td>
-<td><p>–1</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Every 24 hours the quarry has been missing or sought</p></td>
-<td><p>+1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Tracked quarry “lies low”</p></td>
-<td><p>+5</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Population                                           | DC          | Checks Required |
+|------------------------------------------------------|-------------|-----------------|
+| Fewer than 2,000                                     | 5           | 1d4             |
+| 2,000–9,999                                          | 10          | 1d4+1           |
+| 10,000–49,999                                        | 15          | 2d4             |
+| 50,000–99,999                                        | 20          | 2d4+1           |
+| 100,000–499,999                                      | 25          | 3d4             |
+| 500,000+                                             | 30          | 3d4+1           |
+| Condition                                            | DC Modifier |                 |
+| Every three creatures in the group being sought      | –1          |                 |
+| Every 24 hours the quarry has been missing or sought | +1          |                 |
+| Tracked quarry “lies low”                            | +5          |                 |
 
 If you fail a Gather Information check, you can retry after 1 hour of
 questioning. The GM rolls the number of checks required secretly, so the

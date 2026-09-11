@@ -8,42 +8,12 @@ A creature gets either a Fortitude or Will saving throw to overcome or
 resist the source of weakness; the DC of the save varies depending on
 the source’s strength:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Strength of Source</h3></td>
-<td><h3>Save DC</h3></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Easily resistible</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Moderate</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="odd">
-<td><p>Strong</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Overpowering</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Strength of Source | Save DC |
+|--------------------|---------|
+| Easily resistible  | 10      |
+| Moderate           | 15      |
+| Strong             | 20      |
+| Overpowering       | 25      |
 
 Creatures usually react to a source of weakness in one of six ways:
 
@@ -162,259 +132,45 @@ points of damage instead.
 Even creatures immune to effects that require Fortitude saves are
 susceptible to source-induced harm.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h3>Table: Sources of Weakness</h3></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>d%</strong></p></td>
-<td><p><strong>Source</strong></p></td>
-<td><p><strong>d%</strong></p></td>
-<td><p><strong>Source</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>01</p></td>
-<td><p>Alcohol or moonshine</p></td>
-<td><p>49</p></td>
-<td><p>Lilac-scented candles</p></td>
-</tr>
-<tr class="odd">
-<td><p>02</p></td>
-<td><p>Amber</p></td>
-<td><p>50</p></td>
-<td><p>Mathematical equations</p></td>
-</tr>
-<tr class="even">
-<td><p>03</p></td>
-<td><p>Animated cartoons</p></td>
-<td><p>51</p></td>
-<td><p>Morphine</p></td>
-</tr>
-<tr class="odd">
-<td><p>04</p></td>
-<td><p>Archways</p></td>
-<td><p>52–53</p></td>
-<td><p>Nerve gas</p></td>
-</tr>
-<tr class="even">
-<td><p>05–06</p></td>
-<td><p>Bells or chimes</p></td>
-<td><p>54</p></td>
-<td><p>Nitrous oxide (laughing gas)</p></td>
-</tr>
-<tr class="odd">
-<td><p>07</p></td>
-<td><p>Books written by William Blake</p></td>
-<td><p>55</p></td>
-<td><p>Novocaine</p></td>
-</tr>
-<tr class="even">
-<td><p>08</p></td>
-<td><p>Bunnies</p></td>
-<td><p>56–57</p></td>
-<td><p>Number “8”</p></td>
-</tr>
-<tr class="odd">
-<td><p>09–10</p></td>
-<td><p>Cancerous organs</p></td>
-<td><p>58</p></td>
-<td><p>Pearls</p></td>
-</tr>
-<tr class="even">
-<td><p>11</p></td>
-<td><p>Carbonated soft drinks</p></td>
-<td><p>59</p></td>
-<td><p>Penicillin</p></td>
-</tr>
-<tr class="odd">
-<td><p>12–13</p></td>
-<td><p>Cats</p></td>
-<td><p>60</p></td>
-<td><p>Photo flashes</p></td>
-</tr>
-<tr class="even">
-<td><p>14</p></td>
-<td><p>Chrome</p></td>
-<td><p>61–62</p></td>
-<td><p>Plastic or vinyl</p></td>
-</tr>
-<tr class="odd">
-<td><p>15–16</p></td>
-<td><p>Classical music</p></td>
-<td><p>63–64</p></td>
-<td><p>Played violin or electric guitar</p></td>
-</tr>
-<tr class="even">
-<td><p>17</p></td>
-<td><p>Clocks</p></td>
-<td><p>65</p></td>
-<td><p>Playgrounds</p></td>
-</tr>
-<tr class="odd">
-<td><p>18</p></td>
-<td><p>Clowns</p></td>
-<td><p>66–67</p></td>
-<td><p>Plutonium</p></td>
-</tr>
-<tr class="even">
-<td><p>19</p></td>
-<td><p>Cocaine</p></td>
-<td><p>68</p></td>
-<td><p>Poppies</p></td>
-</tr>
-<tr class="odd">
-<td><p>20–21</p></td>
-<td><p>Country music</p></td>
-<td><p>69</p></td>
-<td><p>Pulsing strobe lights</p></td>
-</tr>
-<tr class="even">
-<td><p>22–23</p></td>
-<td><p>Crosses or crucifixes</p></td>
-<td><p>70–71</p></td>
-<td><p>Radiation</p></td>
-</tr>
-<tr class="odd">
-<td><p>24</p></td>
-<td><p>Crows</p></td>
-<td><p>72</p></td>
-<td><p>Radio waves</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>Dogs</p></td>
-<td><p>73</p></td>
-<td><p>Rubber</p></td>
-</tr>
-<tr class="odd">
-<td><p>26</p></td>
-<td><p>Elvis Presley memorabilia</p></td>
-<td><p>74</p></td>
-<td><p>Running water</p></td>
-</tr>
-<tr class="even">
-<td><p>27</p></td>
-<td><p>Fast cars</p></td>
-<td><p>75–76</p></td>
-<td><p>Silver</p></td>
-</tr>
-<tr class="odd">
-<td><p>28</p></td>
-<td><p>Fast foods</p></td>
-<td><p>77</p></td>
-<td><p>Sodium benzoate (food preservative)</p></td>
-</tr>
-<tr class="even">
-<td><p>29–30</p></td>
-<td><p>Fluorescent lights</p></td>
-<td><p>78–79</p></td>
-<td><p>Sodium chloride (salt)</p></td>
-</tr>
-<tr class="odd">
-<td><p>31</p></td>
-<td><p>Games of chance</p></td>
-<td><p>80–81</p></td>
-<td><p>Specific phrase or word</p></td>
-</tr>
-<tr class="even">
-<td><p>32</p></td>
-<td><p>Gold or iron pyrite (fool’s gold)</p></td>
-<td><p>82</p></td>
-<td><p>Specific song</p></td>
-</tr>
-<tr class="odd">
-<td><p>33</p></td>
-<td><p>Grave dirt</p></td>
-<td><p>83</p></td>
-<td><p>Spoken Latin</p></td>
-</tr>
-<tr class="even">
-<td><p>34–35</p></td>
-<td><p>Heavy metal music</p></td>
-<td><p>84</p></td>
-<td><p>Stuffed animals</p></td>
-</tr>
-<tr class="odd">
-<td><p>36–37</p></td>
-<td><p>Holy symbols</p></td>
-<td><p>85</p></td>
-<td><p>Sumerian or Egyptian hieroglyphs</p></td>
-</tr>
-<tr class="even">
-<td><p>38–39</p></td>
-<td><p>Holy water</p></td>
-<td><p>86–87</p></td>
-<td><p>Sunlight</p></td>
-</tr>
-<tr class="odd">
-<td><p>40</p></td>
-<td><p>Hospitals</p></td>
-<td><p>88–89</p></td>
-<td><p>The Bible</p></td>
-</tr>
-<tr class="even">
-<td><p>41</p></td>
-<td><p>Ice cream</p></td>
-<td><p>90</p></td>
-<td><p>Tinfoil</p></td>
-</tr>
-<tr class="odd">
-<td><p>42</p></td>
-<td><p>Insecticide (DDT)</p></td>
-<td><p>91–92</p></td>
-<td><p>Toxic waste</p></td>
-</tr>
-<tr class="even">
-<td><p>43</p></td>
-<td><p>Jack o’-lanterns</p></td>
-<td><p>93–94</p></td>
-<td><p>Triangles</p></td>
-</tr>
-<tr class="odd">
-<td><p>44</p></td>
-<td><p>Keys</p></td>
-<td><p>95</p></td>
-<td><p>Television infomercials</p></td>
-</tr>
-<tr class="even">
-<td><p>45–46</p></td>
-<td><p>Laughter of children</p></td>
-<td><p>96</p></td>
-<td><p>Television static</p></td>
-</tr>
-<tr class="odd">
-<td><p>47</p></td>
-<td><p>Laundry detergent</p></td>
-<td><p>97–98</p></td>
-<td><p>White rice</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>48</p></td>
-<td><p>Lavender</p></td>
-<td><p>99–100</p></td>
-<td><p>X-rays</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Table: Sources of Weakness**
+
+| d%    | Source                            | d%     | Source                              |
+|-------|-----------------------------------|--------|-------------------------------------|
+| 01    | Alcohol or moonshine              | 49     | Lilac-scented candles               |
+| 02    | Amber                             | 50     | Mathematical equations              |
+| 03    | Animated cartoons                 | 51     | Morphine                            |
+| 04    | Archways                          | 52–53  | Nerve gas                           |
+| 05–06 | Bells or chimes                   | 54     | Nitrous oxide (laughing gas)        |
+| 07    | Books written by William Blake    | 55     | Novocaine                           |
+| 08    | Bunnies                           | 56–57  | Number “8”                          |
+| 09–10 | Cancerous organs                  | 58     | Pearls                              |
+| 11    | Carbonated soft drinks            | 59     | Penicillin                          |
+| 12–13 | Cats                              | 60     | Photo flashes                       |
+| 14    | Chrome                            | 61–62  | Plastic or vinyl                    |
+| 15–16 | Classical music                   | 63–64  | Played violin or electric guitar    |
+| 17    | Clocks                            | 65     | Playgrounds                         |
+| 18    | Clowns                            | 66–67  | Plutonium                           |
+| 19    | Cocaine                           | 68     | Poppies                             |
+| 20–21 | Country music                     | 69     | Pulsing strobe lights               |
+| 22–23 | Crosses or crucifixes             | 70–71  | Radiation                           |
+| 24    | Crows                             | 72     | Radio waves                         |
+| 25    | Dogs                              | 73     | Rubber                              |
+| 26    | Elvis Presley memorabilia         | 74     | Running water                       |
+| 27    | Fast cars                         | 75–76  | Silver                              |
+| 28    | Fast foods                        | 77     | Sodium benzoate (food preservative) |
+| 29–30 | Fluorescent lights                | 78–79  | Sodium chloride (salt)              |
+| 31    | Games of chance                   | 80–81  | Specific phrase or word             |
+| 32    | Gold or iron pyrite (fool’s gold) | 82     | Specific song                       |
+| 33    | Grave dirt                        | 83     | Spoken Latin                        |
+| 34–35 | Heavy metal music                 | 84     | Stuffed animals                     |
+| 36–37 | Holy symbols                      | 85     | Sumerian or Egyptian hieroglyphs    |
+| 38–39 | Holy water                        | 86–87  | Sunlight                            |
+| 40    | Hospitals                         | 88–89  | The Bible                           |
+| 41    | Ice cream                         | 90     | Tinfoil                             |
+| 42    | Insecticide (DDT)                 | 91–92  | Toxic waste                         |
+| 43    | Jack o’-lanterns                  | 93–94  | Triangles                           |
+| 44    | Keys                              | 95     | Television infomercials             |
+| 45–46 | Laughter of children              | 96     | Television static                   |
+| 47    | Laundry detergent                 | 97–98  | White rice                          |
+| 48    | Lavender                          | 99–100 | X-rays                              |
+
