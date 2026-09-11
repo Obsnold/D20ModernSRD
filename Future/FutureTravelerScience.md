@@ -38,28 +38,28 @@ Roll on Table: Meteoroid Encounters to determine whether a meteoroid
 threatens a given starship or space station. Each roll represents one
 24-hour period.
 
-**Meteoroid Size: **The size of the meteoroid.
+**Meteoroid Size:** The size of the meteoroid.
 
-**Collision Damage: **When a meteoroid collides with a starship,
+**Collision Damage:** When a meteoroid collides with a starship,
 
 space station, or other object, both the meteoroid and the object
 
 it strikes take damage.
 
-**Computer Use Check DC: **A starship or space station equipped with a
+**Computer Use Check DC:** A starship or space station equipped with a
 sensor system can detect an incoming meteoroid; doing so requires a
 successful Computer Use check. A starship or space station cannot
 attempt to avoid or destroy a meteoroid it fails to detect.
 
-**Pilot Check DC: **Avoiding a meteoroid requires a successful Pilot
+**Pilot Check DC:** Avoiding a meteoroid requires a successful Pilot
 check. Only starships or space stations that move are capable of
 avoiding meteoroids.
 
-**Defense: **The meteoroid’s Defense.
+**Defense:** The meteoroid’s Defense.
 
-**Hardness: **The meteoroid’s hardness.
+**Hardness:** The meteoroid’s hardness.
 
-**Hit Points: **The meteoroid’s total hit points.
+**Hit Points:** The meteoroid’s total hit points.
 
 <table>
 <tbody>
@@ -692,16 +692,16 @@ pass for those left behind, only 7.1 hours have passed aboard the ship
 </tbody>
 </table>
 
-**Starship Speed: **The vessel’s speed in miles per second.
+**Starship Speed:** The vessel’s speed in miles per second.
 
-**AU per Hour: **How many Astronomical Units (AU) a vessel traveling at
+**AU per Hour:** How many Astronomical Units (AU) a vessel traveling at
 this speed can cross in 1 hour. One AU equals 93,000,000 miles (the
 distance between the Sun and the Earth).
 
-**% Speed of Light: **The percentage of the speed of light (186,000
+**% Speed of Light:** The percentage of the speed of light (186,000
 miles per second).
 
-**Time Dilation: **Divide the time traveled by this number to arrive at
+**Time Dilation:** Divide the time traveled by this number to arrive at
 the amount of time that passes on board the starship.
 
 ## JUMP GATE TECHNOLOGY
@@ -792,9 +792,9 @@ between the jump gate and the exit point: Divide the real distance by
 1,000,000 miles to determine the purchase DC for passage through the
 jump gate.
 
-**Purchase DC: **75 (per jump gate).
+**Purchase DC:** 75 (per jump gate).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **JUMP NETWORK (PL 8)**
 
@@ -814,9 +814,9 @@ for their use. Some gates are operated by the military and have
 restricted access. However, the gates between common locations like
 planets and stars are government owned and designated for public use.
 
-**Purchase DC: **75 (per jump gate).
+**Purchase DC:** 75 (per jump gate).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **JUMP DRIVE (PL 9)**
 
@@ -874,7 +874,7 @@ Table: Jump Drive Recharge Time.
 </tbody>
 </table>
 
-**Purchase DC: **25 + one-half the base purchase DC of the starship.
+**Purchase DC:** 25 + one-half the base purchase DC of the starship.
 
 ## FANTASTIC SPACE TRAVEL
 
@@ -1312,10 +1312,10 @@ The purchase DC of a transport booth does not include the cost of the
 communication technology used to transmit the matter (see Table:
 Transport Booth Purchase DC Modifiers).
 
-**Purchase DC: **31 (per transport booth) + the communication system’s
+**Purchase DC:** 31 (per transport booth) + the communication system’s
 purchase DC modifier (see Table: Transport Booth Purchase DC Modifiers).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **TRANSPORTAL (PL 8)**
 
@@ -1329,9 +1329,9 @@ it tends to disorient travelers. Any creature using a transportal must
 succeed on a Fortitude save (DC 15) or be shaken for 1d6 rounds upon
 arrival.
 
-**Purchase DC: **58 per transportal.
+**Purchase DC:** 58 per transportal.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **TRANSPORT DISK (PL 9)**
 
@@ -1362,9 +1362,9 @@ operator can locate a particular creature or object with computer
 sensors and teleport it from its present location to the transport disk.
 The range is limited only by the range of the sensors.
 
-**Purchase DC: **52.
+**Purchase DC:** 52.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 <table>
 <tbody>
@@ -1561,7 +1561,7 @@ Dimension gate generators—whether stationary or portable— should not
 break down at random any more than a starship does (unless, of course,
 the campaign revolves around that very problem).
 
-**Complete Shutdown: **The generator simply stops working, either
+**Complete Shutdown:** The generator simply stops working, either
 because its components are damaged or because it has run out of power.
 Fixing damage components usually requires 10 hours and a successful
 Repair check (DC 25), while constructing a new power source (a complex
@@ -1570,7 +1570,7 @@ device) requires 60 hours and a successful Craft (electronic) check (DC
 a successful Gather Information check, and negotiating for it may
 require a Diplomacy check.
 
-**Miscalibration: **A miscalibrated dimension gate generator doesn’t
+**Miscalibration:** A miscalibrated dimension gate generator doesn’t
 take the characters where they planned to go. Correctly recalibrating
 the generator involves either downloading the data from another
 functional generator (a full-round action followed by a successful DC 10
@@ -1578,7 +1578,7 @@ Computer Use check) or returning to the last “accurate coordinates” and
 resetting the matrix (12 hours of work followed by a successful DC 25
 Computer Use check).
 
-**Communication Failure: **There is no guarantee that standard
+**Communication Failure:** There is no guarantee that standard
 communications work across dimensions; even communications designed to
 work across interstellar distances are useless when the party for whom
 the message is intended is not in the same dimension. A d-com (see
@@ -1685,10 +1685,10 @@ check, DC 20), and scientists have finally learned how to keep the gate
 open indefinitely. Best of all, dimensional travel through PL 9 D-gates
 is two-way, allowing for round trips.
 
-**Purchase DC: **54 (PL 7 D-gate generator), 48 (PL 8 D-gate generator),
+**Purchase DC:** 54 (PL 7 D-gate generator), 48 (PL 8 D-gate generator),
 46 (PL 9 D-gate generator).
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **D-DRIVE GENERATOR (PL 8–9)**
 
@@ -1706,10 +1706,10 @@ Any size starship can be equipped with one, and the generator can be
 reactivated after 6 hours; the ship’s disabled weapons, defense fields,
 defense screens, and engines come back online after only 10 minutes.
 
-**Purchase DC: **48 (PL 8 D-drive generator), 44 (PL 9 D-drive
+**Purchase DC:** 48 (PL 8 D-drive generator), 44 (PL 9 D-drive
 generator).
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **DIMENSION WAND (PL 8–9)**
 
@@ -1726,11 +1726,11 @@ added benefit that it stores the last five dimensional coordinates
 automatically, enabling anyone to thumb through settings without
 recalibrating the wand.
 
-**Weight: **1 lb.
+**Weight:** 1 lb.
 
-**Purchase DC: **42.
+**Purchase DC:** 42.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 ## OTHER GEAR
 
@@ -1751,13 +1751,13 @@ transceiver takes a full-round action and requires a successful Computer
 Use check (DC 15), The PL 9 version can store the coordinates of up to
 five different dimensions.
 
-**Size: **Medium (PL 8), Tiny (PL 9).
+**Size:** Medium (PL 8), Tiny (PL 9).
 
-**Weight: **4 lb. (PL 8), 1 lb. (PL 9)
+**Weight:** 4 lb. (PL 8), 1 lb. (PL 9)
 
-**Purchase DC: **24.
+**Purchase DC:** 24.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 ## TIME TRAVEL
 
@@ -1905,8 +1905,8 @@ check (DC 35).
 Time spheres have the following statistics:
 
 **Crew **2; **Passengers **0; **Cargo **120 lb.; **Defense **6;
-**Hardness **5; **Hit Points **24; **Size **Huge; **Purchase DC: **65;
-**Restriction: **Illegal (+4).
+**Hardness **5; **Hit Points **24; **Size **Huge; **Purchase DC:** 65;
+**Restriction:** Illegal (+4).
 
 **TEMPORAL DRIVE GENERATOR (PL 9)**
 
@@ -1915,9 +1915,9 @@ dimensional boundaries, the temporal drive generator (or “T-drive
 generator”) carries starships through time. The drive can be mounted in
 a starship of any size and turns the entire ship into a time machine.
 
-**Purchase DC: **60.
+**Purchase DC:** 60.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **TIME BRIDGE (PL 9)**
 
@@ -1945,6 +1945,6 @@ seems to vanish. For the travelers, the point of origin simply becomes
 less “real” as the destination becomes more real. The bridge is large
 enough to accommodate vehicles up to Huge size.
 
-**Purchase DC: **71.
+**Purchase DC:** 71.
 
-**Restriction: **Illegal (+4).
+**Restriction:** Illegal (+4).

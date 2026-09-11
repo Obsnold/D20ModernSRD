@@ -1,5 +1,4 @@
-
-### CONDITION SUMMARY
+# CONDITION SUMMARY
 
 A number of adverse conditions can affect the way a character operates,
 as defined here. If more than one condition affects a character, apply

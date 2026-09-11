@@ -58,10 +58,10 @@ larger fighting spaces are possible.
 Starship combat is played out in rounds. Each round, each starship acts
 in turn in a regular cycle. Generally, starship combat runs as follows.
 
-**Step 1: **Every starship starts the battle flat-footed. Once a
+**Step 1:** Every starship starts the battle flat-footed. Once a
 starship acts, it is no longer flat-footed.
 
-**Step 2: **The GM determines which starships are aware of each other at
+**Step 2:** The GM determines which starships are aware of each other at
 the start of the battle. (Cloaking devices and other devices might hide
 a ship from another ship’s sensors.) If some but not all of the
 starships are aware of their enemies, a surprise round happens before
@@ -72,10 +72,10 @@ enemies each take one move or attack action. Starships that were unaware
 don’t get to act in the surprise round. If no starship or every starship
 begins the battle aware, there is no surprise round.
 
-**Step 3: **Starships that have not yet rolled initiative do so. All
+**Step 3:** Starships that have not yet rolled initiative do so. All
 starships are now ready to begin their first regular round.
 
-**Step 4: **Starships act in initiative order. All crew aboard a
+**Step 4:** Starships act in initiative order. All crew aboard a
 starship act on the starship’s turn.
 
 **Step 5. **When each starship has had a turn, the starship with the
@@ -101,7 +101,7 @@ Defense, the attack hits and deals damage. A starship’s attack roll is:
 **1d20 + gunner’s ranged attack bonus + range penalty + starship’s size
 modifier + targeting system’s equipment bonus**
 
-**Gunner’s Ranged Attack Bonus: **Unless noted otherwise, all starship
+**Gunner’s Ranged Attack Bonus:** Unless noted otherwise, all starship
 gunners are assumed to have the Starship Gunnery feat. Without this
 feat, a starship gunner takes a –4 nonproficient penalty on attack rolls
 with starship weapons.
@@ -109,7 +109,7 @@ with starship weapons.
 For simplicity, all gunners aboard a starship have identical ranged
 attack bonuses.
 
-**Range Penalty: **The range penalty for a ranged weapon depends on what
+**Range Penalty:** The range penalty for a ranged weapon depends on what
 weapon the starship is using and the distance to the target. All ranged
 weapons have a range increment, as noted in Table: Starship Weapons.
 
@@ -120,11 +120,11 @@ increment causes a cumulative –2 penalty on the attack roll.
 A beam weapon has a maximum range of 10 increments. A projectile weapon
 has an unlimited range, since projectiles don’t lose inertia in space.
 
-**Starship’s Size Modifier: **Starships are Huge, Gargantuan, or
+**Starship’s Size Modifier:** Starships are Huge, Gargantuan, or
 Colossal in size. Table: Starship Sizes notes the size modifiers for
 ships of different sizes.
 
-**Targeting System’s Equipment Bonus: **Most starships have computerized
+**Targeting System’s Equipment Bonus:** Most starships have computerized
 targeting systems to help gunners train weapons on targets. A standard
 targeting system provides an equipment bonus on the gunner’s attack roll
 depending on the ship’s size: Huge +1, Gargantuan +2, Colossal +3.
@@ -132,7 +132,7 @@ Improved targeting systems (see Starship Sensors) grant higher bonuses.
 Table: Starship Sizes summarizes the targeting system equipment bonuses
 for ships of different sizes.
 
-**Automatic Misses and Hits: **As in character combat, a natural 1 on
+**Automatic Misses and Hits:** As in character combat, a natural 1 on
 the attack roll is always a miss. A natural 20 is always a hit. A
 natural 20 also always threatens a critical hit (see Critical Hits,
 below).
@@ -260,11 +260,11 @@ A starship with a living pilot has a Defense equal to:
 **10 + starship’s size modifier + pilot’s class bonus to Defense +
 pilot’s Dexterity modifier**
 
-**Starship’s Size Modifier: **The bigger a starship is, the easier it is
+**Starship’s Size Modifier:** The bigger a starship is, the easier it is
 to hit in combat. The smaller it is, the harder it is to hit. Size
 modifiers are shown on Table: Starship Sizes.
 
-**Pilot’s Class Bonus to Defense: **The pilot imparts her class bonus to
+**Pilot’s Class Bonus to Defense:** The pilot imparts her class bonus to
 Defense to the ship’s Defense. This bonus applies even if the starship
 is flat-footed or otherwise denied the pilot’s Dexterity bonus to its
 Defense.
@@ -273,7 +273,7 @@ All starship pilots are assumed to have the appropriate Starship
 Operation feat. Consequently, they apply their full class bonus to
 Defense (instead of one-half the modifier) to a starship’s Defense.
 
-**Pilot’s Dexterity Modifier: **In any given round, a pilot may choose
+**Pilot’s Dexterity Modifier:** In any given round, a pilot may choose
 to transfer her full Dexterity bonus to the starship’s Defense. However,
 doing so forces the pilot to focus entirely on flying the ship, and
 consequently the pilot loses the Dexterity bonus to her own Defense for
@@ -290,10 +290,10 @@ has a Defense equal to:
 
 **10 + starship’s size modifier + autopilot system’s equipment bonus**
 
-**Starship’s Size Modifier: **Size modifiers are shown on Table:
+**Starship’s Size Modifier:** Size modifiers are shown on Table:
 Starship Sizes.
 
-**Autopilot System’s Equipment Bonus: **An autopilot system provides an
+**Autopilot System’s Equipment Bonus:** An autopilot system provides an
 equipment bonus to Defense depending on the ship’s size: Huge +1,
 Gargantuan +2, Colossal +3. A ship equipped with an improved autopilot
 system (see Starship Defense Systems) gains a higher bonus.
@@ -308,19 +308,19 @@ ace crews are also available—for the right price. Table: Crew Quality
 compares four different qualities of crew: untrained, trained, expert,
 and ace.
 
-**Skill Check Modifier: **Apply this modifier to all skill checks made
+**Skill Check Modifier:** Apply this modifier to all skill checks made
 by crew.
 
-**Pilot’s Dexterity Modifier: **A pilot’s Dexterity modifier applies to
+**Pilot’s Dexterity Modifier:** A pilot’s Dexterity modifier applies to
 the starship’s initiative rolls and the starship’s Defense.
 
-**Pilot’s Class Bonus to Defense: **A pilot’s class bonus to Defense
+**Pilot’s Class Bonus to Defense:** A pilot’s class bonus to Defense
 applies to the starship’s Defense and to opposed grapple checks.
 
-**Gunner’s Attack Bonus: **A gunner’s attack bonus applies to all ranged
+**Gunner’s Attack Bonus:** A gunner’s attack bonus applies to all ranged
 attacks made by the ship.
 
-**Modifier to Starship’s Base Purchase DC: **The amount by which the
+**Modifier to Starship’s Base Purchase DC:** The amount by which the
 crew increases the base purchase DC of the ship. (This modifier is
 already factored in to the base purchase DCs of the ships presented
 below.)
@@ -531,9 +531,9 @@ determine the effects of the critical hit on the target.
 | 96–100                                   | Destroyed weapon                                 |
 |                                          |                                                  |
 
-**Normal Critical Hit: **Roll critical hit damage normally.
+**Normal Critical Hit:** Roll critical hit damage normally.
 
-**Crew Casualties: **A number of crewmembers and passengers are killed
+**Crew Casualties:** A number of crewmembers and passengers are killed
 (this effect applies only if the ship isn’t destroyed). Roll 1d10 to
 determine the number of crew fatalities and, if the ship carries
 passengers, 1d10 to determine the number of passenger casualties. Only
@@ -550,11 +550,11 @@ crewless ship doesn’t have a functional autopilot system, it is
 immobile. If this result is rolled again and the ship has no living crew
 or passengers, ignore this result and reroll.
 
-**Severe Critical Hit: **Roll critical hit damage using a ×10 multiplier
+**Severe Critical Hit:** Roll critical hit damage using a ×10 multiplier
 instead of the weapon’s normal multiplier. In addition, the ship and its
 crew are shaken for 1 round.
 
-**Artificial Gravity Disabled: **The starship’s artificial gravity is
+**Artificial Gravity Disabled:** The starship’s artificial gravity is
 disabled for 1d10 rounds. During this time, an untrained crew takes a –4
 penalty on all attack rolls and skill checks while coping with the
 zero-gravity conditions. Trained, expert, or ace crews take no
@@ -562,7 +562,7 @@ penalties, as they are assumed to have the Zero-G Training feat. Ignore
 this result if it comes up again while the artificial gravity system is
 disabled.
 
-**Damaged System: **A damaged system remains inoperable until it is
+**Damaged System:** A damaged system remains inoperable until it is
 repaired, which requires 10 hours of work and a successful Repair check
 (DC 30). A starship’s engineer (or engineering team) can perform
 jury-rig repairs on the system as a full-round action with a successful
@@ -597,12 +597,12 @@ missile launchers (attacker’s choice) ceases to function. The weapon
 remains inoperable until it is repaired. If this result is rolled again
 and the ship has no functional weapons, ignore this result and reroll.
 
-**Destroyed Defensive System: **One of the starship’s defensive systems
+**Destroyed Defensive System:** One of the starship’s defensive systems
 (determined by the attacker) is destroyed. It cannot be repaired and
 must be replaced. If this result is rolled again and the ship has no
 defensive systems, ignore this result and reroll.
 
-**Destroyed Weapon: **One of the starship’s weapons (determined by the
+**Destroyed Weapon:** One of the starship’s weapons (determined by the
 attacker) is destroyed. It cannot be repaired and must be replaced. If
 this result is rolled again and the ship has no weapons, ignore this
 result and reroll.
@@ -825,47 +825,47 @@ operates, as defined here. If more than one condition affects a
 starship, apply both if possible. If not possible, apply only the most
 severe condition.
 
-**Blinded: **The starship’s sensors are inoperable. All targets have the
+**Blinded:** The starship’s sensors are inoperable. All targets have the
 equivalent of total concealment (50% miss chance).
 
-**Breaking Apart: **The starship is at negative hit points. It can take
+**Breaking Apart:** The starship is at negative hit points. It can take
 no actions, cannot be repaired, and loses 1 hit point each round until
 it is destroyed.
 
-**Dazed: **The starship, its crew, and its passengers can take no
+**Dazed:** The starship, its crew, and its passengers can take no
 actions, but they take no penalty to Defense. A dazed condition usually
 lasts 1 round.
 
-**Destroyed: **The ship is destroyed and cannot be repaired. Crewmembers
+**Destroyed:** The ship is destroyed and cannot be repaired. Crewmembers
 aboard the destroyed ship take 20d6 points of damage and are ejected
 into space.
 
-**Entangled: **An entangled starship takes a –2 penalty on attack rolls
+**Entangled:** An entangled starship takes a –2 penalty on attack rolls
 in addition to a –2 penalty to Defense. If the ship is physically
 anchored to a larger object (such as an asteroid), the entangled ship
 can’t move. Otherwise, it can move at half tactical speed, but can’t
 surge forward.
 
-**Flat-Footed: **A starship that has not yet acted during a combat is
+**Flat-Footed:** A starship that has not yet acted during a combat is
 flat-footed. A flat-footed starship cannot apply its pilot’s Dexterity
 bonus to its Defense.
 
-**Grappled: **When grappled, a starship can’t move. It can attack,
+**Grappled:** When grappled, a starship can’t move. It can attack,
 attempt to break free from its opponent, or perform other actions. It
 can’t apply the pilot’s Dexterity bonus to its Defense.
 
-**Helpless: **A starship that is reduced to negative hit points is
+**Helpless:** A starship that is reduced to negative hit points is
 helpless. A helpless starship has an effective Defense of 5 + its size
 modifier.
 
-**Immobilized: **An immobilized starship is held immobile (but is not
+**Immobilized:** An immobilized starship is held immobile (but is not
 helpless), usually in a grapple. It takes a –4 penalty to its Defense
 and can’t apply the pilot’s Dexterity bonus to its Defense.
 
-**Shaken: **All passengers and crewmembers (pilots and gunners included)
+**Shaken:** All passengers and crewmembers (pilots and gunners included)
 take a –2 penalty on attack rolls, saving throws, and skill checks.
 
-**Stunned: **All passengers and crewmembers lose their Dexterity bonus,
+**Stunned:** All passengers and crewmembers lose their Dexterity bonus,
 drop what they are holding, and can take no attack or move actions. In
 addition, they take a –2 penalty to Defense. The starship’s autopilot
 system kicks in until the pilot regains her senses.
@@ -927,7 +927,7 @@ initiative modifier (including Dexterity modifier and Improved
 Initiative feat bonus, if applicable). If there is still a tie, roll a
 die.
 
-**Flat-Footed Starships: **At the start of a battle, before a starship
+**Flat-Footed Starships:** At the start of a battle, before a starship
 has had a chance to act (specifically, before its first turn in the
 initiative order), it is flat-footed. It can’t apply the pilot’s
 Dexterity bonus to Defense while flat-footed.
@@ -1232,7 +1232,7 @@ If a starship fires a ranged weapon at a target that occupies a square
 adjacent to an ally, it takes a –4 penalty on its attack roll because
 the gunner must aim carefully to avoid hitting the ally.
 
-**Attacks of Opportunity: **A starship can fire its ranged weapons
+**Attacks of Opportunity:** A starship can fire its ranged weapons
 without provoking attacks of opportunity from enemy ships.
 
 **ATTACK AN OBJECT**
@@ -1397,7 +1397,7 @@ but it gains a +4 dodge bonus to its Defense for 1 round. The ship’s
 Defense improves at the start of this action, so it helps against any
 attacks of opportunity the ship is subject to during its move action.
 
-**Fighting Defensively: **Instead of diverting all of its attention to
+**Fighting Defensively:** Instead of diverting all of its attention to
 defending itself, a starship can choose to fight defensively while
 taking a regular attack action. If it does so, it takes a –4 penalty on
 its attacks in a round to gain a +2 dodge bonus to Defense during the
@@ -1414,7 +1414,7 @@ A starship can move its tactical speed as a move action. If it takes
 this kind of move action during its turn, it cannot also take a 500-
 foot shift.
 
-**Attacks of Opportunity: **Moving through a threatened square provokes
+**Attacks of Opportunity:** Moving through a threatened square provokes
 an attack of opportunity if the enemy ship has a point defense system
 (see Starship Defense Systems).
 
@@ -1533,7 +1533,7 @@ although enemy ships can pursue the fleeing ship if they wish.
 A starship cannot jump to cruising speed if it has 0 or fewer hit
 points.
 
-**Attacks of Opportunity: **A starship that jumps to cruising speed
+**Attacks of Opportunity:** A starship that jumps to cruising speed
 provokes attacks of opportunity from threatening enemy ships armed with
 point-defense systems (see Starship Defense Systems).
 
@@ -1547,7 +1547,7 @@ Defense since it can’t avoid attacks.
 
 A starship can surge forward for as many rounds as the pilot likes.
 
-**Attacks of Opportunity: **A starship that surges forward provokes
+**Attacks of Opportunity:** A starship that surges forward provokes
 attacks of opportunity from threatening enemy ships armed with
 point-defense systems (see Starship Defense Systems).
 
@@ -1658,16 +1658,16 @@ starship and the hazard occupy the same square.
 A starship can pass through a square occupied by another starship or
 object.
 
-**Ally or Nonopposing Starship: **You can safely move through a square
+**Ally or Nonopposing Starship:** You can safely move through a square
 occupied by an ally or nonopposing starshi p.
 
-**Enemy Starship: **Moving through a square occupied by an enemy
+**Enemy Starship:** Moving through a square occupied by an enemy
 provokes an attack of opportunity if the enemy has a point-defense
 system (see Starship Defense Systems). You can move safely through a
 square occupied by an enemy that doesn’t resist—such as one that is
 disabled—as if the enemy was nonopposing.
 
-**Hazard: **Safely moving through a square occupied by a hazard—such as
+**Hazard:** Safely moving through a square occupied by a hazard—such as
 a cloud of space debris or an asteroid— requires a successful Pilot
 check (see Avoiding Hazards).
 
@@ -1708,7 +1708,7 @@ threatened square, and performing an action within a threatened square
 that distracts the pilot and forces her to do something other than evade
 incoming fire.
 
-**Moving Out of a Threatened Square: **When a starship moves out of a
+**Moving Out of a Threatened Square:** When a starship moves out of a
 threatened square, it generally provokes an attack of opportunity. There
 are two important exceptions, however. A starship doesn’t provoke an
 attack of opportunity if it limits its movement to a single 500-foot
@@ -1721,7 +1721,7 @@ shift). If it doesn’t start in a threatened square but moves into one,
 it must stop there, or else it provokes an attack of opportunity as it
 leaves that square.
 
-**Performing an Action that Distracts the Pilot: **Some actions, when
+**Performing an Action that Distracts the Pilot:** Some actions, when
 performed in a threatened square, provoke attacks of opportunity because
 they make the pilot divert her attention from the battle at hand. Firing
 a starship weapon in a threatened square does not provoke attacks of
@@ -1760,61 +1760,61 @@ armor, shields, defensive systems, and engines.
 
 Each starship description includes the following statistics.
 
-**Type: **The starship’s type (ultralight, light, mediumweight, heavy,
+**Type:** The starship’s type (ultralight, light, mediumweight, heavy,
 or superheavy) determines its fighting space on the battle grid.
 
-**Subtype: **The starship’s subtype describes the ship’s primary
+**Subtype:** The starship’s subtype describes the ship’s primary
 function (for example, fighter or strike cruiser).
 
-**Defense: **A starship’s Defense determines how hard the ship is to
+**Defense:** A starship’s Defense determines how hard the ship is to
 hit. A starship’s flat-footed Defense does not include the pilot’s
 Dexterity modifier. A starship’s autopilot Defense is used when the
 ship’s autopilot system is engaged.
 
-**Hardness: **A ship’s hardness is determined by its armor. Hardness
+**Hardness:** A ship’s hardness is determined by its armor. Hardness
 reduces the amount of damage the ship takes from weapon attacks. Better
 armor can improve a ship’s hardness.
 
-**Hit Dice: **A ship’s Hit Dice (HD) determines how many hit points it
+**Hit Dice:** A ship’s Hit Dice (HD) determines how many hit points it
 has. Hit Dice are never rolled to determine a ship’s hit points; the
 ship always gets maximum hit points for each Hit Die.
 
-**Initiative Modifier: **A starship’s initiative modifier is equal to
+**Initiative Modifier:** A starship’s initiative modifier is equal to
 the pilot’s Dexterity modifier, with a +4 bonus if the pilot has the
 Improved Initiative feat.
 
-**Pilot’s Class Bonus: **The pilot’s class bonus to Defense applies to
+**Pilot’s Class Bonus:** The pilot’s class bonus to Defense applies to
 the starship’s normal and flat-footed Defense.
 
-**Pilot’s Dex Modifier: **The pilot’s Dexterity modifier applies to the
+**Pilot’s Dex Modifier:** The pilot’s Dexterity modifier applies to the
 starship’s Defense, except when the ship is flat-footed or
 
 grappled.
 
-**Gunner’s Attack Bonus: **The gunner’s attack bonus applies to ranged
+**Gunner’s Attack Bonus:** The gunner’s attack bonus applies to ranged
 weapon attacks.
 
-**Size: **The ship’s size affects its Defense, weapon attack rolls, and
+**Size:** The ship’s size affects its Defense, weapon attack rolls, and
 grapple modifier.
 
-**Tactical Speed: **Tactical speed represents how far the starship can
+**Tactical Speed:** Tactical speed represents how far the starship can
 move as a move action using its thrusters. Speed is listed in feet and
 squares. Most starships have a base tactical speed of 3,000 feet. Better
 engines can improve a starship’s tactical speed (see Starship Engines),
 while heavier armor can reduce a ship’s tactical speed (see Starship
 Armor,).
 
-**Length: **The ship’s length in feet.
+**Length:** The ship’s length in feet.
 
-**Weight: **The ship’s weight in pounds or tons.
+**Weight:** The ship’s weight in pounds or tons.
 
-**Targeting System Bonus: **The ship’s computerized targeting system
+**Targeting System Bonus:** The ship’s computerized targeting system
 provides an equipment bonus on a gunner’s attack rolls and a similar
 equipment bonus on attack rolls made by the ship’s point-efense system
 (see Attack of Opportunity, below). This equipment bonus is already
 factored in to the ship’s attack statistics.
 
-**Crew: **The ship’s standard crew complement is given here. A ship
+**Crew:** The ship’s standard crew complement is given here. A ship
 cannot operate with less than one-quarter of its standard crew
 complement. The crew’s quality is given in parentheses, along with the
 crew’s modifier to skill checks (including Pilot checks made to avoid
@@ -1822,33 +1822,33 @@ hazards). The quality of the crew determines the pilot’s class bonus to
 Defense, the pilot’s Dexterity modifier, and the gunner’s attack bonus
 (see Table: Crew Quality for details).
 
-**Passenger Capacity: **The maximum number of passengers that can be
+**Passenger Capacity:** The maximum number of passengers that can be
 safely lodged aboard the ship.
 
-**Cargo Capacity: **The maximum tonnage of cargo that the ship can store
+**Cargo Capacity:** The maximum tonnage of cargo that the ship can store
 in its holds.
 
-**Grapple Modifier: **The ship’s grapple check modifier is based on its
+**Grapple Modifier:** The ship’s grapple check modifier is based on its
 size (Huge +8, Gargantuan +12, Colossal +16). Grapple checks come into
 play whenever grapplers and tractor beams are used (see Grappling
 Systems).
 
-**Base Purchase DC: **The base purchase DC includes the ship’s hull and
+**Base Purchase DC:** The base purchase DC includes the ship’s hull and
 a trained crew, but not its engines, armor, shields, defensive systems,
 sensor systems, comm systems, weapons, or grappling systems (which must
 be purchased separately).
 
-**Restriction: **The ship’s restriction rating.
+**Restriction:** The ship’s restriction rating.
 
-**Attack: **This line shows the ranged weapon attacks a starship
+**Attack:** This line shows the ranged weapon attacks a starship
 typically makes when it uses an attack action.
 
-**Attack of Opportunity: **If the ship has a point-defense system
+**Attack of Opportunity:** If the ship has a point-defense system
 installed, it threatens ships passing through its fighting space or
 adjacent squares. Use the line to resolve attacks of opportunity made by
 the ship.
 
-**Standard Design Specs: **The ship’s engines, armor, defensive systems,
+**Standard Design Specs:** The ship’s engines, armor, defensive systems,
 sensors, communications, weapons, and grappling systems are listed here.
 
 **IMPROVING A STARSHIP’S STATISTICS**
@@ -1872,28 +1872,28 @@ Wings).
 
 In addition, all ultralight starships share the following design specs.
 
-**Engines: **All ultralight starships have thrusters. In addition, ships
+**Engines:** All ultralight starships have thrusters. In addition, ships
 of PL 6 or higher have one other type of engine (see Starship Engines).
 
-**Armor: **An ultralight ship has one type of armor (see Starship
+**Armor:** An ultralight ship has one type of armor (see Starship
 Armor).
 
-**Defensive Systems: **An ultralight starship has a maximum of one
+**Defensive Systems:** An ultralight starship has a maximum of one
 defensive system per 3 Hit Dice (see Starship Defense Systems).
 
-**Sensors: **An ultralight starship has a maximum of two sensor systems
+**Sensors:** An ultralight starship has a maximum of two sensor systems
 (see Starship Sensors).
 
-**Communications: **An ultralight starship has a maximum of two external
+**Communications:** An ultralight starship has a maximum of two external
 communication systems (see Starship Comm Systems).
 
-**Weapons: **An ultralight starship has one beam, projectile, or missile
+**Weapons:** An ultralight starship has one beam, projectile, or missile
 weapon per 3 Hit Dice (see Starship Weapons).
 
 These weapons are often fire-linked. An ultralight ship cannot be armed
 with mines.
 
-**Grappling Systems: **An ultralight starship may have up to two
+**Grappling Systems:** An ultralight starship may have up to two
 grappling systems (see Grappling Systems). Each grappling system takes
 away one of the ship’s weapon slots (see above).
 
@@ -1909,40 +1909,40 @@ space travel to other planets or star systems.
 
 |                              |                                       |
 |------------------------------|---------------------------------------|
-| **Type: **Ultralight         | **Size: **Gargantuan (–4 size)        |
+| **Type:** Ultralight         | **Size:** Gargantuan (–4 size)        |
 |                              |                                       |
-| **Subtype: **Orbital shuttle | **Tactical Speed: **2,500 ft. (5 sq.) |
-| **Defense: **11              | **Length: **60 feet                   |
-| **Flat-footed Defense: **9   | **Weight: **220,000 lb.               |
-| **Autopilot Defense: **8     | **Targeting System Bonus: **—         |
-| **Hardness: **20             | **Crew: **4 (trained +4)              |
-| **Hit Dice: **6d20 (120 hp)  | **Passenger Capacity: **12            |
-| **Initiative Modifier: **+2  | **Cargo Capacity: **22,000 lb.        |
-| **Pilot’s Class Bonus: **+3  | **Grapple Modifier: **+12             |
-| **Pilot’s Dex Modifier: **+2 | **Base Purchase DC: **52              |
+| **Subtype:** Orbital shuttle | **Tactical Speed:** 2,500 ft. (5 sq.) |
+| **Defense:** 11              | **Length:** 60 feet                   |
+| **Flat-footed Defense:** 9   | **Weight:** 220,000 lb.               |
+| **Autopilot Defense:** 8     | **Targeting System Bonus:** —         |
+| **Hardness:** 20             | **Crew:** 4 (trained +4)              |
+| **Hit Dice:** 6d20 (120 hp)  | **Passenger Capacity:** 12            |
+| **Initiative Modifier:** +2  | **Cargo Capacity:** 22,000 lb.        |
+| **Pilot’s Class Bonus:** +3  | **Grapple Modifier:** +12             |
+| **Pilot’s Dex Modifier:** +2 | **Base Purchase DC:** 52              |
 |                              |                                       |
-| **Gunner’s Attack Bonus: **— | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** — | **Restriction:** Restricted (+2)      |
 |                              |                                       |
 
-**Attack: **None
+**Attack:** None
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 5 Design Specs:**
 
-**Engines: **Thrusters
+**Engines:** Thrusters
 
-**Armor: **Alloy plating
+**Armor:** Alloy plating
 
-**Defense Systems: **Autopilot system, damage control system (1d10)
+**Defense Systems:** Autopilot system, damage control system (1d10)
 
-**Sensors: **Class I sensor array
+**Sensors:** Class I sensor array
 
-**Communications: **Radio transceiver
+**Communications:** Radio transceiver
 
-**Weapons: **None
+**Weapons:** None
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **COURIER (PL 6)**
 
@@ -1952,40 +1952,40 @@ courier category.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Ultralight          | **Size: **Gargantuan (–4 size)        |
+| **Type:** Ultralight          | **Size:** Gargantuan (–4 size)        |
 |                               |                                       |
-| **Subtype: **Courier          | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **11               | **Length: **45 feet                   |
-| **Flat-footed Defense: **9    | **Weight: **90,000 lb.                |
-| **Autopilot Defense: **8      | **Targeting System Bonus: **+2        |
-| **Hardness: **20              | **Crew: **4 (trained +4)              |
-| **Hit Dice: **8d20 (160 hp)   | **Passenger Capacity: **12            |
-| **Initiative Modifier: **+2   | **Cargo Capacity: **9,000 lb.         |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+12             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **48              |
+| **Subtype:** Courier          | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 11               | **Length:** 45 feet                   |
+| **Flat-footed Defense:** 9    | **Weight:** 90,000 lb.                |
+| **Autopilot Defense:** 8      | **Targeting System Bonus:** +2        |
+| **Hardness:** 20              | **Crew:** 4 (trained +4)              |
+| **Hit Dice:** 8d20 (160 hp)   | **Passenger Capacity:** 12            |
+| **Initiative Modifier:** +2   | **Cargo Capacity:** 9,000 lb.         |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +12             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 48              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Licensed (+1)        |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Licensed (+1)        |
 |                               |                                       |
 
-**Attack: **Laser +0 ranged (6d8)
+**Attack:** Laser +0 ranged (6d8)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Polymeric
+**Armor:** Polymeric
 
-**Defense Systems: **Autopilot system, damage control system (1d10)
+**Defense Systems:** Autopilot system, damage control system (1d10)
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 laser (range incr. 3,000 ft.)
+**Weapons:** 1 laser (range incr. 3,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **ESCORT (PL 6)**
 
@@ -1995,49 +1995,49 @@ missile boats could qualify as escorts.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Ultralight          | **Size: **Colossal (–8 size)          |
+| **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
 |                               |                                       |
-| **Subtype: **Escort           | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **7                | **Length: **180 feet                  |
-| **Flat-footed Defense: **5    | **Weight: **900 tons                  |
-| **Autopilot Defense: **5      | **Targeting System Bonus: **+3        |
-| **Hardness: **30              | **Crew: **8 (trained +4)              |
-| **Hit Dice: **20d20 (400 hp)  | **Passenger Capacity: **24            |
-| **Initiative Modifier: **+4   | **Cargo Capacity: **30 tons           |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **52              |
+| **Subtype:** Escort           | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 7                | **Length:** 180 feet                  |
+| **Flat-footed Defense:** 5    | **Weight:** 900 tons                  |
+| **Autopilot Defense:** 5      | **Targeting System Bonus:** +3        |
+| **Hardness:** 30              | **Crew:** 8 (trained +4)              |
+| **Hit Dice:** 20d20 (400 hp)  | **Passenger Capacity:** 24            |
+| **Initiative Modifier:** +4   | **Cargo Capacity:** 30 tons           |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
 |                               |                                       |
 
-**Attack: **2 fire-linked heavy neutron guns –3 ranged (15d8) and 2
+**Attack:** 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2
 fire-linked rail cannons –8 ranged (9d12) and CHE missile –8 ranged
 (6d12/19–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (1d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (1d12×10)
 
-**Standard PL 6 Design Specs: **
+**Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Damage control system (1d10), magnetic field,
+**Defense Systems:** Damage control system (1d10), magnetic field,
 
 point-defense system, radiation shielding, sensor jammer
 
-**Sensors: **Class III sensor array, targeting system
+**Sensors:** Class III sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked heavy neutron guns (range incr. 6,000 ft.),
+**Weapons:** 2 fire-linked heavy neutron guns (range incr. 6,000 ft.),
 
 2 fire-linked rail cannons (range incr. 3,000 ft.), 1 CHE missile
 launcher
 
 (8 missiles)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **FAST FREIGHTER (PL 6)**
 
@@ -2048,43 +2048,43 @@ Fast freighters often carry some minor defensive armament.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Ultralight          | **Size: **Colossal (–8 size)          |
+| **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
 |                               |                                       |
-| **Subtype: **Fast freighter   | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **7                | **Length: **110 feet                  |
-| **Flat-footed Defense: **5    | **Weight: **450 tons                  |
-| **Autopilot Defense: **5      | **Targeting System Bonus: **+3        |
-| **Hardness: **20              | **Crew: **4 (trained +4)              |
-| **Hit Dice: **16d20 (320 hp)  | **Passenger Capacity: **4             |
-| **Initiative Modifier: **+2   | **Cargo Capacity: **300 tons          |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **52              |
+| **Subtype:** Fast freighter   | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 7                | **Length:** 110 feet                  |
+| **Flat-footed Defense:** 5    | **Weight:** 450 tons                  |
+| **Autopilot Defense:** 5      | **Targeting System Bonus:** +3        |
+| **Hardness:** 20              | **Crew:** 4 (trained +4)              |
+| **Hit Dice:** 16d20 (320 hp)  | **Passenger Capacity:** 4             |
+| **Initiative Modifier:** +2   | **Cargo Capacity:** 300 tons          |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
 |                               |                                       |
 
-**Attack: **2 fire-linked heavy lasers –3 ranged (12d8) and 2
+**Attack:** 2 fire-linked heavy lasers –3 ranged (12d8) and 2
 fire-linked rail cannons –8 ranged (9d12)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Polymeric
+**Armor:** Polymeric
 
-**Defense Systems: **Autopilot system, damage control system (1d10),
+**Defense Systems:** Autopilot system, damage control system (1d10),
 magnetic field, radiation shielding, sensor jammer
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked heavy lasers (range incr. 4,000 ft.), 2
+**Weapons:** 2 fire-linked heavy lasers (range incr. 4,000 ft.), 2
 fire-linked rail cannons (range incr. 3,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **FIGHTER (PL 6)**
 
@@ -2094,40 +2094,40 @@ carry warheads.
 
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
-| **Type: **Ultralight             | **Size: **Gargantuan (–4 size)        |
+| **Type:** Ultralight             | **Size:** Gargantuan (–4 size)        |
 |                                  |                                       |
-| **Subtype: **Fighter             | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **19                  | **Length: **36 feet                   |
-| **Flat-footed Defense: **13      | **Weight: **39,000 lb.                |
-| **Autopilot Defense: **6         | **Targeting System Bonus: **+2        |
-| **Hardness: **20                 | **Crew: **1 (ace +12)                 |
-| **Hit Dice: **8d20 (160 hp)      | **Passenger Capacity: **1             |
-| **Initiative Modifier: **+8      | **Cargo Capacity: **1,700 lb.         |
-| **Pilot’s Class Bonus: **+7      | **Grapple Modifier: **+8              |
-| **Pilot’s Dex Modifier: **+6     | **Base Purchase DC: **48              |
+| **Subtype:** Fighter             | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 19                  | **Length:** 36 feet                   |
+| **Flat-footed Defense:** 13      | **Weight:** 39,000 lb.                |
+| **Autopilot Defense:** 6         | **Targeting System Bonus:** +2        |
+| **Hardness:** 20                 | **Crew:** 1 (ace +12)                 |
+| **Hit Dice:** 8d20 (160 hp)      | **Passenger Capacity:** 1             |
+| **Initiative Modifier:** +8      | **Cargo Capacity:** 1,700 lb.         |
+| **Pilot’s Class Bonus:** +7      | **Grapple Modifier:** +8              |
+| **Pilot’s Dex Modifier:** +6     | **Base Purchase DC:** 48              |
 |                                  |                                       |
-| **Gunner’s Attack Bonus: **+8/+3 | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +8/+3 | **Restriction:** Military (+3)        |
 |                                  |                                       |
 
-**Attack: **2 fire-linked fusion beams +6/+1 ranged (15d8)
+**Attack:** 2 fire-linked fusion beams +6/+1 ranged (15d8)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Polymeric
+**Armor:** Polymeric
 
-**Defense Systems: **Damage control system (1d10), sensor jammer
+**Defense Systems:** Damage control system (1d10), sensor jammer
 
-**Sensors: **Class III sensor array, targeting system
+**Sensors:** Class III sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked fusion beams (range incr. 3,000 ft.)
+**Weapons:** 2 fire-linked fusion beams (range incr. 3,000 ft.)
 
-**Grappling Systems: **None
+**Grappling Systems:** None
 
 **LAUNCH (PL 6)**
 
@@ -2137,40 +2137,40 @@ Evacuation pods and lunar landers fit into this category.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Ultralight          | **Size: **Huge (–2 size)              |
+| **Type:** Ultralight          | **Size:** Huge (–2 size)              |
 |                               |                                       |
-| **Subtype: **Launch           | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **13               | **Length: **24 feet                   |
-| **Flat-footed Defense: **11   | **Weight: **24,000 lb.                |
-| **Autopilot Defense: **9      | **Targeting System Bonus: **+1        |
-| **Hardness: **20              | **Crew: **1 (trained +4)              |
-| **Hit Dice: **4d20 (80 hp)    | **Passenger Capacity: **4             |
-| **Initiative Modifier: **+2   | **Cargo Capacity: **2,400 lb.         |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+8              |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **40              |
+| **Subtype:** Launch           | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 13               | **Length:** 24 feet                   |
+| **Flat-footed Defense:** 11   | **Weight:** 24,000 lb.                |
+| **Autopilot Defense:** 9      | **Targeting System Bonus:** +1        |
+| **Hardness:** 20              | **Crew:** 1 (trained +4)              |
+| **Hit Dice:** 4d20 (80 hp)    | **Passenger Capacity:** 4             |
+| **Initiative Modifier:** +2   | **Cargo Capacity:** 2,400 lb.         |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +8              |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 40              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Licensed (+1)        |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Licensed (+1)        |
 |                               |                                       |
 
-**Attack: **Laser +1 ranged (6d8)
+**Attack:** Laser +1 ranged (6d8)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Polymeric
+**Armor:** Polymeric
 
-**Defense Systems: **Autopilot system
+**Defense Systems:** Autopilot system
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 laser
+**Weapons:** 1 laser
 
-**Grappling Systems: **None
+**Grappling Systems:** None
 
 **SCOUT (PL 6)**
 
@@ -2179,43 +2179,43 @@ without engaging in serious combat.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Ultralight          | **Size: **Colossal (–8 size)          |
+| **Type:** Ultralight          | **Size:** Colossal (–8 size)          |
 |                               |                                       |
-| **Subtype: **Scout            | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **7                | **Length: **150 feet                  |
-| **Flat-footed Defense: **5    | **Weight: **600 tons                  |
-| **Autopilot Defense: **5      | **Targeting System Bonus: **+3        |
-| **Hardness: **30              | **Crew: **8 (trained +4)              |
-| **Hit Dice: **15d20 (300 hp)  | **Passenger Capacity: **8             |
-| **Initiative Modifier: **+2   | **Cargo Capacity: **30 tons           |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **52              |
+| **Subtype:** Scout            | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 7                | **Length:** 150 feet                  |
+| **Flat-footed Defense:** 5    | **Weight:** 600 tons                  |
+| **Autopilot Defense:** 5      | **Targeting System Bonus:** +3        |
+| **Hardness:** 30              | **Crew:** 8 (trained +4)              |
+| **Hit Dice:** 15d20 (300 hp)  | **Passenger Capacity:** 8             |
+| **Initiative Modifier:** +2   | **Cargo Capacity:** 30 tons           |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 52              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Military (+3)        |
 |                               |                                       |
 
-**Attack: **2 fire-linked heavy neutron guns –3 ranged (15d8) and 2 CHE
+**Attack:** 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2 CHE
 missiles –8 ranged (6d12/19–20)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Autopilot system, damage control system (1d10),
+**Defense Systems:** Autopilot system, damage control system (1d10),
 radiation shielding, self-destruct system, sensor jammer
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
+**Weapons:** 2 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
 CHE missile launchers (8 missiles each)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **ASSAULT FIGHTER (PL 7)**
 
@@ -2284,29 +2284,29 @@ engines, armaments, and defenses at the cost of less cargo capacity.
 </tbody>
 </table>
 
-**Attack: **2 fire-linked particle beams +8 ranged (18d8) and plasma
+**Attack:** 2 fire-linked particle beams +8 ranged (18d8) and plasma
 missile +3 ranged (18d8/19–20); or 2 fire-linked particle beams +8/+3
 ranged (18d8)
 
-**Attack of Opportunity: **None
+**Attack of Opportunity:** None
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Induction engine, thrusters
+**Engines:** Induction engine, thrusters
 
-**Armor: **Deflective
+**Armor:** Deflective
 
-**Defense Systems: **Autopilot system, improved damage control (2d10),
+**Defense Systems:** Autopilot system, improved damage control (2d10),
 stealth screen
 
-**Sensors: **Class V sensor array, improved targeting system
+**Sensors:** Class V sensor array, improved targeting system
 
-**Communications: **Mass transceiver, radio transceiver
+**Communications:** Mass transceiver, radio transceiver
 
-**Weapons: **2 fire-linked particle beams (range incr. 4,000 ft.), 1
+**Weapons:** 2 fire-linked particle beams (range incr. 4,000 ft.), 1
 plasma missile launcher (8 missiles; range incr. 5,000 ft.)
 
-**Grappling Systems: **None
+**Grappling Systems:** None
 
 ## Ultralight Starship Wings
 
@@ -2327,20 +2327,20 @@ follow the commander’s lead.
 If the wing commander’s ship is destroyed or grappled, another ship in
 the wing may assume the role of wing commander on the wing’s next turn.
 
-**Movement: **All ships in the wing move together, as one ship. The wing
+**Movement:** All ships in the wing move together, as one ship. The wing
 commander determines the wing’s movement. The wing’s tactical speed
 equals the tactical speed of the slowest ship in the wing.
 
-**Attacks: **Only the wing commander makes attacks. However, every other
+**Attacks:** Only the wing commander makes attacks. However, every other
 ship in the wing can aid the wing commander’s attack rolls or Pilot
 checks using the aid another action; this is the only type of attack
 action wingmen can take.
 
-**Defense: **Each wingman provides a +1 cover bonus to the wing
+**Defense:** Each wingman provides a +1 cover bonus to the wing
 commander’s Defense. The wing commander, preoccupied with moving and
 attacking, does not modify the Defense of any ships in the wing.
 
-**Attacks of Opportunity: **A wing provokes attacks of opportunity from
+**Attacks of Opportunity:** A wing provokes attacks of opportunity from
 enemy ships as though it was a single ship. However, damage from a
 point-defense system is distributed among the ships in the wing as the
 wing commander sees fit. For example, if a point-defense system deals
@@ -2351,7 +2351,7 @@ ship’s armor reduces the amount of damage it takes normally;
 conceivably, the damage could be split into small enough fractions that
 the wing, as a whole, suffers very little damage.
 
-**Grapplers and Tractor Beams: **Ships in a wing may be targeted
+**Grapplers and Tractor Beams:** Ships in a wing may be targeted
 separately by grapplers and tractor beams. (See Grappling Systems for
 more information on these grappling devices.) A grappled ship
 immediately drops out of formation and is no longer considered part of
@@ -2368,27 +2368,27 @@ A light starship measures 251–500 feet long. It has a 500-footby-
 500-foot fighting space and occupies a single 500-foot square. In
 addition, all light starships share the following design specs.
 
-**Engines: **All light starships have thrusters plus one other type of
+**Engines:** All light starships have thrusters plus one other type of
 engine (see Starship Engines).
 
-**Armor: **A light starship has one type of armor (see Starship Armor).
+**Armor:** A light starship has one type of armor (see Starship Armor).
 
-**Defensive Systems: **A light starship has a maximum of one defensive
+**Defensive Systems:** A light starship has a maximum of one defensive
 system per 10 Hit Dice (see Starship Defense Systems).
 
-**Sensors: **A light starship has a maximum of two sensor systems (see
+**Sensors:** A light starship has a maximum of two sensor systems (see
 Starship Sensors).
 
-**Communications: **A light starship has up to two external
+**Communications:** A light starship has up to two external
 communication systems (see Starship Comm Systems).
 
-**Weapons: **A light starship has one beam, projectile, or missile
+**Weapons:** A light starship has one beam, projectile, or missile
 weapon per 10 Hit Dice (see Starship Weapons). These
 
 weapons are often fire-linked. A light starship cannot be armed with
 mines.
 
-**Grappling Systems: **A light starship may have up to two grappling
+**Grappling Systems:** A light starship may have up to two grappling
 systems (see Grappling Systems). Each grappling
 
 system takes away one of the ship’s weapon slots (see above).
@@ -2405,45 +2405,45 @@ operate independently in wartime, corvettes are the smallest.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Light               | **Size: **Colossal (–8 size)          |
+| **Type:** Light               | **Size:** Colossal (–8 size)          |
 |                               |                                       |
-| **Subtype: **Corvette         | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **7                | **Length: **320 feet                  |
-| **Flat-footed Defense: **5    | **Weight: **3,200 tons                |
-| **Autopilot Defense: **5      | **Targeting System Bonus: **+3        |
-| **Hardness: **30              | **Crew: **16 (trained +4)             |
-| **Hit Dice: **40d20 (800 hp)  | **Passenger Capacity: **32            |
-| **Initiative Modifier: **+4   | **Cargo Capacity: **150 tons          |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **56              |
+| **Subtype:** Corvette         | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 7                | **Length:** 320 feet                  |
+| **Flat-footed Defense:** 5    | **Weight:** 3,200 tons                |
+| **Autopilot Defense:** 5      | **Targeting System Bonus:** +3        |
+| **Hardness:** 30              | **Crew:** 16 (trained +4)             |
+| **Hit Dice:** 40d20 (800 hp)  | **Passenger Capacity:** 32            |
+| **Initiative Modifier:** +4   | **Cargo Capacity:** 150 tons          |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 56              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Military (+3)        |
 |                               |                                       |
 
-**Attack: **2 fire-linked fusion beams –3 ranged (15d8) and 2
+**Attack:** 2 fire-linked fusion beams –3 ranged (15d8) and 2
 fire-linked CHE missiles –8 ranged (9d12/19–20); or 2 fire-linked CHE
 missiles –3 ranged (9d12/19–20) and 2 fire-linked fusion beams –8 ranged
 (15d8)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (2d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Autopilot system, improved damage control (3d10),
+**Defense Systems:** Autopilot system, improved damage control (3d10),
 magnetic field, point-defense system, radiation shielding
 
-**Sensors: **Class III sensor array, targeting system
+**Sensors:** Class III sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked fusion beams (range incr. 3,000 ft.), 2
+**Weapons:** 2 fire-linked fusion beams (range incr. 3,000 ft.), 2
 firelinked CHE missile launchers (8 missiles each)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **DESTROYER (PL 6)**
 
@@ -2456,49 +2456,49 @@ about 8,000 tons. It carries a crew of 150 to 200.
 
 |                                |                                       |
 |--------------------------------|---------------------------------------|
-| **Type: **Light                | **Size: **Colossal (–8 size)          |
+| **Type:** Light                | **Size:** Colossal (–8 size)          |
 |                                |                                       |
-| **Subtype: **Destroyer         | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **11                | **Length: **450 feet                  |
-| **Flat-footed Defense: **7     | **Weight: **8,000 tons                |
-| **Autopilot Defense: **7       | **Targeting System Bonus: **+3        |
-| **Hardness: **30               | **Crew: **80 (expert +8)              |
-| **Hit Dice: **80d20 (1,600 hp) | **Passenger Capacity: **48            |
-| **Initiative Modifier: **+4    | **Cargo Capacity: **400 tons          |
-| **Pilot’s Class Bonus: **+5    | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4   | **Base Purchase DC: **60              |
+| **Subtype:** Destroyer         | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 11                | **Length:** 450 feet                  |
+| **Flat-footed Defense:** 7     | **Weight:** 8,000 tons                |
+| **Autopilot Defense:** 7       | **Targeting System Bonus:** +3        |
+| **Hardness:** 30               | **Crew:** 80 (expert +8)              |
+| **Hit Dice:** 80d20 (1,600 hp) | **Passenger Capacity:** 48            |
+| **Initiative Modifier:** +4    | **Cargo Capacity:** 400 tons          |
+| **Pilot’s Class Bonus:** +5    | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4   | **Base Purchase DC:** 60              |
 |                                |                                       |
-| **Gunner’s Attack Bonus: **+4  | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4  | **Restriction:** Military (+3)        |
 |                                |                                       |
 
-**Attack: **4 fire-linked heavy neutron guns –1 ranged (20d8) and 2
+**Attack:** 4 fire-linked heavy neutron guns –1 ranged (20d8) and 2
 fire-linked nuclear missiles –6 melee (24d8/19–20) and needle driver –6
 melee (8d12); or 4 fire-linked nuclear missiles –1 ranged (24d8/19–20)
 and 2 fire-linked heavy neutron guns –6 melee (20d8) and needle driver
 –6 melee (8d12)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (2d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **1 chaff launcher (16 chaff bundles), 1 decoy drone
+**Defense Systems:** 1 chaff launcher (16 chaff bundles), 1 decoy drone
 launcher (4 drones), improved autopilot system, improved damage control
 (3d10), magnetic field, point-defense system, radiation shielding,
 self-destruct system
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **4 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
+**Weapons:** 4 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
 fire-linked nuclear missile launchers (8 missiles each), 1 needle driver
 (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **FRIGATE (PL 6)**
 
@@ -2508,48 +2508,48 @@ by small craft.
 
 |                                |                                       |
 |--------------------------------|---------------------------------------|
-| **Type: **Light                | **Size: **Colossal (–8 size)          |
+| **Type:** Light                | **Size:** Colossal (–8 size)          |
 |                                |                                       |
-| **Subtype: **Frigate           | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **11                | **Length: **360 feet                  |
-| **Flat-footed Defense: **7     | **Weight: **4,800 tons                |
-| **Autopilot Defense: **7       | **Targeting System Bonus: **+3        |
-| **Hardness: **30               | **Crew: **60 (expert +8)              |
-| **Hit Dice: **60d20 (1,200 hp) | **Passenger Capacity: **32            |
-| **Initiative Modifier: **+4    | **Cargo Capacity: **200 tons          |
-| **Pilot’s Class Bonus: **+5    | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4   | **Base Purchase DC: **60              |
+| **Subtype:** Frigate           | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 11                | **Length:** 360 feet                  |
+| **Flat-footed Defense:** 7     | **Weight:** 4,800 tons                |
+| **Autopilot Defense:** 7       | **Targeting System Bonus:** +3        |
+| **Hardness:** 30               | **Crew:** 60 (expert +8)              |
+| **Hit Dice:** 60d20 (1,200 hp) | **Passenger Capacity:** 32            |
+| **Initiative Modifier:** +4    | **Cargo Capacity:** 200 tons          |
+| **Pilot’s Class Bonus:** +5    | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4   | **Base Purchase DC:** 60              |
 |                                |                                       |
-| **Gunner’s Attack Bonus: **+4  | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4  | **Restriction:** Military (+3)        |
 |                                |                                       |
 
-**Attack: **2 fire-linked heavy neutron guns –1 ranged (15d8) and 2
+**Attack:** 2 fire-linked heavy neutron guns –1 ranged (15d8) and 2
 nuclear missiles –6 ranged (16d8/19–20) and needle driver –6 ranged
 (8d12); or 2 fire-linked nuclear missiles –1 ranged (24d8/19–20) and 2
 unlinked heavy neutron guns –6 ranged (10d8) and needle driver –6 ranged
 (8d12)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (2d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Improved autopilot, improved damage control (3d10),
+**Defense Systems:** Improved autopilot, improved damage control (3d10),
 magnetic field, point-defense system, radiation shielding, self-destruct
 system
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
+**Weapons:** 2 fire-linked heavy neutron guns (range incr. 6,000 ft.), 2
 fire-linked nuclear missile launchers (8 missiles each), 1 needle driver
 (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **HAULER (PL 6)**
 
@@ -2560,41 +2560,41 @@ at the expense of crew quarters and armaments.
 
 |                               |                                       |
 |-------------------------------|---------------------------------------|
-| **Type: **Light               | **Size: **Colossal (–8 size)          |
+| **Type:** Light               | **Size:** Colossal (–8 size)          |
 |                               |                                       |
-| **Subtype: **Hauler           | **Tactical Speed: **2,500 ft. (5 sq.) |
-| **Defense: **7                | **Length: **450 feet                  |
-| **Flat-footed Defense: **5    | **Weight: **6,000 tons                |
-| **Autopilot Defense: **5      | **Targeting System Bonus: **+3        |
-| **Hardness: **20              | **Crew: **8 (trained +4)              |
-| **Hit Dice: **36d20 (720 hp)  | **Passenger Capacity: **8             |
-| **Initiative Modifier: **+2   | **Cargo Capacity: **3,300 tons        |
-| **Pilot’s Class Bonus: **+3   | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2  | **Base Purchase DC: **56              |
+| **Subtype:** Hauler           | **Tactical Speed:** 2,500 ft. (5 sq.) |
+| **Defense:** 7                | **Length:** 450 feet                  |
+| **Flat-footed Defense:** 5    | **Weight:** 6,000 tons                |
+| **Autopilot Defense:** 5      | **Targeting System Bonus:** +3        |
+| **Hardness:** 20              | **Crew:** 8 (trained +4)              |
+| **Hit Dice:** 36d20 (720 hp)  | **Passenger Capacity:** 8             |
+| **Initiative Modifier:** +2   | **Cargo Capacity:** 3,300 tons        |
+| **Pilot’s Class Bonus:** +3   | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2  | **Base Purchase DC:** 56              |
 |                               |                                       |
-| **Gunner’s Attack Bonus: **+2 | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2 | **Restriction:** Restricted (+2)      |
 |                               |                                       |
 
-**Attack: **2 fire-linked heavy lasers –3 ranged (12d8)
+**Attack:** 2 fire-linked heavy lasers –3 ranged (12d8)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (2d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Alloy plating
+**Armor:** Alloy plating
 
-**Defense Systems: **Autopilot system, damage control system (2d10),
+**Defense Systems:** Autopilot system, damage control system (2d10),
 point-defense system
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **2 fire-linked heavy lasers (range incr. 4,000 ft.)
+**Weapons:** 2 fire-linked heavy lasers (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 MEDIUMWEIGHT STARSHIP SUBTYPES
 
@@ -2608,22 +2608,22 @@ A mediumweight starship measures 501–1,000 feet long. It occupies a
 squares). In addition, all mediumweight starships share the following
 design specs.
 
-**Engines: **All mediumweight starships have thrusters plus one other
+**Engines:** All mediumweight starships have thrusters plus one other
 type of engine (see Starship Engines).
 
-**Armor: **A mediumweight starship has one type of armor (see Starship
+**Armor:** A mediumweight starship has one type of armor (see Starship
 Armor).
 
-**Defensive Systems: **A mediumweight starship has a maximum of one
+**Defensive Systems:** A mediumweight starship has a maximum of one
 defensive system per 25 Hit Dice (see Starship Defense Systems).
 
-**Sensors: **A mediumweight starship has a maximum of three sensor
+**Sensors:** A mediumweight starship has a maximum of three sensor
 systems (see Starship Sensors).
 
-**Communications: **A mediumweight starship has up to two external
+**Communications:** A mediumweight starship has up to two external
 communication systems (see Starship Comm Systems).
 
-**Weapons: **A mediumweight starship has one beam, projectile, or
+**Weapons:** A mediumweight starship has one beam, projectile, or
 missile weapon per 25 Hit Dice (see Starship Weapons).
 
 These weapons are often fire-linked or arrayed in batteries. A minelayer
@@ -2631,7 +2631,7 @@ is considered a single weapon. Although it weighs no more than a few
 thousand pounds, each mine consumes 100 tons of a ship’s cargo capacity
 (most of it taken up by the launch system and radiation shielding).
 
-**Grappling Systems: **A mediumweight starship may have up to two
+**Grappling Systems:** A mediumweight starship may have up to two
 grappling systems (see Grappling Systems). Each grappling system takes
 away one of the ship’s weapon slots (see above).
 
@@ -2646,41 +2646,41 @@ regular runs between densely populated systems.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Mediumweight          | **Size: **Colossal (–8 size)          |
+| **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Bulk freighter     | **Tactical Speed: **2,500 ft. (5 sq.) |
-| **Defense: **7                  | **Length: **800 feet                  |
-| **Flat-footed Defense: **5      | **Weight: **32,000 tons               |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+3        |
-| **Hardness: **20                | **Crew: **8 (trained +4)              |
-| **Hit Dice: **125d20 (2,500 hp) | **Passenger Capacity: **8             |
-| **Initiative Modifier: **+2     | **Cargo Capacity: **20,000 tons       |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **60              |
+| **Subtype:** Bulk freighter     | **Tactical Speed:** 2,500 ft. (5 sq.) |
+| **Defense:** 7                  | **Length:** 800 feet                  |
+| **Flat-footed Defense:** 5      | **Weight:** 32,000 tons               |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +3        |
+| **Hardness:** 20                | **Crew:** 8 (trained +4)              |
+| **Hit Dice:** 125d20 (2,500 hp) | **Passenger Capacity:** 8             |
+| **Initiative Modifier:** +2     | **Cargo Capacity:** 20,000 tons       |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 60              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
 |                                 |                                       |
 
-**Attack: **4 fire-linked heavy lasers –3 ranged (16d8)
+**Attack:** 4 fire-linked heavy lasers –3 ranged (16d8)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (3d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Alloy plating
+**Armor:** Alloy plating
 
-**Defense Systems: **Improved autopilot system, improved damage control
+**Defense Systems:** Improved autopilot system, improved damage control
 (4d10), point-defense system, radiation shielding, sensor jammer
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **4 fire-linked heavy lasers (range incr. 4,000 ft.)
+**Weapons:** 4 fire-linked heavy lasers (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **CLIPPER (PL 6)**
 
@@ -2690,42 +2690,42 @@ top-of-the-line engines for the best possible speed.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Mediumweight          | **Size: **Colossal (–8 size)          |
+| **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Clipper            | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **7                  | **Length: **850 feet                  |
-| **Flat-footed Defense: **5      | **Weight: **27,000 tons               |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+3        |
-| **Hardness: **30                | **Crew: **32 (trained +4)             |
-| **Hit Dice: **150d20 (3,000 hp) | **Passenger Capacity: **80            |
-| **Initiative Modifier: **+2     | **Cargo Capacity: **10,000 tons       |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **60              |
+| **Subtype:** Clipper            | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 7                  | **Length:** 850 feet                  |
+| **Flat-footed Defense:** 5      | **Weight:** 27,000 tons               |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                | **Crew:** 32 (trained +4)             |
+| **Hit Dice:** 150d20 (3,000 hp) | **Passenger Capacity:** 80            |
+| **Initiative Modifier:** +2     | **Cargo Capacity:** 10,000 tons       |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 60              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
 |                                 |                                       |
 
-**Attack: **Battery of 5 lasers +1 ranged (6d8/19–20)
+**Attack:** Battery of 5 lasers +1 ranged (6d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (3d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Damage control (3d10), 1 decoy drone launcher (2
+**Defense Systems:** Damage control (3d10), 1 decoy drone launcher (2
 drones), improved autopilot system, magnetic field, point-defense
 system, radiation shielding
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 5 lasers (range incr. 3,000 ft.)
+**Weapons:** 1 battery of 5 lasers (range incr. 3,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **CRUISER (PL 6)**
 
@@ -2739,48 +2739,48 @@ carrier or assault transport.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Mediumweight          | **Size: **Colossal (–8 size)          |
+| **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Cruiser            | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **7                  | **Length: **720 feet                  |
-| **Flat-footed Defense: **5      | **Weight: **28,800 tons               |
-| **Autopilot Defense: **5        | **Targeting System Bonus: **+3        |
-| **Hardness: **30                | **Crew: **120 (trained +4)            |
-| **Hit Dice: **200d20 (4,000 hp) | **Passenger Capacity: **80            |
-| **Initiative Modifier: **+6     | **Cargo Capacity: **7,200 tons        |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **64              |
+| **Subtype:** Cruiser            | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 7                  | **Length:** 720 feet                  |
+| **Flat-footed Defense:** 5      | **Weight:** 28,800 tons               |
+| **Autopilot Defense:** 5        | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                | **Crew:** 120 (trained +4)            |
+| **Hit Dice:** 200d20 (4,000 hp) | **Passenger Capacity:** 80            |
+| **Initiative Modifier:** +6     | **Cargo Capacity:** 7,200 tons        |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 64              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Military (+3)        |
 |                                 |                                       |
 
-**Attack: **Battery of 3 fusion beams –1 ranged (10d8/19–20) and battery
+**Attack:** Battery of 3 fusion beams –1 ranged (10d8/19–20) and battery
 of 3 CHE missiles –6 ranged (6d12/18–20); or Battery of 3 CHE missiles
 –1 ranged (6d12/18–20) and battery of 4 fusion beams –6 ranged
 (10d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (3d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Autopilot system, 1 chaff launcher (8 chaff
+**Defense Systems:** Autopilot system, 1 chaff launcher (8 chaff
 bundles), 1 decoy drone launcher (8 drones), improved damage control
 (4d10), magnetic field, point-defense system, radiation shielding,
 self-destruct system
 
-**Sensors: **Class III sensor array, targeting system
+**Sensors:** Class III sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 4 fusion beams (range incr. 3,000 ft.), 1
+**Weapons:** 1 battery of 4 fusion beams (range incr. 3,000 ft.), 1
 battery of 3 CHE missile launchers (24 missiles each), 1 minelayer (36
 fusion mines with magnetic fields and stealth screens; 5d10×10 damage)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **STRIKE CRUISER (PL 7)**
 
@@ -2792,49 +2792,49 @@ cruiser hull could easily serve as a light carrier or assault carrier.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Mediumweight          | **Size: **Colossal (–8 size)          |
+| **Type:** Mediumweight          | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Strike cruiser     | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **11                 | **Length: **950 feet                  |
-| **Flat-footed Defense: **7      | **Weight: **38,000 tons               |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+5        |
-| **Hardness: **40                | **Crew: **160 (expert +8)             |
-| **Hit Dice: **250d20 (5,000 hp) | **Passenger Capacity: **40            |
-| **Initiative Modifier: **+8     | **Cargo Capacity: **1,200 tons        |
-| **Pilot’s Class Bonus: **+5     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4    | **Base Purchase DC: **68              |
+| **Subtype:** Strike cruiser     | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 11                 | **Length:** 950 feet                  |
+| **Flat-footed Defense:** 7      | **Weight:** 38,000 tons               |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +5        |
+| **Hardness:** 40                | **Crew:** 160 (expert +8)             |
+| **Hit Dice:** 250d20 (5,000 hp) | **Passenger Capacity:** 40            |
+| **Initiative Modifier:** +8     | **Cargo Capacity:** 1,200 tons        |
+| **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 68              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+4   | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
 |                                 |                                       |
 
-**Attack: **Battery of 4 antimatter guns +4 ranged (10d8/19–20) and
+**Attack:** Battery of 4 antimatter guns +4 ranged (10d8/19–20) and
 battery of 3 plasma missiles –2 ranged (18d8/18–20); or Battery of 3
 plasma missiles +3 ranged (18d8/18–20) and battery of 4 antimatter guns
 –1 ranged (10d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (3d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (3d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Particle impulse engine, thrusters
+**Engines:** Particle impulse engine, thrusters
 
-**Armor: **Neutronite
+**Armor:** Neutronite
 
-**Defense Systems: **1 chaff launcher (16 chaff bundles), improved
+**Defense Systems:** 1 chaff launcher (16 chaff bundles), improved
 autopilot system, improved damage control (4d10), light fortification,
 magnetic field, particle field, point-defense system, radiation
 shielding, repair drones, self-destruct system
 
-**Sensors: **Class V sensor array, improved targeting system
+**Sensors:** Class V sensor array, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **1 battery of 4 antimatter guns (range incr. 5,000 ft.), 1
+**Weapons:** 1 battery of 4 antimatter guns (range incr. 5,000 ft.), 1
 battery of 3 plasma missile launchers (16 missiles each), 1 minelayer (8
 gravitic mines with displacers, magnetic fields, and particle fields;
 10d10×10 damage)
 
-**Grappling Systems: **Grapplers, tractor beam emitter
+**Grappling Systems:** Grapplers, tractor beam emitter
 
 HEAVY STARSHIP SUBTYPES
 
@@ -2849,28 +2849,28 @@ foot-by-1,500-foot fighting space (9 500-foot squares).
 
 In addition, all heavy starships share the following design specs.
 
-**Engines: **All heavy starships have thrusters plus one other type of
+**Engines:** All heavy starships have thrusters plus one other type of
 engine (see Starship Engines).
 
-**Armor: **A heavy starship has one type of armor (see Starship Armor).
+**Armor:** A heavy starship has one type of armor (see Starship Armor).
 
-**Defensive Systems: **A heavy starship has a maximum of one defensive
+**Defensive Systems:** A heavy starship has a maximum of one defensive
 system per 50 Hit Dice (see Starship Defense Systems).
 
-**Sensors: **A heavy starship has a maximum of three sensor systems (see
+**Sensors:** A heavy starship has a maximum of three sensor systems (see
 Starship Sensors).
 
-**Communications: **A heavy starship has two external communication
+**Communications:** A heavy starship has two external communication
 systems (see Starship Comm Systems).
 
-**Weapons: **A heavy starship has one beam, projectile, or missile
+**Weapons:** A heavy starship has one beam, projectile, or missile
 weapon per 50 Hit Dice (see Starship Weapons). These weapons are often
 arrayed in batteries. A minelayer is considered a single weapon.
 Although it weighs no more than a few thousand pounds, each mine
 consumes 100 tons of a ship’s cargo capacity (most of it taken up by the
 launch system and radiation shielding).
 
-**Grappling Systems: **A heavy starship may have up to two grappling
+**Grappling Systems:** A heavy starship may have up to two grappling
 systems (see Grappling Systems). Each grappling system takes away one of
 the ship’s weapon slots (see above).
 
@@ -2886,49 +2886,49 @@ backbone of any battle fleet.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Heavy                 | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Battleship         | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **11                 | **Length: **1,250 feet                |
-| **Flat-footed Defense: **7      | **Weight: **125,000 tons              |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+3        |
-| **Hardness: **30                | **Crew: **400 (expert +8)             |
-| **Hit Dice: **400d20 (8,000 hp) | **Passenger Capacity: **200           |
-| **Initiative Modifier: **+4     | **Cargo Capacity: **30,000 tons       |
-| **Pilot’s Class Bonus: **+5     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4    | **Base Purchase DC: **72              |
+| **Subtype:** Battleship         | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 11                 | **Length:** 1,250 feet                |
+| **Flat-footed Defense:** 7      | **Weight:** 125,000 tons              |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                | **Crew:** 400 (expert +8)             |
+| **Hit Dice:** 400d20 (8,000 hp) | **Passenger Capacity:** 200           |
+| **Initiative Modifier:** +4     | **Cargo Capacity:** 30,000 tons       |
+| **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 72              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+4   | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
 |                                 |                                       |
 
-**Attack: **Battery of 3 heavy neutron guns +1 ranged (10d8/19–20) and 2
+**Attack:** Battery of 3 heavy neutron guns +1 ranged (10d8/19–20) and 2
 fire-linked nuclear missiles –6 ranged (24d8/19–20) and needle driver –6
 ranged (8d12); or 2 fire-linked nuclear missiles –1 ranged (24d8/19–20)
 and battery of 3 heavy neutron guns –4 ranged (10d8/19–20) and needle
 driver –6 ranged (8d12)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **1 chaff launcher (16 chaff bundles), 1 decoy drone
+**Defense Systems:** 1 chaff launcher (16 chaff bundles), 1 decoy drone
 launcher (4 drones), improved autopilot system, improved damage control
 (5d10), magnetic field, point-defense system, radiation shielding,
 self-destruct system
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 4 heavy neutron guns (range incr. 6,000 ft.),
+**Weapons:** 1 battery of 4 heavy neutron guns (range incr. 6,000 ft.),
 2 fire-linked nuclear missile launchers (16 missiles each), 1 needle
 driver (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **FLEET CARRIER (PL 6)**
 
@@ -2946,46 +2946,46 @@ ultralight craft as a move action.
 
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
-| **Type: **Heavy                  | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                  | **Size:** Colossal (–8 size)          |
 |                                  |                                       |
-| **Subtype: **Fleet carrier       | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **11                  | **Length: **1,400 feet                |
-| **Flat-footed Defense: **7       | **Weight: **140,000 tons              |
-| **Autopilot Defense: **7         | **Targeting System Bonus: **+3        |
-| **Hardness: **30                 | **Crew: **320 (expert +8)             |
-| **Hit Dice: **500d20 (10,000 hp) | **Passenger Capacity: **80            |
-| **Initiative Modifier: **+6      | **Cargo Capacity: **40,000 tons       |
-| **Pilot’s Class Bonus: **+5      | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4     | **Base Purchase DC: **72              |
+| **Subtype:** Fleet carrier       | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 11                  | **Length:** 1,400 feet                |
+| **Flat-footed Defense:** 7       | **Weight:** 140,000 tons              |
+| **Autopilot Defense:** 7         | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                 | **Crew:** 320 (expert +8)             |
+| **Hit Dice:** 500d20 (10,000 hp) | **Passenger Capacity:** 80            |
+| **Initiative Modifier:** +6      | **Cargo Capacity:** 40,000 tons       |
+| **Pilot’s Class Bonus:** +5      | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4     | **Base Purchase DC:** 72              |
 |                                  |                                       |
-| **Gunner’s Attack Bonus: **+4    | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4    | **Restriction:** Military (+3)        |
 |                                  |                                       |
 
-**Attack: **Battery of 5 neutron guns +3 ranged (6d8/19–20) and 2
+**Attack:** Battery of 5 neutron guns +3 ranged (6d8/19–20) and 2
 batteries of 2 CHE missiles –5 ranged (6d12/18–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **2 chaff launchers (8 chaff bundles each), 2 decoy
+**Defense Systems:** 2 chaff launchers (8 chaff bundles each), 2 decoy
 drone launchers (4 drones each), improved autopilot system, improved
 damage control (5d10), magnetic field, point-defense system, radiation
 shielding, self-destruct system
 
-**Sensors: **Class III sensor array, targeting system
+**Sensors:** Class III sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 5 neutron guns (range incr. 5,000 ft.), 2
+**Weapons:** 1 battery of 5 neutron guns (range incr. 5,000 ft.), 2
 batteries of 2 CHE missile launchers (4 launchers total, 16 missiles
 each)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **HEAVY TRANSPORT (PL 6)**
 
@@ -2995,45 +2995,45 @@ vehicle storage.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Heavy                 | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Heavy transport    | **Tactical Speed: **3,000 ft. (6 sq.) |
-| **Defense: **7                  | **Length: **1,320 feet                |
-| **Flat-footed Defense: **5      | **Weight: **120,000 tons              |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+3        |
-| **Hardness: **30                | **Crew: **24 (trained +4)             |
-| **Hit Dice: **350d20 (7,000 hp) | **Passenger Capacity: **20            |
-| **Initiative Modifier: **+2     | **Cargo Capacity: **60,000 tons       |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **68              |
+| **Subtype:** Heavy transport    | **Tactical Speed:** 3,000 ft. (6 sq.) |
+| **Defense:** 7                  | **Length:** 1,320 feet                |
+| **Flat-footed Defense:** 5      | **Weight:** 120,000 tons              |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                | **Crew:** 24 (trained +4)             |
+| **Hit Dice:** 350d20 (7,000 hp) | **Passenger Capacity:** 20            |
+| **Initiative Modifier:** +2     | **Cargo Capacity:** 60,000 tons       |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 68              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
 |                                 |                                       |
 
-**Attack: **Battery of 3 heavy lasers –1 ranged (8d8/19–20) and battery
+**Attack:** Battery of 3 heavy lasers –1 ranged (8d8/19–20) and battery
 of 3 gauss guns –6 ranged (8d12/19–20); or Battery of 3 gauss guns –1
 ranged (8d8/19–20) and battery of 3 heavy lasers –6 ranged (8d12/19–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Fusion torch, thrusters
+**Engines:** Fusion torch, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Damage control system (4d10), decoy drone launcher
+**Defense Systems:** Damage control system (4d10), decoy drone launcher
 (2 drones), improved autopilot, magnetic field, point-defense system,
 radiation shielding, sensor jammer
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 3 heavy lasers (range incr. 4,000 ft.), 1
+**Weapons:** 1 battery of 3 heavy lasers (range incr. 4,000 ft.), 1
 battery of 3 gauss guns (range incr. 4,000 ft.)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **TANKER (PL 6)**
 
@@ -3044,41 +3044,41 @@ petrochemicals, or oxygen.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Heavy                 | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Tanker             | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **7                  | **Length: **1,200 feet                |
-| **Flat-footed Defense: **5      | **Weight: **120,000 tons              |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+3        |
-| **Hardness: **30                | **Crew: **32 (trained +4)             |
-| **Hit Dice: **250d20 (5,000 hp) | **Passenger Capacity: **8             |
-| **Initiative Modifier: **+2     | **Cargo Capacity: **52,000 tons       |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **64              |
+| **Subtype:** Tanker             | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 7                  | **Length:** 1,200 feet                |
+| **Flat-footed Defense:** 5      | **Weight:** 120,000 tons              |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                | **Crew:** 32 (trained +4)             |
+| **Hit Dice:** 250d20 (5,000 hp) | **Passenger Capacity:** 8             |
+| **Initiative Modifier:** +2     | **Cargo Capacity:** 52,000 tons       |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 64              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
 |                                 |                                       |
 
-**Attack: **1 battery of 4 heavy lasers +0 ranged (8d8/19–20)
+**Attack:** 1 battery of 4 heavy lasers +0 ranged (8d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +3 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
 **Standard PL 6 Design Specs:**
 
-**Engines: **Ion engine, thrusters
+**Engines:** Ion engine, thrusters
 
-**Armor: **Vanadium
+**Armor:** Vanadium
 
-**Defense Systems: **Damage control system (4d10), improved autopilot,
+**Defense Systems:** Damage control system (4d10), improved autopilot,
 point-defense system, radiation shielding, sensor jammer
 
-**Sensors: **Class II sensor array, targeting system
+**Sensors:** Class II sensor array, targeting system
 
-**Communications: **Laser transceiver, radio transceiver
+**Communications:** Laser transceiver, radio transceiver
 
-**Weapons: **1 battery of 4 heavy lasers (range incr. 4,000 ft)
+**Weapons:** 1 battery of 4 heavy lasers (range incr. 4,000 ft)
 
-**Grappling Systems: **Grapplers
+**Grappling Systems:** Grapplers
 
 **BATTLE CRUISER (PL 7)**
 
@@ -3089,47 +3089,47 @@ stand up to it in a fair fight.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Heavy                 | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Battle Cruiser     | **Tactical Speed: **4,000 ft. (8 sq.) |
-| **Defense: **11                 | **Length: **1,360 feet                |
-| **Flat-footed Defense: **7      | **Weight: **140,000 tons              |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+5        |
-| **Hardness: **30                | **Crew: **320 (expert +8)             |
-| **Hit Dice: **450d20 (9,000 hp) | **Passenger Capacity: **160           |
-| **Initiative Modifier: **+4     | **Cargo Capacity: **50,000 tons       |
-| **Pilot’s Class Bonus: **+5     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4    | **Base Purchase DC: **72              |
+| **Subtype:** Battle Cruiser     | **Tactical Speed:** 4,000 ft. (8 sq.) |
+| **Defense:** 11                 | **Length:** 1,360 feet                |
+| **Flat-footed Defense:** 7      | **Weight:** 140,000 tons              |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +5        |
+| **Hardness:** 30                | **Crew:** 320 (expert +8)             |
+| **Hit Dice:** 450d20 (9,000 hp) | **Passenger Capacity:** 160           |
+| **Initiative Modifier:** +4     | **Cargo Capacity:** 50,000 tons       |
+| **Pilot’s Class Bonus:** +5     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4    | **Base Purchase DC:** 72              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+4   | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4   | **Restriction:** Military (+3)        |
 |                                 |                                       |
 
-**Attack: **4 fire-linked heavy particle beams +1 ranged (32d8) and 1
+**Attack:** 4 fire-linked heavy particle beams +1 ranged (32d8) and 1
 battery of 3 plasma missiles –2 ranged (18d8/18–20)
 
-**Attack of Opportunity: **Point-defense +5 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense +5 ranged (4d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Particle impulse engine, thrusters
+**Engines:** Particle impulse engine, thrusters
 
-**Armor: **Cerametal
+**Armor:** Cerametal
 
-**Defense Systems: **1 chaff launcher (8 chaff bundles), 1 decoy drone
+**Defense Systems:** 1 chaff launcher (8 chaff bundles), 1 decoy drone
 launcher (4 drones), improved autopilot, improved damage control (5d10),
 magnetic field, particle field, radiation shielding, self-destruct
 system
 
-**Sensors: **Class IV sensor array, improved targeting system
+**Sensors:** Class IV sensor array, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **4 fire-linked heavy particle beams (range incr. 5,000 ft.),
+**Weapons:** 4 fire-linked heavy particle beams (range incr. 5,000 ft.),
 1 battery of 3 plasma missile launchers (16 missiles each), 1 minelayer
 (50 gravitic mines with displacers, magnetic fields, and particle
 fields; 10d10×10 damage)
 
-**Grappling Systems: **Tractor beam emitter
+**Grappling Systems:** Tractor beam emitter
 
 **LINER (PL 7)**
 
@@ -3139,41 +3139,41 @@ number of passengers, usually in varying degrees of luxury.
 
 |                                 |                                       |
 |---------------------------------|---------------------------------------|
-| **Type: **Heavy                 | **Size: **Colossal (–8 size)          |
+| **Type:** Heavy                 | **Size:** Colossal (–8 size)          |
 |                                 |                                       |
-| **Subtype: **Liner              | **Tactical Speed: **4,000 ft. (8 sq.) |
-| **Defense: **7                  | **Length: **1,200 feet                |
-| **Flat-footed Defense: **5      | **Weight: **84,000 tons               |
-| **Autopilot Defense: **7        | **Targeting System Bonus: **+5        |
-| **Hardness: **30                | **Crew: **200 (trained +4)            |
-| **Hit Dice: **250d20 (5,000 hp) | **Passenger Capacity: **800           |
-| **Initiative Modifier: **+2     | **Cargo Capacity: **40,000 tons       |
-| **Pilot’s Class Bonus: **+3     | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2    | **Base Purchase DC: **68              |
+| **Subtype:** Liner              | **Tactical Speed:** 4,000 ft. (8 sq.) |
+| **Defense:** 7                  | **Length:** 1,200 feet                |
+| **Flat-footed Defense:** 5      | **Weight:** 84,000 tons               |
+| **Autopilot Defense:** 7        | **Targeting System Bonus:** +5        |
+| **Hardness:** 30                | **Crew:** 200 (trained +4)            |
+| **Hit Dice:** 250d20 (5,000 hp) | **Passenger Capacity:** 800           |
+| **Initiative Modifier:** +2     | **Cargo Capacity:** 40,000 tons       |
+| **Pilot’s Class Bonus:** +3     | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2    | **Base Purchase DC:** 68              |
 |                                 |                                       |
-| **Gunner’s Attack Bonus: **+2   | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2   | **Restriction:** Restricted (+2)      |
 |                                 |                                       |
 
-**Attack: **Battery of 4 plasma cannons +2 ranged (14d8/19–20)
+**Attack:** Battery of 4 plasma cannons +2 ranged (14d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (4d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (4d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Induction engine, thrusters
+**Engines:** Induction engine, thrusters
 
-**Armor: **Cerametal
+**Armor:** Cerametal
 
-**Defense Systems: **Damage control (4d10), improved autopilot system,
+**Defense Systems:** Damage control (4d10), improved autopilot system,
 particle field, point-defense system
 
-**Sensors: **Class IV sensor array, improved targeting system
+**Sensors:** Class IV sensor array, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **1 battery of 4 plasma cannons (range incr. 3,000 ft.)
+**Weapons:** 1 battery of 4 plasma cannons (range incr. 3,000 ft.)
 
-**Grappling Systems: **Tractor beam emitter
+**Grappling Systems:** Tractor beam emitter
 
 SUPERHEAVY STARSHIP SUBTYPES
 
@@ -3187,29 +3187,29 @@ larger fighting spaces are possible.
 
 In addition, all superheavy starships share the following design specs.
 
-**Engines: **All superheavy starships have thrusters plus as many as two
+**Engines:** All superheavy starships have thrusters plus as many as two
 other types of engine (see Starship Engines).
 
-**Armor: **A superheavy starship has one type of armor (see Starship
+**Armor:** A superheavy starship has one type of armor (see Starship
 Armor).
 
-**Defensive Systems: **A superheavy starship has a maximum of one
+**Defensive Systems:** A superheavy starship has a maximum of one
 defensive system per 150 Hit Dice (see Starship Defense Systems).
 
-**Sensors: **A superheavy starship has a maximum of three sensor systems
+**Sensors:** A superheavy starship has a maximum of three sensor systems
 (see Starship Sensors).
 
-**Communications: **A superheavy starship has two external communication
+**Communications:** A superheavy starship has two external communication
 systems (see Starship Comm Systems).
 
-**Weapons: **A superheavy starship has one beam, projectile, or missile
+**Weapons:** A superheavy starship has one beam, projectile, or missile
 weapon per 150 Hit Dice (see Starship Weapons). These weapons are often
 arrayed in batteries. A minelayer is considered a single weapon.
 Although it weighs no more than a few thousand pounds, each mine
 consumes 100 tons of a ship’s cargo capacity (most of it taken up by the
 launch system and radiation shielding).
 
-**Grappling Systems: **A superheavy starship may have up to two
+**Grappling Systems:** A superheavy starship may have up to two
 grappling systems (see Grappling Systems). Each grappling system takes
 away one of the ship’s weapon slots (see above).
 
@@ -3226,46 +3226,46 @@ supplies throughout the long trip to a new world.
 
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
-| **Type: **Superheavy             | **Size: **Colossal (–8 size)          |
+| **Type:** Superheavy             | **Size:** Colossal (–8 size)          |
 |                                  |                                       |
-| **Subtype: **Colony ship         | **Tactical Speed: **4,000 ft. (8 sq.) |
-| **Defense: **7                   | **Length: **2,000 feet                |
-| **Flat-footed Defense: **5       | **Weight: **400,000 tons              |
-| **Autopilot Defense: **7         | **Targeting System Bonus: **+5        |
-| **Hardness: **30                 | **Crew: **400 (trained +4)            |
-| **Hit Dice: **800d20 (16,000 hp) | **Passenger Capacity: **2,000         |
-| **Initiative Modifier: **+2      | **Cargo Capacity: **100,000 tons      |
-| **Pilot’s Class Bonus: **+3      | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2     | **Base Purchase DC: **72              |
+| **Subtype:** Colony ship         | **Tactical Speed:** 4,000 ft. (8 sq.) |
+| **Defense:** 7                   | **Length:** 2,000 feet                |
+| **Flat-footed Defense:** 5       | **Weight:** 400,000 tons              |
+| **Autopilot Defense:** 7         | **Targeting System Bonus:** +5        |
+| **Hardness:** 30                 | **Crew:** 400 (trained +4)            |
+| **Hit Dice:** 800d20 (16,000 hp) | **Passenger Capacity:** 2,000         |
+| **Initiative Modifier:** +2      | **Cargo Capacity:** 100,000 tons      |
+| **Pilot’s Class Bonus:** +3      | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2     | **Base Purchase DC:** 72              |
 |                                  |                                       |
-| **Gunner’s Attack Bonus: **+2    | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2    | **Restriction:** Restricted (+2)      |
 |                                  |                                       |
 
-**Attack: **Battery of 4 particle beams +2 ranged (12d8/19–20) and
+**Attack:** Battery of 4 particle beams +2 ranged (12d8/19–20) and
 battery of 2 plasma missiles –5 ranged (18d8/18–20); or Battery of 2
 plasma missiles +0 ranged (18d8/18–20) and battery of 4 particle beams
 –3 ranged (12d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (5d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Particle impulse engine, photon sails, thrusters
+**Engines:** Particle impulse engine, photon sails, thrusters
 
-**Armor: **Cerametal
+**Armor:** Cerametal
 
-**Defense Systems: **Improved autopilot system, improved damage control
+**Defense Systems:** Improved autopilot system, improved damage control
 (6d10), magnetic field, particle field, point-defense system, radiation
 shielding, repair drones, self-destruct system
 
-**Sensors: **Class IV sensor array, improved targeting system
+**Sensors:** Class IV sensor array, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **1 battery of 4 particle beams (range incr. 4,000 ft.), 1
+**Weapons:** 1 battery of 4 particle beams (range incr. 4,000 ft.), 1
 battery of 2 plasma missile launchers (16 missiles each)
 
-**Grappling Systems: **Grapplers, tractor beam emitter
+**Grappling Systems:** Grapplers, tractor beam emitter
 
 **DREADNOUGHT (PL 7)**
 
@@ -3276,50 +3276,50 @@ squares (a 6-square-by-6-square area).
 
 |                                    |                                       |
 |------------------------------------|---------------------------------------|
-| **Type: **Superheavy               | **Size: **Colossal (–8 size)          |
+| **Type:** Superheavy               | **Size:** Colossal (–8 size)          |
 |                                    |                                       |
-| **Subtype: **Dreadnought           | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **11                    | **Length: **2,750 feet                |
-| **Flat-footed Defense: **7         | **Weight: **540,000 tons              |
-| **Autopilot Defense: **7           | **Targeting System Bonus: **+5        |
-| **Hardness: **40                   | **Crew: **2,000 (expert +8)           |
-| **Hit Dice: **1,200d20 (24,000 hp) | **Passenger Capacity: **1,600         |
-| **Initiative Modifier: **+6        | **Cargo Capacity: **120,000 tons      |
-| **Pilot’s Class Bonus: **+5        | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4       | **Base Purchase DC: **80              |
+| **Subtype:** Dreadnought           | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 11                    | **Length:** 2,750 feet                |
+| **Flat-footed Defense:** 7         | **Weight:** 540,000 tons              |
+| **Autopilot Defense:** 7           | **Targeting System Bonus:** +5        |
+| **Hardness:** 40                   | **Crew:** 2,000 (expert +8)           |
+| **Hit Dice:** 1,200d20 (24,000 hp) | **Passenger Capacity:** 1,600         |
+| **Initiative Modifier:** +6        | **Cargo Capacity:** 120,000 tons      |
+| **Pilot’s Class Bonus:** +5        | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4       | **Base Purchase DC:** 80              |
 |                                    |                                       |
-| **Gunner’s Attack Bonus: **+4      | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4      | **Restriction:** Military (+3)        |
 |                                    |                                       |
 
-**Attack: **4 fire-linked quantum cannons +1 ranged (32d8) and battery
+**Attack:** 4 fire-linked quantum cannons +1 ranged (32d8) and battery
 of 4 heavy mass cannons –1 ranged (10d12/19–20) and 2 fire-linked mass
 reaction missiles –4 ranged (20d8/18–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (5d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Induction engine, thrusters
+**Engines:** Induction engine, thrusters
 
-**Armor: **Neutronite
+**Armor:** Neutronite
 
-**Defense Systems: **1 chaff launcher (8 chaff bundles), 1 decoy drone
+**Defense Systems:** 1 chaff launcher (8 chaff bundles), 1 decoy drone
 launcher (8 drones), displacer, improved autopilot system, improved
 damage control (6d10), light fortification, magnetic field, particle
 field, point-defense system, radiation shielding, repair drones,
 self-destruct system
 
-**Sensors: **Class V sensors, improved targeting system
+**Sensors:** Class V sensors, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **1 battery of 4 heavy mass cannons (range incr. 6,000 ft.),
+**Weapons:** 1 battery of 4 heavy mass cannons (range incr. 6,000 ft.),
 4 fire-linked quantum cannons (range incr. 6,000 ft.), 1 battery of 2
 mass reaction missile launchers (60 missiles each), 1 minelayer (100
 gravitic mines with displacers, magnetic fields, and particle fields;
 10d10×10 damage)
 
-**Grappling Systems: **Tractor beam emitter
+**Grappling Systems:** Tractor beam emitter
 
 **STAR CARRIER (PL 7)**
 
@@ -3335,44 +3335,44 @@ ultralight craft as a move action.
 
 |                                    |                                       |
 |------------------------------------|---------------------------------------|
-| **Type: **Superheavy               | **Size: **Colossal (–8 size)          |
+| **Type:** Superheavy               | **Size:** Colossal (–8 size)          |
 |                                    |                                       |
-| **Subtype: **Star carrier          | **Tactical Speed: **3,500 ft. (7 sq.) |
-| **Defense: **11                    | **Length: **3,000 feet                |
-| **Flat-footed Defense: **7         | **Weight: **600,000 tons              |
-| **Autopilot Defense: **7           | **Targeting System Bonus: **+5        |
-| **Hardness: **40                   | **Crew: **2,400 (expert +8)           |
-| **Hit Dice: **1,000d20 (20,000 hp) | **Passenger Capacity: **600           |
-| **Initiative Modifier: **+6        | **Cargo Capacity: **200,000 tons      |
-| **Pilot’s Class Bonus: **+5        | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+4       | **Base Purchase DC: **80              |
+| **Subtype:** Star carrier          | **Tactical Speed:** 3,500 ft. (7 sq.) |
+| **Defense:** 11                    | **Length:** 3,000 feet                |
+| **Flat-footed Defense:** 7         | **Weight:** 600,000 tons              |
+| **Autopilot Defense:** 7           | **Targeting System Bonus:** +5        |
+| **Hardness:** 40                   | **Crew:** 2,400 (expert +8)           |
+| **Hit Dice:** 1,000d20 (20,000 hp) | **Passenger Capacity:** 600           |
+| **Initiative Modifier:** +6        | **Cargo Capacity:** 200,000 tons      |
+| **Pilot’s Class Bonus:** +5        | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +4       | **Base Purchase DC:** 80              |
 |                                    |                                       |
-| **Gunner’s Attack Bonus: **+4      | **Restriction: **Military (+3)        |
+| **Gunner’s Attack Bonus:** +4      | **Restriction:** Military (+3)        |
 |                                    |                                       |
 
-**Attack: **Battery of 5 mass cannons +5 ranged (8d12/19–20) and battery
+**Attack:** Battery of 5 mass cannons +5 ranged (8d12/19–20) and battery
 of 4 antimatter guns –1 ranged (10d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (5d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Induction engine, thrusters
+**Engines:** Induction engine, thrusters
 
-**Armor: **Neutronite
+**Armor:** Neutronite
 
-**Defense Systems: **1 decoy drone launcher (4 drones), improved
+**Defense Systems:** 1 decoy drone launcher (4 drones), improved
 autopilot system, improved damage control (6d10), light fortification,
 magnetic field, particle field, point-defense system, radiation
-shielding, repair drones, self-destruct system **Sensors: **Class V
+shielding, repair drones, self-destruct system **Sensors:** Class V
 sensors, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **1 battery of 5 mass cannons (range incr. 5,000 ft.), 1
+**Weapons:** 1 battery of 5 mass cannons (range incr. 5,000 ft.), 1
 battery of 4 antimatter guns (range incr. 5,000 ft.)
 
-**Grappling Systems: **Tractor beam emitter
+**Grappling Systems:** Tractor beam emitter
 
 **STAR FREIGHTER (PL 7)**
 
@@ -3382,43 +3382,43 @@ super-transport.
 
 |                                  |                                       |
 |----------------------------------|---------------------------------------|
-| **Type: **Superheavy             | **Size: **Colossal (–8 size)          |
+| **Type:** Superheavy             | **Size:** Colossal (–8 size)          |
 |                                  |                                       |
-| **Subtype: **Freighter           | **Tactical Speed: **4,000 ft. (8 sq.) |
-| **Defense: **7                   | **Length: **1,800 feet                |
-| **Flat-footed Defense: **5       | **Weight: **320,000 tons              |
-| **Autopilot Defense: **7         | **Targeting System Bonus: **+3        |
-| **Hardness: **30                 | **Crew: **40 (trained +4)             |
-| **Hit Dice: **800d20 (16,000 hp) | **Passenger Capacity: **24            |
-| **Initiative Modifier: **+2      | **Cargo Capacity: **200,000 tons      |
-| **Pilot’s Class Bonus: **+3      | **Grapple Modifier: **+16             |
-| **Pilot’s Dex Modifier: **+2     | **Base Purchase DC: **76              |
+| **Subtype:** Freighter           | **Tactical Speed:** 4,000 ft. (8 sq.) |
+| **Defense:** 7                   | **Length:** 1,800 feet                |
+| **Flat-footed Defense:** 5       | **Weight:** 320,000 tons              |
+| **Autopilot Defense:** 7         | **Targeting System Bonus:** +3        |
+| **Hardness:** 30                 | **Crew:** 40 (trained +4)             |
+| **Hit Dice:** 800d20 (16,000 hp) | **Passenger Capacity:** 24            |
+| **Initiative Modifier:** +2      | **Cargo Capacity:** 200,000 tons      |
+| **Pilot’s Class Bonus:** +3      | **Grapple Modifier:** +16             |
+| **Pilot’s Dex Modifier:** +2     | **Base Purchase DC:** 76              |
 |                                  |                                       |
-| **Gunner’s Attack Bonus: **+2    | **Restriction: **Restricted (+2)      |
+| **Gunner’s Attack Bonus:** +2    | **Restriction:** Restricted (+2)      |
 |                                  |                                       |
 
-**Attack: **2 batteries of 3 heavy particle beams –1 ranged (16d8/19–20)
+**Attack:** 2 batteries of 3 heavy particle beams –1 ranged (16d8/19–20)
 
-**Attack of Opportunity: **Point-defense system +5 ranged (5d12×10)
+**Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
 **Standard PL 7 Design Specs:**
 
-**Engines: **Particle impulse engine, thrusters
+**Engines:** Particle impulse engine, thrusters
 
-**Armor: **Cerametal
+**Armor:** Cerametal
 
-**Defense Systems: **Damage control system (5d10), improved autopilot
+**Defense Systems:** Damage control system (5d10), improved autopilot
 system, magnetic field, particle field, point-defense system, radiation
 shielding, repair drones, self-destruct system
 
-**Sensors: **Class IV sensor array, improved targeting system
+**Sensors:** Class IV sensor array, improved targeting system
 
-**Communications: **Drivesat comm array, mass transceiver
+**Communications:** Drivesat comm array, mass transceiver
 
-**Weapons: **2 batteries of 3 heavy particle beams (range incr. 5,000
+**Weapons:** 2 batteries of 3 heavy particle beams (range incr. 5,000
 ft.)
 
-**Grappling Systems: **Grapplers, tractor beam emitter
+**Grappling Systems:** Grapplers, tractor beam emitter
 
 ## STARSHIP CLASS TEMPLATES
 
@@ -3437,23 +3437,23 @@ following starship class templates are presented as examples:
 The *Lightning*-class template can be applied to any PL 6 light
 starship. The starship’s design specs should be adjusted as follows.
 
-**Engine Upgrade: **Induction engine, thrusters (tactical speed +1,000
+**Engine Upgrade:** Induction engine, thrusters (tactical speed +1,000
 feet).
 
-**Armor Upgrade: **Neutronite (hardness 40, tactical speed –500 feet).
+**Armor Upgrade:** Neutronite (hardness 40, tactical speed –500 feet).
 
-**Defense System Upgrade: **Light fortification (25% chance to ignore a
+**Defense System Upgrade:** Light fortification (25% chance to ignore a
 critical hit; replaces a PL 5 or PL 6 defense system).
 
-**Sensors Upgrade: **Class V sensor array (+2 initiative), improved
+**Sensors Upgrade:** Class V sensor array (+2 initiative), improved
 targeting system (targeting system bonus +5).
 
-**Communications Upgrade: **Drivesat comm array, mass transceiver.
+**Communications Upgrade:** Drivesat comm array, mass transceiver.
 
-**Weapons Upgrade: **2 fire-linked quantum cannons (24d8 damage; range
+**Weapons Upgrade:** 2 fire-linked quantum cannons (24d8 damage; range
 incr. 6,000 ft.; replaces PL 5 or PL 6 fire-linked weapon system).
 
-**Grappling System Upgrade: **Tractor beam emitter (replaces grapplers).
+**Grappling System Upgrade:** Tractor beam emitter (replaces grapplers).
 
 *KATANA*-CLASS TEMPLATE (PL 8)
 
@@ -3461,24 +3461,24 @@ The *Katana*-class template can be applied to any ultralight fighter or
 assault fighter. The starship’s design specs should be adjusted as
 follows.
 
-**Hit Dice: **Increase by +1d20.
+**Hit Dice:** Increase by +1d20.
 
-**Engine Upgrade: **Inertial flux engine, thrusters (tactical speed
+**Engine Upgrade:** Inertial flux engine, thrusters (tactical speed
 +1,500 feet).
 
-**Armor Upgrade: **Ablative (hardness 40).
+**Armor Upgrade:** Ablative (hardness 40).
 
-**Defense System Upgrade: **Advanced damage control (3d10), magnetic
+**Defense System Upgrade:** Advanced damage control (3d10), magnetic
 field, medium fortification (50% chance to ignore a critical hit;
 replaces a PL 6 or PL 7 defense system).
 
-**Sensors Upgrade: **Class VII sensor array (+2 initiative), improved
+**Sensors Upgrade:** Class VII sensor array (+2 initiative), improved
 targeting system, Achilles targeting software (increases threat range of
 all weapon systems by 1).
 
-**Communications Upgrade: **Drive transceiver.
+**Communications Upgrade:** Drive transceiver.
 
-**Weapons Upgrade: **2 fire-linked maser cannons (18d8 damage; range
+**Weapons Upgrade:** 2 fire-linked maser cannons (18d8 damage; range
 incr. 6,000 ft.; replaces PL 6 o r PL 7 fire-linked weapon system).
 
 ## STARSHIP ENGINES
@@ -3502,13 +3502,13 @@ mechanical tool kit takes a –4 penalty on the skill check.
 
 The various types of engines are listed below.
 
-**Minimum Ship Size: **The minimum size the starship must be to have
+**Minimum Ship Size:** The minimum size the starship must be to have
 this type of engine.
 
-**Tactical Speed Bonus: **The bonus that the engine provides to the
+**Tactical Speed Bonus:** The bonus that the engine provides to the
 starship’s tactical speed, given in feet and squares.
 
-**Purchase DC: **The engine’s purchase DC.
+**Purchase DC:** The engine’s purchase DC.
 
 **THRUSTERS (PL 5)**
 
@@ -3522,11 +3522,11 @@ A ship with thrusters as its primary source of propulsion must refuel
 after every battle or every orbital mission. Thruster fuel has a
 purchase DC of 31.
 
-**Minimum Ship Size: **Huge.
+**Minimum Ship Size:** Huge.
 
-**Tactical Speed Bonus: **+0 feet.
+**Tactical Speed Bonus:** +0 feet.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
 **FUSION TORCH (PL 6)**
 
@@ -3544,11 +3544,11 @@ A ship using a fusion torch as its primary source of propulsion must
 refuel after every three battles or interplanetary trips. Fusion torch
 fuel has a purchase DC of 23.
 
-**Minimum Ship Size: **Gargantuan.
+**Minimum Ship Size:** Gargantuan.
 
-**Tactical Speed Bonus: **+500 feet (+1 square).
+**Tactical Speed Bonus:** +500 feet (+1 square).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
 **ION ENGINE (PL 6)**
 
@@ -3564,11 +3564,11 @@ A ship using an ion engine as its primary source of propulsion must
 refuel after every five battles or interplanetary trips. Ion engine fuel
 has a purchase DC of 29.
 
-**Minimum Ship Size: **Huge.
+**Minimum Ship Size:** Huge.
 
-**Tactical Speed Bonus: **+500 feet (+1 square).
+**Tactical Speed Bonus:** +500 feet (+1 square).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
 **PHOTON SAILS (PL 6)**
 
@@ -3600,11 +3600,11 @@ they’re instantly destroyed by atmospheric entry—making a secondary
 
 propulsion system a virtual necessity for most sail-ships.
 
-**Minimum Ship Size: **Gargantuan.
+**Minimum Ship Size:** Gargantuan.
 
-**Tactical Speed Bonus: **None.
+**Tactical Speed Bonus:** None.
 
-**Purchase DC: **10 + one-quarter the base purchase DC of the starship
+**Purchase DC:** 10 + one-quarter the base purchase DC of the starship
 (per set of photon sails).
 
 **INDUCTION ENGINE (PL 7)**
@@ -3615,11 +3615,11 @@ incredible thrust and maneuverability. The induction engine requires no
 fuel and produces no exhaust; it’s ideal for atmospheric, orbital, or
 deep-space work.
 
-**Minimum Ship Size: **Huge.
+**Minimum Ship Size:** Huge.
 
-**Tactical Speed Bonus: **+1,000 feet (+2 squares).
+**Tactical Speed Bonus:** +1,000 feet (+2 squares).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
 **PARTICLE IMPULSE ENGINE (PL 7)**
 
@@ -3635,11 +3635,11 @@ medium. Better still, the particle impulse engine is capable of
 atmospheric entry. It causes some damage to any surface close to its
 exhaust ports, but nowhere near as much damage as PL 6 engines do.
 
-**Minimum Ship Size: **Gargantuan.
+**Minimum Ship Size:** Gargantuan.
 
-**Tactical Speed Bonus: **+1,000 feet (+2 squares).
+**Tactical Speed Bonus:** +1,000 feet (+2 squares).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
 **GRAVITIC REDIRECTOR (PL 8)**
 
@@ -3654,11 +3654,11 @@ redirector does not operate within a planetary atmosphere, and most
 ships fitted with this kind of engine also have secondary thrusters or
 rely on shuttlecraft.
 
-**Minimum Ship Size: **Colossal.
+**Minimum Ship Size:** Colossal.
 
-**Tactical Speed Bonus: **+1,500 feet (+3 squares).
+**Tactical Speed Bonus:** +1,500 feet (+3 squares).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
 **INERTIAL FLUX ENGINE (PL 8)**
 
@@ -3672,11 +3672,11 @@ the crew and passengers. An inertial flux engine does not operate within
 a planetary atmosphere, and most ships fitted with this kind of engine
 also have secondary thrusters or rely on shuttlecraft.
 
-**Minimum Ship Size: **Gargantuan.
+**Minimum Ship Size:** Gargantuan.
 
-**Tactical Speed Bonus: **+1,500 feet (+3 squares).
+**Tactical Speed Bonus:** +1,500 feet (+3 squares).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
 **SPATIAL COMPRESSOR (PL 9)**
 
@@ -3695,11 +3695,11 @@ frequency of its microjumps, so it accelerates normally. The spatial
 compressor requires a lot of power, but no fuel. It is safe for
 atmospheric flight.
 
-**Minimum Ship Size: **Colossal.
+**Minimum Ship Size:** Colossal.
 
-**Tactical Speed Bonus: **+2,000 feet (+4 squares).
+**Tactical Speed Bonus:** +2,000 feet (+4 squares).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
 ## STARSHIP ARMOR
 
@@ -3712,32 +3712,32 @@ against the armor’s (or upgraded armor’s) purchase DC.
 
 Different types of starship armor are presented below.
 
-**Hardness: **The amount of damage the armor absorbs from a weapon hit
+**Hardness:** The amount of damage the armor absorbs from a weapon hit
 or collision.
 
-**Tactical Speed Penalty: **The amount by which the armor reduces the
+**Tactical Speed Penalty:** The amount by which the armor reduces the
 starship’s tactical speed, given in feet and squares.
 
-**Weight: **The armor’s weight.
+**Weight:** The armor’s weight.
 
-**Purchase DC: **The armor’s purchase DC.
+**Purchase DC:** The armor’s purchase DC.
 
-**Restriction: **The restriction rating of the armor.
+**Restriction:** The restriction rating of the armor.
 
 **ALLOY PLATING (PL 5)**
 
 Alloy plating is made of advanced metal alloys engineered for high
 resistance to attacks at relatively low weights.
 
-**Hardness: **20.
+**Hardness:** 20.
 
-**Tactical Speed Penalty: **–500 feet (–1 square).
+**Tactical Speed Penalty:** –500 feet (–1 square).
 
-**Weight: **One-eighth the weight of the starship (rounded down).
+**Weight:** One-eighth the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **POLYMERIC (PL 6)**
 
@@ -3745,30 +3745,30 @@ Polymeric armor is made up of advanced polymers, such as carbon fiber
 and high-grade fiberglass. It is relatively cheap and light, but doesn’t
 offer tremendous protection.
 
-**Hardness: **20.
+**Hardness:** 20.
 
-**Tactical Speed Penalty: **None.
+**Tactical Speed Penalty:** None.
 
-**Weight: **One-tenth the weight of the starship (rounded down).
+**Weight:** One-tenth the weight of the starship (rounded down).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **VANADIUM (PL 6)**
 
 Interlocking plates of light vanadium alloy absorb a respectable amount
 of damage and are easy to mold to a starship’s hull.
 
-**Hardness: **30.
+**Hardness:** 30.
 
-**Tactical Speed Penalty: **None.
+**Tactical Speed Penalty:** None.
 
-**Weight: **One-eighth the weight of the starship (rounded down).
+**Weight:** One-eighth the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **CERAMETAL (PL 7)**
 
@@ -3776,15 +3776,15 @@ Combining the heat-resistant qualities of tough ceramics with the
 ductile strength of metal, cerametal armor offers a good compromise
 between protection and economy.
 
-**Hardness: **30.
+**Hardness:** 30.
 
-**Tactical Speed Penalty: **None.
+**Tactical Speed Penalty:** None.
 
-**Weight: **One-eighth the weight of the starship (rounded down).
+**Weight:** One-eighth the weight of the starship (rounded down).
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **DEFLECTIVE (PL 7)**
 
@@ -3792,16 +3792,16 @@ Deflective armor is composed of a shiny, light, flexible polymer
 especially good at neutralizing energy damage but less effective against
 ballistic attacks.
 
-**Hardness: **20 against attacks that deal ballistic damage, 40 against
+**Hardness:** 20 against attacks that deal ballistic damage, 40 against
 all other attacks.
 
-**Tactical Speed Penalty: **None.
+**Tactical Speed Penalty:** None.
 
-**Weight: **One-tenth the weight of the starship (rounded down).
+**Weight:** One-tenth the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **NEUTRONITE (PL 7)**
 
@@ -3809,15 +3809,15 @@ Neutronite is a tough steel alloy into which a “weave” of free neutrons
 has been pressed. It is extremely resilient but also incredibly massive,
 weighing about five times more than a similar volume of lead.
 
-**Hardness: **40.
+**Hardness:** 40.
 
-**Tactical Speed Penalty: **–500 feet (–1 square).
+**Tactical Speed Penalty:** –500 feet (–1 square).
 
-**Weight: **One-quarter the weight of the starship (rounded down).
+**Weight:** One-quarter the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **ABLATIVE (PL 8)**
 
@@ -3825,15 +3825,15 @@ This silvery, reflective armor is amazingly thin, yet has tremendous
 tensile strength and the ability to absorb damage better than most kinds
 of armor plating.
 
-**Hardness: **40.
+**Hardness:** 40.
 
-**Tactical Speed Penalty: **None.
+**Tactical Speed Penalty:** None.
 
-**Weight: **One-tenth the weight of the starship (rounded down).
+**Weight:** One-tenth the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **NANOFLUIDIC (PL 8)**
 
@@ -3842,15 +3842,15 @@ structure, nanofluidic armor is “smart” armor—it concentrates at the
 point of impact to blunt physical blows and circulates around heat
 sources to dissipate energy.
 
-**Hardness: **50.
+**Hardness:** 50.
 
-**Tactical Speed Penalty: **–500 feet (–1 square).
+**Tactical Speed Penalty:** –500 feet (–1 square).
 
-**Weight: **One-quarter the weight of the starship (rounded down).
+**Weight:** One-quarter the weight of the starship (rounded down).
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 ## STARSHIP DEFENSE SYSTEMS
 
@@ -3873,9 +3873,9 @@ tool kit takes a –4 penalty on the skill check.
 
 Different types of defensive systems are detailed below.
 
-**Purchase DC: **The purchase DC of the system.
+**Purchase DC:** The purchase DC of the system.
 
-**Restriction: **The level of license required to purchase the system
+**Restriction:** The level of license required to purchase the system
 legally.
 
 **AUTOPILOT SYSTEM (PL 5)**
@@ -3891,9 +3891,9 @@ An autopilot system provides an equipment bonus to the starship’s
 Defense depending on the ship’s size: Huge +1, Gargantuan +2, Colossal
 +4. This bonus applies only when the autopilot system is engaged.
 
-**Purchase DC: **5 + one-quarter the base purchase DC of the starship.
+**Purchase DC:** 5 + one-quarter the base purchase DC of the starship.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **DAMAGE CONTROL SYSTEM (PL 5)**
 
@@ -3903,10 +3903,10 @@ ship regains a number of hit points depending on its type, as shown on
 Table: Damage Control Systems. Damage control cannot be performed if the
 ship has been reduced to negative hit points.
 
-**Purchase DC: **Varies by starship type (see Table: Damage Control
+**Purchase DC:** Varies by starship type (see Table: Damage Control
 Systems).
 
-**Restriction: **None.
+**Restriction:** None.
 
 <table>
 <tbody>
@@ -3975,9 +3975,9 @@ missile attacks (20% miss chance).
 Any ship with a Class III sensor system (or better) is not subject to
 the effects of the sensor jammer, ignoring the penalty and miss chance.
 
-**Purchase DC: **5 + one-half the base purchase DC of the starship.
+**Purchase DC:** 5 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **AUTOPILOT SYSTEM, IMPROVED (PL 6)**
 
@@ -3987,9 +3987,9 @@ Colossal +5. This bonus applies only when the autopilot system is
 engaged. An improved autopilot system replaces the PL 5 autopilot
 system.
 
-**Purchase DC: **5 + one-half the base purchase DC of the starship.
+**Purchase DC:** 5 + one-half the base purchase DC of the starship.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CHAFF LAUNCHER (PL 6)**
 
@@ -4003,10 +4003,10 @@ chaff field incurs a –5 penalty. Any missile that passes through the
 chaff field to reach its intended target suffers a 30% miss chance (as
 though the target has three-quarters concealment).
 
-**Purchase DC: **20 for chaff launcher and one chaff bundle, 15 for each
+**Purchase DC:** 20 for chaff launcher and one chaff bundle, 15 for each
 additional chaff bundle.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **DAMAGE CONTROL, IMPROVED (PL 6)**
 
@@ -4014,10 +4014,10 @@ A starship equipped with improved damage control regains an additional
 +1d10 points of damage each time damage control is performed
 successfully (see Damage Control System, above).
 
-**Purchase DC: **5 + the purchase DC of a standard damage control
+**Purchase DC:** 5 + the purchase DC of a standard damage control
 system.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **DECOY DRONE LAUNCHER (PL 6)**
 
@@ -4036,10 +4036,10 @@ successful grapple. It can also be targeted and destroyed. A decoy drone
 has a Defense of 12 and 10 hit points, and it rolls 1d20+4 on opposed
 grapple checks.
 
-**Purchase DC: **28 for drone launcher and one drone, 25 for each
+**Purchase DC:** 28 for drone launcher and one drone, 25 for each
 additional drone.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **MAGNETIC FIELD (PL 6)**
 
@@ -4050,10 +4050,10 @@ starship with a magnetic field take a –4 penalty on attack rolls.
 
 A mine can be equipped with a magnetic field.
 
-**Purchase DC: **5 + one-half the base purchase DC of the starship or
+**Purchase DC:** 5 + one-half the base purchase DC of the starship or
 mine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **POINT-DEFENSE SYSTEM (PL 6)**
 
@@ -4066,11 +4066,11 @@ programmed to fire when either of these two conditions is met.
 A point-defense system does not fire upon mines, cannot be controlled
 manually by the crew, and cannot be used to make normal attacks.
 
-**Destroy Missiles: **A point-defense system has a 20% chance of
+**Destroy Missiles:** A point-defense system has a 20% chance of
 destroying any incoming missile. A destroyed missile deals no damage to
 the ship.
 
-**Make Attacks of Opportunity: **A starship equipped with a
+**Make Attacks of Opportunity:** A starship equipped with a
 point-defense system threatens the space it occupies as well as all
 adjacent 500-foot squares. When making an attack of opportunity, the
 point-defense system rolls 1d20 and adds the ship’s targeting system
@@ -4079,10 +4079,10 @@ Defense, the point-defense weapons deal ballistic damage based on the
 ship’s type, as shown in Table: Point-Defense Systems. Point-defense
 systems cannot score critical hits.
 
-**Purchase DC: **Varies by starship type (see Table: Point-Defense
+**Purchase DC:** Varies by starship type (see Table: Point-Defense
 Systems).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 |                                  |                          |                 |
 |----------------------------------|--------------------------|-----------------|
@@ -4104,9 +4104,9 @@ harmful radiation of neutron stars, solar flares, and other external
 causes. All personnel aboard the ship gain a +5 circumstance bonus on
 saves to resist the effects of radiation poisoning.
 
-**Purchase DC: **5 + one-half the base purchase DC of the starship.
+**Purchase DC:** 5 + one-half the base purchase DC of the starship.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **SELF-DESTRUCT SYSTEM (PL 6)**
 
@@ -4136,10 +4136,10 @@ reduces the damage by half. Table: Starship Self-Destruct Systems shows
 the amount of collateral damage (and the system’s purchase DC) based on
 the starship’s type.
 
-**Purchase DC: **Varies by starship type (see Table: Starship
+**Purchase DC:** Varies by starship type (see Table: Starship
 Self-Destruct Systems).
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 <table>
 <tbody>
@@ -4215,10 +4215,10 @@ concealment against all attacks (20% miss chance).
 
 A mine can be equipped with a stealth screen.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship or
+**Purchase DC:** 10 + one-half the base purchase DC of the starship or
 mine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **DISPLACER (PL 7)**
 
@@ -4231,10 +4231,10 @@ though it has three-quarters concealment.
 
 A mine can be equipped with a displacer.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship or
+**Purchase DC:** 10 + one-half the base purchase DC of the starship or
 mine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **LIGHT FORTIFICATION (PL 7)**
 
@@ -4245,9 +4245,9 @@ converts 25% of all critical hits into regular hits.
 Installing light fortification requires a Craft (structural) check
 instead of a Craft (mechanical) check.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **PARTICLE FIELD (PL 7)**
 
@@ -4259,10 +4259,10 @@ fired at the starship take a –4 penalty on attack rolls.
 
 A mine can be equipped with a particle field.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship or
+**Purchase DC:** 10 + one-half the base purchase DC of the starship or
 mine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **REPAIR DRONES (PL 7)**
 
@@ -4274,9 +4274,9 @@ A ship with repair drones can perform damage control as a free action. A
 ship without a damage control system cannot be fitted with repair
 drones.
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **DAMAGE CONTROL, ADVANCED (PL 8)**
 
@@ -4285,10 +4285,10 @@ A starship equipped with advanced damage control regains an additional
 successfully (see Damage Control System, above). Advanced damage control
 replaces (and does not stack with) improved damage control.
 
-**Purchase DC: **10 + the purchase DC of a standard damage control
+**Purchase DC:** 10 + the purchase DC of a standard damage control
 system.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **CLOAKING SCREEN (PL 8)**
 
@@ -4314,19 +4314,19 @@ particle fields), as the field gives away the ship’s position.
 
 A mine can be equipped with a cloaking screen.
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship or
+**Purchase DC:** 15 + one-half the base purchase DC of the starship or
 mine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **MEDIUM FORTIFICATION (PL 8)**
 
 As light fortification (see above), except that the medium fortification
 system converts 75% of all critical hits into regular hits.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **NANITE REPAIR ARRAY (PL 8)**
 
@@ -4336,18 +4336,18 @@ robots—scattered throughout the ship. The nanite repair array can repair
 a ship with negative hit points; however, not even nanites can repair a
 destroyed ship.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **HEAVY FORTIFICATION (PL 9)**
 
 As light fortification (see above), except that the heavy fortification
 system converts all critical hits into regular hits.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 ## STARSHIP SENSORS
 
@@ -4376,9 +4376,9 @@ electrical tool kit takes a –4 penalty on the skill check.
 
 Different types of sensor systems are detailed below.
 
-**Purchase DC: **The purchase DC of the system.
+**Purchase DC:** The purchase DC of the system.
 
-**Restriction: **The level of license required to purchase the system
+**Restriction:** The level of license required to purchase the system
 legally.
 
 **CLASS I SENSOR ARRAY (PL 5)**
@@ -4396,9 +4396,9 @@ battlefield (such as asteroids and mines).
 • Analyze the chemical composition of a planet’s atmosphere (the ship
 must be orbiting the planet).
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS II SENSOR ARRAY (PL 6)**
 
@@ -4428,9 +4428,9 @@ only).
 • Analyze the chemical composition of a planet’s atmosphere (the ship
 must be orbiting the planet).
 
-**Purchase DC: **27.
+**Purchase DC:** 27.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS III SENSOR ARRAY (PL 6)**
 
@@ -4438,9 +4438,9 @@ As the Class II sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
 installed on ships built for combat.
 
-**Purchase DC: **30.
+**Purchase DC:** 30.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **TARGETING SYSTEM (PL 6)**
 
@@ -4451,9 +4451,9 @@ Colossal +3.
 
 The purchase DC of the targeting system depends on the size of the ship.
 
-**Purchase DC: **18 (Huge), 23 (Gargantuan), or 28 (Colossal).
+**Purchase DC:** 18 (Huge), 23 (Gargantuan), or 28 (Colossal).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **CLASS IV SENSOR ARRAY (PL 7)**
 
@@ -4495,9 +4495,9 @@ planet’s surface (the ship must be orbiting the planet).
 • Determine a planet’s prevailing meteorological conditions and weather
 patterns (the ship must be orbiting the planet).
 
-**Purchase DC: **33.
+**Purchase DC:** 33.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS V SENSOR ARRAY (PL 7)**
 
@@ -4505,9 +4505,9 @@ As the Class IV sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
 installed on ships built for combat.
 
-**Purchase DC: **36.
+**Purchase DC:** 36.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **TARGETING SYSTEM, IMPROVED (PL 7)**
 
@@ -4518,9 +4518,9 @@ bonus on attack rolls depending on the ship’s size: Huge +3, Gargantuan
 The purchase DC of the improved targeting system depends on the size of
 the ship.
 
-**Purchase DC: **22 (Huge), 27 (Gargantuan), or 32 (Colossal).
+**Purchase DC:** 22 (Huge), 27 (Gargantuan), or 32 (Colossal).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **CLASS VI SENSOR ARRAY (PL 8)**
 
@@ -4560,9 +4560,9 @@ planet’s surface (the ship must be orbiting the planet).
 • Determine a planet’s prevailing meteorological conditions and weather
 patterns (the ship must be orbiting the planet).
 
-**Purchase DC: **39.
+**Purchase DC:** 39.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS VII SENSOR ARRAY (PL 8)**
 
@@ -4570,9 +4570,9 @@ As the Class VI sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
 installed on ships built for combat.
 
-**Purchase DC: **42.
+**Purchase DC:** 42.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **ACHILLES TARGETING SOFTWARE (PL 8)**
 
@@ -4590,9 +4590,9 @@ weapon’s critical threat range, such as weapon batteries.
 The purchase DC of Achilles targeting software depends on the size of
 the ship.
 
-**Purchase DC: **26 (Huge), 31 (Gargantuan), or 36 (Colossal).
+**Purchase DC:** 26 (Huge), 31 (Gargantuan), or 36 (Colossal).
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **CLASS VIII SENSOR ARRAY (PL 9)**
 
@@ -4632,9 +4632,9 @@ be orbiting the planet).
 • Determine a planet’s prevailing meteorological conditions and weather
 patterns (the ship must be in the same system as the planet).
 
-**Purchase DC: **45.
+**Purchase DC:** 45.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS IX SENSOR ARRAY (PL 9)**
 
@@ -4642,9 +4642,9 @@ As the Class VIII sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
 installed on ships built for combat.
 
-**Purchase DC: **48.
+**Purchase DC:** 48.
 
-**Restriction: **None.
+**Restriction:** None.
 
 ## STARSHIP COMM SYSTEMS
 
@@ -4667,7 +4667,7 @@ kit takes a –4 penalty on the appropriate skill check.
 
 The following section describes various ship-to-ship comm. systems.
 
-**Purchase DC: **The cost of the comm system.
+**Purchase DC:** The cost of the comm system.
 
 ## Internal Comm Systems
 
@@ -4693,7 +4693,7 @@ The radio transceiver can transmit on multiple frequencies in either LOS
 of light. A radio transceiver can handle up to ten simultaneous two-way
 conversations.
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
 **LASER TRANSCEIVER (PL 6)**
 
@@ -4710,7 +4710,7 @@ Lasers are limited to the speed of light (8 AU/hour), meaning it can
 take hours or days to get a response within a system, or even weeks to
 get a response at interstellar distances.
 
-**Purchase DC: **23.
+**Purchase DC:** 23.
 
 **DRIVESAT COMM ARRAY (PL 7)**
 
@@ -4728,7 +4728,7 @@ Computer Use check (DC 30) to avoid losing the signal.
 Only mediumweight, heavy, and superheavy ships can be equipped with a
 drivesat comm array.
 
-**Purchase DC: **53.
+**Purchase DC:** 53.
 
 **MASS TRANSCEIVER (PL 7)**
 
@@ -4736,7 +4736,7 @@ This device can transmit instantaneously to any point in the same star
 system, with no “lag” due to FTL limitations. However, its range is
 limited to about 1,000 AU, so the signal can’t cross interstellar space.
 
-**Purchase DC: **25.
+**Purchase DC:** 25.
 
 **DRIVE TRANSCEIVER (PL 8)**
 
@@ -4746,7 +4746,7 @@ much larger PL 7 drivesat comm array, sending a signal up to 50
 lightyears distant. The signal travels at a rate of 5 light-years per
 hour. The target station must also be equipped with a drive transceiver.
 
-**Purchase DC: **28.
+**Purchase DC:** 28.
 
 **ANSIBLE (PL 9)**
 
@@ -4759,7 +4759,7 @@ particular “frequency,” so two ansible-equipped stations must have some
 prearranged communications protocols; an ansible cannot pick up any
 transmissions not intended for that specific frequency.
 
-**Purchase DC: **33.
+**Purchase DC:** 33.
 
 ## STARSHIP WEAPONS
 
@@ -4782,7 +4782,7 @@ Installing a weapon system requires a successful Craft (mechanical)
 check (DC 30) after investing 30 hours. A character without a mechanical
 tool kit takes a –4 penalty on the skill check.
 
-**Modifying Weapons: **Certain beam and projectile weapons—as noted in
+**Modifying Weapons:** Certain beam and projectile weapons—as noted in
 Table: Starship Weapons—can be modified for different rates of fire.
 With 1 hour of work and a successful Repair check (DC 30), these weapons
 can be reconfigured for semiautomatic or automatic fire mode. (Resetting
@@ -4807,7 +4807,7 @@ devices capable of harnessing the fundamental forces of the universe.
 Beam weapons draw power from a starship’s power plant and are considered
 to have unlimited ammunition.
 
-**Beam Weapon Mounts: **Beam weapons are mounted on turrets or in banks
+**Beam Weapon Mounts:** Beam weapons are mounted on turrets or in banks
 that, coupled with the starship’s ability to adjust its orientation,
 allow the weapons to fire in any direction. The cost of a turret mount
 or bank is included in the purchase DC of the weapon.
@@ -4826,7 +4826,7 @@ but the top end damage is considerably higher.
 Starships have sufficient storage space to contain a virtually unlimited
 supply of projectile weapon ammunition.
 
-**Projectile Weapon Mounts: **Like beam weapons, projectile weapons are
+**Projectile Weapon Mounts:** Like beam weapons, projectile weapons are
 mounted on turrets or in banks that, coupled with the starship’s ability
 to adjust its orientation, allow the weapons to fire in any direction.
 The cost of a turret mount or bank is included in the purchase DC of the
@@ -4841,7 +4841,7 @@ and amount of damage.
 All missiles are equipped with guidance systems that negate the penalty
 for range increments. Missiles are purchased in racks of eight.
 
-**Missile Launchers: **A starship must be equipped with missile
+**Missile Launchers:** A starship must be equipped with missile
 launchers to fire missiles. Each type of missile has its own type of
 missile launcher; for example, a launcher designed to fire CHE missiles
 cannot fire KE submunition missiles. Missiles can fire in any direction.
@@ -4859,12 +4859,12 @@ Mines are sold individually. Although a mine weighs no more than a few
 thousand pounds, one mine consumes 100 tons of a ship’s cargo capacity
 (most of it taken up by the launch system and radiation shielding).
 
-**Minelayers: **A starship must be equipped with a minelayer (purchase
+**Minelayers:** A starship must be equipped with a minelayer (purchase
 DC 25) to deploy mines, and only Colossal ships can be fitted with
 minelayers. A minelayer consists of two or more mine rails—low-powered
 magnetic accelerators that can deploy one mine per round.
 
-**Deploying a Mine: **A starship equipped with a minelayer can, as an
+**Deploying a Mine:** A starship equipped with a minelayer can, as an
 attack action, deploy a single mine in any 500-foot square it occupies.
 Only after the starship leaves the mine’s detonation area does the mine
 activate.
@@ -4877,7 +4877,7 @@ A deployed mine is a Medium-size object with Defense 5, hardness 10, and
 50 hit points. Damaging or destroying a deployed mine has a 50% chance
 per hit of detonating it.
 
-**Detonating a Mine: **When certain predetermined conditions are met
+**Detonating a Mine:** When certain predetermined conditions are met
 (usually when an enemy ship enters the mine’s detonation area), the
 deployed mine explodes. The mine’s detonation area includes the square
 it occupies and all adjacent 500-foot squares (9 squares total). All
@@ -4935,22 +4935,22 @@ WEAPON DESCRIPTIONS
 Table: Starship Weapons provides the following statistics for various
 ranged weapons:
 
-**Damage: **The damage the weapon deals.
+**Damage:** The damage the weapon deals.
 
-**Critical: **The critical threat range of the weapon.
+**Critical:** The critical threat range of the weapon.
 
-**Damage Type: **Most beam weapons deal a nonspecific type of energy
+**Damage Type:** Most beam weapons deal a nonspecific type of energy
 damage that is not subject to energy resistance. A few weapons deal a
 specific kind of energy damage; for example, a laser deals fire damage.
 Projectile weapons deal ballistic damage.
 
-**Range Increment: **A weapon’s range increment is given in feet. An
+**Range Increment:** A weapon’s range increment is given in feet. An
 attack at less than this distance is not penalized for range. However,
 each full range increment causes a cumulative –2 penalty on the attack
 roll. Beam weapons dissipate and become ineffective past 10 range
 increments, while projectile weapons have unlimited range.
 
-**Rate of Fire: **Ranged weapons have three possible rates of fire:
+**Rate of Fire:** Ranged weapons have three possible rates of fire:
 single shot, semiautomatic, or automatic.
 
 *Single Shot: *A weapon with a single shot rate of fire can fire only
@@ -4968,12 +4968,12 @@ shots. Only weapons with the automatic rate of fire can be set on
 autofire or be used with feats that take advantage of automatic fire.
 See the Starship Weapons on Autofire for more rules and information.
 
-**Minimum Ship Size: **The minimum size of starship capable of
+**Minimum Ship Size:** The minimum size of starship capable of
 supporting the weapon.
 
-**Purchase DC: **The purchase DC of the weapon.
+**Purchase DC:** The purchase DC of the weapon.
 
-**Restriction: **The level of license required to purchase the weapon
+**Restriction:** The level of license required to purchase the weapon
 legally.
 
 ## Starship Weapons on Autofire
@@ -5927,9 +5927,9 @@ check (DC 30) after investing 30 hours. A character
 
 without a mechanical tool kit takes a –4 penalty on the skill check.
 
-**Purchase DC: **The purchase DC of the system.
+**Purchase DC:** The purchase DC of the system.
 
-**Restriction: **The level of license required to purchase the system
+**Restriction:** The level of license required to purchase the system
 legally.
 
 **GRAPPLERS (PL 5)**
@@ -5960,9 +5960,9 @@ Colossal +16. A ship may only attempt to free itself once per round.
 A starship using grapplers to latch onto another ship can release the
 hold and retract the grapplers as a free action.
 
-**Purchase DC: **10 + one-half the base purchase DC of the starship.
+**Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-**Restriction: **None.
+**Restriction:** None.
 
 <table>
 <tbody>
@@ -6053,16 +6053,16 @@ beam (thereby releasing its hold on the other ship) as a free action.
 Only Gargantuan and Colossal ships can be equipped with a tractor beam
 emitter.
 
-**Purchase DC: **15 + one-half the base purchase DC of the starship.
+**Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 ## HEROES IN STARSHIPS
 
 A hero in a starship fills one of several possible roles, which
 determines what the character can do.
 
-**Commander: **A ship’s commander makes decisions about tactics and
+**Commander:** A ship’s commander makes decisions about tactics and
 issues orders to the crew. The commander can help another crewmember by
 taking an aid another action. The commander must be located on the
 starship’s command deck to do so.
@@ -6071,14 +6071,14 @@ Aiding another crewmember is a move action. A starship can only have one
 commander, and ships under Colossal size tend not to have a commander at
 all.
 
-**Pilot: **The pilot of a starship controls its movement. Most starships
+**Pilot:** The pilot of a starship controls its movement. Most starships
 have only one position from which the starship can be piloted. Piloting
 a starship is always at least a move action, which means that the pilot
 may be able to do something else with her attack action each round. On
 smaller ships such as fighters, the pilot also serves as the gunner. A
 starship can have only one pilot at a time.
 
-**Copilot: **The copilot can help the pilot on Pilot checks by taking an
+**Copilot:** The copilot can help the pilot on Pilot checks by taking an
 aid another action. The copilot must be located somewhere on the ship
 from where he can see the starship’s surroundings and advise the pilot
 (usually the command deck or cockpit). Aiding the pilot is a move
@@ -6088,11 +6088,11 @@ if he can access one of the starship’s weapon systems or the ship’s
 sensors from his station. A starship can have only one copilot at a
 time.
 
-**Gunner: **A gunner controls one of the ship’s weapon systems, applying
+**Gunner:** A gunner controls one of the ship’s weapon systems, applying
 her ranged attack bonus and Dexterity modifier to the attack rolls. A
 ship with multiple weapon systems can have multiple gunners.
 
-**Sensor Operator: **Although the copilot usually operates the sensors,
+**Sensor Operator:** Although the copilot usually operates the sensors,
 some ships (particularly heavy and superheavy ships) have a dedicated
 crew position for a sensor operator. A sensor operator can take an aid
 another action either to help the pilot with Pilot checks, or to help a
@@ -6102,14 +6102,14 @@ starship can have as many sensor operators as
 
 it has different sensor systems (see Starship Sensors).
 
-**Engineer: **A starship’s engineer keeps the ship in working order. If
+**Engineer:** A starship’s engineer keeps the ship in working order. If
 a system has failed for any reason, it is usually up to the engineer to
 get that system working again. An engineer can attempt a Repair check to
 fix minor problems as a full round action. A starship can have one
 engineer, plus one additional engineer each for the ship’s life support,
 sensors (and communications), and defensive systems.
 
-**Passenger: **All other personnel aboard the starship are considered
+**Passenger:** All other personnel aboard the starship are considered
 passengers for purposes of starship combat. Passengers have no specific
 role in the starship’s operation, but they help repel boarders or take
 other actions.
@@ -6119,17 +6119,17 @@ other actions.
 Heroes who cannot afford to buy their own starship can always borrow,
 requisition, rent, or steal one as the need arises.
 
-**Borrowing a Starship: **A character with the favor talent can attempt
+**Borrowing a Starship:** A character with the favor talent can attempt
 a favor check (DC 30) to borrow a starship from a friendly contact,
 assuming that the contact has a ship available. The contact must have an
 attitude of helpful, and improving a contact’s attitude requires a
 Diplomacy check. The GM sets the terms of the favor.
 
-**Requisitioning a Starship: **A character working for an agency can
+**Requisitioning a Starship:** A character working for an agency can
 requisition a starship as “equipment,” using the rules for
 requisitioning equipment.
 
-**Renting a Starship: **The issue of starship rental won’t come up in
+**Renting a Starship:** The issue of starship rental won’t come up in
 campaigns where space traffic is limited to military vessels. However,
 in campaigns featuring commercial and privately owned starships, heroes
 can rent a starship for much less than it costs to buy one. Only
@@ -6142,7 +6142,7 @@ interstellar travel or if a trained crew is provided as part of the
 rental agreement. Renters must cover any damages sustained by the ship
 during the rental period.
 
-**Stealing a Starship: **Characters can steal a starship only after
+**Stealing a Starship:** Characters can steal a starship only after
 disabling its security locks (Disable Device DC 40, one check per lock),
 overcoming any hostile crewmembers aboard, and defeating the ship’s
 onboard computer security system (Computer Use DC 40). A ship’s computer

@@ -5,7 +5,7 @@
 
 Here is the format for feat descriptions.
 
-**Feat Name: **The name of the feat.
+**Feat Name:** The name of the feat.
 
 **Prerequisite:** A minimum ability score, another feat or feats, a
 minimum base attack bonus, and/or the minimum ranks in a skill that a

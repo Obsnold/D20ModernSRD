@@ -14,7 +14,7 @@ Skill Name (Key Ability) Trained Only; Armor Penalty
 The skill name line and the line beneath it include the following
 information:
 
-**Key Ability: **The abbreviation for the ability whose modifier applies
+**Key Ability:** The abbreviation for the ability whose modifier applies
 to the skill check. Exceptions: Speak Language and Read/Write Language
 have “None” given as their key ability because the use of these skills
 never requires a check.
@@ -25,7 +25,7 @@ it. If “Trained Only” is omitted, the skill can be used untrained. If
 any particular notes apply to trained or untrained use, they are covered
 in the Special section (see below).
 
-**Armor Penalty: **If “Armor Penalty” appears on the line beneath the
+**Armor Penalty:** If “Armor Penalty” appears on the line beneath the
 skill name, apply the armor penalty for the armor the character is
 wearing to checks involving this skill.
 
@@ -422,7 +422,7 @@ for a particular file, writing computer programs, altering existing
 programs to perform differently (better or worse), and breaking through
 computer security are all relatively difficult and require skill checks.
 
-**Find File: **This skill can be used for finding files or data on an
+**Find File:** This skill can be used for finding files or data on an
 unfamiliar system. The DC for the check and the time required are
 determined by the size of the site on which the character is searching.
 
@@ -560,22 +560,22 @@ check (DC 20), a character can alter his or her identifying information.
 This imposes a –5 penalty on any attempt made to identify the character
 if his or her activity is detected.
 
-**Access the Site: **There are two ways to do this: physically or over
+**Access the Site:** There are two ways to do this: physically or over
 the Internet.
 
-**Physical Access: **A character gains physical access to the computer,
+**Physical Access:** A character gains physical access to the computer,
 or a computer connected to the site. If the site being hacked is not
 connected to the Internet, this is probably the only way a character can
 access it. A variety of skill checks may be required, depending on the
 method used to gain access.
 
-**Internet Access: **Reaching a site over the net requires two Computer
+**Internet Access:** Reaching a site over the net requires two Computer
 Use checks. The first check (DC 10) is needed to find the site on the
 net. The second is a check to defeat computer security (see the Computer
 Use skill description). Once a character has succeeded in both checks,
 the character has accessed the site.
 
-**Locate What You’re Looking For: **To find the data (or application, or
+**Locate What You’re Looking For:** To find the data (or application, or
 remote device) the character wants, make a Computer Use check. See Find
 File under the skill description.
 
@@ -583,7 +583,7 @@ File under the skill description.
 If that’s the case, the character needs to make another check to defeat
 computer security.
 
-**Do Your Stuff: **Finally, the character can actually do what he or she
+**Do Your Stuff:** Finally, the character can actually do what he or she
 came to do. If the character just wants to look at records, no
 additional check is needed. (A character can also download data,
 although that often takes several rounds—or even several minutes, for
@@ -592,7 +592,7 @@ deleting records sometimes requires yet another check to defeat computer
 security. Other operations can be carried out according to the Computer
 Use skill description.
 
-**Defend Security: **If the character is the system administrator for a
+**Defend Security:** If the character is the system administrator for a
 site (which may be as simple as being the owner of a laptop), he or she
 can defend the site against intruders. If the site alerts the character
 to an intruder, the character can attempt to cut off the intruder’s
@@ -676,7 +676,7 @@ single site; doing so adds +2 to the DC for each additional computer.
 Fixing the degraded programming requires 1 hour and a Computer Use check
 against a DC equal to the DC for degrading it + 5.
 
-**Write Program: **A character can create a program to help with a
+**Write Program:** A character can create a program to help with a
 specific task. Doing so grants the character a +2 circumstance bonus to
 the task.
 
@@ -684,7 +684,7 @@ A specific task, in this case, is one type of operation with one target.
 
 The DC to write a program is 20; the time required is 1 hour.
 
-**Operate Remote Device: **Many devices are computer-operated via remote
+**Operate Remote Device:** Many devices are computer-operated via remote
 links. If the character has access to the computer that controls such
 systems, the character can either shut them off or change their
 operating parameters. The DC depends on the nature of the operation. If
@@ -1099,19 +1099,19 @@ poisons are most effective when injected directly into the bloodstream.
 Gaseous poisons must be inhaled to be effective. The table below
 summarizes the characteristics of various poisons.
 
-**Save DC: **The Difficulty Class of the Fortitude save to negate the
+**Save DC:** The Difficulty Class of the Fortitude save to negate the
 effects of the poison.
 
-**Initial Damage: **The damage a character takes immediately upon
+**Initial Damage:** The damage a character takes immediately upon
 failing his or her Fortitude save.
 
-**Secondary Damage: **The damage a character takes after 1 minute of
+**Secondary Damage:** The damage a character takes after 1 minute of
 exposure to the poison if the character fails a second saving throw.
 Ability score damage is temporary, unless marked with an asterisk, in
 which case the damage is permanent ability drain. Unconsciousness lasts
 for 1d3 hours, and paralysis lasts 2d6 minutes.
 
-**Purchase DC: **The DC for the Wealth check necessary to obtain the raw
+**Purchase DC:** The DC for the Wealth check necessary to obtain the raw
 materials to craft the poison, or to purchase one bottle of solid or
 liquid poison or one high-pressure cylinder of gaseous poison. A bottle
 holds four doses, while a cylinder holds enough gas to fill a
@@ -1948,7 +1948,7 @@ doesn’t require a check, but connecting and setting a detonator does.
 Also, placing an explosive for maximum effect against a structure calls
 for a check, as does disarming an explosive device.
 
-**Set Detonator: **Most explosives require a detonator to go off.
+**Set Detonator:** Most explosives require a detonator to go off.
 Connecting a detonator to an explosive requires a Demolitions check (DC
 10). Failure means that the explosive fails to go off as planned.
 Failure by 10 or more means the explosive goes off as the detonator is
@@ -1971,7 +1971,7 @@ result of 25 or higher, it deals triple damage to the structure. In all
 cases, it deals normal damage to all other targets within its burst
 radius.
 
-**Disarm Explosive Device: **Disarming an explosive that has been set to
+**Disarm Explosive Device:** Disarming an explosive that has been set to
 go off requires a Demolitions check. The DC is usually 10, unless the
 person who set the detonator chose a higher disarm DC. If the character
 fails the check, he or she does not disarm the explosive. If the
@@ -2158,7 +2158,7 @@ electronic lock). The DC depends on the quality of the lock.
 </tbody>
 </table>
 
-**Disable Security Device: **A character can disable a security device,
+**Disable Security Device:** A character can disable a security device,
 such as an electric fence, motion sensor, or security camera. The
 character must be able to reach the actual device. If the device is
 monitored, the fact that the character attempted to disable it will

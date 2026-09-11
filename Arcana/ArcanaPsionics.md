@@ -19,9 +19,9 @@ following criteria.
 
 **Base Attack Bonus**: +2.
 
-**Skill: **Hide 6 ranks, Move Silently 6 ranks.
+**Skill:** Hide 6 ranks, Move Silently 6 ranks.
 
-**Feat: **Wild Talent.
+**Feat:** Wild Talent.
 
 Class Information
 
@@ -47,7 +47,7 @@ Listen (Wis), Move Silently (Dex), Profession (Wis), Read/Write Language
 (none), Search (Int), Sleight of Hand (Dex), Speak Language (none), Spot
 (Wis), Tumble (Dex).
 
-**Skill Points at Each Level: **3 + Intelligence modifier.
+**Skill Points at Each Level:** 3 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -540,7 +540,7 @@ target.
 
 **Inertial Barrier **(Con). Subject gains DR 10/—.
 
-**Mindwipe (Cha): **Subject’s recent experiences are wiped away.
+**Mindwipe (Cha):** Subject’s recent experiences are wiped away.
 
 **Tailor Memory **(Cha). Plant false memory in target.
 
@@ -742,8 +742,8 @@ Biofeedback
 
 Strength
 
-**Level: **Battle Mind 1; **Display: **Material, Visual; **Manifestation
-Time: **Attack action; **Range: **Personal; **Target: **You; **Duration:
+**Level:** Battle Mind 1; **Display:** Material, Visual; **Manifestation
+Time:** Attack action; **Range:** Personal; **Target:** You; **Duration:
 **1 minute/level (D); **Power Points**: 1
 
 You can constrict bleeding around wounds, lessening their impact. You
@@ -760,10 +760,10 @@ Bite of the Tiger
 
 Strength
 
-**Level: **Battle Mind 3; **Display: **Material, Visual; **Manifestation
-Time: **Attack action; **Range: **Personal; **Target: **You; **Duration:
-**1 hour/level; **Saving Throw: **None; **Power Resistance: **No;
-**Power Points: **5
+**Level:** Battle Mind 3; **Display:** Material, Visual; **Manifestation
+Time:** Attack action; **Range:** Personal; **Target:** You; **Duration:
+**1 hour/level; **Saving Throw:** None; **Power Resistance:** No;
+**Power Points:** 5
 
 Your posture becomes stooped forward, and you grow a tigerlike muzzle
 complete with rending fangs. The power grants you a bite attack (which
@@ -776,10 +776,10 @@ Call Weaponry
 
 Dexterity \[Teleportation\]
 
-**Level: **Telepath 1/Psionic Agent 1; **Display: **Audible, Material;
-**Manifestation Time: **Attack action; **Range: **Touch; **Effect: **1
-unattended weapon (see text); **Duration: **1 hour/level (see text) (D);
-**Saving Throw: **None; **Power Resistance: **No; **Power Points: **1
+**Level:** Telepath 1/Psionic Agent 1; **Display:** Audible, Material;
+**Manifestation Time:** Attack action; **Range:** Touch; **Effect:** 1
+unattended weapon (see text); **Duration:** 1 hour/level (see text) (D);
+**Saving Throw:** None; **Power Resistance:** No; **Power Points:** 1
 (see text)
 
 You call a weapon “from thin air” into your waiting hand (actually, it
@@ -856,11 +856,11 @@ Catapsi
 
 Charisma \[Mind-Affecting\]
 
-**Level: **Telepath 5; **Display: **Mental, Visual; **Manifestation
-Time: **Attack action; **Range: **Medium 100 feet; **Area:
-**100-ft.-radius emanation centered on you; **Duration: **1
-minute/level; **Saving Throw: **Will negates (see text); **Power
-Resistance: **Yes; **Power Points: **9
+**Level:** Telepath 5; **Display:** Mental, Visual; **Manifestation
+Time:** Attack action; **Range:** Medium 100 feet; **Area:
+**100-ft.-radius emanation centered on you; **Duration:** 1
+minute/level; **Saving Throw:** Will negates (see text); **Power
+Resistance:** Yes; **Power Points:** 9
 
 With *catapsi *\[kat-ah-sigh\], you generate psychic static, making it
 more difficult for other psionic characters to manifest their powers
@@ -878,9 +878,9 @@ Chameleon
 
 Strength
 
-**Level: **Telepath 2; **Display: **Olfactory; **Manifestation Time:
-**Attack action; **Range: **Personal; **Target: **You; **Duration: **10
-minutes/level (D); **Power Points: **3
+**Level:** Telepath 2; **Display:** Olfactory; **Manifestation Time:
+**Attack action; **Range:** Personal; **Target:** You; **Duration:** 10
+minutes/level (D); **Power Points:** 3
 
 Your skin and equipment take on the color and texture of nearby objects,
 including floors and walls. You receive a +10 enhancement bonus on Hide
@@ -890,9 +890,9 @@ Charm Creature
 
 Telepathy (Cha) \[Compulsion, Mind-Affecting\]
 
-**Level: **Telepath 3; **Display: **Mental; **Target: **One living
-creature; **Duration: **1 day/level; **Saving Throw: **Will negates;
-**Power Resistance: **Yes; **Power Points: **5
+**Level:** Telepath 3; **Display:** Mental; **Target:** One living
+creature; **Duration:** 1 day/level; **Saving Throw:** Will negates;
+**Power Resistance:** Yes; **Power Points:** 5
 
 As *charm person*, except that the power is not restricted by creature
 type or size, and you need not speak the creature’s language.
@@ -901,10 +901,10 @@ Conceal Thoughts
 
 Charisma
 
-**Level**: Telepath 1; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Close (25 ft. + 5 ft./2 levels); **Target:
-**One living creature; **Duration: **1 hour/level; **Saving Throw: **Yes
-(harmless); **Power Resistance: **Yes (harmless); **Power Points: **1
+**Level**: Telepath 1; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Close (25 ft. + 5 ft./2 levels); **Target:
+**One living creature; **Duration:** 1 hour/level; **Saving Throw:** Yes
+(harmless); **Power Resistance:** Yes (harmless); **Power Points:** 1
 
 You protect your thoughts from analysis. While the duration lasts, you
 gain a +20 circumstance bonus on Bluff checks against those attempting
@@ -916,11 +916,11 @@ Detect Poison
 
 Wisdom
 
-**Level: **Psionic Agent 0; **Display: **Olfactory; **Manifestation
-Time: **Attack action; **Range: **Close (25 ft. + 5 ft./2 levels);
-**Target or Area: **One creature, one object, or a 5-foot cube;
-**Duration: **Instantaneous; **Saving Throw: **None; **Power Resistance:
-**No; **Power Points: **1
+**Level:** Psionic Agent 0; **Display:** Olfactory; **Manifestation
+Time:** Attack action; **Range:** Close (25 ft. + 5 ft./2 levels);
+**Target or Area:** One creature, one object, or a 5-foot cube;
+**Duration:** Instantaneous; **Saving Throw:** None; **Power Resistance:
+**No; **Power Points:** 1
 
 You determine whether a creature, object, or area has been poisoned or
 is poisonous. You can determine the exact type of poison with a
@@ -934,10 +934,10 @@ Dimension Door
 
 Dexterity \[Teleportation\]
 
-**Level: **Psionic Agent 4; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Long (400 ft. + 40 ft./level); **Target:
+**Level:** Psionic Agent 4; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Long (400 ft. + 40 ft./level); **Target:
 **You and touched objects or other touched willing creatures (see text);
-**Duration: **Instantaneous; **Power Points: **7
+**Duration:** Instantaneous; **Power Points:** 7
 
 You instantly transfer yourself from your current location to any other
 spot within range. You always arrive at exactly the spot desired—whether
@@ -954,9 +954,9 @@ Dimension Slide
 
 Dexterity
 
-**Level: **Psionic Agent 3; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Close (25 ft. + 5 ft./2 levels); **Target:
-**You (see text); **Duration: **Instantaneous; **Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Close (25 ft. + 5 ft./2 levels); **Target:
+**You (see text); **Duration:** Instantaneous; **Power Points:** 5
 
 You instantly transfer yourself from your current location to any other
 spot within range that you can see directly. You arrive at exactly the
@@ -974,10 +974,10 @@ Electronic Fog
 
 Constitution
 
-**Level: **Telepath 2; **Display: **None; **Manifestation Time: **Attack
-action; **Range: **Personal; **Area: **5-ft.-radius/level; **Duration:
-**1 minute/level; **Saving Throw: **None; **Power Resistance: **No;
-**Power Points: **3
+**Level:** Telepath 2; **Display:** None; **Manifestation Time:** Attack
+action; **Range:** Personal; **Area:** 5-ft.-radius/level; **Duration:
+**1 minute/level; **Saving Throw:** None; **Power Resistance:** No;
+**Power Points:** 3
 
 An intensified version of *white noise*, this bubble of low-level
 electromagnetic radiation is still below the detection level of most
@@ -992,9 +992,9 @@ Fate of One
 
 Wisdom
 
-**Level: **Telepath 4; **Display: **Mental, Visual; **Manifestation
-Time: **See text; **Range: **Personal; **Target: **You; **Duration:
-**Instantaneous; **Power Points: **7
+**Level:** Telepath 4; **Display:** Mental, Visual; **Manifestation
+Time:** See text; **Range:** Personal; **Target:** You; **Duration:
+**Instantaneous; **Power Points:** 7
 
 Your limited omniscience allows you to reroll a saving throw, attack
 roll, or skill check, and use the better of the two rolls for your
@@ -1009,12 +1009,12 @@ Feather Fall
 
 Dexterity
 
-**Level: **Psionic Agent 1; **Display: **Audible; **Manifestation Time:
-**See text; **Range: **Close (25 ft. + 5 ft./2 levels); **Targets: **Any
+**Level:** Psionic Agent 1; **Display:** Audible; **Manifestation Time:
+**See text; **Range:** Close (25 ft. + 5 ft./2 levels); **Targets:** Any
 free-falling objects or creatures in a 10-ft. radius whose weight does
-not total more than 300 lb./level; **Duration: **Until landing or 1
-round/level; **Saving Throw: **Will negates (object); **Power
-Resistance: **Yes (object); **Power Points: **1
+not total more than 300 lb./level; **Duration:** Until landing or 1
+round/level; **Saving Throw:** Will negates (object); **Power
+Resistance:** Yes (object); **Power Points:** 1
 
 The targeted creatures or objects affected fall slowly. The rate of fall
 is instantly changed to a mere 60 feet per round (equivalent to the end
@@ -1039,10 +1039,10 @@ Fly
 
 Dexterity
 
-**Level: **Psionic Agent 3; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **10 minutes/level; **Saving Throw: **None; **Power
-Resistance: **Yes (harmless); **Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 10 minutes/level; **Saving Throw:** None; **Power
+Resistance:** Yes (harmless); **Power Points:** 5
 
 The power’s subject can fly at a speed of 90 feet (60 feet if the
 creature wears medium or heavy armor). The subject can fly up at half
@@ -1063,10 +1063,10 @@ Freedom of Movement
 
 Dexterity
 
-**Level: **Psionic Agent 4; **Display: **Audible; **Manifestation Time:
-**Attack action; **Range: **Personal or touch; **Target: **You or
-creature touched; **Duration: **10 minutes/level; **Saving Throw:
-**None; **Power Resistance: **No or Yes (harmless); **Power Points: **7
+**Level:** Psionic Agent 4; **Display:** Audible; **Manifestation Time:
+**Attack action; **Range:** Personal or touch; **Target:** You or
+creature touched; **Duration:** 10 minutes/level; **Saving Throw:
+**None; **Power Resistance:** No or Yes (harmless); **Power Points:** 7
 
 This power enables you or the creature you touch to move and attack
 normally for the duration of the power, even under the influence of
@@ -1081,11 +1081,11 @@ Ghost Shot
 
 Dexterity
 
-**Level: **Psionic Agent 4; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Close (25 ft. + 5 ft./2 levels); **Target:
-**One firearm; **Duration: **1 minute/level; **Saving Throw: **Will
-negates (harmless, object); **Power Resistance: **Yes (harmless,
-object); **Power Points: **7
+**Level:** Psionic Agent 4; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Close (25 ft. + 5 ft./2 levels); **Target:
+**One firearm; **Duration:** 1 minute/level; **Saving Throw:** Will
+negates (harmless, object); **Power Resistance:** Yes (harmless,
+object); **Power Points:** 7
 
 This power makes bullets intangible to nonliving material, negating
 cover, equipment, and shield bonuses to the target. It affects all
@@ -1096,10 +1096,10 @@ Identify
 
 Wisdom
 
-**Level: **Psionic Agent 1; **Display: **Material, Mental;
-**Manifestation Time: **8 hours; **Range: **Touch; **Target: **Up to 1
-touched object per level; **Duration: **Instantaneous; **Saving Throw:
-**None; **Power Resistance: **No; **Power Points: **1
+**Level:** Psionic Agent 1; **Display:** Material, Mental;
+**Manifestation Time:** 8 hours; **Range:** Touch; **Target:** Up to 1
+touched object per level; **Duration:** Instantaneous; **Saving Throw:
+**None; **Power Resistance:** No; **Power Points:** 1
 
 This power determines the single most basic function of a psionic item,
 including how to activate that function (if appropriate), and how many
@@ -1115,9 +1115,9 @@ Immovability
 
 Strength
 
-**Level: **Psionic Agent 4; **Display: **Visual; **Time: **Attack
-action; **Range: **Personal; **Target: **You; **Duration: **1 hour/level
-(D); **Power Points: **7
+**Level:** Psionic Agent 4; **Display:** Visual; **Time:** Attack
+action; **Range:** Personal; **Target:** You; **Duration:** 1 hour/level
+(D); **Power Points:** 7
 
 You are almost impossible to move. Your weight does not vary; instead,
 you mentally attach yourself to the underlying fabric of reality. Thus,
@@ -1134,8 +1134,8 @@ Improved Biofeedback
 
 Strength
 
-**Level: **Battle Mind 3; **Duration: **1 hour/level (D); **Power
-Points: **5
+**Level:** Battle Mind 3; **Duration:** 1 hour/level (D); **Power
+Points:** 5
 
 As *biofeedback*, except you take a portion of each damaging attack as
 nonlethal damage equal to twice your Strength modifier, and the duration
@@ -1145,11 +1145,11 @@ Inertial Barrier
 
 Constitution
 
-**Level: **Telepath 4; **Display: **Audible, Mental; **Manifestation
-Time: **Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **10 minutes/level or until discharged; **Saving Throw:
-**Will negates (harmless); **Power Resistance: **Yes (harmless); **Power
-Points: **7
+**Level:** Telepath 4; **Display:** Audible, Mental; **Manifestation
+Time:** Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 10 minutes/level or until discharged; **Saving Throw:
+**Will negates (harmless); **Power Resistance:** Yes (harmless); **Power
+Points:** 7
 
 You create a psychokinetic barrier around the subject that resists
 blows, cuts, stabs, and slashes, as well as providing some protection
@@ -1164,10 +1164,10 @@ Instant Reload
 
 Dexterity
 
-**Level: **Psionic Agent 3; **Display: **Audible, Material;
-**Manifestation Time: **Attack action; **Range: **Touch; **Target: **One
-ranged weapon with ammunition; **Duration: **1 hour/level; **Saving
-Throw: **None; **Power Resistance: **No; **Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Audible, Material;
+**Manifestation Time:** Attack action; **Range:** Touch; **Target:** One
+ranged weapon with ammunition; **Duration:** 1 hour/level; **Saving
+Throw:** None; **Power Resistance:** No; **Power Points:** 5
 
 You can reload your weapon as an attack action, calling the ammunition
 from another location in the same manner as *call weaponry*. The
@@ -1182,9 +1182,9 @@ Invisibility Purge
 
 Wisdom
 
-**Level: **Psionic Agent 3; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Personal; **Target: **You; **Duration: **1
-minute/level (D); **Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Personal; **Target:** You; **Duration:** 1
+minute/level (D); **Power Points:** 5
 
 You surround yourself with a sphere of power with a radius of 5 feet per
 manifester level that negates all forms of nvisibility.
@@ -1195,11 +1195,11 @@ Knock
 
 Dexterity
 
-**Level: **Telepath 2; **Display: **Material; **Manifestation Time:
-**Attack action; **Range: **Medium (100 ft. + 10 ft./level); **Target:
+**Level:** Telepath 2; **Display:** Material; **Manifestation Time:
+**Attack action; **Range:** Medium (100 ft. + 10 ft./level); **Target:
 **One door, box, or chest with an area of up to 10 sq. ft./level;
-**Duration: **Instantaneous (see text); **Saving Throw: **None; **Power
-Resistance: **No; **Power Points: **3
+**Duration:** Instantaneous (see text); **Saving Throw:** None; **Power
+Resistance:** No; **Power Points:** 3
 
 The *knock *power opens stuck, barred, locked, or mechanically or
 electronically sealed doors, as well at those with hidden mechanisms. It
@@ -1214,9 +1214,9 @@ Lesser Natural Armor
 
 Strength
 
-**Level: **Battle Mind 0; **Display: **Material, Olefactory;
-**Manifestation Time: **Attack action; **Range: **Personal; **Target:
-**You; **Duration: **1 minute; **Power Points: **1
+**Level:** Battle Mind 0; **Display:** Material, Olefactory;
+**Manifestation Time:** Attack action; **Range:** Personal; **Target:
+**You; **Duration:** 1 minute; **Power Points:** 1
 
 Your skin grows thick ridges, providing a +1 natural armor bonus to your
 Defense. Unlike mundane armor, natural armor entails no armor penalty or
@@ -1226,11 +1226,11 @@ Mindwipe
 
 Charisma
 
-**Level: **Telepath 4; **Display: **Audible, Material, Visual;
-**Manifestation Time: **Attack action; **Range: **Close (25 ft. + 5
-ft./2 levels); **Target: **One living creature; **Duration:
-**Instantaneous; **Saving Throw: **Fortitude negates; **Power
-Resistance: **Yes; **Power Points: **7
+**Level:** Telepath 4; **Display:** Audible, Material, Visual;
+**Manifestation Time:** Attack action; **Range:** Close (25 ft. + 5
+ft./2 levels); **Target:** One living creature; **Duration:
+**Instantaneous; **Saving Throw:** Fortitude negates; **Power
+Resistance:** Yes; **Power Points:** 7
 
 You partially wipe your victim’s mind of past experiences, bestowing one
 negative level per two manifester levels (maximum five negative levels).
@@ -1252,9 +1252,9 @@ Painful Touch
 
 Strength
 
-**Level: **Battle Mind 2; **Display: **Material, Visual; **Manifestation
-Time: **Attack action; **Range: **Personal; **Target: **You; **Duration:
-**1 round/level (D); **Power Points: **3
+**Level:** Battle Mind 2; **Display:** Material, Visual; **Manifestation
+Time:** Attack action; **Range:** Personal; **Target:** You; **Duration:
+**1 round/level (D); **Power Points:** 3
 
 Your unarmed attacks cause additional pain. When you make a successful
 unarmed attack that deals damage (or in conjunction with any bite or
@@ -1266,8 +1266,8 @@ Prowess
 
 Wisdom
 
-**Level: **Psionic Agent 3; **Display: **Mental; **Manifestation Time:
-**See text; **Range: **Personal; **Target: **You; **Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Mental; **Manifestation Time:
+**See text; **Range:** Personal; **Target:** You; **Power Points:** 5
 
 If an enemy provokes an attack of opportunity, you can take it, even if
 you’ve already taken your allotted number of attacks of opportunity this
@@ -1284,10 +1284,10 @@ Short Sharp Shock
 
 Constitution
 
-**Level: **Battle Mind 4; **Display: **Visual, Olfactory;
-**Manifestation Time: **Attack action; **Range: **Touch; **Target: **One
-object or creature; **Duration: **Instantaneous; **Saving Throw:
-**Fortitude half; **Power Resistance: **No; **Power Points: **7
+**Level:** Battle Mind 4; **Display:** Visual, Olfactory;
+**Manifestation Time:** Attack action; **Range:** Touch; **Target:** One
+object or creature; **Duration:** Instantaneous; **Saving Throw:
+**Fortitude half; **Power Resistance:** No; **Power Points:** 7
 
 You channel a burst of electromagnetic radiation into a target object or
 creature. The shock delivers 2d10 points of nonlethal damage. More
@@ -1301,10 +1301,10 @@ Signal Feed
 
 Charisma \[Mind-Affecting\]
 
-**Level: **Telepath 5; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Close (25 ft. +5 ft./2 levels); **Target:
-**One communication device.; **Duration: **1 round/level; **Saving
-Throw: **Will negates; **Power Resistance: **Yes; **Power Points: **9
+**Level:** Telepath 5; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Close (25 ft. +5 ft./2 levels); **Target:
+**One communication device.; **Duration:** 1 round/level; **Saving
+Throw:** Will negates; **Power Resistance:** Yes; **Power Points:** 9
 
 You can create false images or sounds on an electronic device. The spell
 affects those that are watching or listening the device at the time of
@@ -1317,10 +1317,10 @@ Spider Climb
 
 Dexterity
 
-**Level: **Telepath 1; **Display: **Material; **Manifestation Time:
-**Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **10 minutes/level; **Saving Throw: **Will negates
-(harmless); **Power Resistance: **Yes (harmless); **Power Points: **1
+**Level:** Telepath 1; **Display:** Material; **Manifestation Time:
+**Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 10 minutes/level; **Saving Throw:** Will negates
+(harmless); **Power Resistance:** Yes (harmless); **Power Points:** 1
 
 The subject can climb and travel on vertical surfaces or even traverse
 ceilings as well as a spider does. The affected creature must have bare
@@ -1332,9 +1332,9 @@ Steadfast Perception
 
 Wisdom
 
-**Level: **Psionic Agent 4; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Personal; **Target: **You; **Duration: **1
-hour/level (D); **Power Points: **7
+**Level:** Psionic Agent 4; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Personal; **Target:** You; **Duration:** 1
+hour/level (D); **Power Points:** 7
 
 Your gaze suffers no distractions, granting you a +4 enhancement bonus
 on your saving throw to resist all illusory effects. Moreover, your
@@ -1345,10 +1345,10 @@ Telempathic Projection
 
 Charisma \[Mind-Affecting\]
 
-**Level: **Telepath 0; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Medium (100 ft. + 10 ft./level); **Area:
-**One living creature; **Duration: **1 minute/level; **Saving Throw:
-**Will negates; **Power Resistance: **Yes; **Power Points: **1
+**Level:** Telepath 0; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Medium (100 ft. + 10 ft./level); **Area:
+**One living creature; **Duration:** 1 minute/level; **Saving Throw:
+**Will negates; **Power Resistance:** Yes; **Power Points:** 1
 
 You can alter the subject’s mood. An affected creature feels the new
 emotion, but *telempathic projection *cannot radically change its
@@ -1364,10 +1364,10 @@ Ubiquitous Vision
 
 Wisdom
 
-**Level: **Psionic Agent 3; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Personal; **Target: **You; **Duration: **2
-rounds/level (D); **Saving Throw: **None; **Power Resistance: **No;
-**Power Points: **5
+**Level:** Psionic Agent 3; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Personal; **Target:** You; **Duration:** 2
+rounds/level (D); **Saving Throw:** None; **Power Resistance:** No;
+**Power Points:** 5
 
 You have “eyes in the back of your head,” and in the sides and top as
 well (though only in effect, not literally). In effect, you have a
@@ -1383,10 +1383,10 @@ White Noise
 
 Constitution
 
-**Level: **Battle Mind 1, Telepath 1; **Display: **None; **Manifestation
-Time: **Attack action; **Range: **Personal; **Area: **5-ft.-
-radius/level; **Duration: **1 minute/level; **Saving Throw: **None;
-**Power Resistance: **No; **Power Points: **1
+**Level:** Battle Mind 1, Telepath 1; **Display:** None; **Manifestation
+Time:** Attack action; **Range:** Personal; **Area:** 5-ft.-
+radius/level; **Duration:** 1 minute/level; **Saving Throw:** None;
+**Power Resistance:** No; **Power Points:** 1
 
 You surround yourself with a bubble of low-level electromagnetic
 radiation, not enough to be detected by normal individuals but

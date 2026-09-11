@@ -93,7 +93,7 @@ genetically manipulate it so the creature has one of the
 
 following flaws.
 
-**Dependent: **The organism requires a particular item or condition to
+**Dependent:** The organism requires a particular item or condition to
 survive. For example, it may need to consume a particular chemical.
 
 The frequency with which the organism requires its dependent condition
@@ -155,7 +155,7 @@ varies widely.
 If the organism’s dependent need is not met, it suffers 1d4 points of
 Constitution damage each time the specified period passes.
 
-**Particular: **The organism has an extreme preference (or an extreme
+**Particular:** The organism has an extreme preference (or an extreme
 dislike) for a certain condition. Examples include darkness or bright
 light, wetness, heat or cold.
 
@@ -163,7 +163,7 @@ When faced with the condition it is particular about, the organism must
 make a successful Will save (DC 20) to resist the urge to remain where
 it is (or flee, as appropriate).
 
-**Susceptible: **The organism is damaged by a specific condition or
+**Susceptible:** The organism is damaged by a specific condition or
 material. Examples include environments above or below
 
 a certain acidity or temperature, or the presence of a particular gas or
@@ -295,7 +295,7 @@ under water. A character acquires the aquan template by undergoing a
 course of gene therapy (see More Human than Human). The regimen requires
 25 successful Fortitude saving throws (DC 20).
 
-**Special Qualities: **An aquan retains all the special qualities of the
+**Special Qualities:** An aquan retains all the special qualities of the
 character and gains the additional special qualities listed
 
 below.
@@ -308,14 +308,14 @@ under water only.
 *Low-Light Vision (Ex): *Aquans have low-light vision with a range of 60
 feet on land and in water.
 
-**Skills: **Same as the character, with a +2 species bonus on Listen
+**Skills:** Same as the character, with a +2 species bonus on Listen
 checks while under water, a +2 species bonus on Move Silently checks
 while in the water, a +2 species bonus on Navigate checks while under
 water, and a +4 species bonus on all Swim checks.
 
-**Feats: **An aquan gains Athletic as a bonus feat.
+**Feats:** An aquan gains Athletic as a bonus feat.
 
-**Advancement: **By character class.
+**Advancement:** By character class.
 
 **HEALER (TEMPLATE)**
 
@@ -329,7 +329,7 @@ therapy (see More Human than Human).
 
 The regimen requires 25 successful Fortitude saving throws (DC 30).
 
-**Special Qualities: **A healer retains all the special qualities of the
+**Special Qualities:** A healer retains all the special qualities of the
 character and gains the additional special qualities listed below.
 
 *Fast Healing 3 (Ex): *A healer heals 3 points of damage each round.
@@ -339,10 +339,10 @@ fewer.
 *Lowered Damage Threshold (Ex): *A healer’s massive damage threshold is
 equal to Con –3.
 
-**Skills: **Same as the character, with a +2 species bonus on any Treat
+**Skills:** Same as the character, with a +2 species bonus on any Treat
 Injury checks made to treat himself.
 
-**Advancement: **By character class.
+**Advancement:** By character class.
 
 **MORPHEAN (TEMPLATE)**
 
@@ -358,7 +358,7 @@ the morphean template by undergoing a course of gene therapy (see More
 Human than Human). The regimen requires 25 successful Fortitude saving
 throws (DC 20).
 
-**Special Qualities: **A morphean retains all the special qualities of
+**Special Qualities:** A morphean retains all the special qualities of
 the character and gains the additional special qualities
 
 listed below.
@@ -382,10 +382,10 @@ hours of sleep. However, morpheans cannot go indefinitely without sleep.
 Once every 30 days, the character must get 2 full days of uninterrupted
 sleep or hibernation. Failure to do so makes the morphean fatigued.
 
-**Saving Throws: **A morphean gains a +2 species bonus on all Will
+**Saving Throws:** A morphean gains a +2 species bonus on all Will
 saving throws.
 
-**Advancement: **By character class.
+**Advancement:** By character class.
 
 **NOCTURNAL (TEMPLATE)**
 
@@ -399,7 +399,7 @@ template by undergoing a course of gene therapy (see More Human than
 Human). The regimen requires 25 successful Fortitude saving throws (DC
 20).
 
-**Special Qualities: **A nocturnal retains all the special qualities of
+**Special Qualities:** A nocturnal retains all the special qualities of
 the character and gains the additional special qualities listed below.
 
 *Darkvision (Ex): *Nocturnals have darkvision with a range of 60 feet.
@@ -409,12 +409,12 @@ flashlights, fluorescent lights, halogen lamps, and other sources of
 bright illumination. They can counter the blindness and see normally by
 wearing dark-tinted sunglasses or tinted visors.
 
-**Skills: **Same as the character, with a +2 species bonus on Listen and
+**Skills:** Same as the character, with a +2 species bonus on Listen and
 Move Silently checks.
 
-**Feats: **Nocturnals gain Blind-Fight as a bonus feat.
+**Feats:** Nocturnals gain Blind-Fight as a bonus feat.
 
-**Advancement: **By character class.
+**Advancement:** By character class.
 
 ## UNNATURAL SELECTION
 
@@ -565,14 +565,14 @@ one time. Of course, if a new clone can be grown and artificially aged
 within a matter of days or hours, the question arises as to why one
 would need to keep active clones at all.
 
-**Body Double: **In the modern world, celebrities and VIPs often hire
+**Body Double:** In the modern world, celebrities and VIPs often hire
 look-alike actors to take their places for brief public appearances,
 dangerous situations, and other situations where they do not have the
 inclination or time to appear themselves. The illusion is complete if
 the look-alike actor is a clone whose purpose in life is to stand in for
 her genetic original from time to time.
 
-**Disposable Workers: **In societies where clones are not afforded the
+**Disposable Workers:** In societies where clones are not afforded the
 rights and protections given those born through procreation, genetic
 duplicates might be used as a disposable work force. Clones could be
 sent into the most dangerous situations, used to fill the ranks of the
@@ -581,7 +581,7 @@ Depending on the setting, this might be an accepted fact of life or
 there could be a group or political party that opposes clone repression.
 (See the Clones’ Rights sidebar for further discussion.)
 
-**Workload Efficiency: **In a society that places a higher value on
+**Workload Efficiency:** In a society that places a higher value on
 clone life, the world’s rich and powerful might still create cadres of
 clones. In this case, though, they would clone those people who are
 especially good at a particular job or activity. They could fill entire
@@ -739,7 +739,7 @@ independent nanocolonies are capable of wiping out entire planets,
 moving from one object to the next devouring and destroying all that
 stands in their paths.
 
-**Gray Goo: **Gray goo is the ultimate destructive application of
+**Gray Goo:** Gray goo is the ultimate destructive application of
 nanotechnology. This colony of nanites exists for the sole purpose of
 destroying all other types of matter. The nanites within gray goo attack
 any material they come in contact with and convert it into additional
@@ -759,7 +759,7 @@ scientists learn to create (sometime toward the end of PL 6). The
 material must be contained in a magnetic storage field so that no
 physical object ever touches it.
 
-**Unseen Bodyguard: **Unseen bodyguard usually does not appear until PL
+**Unseen Bodyguard:** Unseen bodyguard usually does not appear until PL
 7 or PL 8, due to the complex nature of its programming. Essentially,
 unseen bodyguard nanites form a completely invisible nanocolony that can
 rearrange itself to provide a character protection from incoming
@@ -777,7 +777,7 @@ Defense against all attacks coming from the specified direction. Unseen
 bodyguard has a purchase DC of 22 and can be activated (and left running
 permanently) by a simple voice command.
 
-**Utility Fog: **This collection of intelligent nanites looks like a
+**Utility Fog:** This collection of intelligent nanites looks like a
 formless, colorless substance. However, when fed instructions through a
 computer, it can reorganize its size and physical properties to become
 more or less any object. As long as the computer can pass along the
@@ -825,7 +825,7 @@ washes out of the body completely.
 Nanoviruses typically serve a single purpose, then deactivate and are
 absorbed by the body.
 
-**Calcion: **A beneficial nanovirus, calcion is one of the most commonly
+**Calcion:** A beneficial nanovirus, calcion is one of the most commonly
 used nanocolonies in the field of medicine. Calcion is a bone-knitting
 nanite that repairs fractures and breaks in bones with advanced
 calcium-grafting technology. Additionally, calcion repairs joints and
@@ -834,7 +834,7 @@ from damage at twice the normal rate until she reaches full hit points.
 After her health is fully restored, the calcion nanites deactivate and
 cease to function.
 
-**Gray Death: **A derivative compound based on gray goo, gray death is a
+**Gray Death:** A derivative compound based on gray goo, gray death is a
 horrible weapon that kills in a slow and painful manner. Gray death
 nanites are gray goo nanites held within a special containment field.
 When the command is given, the nanocolony dissipates the containment
@@ -847,7 +847,7 @@ irrevocably killed in 3d10 hours and transforms into gray goo.
 Gray death is a horrible biological weapon. It is outlawed by almost all
 civilizations that have discovered it.
 
-**Onco-Guard: **One of the most beneficial discoveries to come out of
+**Onco-Guard:** One of the most beneficial discoveries to come out of
 nanotechnology, onco-guard nanoviruses treat and stave off the effects
 of cancer. Though not the “cure for cancer” that 20th century scientists
 so voraciously sought, onco-guard attacks and contains cancerous cells.
@@ -857,7 +857,7 @@ inert states. A character injected with onco-guard recovers from any
 negative effects of cancer almost immediately and is immune to further
 developments of the disease for 2d6 months.
 
-**Resilite: **Another incredibly dangerous nanovirus, resilite is used
+**Resilite:** Another incredibly dangerous nanovirus, resilite is used
 in both torture and espionage. Resilite has a single purpose—to deal
 severe amounts of damage to a creature upon activation. Resilite floats
 inert in the bloodstream until activated, at which point the nanites
@@ -868,7 +868,7 @@ character immediately suffers 6d10 points of damage. This damage is
 physical and internal and may not be prevented by any form of shielding
 or damage reduction.
 
-**Stiletto: **A particularly vicious nanovirus, stiletto causes damage
+**Stiletto:** A particularly vicious nanovirus, stiletto causes damage
 directly to a creature’s brain and can render the creature brain dead if
 successful in its attack. Unlike most other nanoviruses, stiletto does
 not linger in the bloodstream but instead flows directly to the brain.
@@ -913,7 +913,7 @@ Most nanoaugmenters simply provide energy or transmit signals between
 the nanocolony and the host body, but some actually alter the host’s
 genetic structure or change the host’s chemical balances.
 
-**Brain Boost: **Frequently used by scientists, researchers, and
+**Brain Boost:** Frequently used by scientists, researchers, and
 mathematicians, brain boost is a nanoaugmenter that gives the brain
 increased memory capacity. The nanites in brain boost latch onto the
 memory and thought centers of the brain and transmit data back and forth
@@ -927,7 +927,7 @@ increased greatly. Any creature injected with brain boost immediately
 gains a +4 bonus to Intelligence. This bonus remains in effect for as
 long as the nanoaugmenters remain attached to the brain.
 
-**Chatter: **A useful nanoaugmentor frequently injected into soldiers on
+**Chatter:** A useful nanoaugmentor frequently injected into soldiers on
 covert missions, chatter allows communication without speech. In many
 ways, chatter resembles the technology of the micro-aural communicator.
 However, unlike the microcom, the nanites in a chatter nanocolony attach
@@ -948,7 +948,7 @@ When a character is injected with the chatter nanoaugmentation, he must
 spend 30 minutes practicing so that ambient thoughts do not interfere
 with the communications.
 
-**Doppelganger: **A devious nanoaugmentation popular with criminals, the
+**Doppelganger:** A devious nanoaugmentation popular with criminals, the
 doppelganger nanoaugmentation acts as a dynamic plastic surgery system
 that alters the physical appearance of its host. The nanoaugmentation
 can change the hair and eye color of a character instantly and, if
@@ -965,7 +965,7 @@ nanocolony transform his physical features suffers a –2 penalty on all
 Intelligence, Wisdom, and Charisma based skill checks for the 1 hour of
 transformation and recovery time while the anesthetic is functioning.
 
-**Micro Muscles: **Often used to enhance soldiers and those involved in
+**Micro Muscles:** Often used to enhance soldiers and those involved in
 athletics, micro muscles are nanoaugmentations that attach themselves to
 muscles and enable them to perform beyond their normal limitations.
 Micro muscles not only enhance the strength of a creature injected with
@@ -978,7 +978,7 @@ to Strength while the nanites are functioning. Additionally, the
 creature gains an additional +4 bonus on all Strength-based skill checks
 that involve endurance or long-term activity.
 
-**Prophecy: **Another of the brain-altering nanoaugmentations, prophecy
+**Prophecy:** Another of the brain-altering nanoaugmentations, prophecy
 allows the character to receive visual and audio data from a remote
 source. Prophecy nanocolonies link to a computer system that receives
 images and video from multiple sources and funnels the information
@@ -991,7 +991,7 @@ is used to give mission briefings on the fly. Prophecy nanites cannot
 record or transmit data, however, and only act as receivers of
 information from the remote computer system.
 
-**Soullink: **Pilots and drivers that want greater interaction with
+**Soullink:** Pilots and drivers that want greater interaction with
 their vehicles frequently seek out soullink injections. The soullink
 nanites connect the mind of a character directly to the vehicle,
 starship, or mecha the character is currently piloting. The mind of the
@@ -1012,7 +1012,7 @@ A character with this nanoaugmentation gains a +6 bonus on Pilot or
 Drive checks while piloting a soullinked vessel. This nanoaugmentation
 works with only those vessels that support soullink technology.
 
-**20/20: **One nanoaugmentation that can be incredibly useful for scouts
+**20/20:** One nanoaugmentation that can be incredibly useful for scouts
 and investigators is the 20/20 nanocolony. By attaching to and enhancing
 sensitivity of a creature’s optic nerves, the 20/20 nanites improve the
 creature’s vision. One of the most common consumer nanotech injections,
@@ -1020,7 +1020,7 @@ creature’s vision. One of the most common consumer nanotech injections,
 creature injected with 20/20 nanites immediately gains a +6 bonus on all
 Spot and Search checks involving vision.
 
-**Watchdog: **Often used in medical situations as well as in space
+**Watchdog:** Often used in medical situations as well as in space
 exploration, the watchdog nanoaugmentation is a catchall phrase used to
 describe nanocolonies that monitor the health condition of a creature.
 Watchdog nanites monitor everything from heart rate and blood pressure

@@ -12,7 +12,7 @@ Characters in Vehicles
 A character in a vehicle fills one of several possible roles, which
 determines what the character can do.
 
-**Driver: **The driver of the vehicle controls its movement. Most
+**Driver:** The driver of the vehicle controls its movement. Most
 vehicles have only one position from where the vehicle can be driven, so
 the person seated there is the driver. Driving a vehicle is, at a
 minimum, a move action, which means that the driver may be able to do
@@ -29,7 +29,7 @@ the driver cannot or chooses not to, provided there is a second set of
 controls at the copilot’s seat (usually true in aircraft, but not ground
 vehicles).
 
-**Gunner: **Some vehicles have built-in weapons. If such a weapon is
+**Gunner:** Some vehicles have built-in weapons. If such a weapon is
 controlled from a location other than the driver’s position, a character
 can man that position and become the gunner. A vehicle can have as many
 gunners as it has gunner positions.
@@ -45,7 +45,7 @@ characters on foot, use character scale. If the scene involves only
 vehicles, and they’re likely to move at much higher speeds than
 characters or creatures on foot, use chase scale.
 
-**Character Scale: **Character scale is identical to the standard
+**Character Scale:** Character scale is identical to the standard
 movement scale: It’s carried out on a grid in which each square equals 5
 feet. In character scale, most vehicles are large enough to occupy
 multiple squares on the map grid. How many squares a vehicle occupies is
@@ -59,7 +59,7 @@ weapon.
 In character scale, more than one ground vehicle cannot occupy the same
 square.
 
-**Chase Scale: **In chase scale, each square of the grid represents 50
+**Chase Scale:** In chase scale, each square of the grid represents 50
 feet.
 
 In chase scale, most commonly encountered vehicles occupy only one
@@ -211,19 +211,19 @@ previous round. A stationary vehicle can change to alley speed in either
 forward or reverse. Most vehicles cannot go faster than alley speed in
 reverse.
 
-**Stationary: **The vehicle is motionless.
+**Stationary:** The vehicle is motionless.
 
 **Alley Speed:** This speed is used for safely maneuvering a vehicle in
 tight spaces, such as alleys and parking garages. It tops out at about
 the speed a typical person can run.
 
-**Street Speed: **The vehicle is traveling at a moderate speed, up to
+**Street Speed:** The vehicle is traveling at a moderate speed, up to
 about 35 miles per hour.
 
 **Highway Speed:** The vehicle is moving at a typical highway speed,
 from about 35 to 80 miles per hour.
 
-**All-Out: **The vehicle is traveling extremely fast, more than 80 miles
+**All-Out:** The vehicle is traveling extremely fast, more than 80 miles
 per hour.
 
 Moving
@@ -275,7 +275,7 @@ maneuvers do cost movement—so a vehicle that makes a lot of simple
 maneuvers will not get as far as one going in a straight line. Simple
 maneuvers do not require the driver to make skill checks.
 
-**Stunts: **Stunts are difficult and sometimes daring maneuvers that
+**Stunts:** Stunts are difficult and sometimes daring maneuvers that
 enable a driver to change his or her vehicle’s speed or heading more
 radically than a simple maneuver allows. A stunt is a move action. It
 can be taken as part of a move action to control the vehicle, and a
@@ -460,7 +460,7 @@ squares equal to its turn number before turning, just as with a simple
 45-degree turn. Make a Drive check (DC 15) to retain control (see Losing
 Control).
 
-**Jump: **A driver can attempt to jump his or her vehicle across a gap
+**Jump:** A driver can attempt to jump his or her vehicle across a gap
 in his or her path.
 
 To make a jump, the vehicle must move in a straight line a number of
@@ -632,17 +632,17 @@ Here is what a vehicle driver can do in a single round:
 **Choose the Vehicle’s Speed:** The driver may increase or decrease his
 or her vehicle’s speed category by one (or keep it the same).
 
-**Optional Attack Action: **If the driver wants, he or she can use his
+**Optional Attack Action:** If the driver wants, he or she can use his
 or her attack action before moving the vehicle. If the driver does so,
 however, he or she will be limited to a single stunt during movement.
 
-**Movement: **Move the vehicle any number of squares within the
+**Movement:** Move the vehicle any number of squares within the
 vehicle’s speed category. Along the way, perform any number of simple
 maneuvers (limited only by their movement cost). The driver may also
 attempt a single stunt as part of the movement (or two, if the driver
 didn’t take his or her attack action before moving).
 
-**Optional Attack Action: **If the driver did not take an attack action
+**Optional Attack Action:** If the driver did not take an attack action
 before moving, and performed one or fewer stunts, the driver has an
 attack action left.
 
@@ -886,7 +886,7 @@ degrees. Reorient the vehicle accordingly.
 At chase scale, the vehicle moves 1 square and ends its movement. Roll
 to determine its new facing as indicated above.
 
-**Roll: **The vehicle tumbles, taking damage.
+**Roll:** The vehicle tumbles, taking damage.
 
 At character scale, the vehicle rolls in a straight line in its current
 direction for a number of squares equal to the turn number for its
@@ -938,10 +938,10 @@ move action and one attack action, or one full-round action in a round.
 Free actions can be performed normally, in conjunction with another
 action.
 
-**Free Actions: **Communicating orders is a free action. Characters can
+**Free Actions:** Communicating orders is a free action. Characters can
 perform as many free actions as the GM permits in a single round.
 
-**Move Actions: **Changing position within a vehicle is usually a move
+**Move Actions:** Changing position within a vehicle is usually a move
 action, especially if the character has to trade places with another
 character. If the character’s movement is short and unobstructed, the
 character can do it as the equivalent of a 5-foot step. Otherwise, it
@@ -951,7 +951,7 @@ requires a move action.
 personal weapon, and drivers and gunners can make attacks with any
 vehicle-mounted weapons controlled from their positions.
 
-**Full-Round Actions: **Since the driver must use a move action to
+**Full-Round Actions:** Since the driver must use a move action to
 control the vehicle, he or she can’t take a full-round action unless he
 or she starts it in one round and completes it on his or her next turn
 (see Start/Complete Full-Round Action).
@@ -1390,12 +1390,12 @@ defensively while driving a vehicle, which grants a +2 dodge bonus to
 the vehicle’s Defense and applies a –4 penalty on attack rolls made by
 occupants of the vehicle.
 
-**Total Defense: **A driver can choose the total defense, action which
+**Total Defense:** A driver can choose the total defense, action which
 grants a +4 dodge bonus to Defense but does not allow the driver to
 attack (gunners or passengers take a –8 penalty on attack rolls). These
 modifiers last until the driver’s next round of actions.
 
-**Full Attack Action: **A driver cannot normally make a full attack,
+**Full Attack Action:** A driver cannot normally make a full attack,
 since controlling the vehicle requires a move action.
 
 Gunners or passengers, however, can take full attack actions, since they
@@ -1437,10 +1437,10 @@ Unlike characters, vehicles don’t “die” when they reach –10 hit points.
 Instead, a vehicle is destroyed when it loses hit points equal to twice
 its full normal total. A destroyed vehicle cannot be repaired.
 
-**Energy Attacks: **Vehicles are treated as objects when subjected to
+**Energy Attacks:** Vehicles are treated as objects when subjected to
 energy attacks.
 
-**Exploding Vehicles: **If the attack that disables a vehicle deals
+**Exploding Vehicles:** If the attack that disables a vehicle deals
 damage equal to half its full normal hit points or more, the vehicle
 explodes after 1d6 rounds. This explosion deals 10d6 points of fire
 damage to everyone within the vehicle (Reflex save, DC 20, for half

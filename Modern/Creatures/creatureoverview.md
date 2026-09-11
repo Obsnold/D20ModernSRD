@@ -1,14 +1,13 @@
+# CREATURE OVERVIEW
 
-### CREATURE OVERVIEW
-
-Creature Description
+## Creature Description
 
 Each creature is organized in the same general format, as described in
 the following text. Much of the information on a creature is condensed
 into a creature statistics block, the contents of which are explained
 below.
 
-Challenge Rating (CR)
+## Challenge Rating (CR)
 
 A creature’s Challenge Rating provides a rough measure of the creature’s
 toughness in a combat situation. As a rule of thumb, four heroes of a
@@ -36,7 +35,7 @@ creatures of a type; unless a type description specifies a particular
 score for one of these abilities, the GM will assign values as he or she
 deems appropriate.
 
-Hit Dice (HD) and Hit Points (hp)
+## Hit Dice (HD) and Hit Points (hp)
 
 A creature’s type and size determine its Hit Dice. A creature’s Hit Dice
 is equivalent to its level for determining how various FX abilities
@@ -46,7 +45,7 @@ in a skill.
 A creature’s Hit Dice and Constitution modifier determine its hit
 points. A creature’s entry gives the creature’s average hit points.
 
-Massive Damage Threshold (Mas)
+## Massive Damage Threshold (Mas)
 
 When a creature takes damage from a single attack equal to or greater
 than its current Constitution, it must succeed on a Fortitude save (DC
@@ -59,13 +58,13 @@ massive damage and do not have massive damage thresholds. Vermin gain a
 +5 species bonus on their Fortitude saves to avoid falling to –1 hit
 points.
 
-Initiative (Init)
+## Initiative (Init)
 
 The creature’s modifier on initiative checks is usually equal to its
 Dexterity modifier, although the Improved Initiative feat provides an
 additional +4 bonus.
 
-Speed (Spd)
+## Speed (Spd)
 
 A creature’s tactical speed on land is the amount of distance it can
 cover in one move action. If the creature wears armor that reduces its
@@ -126,7 +125,7 @@ contributing to it. The creature’s “touch” Defense (discounting natural
 armor and other armor modifiers) and “flat-footed” Defense (discounting
 Dexterity bonus and class bonus, if any) are provided as well.
 
-Base Attack Bonus (BAB)
+## Base Attack Bonus (BAB)
 
 A creature’s base attack bonus does not include any modifiers. It is
 used to calculate a creature’s grapple modifier as well as the maximum
@@ -135,7 +134,7 @@ creature’s base attack bonus is derived by cross-referencing the
 creature’s Hit Dice and type on Table: Creature Saves and Base Attack
 Bonuses.
 
-Grapple Modifier (Grap)
+## Grapple Modifier (Grap)
 
 Whenever a creature makes an opposed grapple check, apply this modifier
 to its d20 roll. The total modifier on grapple checks is determined as
@@ -143,7 +142,7 @@ follows: base attack bonus + Strength modifier + grapple modifier. The
 grapple modifiers for creatures of various sizes are given in Table:
 Creature Sizes.
 
-Primary Attack (Atk)
+## Primary Attack (Atk)
 
 If a creature moves more than 5 feet in the same round it attacks, it
 makes only a single attack using its primary attack bonus. This bonus
@@ -195,7 +194,7 @@ Creatures that use manufactured weapons follow the same rules as
 characters, including those for multiple attacks and two-weapon fighting
 penalties.
 
-Full Attack (Full Atk)
+## Full Attack (Full Atk)
 
 A creature that takes no more than a 5-foot step during its turn can
 make a full attack using all of its natural weapons. A creature’s full
@@ -218,7 +217,7 @@ Creatures that do not normally carry ranged weapons are still given a
 ranged attack bonus for situations in which they might be throwing
 objects at a target.
 
-Fighting Space (FS)
+## Fighting Space (FS)
 
 Fighting space approximates the amount of space a creature needs to move
 and fight effectively, and how much space it occupies on a grid of
@@ -251,7 +250,7 @@ as the creature enters the target’s fighting space and threatened area.
 Also, creatures with 0-foot reach do not threaten the squares around
 them.
 
-Special Qualities (SQ)
+## Special Qualities (SQ)
 
 Many creatures have unusual abilities. A special quality can be
 extraordinary (Ex), spell-like (Sp), or supernatural (Su).
@@ -289,20 +288,20 @@ be usable at will, just like spell-like abilities. However, supernatural
 abilities do not provoke attacks of opportunity and never require
 Concentration checks.
 
-Allegiances (AL)
+## Allegiances (AL)
 
 This entry lists the creature’s most likely allegiances, in order from
 most important to least important. Fantastic creatures often have
 allegiances to a moral or ethical philosophy as well as allegiances to
 masters, groups, organizations, owners, or creators.
 
-Saves (SV)
+## Saves (SV)
 
 A creature’s Fortitude, Reflex, and Will saving throw modifiers take
 into account the creature’s type, ability score modifiers, feats, and
 any special qualities.
 
-Action Points (AP)
+## Action Points (AP)
 
 Creatures have no action points. However, creatures can gain action
 points by taking levels in a heroic character class. Every time a
@@ -315,7 +314,7 @@ action points in the course of their “heroic” careers.
 Assume that a creature has a number of action points remaining equal to
 one-half of its heroic class levels.
 
-Reputation (Rep)
+## Reputation (Rep)
 
 A creature has a Reputation bonus of +0 but may increase the bonus by
 taking levels in a character class.
@@ -401,10 +400,10 @@ The creature is adept at using all its natural weapons at once.
 
 **Prerequisite:** Three or more natural weapons.
 
-**Benefit: **The creature’s secondary attacks with natural weapons take
+**Benefit:** The creature’s secondary attacks with natural weapons take
 only a –2 penalty.
 
-**Normal: **Without this feat, the creature’s secondary natural attacks
+**Normal:** Without this feat, the creature’s secondary natural attacks
 take a –5 penalty.
 
 ## Advancement
@@ -418,7 +417,7 @@ class.
 
 As a creature gains Hit Dice, many of its game statistics change.
 
-**Size: **Adding Hit Dice to a creature can also increase its size. An
+**Size:** Adding Hit Dice to a creature can also increase its size. An
 increase in size affects a creature’s Defense, attack rolls, and grapple
 checks, as shown on Table: Creature Sizes, as well as physical ability
 scores and damage, as shown in the descriptions of the creature types.
@@ -438,13 +437,13 @@ a creature’s attack bonus.
 **Grapple Modifier:** An increase in size affects a creature’s grapple
 modifier, as shown on Table: Creature Sizes.
 
-Damage: An increase in size also increases the amount of damage a
+**Damage:** An increase in size also increases the amount of damage a
 creature deals with its natural weapons.
 
 **Saving Throws:** Table: Creature Saves and Base At­tack Bonuses shows
 how a creature’s saving throw bonuses improve as it gains Hit Dice.
 
-**Ability Scores: **An increase in size affects a creature’s Strength,
+**Ability Scores:** An increase in size affects a creature’s Strength,
 Dexterity, and Constitution, as shown on Table: Adjustments to Physical
 Abilities and Natural Armor.
 
@@ -452,301 +451,41 @@ Abilities and Natural Armor.
 Creature Type, a creature may gain additional skill points and feats
 depending on its type.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Table: Adjustments to Physical Abilities and Natural
-Armor</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Old Size<sup> 1</sup></strong></p></td>
-<td><p><strong>New Size</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Natural Armor Improvement</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Fine</p></td>
-<td><p>Diminutive</p></td>
-<td><p>—</p></td>
-<td><p>–2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Diminutive</p></td>
-<td><p>Tiny</p></td>
-<td><p>+2</p></td>
-<td><p>–2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Tiny</p></td>
-<td><p>Small</p></td>
-<td><p>+4</p></td>
-<td><p>–2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>Small</p></td>
-<td><p>Medium-size</p></td>
-<td><p>+4</p></td>
-<td><p>–2</p></td>
-<td><p>+2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>Medium-size</p></td>
-<td><p>Large</p></td>
-<td><p>+8</p></td>
-<td><p>–2</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-</tr>
-<tr class="odd">
-<td><p>Large</p></td>
-<td><p>Huge</p></td>
-<td><p>+8</p></td>
-<td><p>–2</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-</tr>
-<tr class="even">
-<td><p>Huge</p></td>
-<td><p>Gargantuan</p></td>
-<td><p>+8</p></td>
-<td><p>—</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gargantuan</p></td>
-<td><p>Colossal</p></td>
-<td><p>+8</p></td>
-<td><p>—</p></td>
-<td><p>+4</p></td>
-<td><p>+5</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1<sup> </sup>Repeat the adjustment if the creature moves up more
-than one size category.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Table: Bonus Skill Points and Feats by Creature Type</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p><strong>Bonus Skill Points</strong></p></td>
-<td><p><strong>Bonus Feats</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aberration</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Animal</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Construct</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Dragon</p></td>
-<td><p>6 + Int modifier per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Elemental</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fey</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Giant</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Humanoid</p></td>
-<td><p>+1 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Magical beast</p></td>
-<td><p>+1 per extra HD<sup> </sup><strong><sup>1</sup></strong></p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Monstrous humanoid</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ooze</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Outsider</p></td>
-<td><p>8 + Int modifier per 4 extra HD</p></td>
-<td><p>+1 per extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Plant</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Undead</p></td>
-<td><p>+2 per extra HD</p></td>
-<td><p>+1 per 4 extra HD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Vermin</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1<sup> </sup>Magical beasts with an Intelligence of 1 or 2 gain
-no bonus skills as they advance.</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+Table: Adjustments to Physical Abilities and Natural Armor
+|Old Size 1|New Size|Str|Dex|Con|Natural Armor Improvement|
+|---|---|---|---|---|---|
+|Fine|Diminutive|—|–2|—|—|
+|Diminutive|Tiny|+2|–2|—|—|
+|Tiny|Small|+4|–2|—|—|
+|Small|Medium-size|+4|–2|+2|—|
+|Medium-size|Large|+8|–2|+4|+2|
+|Large|Huge|+8|–2|+4|+3|
+|Huge|Gargantuan|+8|—|+4|+4|
+|Gargantuan|Colossal|+8|—|+4|+5|
+
+1 Repeat the adjustment if the creature moves up more than one size category.
+
+
+Table: Bonus Skill Points and Feats by Creature Type
+|Type|Bonus Skill Points|Bonus Feats|
+|---|---|---|
+|Aberration|+2 per extra HD|+1 per 4 extra HD|
+|Animal|—|—|
+|Construct|—|—|
+|Dragon|6 + Int modifier per extra HD|+1 per 4 extra HD|
+|Elemental|+2 per extra HD|+1 per 4 extra HD|
+|Fey|+2 per extra HD|+1 per 4 extra HD|
+|Giant|+2 per extra HD|+1 per 4 extra HD|
+|Humanoid|+1 per extra HD|+1 per 4 extra HD|
+|Magical beast|+1 per extra HD 1|+1 per 4 extra HD|
+|Monstrous humanoid|+2 per extra HD|+1 per 4 extra HD|
+|Ooze|—|—|
+|Outsider|8 + Int modifier per 4 extra HD|+1 per extra HD|
+|Plant|—|—|
+|Undead|+2 per extra HD|+1 per 4 extra HD|
+|Vermin|—|—|
+
+1 Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.
 
 ## Acquiring a Character Class
 
@@ -757,7 +496,7 @@ or fewer Hit Dice count only their character class levels.
 
 **Size:** Adding character classes to a creature never affects its size.
 
-**Skills: **Creatures that take levels of a character class do not gain
+**Skills:** Creatures that take levels of a character class do not gain
 as many skill points as a human character of the same class. Creatures
 get 4 fewer skill points at 1st level than a human character and 1 fewer
 skill point each level thereafter; see Table: Skill Points per Class
@@ -772,153 +511,36 @@ bonus feat at 1st level instead of two.
 Creatures that advance by character class gain special talents and
 abilities, which are noted here.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h4>Table: Skill Points per Class Level for Nonhumans</h4></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Basic Class</strong></p></td>
-<td><p><strong>Skill Points per Level<sup> 1</sup></strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Strong</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fast</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Tough</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Smart</p></td>
-<td><p>8 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Dedicated</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Charismatic</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h4>Advanced Class</h4></td>
-<td><h4>Skill Points per Level</h4></td>
-</tr>
-<tr class="even">
-<td><p>Soldier</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Martial Artist</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Gunslinger</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Infiltrator</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Daredevil</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Bodyguard</p></td>
-<td><p>2 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Field Scientist</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Techie</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Field Medic</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Investigator</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Personality</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Negotiator</p></td>
-<td><p>4 + Int modifier</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><h4>Campaign-Specific Advanced Class</h4></td>
-<td><h4>Skill Points per Level</h4></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Mage</p></td>
-<td><p>6 + Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Acolyte</p></td>
-<td><p>4+ Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Shadow Slayer</p></td>
-<td><p>2+ Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Occultist</p></td>
-<td><p>4+ Int modifier</p></td>
-</tr>
-<tr class="even">
-<td><p>Telepath</p></td>
-<td><p>4+ Int modifier</p></td>
-</tr>
-<tr class="odd">
-<td><p>Battle Mind</p></td>
-<td><p>2+ Int modifier</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1<sup> </sup>Humanoids with 1 or fewer Hit Dice advance as human
+Table: Skill Points per Class Level for Nonhumans
+|Basic Class|Skill Points per Level 1|
+|---|---|
+|Strong|2 + Int modifier|
+|Fast|4 + Int modifier|
+|Tough|2 + Int modifier|
+|Smart|8 + Int modifier|
+|Dedicated|4 + Int modifier|
+|Charismatic|6 + Int modifier|
+|Advanced Class|Skill Points per Level|
+|Soldier|4 + Int modifier|
+|Martial Artist|2 + Int modifier|
+|Gunslinger|4 + Int modifier|
+|Infiltrator|6 + Int modifier|
+|Daredevil|4 + Int modifier|
+|Bodyguard|2 + Int modifier|
+|Field Scientist|6 + Int modifier|
+|Techie|6 + Int modifier|
+|Field Medic|4 + Int modifier|
+|Investigator|4 + Int modifier|
+|Personality|4 + Int modifier|
+|Negotiator|4 + Int modifier|
+|Campaign-Specific Advanced Class|Skill Points per Level|
+|Mage|6 + Int modifier|
+|Acolyte|4+ Int modifier|
+|Shadow Slayer|2+ Int modifier|
+|Occultist|4+ Int modifier|
+|Telepath|4+ Int modifier|
+|Battle Mind|2+ Int modifier|
+
+1 Humanoids with 1 or fewer Hit Dice advance as human
 characters do. At 1st level, multiply the number of skill points per
-level by 4.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+level by 4.

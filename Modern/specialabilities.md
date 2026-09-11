@@ -4,7 +4,7 @@
 **Ability Score Reduction (Su):** Some attacks reduce an opponent’s
 score in one or more abilities. This loss can be permanent or temporary
 
-**Permanent Ability Drain: **This effect permanently reduces a living
+**Permanent Ability Drain:** This effect permanently reduces a living
 opponent’s ability score when the creature hits with a melee attack. The
 creature’s descriptive text gives the ability and the amount drained. If
 an attack that causes permanent ability drain scores a critical hit, it
@@ -139,7 +139,7 @@ chance to not need to make a saving throw against the gaze attack. The
 creature with the gaze attack, however, gains one-half concealment
 against that opponent.
 
-**Barrier to Sight: **An opponent that cannot see the creature at all
+**Barrier to Sight:** An opponent that cannot see the creature at all
 cannot be affected by its gaze attack. This can be accomplished by
 turning one’s back on the creature, shutting one’s eyes, or wearing a
 blindfold or head covering that prevents sight. The creature with the
@@ -203,7 +203,7 @@ manifester must make a level check (1d20 + manifester’s level). If the
 result equals or exceeds the creature’s power resistance, the power
 works normally, although the creature is still allowed a saving throw.
 
-**Psionics (Sp): **Psionics refers to abilities the creature generates
+**Psionics (Sp):** Psionics refers to abilities the creature generates
 with the power of its mind. Most psionic abilities can be used at will
 and have no use limit.
 
@@ -261,14 +261,14 @@ each hour that the trail is cold, the DC increases by 2. The ability
 otherwise follows the rules for the Track feat. Creatures tracking by
 scent ignore the effects of surface conditions and poor visibility.
 
-**Spell Resistance (Ex): **A creature with spell resistance can avoid
+**Spell Resistance (Ex):** A creature with spell resistance can avoid
 the effects of spells and spell-like abilities that directly affect it.
 To determine whether a spell or spell-like ability works, the
 spellcaster must make a level check (1d20 + caster level). If the result
 equals or exceeds the creature’s spell resistance, the spell works
 normally, although the creature is still allowed a saving throw.
 
-**Spells (Sp): **Some creatures can cast arcane spells or divine spells
+**Spells (Sp):** Some creatures can cast arcane spells or divine spells
 (and can activate magic items accordingly). These creatures are subject
 to the same spellcasting rules as characters.
 
@@ -292,7 +292,7 @@ the grapple. If the swallowed opponent chooses the latter course,
 success puts it back in the creature’s mouth, where it may be bitten or
 swallowed again.
 
-**Trample (Ex): **As an attack action during its turn each round, the
+**Trample (Ex):** As an attack action during its turn each round, the
 creature can run over an opponent at least one size category smaller
 than itself, entering the opponent’s fighting space to do so. The
 trample deals bludgeoning damage, and the creature’s descriptive text

@@ -533,7 +533,7 @@ slick object) can double these numbers, and bad circumstances (broken
 ground, pushing an object that snags) can reduce them to one-half or
 less.
 
-**Bigger and Smaller Creatures: **The figures on Table: Carrying
+**Bigger and Smaller Creatures:** The figures on Table: Carrying
 Capacity are for Medium-size bipedal creatures. Larger bipedal creatures
 can carry more weight depending on size category: Large x2, Huge x4,
 Gargantuan x8, and Colossal x16. Smaller creatures can carry less weight
@@ -545,7 +545,7 @@ Use these multipliers instead of the ones given above: Fine x1/4,
 Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge
 x6, Gargantuan x12, and Colossal x24.
 
-**Tremendous Strength: **For Strength scores not listed, find the
+**Tremendous Strength:** For Strength scores not listed, find the
 Strength score between 20 and 29 that has the same ones digit as the
 creature’s Strength score. Multiply the figures by 4 if the creature’s
 Strength is in the 30s, 16 if it’s in the 40s, 64 if it’s in the 50s,

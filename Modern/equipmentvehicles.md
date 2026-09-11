@@ -10,13 +10,13 @@ Vehicles.
 needed to drive the vehicle; other crew members serve as gunners or
 copilots.
 
-**Passengers: **The number of passengers (in addition to the crew) the
+**Passengers:** The number of passengers (in addition to the crew) the
 vehicle is designed to carry. Vehicles that carry passengers can use
 that space to carry additional cargo when passengers aren’t present.
 Each unused passenger slot allows the vehicle to carry an additional 100
 pounds of cargo.
 
-**Cargo Capacity: **The amount of cargo the vehicle is designed to
+**Cargo Capacity:** The amount of cargo the vehicle is designed to
 carry. Many vehicles can carry extra passengers instead of cargo, but
 doing so is usually a cramped, uncomfortable, and often unsafe
 experience for those passengers. As a rule of thumb, one additional
@@ -25,24 +25,24 @@ passenger can be carried for each 250 pounds of unused cargo capacity.
 **Initiative:** The modifier added to the driver’s or pilot’s initiative
 check when operating the vehicle.
 
-**Maneuver: **The modifier added to any Drive or Pilot checks attempted
+**Maneuver:** The modifier added to any Drive or Pilot checks attempted
 with the vehicle.
 
-**Top Speed: **The maximum number of squares the vehicle can cover in 1
+**Top Speed:** The maximum number of squares the vehicle can cover in 1
 round at character scale (with the number of squares at chase scale in
 parentheses). This is the fastest the vehicle can move.
 
-**Defense: **The vehicle’s Defense.
+**Defense:** The vehicle’s Defense.
 
 **Hardness:** The vehicle’s hardness. Subtract this number from any
 damage dealt to the vehicle.
 
-**Hit Points: **The vehicle’s full normal hit points.
+**Hit Points:** The vehicle’s full normal hit points.
 
-**Size: **Vehicle size categories are defined differently from the size
+**Size:** Vehicle size categories are defined differently from the size
 categories for weapons and other objects.
 
-**Purchase DC: **This is the purchase DC for a Wealth check to acquire
+**Purchase DC:** This is the purchase DC for a Wealth check to acquire
 the vehicle. This number reflects the base price and doesn’t include any
 modifier for purchasing the vehicle on the black market.
 

@@ -25,7 +25,7 @@ Table: Ranged Weapons.
 
 **Damage:** The damage the weapon deals on a successful hit.
 
-**Critical: **The threat range for a critical hit. If the threat is
+**Critical:** The threat range for a critical hit. If the threat is
 confirmed, a weapon deals double damage on a critical hit (roll damage
 twice, as if hitting the target two times).
 
@@ -1641,13 +1641,13 @@ launcher is necessary to avoid the –4 nonproficient penalty.
 Explosives and splash weapons are described by a number of statistics,
 as shown on Table: Explosives and Splash Weapons.
 
-**Damage/Direct Hit Damage: **The primary damage dealt by the weapon.
+**Damage/Direct Hit Damage:** The primary damage dealt by the weapon.
 For explosives, the Damage column shows the damage dealt to all
 creatures within the explosive’s burst radius. For splash weapons, the
 Direct Hit Damage column is used for a target directly struck by the
 weapon.
 
-**Burst Radius/Splash Damage: **For explosives, the burst radius is the
+**Burst Radius/Splash Damage:** For explosives, the burst radius is the
 area affected by the explosive. All creatures or objects within the
 burst radius take damage from the explosive.
 
@@ -1667,11 +1667,11 @@ twice, as if hitting the target two times).
 explosive may make a Reflex save against the DC given in this column for
 half damage.
 
-**Range Increment: **If the weapon can be thrown, its range increment is
+**Range Increment:** If the weapon can be thrown, its range increment is
 shown in this column. Explosives with no range increment must be set in
 place before being detonated. (See the Demolitions skill)
 
-**Size: **Size categories for weapons and other objects are defined
+**Size:** Size categories for weapons and other objects are defined
 differently from the size categories for creatures. The relationship
 between a weapon’s size and that of its wielder defines whether it can
 be used one-handed, if it requires two hands, and if it’s a light
@@ -1683,13 +1683,13 @@ A Small or smaller weapon is considered a light weapon. It can be used
 one-handed and, as a light weapon, is easier to use in a character’s off
 hand.
 
-**Weight: **This column gives the weapon’s weight.
+**Weight:** This column gives the weapon’s weight.
 
-**Purchase DC: **This is the purchase DC for a Wealth check to acquire
+**Purchase DC:** This is the purchase DC for a Wealth check to acquire
 the weapon. This number reflects the base price and doesn’t include any
 modifier for purchasing the weapon on the black market.
 
-**Restriction: **The restriction rating for the weapon, if any, and the
+**Restriction:** The restriction rating for the weapon, if any, and the
 appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 weapon on the black market.
@@ -2262,7 +2262,7 @@ Table: Melee Weapons.
 
 **Damage:** The damage the weapon deals on a successful hit.
 
-**Critical: **The threat range for a critical hit. If the threat is
+**Critical:** The threat range for a critical hit. If the threat is
 confirmed, a weapon deals double damage on a critical hit (roll damage
 twice, as if hitting the target two times).
 
@@ -2272,7 +2272,7 @@ specific type), piercing (weapons with a sharp point), and slashing
 (weapons with an edged blade). Some creatures or characters may be
 resistant or immune to some forms of damage.
 
-**Range Increment: **Melee weapons that are designed to be thrown can be
+**Range Increment:** Melee weapons that are designed to be thrown can be
 used to make ranged attacks. As such, they have a range increment just
 as other ranged weapons do—but the maximum range for a thrown weapon is
 five range increments instead of ten.
@@ -2281,7 +2281,7 @@ Any attack at less than the given range increment is not penalized for
 range. However, each full range increment causes a cumulative –2 penalty
 on the attack roll.
 
-**Size: **Size categories for weapons and other objects are defined
+**Size:** Size categories for weapons and other objects are defined
 differently from the size categories for creatures. The relationship
 between a weapon’s size and that of its wielder defines whether it can
 be used one-handed, if it requires two hands, and if it’s a light
@@ -2294,9 +2294,9 @@ A Small or smaller weapon is considered a light weapon. It can be used
 one-handed and, as a light weapon, is easier to use in a character’s off
 hand.
 
-**Weight: **This column gives the weapon’s weight.
+**Weight:** This column gives the weapon’s weight.
 
-**Purchase DC: **This is the purchase DC for a Wealth check to acquire
+**Purchase DC:** This is the purchase DC for a Wealth check to acquire
 the weapon.
 
 **Restriction:** None of the following melee weapons have restrictions
@@ -2695,32 +2695,32 @@ situations, tactical armor often has pockets, clips, and velcro
 attachment points for carrying weapons, grenades, ammunition,
 flashlights, first aid kits, and other items.
 
-**Equipment Bonus: **The protective value of the armor. This bonus adds
+**Equipment Bonus:** The protective value of the armor. This bonus adds
 to the wearer’s Defense.
 
-**Nonproficient Bonus: **The maximum amount of the armor’s equipment
+**Nonproficient Bonus:** The maximum amount of the armor’s equipment
 bonus that can be applied to the wearer’s Defense if the wearer is using
 armor with which he or she isn’t proficient (doesn’t have the
 appropriate feat).
 
-**Maximum Dex Bonus: **This number is the maximum Dexterity bonus to
+**Maximum Dex Bonus:** This number is the maximum Dexterity bonus to
 Defense that this type of armor allows. Heavier armor limits mobility,
 reducing a character’s ability to avoid attacks.
 
 Even if A character’s Dexterity bonus drops to +0 because of armor, the
 character are not considered to have lost his or her Dexterity bonus.
 
-**Armor Penalty: **The heavier or bulkier the armor, the more it affects
+**Armor Penalty:** The heavier or bulkier the armor, the more it affects
 certain skills. This penalty applies to checks involving the following
 skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and
 Tumble.
 
-**Speed (30 ft.): **Medium and heavy armor slows a character down. The
+**Speed (30 ft.):** Medium and heavy armor slows a character down. The
 number in this column is the character’s speed while in armor, assuming
 his or her base speed is 30 feet (the normal speed for most human
 beings).
 
-**Weight: **This column gives the armor’s weight.
+**Weight:** This column gives the armor’s weight.
 
 **Purchase DC:** This is the purchase DC for a Wealth check to acquire
 the armor. This number reflects the base price and doesn’t include any

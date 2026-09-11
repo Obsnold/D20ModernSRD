@@ -66,14 +66,14 @@ living creature (referred to hereafter as the “base creature”). The
 creature retains its original type. It uses the base creature’s
 statistics and special abilities except as noted here.
 
-**Challenge Rating: **Same as base creature, with modifiers as noted
+**Challenge Rating:** Same as base creature, with modifiers as noted
 under Special Qualities, below. If the total CR modifier is a fraction,
 round up or down to the nearest whole number; for example, an
 extraterrestrial that gains a breath weapon (+2/3 CR), improved natural
 armor (+1/3 CR), and power resistance (+1/3 CR) has a total CR modifier
 of +1.
 
-**Speed: **The extraterrestrial can replace one of the base creature’s
+**Speed:** The extraterrestrial can replace one of the base creature’s
 modes of movement for another, gaining the ability to burrow, climb,
 fly, or swim.
 
@@ -89,7 +89,7 @@ its base land speed (poor maneuverability).
 *Swim: *The extraterrestrial can swim at a speed equal to its base land
 speed. It also gains a +8 species bonus on Swim checks.
 
-**Special Qualities: **An extraterrestrial retains all the special
+**Special Qualities:** An extraterrestrial retains all the special
 qualities of the base creature. It may also gain one or more special
 qualities, chosen from the following list:
 
@@ -232,7 +232,7 @@ ability increases the creature’s CR by +1/3.
 
 *Scent (Ex): *This ability increases the creature’s CR by +1/3.
 
-**Feats: **An extraterrestrial may replace one of the base creature’s
+**Feats:** An extraterrestrial may replace one of the base creature’s
 feats with the Planetary Adaptation feat. If the base creature has no
 feats, it does not gain Planetary Adaptation as a bonus feat.
 
@@ -255,13 +255,13 @@ creature (referred to hereafter as the “base creature”). The creature
 retains its original type. It uses the base creature’s statistics and
 special abilities except as noted here.
 
-**Challenge Rating: **Same as base creature +1.
+**Challenge Rating:** Same as base creature +1.
 
-**Speed: **In space and other zero-gravity environments, a space
+**Speed:** In space and other zero-gravity environments, a space
 creature gains a fly speed equal to its base speed (perfect
 maneuverability).
 
-**Special Qualities: **A space creature retains all the special
+**Special Qualities:** A space creature retains all the special
 qualities of the base creature. I t also gains the following special
 qualities:
 
@@ -279,7 +279,7 @@ on saves to resist any kind of radiation poisoning.
 or doesn’t need to breathe at all. It can exist in zero-atmosphere
 environments.
 
-**Ability Modifiers: **Apply the following modifiers to a space
+**Ability Modifiers:** Apply the following modifiers to a space
 creature’s ability scores: –2 Str, +2 Con.
 
-**Bonus Feats: **A space creature gains the bonus feat Zero-G Training.
+**Bonus Feats:** A space creature gains the bonus feat Zero-G Training.

@@ -14,7 +14,7 @@ knowledge is his province.
 To qualify to become an Arcane Arranger, a character must fulfill the
 following criteria.
 
-**Skills: **Diplomacy 6 ranks, Gather Information 6 ranks, any Knowledge
+**Skills:** Diplomacy 6 ranks, Gather Information 6 ranks, any Knowledge
 (arcane law, business, current events, popular culture, or streetwise) 6
 ranks.
 
@@ -43,7 +43,7 @@ current events, popular culture, streetwise) (Int), Listen (Wis),
 Profession (Wis), Read/Write Language (none), Repair (Int), Research
 (Int), Sense Motive (Wis), Speak Language (none).
 
-**Skill Points at Each Level: **7 + Intelligence modifier.
+**Skill Points at Each Level:** 7 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -328,11 +328,11 @@ crossbows.
 To qualify to become an Archaic Weaponsmaster, a character must fulfill
 the following criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
-**Skills: **Knowledge (history) 4 ranks.
+**Skills:** Knowledge (history) 4 ranks.
 
-**Feats: **Archaic Weapon Proficiency, Weapon Focus with an archaic
+**Feats:** Archaic Weapon Proficiency, Weapon Focus with an archaic
 weapon.
 
 **Class Information**
@@ -358,7 +358,7 @@ Craft (mechanical, structural, visual art, writing) (Int), Handle Animal
 (Cha), Jump (Str), Knowledge (art, history, theology and philosophy),
 Profession (Wis), Research (Int), Ride (Dex), and Swim (Str).
 
-**Skill Points at Each Level: **3 + Intelligence modifier.
+**Skill Points at Each Level:** 3 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -606,7 +606,7 @@ possible.
 To qualify to become a Glamourist, a character must fulfill the
 following criteria.
 
-**Skills: **Bluff 6 ranks, Sense Motive 6 ranks.
+**Skills:** Bluff 6 ranks, Sense Motive 6 ranks.
 
 ## Class Information
 
@@ -633,7 +633,7 @@ streetwise) (Int), Listen (Wis), Perform (act, sing) (Cha), Profession
 (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language
 (none), Spot (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -874,10 +874,10 @@ necessary to ensure the ability to cast spells.
 To qualify to become an Mystic, a character must fulfill the following
 criteria.
 
-**Skills: **Diplomacy 6 ranks, Knowledge (theology and philosophy) 6
+**Skills:** Diplomacy 6 ranks, Knowledge (theology and philosophy) 6
 ranks, Listen 6 ranks.
 
-**Allegiance: **At the time that the character receives her first level
+**Allegiance:** At the time that the character receives her first level
 in the Mystic advanced class, she must select an allegiance to afaith,
 concept, tradition or alignment. The Mystic may choose positive (good)
 or negative (evil) energy as an allegiance, but is not required to.
@@ -907,7 +907,7 @@ stand-up) (Cha), Profession (Wis), Read/Write Language (none), Sense
 Motive (Wis), Sleight of Hand (Dex), Speak Language (none), Spellcraft
 (Int), Spot (Wis), Treat Injury (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 |                       |                       |               |              |               |                               |                   |                      |
 |-----------------------|-----------------------|---------------|--------------|---------------|-------------------------------|-------------------|----------------------|
@@ -969,7 +969,7 @@ her daily allotment of spells. Time spent resting has no effect on the
 Mystic’s spell preparation. In addition, the Mystic receives bonus
 spells based on her Wisdom score, as shown on the chart below.
 
-**Spell List: **Mystics use the same spell list as Acolytes except that
+**Spell List:** Mystics use the same spell list as Acolytes except that
 Mystics may not use the spells listed below.
 
 0-level: *Cure minor wounds, inflict minor wounds*
@@ -1492,12 +1492,12 @@ basic class, though other paths are possible.
 To qualify to become a Shadow Hunter, a character must fulfill the
 following criteria. High Strength and Charisma scores are also useful.
 
-**Base Attack Bonus: **+2
+**Base Attack Bonus:** +2
 
-**Skills: **Investigate 6 ranks, Sense Motive 6 ranks, Knowledge (arcane
+**Skills:** Investigate 6 ranks, Sense Motive 6 ranks, Knowledge (arcane
 lore) 3 ranks.
 
-**Feats: **Track, and Personal Firearms Proficiency or Archaic Weapons
+**Feats:** Track, and Personal Firearms Proficiency or Archaic Weapons
 Proficiency.
 
 **Class Information**
@@ -1524,7 +1524,7 @@ Knowledge (arcane lore, current events, popular cultures, streetwise)
 Research (Int), Search (Int), Sense Motive (Wis), Speak Language (none),
 Spot (Wis), Survival (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 |                             |                       |               |              |               |                           |                   |                      |
 |-----------------------------|-----------------------|---------------|--------------|---------------|---------------------------|-------------------|----------------------|
@@ -1640,7 +1640,7 @@ class, though other paths are possible.
 To qualify to become a Shadowjack, a character must fulfill the
 following criteria.
 
-**Skills: **Computer Use 6 ranks, Craft (electronic) 6 ranks, and
+**Skills:** Computer Use 6 ranks, Craft (electronic) 6 ranks, and
 Disable Device 6 ranks.
 
 **Class Information**
@@ -1668,7 +1668,7 @@ popular culture, technology) (Int), Profession (Wis), Read/Write
 Language (none), Repair (Int), Research (Int), Speak Language (none),
 Search (Int).
 
-**Skill Points at Each Level: **7 + Intelligence modifier.
+**Skill Points at Each Level:** 7 + Intelligence modifier.
 
 |                           |                       |               |              |               |                      |                   |                      |
 |---------------------------|-----------------------|---------------|--------------|---------------|----------------------|-------------------|----------------------|
@@ -1818,11 +1818,11 @@ class, though other paths are possible.
 To qualify to become a Speed Demon, a character must fulfill the
 following criteria.
 
-**Skills: **Drive 6 ranks.
+**Skills:** Drive 6 ranks.
 
-**Feats: **Vehicle Expert.
+**Feats:** Vehicle Expert.
 
-**Other: **Base Reflex save +2.
+**Other:** Base Reflex save +2.
 
 **Class Information**
 
@@ -1848,7 +1848,7 @@ technology) (Int), Listen (Wis), Profession (Wis), Navigate (Int), Pilot
 (Dex), Read/Write Language (none), Repair (Int), Speak Language (none),
 Tumble (Dex).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -2014,7 +2014,7 @@ The following features pertain to the Speed Demon advanced class.
 The Speed Demon gains the ability of Uncanny Dodge, or increases the
 potency of this ability if she already has it. If the Speed Demon does
 not have Uncanny Dodge 1 (usually gained as a Fast hero), she gains
-Uncanny Dodge 1**: **She retains her Dexterity bonus to Defense (if any)
+Uncanny Dodge 1**:** She retains her Dexterity bonus to Defense (if any)
 regardless of being caught flat-footed or struck by a hidden attacker.
 (She still loses her Dexterity bonus to Defense if she’s immobilized.)
 If the Speed Demon already has Uncanny Dodge 1, she gains Uncanny Dodge
@@ -2118,13 +2118,13 @@ class, though other paths are possible.
 To qualify to become a Street Warrior, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
-**Skills: **Knowledge (streetwise) 6 ranks.
+**Skills:** Knowledge (streetwise) 6 ranks.
 
-**Feats: **Streetfighting, Brawl.
+**Feats:** Streetfighting, Brawl.
 
-**Other: **Before or upon taking the Street Warrior advanced class, the
+**Other:** Before or upon taking the Street Warrior advanced class, the
 Street Warrior must have an allegiance to some urban area or group. This
 could include a particular neighborhood or organization that would be
 suitable for an urban-oriented character.
@@ -2153,7 +2153,7 @@ Information (Cha), Hide (Dex), Intimidate (Cha), Investigate (Int), Jump
 Silently (Dex), Profession (Wis), Sense Motive (Wis), Spot (Wis),
 Survival (Wis)
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 |                               |                       |               |              |               |                          |                   |                      |
 |-------------------------------|-----------------------|---------------|--------------|---------------|--------------------------|-------------------|----------------------|
@@ -2241,11 +2241,11 @@ class, though other paths are possible.
 To qualify to become a Swashbuckler, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
-**Skills: **Balance 6 ranks, Tumble 6 ranks.
+**Skills:** Balance 6 ranks, Tumble 6 ranks.
 
-**Feats: **Weapon Finesse with any light melee weapon.
+**Feats:** Weapon Finesse with any light melee weapon.
 
 ##### Class Information
 
@@ -2270,7 +2270,7 @@ events, history, popular culture), Listen (Wis), Move Silently (Dex),
 Navigate (Int), Pilot (Dex), Profession (Wis), Sleight of Hand (Dex),
 Swim (Str), Tumble (Dex).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -2518,7 +2518,7 @@ class, though other paths are possible.
 To qualify to become a Techno Mage, a character must fulfill the
 following criteria.
 
-**Skills: **Computer Use 6 ranks, Craft (electronics) 6 ranks, Knowledge
+**Skills:** Computer Use 6 ranks, Craft (electronics) 6 ranks, Knowledge
 (arcane lore) 6 ranks, Repair 6 ranks.
 
 ##### Class Information
@@ -2546,7 +2546,7 @@ events, history, popular culture, streetwise, technology) (Int),
 Read/Write Language (none), Repair (Int), Research (Int), Speak Language
 (none), Spellcraft (Int).
 
-**Skill Points at Each Level: **7 + Intelligence modifier.
+**Skill Points at Each Level:** 7 + Intelligence modifier.
 
 |                            |                       |               |              |               |                                           |                   |                      |
 |----------------------------|-----------------------|---------------|--------------|---------------|-------------------------------------------|-------------------|----------------------|
@@ -2804,11 +2804,11 @@ class, though other paths are possible.
 To qualify to become an Thrasher, a character must fulfill the following
 criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
-**Skills: **Concentration 6 ranks, Survival 6 ranks.
+**Skills:** Concentration 6 ranks, Survival 6 ranks.
 
-**Feats: **Athletic or Endurance.
+**Feats:** Athletic or Endurance.
 
 ##### Class Information
 
@@ -2832,7 +2832,7 @@ Concentration (Con), Drive (Dex), Profession (Wis), Read/Write Languages
 (none), Ride (Dex), Speak Language (none), Spot (Wis), Swim (Str),
 Survival (Wis), Tumble (Dex).
 
-**Skill Points at Each Level: **3 + Intelligence modifier.
+**Skill Points at Each Level:** 3 + Intelligence modifier.
 
 |                         |                       |               |              |               |                        |                   |                      |
 |-------------------------|-----------------------|---------------|--------------|---------------|------------------------|-------------------|----------------------|
@@ -2893,7 +2893,7 @@ The Thrasher gains the ability of Uncanny Dodge, or increases the
 potency of this ability if he already has it.
 
 If the Thrasher does not have Uncanny Dodge 1 (usually gained as a Fast
-hero), he gains Uncanny Dodge 1**: **He retains his Dexterity bonus to
+hero), he gains Uncanny Dodge 1**:** He retains his Dexterity bonus to
 Defense (if any) regardless of being caught flat-footed or struck by a
 hidden attacker. (He still loses his Dexterity bonus to Defense if he’s
 immobilized.)
@@ -2936,9 +2936,9 @@ Strong and Tough hero basic classes, though other paths are possible.
 To qualify to become a Wildlord, a character must fulfill the following
 criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
-**Skills: **Handle Animal 6 ranks, Survival 6 ranks.
+**Skills:** Handle Animal 6 ranks, Survival 6 ranks.
 
 ##### Class Information
 
@@ -2964,7 +2964,7 @@ sciences), Move Silently (Dex), Navigate (Int), Pilot (Dex), Profession
 (Wis), Ride (Dex), Spot (Wis), Survival (Wis), Swim (Str), Treat Injury
 (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 |                         |                       |               |              |               |                                 |                   |                      |
 |-------------------------|-----------------------|---------------|--------------|---------------|---------------------------------|-------------------|----------------------|
@@ -3182,10 +3182,10 @@ Mage advanced classes, though other paths are possible.
 To qualify to become an Archmage, a character must fulfill the following
 criteria.
 
-**Skills: **Spellcraft 12 ranks, Knowledge (arcane lore) 12 ranks,
+**Skills:** Spellcraft 12 ranks, Knowledge (arcane lore) 12 ranks,
 Concentration 12 ranks.
 
-**Special: **Ability to cast arcane spells.
+**Special:** Ability to cast arcane spells.
 
 ##### Class Information
 
@@ -3214,7 +3214,7 @@ theology and philosophy) (Int), Profession (Wis), Read/Write Language
 (none), Repair (Int), Research (Int), Speak Language (none), Spellcraft
 (Int).
 
-**Skill Points at Each Level: **7 + Intelligence modifier.
+**Skill Points at Each Level:** 7 + Intelligence modifier.
 
 |                         |                       |               |              |               |                      |                   |                      |
 |-------------------------|-----------------------|---------------|--------------|---------------|----------------------|-------------------|----------------------|
@@ -3268,11 +3268,11 @@ Mage advanced classes, though other paths are possible.
 To qualify to become an Artificer, a character must fulfill the
 following criteria.
 
-**Skills: **Spellcraft 9 ranks, Knowledge (arcane lore) 9 ranks, and 9
+**Skills:** Spellcraft 9 ranks, Knowledge (arcane lore) 9 ranks, and 9
 ranks in any one Craft skill. The Craft skill will affect the
 Artificer’s ability to use different types of Craft Artifice abilities.
 
-**Other: **Ability to cast 2nd-level arcane spells.
+**Other:** Ability to cast 2nd-level arcane spells.
 
 ##### Class Information
 
@@ -3300,7 +3300,7 @@ sciences, popular culture, technology, or theology and philosophy)
 (Int), Profession (Wis), Read/Write Language (none), Repair (Int),
 Research (Int), Search (Int), Speak Language (none).
 
-**Skill Points at Each Level: **7 + Intelligence modifier.
+**Skill Points at Each Level:** 7 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -3557,10 +3557,10 @@ advanced classes, though other paths are possible.
 To qualify to become an Ecclesiarch, a character must fulfill the
 following criteria.
 
-**Skills: **Spellcraft 10 ranks, Knowledge (theology and philosophy) 10
+**Skills:** Spellcraft 10 ranks, Knowledge (theology and philosophy) 10
 ranks, Concentration 8 ranks.
 
-**Special: **Ability to cast divine spells, ability to turn a particular
+**Special:** Ability to cast divine spells, ability to turn a particular
 creature type.
 
 ##### Class Information
@@ -3589,7 +3589,7 @@ Perform (any), Profession (Wis), Read/Write Language (none), Research
 (Int), Sense Motive (Wis), Speak Language (none), Spellcraft (Int),
 Survival (Wis), Treat Injury (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 <table>
 <tbody>
@@ -3760,14 +3760,14 @@ Archaic Weaponsmaster and Swashbuckler advanced classes.
 To qualify to become a Holy/Unholy Knight, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+8.
+**Base Attack Bonus:** +8.
 
-**Skills: **Diplomacy 9 ranks, Gather Information 9 ranks, Knowledge
+**Skills:** Diplomacy 9 ranks, Gather Information 9 ranks, Knowledge
 (any one) 9 ranks.
 
-**Feats: **Weapon Focus in a melee weapon.
+**Feats:** Weapon Focus in a melee weapon.
 
-**Other: **At the time that the character receives his first level in
+**Other:** At the time that the character receives his first level in
 the Holy/Unholy Knight prestige class, he must decide whether his faith
 leans toward the positive (good) or negative (evil) energy of the
 universe. This choice adds either the good or evil allegiance to the
@@ -3799,7 +3799,7 @@ streetwise, tactics, technology, theology and philosophy) (Int),
 Profession (Wis), Read/Write Language (none), Ride (Dex), Sense Motive
 (Wis), Speak Language (none), Treat Injury (Wis).
 
-**Skill Points at Each Level: **5 + Intelligence modifier.
+**Skill Points at Each Level:** 5 + Intelligence modifier.
 
 <table>
 <tbody>

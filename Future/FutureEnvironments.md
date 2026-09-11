@@ -317,29 +317,29 @@ creatures bounce when they walk. It becomes easier to move and lift
 heavy objects as well as perform Strength-related tasks. In addition,
 creatures take less damage from falling.
 
-**Speed: **A creature’s speed increases by +5 feet in a low-gravity
+**Speed:** A creature’s speed increases by +5 feet in a low-gravity
 environment. This bonus applies to all of the creature’s modes of
 movement.
 
-**Carrying Capacity: **A creature’s normal carrying capacity is doubled
+**Carrying Capacity:** A creature’s normal carrying capacity is doubled
 in a low-gravity environment. In addition, the creature gains a +10
 bonus on any Strength check made to lift or move a heavy unsecured
 object.
 
-**Skill Check Bonuses: **Creatures in a low-gravity environment gain a
+**Skill Check Bonuses:** Creatures in a low-gravity environment gain a
 +10 bonus on Strength-based skill checks (including Climb, Jump, and
 Swim checks).
 
-**Attack Roll Penalty: **Creatures take a –2 penalty on attack rolls in
+**Attack Roll Penalty:** Creatures take a –2 penalty on attack rolls in
 a low-gravity environment unless they are native to that environment or
 have the Zero-G Training feat.
 
-**Damage from Falling: **Creatures do not fall as quickly in a
+**Damage from Falling:** Creatures do not fall as quickly in a
 low-gravity environment as they do in a normal- or high-gravity
 environment. Falling damage is reduced from 1d6 points per 10 feet
 fallen to 1d4 points per 10 feet fallen.
 
-**Long-Term Effects: **Long-term exposure to low-gravity conditions can
+**Long-Term Effects:** Long-term exposure to low-gravity conditions can
 cause serious problems when returning to normal gravity. A creature that
 spends 120 hours or more in a low-gravity environment takes 1d6 points
 of temporary Strength damage upon returning to normal gravity.
@@ -354,28 +354,28 @@ Strength-related tasks. In addition, creatures take more damage from
 falling. Even the simple task of walking or lifting one’s arms feels
 more laborious.
 
-**Speed: **A creature’s speed decreases by –5 feet (to a minimum of 0
+**Speed:** A creature’s speed decreases by –5 feet (to a minimum of 0
 feet) in a high-gravity environment. This penalty applies to all of the
 creature’s modes of movement.
 
-**Carrying Capacity: **A creature’s normal carrying capacity is halved
+**Carrying Capacity:** A creature’s normal carrying capacity is halved
 in a high-gravity environment. In addition, the creature takes a –10
 penalty on any Strength check made to lift or move a heavy unsecured
 object.
 
-**Skill Check Bonuses: **Creatures in a high-gravity environment take a
+**Skill Check Bonuses:** Creatures in a high-gravity environment take a
 –10 penalty on Strength-based skill checks (including Climb, Jump, and
 Swim checks).
 
-**Attack Roll Penalty: **Creatures take a –2 penalty on attack rolls in
+**Attack Roll Penalty:** Creatures take a –2 penalty on attack rolls in
 a high-gravity environment unless they are native to that environment.
 
-**Damage from Falling: **Creatures fall more quickly in a high-gravity
+**Damage from Falling:** Creatures fall more quickly in a high-gravity
 environment than they do in a normal- or low-gravity environment.
 Falling damage is increased from 1d6 points per 10 feet fallen to 1d8
 points per 10 feet fallen.
 
-**Long-Term Effects: **Long-term exposure to high-gravity conditions can
+**Long-Term Effects:** Long-term exposure to high-gravity conditions can
 cause serious problems when returning to normal gravity. A creature that
 spends 120 hours or more in a heavy-gravity environment takes 1d6 points
 of temporary Dexterity damage upon returning to normal gravity.
@@ -392,7 +392,7 @@ penalties on their attack rolls and suffering the effects of Space
 Adaptation Syndrome (space sickness). In addition, creatures in zero
 gravity are easier to bull rush than in other gravity environments.
 
-**Space Adaptation Syndrome: **A creature exposed to weightlessness must
+**Space Adaptation Syndrome:** A creature exposed to weightlessness must
 make a Fortitude save (DC 15) to avoid the effects of space sickness.
 Those who fail the save are shaken, and those who fail the save by 5 or
 more are also nauseated. The effects persist for 8 hours. A new save is
@@ -400,26 +400,26 @@ required every 8 hours the creature remains in a zero-g environment.
 Creatures with the Zero-G Training feat do not suffer the effects of
 space sickness.
 
-**Speed: **While in a zero-gravity environment, a creature gains a fly
+**Speed:** While in a zero-gravity environment, a creature gains a fly
 speed equal to its base land speed, or it retains its natural fly speed
 (whichever is greater). However, movement is limited to straight lines
 only; a creature can change course only by pushing away from larger
 objects (such as bulkheads).
 
-**Carrying Capacity: **A creature’s normal carrying capacity increases
+**Carrying Capacity:** A creature’s normal carrying capacity increases
 by 10 times in a zero-gravity environment. In addition, the creature
 gains a +20 bonus on any Strength check made to lift or move a heavy
 unsecured object.
 
-**Attack Roll Penalty: **Creatures take a –4 penalty on attack rolls and
+**Attack Roll Penalty:** Creatures take a –4 penalty on attack rolls and
 skill checks while operating in a zero-gravity environment unless they
 are native to that environment or have the Zero-G Training feat.
 
-**Modified Bull Rush Rules: **A creature affected by a bull rush is
+**Modified Bull Rush Rules:** A creature affected by a bull rush is
 pushed back 10 feet, plus 10 feet for every 5 points by which its
 opponent’s Strength check result exceeds its own.
 
-**Long-Term Effects: **Long-term exposure to zero-gravity conditions can
+**Long-Term Effects:** Long-term exposure to zero-gravity conditions can
 cause serious problems when returning to normal gravity. A creature that
 spends 120 hours or more in a zero-gravity environment takes 2d6 points
 of temporary Strength damage upon returning to normal gravity.
@@ -647,7 +647,7 @@ to human life. Types of non-main sequence stars include black holes,
 neutron stars, white dwarf stars, black dwarf stars, brown dwarf stars,
 and red supergiants.
 
-**Degree of Ionizing Radiation: **Ionizing radiation—radiation that
+**Degree of Ionizing Radiation:** Ionizing radiation—radiation that
 breaks down atoms within living tissue—is common in space. All stars
 produce and emit harmful levels of ionizing radiation, and a star system
 is considered an “irradiated area” for the purposes of determining
@@ -659,7 +659,7 @@ systems with two or more stars, increase the degree of radiation by one
 grade (lightly becomes moderately, moderately becomes highly, and highly
 becomes severely).
 
-**Number of Planets: **The number of planets in a given star system can
+**Number of Planets:** The number of planets in a given star system can
 be determined by rolling on Table: Star Systems. For systems with
 multiple stars, use the star with the fewest planets allowable to
 determine the number of planets in the system.

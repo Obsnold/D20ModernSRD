@@ -1,46 +1,3 @@
-
-ADVANCED CLASSES
-
-An advanced class represents a focus and a calling for the experienced
-adventurer. It provides a specialization and a range of power and
-ability to give a character that something extra to set him or her
-apart.
-
-Although each advanced class naturally builds from a certain basic
-class, every advanced class is available to all characters who fulfill
-the prerequisites of the class, regardless of what basic classes they
-have gained levels in. The associations between basic classes and
-advanced classes are summarized on the following table.
-
-|                                                                                                                         |                                    |
-|-------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| **Basic Class<sup>1</sup>**                                                                                             | **Advanced Class**                 |
-|                                                                                                                         |                                    |
-| Strong                                                                                                                  | Soldier; Martial Artist            |
-| Fast                                                                                                                    | Gunslinger; Infiltrator            |
-| Tough                                                                                                                   | Daredevil; Bodyguard               |
-| Smart                                                                                                                   | Field Scientist; Techie, Mage      |
-| Dedicated                                                                                                               | Field Medic; Investigator, Acolyte |
-| Charismatic                                                                                                             | Personality; Negotiator            |
-|                                                                                                                         |                                    |
-| 1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path. |                                    |
-|                                                                                                                         |                                    |
-
-The Gamemaster may add advanced classes specifically suited to his or
-her campaign. Conversely, the GM can decide that certain advanced
-classes aren’t available in the campaign. Check with your GM before
-selecting an advanced class.
-
-## Qualifying for an Advanced Class
-
-Advanced classes are like basic classes, except that they have
-requirements that must be met before a character can attain 1st level in
-the class. A character who qualifies can choose an advanced class as an
-additional class as he or she gains levels, using the multiclassing
-rules. Some combination of base attack bonus, feats, and skill ranks
-determines whether a character is eligible to gain a level in an
-advanced class.
-
 ## SOLDIER
 
 ### Requirements
@@ -48,7 +5,7 @@ advanced class.
 To qualify to become a Soldier, a character must fulfill the following
 criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
 **Skill:** Knowledge (tactics) 3 ranks.
 
@@ -311,7 +268,7 @@ confirm the critical hit.
 To qualify to become a Martial Artist, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
 **Skill:** Jump 3 ranks.
 
@@ -445,7 +402,7 @@ streetwise) (Int), Move Silently (Dex), Profession (Wis), Read/Write
 Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language
 (none), Spot (Wis), Survival (Wis), Tumble (Dex).
 
-**Skill Points at Each Level: **5 + Int modifier.
+**Skill Points at Each Level:** 5 + Int modifier.
 
 <table>
 <tbody>
@@ -683,7 +640,7 @@ following criteria.
 
 The following information pertains to the Infiltrator advanced class.
 
-**Hit Die: **1d8
+**Hit Die:** 1d8
 
 **Action Points:** 6 + one-half character level, rounded down, every
 time the infiltrator attains a new level in this class.
@@ -1480,7 +1437,7 @@ a robot is based on the robot’s size.
 Make the Wealth check to purchase and gather the necessary components
 prior to starting construction.
 
-**Construct Frame: **The robot’s body determines its size, shape,
+**Construct Frame:** The robot’s body determines its size, shape,
 locomotion, and hit points. The DC of the Craft (mechanical) check is
 set by the robot’s size and modified by the form of locomotion selected.
 
@@ -1700,7 +1657,7 @@ The following information pertains to the Field Medic advanced class.
 
 **Hit Die:** 1d8
 
-**Action Points: **6 + one-half character level, rounded down, every
+**Action Points:** 6 + one-half character level, rounded down, every
 time the Field Medic attains a new level in this class.
 
 ### Class Skills
@@ -1823,7 +1780,7 @@ streetwise) (Int), Listen (Wis), Profession (Wis), Read/\_Write Language
 (none), Research (Int), Search (Int), Sense Motive (Wis), Speak Language
 (none), Spot (Wis).
 
-**Skill Points at Each Level: **5 + Int modifier.
+**Skill Points at Each Level:** 5 + Int modifier.
 
 |                             |                       |               |              |               |                     |                   |                      |
 |-----------------------------|-----------------------|---------------|--------------|---------------|---------------------|-------------------|----------------------|

@@ -93,7 +93,7 @@ Most magic armor and shields only have enhancement bonuses. Such items
 can also have the special abilities detailed here. Armor or a shield
 with a special ability must have at least a +1 enhancement bonus.
 
-**Acid Resistance: **A suit of armor or a shield with this enchantment
+**Acid Resistance:** A suit of armor or a shield with this enchantment
 normally has a dull gray appearance. The armor absorbs the first 10
 points of acid damage per attack that the wearer would normally take
 (similar to the *resist energy *spell).
@@ -140,7 +140,7 @@ word.
 
 *Purchase DC Modifier: *+1.
 
-**Cold Resistance: **A suit of armor or a shield with this enchantment
+**Cold Resistance:** A suit of armor or a shield with this enchantment
 normally has a bluish, icy hue or is adorned with furs. The armor
 absorbs the first 10 points of cold damage per attack that the wearer
 would normally take (similar to the *resist energy *spell).
@@ -179,7 +179,7 @@ damage reduction of a specific type:
 </tbody>
 </table>
 
-**Electricity Resistance: **A suit of armor or a shield with
+**Electricity Resistance:** A suit of armor or a shield with
 
 this enchantment normally has a bluish hue and often bears a storm or
 lightning motif. The armor absorbs the first 10 points of electrical
@@ -188,14 +188,14 @@ damage per attack that the wearer would normally take (similar to the
 
 *Purchase DC Modifier: *+2.
 
-**Fire Resistance: **A suit of armor or a shield with this enchantment
+**Fire Resistance:** A suit of armor or a shield with this enchantment
 normally has a reddish hue and often is decorated with a draconic motif.
 The armor absorbs the first 10 points of fire damage per attack that the
 wearer would normally take (similar to the *resist energy *spell).
 
 *Purchase DC Modifier: *+2.
 
-**Fortification: **This suit of armor or shield produces a magical force
+**Fortification:** This suit of armor or shield produces a magical force
 that protects vital areas of the wearer more effectively. When a
 critical hit or sneak attack is scored on the wearer, there is a chance
 that the critical hit or sneak attack is negated and damage is instead
@@ -241,7 +241,7 @@ rolled normally:
 </tbody>
 </table>
 
-**Ghost Touch: **This armor or shield seems almost translucent. Both its
+**Ghost Touch:** This armor or shield seems almost translucent. Both its
 enhancement bonus and its armor bonus count against the attacks of
 incorporeal creatures. Further, it can be picked up, moved, and worn by
 incorporeal creatures at any time. Incorporeal creatures gain the armor
@@ -258,7 +258,7 @@ or similar magic reveals the true nature of the armor when disguised.
 
 *Purchase DC Modifier: *+1.
 
-**Shadow **(armor only)**: **This type of armor is jet black and blurs
+**Shadow **(armor only)**:** This type of armor is jet black and blurs
 the wearer whenever she tries to hide, granting a +5 competence bonus on
 Hide checks (essentially a bonus for an extremely favorable condition).
 This bonus does not stack with obscuring or blinding-based Hide check
@@ -280,7 +280,7 @@ normally.)
 
 *Purchase DC Modifier: *+1.
 
-**Sonic Resistance: **A suit of armor or a shield with this enchantment
+**Sonic Resistance:** A suit of armor or a shield with this enchantment
 normally has a glistening appearance. The armor absorbs the first 10
 points of sonic/concussion damage per attack that the wearer would
 normally take (similar to the *resist energy *spell).
@@ -323,7 +323,7 @@ wearer spell resistance while the armor is worn.
 </tbody>
 </table>
 
-**Sponsorship: **This suit of armor or a shield is emblazoned with
+**Sponsorship:** This suit of armor or a shield is emblazoned with
 corporate logos, emblems, and advertisements. The armor gains no special
 benefits but is cheaper to purchase.
 
@@ -413,21 +413,21 @@ Most magic weapons have a +1 or better enhancement bonus. They can also
 have special abilities detailed here. A weapon with a special ability
 must have at least a +1 enchantment bonus.
 
-**Acidic: **Upon command, this weapon drips with acid. The acid does not
+**Acidic:** Upon command, this weapon drips with acid. The acid does not
 harm the hands that hold the weapon. These weapons deal +1d6 points of
 bonus acid damage on a successful hit. Ranged weapons so enchanted
 bestow the energy type upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Bane: **A bane weapon excels at attacking a specific kind of creature
+**Bane:** A bane weapon excels at attacking a specific kind of creature
 (such as black dragons, ogres, or trolls). Against its designated foe,
 its effective enhancement bonus is +2 better than its normal enhancement
 bonus and deals +2d6 points of bonus damage against the foe.
 
 *Purchase DC Modifier: *+2.
 
-**Brilliant **(melee weapons only)**: **A brilliant energy weapon has
+**Brilliant **(melee weapons only)**:** A brilliant energy weapon has
 its significant portion transformed into light, although this does not
 modify the item’s weight. It gives off light as a torch (20-foot
 radius). A brilliant energy weapon ignores nonliving matter. Equipment
@@ -439,7 +439,7 @@ enchanted with this ability.
 
 *Purchase DC Modifier: *+3.
 
-**Chaotic: **This weapon is infused with the power of chaos. It deals
+**Chaotic:** This weapon is infused with the power of chaos. It deals
 +2d6 points of bonus damage against any creature with an allegiance to
 law. It bestows one negative level on any creature with the law
 allegiance attempting to wield it. The negative level remains as long as
@@ -450,7 +450,7 @@ weapons so enchanted bestow the power upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Dancing: **A dancing weapon can be loosed (requiring a move action) to
+**Dancing:** A dancing weapon can be loosed (requiring a move action) to
 attack on its own. It fights for 4 rounds using the base attack bonus of
 the one who loosed it and then drops. It never leaves the side of the
 one who loosed it (never straying more than 5 feet) and fights on even
@@ -460,7 +460,7 @@ dance (attack on its own) again for 4 rounds.
 
 *Purchase DC Modifier: *+3.
 
-**Defending **(melee weapons only)**: **A defending weapon allows the
+**Defending **(melee weapons only)**:** A defending weapon allows the
 wielder to transfer some or all of the weapon’s enhancement bonus to his
 Defense as a special bonus that stacks with all others. As a free
 action, the wielder chooses how to allocate the weapon’s enhancement
@@ -470,17 +470,17 @@ ranged weapons.
 
 *Purchase DC Modifier: *+2.
 
-**Disruption **(melee weapons only)**: **This type of weapons deals +2d6
+**Disruption **(melee weapons only)**:** This type of weapons deals +2d6
 points of damage to undead creatures.
 
 *Purchase DC Modifier: *+1.
 
-**Distance **(ranged weapons only)**: **A weapon of distance doubles its
+**Distance **(ranged weapons only)**:** A weapon of distance doubles its
 range increment.
 
 *Purchase DC Modifier: *+2.
 
-**Energy Blast: **Energy blast weapons come in five types: acid blast,
+**Energy Blast:** Energy blast weapons come in five types: acid blast,
 fiery blast, icy blast, electrical blast, and concussive blast. A burst
 weapon explodes with the appropriate energy type (acid, cold,
 electricity, fire, or sonic/concussion) upon scoring a successful
@@ -500,14 +500,14 @@ Fortitude save (DC 14) or be deafened permanently.
 
 *Purchase DC Modifier: *+2.
 
-**Flaming: **Upon command, this weapon bursts into flame. The flame does
+**Flaming:** Upon command, this weapon bursts into flame. The flame does
 not harm the hands that hold the weapon. These weapons deal +1d6 points
 of bonus fire damage on a successful hit. Ranged weapons so enchanted
 bestow the energy type upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Frost: **Upon command, this weapon is engulfed in a bluish nimbus of
+**Frost:** Upon command, this weapon is engulfed in a bluish nimbus of
 cold energy. The cold does not harm the hands that hold the weapon.
 These weapons deal +1d6 points of bonus cold damage on a successful hit.
 Ranged weapons so enchanted bestow the energy type upon their
@@ -515,14 +515,14 @@ ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Ghost Touch **(melee weapons only)**: **A ghost touch weapon deals
+**Ghost Touch **(melee weapons only)**:** A ghost touch weapon deals
 damage normally against incorporeal creatures, regardless of its bonus.
 Further, it can be picked up and moved by incorporeal creatures at any
 time.
 
 *Purchase DC Modifier: *+1.
 
-**Holy: **This weapon is infused with holy power. It deals +2d6
+**Holy:** This weapon is infused with holy power. It deals +2d6
 
 points of bonus damage against any creature with an allegiance to evil.
 It bestows one negative level on any creature with the evil allegiance
@@ -534,12 +534,12 @@ enchanted bestow the power upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Keen **(slashing weapons only)**: **This enchantment doubles the
+**Keen **(slashing weapons only)**:** This enchantment doubles the
 threat range of a weapon.
 
 *Purchase DC Modifier: *+1.
 
-**Lawful: **This weapon is infused with the power of law. It deals +2d6
+**Lawful:** This weapon is infused with the power of law. It deals +2d6
 points of bonus damage against any creature with an allegiance to chaos.
 It bestows one negative level on any creature with the chaos allegiance
 attempting to wield it. The negative level remains as long as the weapon
@@ -550,25 +550,25 @@ enchanted bestow the power upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Merciful: **The weapon deals +1d6 points of damage, and all damage it
+**Merciful:** The weapon deals +1d6 points of damage, and all damage it
 deals is nonlethal damage. On command, the weapon suppresses this
 ability until commanded to resume it. Ranged weapons so enchanted bestow
 the merciful effect upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Mighty Cleaving **(melee weapons only)**: **This weapon allows a
+**Mighty Cleaving **(melee weapons only)**:** This weapon allows a
 wielder with the Cleave feat to make one additional cleave attempt in a
 round. Only one extra cleave attempt is allowed per round.
 
 *Purchase DC Modifier: *+2.
 
-**Returning **(thrown weapons only)**: **A returning weapon returns to
+**Returning **(thrown weapons only)**:** A returning weapon returns to
 the thrower’s hand at the beginning of his or her next turn.
 
 *Purchase DC Modifier: *+1.
 
-**Shocking: **Upon command, this weapon crackles with lightning. The
+**Shocking:** Upon command, this weapon crackles with lightning. The
 electricity does not harm the hands that hold the weapon. These weapons
 deal +1d6 points of bonus electricity damage on a successful hit. Ranged
 weapons so enchanted bestow the energy type upon their ammunition.
@@ -579,19 +579,19 @@ the short.
 
 *Purchase DC Modifier: *+1.
 
-**Speed: **A weapon of speed allows the wielder one single extra attack
+**Speed:** A weapon of speed allows the wielder one single extra attack
 each round at his highest bonus.
 
 *Purchase DC Modifier: *+3.
 
-**Thundering: **Upon command, this weapon resonates with sonic energy.
+**Thundering:** Upon command, this weapon resonates with sonic energy.
 These weapons deal +1d6 points of bonus sonic/concussion damage on a
 successful hit. Ranged weapons so enchanted bestow the energy type upon
 their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Unholy: **This weapon is infused with unholy power. It deals +2d6
+**Unholy:** This weapon is infused with unholy power. It deals +2d6
 points of bonus damage against any creature with an allegiance to good.
 It bestows one negative level on any creature with the good allegiance
 attempting to wield it. The negative level remains as long as the weapon
@@ -602,7 +602,7 @@ enchanted bestow the power upon their ammunition.
 
 *Purchase DC Modifier: *+1.
 
-**Wounding **(melee weapons only)**: **This weapon deals damage to a
+**Wounding **(melee weapons only)**:** This weapon deals damage to a
 creature such that a wound it inflicts bleeds for 1 point of damage per
 round thereafter in addition to the normal damage the weapon deals.
 Multiple wounds from the weapon result in cumulative bleeding loss. The
@@ -953,7 +953,7 @@ understanding of Shadow are likely to pay the price to unlock the
 Arcanobots actual potential. An ARCANOBOT action figure has the
 following statistics:
 
-**Arcanobot: **CR 1/4; Diminutive construct; HD 1/8d10; hp 1; Mas —;
+**Arcanobot:** CR 1/4; Diminutive construct; HD 1/8d10; hp 1; Mas —;
 Init +3; Spd 10 ft., fly 30 ft. (good); Defense 17, touch 17,
 flat-footed 14 (+3 Dex, +4 size); BAB +0; Grap –16; Atk +0 melee (1d2–4
 nonlethal, unarmed strike) or +3 ranged touch (1d3 sonic/concussion,

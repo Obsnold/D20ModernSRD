@@ -44,11 +44,11 @@ from the base weapon or not at the time of purchase. This gadget may be
 selected multiple times, each time adding a single additional weapon to
 the base model.
 
-**Restrictions: **The character must also purchase the weapon to be
+**Restrictions:** The character must also purchase the weapon to be
 integrated separately from the primary weapon, before the gadget
 modification is made.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 ## Autofire Module
 
@@ -56,9 +56,9 @@ Some firearms and energy weapons are capable of firing in singleshot or
 semiautomatic forms only. The autofire module gadget allows these
 weapons to be fired on autofire.
 
-**Restrictions: **Ranged weapon without autofire only.
+**Restrictions:** Ranged weapon without autofire only.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 ## Autoloader Module
 
@@ -73,10 +73,10 @@ module cannot be transferred from one weapon to another, even those of
 similar types, due to the fact that each autoloader module is keyed to
 the individual weapon for which it was designed.
 
-**Restrictions: **Ranged weapons using box magazines or power packs
+**Restrictions:** Ranged weapons using box magazines or power packs
 only.
 
-**Purchase DC Modifier: **+3.
+**Purchase DC Modifier:** +3.
 
 Booby Trapped
 
@@ -107,9 +107,9 @@ targets the unauthorized user. This trap requires that the weapon make
 use of the alternate weapon gadget (see above) and is typically used to
 trigger an explosive device.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 Collapsible
 
@@ -124,9 +124,9 @@ used. In its disassembled state, a weapon is not easily identified; a
 Knowledge (technology) check (DC 17) is required to identify a collapsed
 weapon for what it really is.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Compact
 
@@ -138,9 +138,9 @@ size smaller than normal, to a minimum size of Diminutive.
 This gadget can only be added to ranged weapons, as most melee weapons
 rely on size and mass to deliver damage.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Expanded Magazine
 
@@ -152,9 +152,9 @@ reduce the frequency with which it must be reloaded. Any weapon with the
 expanded magazine gadget doubles its normal magazine capacity. This
 gadget may only be taken once per weapon.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Genetic Tags
 
@@ -168,9 +168,9 @@ fired from the weapon bears a unique tag that corresponds to the genetic
 code of the person to whom the weapon is assigned, immediately
 identifying the attacker to any forensic analysis.
 
-**Restrictions: **Ranged ballistic weapons only.
+**Restrictions:** Ranged ballistic weapons only.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Integrated Equipment
 
@@ -188,11 +188,11 @@ equipment may be physically separated from the base weapon or not at the
 time of purchase. This gadget may be selected multiple times, each time
 adding a single additional piece of equipment to the base model.
 
-**Restrictions: **The character must also purchase the piece of
+**Restrictions:** The character must also purchase the piece of
 equipment to be integrated separately from the weapon, before the gadget
 modification is made.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Miniaturized
 
@@ -208,9 +208,9 @@ miniaturized universal equipment gadget.
 This gadget can only be added to ranged weapons, as most melee weapons
 rely on size and mass to deliver damage.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+5.
+**Purchase DC Modifier:** +5.
 
 Scope, Rangefinding Laser
 
@@ -227,9 +227,9 @@ equipment bonus on his first attack roll against the target. This allows
 multiple characters with rangefinding laser scope gadgets to triangulate
 the exact position of a target and ensures greater accuracy.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Sensor Baffling
 
@@ -241,9 +241,9 @@ security. Any weapon with the sensor baffling gadget grants a +4 bonus
 on any checks made to conceal the weapon from sensors or other detection
 devices.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Spring-Loaded
 
@@ -255,9 +255,9 @@ with this gadget automatically gains the benefits of the Quick Draw feat
 with this weapon only, even if the weapon is hidden from sight on that
 character’s person.
 
-**Restrictions: **Weapons of size Small or smaller only.
+**Restrictions:** Weapons of size Small or smaller only.
 
-**Purchase DC Modifier: **+2
+**Purchase DC Modifier:** +2
 
 Stun Module
 
@@ -271,9 +271,9 @@ set to stun and successfully hits the target, the target must make a
 Fortitude save (DC determined by cost of the gadget) or be stunned for
 1d4 rounds.
 
-**Restrictions: **Energy weapons only.
+**Restrictions:** Energy weapons only.
 
-**Purchase DC Modifier: **+2 (Fort DC 12); +4 (Fort DC 15); +6 (Fort DC
+**Purchase DC Modifier:** +2 (Fort DC 12); +4 (Fort DC 15); +6 (Fort DC
 18).
 
 Techno-Organic Makeup
@@ -293,9 +293,9 @@ point per hour when damaged. Additionally, weapons with this gadget are
 susceptible to diseases and poisons specifically designed to target
 techno-organic material.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Variable Ammunition
 
@@ -309,9 +309,9 @@ ammunition as a free action.
 This gadget may be selected multiple times, each time adding a single
 additional magazine capacity for a different type of ammunition.
 
-**Restrictions: **Ranged ballistic weapons only.
+**Restrictions:** Ranged ballistic weapons only.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 Variable Charge
 
@@ -328,9 +328,9 @@ the fourth round the weapon must be fired or else it explodes and deals
 the fully charged damage (normal weapon damage, +4 dice) to the user.
 When this occurs, the weapon is completely destroyed.
 
-**Restrictions: **Ranged energy weapons only.
+**Restrictions:** Ranged energy weapons only.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 Voice Recognition System
 
@@ -342,9 +342,9 @@ to reset the weapon to its previous state. Any weapon with the voice
 recognition system gadget will not fire or activate unless the owner (or
 designated group) gives the command word to the weapon.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 ## UNIVERSAL ARMOR GADGETS
 
@@ -375,9 +375,9 @@ sealed helmet, body glove, and emergency air tanks to generate
 
 internal atmosphere.
 
-**Restrictions: **Medium, heavy, or powered armor only.
+**Restrictions:** Medium, heavy, or powered armor only.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 Integrated Equipment
 
@@ -395,12 +395,12 @@ equipment may be physically separated from the base armor or not at the
 time of purchase. This gadget may be selected multiple times, each time
 adding a single additional piece of equipment to the base model.
 
-**Restrictions: **The character must also purchase the piece of
+**Restrictions:** The character must also purchase the piece of
 equipment to be integrated separately from the armor, before the
 
 gadget modification is made.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 Integrated Weapon
 
@@ -417,11 +417,11 @@ physically separated from the base armor or not at the time of purchase.
 This gadget may be selected multiple times, each time adding a single
 additional weapon to the base armor.
 
-**Restrictions: **The character must also purchase the weapon to be
+**Restrictions:** The character must also purchase the weapon to be
 integrated separately from the base armor, before the gadget
 modification is made.
 
-**Purchase DC Modifier: **See text.
+**Purchase DC Modifier:** See text.
 
 Storage Compartment
 
@@ -434,9 +434,9 @@ wearer to carry two items of size Small or smaller in a container built
 into the armor. This gadget may be taken multiple times, each time
 providing another compartment where small items may be carried.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Techno-Organic Makeup
 
@@ -455,9 +455,9 @@ when damaged. Additionally, armor with this gadget is susceptible to
 diseases and poisons specifically designed to target techno-organic
 material.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 Ultralight Composition
 
@@ -472,9 +472,9 @@ for example, an armor with an Armor Check Penalty of –2 and a speed
 limitation of 20 feet now has an Armor Check Penalty of –1 and a speed
 limitation of 25 feet.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 ## UNIVERSAL EQUIPMENT GADGETS
 
@@ -488,9 +488,9 @@ are capable of producing equipment far smaller than its standard
 counterparts. Any piece of equipment that makes use of the compact
 gadget is one size smaller than normal, to a minimum size of Diminutive.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Miniaturized
 
@@ -499,9 +499,9 @@ engineers are capable of producing equipment vastly smaller than normal.
 Any weapon that makes use of the miniaturized gadget is two size
 categories smaller than normal, to a minimum size of Diminutive.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+3.
+**Purchase DC Modifier:** +3.
 
 Multiple Use Item
 
@@ -516,11 +516,11 @@ may be physically separated from the base weapon or not at the time of
 purchase. This gadget may be selected multiple times, each time adding a
 single additional piece of equipment to the base object.
 
-**Restrictions: **The character must also purchase the piece of
+**Restrictions:** The character must also purchase the piece of
 equipment to be integrated separately from the armor, before the gadget
 modification is made.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Paint-On LCD
 
@@ -536,9 +536,9 @@ Additionally, weapons and armor may make use of the paint-on LCD gadget
 at the normal cost, but gain no special benefit from the modification
 other than being able to display data.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 Satellite Datalink
 
@@ -552,10 +552,10 @@ communication device to heads-up display, to connect to a global (or, if
 in place, galactic) satellite network and communicate with computer
 systems in far remote areas.
 
-**Restrictions: **This gadget may only be used with gear containing
+**Restrictions:** This gadget may only be used with gear containing
 computerized communications equipment.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 Storage Compartment
 
@@ -568,9 +568,9 @@ Small or smaller in a container built into the piece of equipment. This
 gadget may be taken multiple times, each time providing another
 compartment where small items may be carried.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 ## PROGRESS LEVEL 5 GEAR
 
@@ -2149,9 +2149,9 @@ locations, allowing the screen to be used for video communication (by
 jacking in an optional earpiece and microphone) or to transmit maps and
 movement orders with visual aides.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+3.
+**Purchase DC Modifier:** +3.
 
 ## FUSION AGE ARMOR
 
@@ -2341,9 +2341,9 @@ through a pair of gloves worn by the user; by issuing commands via a
 specific set of hand signs, the wearer can order the gadget to pick up,
 drop, or manipulate an object once per round as a free action.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 SELF-REPAIRING
 
@@ -2353,9 +2353,9 @@ self-repairing gadget immediately issues commands to a set of nanites
 that move to the problem spot and begin making repairs. The gadget
 repairs 1 point of damage per minute to the armor.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 ## FUSION AGE EQUIPMENT
 
@@ -2919,9 +2919,9 @@ allows the user to directly link any computer sensor to the HUD. As a
 result, any sensor can be used hands-free as a free action, provided
 they are present on the character’s person.
 
-**Restrictions: **Heads-up display only.
+**Restrictions:** Heads-up display only.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 HUD SOFTWARE, TARGETING
 
@@ -2932,10 +2932,10 @@ look at the weapon. The character may fire around corners without
 exposing himself as normal. The software also grants a +1 equipment
 bonus on ranged attacks using the weapon to which it is connected.
 
-**Restrictions: **Heads-up display only, requires weapon with video
+**Restrictions:** Heads-up display only, requires weapon with video
 scope gadget.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 HUD SOFTWARE, VEHICLE LINK
 
@@ -2944,10 +2944,10 @@ allows the onboard computer system of any vehicle to be displayed on the
 HUD. This grants a +1 equipment bonus on all Drive or Pilot checks made
 on a vehicle linked to the device.
 
-**Restrictions: **Heads-up display only, requires vehicle with onboard
+**Restrictions:** Heads-up display only, requires vehicle with onboard
 computer system.
 
-**Purchase DC Modifier: **+2.
+**Purchase DC Modifier:** +2.
 
 SELF-REPAIRING
 
@@ -2958,9 +2958,9 @@ commands to a set of nanites that move to the problem spot and begin
 making repairs. The gadget repairs one point of damage per minute to the
 equipment.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 ##### PROGRESS LEVEL 7 GEAR
 
@@ -3576,9 +3576,9 @@ sound produced within field, reducing weapon firing noise to a mere
 whine of sonic energy discharge. The sound suppressor adds +10 to the DC
 of Listen checks made to hear the weapon firing.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+3.
+**Purchase DC Modifier:** +3.
 
 ## GRAVITY AGE ARMOR
 
@@ -3759,9 +3759,9 @@ This gadget provides the armor’s wearer a bonus on Hide checks. For
 light armor, this bonus is +4; for medium, +6, for heavy, powered, and
 environmentally sealed armor, +10.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 ## GRAVITY AGE EQUIPMENT
 
@@ -4087,10 +4087,10 @@ expended from a particular weapon. Additionally, when a character starts
 to get low on ammunition, a warning flashes on the HUD indicating that a
 reload must occur soon.
 
-**Restrictions: **Heads-up display only, requires a weapon with an
+**Restrictions:** Heads-up display only, requires a weapon with an
 integrated computer.
 
-**Purchase DC Modifier: **+1.
+**Purchase DC Modifier:** +1.
 
 SOUND SUPPRESSOR
 
@@ -4100,9 +4100,9 @@ sonic energy that cancels sound produced within field, reducing all
 noise to a mere whine of sonic energy discharge. The sound suppressor
 adds +10 to the DC of Listen checks made to hear the weapon firing.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+3.
+**Purchase DC Modifier:** +3.
 
 ##### PROGRESS LEVEL 8 GEAR
 
@@ -4719,9 +4719,9 @@ weapon and another one is teleported in instantaneously. Though the
 character never has to reload, he must possess enough magazines or power
 packs to be teleported in or else the gadget does not function.
 
-**Restrictions: **Ranged weapons only.
+**Restrictions:** Ranged weapons only.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 ENERGY AGE ARMOR
 
@@ -4920,9 +4920,9 @@ can be activated to give the wearer the benefits of full gravity in any
 situation. Characters with this gadget are unaffected by low gravity and
 zero-g conditions.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 MORPHIC METAL ALLOY
 
@@ -4934,9 +4934,9 @@ snug fit and increased mobility. An armor with the morphic metal alloy
 gadget reduces its armor check penalty by 1 and increases the maximum
 Dexterity bonus by 1 as well.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+6.
+**Purchase DC Modifier:** +6.
 
 NEG-GRAV BOOSTERS
 
@@ -4948,9 +4948,9 @@ allowing the character to jump to incredible heights. Any armor with
 this gadget grants a +10 bonus on all Jump checks in any situation where
 gravity is a factor. This gadget has no function in zero-g environments.
 
-**Restrictions: **None.
+**Restrictions:** None.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.
 
 ## ENERGY AGE EQUIPMENT
 
@@ -5407,6 +5407,6 @@ identify exactly how many hit points a target has left. Initiating this
 scan requires a full-round action, however, as the target must be kept
 precisely within the sensor’s range for the duration of the scan.
 
-**Restrictions: **Heads-up displays only.
+**Restrictions:** Heads-up displays only.
 
-**Purchase DC Modifier: **+4.
+**Purchase DC Modifier:** +4.

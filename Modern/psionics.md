@@ -123,86 +123,86 @@ Telepath Powers
 
 **0-Level Telepath Powers**
 
-**Burst (Dex): **Speed improves by 10 feet for 1 round.
+**Burst (Dex):** Speed improves by 10 feet for 1 round.
 
-**Daze (Cha): **Target loses next action.
+**Daze (Cha):** Target loses next action.
 
-**Detect Psionics (Wis): **Manifester can detect the presence of psionic
+**Detect Psionics (Wis):** Manifester can detect the presence of psionic
 activity.
 
-**Distract (Cha): **Target’s mind wanders, imparting a –1 penalty on
+**Distract (Cha):** Target’s mind wanders, imparting a –1 penalty on
 certain actions.
 
-**Far Hand (Con): **Minor telekinesis.
+**Far Hand (Con):** Minor telekinesis.
 
-**Finger of Fire (Int): **Deal 1d3 fire damage to target.
+**Finger of Fire (Int):** Deal 1d3 fire damage to target.
 
-**Missive (Cha): **Send a one-way telepathic message.
+**Missive (Cha):** Send a one-way telepathic message.
 
-**Verve (Str): **Gain 1 temporary hit point.
+**Verve (Str):** Gain 1 temporary hit point.
 
 **1st-Level Telepath Powers**
 
-**Attraction (Cha): **Target develops an attraction the manifester
+**Attraction (Cha):** Target develops an attraction the manifester
 specifies.
 
-**Charm Person (Cha): **Makes target manifester’s friend.
+**Charm Person (Cha):** Makes target manifester’s friend.
 
-**Control Object (Con): **Telekinetically animate a small object.
+**Control Object (Con):** Telekinetically animate a small object.
 
-**Lesser Body Adjustment (Str): **Heal 1d8 hp, or gain +1 bonus on next
+**Lesser Body Adjustment (Str):** Heal 1d8 hp, or gain +1 bonus on next
 Fortitude save to resist poison or disease, or heal 1 point of ability
 damage.
 
-**Lesser Mindlink (Cha): **Forge a limited mental bond with target.
+**Lesser Mindlink (Cha):** Forge a limited mental bond with target.
 
-**Object Reading (Wis): **Reveal an object’s past.
+**Object Reading (Wis):** Reveal an object’s past.
 
 **2nd-Level Telepath Powers**
 
-**Brain Lock (Cha): **Target can’t move or take any mental actions.
+**Brain Lock (Cha):** Target can’t move or take any mental actions.
 
-**Clairaudience/Clairvoyance (Wis): **Hear or see at a distance.
+**Clairaudience/Clairvoyance (Wis):** Hear or see at a distance.
 
-**Detect Thoughts (Cha): **Detect target’s surface thoughts.
+**Detect Thoughts (Cha):** Detect target’s surface thoughts.
 
-**Inflict Pain (Cha): **Mental attack deals 3d6 damage to target.
+**Inflict Pain (Cha):** Mental attack deals 3d6 damage to target.
 
-**Levitate (Dex): **Target moves up or down at manifester’s direction.
+**Levitate (Dex):** Target moves up or down at manifester’s direction.
 
-**Sensitivity to Psychic Impressions (Wis): **Reveal an area’s past.
+**Sensitivity to Psychic Impressions (Wis):** Reveal an area’s past.
 
-**Suggestion (Cha): **Compels target to follow suggested action.
+**Suggestion (Cha):** Compels target to follow suggested action.
 
 **3rd-Level Telepath Powers**
 
-**False Sensory Input (Cha): **Falsify one of the target’s senses.
+**False Sensory Input (Cha):** Falsify one of the target’s senses.
 
-**Lesser Domination (Cha): **Forces target to obey manifester’s will.
+**Lesser Domination (Cha):** Forces target to obey manifester’s will.
 
-**Mental Blast (Cha): **Target stunned for 3d4 rounds.
+**Mental Blast (Cha):** Target stunned for 3d4 rounds.
 
-**Mindlink (Cha): **Forge a mental bond with others.
+**Mindlink (Cha):** Forge a mental bond with others.
 
-**Negate Psionics (Con): **Cancels psionic powers and effects.
+**Negate Psionics (Con):** Cancels psionic powers and effects.
 
 **4th-Level Telepath Powers**
 
-**Domination (Cha): **Subject obeys manifester’s will.
+**Domination (Cha):** Subject obeys manifester’s will.
 
-**Forced Mindlink (Cha): **Forge mental bond with unwilling target.
+**Forced Mindlink (Cha):** Forge mental bond with unwilling target.
 
-**Tailor Memory (Cha): **Plant false memory in target.
+**Tailor Memory (Cha):** Plant false memory in target.
 
-**Telekinesis (Con): **Lift or move 25 pounds per level at long range.
+**Telekinesis (Con):** Lift or move 25 pounds per level at long range.
 
 **5th-Level Telepath Powers**
 
-**Mindprobe (Cha): **Discover a target’s secret thoughts.
+**Mindprobe (Cha):** Discover a target’s secret thoughts.
 
-**Power Resistance (Wis): **Target gains power resistance 12.
+**Power Resistance (Wis):** Target gains power resistance 12.
 
-**Sending (Dex): **Deliver short message anywhere instantly.
+**Sending (Dex):** Deliver short message anywhere instantly.
 
 Battle Mind Powers
 
@@ -215,15 +215,15 @@ activity.
 
 **Finger of Fire (Int):** Deal 1d3 fire damage to target.
 
-**Valor (Str): **Gain a +1 morale bonus on saving throws.
+**Valor (Str):** Gain a +1 morale bonus on saving throws.
 
 **Verve (Str):** Gain 1 temporary hit point.
 
 **1st-Level Battle Mind Powers**
 
-**Combat Precognition (Wis): **Gain a +1 insight bonus to Defense.
+**Combat Precognition (Wis):** Gain a +1 insight bonus to Defense.
 
-**Fire Bolt (Int): **Deals 1d6+1 fire damage to target.
+**Fire Bolt (Int):** Deals 1d6+1 fire damage to target.
 
 **Lesser Bioweapon (Str):** Create a staff of bioenergy that deals 1d4
 bludgeoning damage.
@@ -236,15 +236,15 @@ bludgeoning damage.
 
 **Claws of the Bear (Str):** Manifester’s claw attack deals 1d12 damage.
 
-**Combat Focus (Wis): **Gain a +4 insight bonus to initiative.
+**Combat Focus (Wis):** Gain a +4 insight bonus to initiative.
 
-**Combat Prescience (Wis): **Gain a +2 insight bonus on attack rolls.
+**Combat Prescience (Wis):** Gain a +2 insight bonus on attack rolls.
 
 **Concussion (Con):** Mentally pummel target for 3d6 damage.
 
 **Darkvision (Wis):** See in the dark.
 
-**Electric Charge (Int): **Shocking touch deals 2d6 damage to target.
+**Electric Charge (Int):** Shocking touch deals 2d6 damage to target.
 
 **3rd-Level Battle Mind Powers**
 
@@ -253,10 +253,10 @@ radius.
 
 **Metaphysical Weapon (Int):** Weapon gains a +3 enhancement bonus.
 
-**Mind Darts (Int): **A flurry of mental bursts deals 5d6 damage to
+**Mind Darts (Int):** A flurry of mental bursts deals 5d6 damage to
 target.
 
-**Negate Psionics (Con): **Cancels psionic powers and effects.
+**Negate Psionics (Con):** Cancels psionic powers and effects.
 
 **Whitefire (Int):** Deals 5d4 fire damage in 20-foot radius.
 
@@ -264,7 +264,7 @@ target.
 
 **Fire Storm (Int):** Deals 5d6 fire damage in 30-foot radius.
 
-**Greater Bioweapon (Str): **Creates a staff of bioenergy that deals 2d8
+**Greater Bioweapon (Str):** Creates a staff of bioenergy that deals 2d8
 bludgeoning damage.
 
 **Natural Armor (Str):** Manifester gains a +4 natural armor bonus to
@@ -1049,7 +1049,7 @@ armor bonuses.
 
 **Level:** Telepath 3/Battle Mind 3; **Display:** Vi; **Manifestation
 Time:** Attack action; **Range:** Medium (100 ft. + 10 ft./level);
-**Target or Area: **One psionic character or creature, or one object; or
+**Target or Area:** One psionic character or creature, or one object; or
 30-ft.-radius burst; **Duration:** Instantaneous; **Saving Throw:**
 None; **Power Resistance:** No; **Power Points:** 5
 
@@ -1066,7 +1066,7 @@ with instantaneous duration.
 The manifester chooses to use negate psionics in one of two ways: a
 targeted negation or an area negation:
 
-**Targeted Negation: **One object, creature, or power is the target of
+**Targeted Negation:** One object, creature, or power is the target of
 the power. The manifester makes a negation check against the power or
 against each ongoing power currently in effect on the object or
 creature. A negation check is 1d20 + 1 per manifester level against a DC
@@ -1277,7 +1277,7 @@ ceases concentration for any reason, the object falls or stops.
 An object can be telekinetically manipulated as if with one hand, if the
 force required is within the weight limitation.
 
-**Violent Thrust: **Alternatively, the telekinetic power can be expended
+**Violent Thrust:** Alternatively, the telekinetic power can be expended
 in a single round. The manifester can hurl one or more objects or
 creatures that are within range and all within 10 feet of each other
 toward any target within 10 feet/level of all the objects. A manifester

@@ -110,7 +110,7 @@ The Fast hero can increase his or her natural base speed.
 
 **Increased Speed:** The Fast hero’s base speed increases by 5 feet.
 
-**Improved Increased Speed: **The Fast hero’s base speed increases by 5
+**Improved Increased Speed:** The Fast hero’s base speed increases by 5
 feet. This talent stacks with increased speed (10 feet total).
 
 **Prerequisite:** Increased speed.

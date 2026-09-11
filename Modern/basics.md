@@ -1,7 +1,7 @@
 
-# <u>THE BASICS</u>
+# THE BASICS
 
-<u>DICE NOTATION</u>
+## DICE NOTATION
 
 These rules use the following die notations:
 
@@ -28,7 +28,7 @@ Die rolls are expressed in the format:
 Example: 3d6+2 means: "Roll 3 six sided dice. Add the result of the
 three dice together. Add 2."
 
-<u>ROUNDING FRACTIONS</u>
+## ROUNDING FRACTIONS
 
 In general, if you wind up with a fraction, round down, even if the
 fraction is one-half or larger.
@@ -36,7 +36,7 @@ fraction is one-half or larger.
 Exception: Certain rolls, such as damage and hit points, have a minimum
 of 1.
 
-<u>MULTIPLYING</u>
+## MULTIPLYING
 
 Sometimes a special rule makes you multiply a number or a die roll. As
 long as you’re applying a single multiplier, multiply the number
@@ -45,7 +45,7 @@ a single multiple, with each extra multiple adding 1 less than its value
 to the first multiple. Thus, a double (x2) and a double (x2) applied to
 the same number results in a triple (x3, because 2 + 1 = 3).
 
-BASIC TASK RESOLUTION SYSTEM
+## BASIC TASK RESOLUTION SYSTEM
 
 These rules assume a standardized system for determining the success or
 failure of any given task. That system is:

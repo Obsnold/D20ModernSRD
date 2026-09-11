@@ -55,10 +55,10 @@ The first line beneath the spell’s name provides the school (and perhaps
 also a subschool) that the spell belongs to. Schools provide a way of
 grouping together spells that have certain characteristics in common.
 
-**Abjuration: **Spells of this school are protective spells. They create
+**Abjuration:** Spells of this school are protective spells. They create
 physical or magical barriers or negate magical or physical abilities.
 
-**Conjuration (Creation): **This type of spell manipulates matter to
+**Conjuration (Creation):** This type of spell manipulates matter to
 create an object or creature in a place the spellcaster designates. If
 the spell has a duration other than instantaneous, magic holds the
 creation together, and when the spell ends or is dispelled, the conjured
@@ -67,20 +67,20 @@ instantaneous duration, the created object or creature is merely
 assembled through magic. It lasts indefinitely and does not depend on
 magic for its existence.
 
-**Conjuration (Healing): **Certain divine conjuration spells can heal
+**Conjuration (Healing):** Certain divine conjuration spells can heal
 creatures or even bring them back to life.
 
-**Conjuration (Summoning): **A summoning spell instantly brings a
+**Conjuration (Summoning):** A summoning spell instantly brings a
 creature or an object to a place the caster designates. When the spell
 ends or is dispelled, the summoned creature is instantly sent back to
 where it came from, but a summoned object is not sent back unless the
 spell description specifically indicates this. A summoned creature also
 goes away if it is killed or dropped to 0 hit points.
 
-**Conjuration (Teleporting): **A spell of this type transports one or
+**Conjuration (Teleporting):** A spell of this type transports one or
 more creatures or objects a great distance.
 
-**Divination: **These spells enable you to learn information, to find
+**Divination:** These spells enable you to learn information, to find
 hidden things (true seeing), or to foil deceptive spells.
 
 **Enchantment:** An enchantment spell affects the minds of others,
@@ -94,14 +94,14 @@ spells can deal large amounts of damage.
 
 **Illusion:** Illusion spells deceive the senses or minds of others.
 
-**Saving Throws and Illusions (Disbelief): **Creatures encountering an
+**Saving Throws and Illusions (Disbelief):** Creatures encountering an
 illusion effect usually do not receive saving throws to recognize it as
 illusory until they study it carefully or interact with it in some
 fashion. This allows them to disbelieve the illusion. If any viewer
 successfully disbelieves an illusion and communicates this fact to other
 viewers, each such viewer gains a saving throw with a +4 bonus.
 
-**Necromancy: **Necromancy spells manipulate the power of death, unlife,
+**Necromancy:** Necromancy spells manipulate the power of death, unlife,
 and the life force. Spells involving undead creatures belong to this
 school, as do spells that utilize negative energy to deal damage.
 
@@ -156,7 +156,7 @@ hands full or occupied. If an arcane spellcaster casts a spell with a
 somatic component while wearing armor, the armor may bring with it an
 arcane spell failure chance.
 
-**Material (M): **A material component is an object or a small amount of
+**Material (M):** A material component is an object or a small amount of
 some substance that the caster must have on hand. It is expended and
 disappears when the spell is cast. Preparing these materials is a free
 action. The purchase DCs for expensive material components are included
@@ -362,7 +362,7 @@ A spell’s range usually falls into one of the following categories.
 
 **Personal:** The spell affects only the caster.
 
-**Touch: **The caster must touch a creature or object to affect it. To
+**Touch:** The caster must touch a creature or object to affect it. To
 use a touch spell, the caster casts the spell and then touches the
 subject, either in the same round or any time later. In the same round
 that the character casts the spell, he or she may also touch (or attempt
@@ -396,13 +396,13 @@ spell). A character can touch one friend (or his or herself) as an
 attack action, or up to six friends as a full-round action. If the
 character casts another spell, the touch spell dissipates.
 
-**Close: **The spell reaches up to 25 feet away from the caster. The
+**Close:** The spell reaches up to 25 feet away from the caster. The
 maximum range increases by 5 feet for every two full spellcasting class
 levels.
 
-**Medium: **The spell reaches up to 100 feet + 10 feet per class level.
+**Medium:** The spell reaches up to 100 feet + 10 feet per class level.
 
-**Long: **The spell reaches up to 400 feet + 40 feet per class level.
+**Long:** The spell reaches up to 400 feet + 40 feet per class level.
 
 **Range Expressed in Feet:** Some spells have no standard range
 category, just a range expressed in a unit of measurement (usually
@@ -422,7 +422,7 @@ spell has no effect.
 If the target of a spell is the caster (“Target: You”), the caster does
 not receive a saving throw, and spell resistance does not apply.
 
-**Subject: **The descriptive text of spells makes a distinction between
+**Subject:** The descriptive text of spells makes a distinction between
 “target” and “subject.” The target of a spell is the creature(s) or
 object(s) it is directed against. A target becomes a subject if it fails
 a saving throw against the spell and is thus affected by the magic.
@@ -461,7 +461,7 @@ but otherwise doesn’t control which creatures or objects the spell
 affects. Sometimes a spell describes a specially defined area, but
 usually an area falls into one of the following categories.
 
-**Burst: **As with an effect, the caster selects the spell or power’s
+**Burst:** As with an effect, the caster selects the spell or power’s
 point of origin. The spell or power bursts out from this point,
 affecting whatever it catches in its area.
 
@@ -525,7 +525,7 @@ barrier contains such an opening, that 5-foot length is not considered a
 barrier for purposes of a spell’s line of effect (though the rest of the
 barrier still counts as normal).
 
-**Directing or Redirecting Effects: **Some spells allow the caster to
+**Directing or Redirecting Effects:** Some spells allow the caster to
 redirect the effect to new targets or areas after casting the spell.
 Redirecting a spell requires a move action that does not provoke attacks
 of opportunity. It also doesn’t require concentration.
@@ -540,7 +540,7 @@ hours, or some other increment. When the time is up, the magical energy
 goes away and the spell ends. If a spell’s duration is variable, the GM
 rolls it secretly.
 
-**Instantaneous: **The spell energy comes and goes the instant the spell
+**Instantaneous:** The spell energy comes and goes the instant the spell
 is cast, though the consequences of the spell might be long-lasting.
 
 **Permanent:** The effect remains indefinitely, but is sustained by
@@ -559,7 +559,7 @@ Sometimes a spell lasts for a short time after the character ceases
 concentrating. In these cases, the spell keeps going for the stated
 length of time after the character stops concentrating.
 
-**Subjects, Effects, and Areas: **If a spell affects creatures directly,
+**Subjects, Effects, and Areas:** If a spell affects creatures directly,
 the result travels with the subjects for the spell’s duration. If the
 spell creates an effect, the effect lasts for the duration. The effect
 might move or remain still. Such an effect can be destroyed prior to the
@@ -568,7 +568,7 @@ that area for the spell’s duration. Creatures become subject to the
 spell when they enter the area and are no longer subject to it when they
 leave.
 
-**Discharge: **A few spells last for a set duration or until triggered
+**Discharge:** A few spells last for a set duration or until triggered
 or discharged. The spell remains in place until the triggering condition
 is met (at which point it takes effect) or the maximum duration is
 reached (at which point it dissipates, with no effect).
@@ -588,18 +588,18 @@ avoid some or all of the effect. The Saving Throw entry in a spell
 description defines which type of saving throw the spell allows and
 describes how saving throws against the spell work.
 
-**Negates: **This term means the spell has no effect on a creature that
+**Negates:** This term means the spell has no effect on a creature that
 makes a successful saving throw.
 
-**Partial: **The spell causes an effect on its subject. A successful
+**Partial:** The spell causes an effect on its subject. A successful
 saving throw means that some lesser effect occurs.
 
-**Half: **The spell deals damage, and a successful saving throw halves
+**Half:** The spell deals damage, and a successful saving throw halves
 the damage taken (round down).
 
 **None:** No saving throw is allowed.
 
-**Disbelief: **A saving throw is not allowed purely on the basis of
+**Disbelief:** A saving throw is not allowed purely on the basis of
 encountering the spell. Rather, the creature gets a saving throw only
 after interacting with or carefully studying the spell. A successful
 save lets the subject ignore the effect.
@@ -619,14 +619,14 @@ targeted creature can attempt a saving throw if it wishes.
 DC of 10 + the level of the spell + the spellcaster’s bonus for the
 relevant ability (see spellcasting advanced class for details).
 
-**Succeeding at a Saving Throw: **A creature that successfully saves
+**Succeeding at a Saving Throw:** A creature that successfully saves
 against a spell without obvious physical effects feels a hostile force
 or a tingle, but cannot deduce the exact nature of the attack. Likewise,
 if a creature’s saving throw succeeds against a targeted spell the
 caster senses that the spell has failed. The caster does not sense when
 creatures succeed at saving throws against effect and area spells.
 
-**Voluntarily Giving up a Saving Throw: **A creature can voluntarily
+**Voluntarily Giving up a Saving Throw:** A creature can voluntarily
 forego a saving throw and willingly accept a spell’s result. Even a
 character with a special resistance to magic can suppress this
 resistance if he or she wants to.

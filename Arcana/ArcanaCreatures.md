@@ -65,27 +65,27 @@ melee and ranged attacks. Nonvisual senses, such as blindsight and
 scent, do not function against an ash wraith. An ash wraith cannot be
 tripped or grappled by a corporeal attacker.
 
-**Burning Touch (Ex): **The touch of an ash wraith deals 3d6 points of
+**Burning Touch (Ex):** The touch of an ash wraith deals 3d6 points of
 fire damage, and creatures hit by an ash wraith must succeed at a Reflex
 save (DC 15) or catch on fire.
 
-**Spawn (Su): **Any humanoid slain by an ash wraith’s burning touch is
+**Spawn (Su):** Any humanoid slain by an ash wraith’s burning touch is
 immolated and reduced to a pile of ash that rises as an ash wraith in
 1d4 rounds. Spawn are under the command of the ash wraith that created
 them and remain enslaved until its death. They do not possess any of the
 abilities they had in life.
 
-**Unnatural Aura (Su): **Both wild and domesticated animals can sense
+**Unnatural Aura (Su):** Both wild and domesticated animals can sense
 the unnatural presence of an ash wraith at a distance of 30 feet. They
 will not willingly approach nearer than that and panic if forced to do
 so; they remain panicked as long as they are within that range.
 
-**Fear of Daylight (Ex): **Ash wraiths exposed to natural sunlight are
+**Fear of Daylight (Ex):** Ash wraiths exposed to natural sunlight are
 panicked (no save). A panicked ash wraith flees from the sunlight as
 fast as possible; it can defend normally but cannot attack while exposed
 to natural sunlight.
 
-**Ash Wraith: **CR 6; Medium undead; HD 6d12; hp 39; Mas —; Init +7 (+3
+**Ash Wraith:** CR 6; Medium undead; HD 6d12; hp 39; Mas —; Init +7 (+3
 Dex, +4 Improved Initiative); Spd 30 ft., fly 60 ft. (good); Defense 15,
 touch 15, flat-footed 12 (+3 Dex, +2 deflection); BAB +3; Grap +3; Atk
 +6 melee (3d6 fire, burning touch); Full Atk +6 melee (3d6 fire, burning
@@ -93,19 +93,19 @@ touch); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ undead, incorporeal, burning
 touch, spawn, unnatural aura, fear of daylight; AL evil; SV Fort +2, Ref
 +5, Will +7; AP 0; Rep +0; Str —, Dex 16, Con —, Int 14, Wis 14, Cha 15.
 
-**Skills: **Hide +12, Intimidate +11, Listen +13, Read/Write
+**Skills:** Hide +12, Intimidate +11, Listen +13, Read/Write
 
 Language (up to any three), Search +9, Sense Motive +11,
 
 Speak Language (up to any three), Spot +13.
 
-**Feats: **Alertness, Blind-Fight, Combat Reflexes, Improved
+**Feats:** Alertness, Blind-Fight, Combat Reflexes, Improved
 
 Initiative.
 
-**Possessions: **None.
+**Possessions:** None.
 
-**Advancement: **7–12 HD (Medium).
+**Advancement:** 7–12 HD (Medium).
 
 Big Cat
 
@@ -120,7 +120,7 @@ action.
 **Improved Grab (Ex)**: To use this ability, the big cat must hit with
 its bite attack. If it gets a hold, it can rake.
 
-**Rake (Ex): **If a big cat successfully grabs its prey (see Improved
+**Rake (Ex):** If a big cat successfully grabs its prey (see Improved
 Grab, above), it can make two rake attacks (+6 melee) with its hind legs
 as part of a full attack. Each successful rake attack deals 1d3+1 points
 of damage.
@@ -128,19 +128,19 @@ of damage.
 **Scent (Ex)**: This ability allows the big cat to detect approaching
 enemies, sniff out hidden foes, and track by sense of smell.
 
-**Low-Light Vision (Ex): **Big cats can see twice as far as a human in
+**Low-Light Vision (Ex):** Big cats can see twice as far as a human in
 starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
 under these conditions.
 
-**Skill Bonuses: **Big cats gain a +8 species bonus on Balance checks
+**Skill Bonuses:** Big cats gain a +8 species bonus on Balance checks
 and a +4 species bonus on Hide, Jump, and Move Silently checks (for
 running jumps, the Jump bonus is +8).
 
-**Bonus Feats: **Big cats gain the bonus feats Weapon Finesse (bite) and
+**Bonus Feats:** Big cats gain the bonus feats Weapon Finesse (bite) and
 Weapon Finesse (claw).
 
-**Big Cat: **CR 2; Medium animal; HD 3d8+6; hp 19; Mas 15; Init +4; Spd
+**Big Cat:** CR 2; Medium animal; HD 3d8+6; hp 19; Mas 15; Init +4; Spd
 40 ft., climb 20 ft.; Defense 15, touch 15, flatfooted 11 (+4 Dex, +1
 natural); BAB +2; Grap +5; Atk +6 melee (1d3+4, claw); Full Atk +6 melee
 (1d6+3, bite), +1 melee (1d3+1, 2 claws); FS 5 ft. by 5 ft.; Reach 5
@@ -151,9 +151,9 @@ owner; SV Fort +5, Ref +7, Will +2; AP 0; Rep +0; Str 16, Dex 19, Con
 **Skills**: Balance +12, Climb +11, Hide +9, Jump +7, Listen +6, Move
 Silently +9, Spot +6.
 
-**Feats: **Weapon Finesse (bite, claw).
+**Feats:** Weapon Finesse (bite, claw).
 
-**Advancement: **4–5 (Medium).
+**Advancement:** 4–5 (Medium).
 
 Boar
 
@@ -163,19 +163,19 @@ Boars are about 4 feet long and 3 feet high at the shoulder.
 
 Boars have the following traits:
 
-**Ferocity (Ex): **Boars are such tenacious combatants that they
+**Ferocity (Ex):** Boars are such tenacious combatants that they
 continue to fight without penalty until reduced to –10 hit points. At
 –10 hit points, they are slain.
 
-**Scent (Ex): **This ability allows the wild boar to detect approaching
+**Scent (Ex):** This ability allows the wild boar to detect approaching
 enemies, sniff out hidden foes, and track by sense of smell.
 
-**Low-Light Vision (Ex): **Boars can see twice as far as a human in
+**Low-Light Vision (Ex):** Boars can see twice as far as a human in
 starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
 under these conditions.
 
-**Boar: **CR 2; Medium animal; HD 3d8+9; hp 22; Mas 17; Init +0; Spd 40
+**Boar:** CR 2; Medium animal; HD 3d8+9; hp 22; Mas 17; Init +0; Spd 40
 ft.; Defense 16, touch 10, flat-footed 16 (+6 natural); BAB +2; Grap +4;
 Atk +4 melee (1d6+3, gore); Full Atk +4 melee (1d6+3, gore); FS 5 ft. by
 5 ft.; Reach 5 ft.; SQ ferocity, scent, low-light vision; AL None; SV
@@ -184,9 +184,9 @@ Wis 13, Cha 4.
 
 **Skills**: Listen +7, Spot +5.
 
-**Feats: **None.
+**Feats:** None.
 
-**Advancement: **4–5 HD (Medium).
+**Advancement:** 4–5 HD (Medium).
 
 Breathsnatcher
 
@@ -196,7 +196,7 @@ They average 6 feet tall and weigh about 150 pounds.
 
 Breathsnatchers have the following traits:
 
-**Clawing Smoke (Su): **Once every 1d4 rounds, a breathsnatcher can
+**Clawing Smoke (Su):** Once every 1d4 rounds, a breathsnatcher can
 expel a 30-foot cone of magic smoke. The smoke grants one-half
 concealment to creatures in its periphery and full concealment to
 characters obscured by more than 5 feet of smoke. In addition, any
@@ -209,15 +209,15 @@ surrounding organs, dealing 3d4 points of damage per round. The affected
 creature can attempt another Fortitude save each subsequent round to
 cough out the semivaporous menace.
 
-**Snatch Breath (Su): **As a full-round action, the breathsnatcher can
+**Snatch Breath (Su):** As a full-round action, the breathsnatcher can
 steal the breath from any adjacent creature with –1 or fewer hit points.
 This instantly kills the creature and grants the breathsnatcher damage
 reduction 15/+1 for 1 hour per Hit Die of the victim.
 
-**Fast Healing 5 (Ex): **A breathsnatcher heals 5 points of damage each
+**Fast Healing 5 (Ex):** A breathsnatcher heals 5 points of damage each
 round so long as it has at least 1 hit point remaining.
 
-**Breathsnatcher: **CR 6; Medium monstrous humanoid; HD 9d8; hp 40; Mas
+**Breathsnatcher:** CR 6; Medium monstrous humanoid; HD 9d8; hp 40; Mas
 10; Init +3; Spd 30 ft.; Defense 17, touch 13, flat-footed 14 (+3 Dex,
 +3 natural, +1 equipment); BAB +9; Grap +11; Atk +11 melee (1d4+2,
 knife) or +12 ranged (2d6, MAC Ingram M10) or +8 ranged (4d6, MAC Ingram
@@ -227,19 +227,19 @@ MAC Ingram M10) or +8/+3 ranged (4d6, MAC Ingram M10 burst); FS 5 ft. by
 evil; SV Fort +3, Ref +9, Will +9; AP 0; Rep +0; Str 14, Dex 17, Con 10,
 Int 13, Wis 16, Cha 9.
 
-**Skills: **Hide +14, Listen +14, Move Silently +14, Read/Write English,
+**Skills:** Hide +14, Listen +14, Move Silently +14, Read/Write English,
 Read/Write Language (any one), Speak English, Speak Language (any one),
 Spot +12.
 
-**Feats: **Advanced Firearms Proficiency, Burst Fire, Personal Firearms
+**Feats:** Advanced Firearms Proficiency, Burst Fire, Personal Firearms
 Proficiency, Quick Draw, Simple Weapons Proficiency.
 
-**Possessions: **Leather trenchcoat, knife, MAC Ingram M10 (.45 machine
+**Possessions:** Leather trenchcoat, knife, MAC Ingram M10 (.45 machine
 pistol) with suppressor.
 
-**Advancement: **By character class.
+**Advancement:** By character class.
 
-**Breathsnatcher Infiltrator 4: **CR 10; Medium monstrous humanoid; HD
+**Breathsnatcher Infiltrator 4:** CR 10; Medium monstrous humanoid; HD
 9d8 plus 4d8; hp 58; Mas 10; Init +4; Spd 30 ft.; Defense 21, touch 17,
 flat-footed 17 (+4 Dex, +3 class, +3 natural, +1 equipment); BAB +11;
 Grap +13; Atk +13 melee (1d4+2/19–20, knife) or +15 ranged (2d6, MAC
@@ -250,14 +250,14 @@ ft.; SQ clawing smoke, snatch breath, fast healing 5, sweep, improvised
 implements, improved evasion; AL evil; SV Fort +4, Ref +14, Will +10; AP
 2; Rep +2; Str 14, Dex 18, Con 10, Int 13, Wis 16, Cha 9.
 
-**Skills: **Climb +9, Escape Artist +11, Hide +17, Jump +9, Listen +14,
+**Skills:** Climb +9, Escape Artist +11, Hide +17, Jump +9, Listen +14,
 Move Silently +17, Read/Write English, Read/Write Language (any one),
 Sleight of Hand +11, Speak English, Speak Language (any one), Spot +12.
 
-**Feats: **Advanced Firearms Proficiency, Burst Fire, Personal Firearms
+**Feats:** Advanced Firearms Proficiency, Burst Fire, Personal Firearms
 Proficiency, Quick Draw, Simple Weapons Proficiency, Stealthy, Strafe.
 
-**Possessions: **Leather trenchcoat, knife, MAC Ingram M10 (.45 machine
+**Possessions:** Leather trenchcoat, knife, MAC Ingram M10 (.45 machine
 pistol) with suppressor.
 
 Celestial
@@ -270,7 +270,7 @@ celestial types.
 
 Celestials have the following traits:
 
-**Variable Size: **Most celestials are Medium, but their size can vary
+**Variable Size:** Most celestials are Medium, but their size can vary
 and some celestials can change their size naturally. Depending on their
 size, celestials gain a size bonus or penalty on attack rolls, Defense,
 Hide checks, and grapple checks.
@@ -278,31 +278,31 @@ Hide checks, and grapple checks.
 **Natural Armor**: Celestials gain a natural armor bonus to Defense
 equal to 3 + the celestial’s Hit Dice.
 
-**Immunities (Ex): **A celestial is immune to one or more specific types
+**Immunities (Ex):** A celestial is immune to one or more specific types
 of energy or weapon damage, as determined by rolling on Table: Celectial
 Immunities, Resistances, and Damage Reduction.
 
-**Energy Resistance (Ex): **A celestial is resistant to one or more
+**Energy Resistance (Ex):** A celestial is resistant to one or more
 types of energy, as determined by rolling on Table: Celectial
 Immunities, Resistances, and Damage Reduction. Roll again if the
 celestial is resistant to a type of energy against which it already has
 immunity.
 
-**Damage Reduction (Ex): **Some celestials have damage reduction, as
+**Damage Reduction (Ex):** Some celestials have damage reduction, as
 determined by rolling on Table: Celectial Immunities, Resistances, and
 Damage Reduction.
 
-**Tongues (Su): **A celestial may converse with any creature that has a
+**Tongues (Su):** A celestial may converse with any creature that has a
 language. This ability is always active.
 
-**Keen Vision (Ex): **Celestials have darkvision with a range of 60 feet
+**Keen Vision (Ex):** Celestials have darkvision with a range of 60 feet
 and low-light vision.
 
-**Allegiances: **Celestials have a primary allegiance to good. They may
+**Allegiances:** Celestials have a primary allegiance to good. They may
 also have allegiances to law or chaos. Fallen celestials may revoke any
 or all of their prior allegiances.
 
-**Bonus Feats: **Celestials gain either Archaic Weapons Proficiency or
+**Bonus Feats:** Celestials gain either Archaic Weapons Proficiency or
 Simple Weapons Proficiency as a bonus feat.
 
 **Automatic Languages**: Celestials speak Celestial and a number of

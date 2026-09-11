@@ -66,7 +66,7 @@ and Base Attack Bonuses).
 
 **Good Saving Throws:** Will.
 
-**Skill Points: **2 x Int score, plus 2 points per Hit Dice beyond 1 HD.
+**Skill Points:** 2 x Int score, plus 2 points per Hit Dice beyond 1 HD.
 
 **Feats:** Int modifier (minimum +0), plus 1 feat per 4 Hit Dice beyond
 1 HD.
@@ -252,7 +252,7 @@ Dice, and damage based on size.
 
 **Hit Die:** d8.
 
-**Base Attack Bonus: **3/4 of total Hit Dice (see Table: Creature Saves
+**Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
 **Good Saving Throws:** Fortitude and Reflex (some animals have
@@ -503,7 +503,7 @@ recommended minimum Hit Dice, and damage based on size.
 
 **Hit Die:** d12.
 
-**Base Attack Bonus: **Total Hit Dice (see Table: Creature Saves and
+**Base Attack Bonus:** Total Hit Dice (see Table: Creature Saves and
 Base Attack Bonuses).
 
 **Good Saving Throws:** Fortitude, Reflex, Will.
@@ -693,17 +693,17 @@ scores, recommended minimum Hit Dice, and damage based on size.
 **Base Attack Bonus:** 3/4 of total Hit Dice (see Table 8–2: Creature
 Saves and Base Attack Bonuses).
 
-**Good Saving Throws: **Varies by element: Fortitude (earth, water) or
+**Good Saving Throws:** Varies by element: Fortitude (earth, water) or
 Reflex (air, fire).
 
-**Skill Points: **2 x Int score, plus 2 points per Hit Dice beyond 1 HD.
+**Skill Points:** 2 x Int score, plus 2 points per Hit Dice beyond 1 HD.
 
 **Feats:** Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1
 HD.
 
 Elementals share the following additional traits.
 
-**Weapon and Armor Proficiency: **Elementals are proficient with their
+**Weapon and Armor Proficiency:** Elementals are proficient with their
 natural weapons only. They are not proficient with armor.
 
 **Darkvision (Ex):** Most elementals have darkvision with a range of 60
@@ -713,7 +713,7 @@ feet.
 stunning. They are not subject to critical hits, flanking, or the
 effects of massive damage.
 
-**Special: **Elementals cannot be raised from the dead.
+**Special:** Elementals cannot be raised from the dead.
 
 |                       |         |         |         |                |          |          |          |          |
 |-----------------------|---------|---------|---------|----------------|----------|----------|----------|----------|
@@ -741,7 +741,7 @@ and damage based on size.
 
 **Hit Die:** d6.
 
-**Base Attack Bonus: **1/2 of total Hit Dice (see Table: Creature Saves
+**Base Attack Bonus:** 1/2 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
 **Good Saving Throws:** Will.
@@ -1068,7 +1068,7 @@ scores, recommended minimum Hit Dice, and damage based on size.
 **Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
-**Good Saving Throws: **Choose one (usually Reflex).
+**Good Saving Throws:** Choose one (usually Reflex).
 
 **Skill Points:** 6 + Int modifier, plus 1 point per Hit Dice beyond 1
 HD.
@@ -1109,7 +1109,7 @@ extraordinary abilities, or it might be bizarre in appearance and
 habits. See Table: Magical Beasts for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
-**Hit Die: **d10.
+**Hit Die:** d10.
 
 **Base Attack Bonus:** Total Hit Dice (see Table: Creature Saves and
 Base Attack Bonuses).
@@ -1154,12 +1154,12 @@ animalistic features. A monstrous humanoid often possesses supernatural
 abilities as well. See Table: Monstrous Humanoids for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.
 
-**Hit Die: **d8.
+**Hit Die:** d8.
 
-**Base Attack Bonus: **Total Hit Dice (see Table: Creature Saves and
+**Base Attack Bonus:** Total Hit Dice (see Table: Creature Saves and
 Base Attack Bonuses).
 
-**Good Saving Throws: **Reflex, Will.
+**Good Saving Throws:** Reflex, Will.
 
 **Skill Points:** 2 x Int score, plus 2 points per Hit Dice beyond 1 HD.
 
@@ -1344,16 +1344,16 @@ An ooze is an amorphous or mutable creature. See Table: Oozes for
 physical ability scores, recommended minimum Hit Dice, and damage based
 on size.
 
-**Hit Die: **d10.
+**Hit Die:** d10.
 
 **Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
 **Good Saving Throws:** None.
 
-**Skill Points: **None.
+**Skill Points:** None.
 
-**Feats: **None.
+**Feats:** None.
 
 Oozes share the following additional traits.
 
@@ -1555,12 +1555,12 @@ scores, recommended minimum Hit Dice, and damage based on size.
 
 **Hit Die:** d8.
 
-**Base Attack Bonus: **Total Hit Dice (see Table: Creature Saves and
+**Base Attack Bonus:** Total Hit Dice (see Table: Creature Saves and
 Base Attack Bonuses).
 
-**Good Saving Throws: **Fortitude, Reflex, Will.
+**Good Saving Throws:** Fortitude, Reflex, Will.
 
-**Skill Points: **8 + Int modifier per Hit Dice.
+**Skill Points:** 8 + Int modifier per Hit Dice.
 
 **Feats:** 1, plus 1 feat per 4 Hit Dice beyond 1 HD.
 
@@ -1742,20 +1742,20 @@ feet.
 A plant is a vegetable creature. See Table: Plants for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.
 
-**Hit Die: **d8.
+**Hit Die:** d8.
 
 **Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
-**Good Saving Throws: **Fortitude.
+**Good Saving Throws:** Fortitude.
 
-**Skill Points: **None.
+**Skill Points:** None.
 
 **Feats:** None.
 
 Plants share the following additional traits.
 
-**Weapon and Armor Proficiency: **Plants are proficient with their
+**Weapon and Armor Proficiency:** Plants are proficient with their
 natural weapons only. They are not proficient with armor.
 
 **Immunities:** Plants are immune to sleep, paralysis, stunning, and
@@ -1798,9 +1798,9 @@ and Base Attack Bonuses).
 
 **Good Saving Throws:** Will.
 
-**Skill Points: **3 x Int score, plus 2 points per Hit Dice beyond 1 HD.
+**Skill Points:** 3 x Int score, plus 2 points per Hit Dice beyond 1 HD.
 
-**Feats: **1 + Int modifier, plus 1 feat per 4 HD beyond 1 HD.
+**Feats:** 1 + Int modifier, plus 1 feat per 4 HD beyond 1 HD.
 
 Undead share the following additional traits.
 
@@ -1814,7 +1814,7 @@ Proficiency with whatever type of armor they are accustomed to wearing
 **Ability Scores:** An undead has no Constitution score. It uses its
 Charisma modifier for Concentration checks.
 
-**Darkvision (Ex): **Most undead have darkvision with a range of 60
+**Darkvision (Ex):** Most undead have darkvision with a range of 60
 feet.
 
 **Immunities:** Undead are immune to poison, sleep, paralysis, stunning,
@@ -1996,14 +1996,14 @@ This type includes insects, arachnids, other arthropods, worms, and
 similar invertebrates. See Table: Vermin for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
-**Hit Die: **d8.
+**Hit Die:** d8.
 
 **Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves
 and Base Attack Bonuses).
 
-**Good Saving Throws: **Fortitude.
+**Good Saving Throws:** Fortitude.
 
-**Skill Points: **10–15.
+**Skill Points:** 10–15.
 
 **Feats:** None.
 
@@ -2018,7 +2018,7 @@ natural weapons only. They are not proficient with armor.
 the save DC of their poison based on their size, as follows: Medium-size
 +2, Large +4, Huge +6, Gargantuan +8, Colossal +10.
 
-**Darkvision (Ex): **Most vermin with visual sensory organs have
+**Darkvision (Ex):** Most vermin with visual sensory organs have
 darkvision with a range of 60 feet.
 
 **Blindsight (Ex):** Most vermin without visual sensory organs have

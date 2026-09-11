@@ -144,12 +144,12 @@ or trick that it knows. If the animal is wounded or has taken any
 ability score damage, the DC increases by +5. If the check is
 successful, the animal performs the task or trick on its next action.
 
-**“Push” an Animal: **To push an animal means to get it to perform a
+**“Push” an Animal:** To push an animal means to get it to perform a
 task or trick that it doesn’t know, but is physically capable of
 performing. If the check is successful, the animal performs the task or
 trick on its next action.
 
-**Teach an Animal a Trick: **The character can teach an animal a
+**Teach an Animal a Trick:** The character can teach an animal a
 specific trick, such as “attack” or “stay,” with one week of work and a
 successful Handle Animal check. An animal with an Intelligence of 1 can
 learn a maximum of three tricks, while an animal with an Intelligence of
@@ -166,7 +166,7 @@ character.
 
 Possible tricks include, but are not limited to, the following.
 
-**Attack (DC 20): **The animal attacks apparent enemies. The character
+**Attack (DC 20):** The animal attacks apparent enemies. The character
 may point to a particular enemy to direct the animal to attack that
 enemy. Normally, an animal only attacks humans and other animals.
 Teaching an animal to attack all creatures (including unnatural
@@ -183,17 +183,17 @@ character can command the animal to defend a specific other character.
 **Down (DC 15):** The animal breaks off from combat or otherwise backs
 down.
 
-**Fetch (DC 15): **The animal goes and gets something. The character
+**Fetch (DC 15):** The animal goes and gets something. The character
 must point out a specific object, or else the animal fetches some random
 object.
 
 **Guard (DC 20):** The animal stays in place and prevents others from
 approaching.
 
-**Heel (DC 15): **The animal follows the character closely, even to
+**Heel (DC 15):** The animal follows the character closely, even to
 places where it normally wouldn’t go.
 
-**Perform (DC 15): **The animal does a variety of simple tricks such as
+**Perform (DC 15):** The animal does a variety of simple tricks such as
 sitting up, rolling over, and so on.
 
 **Seek (DC 15):** The animal moves into an area and searches for
@@ -203,15 +203,15 @@ vary. Animals almost always find other creatures or characters of
 interest. To understand that it’s looking for a specific object, the
 animal must make an Intelligence check (DC 10).
 
-**Stay (DC 15): **The animal stays in place waiting for the character to
+**Stay (DC 15):** The animal stays in place waiting for the character to
 return. It does not challenge other creatures that come by, though it
 still defends itself if it needs to.
 
-**Track (DC 20): **The animal tracks the scent presented to it.
+**Track (DC 20):** The animal tracks the scent presented to it.
 
-**Work (DC 15): **The animal pulls or pushes a medium or heavy load.
+**Work (DC 15):** The animal pulls or pushes a medium or heavy load.
 
-**Train an Animal: **Rather than teaching an animal individual tricks,
+**Train an Animal:** Rather than teaching an animal individual tricks,
 the character can train an animal for a general purpose. Essentially, an
 animal’s purpose represents a preselected set of known tricks that fit
 into a common scheme. An animal can be trained for one general purpose
@@ -231,10 +231,10 @@ by the combat riding tricks.
 **Fighting (DC 20, 3 weeks):** An animal trained for combat knows the
 following tricks: Attack, Down, and Stay.
 
-**Guarding (DC 20, 4 weeks): **An animal trained to guard knows the
+**Guarding (DC 20, 4 weeks):** An animal trained to guard knows the
 following tricks: Attack, Defend, Down, and Guard.
 
-**Laboring (DC 15, 2 weeks): **An animal trained for heavy labor knows
+**Laboring (DC 15, 2 weeks):** An animal trained for heavy labor knows
 Come and Work.
 
 **Hunting (DC 20, 6 weeks):** An animal trained for hunting knows
@@ -351,7 +351,7 @@ one-half cover or concealment.
 | Nine-tenths              | +10                    |
 |                          |                        |
 
-**Creating a Diversion to Hide: **A character can use the Bluff skill to
+**Creating a Diversion to Hide:** A character can use the Bluff skill to
 help him or her hide. A successful Bluff check can give the character
 the momentary diversion needed to attempt a Hide check while people are
 aware of the character. While the others turn their attention from the
@@ -480,7 +480,7 @@ disturbed.
 </tbody>
 </table>
 
-**Collect Evidence: **The character can collect and prepare evidentiary
+**Collect Evidence:** The character can collect and prepare evidentiary
 material for a lab. This use of the Investigate skill requires an
 evidence kit.
 
@@ -537,7 +537,7 @@ Distance moved by jumping is counted against maximum movement in a
 round. A character can start a jump at the end of one turn and complete
 the jump at the beginning of your next turn.
 
-**Long Jump: **This is a horizontal jump, made across a gap such as a
+**Long Jump:** This is a horizontal jump, made across a gap such as a
 chasm or stream. At the midpoint of the jump, the character attains a
 vertical height equal to one-quarter the horizontal distance. The DC for
 the jump is equal to the distance jumped (in feet). The DCs for long
@@ -565,7 +565,7 @@ the gap. The character ends his or her movement grasping the far edge.
 If that leaves the character dangling over a chasm or gap, getting up
 requires a move action and a Climb check (DC 15).
 
-**High Jump: **This is a vertical leap, made to jump up to grasp
+**High Jump:** This is a vertical leap, made to jump up to grasp
 something overhead, such as a tree limb or ledge. The DC for the jump is
 the height x4 (in feet). The DCs for high jumps of 1 to 8 feet are given
 in the table below.
@@ -661,7 +661,7 @@ her waist with a Jump check (DC 10). Doing so counts as 10 feet of
 movement. The character does not need to get a running start to hop up
 (the DC is not doubled if you do not get a running start).
 
-**Jumping Down: **If the character intentionally jumps from a height, he
+**Jumping Down:** If the character intentionally jumps from a height, he
 or she takes less damage than if the character just falls. The DC to
 jump down from a height is 15. The character does not have to get a
 running start to jump down (the DC is not doubled if the character does
@@ -719,19 +719,19 @@ the appraisal is accurate or not.
 The fourteen Knowledge categories, and the topics each one encompasses,
 are as follows.
 
-**Arcane Lore: **The occult, magic and the supernatural, astrology,
+**Arcane Lore:** The occult, magic and the supernatural, astrology,
 numerology, and similar topics.
 
 **Art:** Fine arts and graphic arts, including art history and artistic
 techniques. Antiques, modern art, photography, and performance art forms
 such as music and dance, among others.
 
-**Behavioral Sciences: **Psychology, sociology, and criminology.
+**Behavioral Sciences:** Psychology, sociology, and criminology.
 
 **Business:** Business procedures, investment strategies, and corporate
 structures. Bureaucratic procedures and how to navigate them.
 
-**Civics: **Law, legislation, litigation, and legal rights and
+**Civics:** Law, legislation, litigation, and legal rights and
 obligations. Political and governmental institutions and processes.
 
 **Current Events:** Recent happenings in the news, sports, politics,
@@ -740,7 +740,7 @@ entertainment, and foreign affairs.
 **Earth and Life Sciences:** Biology, botany, genetics, geology, and
 paleontology. Medicine and forensics.
 
-**History: **Events, personalities, and cultures of the past.
+**History:** Events, personalities, and cultures of the past.
 Archaeology and antiquities.
 
 **Physical Sciences:** Astronomy, chemistry, mathematics, physics, and
@@ -749,16 +749,16 @@ engineering.
 **Popular Culture:** Popular music and personalities, genre films and
 books, urban legends, comics, science fiction, and gaming, among others.
 
-**Streetwise: **Street and urban culture, local underworld personalities
+**Streetwise:** Street and urban culture, local underworld personalities
 and events.
 
-**Tactics: **Techniques and strategies for disposing and maneuvering
+**Tactics:** Techniques and strategies for disposing and maneuvering
 forces in combat.
 
 **Technology:** Current developments in cutting-edge devices, as well as
 the background necessary to identify various technological devices.
 
-**Theology and Philosophy: **Liberal arts, ethics, philosophical
+**Theology and Philosophy:** Liberal arts, ethics, philosophical
 concepts, and the study of religious faith, practice, and experience.
 
 **Try Again?:** No. The check represents what a character knows, and
@@ -1037,7 +1037,7 @@ character’s performance depends on his or her check result.
 The eight Perform categories, and the qualities each one encompasses,
 are as follows.
 
-**Act: **The character is a gifted actor, capable of performing drama,
+**Act:** The character is a gifted actor, capable of performing drama,
 comedy, or action-oriented roles with some level of skill.
 
 **Dance:** The character is a gifted dancer, capable of performing
@@ -1051,7 +1051,7 @@ synthesizer.
 talent for playing percussion musical instruments, such as drums,
 cymbals, triangle, xylophone, and tambourine.
 
-**Sing: **The character is a musician gifted with a talent for producing
+**Sing:** The character is a musician gifted with a talent for producing
 musical tones with your voice.
 
 **Stand-Up:** The character is a gifted comedian, capable of performing
@@ -1265,20 +1265,20 @@ and most groups contain more languages than those listed here.
 
 **Celtic:** Gaelic (Irish), Gaelic (Scots), Welsh.
 
-**Chinese: **Cantonese, Mandarin.
+**Chinese:** Cantonese, Mandarin.
 
 **Finno-Lappic:** Estonian, Finnish, Lapp.
 
-**Germanic: **Afrikaans, Danish, Dutch, English, Flemish, German,
+**Germanic:** Afrikaans, Danish, Dutch, English, Flemish, German,
 Icelandic, Norwegian, Swedish, Yiddish.
 
 **Hamo-Semitic:** Coptic\*, Middle Egyptian\*.
 
-**Indic: **Hindi, Punjabi, Sanskrit\*, Urdu.
+**Indic:** Hindi, Punjabi, Sanskrit\*, Urdu.
 
 **Iranian:** Farsi, Pashto.
 
-**Japanese: **Japanese.
+**Japanese:** Japanese.
 
 **Korean:** Korean.
 
@@ -1287,7 +1287,7 @@ Icelandic, Norwegian, Swedish, Yiddish.
 **Semitic:** Akkadian (aka Babylonian)\*, Ancient Hebrew\*, Arabic,
 Aramaic\*, Hebrew.
 
-**Slavic: **Belorussian, Bulgarian, Czech, Polish, Russian,
+**Slavic:** Belorussian, Bulgarian, Czech, Polish, Russian,
 Serbo-Croatian, Slovak, Ukrainian.
 
 **Tibeto-Burman:** Burmese, Sherpa, Tibetan.
@@ -1364,7 +1364,7 @@ of repair the character is attempting, then no Wealth check is needed.
 </tbody>
 </table>
 
-**Jury-Rig: **A character can choose to attempt jury-rigged, or
+**Jury-Rig:** A character can choose to attempt jury-rigged, or
 temporary, repairs. Doing this reduces the purchase DC by 3 and the
 Repair check DC by 5, and allows the character to make the checks in as
 little as a full-round action. However, a jury-rigged repair can only
@@ -1442,18 +1442,18 @@ undertaken in combat or other extreme circumstances, require checks. In
 addition, attempting trick riding or asking the animal to perform an
 unusual technique also requires a check.
 
-**Guide with Knees (DC 5): **The character can react instantly to guide
+**Guide with Knees (DC 5):** The character can react instantly to guide
 his or her mount with his or her knees so that the character can use
 both hands in combat or to perform some other action. Make the check at
 the start of the character’s round. If the character fails, he or she
 can only use one hand this round because the character needs to use the
 other to control his or her mount.
 
-**Stay in Saddle (DC 5): **The character can react instantly to try to
+**Stay in Saddle (DC 5):** The character can react instantly to try to
 avoid falling when his or her mount rears or bolts unexpectedly or when
 the character takes damage.
 
-**Fight while Mounted (DC 20): **While in combat, the character can
+**Fight while Mounted (DC 20):** While in combat, the character can
 attempt to control a mount that is not trained in combat riding (see the
 Handle Animal skill). If the character succeeds, he or she uses only a
 move action, and the character can use his or her attack action to do
@@ -1466,23 +1466,23 @@ make this check. Instead, the character can use his or her move action
 to have the animal perform a trick (commonly, to attack). The character
 can use his or her attack action normally.
 
-**Cover (DC 15): **The character can react instantly to drop down and
+**Cover (DC 15):** The character can react instantly to drop down and
 hang alongside his or her mount, using it as one-half cover. The
 character can’t attack while using his or her mount as cover. If the
 character fails, he or she doesn’t get the cover benefit.
 
-**Soft Fall (DC 15): **The character reacts instantly when he or she
+**Soft Fall (DC 15):** The character reacts instantly when he or she
 falls off a mount, such as when it is killed or when it falls, to try to
 avoid taking damage. If the character fails, he or she takes 1d6 points
 of falling damage.
 
-**Leap (DC 15): **The character can get his or her mount to leap
+**Leap (DC 15):** The character can get his or her mount to leap
 obstacles as part of its movement. Use the character’s Ride modifier or
 the mount’s Jump modifier (whichever is lower) when the mount makes its
 Jump check (see the Jump skill). The character makes a Ride check (DC
 15) to stay on the mount when it leaps.
 
-**Fast Mount or Dismount (DC 20; armor penalty applies): **The character
+**Fast Mount or Dismount (DC 20; armor penalty applies):** The character
 can mount or dismount as a free action. If the character fails the
 check, mounting or dismounting is a move action. (A character can’t
 attempt a fast mount or dismount unless he or she can perform the mount
@@ -1841,14 +1841,14 @@ the skill. The patients need complete bed rest (doing nothing all day).
 The character needs to devote at least ½ hour of the day to each patient
 the character is caring for.
 
-**Restore Hit Points (DC 15): **With a medical kit, if a character has
+**Restore Hit Points (DC 15):** With a medical kit, if a character has
 lost hit points, the character can restore some of them. A successful
 check, as a full-round action, restores 1d4 hit points. The number
 restored can never exceed the character’s full normal total of hit
 points. This application of the skill can be used successfully on a
 character only once per day.
 
-**Revive Dazed, Stunned, or Unconscious Character (DC 15): **With a
+**Revive Dazed, Stunned, or Unconscious Character (DC 15):** With a
 first aid kit, the character can remove the dazed, stunned, or
 unconscious condition from a character. This check is an attack action.
 
@@ -1863,7 +1863,7 @@ Treat Injury check stabilizes another character. The stabilized
 character regains no hit points, but he or she stops losing them. The
 character must have a medical kit to stabilize a dying character.
 
-**Surgery (DC 20): **With a surgery kit, a character can conduct field
+**Surgery (DC 20):** With a surgery kit, a character can conduct field
 surgery. This application of the Treat Injury skill carries a –4
 penalty, which can be negated with the Surgery feat. Surgery requires
 1d4 hours; if the patient is at negative hit points, add an additional
@@ -1878,7 +1878,7 @@ A character who undergoes surgery is fatigued for 24 hours, minus 2
 hours for every point above the DC the surgeon achieves. The period of
 fatigue can never be reduced below 6 hours in this fashion.
 
-**Treat Disease (DC 15): **A character can tend to a character infected
+**Treat Disease (DC 15):** A character can tend to a character infected
 with a treatable disease. Every time the diseased character makes a
 saving throw against disease effects (after the initial contamination),
 the treating character first makes a Treat Injury check to help the
@@ -1887,7 +1887,7 @@ minutes. If the treating character’s check succeeds, the treating
 character provides a bonus on the diseased character’s saving throw
 equal to his or her ranks in this skill.
 
-**Treat Poison (DC 15): **A character can tend to a poisoned character.
+**Treat Poison (DC 15):** A character can tend to a poisoned character.
 When a poisoned character makes a saving throw against a poison’s
 secondary effect, the treating character first makes a Treat Injury
 check as an attack action. If the treating character’s check succeeds,
@@ -1931,13 +1931,13 @@ opponents in combat, or tumble through opponents.
 falling. If the check succeeds, treat the fall as if it were 10 feet
 shorter when determining damage.
 
-**Tumble past Opponents: **With a successful Tumble check (DC 15), the
+**Tumble past Opponents:** With a successful Tumble check (DC 15), the
 character can weave, dodge, and roll up to 20 feet through squares
 adjacent to opponents, risking no attacks of opportunity. Failure means
 the character moves as planned, but provokes attacks of opportunity as
 normal.
 
-**Tumble through Opponents: **With a successful Tumble check (DC 25),
+**Tumble through Opponents:** With a successful Tumble check (DC 25),
 the character can roll, jump, or dive through squares oc­cupied by
 opponents, moving over, under, or around them as if they weren’t there.
 Failure means the character moves as planned, but provokes attacks of

@@ -121,7 +121,7 @@ feathers, shells, and carved pieces of wood. She does not use guns,
 preferring to use a magic longbow of exquisite quality and a brace of
 throwing knives.
 
-**Black Feather: **Female Elf; Tough 2/Fast 3/Charismatic 3/Wildlord 6;
+**Black Feather:** Female Elf; Tough 2/Fast 3/Charismatic 3/Wildlord 6;
 CR 14; Medium humanoid (elf, Shadowkind); HD 2d10 plus 3d8 plus 3d6 plus
 6d8; hp 66; Mas 10; Init +4; Spd 30 ft.; Defense 26, touch 25,
 flat-footed 22 (+4 Dex, +11 class, +1 *ghostshirt*); BAB +8; Grap +8;
@@ -144,13 +144,13 @@ Dodge, Fleet of Foot, Guide, Lightning Reflexes, Mobility, Point Blank
 Shot, Precise Shot, Shot on the Run, Simple Weapon Proficiency,
 Stealthy, Track.
 
-**Talents (Charismatic Hero): **Coordinate, inspiration.
+**Talents (Charismatic Hero):** Coordinate, inspiration.
 
-**Talents (Fast Hero): **Evasion, uncanny dodge.
+**Talents (Fast Hero):** Evasion, uncanny dodge.
 
-**Talents (Tough Hero): **Remain conscious.
+**Talents (Tough Hero):** Remain conscious.
 
-**Talents (Wildlord): **Animal empathy, animal companion, fast climb,
+**Talents (Wildlord):** Animal empathy, animal companion, fast climb,
 resist venom, call companion, skill mastery (handle animal).
 
 **Possessions**: *+2 longbow*, 12 *+1 arrows*, 4 knives, *ghostshirt*,
@@ -162,7 +162,7 @@ Wrangler.
 Whitetooth is Black Feather’s mountain lion animal companion. He is
 fanatically loyal to his master and will defend her to the death.
 
-**Whitetooth: **CR 6; Medium animal; HD 7d8+14; hp 55; Mas 15; Init +4;
+**Whitetooth:** CR 6; Medium animal; HD 7d8+14; hp 55; Mas 15; Init +4;
 Spd 40 ft., 20 ft. climb; Defense 20, touch 20, flat-footed 15 (+5 Dex,
 +5 natural); BAB +2; Grap +5; Atk +6 melee (1d3+1, claws); Full Atk +6
 melee (1d6+3, bite), +1 melee (1d3+1, claws), or +4 ranged; FS 5 ft. by
@@ -219,25 +219,25 @@ organization may use the following feats to fill any open feat slots.
 
 ###### Cirque Acrobate
 
-**Prerequisite: **Dexterity 16, Acrobatic, Cirque Contrôleur, Balance 6
+**Prerequisite:** Dexterity 16, Acrobatic, Cirque Contrôleur, Balance 6
 ranks, Tumble 9 ranks.
 
-**Benefit: **You gain a +2 competence bonus on Disguise, Perform
+**Benefit:** You gain a +2 competence bonus on Disguise, Perform
 (dance), and Sleight of Hand checks.
 
 #### Cirque Contrôleur
 
-**Prerequisite: **Dexterity 15, Acrobatic, Balance 6 ranks.
+**Prerequisite:** Dexterity 15, Acrobatic, Balance 6 ranks.
 
-**Benefit: **You gain a +2 competence bonus on Move Silently, Perform
+**Benefit:** You gain a +2 competence bonus on Move Silently, Perform
 (act), and Tumble checks.
 
 #### Cirque Vedette
 
-**Prerequisite: **Dexterity 18, Acrobatic, Cirque Acrobate, Cirque
+**Prerequisite:** Dexterity 18, Acrobatic, Cirque Acrobate, Cirque
 Contrôleur, Balance 6 ranks, Tumble 9 ranks, Disguise 12 ranks.
 
-**Benefit: **You gain a +4 competence bonus on Balance, Escape Artist,
+**Benefit:** You gain a +4 competence bonus on Balance, Escape Artist,
 Move Silently, Sleight of Hand, and Tumble checks.
 
 ###### COMMISSION FOR RESEARCH INTO UNEXPLAINED PHENOMENA
@@ -323,7 +323,7 @@ strengths, weaknesses, and any way that they can be exploited by the
 government. She has personally led expeditiong to capture specimens of
 numerous Shadow species and take them back to the laboratory for study.
 
-**Dr. Astrid Kolgrim: **Smart 4/Field Scientist 7; CR 11; Medium
+**Dr. Astrid Kolgrim:** Smart 4/Field Scientist 7; CR 11; Medium
 humanoid; HD 4d6 plus 7d8; hp 52; Mas 10; Init +0; Spd 30 ft.; Defense
 18, touch 17, flat-footed 18 (+4 smart defense, +3 class, +1 light
 undercover shirt); BAB +5; Grap +5; Atk +5 melee (1d3 nonlethal, unarmed
@@ -332,7 +332,7 @@ strike); Full Atk +5 melee (1d3 nonlethal, unarmed strike), or +6 ranged
 5 ft.; Reach 5 ft.; AL US Government, Science; SV Fort +5, Ref +8, Will
 +7; AP 11, Rep +4; Str 10, Dex 11, Con 10, Int 18, Wis 16, Cha 16.
 
-**Occupation: **Doctor (class skills: Knowledge \[behavioral sciences\]
+**Occupation:** Doctor (class skills: Knowledge \[behavioral sciences\]
 and Knowledge \[earth and life sciences\]).
 
 **Skills**: Computer Use +14, Craft (chemical) +17, Craft
@@ -346,12 +346,12 @@ sciences\] and Knowledge \[earth and life sciences\]), Heroic Surge,
 Lightning Reflexes, Medical Expert, Personal Firearms Proficiency, Point
 Blank Shot, Simple Weapons Proficiency, Studious, Surgery.
 
-**Talents (Smart Hero): **Savant (Knowledge \[earth and life
+**Talents (Smart Hero):** Savant (Knowledge \[earth and life
 sciences\]), plan.
 
-**Talents (Dedicated Hero): **Healing knack.
+**Talents (Dedicated Hero):** Healing knack.
 
-**Talents (Field Scientist): **Smart Defense, scientific improvisation,
+**Talents (Field Scientist):** Smart Defense, scientific improvisation,
 skill mastery (Computer Use, Knowledge \[behavioral science\], Knowledge
 \[earth and life sciences\], Craft \[pharmaceutical\], Craft
 \[chemical\], Research, Treat Injury), minor breakthrough (Knowledge
@@ -401,7 +401,7 @@ unique equipment in the field. Besides having access to all publicly
 available mundane and magic items, members of Department-7 each receive
 the following:
 
-**Synchronicity Watch: **A wrist or pocket watch that allows agents to
+**Synchronicity Watch:** A wrist or pocket watch that allows agents to
 move through crowds more easily than usual. Once per day, the watch can
 be used to activate a limited version of the *synchronicity *spell. It
 works exactly the same way as the spell except that the duration is only
@@ -410,14 +410,14 @@ works exactly the same way as the spell except that the duration is only
 *Type: *Wondrous item (magic); *Caster Level: *5th; *Purchase DC: *32;
 *Weight: *—.
 
-**Secret Pockets: **Each agent may choose one garment (pants,
+**Secret Pockets:** Each agent may choose one garment (pants,
 windbreaker, overcoat, etc.) and have up to two pockets of the garment
 function as described in the *secret pocket *spell.
 
 *Type: *Wondrous item (magic); *Caster Level: *5th; *Purchase DC: *34;
 *Weight: *1 lb.
 
-**Daylight Flares: **Every agent receives six sticks that look very much
+**Daylight Flares:** Every agent receives six sticks that look very much
 like unsharpened pencils. When a stick is snapped in two, the tip of the
 bottom half glows as thought it was the target of a *daylight *spell.
 This effect lasts for 20 minutes.
@@ -585,7 +585,7 @@ Draco spends most of his time *polymorphed *into a human. He appears to
 be in his mid-40s, with red hair, a red beard, and coal-black eyes. He
 dresses in the finest clothing and bits of flashy gold jewelry.
 
-**Franz Draco: **Male Efreeti Smart Hero 3/Charismatic Hero 4; CR 15;
+**Franz Draco:** Male Efreeti Smart Hero 3/Charismatic Hero 4; CR 15;
 Large outsider (fire); HD 10d8+20 plus 3d6+6 plus 4d6+8; hp 128; Mas 17;
 Init +7 (+3 Dex, +4 Improved Initiative); Spd 30 ft., fly 20 ft.
 (perfect); Defense 26, touch 14, flat-footed 23 (–1 size, +3 Dex, +6
@@ -600,7 +600,7 @@ immune to fire, cold vulnerability, *grant wishes*, telepathy,
 darkvision 60 ft.; AL Draco Industries, evil, law; SV Fort +12, Ref +13,
 Will +12; AP 3; Rep +7; Str 23, Dex 17, Con 14, Int 18, Wis 15, Cha 20.
 
-**Skills: **Bluff +16, Computer Use +8, Concentration +12, Craft
+**Skills:** Bluff +16, Computer Use +8, Concentration +12, Craft
 (writing) +8, Decipher Script +8, Diplomacy +13, Escape Artist +11,
 Forgery +8, Gather Information +13, Intimidate +13, Knowledge (arcane
 lore) +10, Knowledge (business) +16, Knowledge (current events) +12,
@@ -611,16 +611,16 @@ Spanish, Sense Motive +11, Speak Arabic, Speak Auran, Speak English,
 Speak Ignan, Speak Infernal, Speak Latin, Speak Spanish, Spellcraft +9,
 Spot +12.
 
-**Feats: **Archaic Weapon Proficiency, Armor Proficiency (light), Combat
+**Feats:** Archaic Weapon Proficiency, Armor Proficiency (light), Combat
 Reflexes, Dodge, Educated (Knowledge \[arcane lore\], Knowledge
 \[business\]), Heroic Surge, Improved Damage Threshold, Improved
 Initiative, Personal Firearms Proficiency, Renown.
 
-**Talents (Smart Hero): **Linguist, exploit weakness.
+**Talents (Smart Hero):** Linguist, exploit weakness.
 
-**Talents (Charismatic Hero): **Coordinate, inspiration.
+**Talents (Charismatic Hero):** Coordinate, inspiration.
 
-**Spell-Like Abilities: **1/day—*detect magical aura, gaseous form,
+**Spell-Like Abilities:** 1/day—*detect magical aura, gaseous form,
 invisibility, wall of fire *(DC 19). These abilities are as the spells
 cast by a 10th-level Mage (save DC 15 + spell level). The DCs are
 Charisma-based.
@@ -657,7 +657,7 @@ tailored to show off her ecsquisite figure without getting in her way
 should trouble arise. And Sasha always has on a pair of designer
 sunglasses (even at night).
 
-**Sasha: **Female Medusa Charismatic Hero 4: CR 11; Medium monstrous
+**Sasha:** Female Medusa Charismatic Hero 4: CR 11; Medium monstrous
 humanoid; HD 6d8+6 plus 4d6+4; hp 42; Mas 12; Init +2; Spd 30 ft.;
 Defense 16, touch 13, flat-footed 14 (+2 Dex, +1 class, +3 natural); BAB
 +7; Grap +7; Atk +7/+2 melee (1d4, knife); Full Atk +7 melee (1d4,
@@ -666,17 +666,17 @@ knife), +4 melee (1d4 plus poison, snakes), or +11/+6 ranged (2d6, Glock
 AL Franz Draco, Evil; SV Fort +5, Ref +9, Will +7; AP 6; Rep +3; Str 10,
 Dex 15, Con 12, Int 12, Wis 13, Cha 17.
 
-**Skills: **Bluff +15, Diplomacy +7, Disguise +15, Gather Information
+**Skills:** Bluff +15, Diplomacy +7, Disguise +15, Gather Information
 +9, Intimidate +9, Knowledge (streetwise) +5, Move Silently +9,
 Profession +7, Read/Write English, Read/Write Spanish, Speak English,
 Speak Spanish, Spot +10.
 
-**Feats: **Deceptive, Frightful Presence, Personal Firearms Proficiency,
+**Feats:** Deceptive, Frightful Presence, Personal Firearms Proficiency,
 Point Blank Shot, Simple Weapons Proficiency, Weapon Finesse (snakes).
 
-**Talent (Charismatic Hero): **Coordinate,inspiration.
+**Talent (Charismatic Hero):** Coordinate,inspiration.
 
-**Possessions: **Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
+**Possessions:** Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
 ammunition, concealed carry holster, firearms license, business
 clothing, overcoat, *eldritch cell phone, *PDA, disguise kit.
 
@@ -1196,7 +1196,7 @@ sunlight and is never seen out during the day. However, the hip crowd,
 who rarely see daylight themselves, never questions her nocturnal
 lifestyle.
 
-**Anastasia Markova: **Female Drow, Fast Hero 4/Dedicated Hero
+**Anastasia Markova:** Female Drow, Fast Hero 4/Dedicated Hero
 5/Charismatic Hero 9; CR 20; Medium humanoid (Drow, Shadowkind); HD
 4d8–4 plus 5d6–5 plus 9d6–9; hp 69; Mas 8; Init +7; Spd 30 ft.; Defense
 24, touch 24, flatfooted 21 (+3 Dex, +11 class); BAB +10; Grap +9; Atk
@@ -1224,11 +1224,11 @@ Surge, Improved Initiative, Iron Will, Personal Firearms Proficiency,
 Point Blank Shot, Precise Shot, Renown, Simple Weapon Proficiency,
 Trustworthy, Unbalance Opponent.
 
-**Talents (Fast Hero): **Evasion, opportunist.
+**Talents (Fast Hero):** Evasion, opportunist.
 
-**Talents (Dedicated Hero): **Skill emphasis (Bluff), Aware, Faith.
+**Talents (Dedicated Hero):** Skill emphasis (Bluff), Aware, Faith.
 
-**Talents (Charismatic Hero): **Charm, favor, captivate, fast talk,
+**Talents (Charismatic Hero):** Charm, favor, captivate, fast talk,
 taunt.
 
 **Possessions**: *+2 SITES M9 *(9mm autoloader), 100 rounds of frangible
@@ -1275,10 +1275,10 @@ Members of the Mindwreckers have access to the following psionic power:
 
 Charisma
 
-**Level: **Telepath 4; **Display: **Visual, Audible; **Manifestation
-Time: **1 action; **Range: **Touch; **Target: **One living creature;
-**Duration: **1 day + 1 hour/level; **Saving Throw: **Will negates;
-**Power Resistance: **Yes; **Power Points: **10
+**Level:** Telepath 4; **Display:** Visual, Audible; **Manifestation
+Time:** 1 action; **Range:** Touch; **Target:** One living creature;
+**Duration:** 1 day + 1 hour/level; **Saving Throw:** Will negates;
+**Power Resistance:** Yes; **Power Points:** 10
 
 You form a psionic barrier within the target’s memory, creating near
 total amnesia. The target cannot remember his name or any pertinent
@@ -1354,9 +1354,9 @@ access to the following psionic power:
 
 Wisdom \[Mind-Affecting\]
 
-**Level: **Telepath 1; **Display: **Visual; **Manifestation Time:
-**Attack action; **Range: **Personal; **Target: **You; **Duration: **See
-text; **Power Resistance: **No; **Power Point Cost: **See text
+**Level:** Telepath 1; **Display:** Visual; **Manifestation Time:
+**Attack action; **Range:** Personal; **Target:** You; **Duration:** See
+text; **Power Resistance:** No; **Power Point Cost:** See text
 
 You can completely shield your mind. *Detect psionics *and other powers
 and spells that target your mind cannot detect you while this power is
@@ -1410,14 +1410,14 @@ Unlike other franchises, though, these toys really *are *enchanted. Each
 MAGIC MEAL™ box contains either a temporary tattoo or a wind-up
 familiar.
 
-**Temporary Tattoo: **A wet transfer tattoo with a minor spell cast on
+**Temporary Tattoo:** A wet transfer tattoo with a minor spell cast on
 it, this tattoo is labeled so parents know what their children are
 getting. The tattoo takes a move action to apply, and the effects last
 for 10 + 1d10 rounds. Each tattoo provides a +2 bonus on one of the
 following checks: Balance, Climb, Hide, Jump, Listen, Move Silently,
 Spot, or Swim.
 
-**Wind-Up Familiar: **Toys in the shape of animals, each one has a
+**Wind-Up Familiar:** Toys in the shape of animals, each one has a
 spring wound motor enchanted so that it can follow a series of up to
 five simple directions. The toys recognize the following commands:
 Forward, Left, Right, Stop, Back, and Special. Each command results in 5
@@ -1442,20 +1442,20 @@ reduced movement rate);
 
 *Toad: *hop five feet in the air, landing 10 feet forward.
 
-**Wind-Up Familiar: **CR 1/2; Fine construct; HD 1/16 d10; hp 1; Mas —;
+**Wind-Up Familiar:** CR 1/2; Fine construct; HD 1/16 d10; hp 1; Mas —;
 Init +0; Spd 5 ft. (can’t run); Defense 18, touch 18, flat-footed 18 (+8
 Size); BAB +0; Grap –16; Atk +5 melee (1, slam); Full Atk +5 melee (1,
 slam); SQ construct, move or attack only, wind-up; AL none; SV Fort –5,
 Ref —, Will —; AP 0; Rep +0; Str 1, Dex 10, Con —, Int —, Wis —, Cha —.
 
-**Construct: **Wind-up familiars have the traits and immunities common
+**Construct:** Wind-up familiars have the traits and immunities common
 to constructs.
 
-**Move or Attack Only (Ex): **A wind-up familiar can perform only a
+**Move or Attack Only (Ex):** A wind-up familiar can perform only a
 single move action or attack action on its turn. It cannot charge or
 run.
 
-**Wind-Up (Ex): **A wind-up familiars has only limited power and must
+**Wind-Up (Ex):** A wind-up familiars has only limited power and must
 have its mechanisms wound in order to function. When wound, it can move
 30 feet before it needs to be rewound.
 

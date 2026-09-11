@@ -11,30 +11,30 @@ and additional equipment can be installed) it has, and how well it
 measures up in combat. See Table: Mecha Sizes for a summary of this
 information.
 
-**Size Modifier: **Apply this modifier to the mecha’s attack rolls and
+**Size Modifier:** Apply this modifier to the mecha’s attack rolls and
 to its Defense.
 
-**Equipment Slots: **The number of locations where weapons and other
+**Equipment Slots:** The number of locations where weapons and other
 mecha equipment can be installed.
 
-**Hit Points: **The mecha’s hit points, and the number of hit points the
+**Hit Points:** The mecha’s hit points, and the number of hit points the
 mecha provides its operator.
 
-**Base Speed: **The mecha’s base land speed. Certain types of armor
+**Base Speed:** The mecha’s base land speed. Certain types of armor
 reduce base speed (see Mecha Armor).
 
-**Height: **The mecha’s height in feet.
+**Height:** The mecha’s height in feet.
 
-**Weight: **The mecha’s weight in pounds.
+**Weight:** The mecha’s weight in pounds.
 
-**Fighting Space: **The mecha’s fighting space.
+**Fighting Space:** The mecha’s fighting space.
 
-**Reach: **The mecha’s reach, even without weapons.
+**Reach:** The mecha’s reach, even without weapons.
 
-**Purchase DC: **The base purchase DC of the mecha without armor,
+**Purchase DC:** The base purchase DC of the mecha without armor,
 weapons, and other equipment.
 
-**Restriction: **The level of license required to purchase the mecha
+**Restriction:** The level of license required to purchase the mecha
 legally.
 
 <table>
@@ -167,7 +167,7 @@ corridors to find the enemy. Large mecha are the easiest to operate.
 However, they can’t carry the intense array of weapons that bigger mecha
 can, nor are they as strong or durable.
 
-**Combat Statistics: **A Large mecha adds a +8 equipment bonus to a
+**Combat Statistics:** A Large mecha adds a +8 equipment bonus to a
 character’s Strength score. It imposes a –1 size penalty on attack rolls
 and to Defense. Depending on the material used, a Large mecha has 100
 bonus hit points, which are added to the character’s total and
@@ -178,9 +178,9 @@ A Large mecha has a single slam attack that deals 1d8 points of damage
 (plus the character’s increased Strength modifier). Its reach is 10
 feet, and its base speed is 30 feet.
 
-**Base Purchase DC: **40.
+**Base Purchase DC:** 40.
 
-**Equipment Slots: **A Large mecha has 7 equipment slots available.
+**Equipment Slots:** A Large mecha has 7 equipment slots available.
 These slots are located as follows.
 
 Helmet: 1 slot.
@@ -205,7 +205,7 @@ combat environment, but they favor locations with some variation in
 terrain. In the wide-open desert or depths of outer space, they can fall
 prey larger mecha.
 
-**Combat Statistics: **A Huge mecha adds a +16 equipment bonus to a
+**Combat Statistics:** A Huge mecha adds a +16 equipment bonus to a
 character’s Strength score. It imposes a –2 size penalty on attack rolls
 and to Defense. Depending on the material used, a Huge mecha has 200
 bonus hit points, which are added to the character’s total and
@@ -216,9 +216,9 @@ A Huge mecha has a single slam attack that deals 2d6 points of damage
 (plus the character’s increased Strength modifier). Its reach is 10
 feet.
 
-**Base Purchase DC: **44.
+**Base Purchase DC:** 44.
 
-**Equipment Slots: **A Huge mecha has 11 equipment slots available.
+**Equipment Slots:** A Huge mecha has 11 equipment slots available.
 These slots are located as follows.
 
 Helmet: 1 slot.
@@ -251,7 +251,7 @@ to destroy almost anything they can hit. Gargantuan mecha are common in
 outer space environments but are often too expensive and unwieldy for
 planet-based missions.
 
-**Combat Statistics: **A Gargantuan mecha adds a +24 equipment bonus to
+**Combat Statistics:** A Gargantuan mecha adds a +24 equipment bonus to
 a character’s Strength score and a –2 penalty to Dexterity. It imposes a
 –4 size penalty on attack rolls and to Defense. Depending on the
 material used, a Gargantuan mecha has 400 bonus hit points, which are
@@ -260,9 +260,9 @@ takes damage. It takes a –12 penalty on Hide checks. A Gargantuan mecha
 has a single slam attack that deals 2d8 points of damage (plus the
 character’s increased Strength modifier). Its reach is 15 feet.
 
-**Base Purchase DC: **48.
+**Base Purchase DC:** 48.
 
-**Equipment Slots: **A Gargantuan mecha has 17 equipment slots
+**Equipment Slots:** A Gargantuan mecha has 17 equipment slots
 available. These slots are located as follows.
 
 Helmet: 1 slot.
@@ -302,7 +302,7 @@ represent the epitome of futuristic warfare, with firepower sufficient
 to destroy starships or level entire city blocks. They typically serve
 as mobile artillery and walking weapon platforms.
 
-**Combat Statistics: **A Colossal mecha adds a +32 equipment bonus to a
+**Combat Statistics:** A Colossal mecha adds a +32 equipment bonus to a
 character’s Strength score and a –4 penalty to Dexterity. It imposes a
 –8 size penalty on attack rolls and to Defense. Depending on the
 material used, a Colossal mecha has 800 bonus hit points, which are
@@ -311,9 +311,9 @@ takes damage. It takes a –16 penalty on Hide checks. A Colossal mecha
 has a single slam attack that deals 4d6 points of damage (plus the
 character’s increased Strength modifier). Its reach is 15 feet.
 
-**Base Purchase DC: **60.
+**Base Purchase DC:** 60.
 
-**Equipment Slots: **A Colossal mecha has 25 equipment slots available.
+**Equipment Slots:** A Colossal mecha has 25 equipment slots available.
 These slots are located as follows.
 
 Helmet: 2 slots.
@@ -381,13 +381,13 @@ check against the mecha’s base purchase DC.
 Different types of superstructure materials are presented below and
 summarized in Table: Superstructure Materials.
 
-**Hardness: **The amount of damage the material absorbs from a weapon
+**Hardness:** The amount of damage the material absorbs from a weapon
 hit or collision.
 
-**Base Purchase DC Modifier: **The modifier applied to the mecha’s base
+**Base Purchase DC Modifier:** The modifier applied to the mecha’s base
 purchase DC.
 
-**Restriction: **Since mecha require a license to own and operate, the
+**Restriction:** Since mecha require a license to own and operate, the
 materials used for making them do not require special licenses to
 purchase.
 
@@ -505,27 +505,27 @@ purchase.
 This easy-to-acquire alloy is lightweight and reasonably strong.
 Alumisteel can also be used for armor (see Mecha Armor, below).
 
-**Hardness: **10.
+**Hardness:** 10.
 
-**Base Purchase DC Modifier: **–4.
+**Base Purchase DC Modifier:** –4.
 
 **DURALLOY (PL 6)**
 
 Duralloy is harder, heavier, and more durable than alumisteel. It can
 also be used to fashion armor (see Mecha Armor, below).
 
-**Hardness: **15.
+**Hardness:** 15.
 
-**Base Purchase DC Modifier: **None.
+**Base Purchase DC Modifier:** None.
 
 **VANADIUM (PL 6)**
 
 Vanadium alloy absorbs a respectable amount of damage and is easy to
 mold.
 
-**Hardness: **20.
+**Hardness:** 20.
 
-**Base Purchase DC Modifier: **+4.
+**Base Purchase DC Modifier:** +4.
 
 **NEOVULCANIUM (PL 7)**
 
@@ -533,9 +533,9 @@ Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of unparalleled resilience. Neovulcanium can also be
 used for armor (see Mecha Armor, below).
 
-**Hardness: **20.
+**Hardness:** 20.
 
-**Base Purchase DC Modifier: **None.
+**Base Purchase DC Modifier:** None.
 
 **NEUTRONITE (PL 7)**
 
@@ -543,9 +543,9 @@ Neutronite is a tough steel alloy into which a weave of free neutrons
 has been pressed. It is extremely resilient but also incredibly massive,
 weighing approximately five times more than a similar volume of lead.
 
-**Hardness: **25.
+**Hardness:** 25.
 
-**Base Purchase DC Modifier: **+4.
+**Base Purchase DC Modifier:** +4.
 
 **MEGATANIUM (PL 8)**
 
@@ -553,9 +553,9 @@ Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium is exceedingly hard and durable. Megatanium can also
 be used for armor (see Mecha Armor, below).
 
-**Hardness: **30.
+**Hardness:** 30.
 
-**Base Purchase DC Modifier: **None.
+**Base Purchase DC Modifier:** None.
 
 ## MECHA ARMOR
 
@@ -574,19 +574,19 @@ successful Repair check (DC 20).
 Different types of mecha armor are presented below, along with the
 following statistics:
 
-**Equipment Bonus: **The equipment bonus that the armor provides to the
+**Equipment Bonus:** The equipment bonus that the armor provides to the
 operator’s Defense.
 
-**Armor Penalty: **Mecha armor applies this penalty on its operator’s
+**Armor Penalty:** Mecha armor applies this penalty on its operator’s
 Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble
 checks.
 
-**Speed Penalty: **The amount by which the armor reduces the mecha’s
+**Speed Penalty:** The amount by which the armor reduces the mecha’s
 base speed.
 
-**Purchase DC: **The cost of the armor.
+**Purchase DC:** The cost of the armor.
 
-**Restriction: **Since mecha require a license to own and operate, mecha
+**Restriction:** Since mecha require a license to own and operate, mecha
 armor does not require a special license to purchase.
 
 **ALUMISTEEL ARMOR (PL 5)**
@@ -595,13 +595,13 @@ This easy-to-acquire alloy is lightweight and reasonably strong.
 Alumisteel can also be used as a building material for mecha
 superstructures (see Mecha Superstructure, above).
 
-**Equipment Bonus: **+5.
+**Equipment Bonus:** +5.
 
-**Armor Penalty: **–6**.**
+**Armor Penalty:** –6**.**
 
-**Speed Penalty: **–5 feet**.**
+**Speed Penalty:** –5 feet**.**
 
-**Purchase DC: **10 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
 **DURAPLASTIC ARMOR (PL 5)**
 
@@ -609,13 +609,13 @@ Duraplastic armor is made of advanced plastic polymers, such as carbon
 fiber and high-grade fiberglass. Although relatively cheap and light, it
 doesn’t offer tremendous protection.
 
-**Equipment Bonus: **+3.
+**Equipment Bonus:** +3.
 
-**Armor Penalty: **–4**.**
+**Armor Penalty:** –4**.**
 
-**Speed Penalty: **None**.**
+**Speed Penalty:** None**.**
 
-**Purchase DC: **5 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 5 + one-half the mecha’s base purchase DC.
 
 **DURALLOY ARMOR (PL 6)**
 
@@ -623,26 +623,26 @@ Duralloy is harder, heavier, and more durable than alumisteel. It can
 also be used as a building material for mecha superstructures (see Mecha
 Superstructure, above).
 
-**Equipment Bonus: **+8.
+**Equipment Bonus:** +8.
 
-**Armor Penalty: **–8**.**
+**Armor Penalty:** –8**.**
 
-**Speed Penalty: **–10 feet**.**
+**Speed Penalty:** –10 feet**.**
 
-**Purchase DC: **10 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
 **RESILIUM ARMOR (PL 6)**
 
 Resilium is a more malleable alloy than duralloy, although not as
 strong.
 
-**Equipment Bonus: **+6.
+**Equipment Bonus:** +6.
 
-**Armor Penalty: **–5**.**
+**Armor Penalty:** –5**.**
 
-**Speed Penalty: **None**.**
+**Speed Penalty:** None**.**
 
-**Purchase DC: **5 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 5 + one-half the mecha’s base purchase DC.
 
 **CRYSTAL CARBON ARMOR (PL 7)**
 
@@ -650,13 +650,13 @@ Grown in orbital laboratories, crystal carbon is a composite fiber
 material that narrowly outperforms neovulcanium (see below) on the
 battlefield.
 
-**Equipment Bonus: **+10.
+**Equipment Bonus:** +10.
 
-**Armor Penalty: **–8**.**
+**Armor Penalty:** –8**.**
 
-**Speed Penalty: **None**.**
+**Speed Penalty:** None**.**
 
-**Purchase DC: **15 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-half the mecha’s base purchase DC.
 
 **NEOVULCANIUM ARMOR (PL 7)**
 
@@ -664,13 +664,13 @@ Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of surprising resilience. It is also used as a building
 material for mecha superstructures (see Mecha Superstructure, above).
 
-**Equipment Bonus: **+10.
+**Equipment Bonus:** +10.
 
-**Armor Penalty: **–10**.**
+**Armor Penalty:** –10**.**
 
-**Speed Penalty: **–5 feet**.**
+**Speed Penalty:** –5 feet**.**
 
-**Purchase DC: **10 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
 **MEGATANIUM ARMOR (PL 8)**
 
@@ -679,13 +679,13 @@ matrix, megatanium is exceedingly hard and durable. It can also be used
 as a building material for mecha superstructures (see Mecha
 Superstructure, above).
 
-**Equipment Bonus: **+12.
+**Equipment Bonus:** +12.
 
-**Armor Penalty: **–10**.**
+**Armor Penalty:** –10**.**
 
-**Speed Penalty: **–10 feet**.**
+**Speed Penalty:** –10 feet**.**
 
-**Purchase DC: **10 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
 **REACTIVE ARMOR (PL 8)**
 
@@ -693,13 +693,13 @@ Consisting of layers of insulating gel or compressed gas between
 cerametal sheets, reactive armor provides the same protection as crystal
 carbon armor but is considerably cheaper and easier to produce.
 
-**Equipment Bonus: **+8.
+**Equipment Bonus:** +8.
 
-**Armor Penalty: **–5**.**
+**Armor Penalty:** –5**.**
 
-**Speed Penalty: **None**.**
+**Speed Penalty:** None**.**
 
-**Purchase DC: **5 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 5 + one-half the mecha’s base purchase DC.
 
 ## MECHA EQUIPMENT
 
@@ -719,14 +719,14 @@ with a successful Repair check (DC 20).
 In addition to a general description, each piece of equipment includes
 the following information:
 
-**Equipment Slots: **The number of equipment slots needed to install the
+**Equipment Slots:** The number of equipment slots needed to install the
 equipment. Some pieces of equipment are limited to specific body slots,
 as noted here.
 
-**Activation: **How long it takes to activate the piece of equipment
+**Activation:** How long it takes to activate the piece of equipment
 (usually an attack action).
 
-**Range/Range Increment: **A range listing indicates the maximum
+**Range/Range Increment:** A range listing indicates the maximum
 distance out to which the equipment functions. If a range increment is
 listed instead, it represents the distance at which accuracy begins to
 decline, as per the rules on range increments.
@@ -734,26 +734,26 @@ decline, as per the rules on range increments.
 Unless otherwise noted, equipment with a range increment has a maximum
 of ten increments.
 
-**Target or Targets/Effect/Area: **This entry starts with one of three
+**Target or Targets/Effect/Area:** This entry starts with one of three
 headings: Target, Effect, or Area. If the target of the component is
 You, you do not receive a saving throw (and there is no saving throw
 entry for the piece of equipment). If a component is a weapon capable of
 autofire, it will be noted here.
 
-**Duration: **The amount of time a piece of equipment continues to
+**Duration:** The amount of time a piece of equipment continues to
 operate before it needs to be reactivated, or how long its effect lasts.
 A duration of persistent means the equipment functions until the mecha
 is destroyed (reduced to 0 hit points) or the mecha’s operator turns it
 off (usually as a free action).
 
-**Saving Throw: **If a piece of equipment calls for a saving throw, the
+**Saving Throw:** If a piece of equipment calls for a saving throw, the
 type of saving throw is listed here, along with the effect of a
 successful save.
 
-**Purchase DC: **The purchase DC for the Wealth check to acquire the
+**Purchase DC:** The purchase DC for the Wealth check to acquire the
 equipment.
 
-**Restriction: **The level of license required to purchase the equipment
+**Restriction:** The level of license required to purchase the equipment
 legally.
 
 ## Leave Room for the Pilot
@@ -787,21 +787,21 @@ fly speed is doubled for 1 round. The afterburner system is good for
 only one use; additional activations require additional afterburner
 systems.
 
-**Equipment Slots: **1, must be torso, back, or leg.
+**Equipment Slots:** 1, must be torso, back, or leg.
 
-**Activation: **Free action.
+**Activation:** Free action.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **1 round.
+**Duration:** 1 round.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **8 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 8 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **JETPACK (PL 6)**
 
@@ -810,22 +810,22 @@ mecha a fly speed of 100 feet (clumsy). The jetpack carries enough fuel
 for the mecha to travel a total of 1,000 feet; refueling has a purchase
 DC of 16.
 
-**Equipment Slots: **1, must be back or boots; or 2, must be left leg
+**Equipment Slots:** 1, must be back or boots; or 2, must be left leg
 and right leg.
 
-**Activation: **Free action.
+**Activation:** Free action.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **JET-ASSIST WINGS (PL 7)**
 
@@ -834,43 +834,43 @@ do not provide the mecha with the ability to fly. A mecha with
 jet-assist wings improves its flight maneuverability by one category
 (clumsy to poor, poor to average, and so on).
 
-**Equipment Slots: **1, must be back or shoulders (Large or Huge); 2,
+**Equipment Slots:** 1, must be back or shoulders (Large or Huge); 2,
 must be back or shoulders (Gargantuan or Colossal).
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **5 + one-quarter the mecha’s purchase DC.
+**Purchase DC:** 5 + one-quarter the mecha’s purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **THRUSTER BOOTS (PL 7)**
 
 Thruster boots combine powerful fusion thrusters to give the mecha a fly
 speed of 150 feet (poor).
 
-**Equipment Slots: **1, must be boots.
+**Equipment Slots:** 1, must be boots.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **RAMJET THRUSTER BOOTS (PL 8)**
 
@@ -878,21 +878,21 @@ The best thruster system available uses ramjet technology to improve the
 performance of the PL 7 thruster boots, granting the mecha a fly speed
 of 200 feet (poor).
 
-**Equipment Slots: **1, must be boots.
+**Equipment Slots:** 1, must be boots.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 MECHA SENSOR SYSTEMS
 
@@ -938,22 +938,22 @@ following information about that target:
 
 • The target’s present direction or trajectory.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **1-mile-radius emanation centered on your mecha.
+**Range:** 1-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **18.
+**Purchase DC:** 18.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS II SENSOR SYSTEM (PL 6)**
 
@@ -983,22 +983,22 @@ type of its armor, if any.
 
 • The target’s weapon systems (functional and nonfunctional).
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **1-mile-radius emanation centered on your mecha.
+**Range:** 1-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS III SENSOR SYSTEM (PL 6)**
 
@@ -1027,22 +1027,22 @@ type of its armor, if any.
 
 • The target’s weapon systems (functional and nonfunctional).
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **1-mile-radius emanation centered on your mecha.
+**Range:** 1-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **25.
+**Purchase DC:** 25.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **ENIGMA SENSOR SUITE (PL 6)**
 
@@ -1057,21 +1057,21 @@ A mecha with the Enigma suite reduces the effects of concealment by two
 grades. Thus, an object with total concealment (50% miss chance) would
 have three-quarters concealment (30% miss chance) instead.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **150 feet.
+**Range:** 150 feet.
 
-**Area: **Cone-shaped emanation.
+**Area:** Cone-shaped emanation.
 
-**Duration: **1 round.
+**Duration:** 1 round.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **29.
+**Purchase DC:** 29.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **ORACLE TARGETING SYSTEM (PL 6)**
 
@@ -1086,22 +1086,22 @@ The Oracle system has five different categories (denoted Mark I through
 Mark V). The purchase DC varies depending on the enhancement bonus
 conferred.
 
-**Equipment Slots: **1, must be helmet or visor.
+**Equipment Slots:** 1, must be helmet or visor.
 
-**Activation: **Move action (to activate or switch).
+**Activation:** Move action (to activate or switch).
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **16 for Mark I (+1), 18 for Mark II (+2), 20 for Mark
+**Purchase DC:** 16 for Mark I (+1), 18 for Mark II (+2), 20 for Mark
 III (+3), 22 for Mark IV (+4), 24 for Mark V (+5).
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CLASS IV SENSOR SYSTEM (PL 7)**
 
@@ -1135,22 +1135,22 @@ type of its armor, if any.
 
 • How much damage (in hit points) the target has taken.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **10-mile-radius emanation centered on your mecha.
+**Range:** 10-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **27.
+**Purchase DC:** 27.
 
-**Restriction: **Licensed (+1). **Oracle Targeting System**
+**Restriction:** Licensed (+1). **Oracle Targeting System**
 
 **CLASS V SENSOR SYSTEM (PL 7)**
 
@@ -1186,22 +1186,22 @@ nonfunctional).
 
 • How much damage (in hit points) the target has taken.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **10-mile-radius emanation centered on your mecha.
+**Range:** 10-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **30.
+**Purchase DC:** 30.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **CLASS VI SENSOR SYSTEM (PL 8)**
 
@@ -1235,22 +1235,22 @@ nonfunctional).
 • How much damage (in hit points) the target has taken, and how much
 damage it can withstand (that is, hit points remaining).
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action (active scan mode only).
+**Activation:** Move action (active scan mode only).
 
-**Range: **100-mile-radius emanation centered on your mecha.
+**Range:** 100-mile-radius emanation centered on your mecha.
 
-**Area: **1 nonliving target (active scan only).
+**Area:** 1 nonliving target (active scan only).
 
-**Duration: **Persistent (passive scan mode) or 1 round (active scan
+**Duration:** Persistent (passive scan mode) or 1 round (active scan
 mode).
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **32.
+**Purchase DC:** 32.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 MECHA DEFENSE SYSTEMS
 
@@ -1269,21 +1269,21 @@ The Bulwark tactical shield—a high-tech version of the shields carried
 by knights of old—is worn on one of the mecha’s arms. It improves the
 mecha’s equipment bonus to Defense by +4.
 
-**Equipment Slots: **1, must be arm.
+**Equipment Slots:** 1, must be arm.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **5 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 5 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **BASTION TACTICAL SHIELD (PL 6)**
 
@@ -1293,42 +1293,42 @@ The Bastion tactical shield improves upon the Bulwark tactical shield
 When not deployed, the Bastion tactical shield can retract into the
 mecha’s arm. Deploying or retracting the shield is a move action.
 
-**Equipment Slots: **1, must be arm.
+**Equipment Slots:** 1, must be arm.
 
-**Activation: **None or move action (see text).
+**Activation:** None or move action (see text).
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **5 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 5 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **LX-10 ANTISHOCK ARRAY (PL 6)**
 
 The LX-10 antishock array grounds the mecha and protects it against
 electrical attacks. The mecha gains electricity resistance 10.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **BARRICADE TACTICAL SHIELD (PL 7)**
 
@@ -1339,21 +1339,21 @@ superior ceramic coating grants the mecha fire resistance 10.
 When not deployed, the Barricade tactical shield can retract into the
 mecha’s arm. Deploying or retracting the shield is a move action.
 
-**Equipment Slots: **1, must be arm.
+**Equipment Slots:** 1, must be arm.
 
-**Activation: **None or move action (see text).
+**Activation:** None or move action (see text).
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **8 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 8 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **DELPHI DEFENSE SUITE (PL 7)**
 
@@ -1363,23 +1363,23 @@ autoinjectors for the mecha operator. The Delphi defense suite grants
 the operator a resistance bonus on all saving throws for 1 minute: +1
 for the Mark I version and up to +5 for the Mark V version.
 
-**Equipment Slots: **1 (Mark I and Mark II versions), 2 (Mark III, Mark
+**Equipment Slots:** 1 (Mark I and Mark II versions), 2 (Mark III, Mark
 IV, and Mark V versions).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **1 minute.
+**Duration:** 1 minute.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21 for Mark I (+1), 23 for Mark II (+2), 25 for Mark
+**Purchase DC:** 21 for Mark I (+1), 23 for Mark II (+2), 25 for Mark
 III (+3), 27 for Mark IV (+4), 29 for Mark V (+5).
 
-**Restriction: **None.
+**Restriction:** None.
 
 **LIGHT FORTIFICATION (PL 7)**
 
@@ -1391,21 +1391,21 @@ Installing light fortification requires a Craft (structural) check
 instead of a Craft (mechanical) check. Light fortification takes the
 place of one of the mecha’s equipment slots.
 
-**Equipment Slots: **1 (equivalent).
+**Equipment Slots:** 1 (equivalent).
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **LX-20 ANTISHOCK ARRAY (PL 7)**
 
@@ -1430,21 +1430,21 @@ attempting to hide requires a Spot check against DC 40 if immobile or DC
 20 if moving (as if the mecha operator had rolled a 0 on the Hide
 check).
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Attack or move action.
+**Activation:** Attack or move action.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **20 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 20 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **DEFLECTION FIELD (PL 8)**
 
@@ -1456,22 +1456,22 @@ type of field (denoted Mark I through Mark V).
 The operator can activate or deactivate the deflection field once per
 round as a free action.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None or free action (see text).
+**Activation:** None or free action (see text).
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **24 for Mark I (+1), 27 for Mark II (+2), 30 for Mark
+**Purchase DC:** 24 for Mark I (+1), 27 for Mark II (+2), 30 for Mark
 III (+3), 33 for Mark IV (+4), 36 for Mark V (+5).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **MEDIUM FORTIFICATION (PL 8)**
 
@@ -1481,7 +1481,7 @@ system converts 75% of all critical hits into regular hits.
 Medium fortification takes the place of two of the mecha’s equipment
 slots.
 
-**Equipment Slots: **2 (equivalent).
+**Equipment Slots:** 2 (equivalent).
 
 **HEAVY FORTIFICATION (PL 9)**
 
@@ -1491,7 +1491,7 @@ system converts all critical hits into regular hits.
 Heavy fortification takes the place of three of the mecha’s equipment
 slots.
 
-**Equipment Slots: **3 (equivalent).
+**Equipment Slots:** 3 (equivalent).
 
 MECHA WEAPONS
 
@@ -1499,10 +1499,10 @@ Mecha use both melee and ranged weapons to dispatch foes. In addition, a
 weapon can either be handheld or integrated into the mecha’s
 superstructure; each version has its benefits.
 
-**Handheld Weapons: **A handheld weapon does not cost an equipment slot.
+**Handheld Weapons:** A handheld weapon does not cost an equipment slot.
 However, a mecha with a handheld weapon can be disarmed.
 
-**Integrated Weapons: **An integrated weapon takes up one or more of the
+**Integrated Weapons:** An integrated weapon takes up one or more of the
 mecha’s equipment slots, but the mecha cannot be disarmed of the weapon.
 Table: Mecha Weapons summarizes each weapon’s statistics.
 
@@ -2112,21 +2112,21 @@ caught within the cone must succeed at a Reflex save (DC 13) or take 4d6
 points of fire damage. The flame-thrower carries enough fuel for 20
 attacks; refueling the tank has a purchase DC of 12.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **Emanates from mecha.
+**Range Increment:** Emanates from mecha.
 
-**Area: **30-foot cone.
+**Area:** 30-foot cone.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **Reflex half (DC 13).
+**Saving Throw:** Reflex half (DC 13).
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **M-9 BARRAGE CHAINGUN (PL 5)**
 
@@ -2137,22 +2137,22 @@ enough room for four 50-round ammo belts. Each additional equipment slot
 devoted to ammo storage has room for six more ammo belts. Each
 additional ammo belt has a purchase DC of 8.
 
-**Equipment Slots: **1, must be hand (or arm if Large), arm, or
+**Equipment Slots:** 1, must be hand (or arm if Large), arm, or
 shoulders.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **60 feet.
+**Range Increment:** 60 feet.
 
-**Target: **Single target within 600 feet, or autofire.
+**Target:** Single target within 600 feet, or autofire.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **M-53 FIRESTAR ROCKET LAUNCHER (PL 5)**
 
@@ -2163,23 +2163,23 @@ dealing 10d6 points of fire damage to everything within its burst
 radius. A successful Reflex save (DC 17) reduces the damage by half. The
 system carries six rockets.
 
-**Equipment Slots: **1 for launcher, must be hand (or arm if Large),
+**Equipment Slots:** 1 for launcher, must be hand (or arm if Large),
 arm, or shoulders; 1 for each six-rocket pack.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **200 feet.
+**Range:** 200 feet.
 
-**Area: **20-foot-radius burst.
+**Area:** 20-foot-radius burst.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **Reflex half (DC 17).
+**Saving Throw:** Reflex half (DC 17).
 
-**Purchase DC: **24 for rocket launcher and 6 rockets, 12 per additional
+**Purchase DC:** 24 for rocket launcher and 6 rockets, 12 per additional
 6-rocket pack.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **M-55 CRUD ROCKET LAUNCHER (PL 5)**
 
@@ -2195,23 +2195,23 @@ deals 15d6 points of damage to its target; half of the damage is
 ballistic damage, and half of the damage is fire damage. The missile’s
 guidance system negates the normal penalty for range increments.
 
-**Equipment Slots: **1 for launcher, must be hand (or arm if Large),
+**Equipment Slots:** 1 for launcher, must be hand (or arm if Large),
 arm, or shoulders; 1 for each 4-missile battery.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **2,000 feet.
+**Range:** 2,000 feet.
 
-**Target: **Single target.
+**Target:** Single target.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **23 for missile launcher and 4 missiles, 21 per
+**Purchase DC:** 23 for missile launcher and 4 missiles, 21 per
 additional 4-missile pack.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **PS-15 PANTHER CLAWS (PL 5)**
 
@@ -2226,21 +2226,21 @@ critical threat range of 19–20.
 
 The claws are one size category smaller than the mecha’s size category.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **THUNDERBOLT SHOCK ROD (PL 5)**
 
@@ -2252,21 +2252,21 @@ electricity damage.
 
 The shock rod’s size category is the same as the mecha’s size category.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **WARPATH RECOILLESS RIFLE (PL 5)**
 
@@ -2274,44 +2274,44 @@ The Warpath recoilless rifle is a rapid-fire cannon that fires shells
 that detonate on impact. Each shell deals 10d6 points of damage, and the
 system’s magazine holds 20 shells.
 
-**Equipment Slots: **1 for rifle, must be hand (or arm if Large); 1 for
+**Equipment Slots:** 1 for rifle, must be hand (or arm if Large); 1 for
 each 20-round magazine.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **40 feet.
+**Range Increment:** 40 feet.
 
-**Target: **Single target within 400 feet, or autofire.
+**Target:** Single target within 400 feet, or autofire.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC : **22 for rifle and 20-round magazine, 15 per additional
+**Purchase DC :** 22 for rifle and 20-round magazine, 15 per additional
 magazine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **CORONA MICROWAVE BEAM (PL 6)**
 
 The Corona microwave beam is the cheapest PL 6 mecha energy weapon. It
 deals 5d6 points of fire damage on a successful hit.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **15 feet.
+**Range Increment:** 15 feet.
 
-**Target: **Single target within 150 feet.
+**Target:** Single target within 150 feet.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **19.
+**Purchase DC:** 19.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **LK8 ARMOR-PIERCING PIKE (PL 6)**
 
@@ -2325,43 +2325,43 @@ feet of reach.
 The armor-piercing pike’s size category is one greater than the mecha’s
 size category, up to a maximum size of Colossal.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **M-21 COMET AUTOLASER (PL 6)**
 
 Consisting of a rotating ring of laser cannons, the M-21 Comet autolaser
 deals 8d6 points of fire damage with a successful attack.
 
-**Equipment Slots: **2, including hand (or arm if Large), arm, or
+**Equipment Slots:** 2, including hand (or arm if Large), arm, or
 shoulders.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **75 feet.
+**Range Increment:** 75 feet.
 
-**Target: **Single target within 750 feet, or autofire.
+**Target:** Single target within 750 feet, or autofire.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **22.
+**Purchase DC:** 22.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **M-70 EMP ROCKET LAUNCHER (PL 6)**
 
@@ -2374,7 +2374,7 @@ If a mecha takes any damage from an EMP rocket, all crew and passengers
 aboard the damaged mecha must succeed at a Fortitude save (DC 15) or be
 dazed for 1 round.
 
-**Purchase DC: **27 for rocket launcher and 6 rockets, 15 per additional
+**Purchase DC:** 27 for rocket launcher and 6 rockets, 15 per additional
 6-rocket pack.
 
 **M-75 CRICKET ROCKET LAUNCHER (PL 6)**
@@ -2388,7 +2388,7 @@ If a mecha takes any damage from a Cricket rocket, all crew and
 passengers aboard the damaged mecha must succeed at a Fortitude save (DC
 15) or be deafened for 1d6 rounds.
 
-**Purchase DC: **25 for rocket launcher and 6 rockets, 13 per additional
+**Purchase DC:** 25 for rocket launcher and 6 rockets, 13 per additional
 6-rocket pack.
 
 **NKP PUMA POP-UP TURRET (PL 6)**
@@ -2398,21 +2398,21 @@ a breakaway hatch in a mecha’s hull. A triumph of miniaturization, it
 packs significant wallop in a small, versatile (it can be installed in
 any equipment slot) package. It deals 8d6 points of fire damage.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **75 feet.
+**Range Increment:** 75 feet.
 
-**Target: **Single target within 750 feet.
+**Target:** Single target within 750 feet.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **23.
+**Purchase DC:** 23.
 
-**Restriction: **Military (+2).
+**Restriction:** Military (+2).
 
 **T-95 CAVALCADE CHAINGUN (PL 6)**
 
@@ -2423,44 +2423,44 @@ unit has enough room for four 50-round ammo belts. Each additional
 equipment slot devoted to ammo storage has room for six more ammo belts.
 Each additional ammo belt has a purchase DC of 10.
 
-**Equipment Slots: **1, must be hand (or arm if Large), arm, or
+**Equipment Slots:** 1, must be hand (or arm if Large), arm, or
 shoulders.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **60 feet.
+**Range Increment:** 60 feet.
 
-**Target: **Single target within 600 feet, or autofire.
+**Target:** Single target within 600 feet, or autofire.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21 for weapon, 10 for ammo belt.
+**Purchase DC:** 21 for weapon, 10 for ammo belt.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **TYPHOON 240 LASER CANNON (PL 6)**
 
 A reliable laser cannon, the Typhoon 240 deals 10d6 points of fire
 damage with a successful attack.
 
-**Equipment Slots: **2, including hand (or arm if Large), arm,
+**Equipment Slots:** 2, including hand (or arm if Large), arm,
 shoulders, or visor.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **100 feet.
+**Range Increment:** 100 feet.
 
-**Target: **Single target within 1,000 feet.
+**Target:** Single target within 1,000 feet.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **25.
+**Purchase DC:** 25.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **CHRYSANTHEMUM LASER ARRAY (PL 6)**
 
@@ -2473,21 +2473,21 @@ save (DC 25) means the target takes only half damage.
 Once fired, the Chrysanthemum burst array becomes nonfunctional and must
 be replaced.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **0 feet.
+**Range:** 0 feet.
 
-**Area: **60-foot-radius burst centered on you.
+**Area:** 60-foot-radius burst centered on you.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **Reflex half (DC 25).
+**Saving Throw:** Reflex half (DC 25).
 
-**Purchase DC: **26.
+**Purchase DC:** 26.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **M-300 RHINO MASS CANNON (PL 7)**
 
@@ -2497,22 +2497,22 @@ increased gravitational pull causes it to slam into the target like a
 wrecking ball. The weapon deals 8d12 points of ballistic damage on a
 successful hit.
 
-**Equipment Slots: **2, including hand (or arm if Large), arm, or
+**Equipment Slots:** 2, including hand (or arm if Large), arm, or
 shoulders.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **100 feet.
+**Range Increment:** 100 feet.
 
-**Target: **Single target within 1,000 feet.
+**Target:** Single target within 1,000 feet.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **29.
+**Purchase DC:** 29.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **PS-25 TIGER CLAWS (PL 7)**
 
@@ -2527,21 +2527,21 @@ a critical threat range of 19–20.
 
 The claws are one size category smaller than the mecha’s size category.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **TSUNAMI 480 PLASMA CANNON (PL 7)**
 
@@ -2554,23 +2554,23 @@ within a 60-foot cone for 12d6 points of fire damage, but those in the
 area can make a Reflex save (DC 19) to reduce the damage by half.
 Critical hits aren’t possible on the wide-angle setting.
 
-**Equipment Slots: **3, including hand (or arm if Large), arm,
+**Equipment Slots:** 3, including hand (or arm if Large), arm,
 shoulders, or visor.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment/Range: **150 feet (focused beam), or 60 feet
+**Range Increment/Range:** 150 feet (focused beam), or 60 feet
 (wide-angle).
 
-**Target/Area: **Single target within 1,500 feet, or 60-foot cone.
+**Target/Area:** Single target within 1,500 feet, or 60-foot cone.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None or Reflex half (DC 19; see text).
+**Saving Throw:** None or Reflex half (DC 19; see text).
 
-**Purchase DC: **25.
+**Purchase DC:** 25.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **XJ-A PYTHON ELECTRO-WHIP (PL 7)**
 
@@ -2591,21 +2591,21 @@ detach the Python electro-whip to avoid being tripped.
 The electro-whip’s size category is the same as the mecha’s size
 category.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **AVENGER ELECTRO-SCIMITAR (PL 8)**
 
@@ -2622,21 +2622,21 @@ electricity damage.
 The electro-scimitar’s size category is the same as the mecha’s size
 category.
 
-**Equipment Slots: **1, must be hand (or arm if Large).
+**Equipment Slots:** 1, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **LT-5 LONGSHOT MASS DRIVER (PL 8)**
 
@@ -2646,23 +2646,23 @@ imparts to the target. A mass driver round deals 15d6 points of
 ballistic damage, and the system’s magazine holds 10 rounds. Each
 10-round magazine has a purchase DC of 12.
 
-**Equipment Slots: **2 for weapon, including hand (or arm if Large),
+**Equipment Slots:** 2 for weapon, including hand (or arm if Large),
 arm, or shoulders; 1 for each 10-round ammo bay.
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range Increment: **120 feet.
+**Range Increment:** 120 feet.
 
-**Target: **Single target within 1,200 feet.
+**Target:** Single target within 1,200 feet.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **24 for drive and 10-round magazine, 12 per additional
+**Purchase DC:** 24 for drive and 10-round magazine, 12 per additional
 magazine.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 **RP-91 REAPER LASER SCYTHE (PL 8)**
 
@@ -2682,21 +2682,21 @@ bonus on damage rolls when wielding the weapon.
 The laser scythe’s size category is one size category larger than the
 mecha’s size category, up to a maximum size of Colossal.
 
-**Equipment Slots: **2, must be hand (or arm if Large).
+**Equipment Slots:** 2, must be hand (or arm if Large).
 
-**Activation: **Attack action.
+**Activation:** Attack action.
 
-**Range: **Touch.
+**Range:** Touch.
 
-**Target: **Single target within reach.
+**Target:** Single target within reach.
 
-**Duration: **Instantaneous.
+**Duration:** Instantaneous.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 MISCELLANEOUS EQUIPMENT
 
@@ -2731,21 +2731,21 @@ It takes a successful Computer Use check (DC 25 if the operator is
 disabled, 35 if the operator is still active) to switch overall control
 of the mecha to a copilot cockpit.
 
-**Equipment Slots: **3, must be torso or back.
+**Equipment Slots:** 3, must be torso or back.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **20.
+**Purchase DC:** 20.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **COCKPIT, PASSENGER (PL 5)**
 
@@ -2757,21 +2757,21 @@ publicly over open frequencies, and leave the cockpit as a full-round
 action. As a move action, the operator can prevent any of the above by
 shutting off the cameras, locking the hatch, and so on.
 
-**Equipment Slots: **2, must be torso or back.
+**Equipment Slots:** 2, must be torso or back.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **20.
+**Purchase DC:** 20.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **COMM SYSTEM (PL 5)**
 
@@ -2779,21 +2779,21 @@ The mecha is equipped with a radio transceiver that can transmit on
 multiple frequencies in either LOS (line of sight) or omnidirectional
 mode. It can handle up to ten simultaneous two-way conversations.
 
-**Equipment Slots: **0.
+**Equipment Slots:** 0.
 
-**Activation: **Free action.
+**Activation:** Free action.
 
-**Range: **100 miles.
+**Range:** 100 miles.
 
-**Target: **One or more radio transceivers.
+**Target:** One or more radio transceivers.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **21.
+**Purchase DC:** 21.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **LIFE SUPPORT SYSTEM (PL 5)**
 
@@ -2802,21 +2802,21 @@ the mecha operator to ignore the effects of inhaled poisons and
 immersion in water. The onboard air supply lasts for 24 hours. A mecha
 equipped with a life support system has one less equipment slot.
 
-**Equipment Slots: **1 (equivalent).
+**Equipment Slots:** 1 (equivalent).
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **14.
+**Purchase DC:** 14.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **HV-5 HAVEN ESCAPE POD (PL 6)**
 
@@ -2831,21 +2831,21 @@ The Haven escape pod has a fly speed of 90 feet (clumsy), 50 hit points,
 hardness 10, and a Defense of 18. Three rounds after it jettisons from
 the mecha, it runs out of fuel, landing or crashing as appropriate.
 
-**Equipment Slots: **1, must be torso.
+**Equipment Slots:** 1, must be torso.
 
-**Activation: **Free action or move action (see text).
+**Activation:** Free action or move action (see text).
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **3 rounds.
+**Duration:** 3 rounds.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **SPACE SKIN (PL 6)**
 
@@ -2856,21 +2856,21 @@ operate in space.
 
 A mecha equipped with space skin has one less equipment slot.
 
-**Equipment Slots: **1 (equivalent).
+**Equipment Slots:** 1 (equivalent).
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **18.
+**Purchase DC:** 18.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **STEALTH SUITE (PL 6)**
 
@@ -2880,21 +2880,21 @@ mecha a +10 bonus on Hide and Move Silently checks. Cost and the size
 penalty combine to make this structural option impractical on all but
 the smallest mecha.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **10 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 10 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 **ADVANCED DIAGNOSTICS (PL 7)**
 
@@ -2904,21 +2904,21 @@ Advanced diagnostics restores 1d10 points of damage per hour, during
 which time the mecha cannot move or attack. Only the mecha’s bonus hit
 points are repaired, not damage to the mecha’s operator.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **Move action.
+**Activation:** Move action.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **1 round.
+**Duration:** 1 round.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **STRUCTURAL ENHANCEMENT (PL 7)**
 
@@ -2936,21 +2936,21 @@ without a mechanical tool kit takes a –4 penalty on the skill check.
 
 Each time a mecha is structurally enhanced, it loses one equipment slot.
 
-**Equipment Slots: **1 (equivalent).
+**Equipment Slots:** 1 (equivalent).
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-half the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-half the mecha’s base purchase DC.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **ZERO-G STABILIZER (PL 7)**
 
@@ -2958,21 +2958,21 @@ A zero-G stabilizer allows the mecha and its operator to function
 normally in low-gravity and zero-gravity environments, as though the
 operator has the Zero-G Training feat (see page 15).
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15.
+**Purchase DC:** 15.
 
-**Restriction: **None.
+**Restriction:** None.
 
 **CRACKERJACK NEURAL LINK (PL 8)**
 
@@ -2983,21 +2983,21 @@ on initiative checks. In addition, the operator can use any of his
 nonmecha-specific feats while operating a mecha. (This ability does not
 grant the operator any new feats.)
 
-**Equipment Slots: **1, must be helmet or cranium.
+**Equipment Slots:** 1, must be helmet or cranium.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 **NANOREPAIR UNIT (PL 8)**
 
@@ -3006,59 +3006,59 @@ first indication of damage. The mecha automatically heals 5 points of
 damage per round. The nanorepair unit ceases to function if the mecha
 loses all its hit points.
 
-**Equipment Slots: **1.
+**Equipment Slots:** 1.
 
-**Activation: **None.
+**Activation:** None.
 
-**Range: **Personal.
+**Range:** Personal.
 
-**Target: **You.
+**Target:** You.
 
-**Duration: **Persistent.
+**Duration:** Persistent.
 
-**Saving Throw: **None.
+**Saving Throw:** None.
 
-**Purchase DC: **15 + one-quarter the mecha’s base purchase DC.
+**Purchase DC:** 15 + one-quarter the mecha’s base purchase DC.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 ## SAMPLE MECHA
 
-**Size: **The mecha’s body size (and its size penalty on attack rolls
+**Size:** The mecha’s body size (and its size penalty on attack rolls
 and to Defense, in parentheses).
 
-**Bonus Hit Points: **The bonus hit points the mecha gives the operator.
+**Bonus Hit Points:** The bonus hit points the mecha gives the operator.
 This value also represents the mecha’s total hit points.
 
-**Superstructure: **The chief material used in the construction of the
+**Superstructure:** The chief material used in the construction of the
 mecha’s superstructure.
 
-**Hardness: **The hardness afforded by the mecha’s superstructure.
+**Hardness:** The hardness afforded by the mecha’s superstructure.
 Hardness reduces the amount of damage the mecha takes from an attack.
 
-**Armor: **The type of armor installed on the mecha. Some types of armor
+**Armor:** The type of armor installed on the mecha. Some types of armor
 reduce a mecha’s speed.
 
-**Bonus to Defense: **The mecha’s equipment bonus to Defense, as
+**Bonus to Defense:** The mecha’s equipment bonus to Defense, as
 provided by its armor.
 
-**Armor Penalty: **Apply this penalty to the operator’s Balance, Climb,
+**Armor Penalty:** Apply this penalty to the operator’s Balance, Climb,
 Escape Artist, Hide, Jump, Move Silently, and Tumble checks.
 
-**Reach: **The mecha’s reach.
+**Reach:** The mecha’s reach.
 
-**Strength Bonus: **The equipment bonus the mecha provides to its
+**Strength Bonus:** The equipment bonus the mecha provides to its
 operator’s Strength.
 
-**Dexterity Penalty: **The penalty the mecha applies to its operator’s
+**Dexterity Penalty:** The penalty the mecha applies to its operator’s
 Dexterity (if any).
 
-**Speed: **The mecha’s base land speed (and fly speed, if applicable).
+**Speed:** The mecha’s base land speed (and fly speed, if applicable).
 
-**Base Purchase DC: **The mecha’s base purchase DC does not include
+**Base Purchase DC:** The mecha’s base purchase DC does not include
 armor or equipment.
 
-**Standard Equipment Package: **The standard equipment found on the
+**Standard Equipment Package:** The standard equipment found on the
 baseline model.
 
 MYRMIDON (PL 6)
@@ -3072,17 +3072,17 @@ a purchase DC of 41.
 
 |                                        |                           |
 |----------------------------------------|---------------------------|
-| **Size: **Large (–1 size)              | **Bonus Hit Points: **100 |
+| **Size:** Large (–1 size)              | **Bonus Hit Points:** 100 |
 |                                        |                           |
-| **Superstructure: **Duralloy           | **Hardness: **15          |
-| **Armor: **Duralloy                    | **Bonus to Defense: **+8  |
-| **Armor Penalty: **–8                  | **Reach: **10 ft.         |
-| **Strength Bonus: **+8                 | **Dexterity Penalty: **—  |
+| **Superstructure:** Duralloy           | **Hardness:** 15          |
+| **Armor:** Duralloy                    | **Bonus to Defense:** +8  |
+| **Armor Penalty:** –8                  | **Reach:** 10 ft.         |
+| **Strength Bonus:** +8                 | **Dexterity Penalty:** —  |
 |                                        |                           |
-| **Speed: **20 ft., fly 90 ft. (clumsy) | **Base Purchase DC: **40  |
+| **Speed:** 20 ft., fly 90 ft. (clumsy) | **Base Purchase DC:** 40  |
 |                                        |                           |
 
-**Standard Equipment Package: **Pilot’s cockpit (torso and back), Class
+**Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), M-9 Barrage chaingun (left arm), 6 50-round
 ammo belts for M-9 Barrage chaingun (shoulders), PS-15 Panther claws
 (right arm), jetpack (boots), comm system (no slots).
@@ -3099,17 +3099,17 @@ a purchase DC of 49.
 
 |                                      |                           |
 |--------------------------------------|---------------------------|
-| **Size: **Huge (–2 size)             | **Bonus Hit Points: **200 |
+| **Size:** Huge (–2 size)             | **Bonus Hit Points:** 200 |
 |                                      |                           |
-| **Superstructure: **Vanadium         | **Hardness: **20          |
-| **Armor: **Duralloy                  | **Bonus to Defense: **+8  |
-| **Armor Penalty: **–8                | **Reach: **10 ft.         |
-| **Strength Bonus: **+16              | **Dexterity Penalty: **—  |
+| **Superstructure:** Vanadium         | **Hardness:** 20          |
+| **Armor:** Duralloy                  | **Bonus to Defense:** +8  |
+| **Armor Penalty:** –8                | **Reach:** 10 ft.         |
+| **Strength Bonus:** +16              | **Dexterity Penalty:** —  |
 |                                      |                           |
-| **Speed: **30 ft., fly 90 ft. (poor) | **Base Purchase DC: **48  |
+| **Speed:** 30 ft., fly 90 ft. (poor) | **Base Purchase DC:** 48  |
 |                                      |                           |
 
-**Standard Equipment Package: **Pilot’s cockpit (torso and back), Class
+**Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), Enigma sensor suite (visor), Typhoon 240
 laser cannon (left arm and left hand), M-53 Firestar rocket launcher
 (right h and), 6-pack o f M -53 Firestar rockets ( right arm),
@@ -3128,17 +3128,17 @@ has a purchase DC of 45.
 
 |                                       |                           |
 |---------------------------------------|---------------------------|
-| **Size: **Huge (–2 size)              | **Bonus Hit Points: **200 |
+| **Size:** Huge (–2 size)              | **Bonus Hit Points:** 200 |
 |                                       |                           |
-| **Superstructure: **Neovulcanium      | **Hardness: **20          |
-| **Armor: **Crystal carbon             | **Bonus to Defense: **+10 |
-| **Armor Penalty: **–8                 | **Reach: **10 ft.         |
-| **Strength Bonus: **+16               | **Dexterity Penalty: **—  |
+| **Superstructure:** Neovulcanium      | **Hardness:** 20          |
+| **Armor:** Crystal carbon             | **Bonus to Defense:** +10 |
+| **Armor Penalty:** –8                 | **Reach:** 10 ft.         |
+| **Strength Bonus:** +16               | **Dexterity Penalty:** —  |
 |                                       |                           |
-| **Speed: **50 ft., fly 100 ft. (poor) | **Base Purchase DC: **44  |
+| **Speed:** 50 ft., fly 100 ft. (poor) | **Base Purchase DC:** 44  |
 |                                       |                           |
 
-**Standard Equipment Package: **Pilot’s cockpit (torso and helmet),
+**Standard Equipment Package:** Pilot’s cockpit (torso and helmet),
 Class IV sensor system (visor), T-95 Cavalcade chaingun (right arm), 6
 extra 50-round ammo belts (left arm), Chrysanthemum laser array (tail),
 jet-assist wings (shoulders), jetpack (back), comm. system (no slots).
@@ -3154,17 +3154,17 @@ a purchase DC of 49.
 
 |                                          |                           |
 |------------------------------------------|---------------------------|
-| **Size: **Gargantuan (–4 size)           | **Bonus Hit Points: **450 |
+| **Size:** Gargantuan (–4 size)           | **Bonus Hit Points:** 450 |
 |                                          |                           |
-| **Superstructure: **Neovulcanium         | **Hardness: **20          |
-| **Armor: **Crystal carbon                | **Bonus to Defense: **+10 |
-| **Armor Penalty: **–8                    | **Reach: **15 ft.         |
-| **Strength Bonus: **+24                  | **Dexterity Penalty: **–2 |
+| **Superstructure:** Neovulcanium         | **Hardness:** 20          |
+| **Armor:** Crystal carbon                | **Bonus to Defense:** +10 |
+| **Armor Penalty:** –8                    | **Reach:** 15 ft.         |
+| **Strength Bonus:** +24                  | **Dexterity Penalty:** –2 |
 |                                          |                           |
-| **Speed: **50 ft., fly 150 ft. (average) | **Base Purchase DC: **48  |
+| **Speed:** 50 ft., fly 150 ft. (average) | **Base Purchase DC:** 48  |
 |                                          |                           |
 
-**Standard Equipment Package: **Pilot’s cockpit (torso and belt), Mark
+**Standard Equipment Package:** Pilot’s cockpit (torso and belt), Mark
 III Oracle targeting system (visor), Class IV sensor system (cranium),
 jet-assist wings (back), Tsunami 480 plasma cannon (left hand, left
 shoulder, and helmet), Bulwark tactical shield (left arm), M-87 Talon
@@ -3184,17 +3184,17 @@ a purchase DC of 61.
 
 |                                       |                           |
 |---------------------------------------|---------------------------|
-| **Size: **Colossal (–8 size)          | **Bonus Hit Points: **900 |
+| **Size:** Colossal (–8 size)          | **Bonus Hit Points:** 900 |
 |                                       |                           |
-| **Superstructure: **Megatanium        | **Hardness: **30          |
-| **Armor: **Megatanium                 | **Bonus to Defense: **+12 |
-| **Armor Penalty: **–10                | **Reach: **15 ft.         |
-| **Strength Bonus: **+32               | **Dexterity Penalty: **–4 |
+| **Superstructure:** Megatanium        | **Hardness:** 30          |
+| **Armor:** Megatanium                 | **Bonus to Defense:** +12 |
+| **Armor Penalty:** –10                | **Reach:** 15 ft.         |
+| **Strength Bonus:** +32               | **Dexterity Penalty:** –4 |
 |                                       |                           |
-| **Speed: **50 ft., fly 200 ft. (poor) | **Base Purchase DC: **60  |
+| **Speed:** 50 ft., fly 200 ft. (poor) | **Base Purchase DC:** 60  |
 |                                       |                           |
 
-**Standard Equipment Package: **Advanced diagnostics (helmet), Class V
+**Standard Equipment Package:** Advanced diagnostics (helmet), Class V
 sensor system (helmet), Crackerjack neural link (cranium), Mark IV
 Oracle targeting system (visor), jet-assist wings (back), Avenger
 electro-scimitar (left hand), Barricade tactical shield (right arm),
@@ -3325,7 +3325,7 @@ Each flying mecha has a maneuverability rating, as shown on Table:
 Flight Maneuverability. A mecha’s flight systems determine its
 maneuverability.
 
-**Minimum Forward Speed: **If a flying mecha fails to maintain its
+**Minimum Forward Speed:** If a flying mecha fails to maintain its
 minimum forward speed, it must land at the end of its movement. If it is
 too high above the ground to land, it falls straight down, descending
 150 feet in the first round of falling. If this distance brings it to
@@ -3335,31 +3335,31 @@ recover. Otherwise, it falls another 300 feet. If it hits the ground, it
 takes falling damage. Otherwise, it has another chance to recover on its
 next turn.
 
-**Hover: **The ability to stay in one place while airborne.
+**Hover:** The ability to stay in one place while airborne.
 
-**Fly Backward: **The ability to fly backward.
+**Fly Backward:** The ability to fly backward.
 
-**Reverse: **A mecha with good maneuverability uses up 5 feet of its
+**Reverse:** A mecha with good maneuverability uses up 5 feet of its
 speed to start flying backward.
 
-**Turn: **How much the flying mecha can turn after covering the stated
+**Turn:** How much the flying mecha can turn after covering the stated
 distance.
 
-**Turn in Place: **A mecha with good or average maneuverability can
+**Turn in Place:** A mecha with good or average maneuverability can
 “spend” some of its speed to turn in place.
 
-**Maximum Turn: **How much the mecha can turn in any one space.
+**Maximum Turn:** How much the mecha can turn in any one space.
 
-**Up Angle: **The angle at which the mecha can ascend.
+**Up Angle:** The angle at which the mecha can ascend.
 
-**Up Speed: **How fast the mecha can ascend.
+**Up Speed:** How fast the mecha can ascend.
 
-**Down Angle: **The angle at which the mecha can descend.
+**Down Angle:** The angle at which the mecha can descend.
 
-**Down Speed: **A flying mecha can descend at twice its normal flying
+**Down Speed:** A flying mecha can descend at twice its normal flying
 speed.
 
-**Between Down and Up: **An average, poor, or clumsy mecha must fly
+**Between Down and Up:** An average, poor, or clumsy mecha must fly
 level for a minimum distance after descending and before ascending. Any
 flying mecha can begin descending after an ascent without an intervening
 distance.
@@ -3593,17 +3593,17 @@ desirable.
 </tbody>
 </table>
 
-**Normal Damage: **The attack deals normal damage (do not apply critical
+**Normal Damage:** The attack deals normal damage (do not apply critical
 hit multipliers).
 
-**Crew Dazed: **Each crewmember aboard the mecha, including its
+**Crew Dazed:** Each crewmember aboard the mecha, including its
 operator, must succeed on a Fortitude save (DC 15) or be dazed for 1
 round. Unable to act, a dazed character can take no actions, but still
 retains his or her full Defense.
 
-**Normal Critical Hit: **Roll critical hit damage normally.
+**Normal Critical Hit:** Roll critical hit damage normally.
 
-**Mecha Knocked Prone: **The force of the attack knocks the mecha prone.
+**Mecha Knocked Prone:** The force of the attack knocks the mecha prone.
 All crewmembers and passengers aboard take 1d6 points of bludgeoning
 damage as they are knocked about their cockpits. A prone mecha takes a
 –4 penalty on melee attack rolls and can’t use thrown ranged weapons.
@@ -3613,37 +3613,37 @@ a –4 penalty to Defense against melee attacks.
 Standing up from prone is a move action that provokes attacks of
 opportunity.
 
-**Mecha Stunned: **The mecha automatically drops what it is holding and
+**Mecha Stunned:** The mecha automatically drops what it is holding and
 can take no attack or move actions for 1 round. While the mecha is
 stunned, apply a –2 penalty to the mecha operator’s Defense (even though
 the operator is not stunned).
 
-**Severe Critical Hit: **Roll critical hit damage using a x5 multiplier
+**Severe Critical Hit:** Roll critical hit damage using a x5 multiplier
 instead of the weapon’s normal multiplier.
 
-**Crew Hit: **The attack bypasses the mecha’s armor and superstructure.
+**Crew Hit:** The attack bypasses the mecha’s armor and superstructure.
 Apply normal damage to one crewmember or passenger (determined
 randomly), ignoring the mecha’s bonus hit points.
 
-**Equipment Destroyed: **One piece of equipment (attacker’s choice) is
+**Equipment Destroyed:** One piece of equipment (attacker’s choice) is
 damaged and ceases to function until repaired. It can be a flight
 system, sensor system, defense system, weapon (handheld or integrated),
 or miscellaneous system. Repairing a damaged system requires 1 hour of
 work and a successful Repair check (DC 20).
 
-**Equipment Destroyed: **One piece of equipment (attacker’s choice) is
+**Equipment Destroyed:** One piece of equipment (attacker’s choice) is
 destroyed and ceases to function. It can be a flight system, sensor
 system, defense system, weapon (handheld or integrated), or
 miscellaneous system. A destroyed system cannot be repaired, only
 replaced.
 
-**Slot Damaged: **One of the mecha’s equipment slots (attacker’s choice)
+**Slot Damaged:** One of the mecha’s equipment slots (attacker’s choice)
 is damaged. Any piece of equipment wholly or partially installed in that
 slot will not function until the slot is repaired. Repairing a damaged
 equipment slot requires 1 hour of work and a successful Repair check (DC
 25).
 
-**Slot Destroyed: **One of the mecha’s equipment slots (attacker’s
+**Slot Destroyed:** One of the mecha’s equipment slots (attacker’s
 choice) is destroyed, along with any piece of equipment wholly or
 partially installed in it. Rebuilding a destroyed equipment slot
 requires 12 hours of work and a successful Craft (mechanical) check (DC
@@ -3679,12 +3679,12 @@ A character without the Mecha Operation feat and Mecha Weapon
 Proficiency feat suffers serious penalties while operating a mecha of
 any size. The penalties for not having these feats are summarized below:
 
-**Mecha Operation: **A character without this feat takes a –4 penalty on
+**Mecha Operation:** A character without this feat takes a –4 penalty on
 Balance, Climb, Drive, Escape Artist, Hide, Move Silently, Pilot, and
 Tumble checks when operating a mecha. Furthermore, the character cannot
 run or charge.
 
-**Mecha Weapon Proficiency: **A character without this feat takes a –4
+**Mecha Weapon Proficiency:** A character without this feat takes a –4
 penalty on attack rolls made while operating a mecha. Furthermore, the
 character cannot apply the various firearm feats (such as Advanced
 Firearms Proficiency, Dead Aim, Double Tap, Shot on the Run, and Strafe)
@@ -3710,9 +3710,9 @@ ADVANCED MECHA OPERATION
 You have received advanced training or extensive practice in mecha
 movement.
 
-**Prerequisite: **Mecha Operation.
+**Prerequisite:** Mecha Operation.
 
-**Benefit: **Choose a size of mecha (Large, Huge, Gargantuan, or
+**Benefit:** Choose a size of mecha (Large, Huge, Gargantuan, or
 Colossal). When you are operating a mecha of the chosen size, you gain a
 +1 dodge bonus to Defense. Furthermore, armor penalties for operating
 the mecha are 2 less than they would otherwise be (minimum penalty –0).
@@ -3722,9 +3722,9 @@ HAIR TRIGGER
 You have developed a delicate sense of timing, and your area attacks hit
 your foes when they’re ill-prepared to defend against them.
 
-**Prerequisite: **Base attack bonus +6.
+**Prerequisite:** Base attack bonus +6.
 
-**Benefit: **Whenever you make an attack from your mecha that requires
+**Benefit:** Whenever you make an attack from your mecha that requires
 enemies to make Reflex saving throws, the DC for such saves is increased
 by +2.
 
@@ -3732,9 +3732,9 @@ MECHA CRUSH
 
 You can hurl your mecha’s body onto opponents to deal tremendous damage.
 
-**Prerequisite: **Mecha Operation.
+**Prerequisite:** Mecha Operation.
 
-**Benefit: **As an attack action, you can maneuver your mecha to jump or
+**Benefit:** As an attack action, you can maneuver your mecha to jump or
 fall onto opponents, using the mecha’s body to crush them. This attack
 is useful only against creatures at least two size categories smaller
 than your mecha. The base damage for a crush attack depends on your
@@ -3789,9 +3789,9 @@ MECHA FLING
 
 You can pick up an opponent with your mecha and fling it.
 
-**Prerequisite: **Mecha Operation, at least one free hand slot.
+**Prerequisite:** Mecha Operation, at least one free hand slot.
 
-**Benefit: **Your mecha can make a grapple check at a –20 penalty
+**Benefit:** Your mecha can make a grapple check at a –20 penalty
 against an opponent at least two size categories smaller than it. If the
 grapple succeeds, you can use an attack action to fling the held
 opponent on your next action. The range increment for the thrown foe is
@@ -3813,13 +3813,13 @@ MECHA OPERATION
 
 You know how to operate a mecha.
 
-**Benefit: **You do not suffer the restrictions on movement and
+**Benefit:** You do not suffer the restrictions on movement and
 penalties on skill checks for being unfamiliar with mecha controls. You
 can move normally in a mecha and generally perform any action as if you
 weren’t inside a mecha, subject to the obvious limitations of size. You
 threaten areas within your reach even if unarmed.
 
-**Normal: **Characters without this feat take a –4 penalty on Balance,
+**Normal:** Characters without this feat take a –4 penalty on Balance,
 Climb, Drive, Escape Artist, Hide, Move Silently, Pilot, and Tumble
 checks when operating a mecha. Furthermore, they cannot run or charge.
 
@@ -3828,9 +3828,9 @@ MECHA SWEEP
 You can use your mecha to wield improvised weapons and attack several
 spaces at once.
 
-**Prerequisite: **Mecha Operation, Power Attack, two free hand slots.
+**Prerequisite:** Mecha Operation, Power Attack, two free hand slots.
 
-**Benefit: **You can use your mecha’s great size and strength, along
+**Benefit:** You can use your mecha’s great size and strength, along
 with your own knowledge of balance and leverage, to pick up a heavy
 object (such as a large tree or boulder) and attack an area as an attack
 action. The area affected is a half-circle with a radius equal to your
@@ -3885,9 +3885,9 @@ MECHA TRAMPLE
 
 Your mecha can knock down and crush opponents.
 
-**Prerequisite: **Mecha Operation, base attack bonus +4.
+**Prerequisite:** Mecha Operation, base attack bonus +4.
 
-**Benefit: **When you attempt to overrun an opponent while operating a
+**Benefit:** When you attempt to overrun an opponent while operating a
 mecha, the target may not choose to avoid your mecha. If your mecha
 knocks down the target, your mecha may make one free slam attack against
 the target, gaining a +4 bonus on the attack roll because the target is
@@ -3898,9 +3898,9 @@ MECHA WEAPON BOOST
 By disabling safeguards and shunting auxiliary power into your weapons,
 you can attain greater destructive power at the cost of weapon accuracy.
 
-**Prerequisite: **Base attack bonus +8, Repair 6 ranks.
+**Prerequisite:** Base attack bonus +8, Repair 6 ranks.
 
-**Benefit: **You can take a penalty of up to –5 on your attack roll. If
+**Benefit:** You can take a penalty of up to –5 on your attack roll. If
 you do, the mecha weapon of your choice deals +1d6 points of damage for
 each –1 penalty you took. The attack penalty persists until the
 beginning of your next turn, but the additional damage applies only to
@@ -3911,13 +3911,13 @@ MECHA WEAPON PROFICIENCY
 You know how to acquire targets and fire your mecha’s weapons using
 onboard computers and sensors.
 
-**Prerequisite: **Mecha Operation.
+**Prerequisite:** Mecha Operation.
 
-**Benefit: **You no longer suffer the standard penalties on attack rolls
+**Benefit:** You no longer suffer the standard penalties on attack rolls
 while you’re in your mecha. You can use any feats that refer to firearms
 with your ranged mecha weapons.
 
-**Normal: **Characters without this feat take a –4 penalty on attack
+**Normal:** Characters without this feat take a –4 penalty on attack
 rolls made while in a mecha cockpit. Furthermore, they cannot apply
 firearm feats to a mecha’s ranged weapons.
 
@@ -3926,9 +3926,9 @@ STUN MECHA
 By channeling electricity into an enemy mecha’s control system, you can
 temporarily short it out.
 
-**Prerequisite: **Base attack bonus +8, Mecha Operation, Precise Shot.
+**Prerequisite:** Base attack bonus +8, Mecha Operation, Precise Shot.
 
-**Benefit: **If you threaten a critical hit with an electricity attack
+**Benefit:** If you threaten a critical hit with an electricity attack
 against another mecha, you may automatically confirm the critical. In
 addition to suffering the effects of the critical hit, the mecha is
 automatically stunned for 2d4 rounds. The stunned mecha automatically
@@ -3941,10 +3941,10 @@ THRUSTER BLAST
 By directing your vectored thrusters all around your mecha, you can kick
 up a cloud of dust and debris that obscures the battlefield.
 
-**Prerequisite: **Pilot 10 ranks, mecha flight system (either jetpack,
+**Prerequisite:** Pilot 10 ranks, mecha flight system (either jetpack,
 thruster boots, or ramjet thruster boots).
 
-**Benefit: **You can aim your thruster exhaust toward the ground to
+**Benefit:** You can aim your thruster exhaust toward the ground to
 create a hemispherical cloud. If you are within 30 feet of the ground
 and there is loose debris or dust, you can create a cloud with a 50-foot
 radius centered directly below you. The generated winds snuff out small
@@ -3972,9 +3972,9 @@ REQUIREMENTS
 To qualify to become a Mecha Jockey, a character must fulfill all the
 following criteria.
 
-**Skills: **Drive 6 ranks.
+**Skills:** Drive 6 ranks.
 
-**Feats: **Mecha Operation.
+**Feats:** Mecha Operation.
 
 CLASS INFORMATION
 

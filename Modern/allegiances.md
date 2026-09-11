@@ -17,7 +17,7 @@ allegiance, the GM may choose to strip the character of that allegiance
 (and all its benefits) and assign an allegiance more suitable to those
 actions.
 
-## <u>Pledging Allegiance</u>
+## Pledging Allegiance
 
 A hero’s allegiance can take the form of loyalty to a person, to an
 organization, to a belief system, to a nation, or to an ethical or moral
@@ -65,7 +65,7 @@ life, and a concern for the dignity of other creatures. An evil
 allegiance shows a willingness to hurt, oppress, and kill others, and to
 debase or destroy innocent life.
 
-<u>Allegiances and Influence</u>
+## Allegiances and Influence
 
 An allegiance can create an empathic bond with others of the same
 allegiance. With the GM’s permission, the character gains a +2

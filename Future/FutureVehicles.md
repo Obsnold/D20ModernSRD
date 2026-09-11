@@ -1880,9 +1880,9 @@ Further, the operator of a vehicle so equipped gains a +2 equipment
 bonus on Drive or Pilot checks to make hard brake or hard turn
 maneuvers.
 
-**Purchase DC: **17.
+**Purchase DC:** 17.
 
-**Restriction: **None.
+**Restriction:** None.
 
 AUTOCOMP, DRIVER
 
@@ -1897,9 +1897,9 @@ The driver autocomp’s modifier on all Drive or Pilot checks, as well as
 its purchase DC, depends on the quality of the system’s AI software; see
 Table: Driver Autocomps for details.
 
-**Purchase DC: **See Table 8–8.
+**Purchase DC:** See Table 8–8.
 
-**Restriction: **None.
+**Restriction:** None.
 
 <table>
 <tbody>
@@ -1975,8 +1975,8 @@ The gunner autocomp’s attack bonus, as well as its purchase DC, depends
 on the quality of the system’s AI software; see Table: Gunner Autocomps
 for details.
 
-**Purchase DC: **See Table, and increase the purchase DC by +1 for each
-additional weapon after the first.** Restriction: **Licensed (+1).
+**Purchase DC:** See Table, and increase the purchase DC by +1 for each
+additional weapon after the first.** Restriction:** Licensed (+1).
 
 <table>
 <tbody>
@@ -2082,23 +2082,23 @@ Repair check (DC 20).
 Different types of vehicular armor are described below, complete with
 the following statistics:
 
-**Equipment Bonus: **The equipment bonus that the armor provides to the
+**Equipment Bonus:** The equipment bonus that the armor provides to the
 vehicle.
 
-**Drive/Pilot Check Penalty: **Apply this penalty to the vehicle
+**Drive/Pilot Check Penalty:** Apply this penalty to the vehicle
 operator’s Drive or Pilot checks.
 
-**Purchase DC: **The cost of the vehicular armor.
+**Purchase DC:** The cost of the vehicular armor.
 
 **ALUMISTEEL ARMOR (PL 5)**
 
 This easy-to-acquire alloy is lightweight and reasonably strong.
 
-**Equipment Bonus: **+5.
+**Equipment Bonus:** +5.
 
-**Drive/Pilot Check Penalty: **–3**.**
+**Drive/Pilot Check Penalty:** –3**.**
 
-**Purchase DC: **15 + the vehicle’s hardness.
+**Purchase DC:** 15 + the vehicle’s hardness.
 
 **DURAPLASTIC ARMOR (PL 5)**
 
@@ -2106,31 +2106,31 @@ Duraplastic armor is made of advanced plastic polymers, like carbon
 fiber and high-grade fiberglass. Although relatively cheap and light, it
 doesn’t offer tremendous protection.
 
-**Equipment Bonus: **+3.
+**Equipment Bonus:** +3.
 
-**Drive/Pilot Check Penalty: **–2**.**
+**Drive/Pilot Check Penalty:** –2**.**
 
-**Purchase DC: **10 + the vehicle’s hardness.
+**Purchase DC:** 10 + the vehicle’s hardness.
 
 **DURALLOY ARMOR (PL 6)**
 
 Duralloy is harder, heavier, and more durable than alumisteel.
 
-**Equipment Bonus: **+8.
+**Equipment Bonus:** +8.
 
-**Drive/Pilot Check Penalty: **–4**.**
+**Drive/Pilot Check Penalty:** –4**.**
 
-**Purchase DC: **15 + the vehicle’s hardness.
+**Purchase DC:** 15 + the vehicle’s hardness.
 
 **RESILIUM ARMOR (PL 6)**
 
 Resilium is more malleable alloy than duralloy, although not as strong.
 
-**Equipment Bonus: **+6.
+**Equipment Bonus:** +6.
 
-**Drive/Pilot Check Penalty: **–2**.**
+**Drive/Pilot Check Penalty:** –2**.**
 
-**Purchase DC: **10 + the vehicle’s hardness.
+**Purchase DC:** 10 + the vehicle’s hardness.
 
 **CRYSTAL CARBON ARMOR (PL 7)**
 
@@ -2138,33 +2138,33 @@ Resilium is more malleable alloy than duralloy, although not as strong.
 material that narrowly outperforms neovulcanium (see below) on the
 battlefield.
 
-**Equipment Bonus: **+10.
+**Equipment Bonus:** +10.
 
-**Drive/Pilot Check Penalty: **–4**.**
+**Drive/Pilot Check Penalty:** –4**.**
 
-**Purchase DC: **20 + the vehicle’s hardness.
+**Purchase DC:** 20 + the vehicle’s hardness.
 
 **NEOVULCANIUM ARMOR (PL 7)**
 
 Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of surprising resilience.
 
-**Equipment Bonus: **+10.
+**Equipment Bonus:** +10.
 
-**Drive/Pilot Check Penalty: **–5**.**
+**Drive/Pilot Check Penalty:** –5**.**
 
-**Purchase DC: **15 + the vehicle’s hardness.
+**Purchase DC:** 15 + the vehicle’s hardness.
 
 **MEGATANIUM ARMOR (PL 8)**
 
 Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium is exceedingly hard and durable.
 
-**Equipment Bonus: **+12.
+**Equipment Bonus:** +12.
 
-**Drive/Pilot Check Penalty: **–5**.**
+**Drive/Pilot Check Penalty:** –5**.**
 
-**Purchase DC: **20 + the vehicle’s hardness.
+**Purchase DC:** 20 + the vehicle’s hardness.
 
 **REACTIVE ARMOR (PL 8)**
 
@@ -2172,8 +2172,8 @@ Consisting of layers of insulating gel or compressed gas between
 cerametal sheets, reactive armor provides the same protection as crystal
 carbon armor but is considerably cheaper and easier to produce.
 
-**Equipment Bonus: **+8.
+**Equipment Bonus:** +8.
 
-**Drive/Pilot Check Penalty: **–2**.**
+**Drive/Pilot Check Penalty:** –2**.**
 
-**Purchase DC: **15 + the vehicle’s hardness.
+**Purchase DC:** 15 + the vehicle’s hardness.

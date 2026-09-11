@@ -28,25 +28,25 @@ scribing a scroll.
 There are several rules and restrictions pertaining to spells sent
 through email:
 
-**Target: **The target of the spell is always the person who first opens
+**Target:** The target of the spell is always the person who first opens
 the email. Any target with 10 or more ranks in Computer Use, Knowledge
 (arcane lore or technology), or Spellcraft receives a +5 competence
 bonus to any saving throws required by the spell.
 
-**No Spam: **The email may only be sent to a single account. If you put
+**No Spam:** The email may only be sent to a single account. If you put
 more than one address in the “Recipient” line, the spell is ruined and
 wasted.
 
-**Subject Line: **The spell’s name must be typed into the “Subject” line
+**Subject Line:** The spell’s name must be typed into the “Subject” line
 of the email. One can attempt to disguise the name by writing it in an
 obscure language, an illegible font, or burying it in the middle of a
 larger phrase.
 
-**Duration: **All spells begin immediately upon the email being opened.
+**Duration:** All spells begin immediately upon the email being opened.
 It is not possible for a spellcaster to save the power from an email
 spell and discharge it later.
 
-**Undeliverable: **If the email is not opened within 72 hours, it
+**Undeliverable:** If the email is not opened within 72 hours, it
 becomes undeliverable. The account that sent the original email will
 receive an email notification of this. If the target opens the email
 after 72 hours have elapsed, the body of the message will be blank.
@@ -619,10 +619,10 @@ Arcane Graffiti
 
 Conjuration (Creation)
 
-**Level: **Arcane 0; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **0 ft.; **Effect: **One personal rune or short
-message; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+**Level:** Arcane 0; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** 0 ft.; **Effect:** One personal rune or short
+message; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 This spell allows you to inscribe your personal rune or a short message,
 which can be no larger than 2 feet tall and consist of no more than six
@@ -640,11 +640,11 @@ Burglar’s Buddy
 
 Illusion
 
-**Level: **Arcane 2; **Components: **V, S, M; **Casting Time: **Attack
-action; **Range: **Long (400 ft. + 40 ft./level); **Area:
+**Level:** Arcane 2; **Components:** V, S, M; **Casting Time:** Attack
+action; **Range:** Long (400 ft. + 40 ft./level); **Area:
 **15-ft.-radius emanation centered on a creature, object, or point in
-space; **Duration: **1 minute/level; **Saving Throw: **None and Will
-negates (object); **Spell Resistance: **Yes and no (object)
+space; **Duration:** 1 minute/level; **Saving Throw:** None and Will
+negates (object); **Spell Resistance:** Yes and no (object)
 
 This spell suppresses all mechanical or electronic intrusion alarms and
 alarm sensors in the affected area. Burglar alarms or other intrusion
@@ -661,11 +661,11 @@ Clean
 
 Transmutation
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S, M; **Casting Time:
-**Full-round action; **Range: **Close (25 ft. + 5 ft./2 levels);
-**Target: **One creature, object of up to 1,000 lb./level, or room of up
-to 100 square feet/level; **Duration: **Instantaneous; **Saving Throw:
-**Fortitude negates (harmless); **Spell Resistance: **Yes (harmless)
+**Level:** Arcane 1, Divine 1; **Components:** V, S, M; **Casting Time:
+**Full-round action; **Range:** Close (25 ft. + 5 ft./2 levels);
+**Target:** One creature, object of up to 1,000 lb./level, or room of up
+to 100 square feet/level; **Duration:** Instantaneous; **Saving Throw:
+**Fortitude negates (harmless); **Spell Resistance:** Yes (harmless)
 
 The *clean *spell completely eliminates grime, dirt, and bacterial
 
@@ -690,10 +690,10 @@ Clown Car
 
 Conjuration (Summoning)
 
-**Level: **Arcane 4; **Components: **V, S, F; **Casting Time: **1
-minute; **Range: **0 ft.; **Effect: **Extradimensional space within an
+**Level:** Arcane 4; **Components:** V, S, F; **Casting Time:** 1
+minute; **Range:** 0 ft.; **Effect:** Extradimensional space within an
 enclosed vehicle capable of holding one creature per caster level;
-**Duration: **1 hour/level; **Saving Throw: **None; **Spell Resistance:
+**Duration:** 1 hour/level; **Saving Throw:** None; **Spell Resistance:
 **No
 
 You create a temporary extradimensional space within an enclosed
@@ -725,11 +725,11 @@ Crawling Carpet
 
 Conjuration (Summoning)
 
-**Level: **Divine 4; **Components: **V, S, DF; **Casting Time:
-**Fullround action; **Range: **Long (400 ft. + 40 ft./level); **Effect:
+**Level:** Divine 4; **Components:** V, S, DF; **Casting Time:
+**Fullround action; **Range:** Long (400 ft. + 40 ft./level); **Effect:
 **Carpet of monstrous spiders, scarab beetles, or centipedes filling a
-10-ft.-radius spread; **Duration: **1 minute/level; **Saving Throw:
-**None; **Spell Resistance: **No
+10-ft.-radius spread; **Duration:** 1 minute/level; **Saving Throw:
+**None; **Spell Resistance:** No
 
 You summon a number of monstrous insect swarms, each of which attacks
 any creature occupying its square. Each square of the spell’s effect
@@ -744,10 +744,10 @@ Dancing Lights
 
 Evocation \[Light\]
 
-**Level: **Arcane 0; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Medium (100 ft. + 10 ft./level); **Effect: **Up to
-four lights, all within a 10-ft.-radius area; **Duration: **1 minute
-(D); **Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 0; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Medium (100 ft. + 10 ft./level); **Effect:** Up to
+four lights, all within a 10-ft.-radius area; **Duration:** 1 minute
+(D); **Saving Throw:** None; **Spell Resistance:** No
 
 You create up to four lights that resemble lanterns or flashlights (and
 cast that amount of light), or up to four glowing spheres of light, or
@@ -762,9 +762,9 @@ Darkness
 
 Evocation \[Darkness\]
 
-**Level: **Divine 2; **Components: **V, DF; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Object touched; **Duration: **10
-minutes/level (D); **Saving Throw: **None; **Spell Resistance: **No
+**Level:** Divine 2; **Components:** V, DF; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Object touched; **Duration:** 10
+minutes/level (D); **Saving Throw:** None; **Spell Resistance:** No
 
 This spell causes an object to radiate darkness out to a 20- foot
 radius. Not even creatures who can normally see in the dark (such as
@@ -785,10 +785,10 @@ Dataread
 
 Divination
 
-**Level: **Arcane 2, Divine 2; **Components: **V, S, F/DF; **Casting
-Time: **Attack action; **Range: **Touch; **Effect: **Read
-machinereadable data; **Duration: **1 minute/level; **Saving Throw:
-**None; **Spell Resistance: **No
+**Level:** Arcane 2, Divine 2; **Components:** V, S, F/DF; **Casting
+Time:** Attack action; **Range:** Touch; **Effect:** Read
+machinereadable data; **Duration:** 1 minute/level; **Saving Throw:
+**None; **Spell Resistance:** No
 
 You run your finger over any machine-readable data source (a barcode, a
 computer disk, a CD, magnetic tape, or any similar record) to understand
@@ -809,9 +809,9 @@ Daylight
 
 Evocation \[Light\]
 
-**Level: **Divine 2; **Components: **V, DF; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Object touched; **Duration: **10
-minutes/level (D); **Saving Throw: **None; **Spell Resistance: **No
+**Level:** Divine 2; **Components:** V, DF; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Object touched; **Duration:** 10
+minutes/level (D); **Saving Throw:** None; **Spell Resistance:** No
 
 The object touched sheds light as bright as full daylight in a 60-foot
 radius. Creatures who suffer penalties in bright light suffer them while
@@ -833,9 +833,9 @@ Degauss
 
 Transmutation
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S; **Casting Time:
-**Attack action; **Range: **Touch; **Effect: **Stored data is erased;
-**Duration: **Instantaneous; **Saving Throw: **None; **Spell Resistance:
+**Level:** Arcane 1, Divine 1; **Components:** V, S; **Casting Time:
+**Attack action; **Range:** Touch; **Effect:** Stored data is erased;
+**Duration:** Instantaneous; **Saving Throw:** None; **Spell Resistance:
 **No
 
 By touching a single device that contains electronic files, such as a
@@ -846,10 +846,10 @@ Detect Scrying
 
 Divination
 
-**Level: **Arcane 4; **Components: **V, S, M; **Casting Time: **Attack
-action; **Range: **120 ft.; **Area: **120-ft.-radius emanation centered
-on you; **Duration: **24 hours; **Saving Throw: **None; **Spell
-Resistance: **No
+**Level:** Arcane 4; **Components:** V, S, M; **Casting Time:** Attack
+action; **Range:** 120 ft.; **Area:** 120-ft.-radius emanation centered
+on you; **Duration:** 24 hours; **Saving Throw:** None; **Spell
+Resistance:** No
 
 You immediately become aware of any attempt to observe you by means of
 scrying (including the *scrying *spell). The spell’s effect radiates
@@ -870,8 +870,8 @@ Divination
 
 Divination
 
-**Level: **Acolyte 4; **Components: **V, S, M; **Casting Time: **10
-minutes; **Range: **Personal; **Target: **You; **Duration:
+**Level:** Acolyte 4; **Components:** V, S, M; **Casting Time:** 10
+minutes; **Range:** Personal; **Target:** You; **Duration:
 **Instantaneous
 
 Similar to *augury *but more powerful, a *divination *spell can provide
@@ -897,10 +897,10 @@ Electromagnetic Pulse
 
 Evocation \[Electricity\]
 
-**Level: **Arcane 3; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Short (25 ft. + 5 ft./2 levels); **Area: **20-ft.
-burst; **Duration: **Instantaneous; **Saving Throw: **Will negates
-(object); **Spell Resistance: **Yes (object)
+**Level:** Arcane 3; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Short (25 ft. + 5 ft./2 levels); **Area:** 20-ft.
+burst; **Duration:** Instantaneous; **Saving Throw:** Will negates
+(object); **Spell Resistance:** Yes (object)
 
 When you cast *electromagnetic pulse, *you send a powerful burst of
 energy that ruins electronic circuitry within the spell’s area. Any
@@ -940,10 +940,10 @@ Faerie Fire
 
 Evocation \[Light\]
 
-**Level: **Divine 1; **Components: **V, S, DF; **Casting Time: **Attack
-action; **Range: **Long (400 ft. + 40 ft./level); **Area: **Creatures
-and objects within a 5-ft.-radius burst; **Duration: **1 minute/level
-(D); **Saving Throw: **None; **Spell Resistance: **Yes
+**Level:** Divine 1; **Components:** V, S, DF; **Casting Time:** Attack
+action; **Range:** Long (400 ft. + 40 ft./level); **Area:** Creatures
+and objects within a 5-ft.-radius burst; **Duration:** 1 minute/level
+(D); **Saving Throw:** None; **Spell Resistance:** Yes
 
 A pale glow surrounds and outlines the subjects. Outlined subjects shed
 light as candles. Outlined creatures do not benefit from the concealment
@@ -959,10 +959,10 @@ Gaseous Form
 
 Transmutation
 
-**Level: **Arcane 3; **Components: **S, M; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Willing corporeal creature
-touched; **Duration: **1 minute/level (D); **Saving Throw: **None;
-**Spell Resistance: **No
+**Level:** Arcane 3; **Components:** S, M; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Willing corporeal creature
+touched; **Duration:** 1 minute/level (D); **Saving Throw:** None;
+**Spell Resistance:** No
 
 The subject and all her gear become insubstantial, misty (or smoky), and
 translucent. The subject gains damage reduction 10/+1. Her material
@@ -987,10 +987,10 @@ Haywire
 
 Transmutation
 
-**Level: **Arcane 0, Divine 0; **Components: **V, S, M; **Casting Time:
-**Attack action; **Range: **Close (25 ft. + 5 ft./2 levels); **Target:
-**One object of up to 100 lb./level; **Duration: **1 minute/level;
-**Saving Throw: **Will negates (object); **Spell Resistance: **Yes
+**Level:** Arcane 0, Divine 0; **Components:** V, S, M; **Casting Time:
+**Attack action; **Range:** Close (25 ft. + 5 ft./2 levels); **Target:
+**One object of up to 100 lb./level; **Duration:** 1 minute/level;
+**Saving Throw:** Will negates (object); **Spell Resistance:** Yes
 (object)
 
 The *haywire *spell causes a single device to behave randomly and
@@ -1016,9 +1016,9 @@ Improved Arcane Lock
 
 Abjuration
 
-**Level: **Arcane 3; **Range: **Long (400 ft. + 40 ft./level); **Target:
+**Level:** Arcane 3; **Range:** Long (400 ft. + 40 ft./level); **Target:
 **One door, cabinet, chest, or portal/level, up to 30 sq. ft./ level
-each; **Duration: **1 hour/level
+each; **Duration:** 1 hour/level
 
 As *arcane lock, *except as described above. Additionally, *improved
 arcane lock *closes all targeted doors or containers if they’re open
@@ -1033,10 +1033,10 @@ Instant Connectivity
 
 Conjuration (Teleporting)
 
-**Level: **Arcane 5; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Touch (see text); **Target: **Creature touched, or up
-to eight willing creatures joining hands; **Duration: **Instantaneous;
-**Saving Throw: **Will negates; **Spell Resistance: **Yes
+**Level:** Arcane 5; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Touch (see text); **Target:** Creature touched, or up
+to eight willing creatures joining hands; **Duration:** Instantaneous;
+**Saving Throw:** Will negates; **Spell Resistance:** Yes
 
 *Instant connectivity *can only be cast through a computer network (see
 the Casting Spells through Email sidebar). With the aid of instant
@@ -1058,10 +1058,10 @@ Instant Identify
 
 Divination
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S, M/DF; **Casting
-Time: **Full-round action; **Range: **Touch; **Target: **One touched
-object; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+**Level:** Arcane 1, Divine 1; **Components:** V, S, M/DF; **Casting
+Time:** Full-round action; **Range:** Touch; **Target:** One touched
+object; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 The spell determines all magic properties of a single magic item,
 including how to activate those functions (if appropriate) and how many
@@ -1073,11 +1073,11 @@ Machine Invisibility
 
 Illusion
 
-**Level: **Arcane 2; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Personal or touch; **Target: **One creature or object
-weighing no more than 100 lb./level; **Duration: **1 minute/level (D);
-**Saving Throw: **Will negates (harmless) or Will negates (harmless,
-object); **Spell Resistance: **Yes (harmless) or Yes (harmless, object)
+**Level:** Arcane 2; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Personal or touch; **Target:** One creature or object
+weighing no more than 100 lb./level; **Duration:** 1 minute/level (D);
+**Saving Throw:** Will negates (harmless) or Will negates (harmless,
+object); **Spell Resistance:** Yes (harmless) or Yes (harmless, object)
 
 The creature or object touched cannot be detected by video cameras,
 electronic sensors, or other high-tech detection machines. The creature
@@ -1123,11 +1123,11 @@ Magic Bullets
 
 Transmutation
 
-**Level: **Arcane 4, Divine 4; **Components: **V, S, F; **Casting Time:
-**Attack action; **Range: **Touch; **Target: **50 bullets, all of which
+**Level:** Arcane 4, Divine 4; **Components:** V, S, F; **Casting Time:
+**Attack action; **Range:** Touch; **Target:** 50 bullets, all of which
 must be in contact with each other at the time of casting; **Duration:
-**1 hour/level; **Saving Throw: **Will negates (harmless, object);
-**Spell Resistance: **Yes (harmless, object)
+**1 hour/level; **Saving Throw:** Will negates (harmless, object);
+**Spell Resistance:** Yes (harmless, object)
 
 You enhance up to 50 individual bullets of the same caliber or a single
 magazine of up to 50 rounds with the power of a 1stlevel spell you
@@ -1199,11 +1199,11 @@ Magic Circle
 
 Abjuration
 
-**Level: **Divine 3; **Components: **V, S, DF; **Casting Time:**
+**Level:** Divine 3; **Components:** V, S, DF; **Casting Time:**
 
-Attack action; **Range: **Touch; **Area: **10-ft.-radius emanation from
-touched creature; **Duration: **10 minutes/level; **Saving Throw: **Will
-negates (harmless); **Spell Resistance: **No (see text)
+Attack action; **Range:** Touch; **Area:** 10-ft.-radius emanation from
+touched creature; **Duration:** 10 minutes/level; **Saving Throw:** Will
+negates (harmless); **Spell Resistance:** No (see text)
 
 This spell wards an area from attacks by creatures of a specific
 allegiance (chosen when the spell is cast), from mental control, and
@@ -1241,10 +1241,10 @@ Magic ID
 
 Illusion
 
-**Level: **Arcane 0; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Touch; **Effect: **Illusory identification card;
-**Duration: **See description; **Saving Throw: **Will disbelief (if
-interacted with); **Spell Resistance: **No
+**Level:** Arcane 0; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Touch; **Effect:** Illusory identification card;
+**Duration:** See description; **Saving Throw:** Will disbelief (if
+interacted with); **Spell Resistance:** No
 
 With this glamer, you make a small card or slip of paper appear to be a
 valid identification card of your choosing. The card bears your name,
@@ -1260,10 +1260,10 @@ Magic Message
 
 Illusion
 
-**Level: **Arcane 2; **Components: **V, S, M; **Casting Time:
-**Fullround action; **Range: **Close (25 ft. + 5 ft./2 levels);
-**Target: **One object (see text); **Duration: **Permanent until
-discharged; **Saving Throw: **Will negates (object); **Spell Resistance:
+**Level:** Arcane 2; **Components:** V, S, M; **Casting Time:
+**Fullround action; **Range:** Close (25 ft. + 5 ft./2 levels);
+**Target:** One object (see text); **Duration:** Permanent until
+discharged; **Saving Throw:** Will negates (object); **Spell Resistance:
 **Yes (object)
 
 This spell imbues a modern device such as a television, radio, computer
@@ -1303,10 +1303,10 @@ Mask Metal
 
 Illusion
 
-**Level: **Arcane 1; **Components: **V, S, M; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **A single metal object weighing no
-more than 10 lb./level; **Duration: **10 minutes/ level (D); **Saving
-Throw: **None or Will negates (harmless, object); **Spell Resistance:
+**Level:** Arcane 1; **Components:** V, S, M; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** A single metal object weighing no
+more than 10 lb./level; **Duration:** 10 minutes/ level (D); **Saving
+Throw:** None or Will negates (harmless, object); **Spell Resistance:
 **No or yes (harmless, object)
 
 This glamer makes a metal object undetectable to metal detectors. When
@@ -1320,10 +1320,10 @@ Mending
 
 Transmutation
 
-**Level: **Arcane 0, Divine 0; **Components: **V, S; **Casting Time:
-**Attack action; **Range: **10 ft.; **Target: **One object of up to 1
-pound/level; **Duration: **Instantaneous; **Saving Throw: **Will negates
-(harmless, object); **Spell Resistance: **Yes (harmless, object)
+**Level:** Arcane 0, Divine 0; **Components:** V, S; **Casting Time:
+**Attack action; **Range:** 10 ft.; **Target:** One object of up to 1
+pound/level; **Duration:** Instantaneous; **Saving Throw:** Will negates
+(harmless, object); **Spell Resistance:** Yes (harmless, object)
 
 *Mending *repairs small breaks or tears in objects (not warps). In
 metallic objects, it will weld a broken chain link, a necklace, or a
@@ -1337,10 +1337,10 @@ Nondetection
 
 Abjuration
 
-**Level: **Arcane 3; **Components: **V, S, M; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Creature or object touched;
-**Duration: **1 hour/level; **Saving Throw: **Will negates (harmless,
-object); **Spell Resistance: **Yes (harmless, object)
+**Level:** Arcane 3; **Components:** V, S, M; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Creature or object touched;
+**Duration:** 1 hour/level; **Saving Throw:** Will negates (harmless,
+object); **Spell Resistance:** Yes (harmless, object)
 
 The warded creature or object becomes difficult to detect by divination
 and detection spells, such as *scrying*. *Nondetection *also prevents
@@ -1360,10 +1360,10 @@ Obscuring Mist
 
 Conjuration (Creation)
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S; **Casting Time:
-**Attack action; **Range: **30 ft.; **Effect: **Cloud centered on you
-spreads 30 ft. and is 20 ft. high; **Duration: **1 minute/level;
-**Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 1, Divine 1; **Components:** V, S; **Casting Time:
+**Attack action; **Range:** 30 ft.; **Effect:** Cloud centered on you
+spreads 30 ft. and is 20 ft. high; **Duration:** 1 minute/level;
+**Saving Throw:** None; **Spell Resistance:** No
 
 A misty vapor arises around you. It is stationary once created. The
 vapor obscures all sight, including darkvision, beyond 5 feet. A
@@ -1382,11 +1382,11 @@ Phantasmal Killer
 
 Illusion \[Fear, Mind-Affecting\]
 
-**Level: **Arcane 4; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Medium (100 ft. + 10 ft./level); **Target: **One
-living creature; **Duration: **Instantaneous; **Saving Throw: **Will
+**Level:** Arcane 4; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Medium (100 ft. + 10 ft./level); **Target:** One
+living creature; **Duration:** Instantaneous; **Saving Throw:** Will
 disbelief (if interacted with), then Fortitude partial; **Spell
-Resistance: **Yes
+Resistance:** Yes
 
 You create the phantasmal image of the most fearsome creature imaginable
 to the subject simply by forming the fears of the subject’s subconscious
@@ -1402,9 +1402,9 @@ Phantom Chopper
 
 Conjuration (Creation)
 
-**Level: **Arcane 3; **Components: **V, S; **Casting Time: **10 minutes;
-**Range: **0 ft.; **Effect: **One quasi-real motorcycle; **Duration: **1
-hour/level (D); **Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 3; **Components:** V, S; **Casting Time:** 10 minutes;
+**Range:** 0 ft.; **Effect:** One quasi-real motorcycle; **Duration:** 1
+hour/level (D); **Saving Throw:** None; **Spell Resistance:** No
 
 You conjure a quasi-real motorcycle. The motorcycle can be ridden only
 by you or the one person for whom you specifically create the cycle. A
@@ -1437,10 +1437,10 @@ Phantom Limousine
 
 Conjuration (Creation)
 
-**Level: **Arcane 5; **Components: **V, S, F; **Casting Time: **1
-minute; **Range: **0 ft.; **Effect: **One quasi-real limousine;
-**Duration: **1 hour/level (D); **Saving Throw: **None; **Spell
-Resistance: **No
+**Level:** Arcane 5; **Components:** V, S, F; **Casting Time:** 1
+minute; **Range:** 0 ft.; **Effect:** One quasi-real limousine;
+**Duration:** 1 hour/level (D); **Saving Throw:** None; **Spell
+Resistance:** No
 
 You conjure forth a quasi-real limousine that seats eight Medium
 characters (two in the front and six in a comfortable passenger area),
@@ -1468,11 +1468,11 @@ Phantom Projectiles
 
 Transmutation
 
-**Level: **Arcane 5; **Components: **V, S, M; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **50 projectiles, all of which must
-be in contact with each other at the time of casting; **Duration: **1
-hour/level; **Saving Throw: **Will negates (harmless, object); **Spell
-Resistance: **Yes (harmless, object)
+**Level:** Arcane 5; **Components:** V, S, M; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** 50 projectiles, all of which must
+be in contact with each other at the time of casting; **Duration:** 1
+hour/level; **Saving Throw:** Will negates (harmless, object); **Spell
+Resistance:** Yes (harmless, object)
 
 You turn ammunition (such as arrows, bolts, bullets, and shuriken) into
 incorporeal projectiles that damage only their intended targets.
@@ -1493,11 +1493,11 @@ Rage of Bees
 
 Conjuration (Summoning)
 
-**Level: **Divine 5; **Components: **V, S, DF; **Casting Time:
-**Full-round action; **Range: **Long (400 ft. + 40 ft./level); **Effect:
+**Level:** Divine 5; **Components:** V, S, DF; **Casting Time:
+**Full-round action; **Range:** Long (400 ft. + 40 ft./level); **Effect:
 **1d3 swarms of sentient killer bees, no two of which can be more than
-30 ft. apart; **Duration: **1 minute/level; **Saving Throw: **None;
-**Spell Resistance: **No
+30 ft. apart; **Duration:** 1 minute/level; **Saving Throw:** None;
+**Spell Resistance:** No
 
 You summon 1d3 swarms of sentient killer bees, each one filling a 5-foot
 square within the spell’s effect. The swarms independently attack
@@ -1507,10 +1507,10 @@ Recharge
 
 Conjuration (Healing)
 
-**Level: **Divine 3; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Creature touched; **Duration:
-**Instantaneous and special (see text); **Saving Throw: **Will negates
-(harmless); **Spell Resistance: **Yes (harmless)
+**Level:** Divine 3; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Creature touched; **Duration:
+**Instantaneous and special (see text); **Saving Throw:** Will negates
+(harmless); **Spell Resistance:** Yes (harmless)
 
 By converting electrical energy into eldritch power, you can recover
 quickly from debilitating physical effects. However, you must draw
@@ -1531,10 +1531,10 @@ Relay Text
 
 Transmutation
 
-**Level: **Arcane 2; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Unlimited; **Effect: **A text message reaches an
-electronic device of someone you know; **Duration: **Instantaneous;
-**Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 2; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Unlimited; **Effect:** A text message reaches an
+electronic device of someone you know; **Duration:** Instantaneous;
+**Saving Throw:** None; **Spell Resistance:** No
 
 You cause a text message of up to 25 words to appear on the screen of an
 electronic device capable of receiving such messages, such as a cell
@@ -1548,9 +1548,9 @@ Sanctuary
 
 Abjuration
 
-**Level: **Divine 1; **Components: **V, S, DF; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Creature touched; **Duration: **1
-round/level; **Saving Throw: **Will negates; **Spell Resistance: **No
+**Level:** Divine 1; **Components:** V, S, DF; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Creature touched; **Duration:** 1
+round/level; **Saving Throw:** Will negates; **Spell Resistance:** No
 
 Any opponent attempting to strike or otherwise directly attack the
 warded creature, even with a targeted spell, must attempt a Will save.
@@ -1571,10 +1571,10 @@ Scrying
 
 Divination
 
-**Level: **Arcane 4, Divine 5; **Components: **V, S, M/DF, F; **Casting
-Time: **1 hour; **Range: **See text; **Effect: **Magical sensor;
-**Duration: **1 minute/level; **Saving Throw: **Will negates; **Spell
-Resistance: **Yes
+**Level:** Arcane 4, Divine 5; **Components:** V, S, M/DF, F; **Casting
+Time:** 1 hour; **Range:** See text; **Effect:** Magical sensor;
+**Duration:** 1 minute/level; **Saving Throw:** Will negates; **Spell
+Resistance:** Yes
 
 You can see and hear some creature, who may be at any distance. If the
 subject succeeds at a Will save, the scrying attempt fails. The
@@ -1676,10 +1676,10 @@ Secret Pocket
 
 Conjuration (Summoning)
 
-**Level: **Arcane 3, Divine 3; **Components: **V, S, M/DF; **Casting
-Time: **Attack action; **Range: **Object touched; **Target: **One pocket
-on a garment; **Duration: **1 hour/level; **Saving Throw: **None;
-**Spell Resistance: **No
+**Level:** Arcane 3, Divine 3; **Components:** V, S, M/DF; **Casting
+Time:** Attack action; **Range:** Object touched; **Target:** One pocket
+on a garment; **Duration:** 1 hour/level; **Saving Throw:** None;
+**Spell Resistance:** No
 
 The *secret pocket *spell creates an extradimensional space that only
 you can reach through a pocket in the target garment. The *secret pocket
@@ -1705,10 +1705,10 @@ Secret Vault
 
 Conjuration (Summoning)
 
-**Level: **Arcane 5; **Components: **V, S, F; **Casting Time: **10
-minutes; **Range: **See text; **Target: **One chest and up to 1 cu. ft.
-of goods/caster level; **Duration: **60 days or until discharged;
-**Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 5; **Components:** V, S, F; **Casting Time:** 10
+minutes; **Range:** See text; **Target:** One chest and up to 1 cu. ft.
+of goods/caster level; **Duration:** 60 days or until discharged;
+**Saving Throw:** None; **Spell Resistance:** No
 
 You hide a briefcase, backpack, dufflebag, or similar item in an
 extradimensional space for up to 60 days and can retrieve it at will.
@@ -1735,11 +1735,11 @@ Seeming
 
 Illusion
 
-**Level: **Arcane 5; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Close (25 ft. + 5 ft./2 levels); **Targets: **One
+**Level:** Arcane 5; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Close (25 ft. + 5 ft./2 levels); **Targets:** One
 creature/two levels, no two of which can be more than 30 ft. apart;
-**Duration: **12 hours (D); **Saving Throw: **Will negates or Will
-disbelief (if interacted with); **Spell Resistance: **Yes or No (see
+**Duration:** 12 hours (D); **Saving Throw:** Will negates or Will
+disbelief (if interacted with); **Spell Resistance:** Yes or No (see
 text)
 
 This glamer functions like the *change self *spell except you can change
@@ -1751,11 +1751,11 @@ Shadowmoth Plague
 
 Conjuration (Summoning)
 
-**Level: **Divine 3; **Components: **V, S, DF; **Casting Time:
-**Fullround action; **Range: **Long (400 ft. + 40 ft./level); **Effect:
+**Level:** Divine 3; **Components:** V, S, DF; **Casting Time:
+**Fullround action; **Range:** Long (400 ft. + 40 ft./level); **Effect:
 **5- ft.-high cloud of shadowmoths filling a 10-ft.-radius spread;
-**Duration: **1 minute/level; **Saving Throw: **None; **Spell
-Resistance: **No
+**Duration:** 1 minute/level; **Saving Throw:** None; **Spell
+Resistance:** No
 
 You summon a number of shadowmoth swarms, each of which attacks any
 creature occupying its square. Each square of the spell’s effect is
@@ -1767,11 +1767,11 @@ Shatter
 
 Evocation \[Sonic/Concussion\]
 
-**Level: **Divine 2; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Close (25 ft. + 5 ft./2 levels); **Area or Target:
+**Level:** Divine 2; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Close (25 ft. + 5 ft./2 levels); **Area or Target:
 **5-ft.-radius spread; or one solid object or one crystalline creature;
-**Duration: **Instantaneous; **Saving Throw: **Will negates (object) or
-Fortitude half (see text); **Spell Resistance: **Yes (object)
+**Duration:** Instantaneous; **Saving Throw:** Will negates (object) or
+Fortitude half (see text); **Spell Resistance:** Yes (object)
 
 *Shatter *creates a loud, ringing noise that shatters brittle,
 nonmagical objects; sunders a single solid, nonmagical object; or
@@ -1798,10 +1798,10 @@ Shield Other
 
 Abjuration
 
-**Level: **Divine 2; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Close (25 ft. + 5 ft./2 levels); **Target: **One
-creature; **Duration: **1 hour/level (D); **Saving Throw: **Will negates
-(harmless); **Spell Resistance: **Yes (harmless)
+**Level:** Divine 2; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Close (25 ft. + 5 ft./2 levels); **Target:** One
+creature; **Duration:** 1 hour/level (D); **Saving Throw:** Will negates
+(harmless); **Spell Resistance:** Yes (harmless)
 
 This spell creates a mystic connection between you and the subject so
 that some of the subject’s wounds are transferred to you. The subject
@@ -1827,10 +1827,10 @@ Shutdown
 
 Transmutation
 
-**Level: **Arcane 3, Divine 3; **Components: **V, M/DF; **Casting Time:
-**Attack action; **Range: **Close (25 ft. + 5 ft./2 levels); **Area:
-**15-ft.-radius emanation centered on a point in space; **Duration: **1
-minute/level; **Saving Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 3, Divine 3; **Components:** V, M/DF; **Casting Time:
+**Attack action; **Range:** Close (25 ft. + 5 ft./2 levels); **Area:
+**15-ft.-radius emanation centered on a point in space; **Duration:** 1
+minute/level; **Saving Throw:** None; **Spell Resistance:** No
 
 All electrical devices within the spell’s area—lights, computers, cell
 phones, digital watches, and so forth—do not function for the duration
@@ -1852,8 +1852,8 @@ Speak with Animals
 
 Divination
 
-**Level: **Divine 2; **Components: **V, S; **Casting Time: **Attack
-action; **Range: **Personal; **Target: **You; **Duration: **1 minute/
+**Level:** Divine 2; **Components:** V, S; **Casting Time:** Attack
+action; **Range:** Personal; **Target:** You; **Duration:** 1 minute/
 level
 
 You can comprehend and communicate with animals. You are able to ask
@@ -1870,10 +1870,10 @@ Spell Immunity
 
 Abjuration
 
-**Level: **Divine 4; **Components: **V, S, DF; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Creature touched; **Duration: **10
-minutes/level; **Saving Throw: **Will negates (harmless); **Spell
-Resistance: **Yes (harmless)
+**Level:** Divine 4; **Components:** V, S, DF; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Creature touched; **Duration:** 10
+minutes/level; **Saving Throw:** Will negates (harmless); **Spell
+Resistance:** Yes (harmless)
 
 The warded creature is immune to the effects of one specified spell for
 every four levels you have. The spells must be of 4th level or lower.
@@ -1895,10 +1895,10 @@ Spell Resistance
 
 Abjuration
 
-**Level: **Divine 5; **Components: **V, S, DF; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Creature touched; **Duration: **1
-minute/level; **Saving Throw: **Will negates (harmless); **Spell
-Resistance: **Yes (harmless)
+**Level:** Divine 5; **Components:** V, S, DF; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Creature touched; **Duration:** 1
+minute/level; **Saving Throw:** Will negates (harmless); **Spell
+Resistance:** Yes (harmless)
 
 The creature gains spell resistance equal to 12 + your caster level.
 
@@ -1906,10 +1906,10 @@ Summon Vivilor I
 
 Conjuration (Summoning)
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S; **Casting Time:
-**Full-round action; **Range: **Close (25 ft. + 5 ft./2 levels);
-**Effect: **One summoned creature; **Duration: **1 round/level; **Saving
-Throw: **None; **Spell Resistance: **No
+**Level:** Arcane 1, Divine 1; **Components:** V, S; **Casting Time:
+**Full-round action; **Range:** Close (25 ft. + 5 ft./2 levels);
+**Effect:** One summoned creature; **Duration:** 1 round/level; **Saving
+Throw:** None; **Spell Resistance:** No
 
 This spell summons a 1st-level vivilor, a strange creature from the edge
 of Shadow. The caster chooses the form the vivilor will take when it
@@ -1926,7 +1926,7 @@ Summon Vivilor II
 
 Conjuration (Summoning)
 
-**Level: **Arcane 2, Divine 2; **Effect: **One or more summoned
+**Level:** Arcane 2, Divine 2; **Effect:** One or more summoned
 creatures, no two of which can be more than 30 ft. apart
 
 As *summon vivilor I, *except you can summon one 2nd-level vivilor or
@@ -1937,7 +1937,7 @@ Summon Vivilor III
 
 Conjuration (Summoning)
 
-**Level: **Arcane 3, Divine 3; **Effect: **One or more summoned
+**Level:** Arcane 3, Divine 3; **Effect:** One or more summoned
 creatures, no two of which can be more than 30 ft. apart
 
 As *summon vivilor I, *except you can summon one 3rd-level vivilor, 1d3
@@ -1949,7 +1949,7 @@ Summon Vivilor IV
 
 Conjuration (Summoning)
 
-**Level: **Arcane 4, Divine 4; **Effect: **One or more summoned
+**Level:** Arcane 4, Divine 4; **Effect:** One or more summoned
 creatures, no two of which can be more than 30 ft. apart
 
 As *summon vivilor I, *except you can summon one 4th-level vivilor, 1d3
@@ -1961,7 +1961,7 @@ Summon Vivilor V
 
 Conjuration (Summoning)
 
-**Level: **Arcane 5, Divine 5; **Effect: **One or more summoned
+**Level:** Arcane 5, Divine 5; **Effect:** One or more summoned
 creatures, no two of which can be more than 30 ft. apart
 
 As *summon vivilor I, *except you can summon one 5th-level vivilor, 1d3
@@ -1973,10 +1973,10 @@ Synchronicity
 
 Abjuration
 
-**Level: **Arcane 5, Divine 5; **Components: **V, S, F/DF; **Casting
-Time: **Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **10 minutes/level; **Saving Throw: **Will negates
-(harmless); **Spell Resistance: **Yes (harmless)
+**Level:** Arcane 5, Divine 5; **Components:** V, S, F/DF; **Casting
+Time:** Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 10 minutes/level; **Saving Throw:** Will negates
+(harmless); **Spell Resistance:** Yes (harmless)
 
 The *synchronicity *spell subtly rearranges reality so that the subject
 isn’t inconvenienced by the minor delays in modern life. For the subject
@@ -2010,10 +2010,10 @@ Trace Purge
 
 Transmutation
 
-**Level: **Arcane 1, Divine 1; **Components: **V, S, M/DF; **Casting
-Time: **Attack action; **Range: **Close (25 ft. + 5 ft./2 levels);
-**Area: **15-ft.-radius emanation centered on a point in space;
-**Duration: **Instantaneous; **Saving Throw: **None; **Spell Resistance:
+**Level:** Arcane 1, Divine 1; **Components:** V, S, M/DF; **Casting
+Time:** Attack action; **Range:** Close (25 ft. + 5 ft./2 levels);
+**Area:** 15-ft.-radius emanation centered on a point in space;
+**Duration:** Instantaneous; **Saving Throw:** None; **Spell Resistance:
 **No
 
 When you cast this spell, you touch one creature (yourself or someone
@@ -2032,10 +2032,10 @@ Undetectable Magical Aura
 
 Illusion
 
-**Level: **Arcane 1; **Components: **V, S, F; **Casting Time: **Attack
-action; **Range: **Touch; **Target: **Object touched weighing up to 5
-lb./level; **Duration: **1 day/level (D); **Saving Throw: **None (see
-text); **Spell Resistance: **No
+**Level:** Arcane 1; **Components:** V, S, F; **Casting Time:** Attack
+action; **Range:** Touch; **Target:** Object touched weighing up to 5
+lb./level; **Duration:** 1 day/level (D); **Saving Throw:** None (see
+text); **Spell Resistance:** No
 
 This glamer allows you to mask a magic item’s aura from detection. It
 fools *detect magical aura *spells such that the item appears
@@ -2050,10 +2050,10 @@ Vampiric Touch
 
 Necromancy
 
-**Level: **Arcane 3, Divine 3; **Components: **V, S; **Casting Time:
-**Attack action; **Range: **Touch; **Target: **Living creature touched;
-**Duration: **Instantaneous and 1 hour (see text); **Saving Throw:
-**None; **Spell Resistance: **Yes
+**Level:** Arcane 3, Divine 3; **Components:** V, S; **Casting Time:
+**Attack action; **Range:** Touch; **Target:** Living creature touched;
+**Duration:** Instantaneous and 1 hour (see text); **Saving Throw:
+**None; **Spell Resistance:** Yes
 
 You must succeed at a melee touch attack. Your touch deals 1d6 points of
 damage per two caster levels (maximum 5d6). You gain temporary hit
@@ -2065,10 +2065,10 @@ Via Negativa
 
 Necromancy
 
-**Level: **Arcane 4, Divine 4; **Components: **S, F/DF; **Casting Time:
-**Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **1 round/level; **Saving Throw: **Fortitude half; **Spell
-Resistance: **Yes
+**Level:** Arcane 4, Divine 4; **Components:** S, F/DF; **Casting Time:
+**Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 1 round/level; **Saving Throw:** Fortitude half; **Spell
+Resistance:** Yes
 
 When you cast the *via negativa *spell, your right hand is covered with
 crackling black energy that causes intense pain to any living creature
@@ -2094,10 +2094,10 @@ Wall Walk
 
 Transmutation
 
-**Level: **Arcane 3, Divine 4; **Components: **V, S, M; **Casting Time:
-**Attack action; **Range: **Touch; **Target: **Creature touched;
-**Duration: **10 minutes/ level; **Saving Throw: **Will negates
-(harmless); **Spell Resistance: **Yes (harmless)
+**Level:** Arcane 3, Divine 4; **Components:** V, S, M; **Casting Time:
+**Attack action; **Range:** Touch; **Target:** Creature touched;
+**Duration:** 10 minutes/ level; **Saving Throw:** Will negates
+(harmless); **Spell Resistance:** Yes (harmless)
 
 An improved version of the *spider climb *spell, *wall walk *allows for
 faster, easier movement. The subject can travel on vertical surfaces or
@@ -2117,11 +2117,11 @@ Wire Walk
 
 Conjuration (Teleporting)
 
-**Level: **Arcane 4; **Components: **V; **Casting Time: **Attack action;
-**Range: **Personal and touch; **Target: **You and touched objects or
+**Level:** Arcane 4; **Components:** V; **Casting Time:** Attack action;
+**Range:** Personal and touch; **Target:** You and touched objects or
 other touched willing creatures weighing up to 25 lb./level; **Duration:
-**Instantaneous; **Saving Throw: **None and Will negates (object);
-**Spell Resistance: **No and yes (object)
+**Instantaneous; **Saving Throw:** None and Will negates (object);
+**Spell Resistance:** No and yes (object)
 
 You and any other objects or creatures targeted by the spell teleport
 instantly to the location of a telephone you call. The telephone must be

@@ -99,57 +99,57 @@ Each incantation has its own consequences for failure (two failed skill
 checks in a row). In general, they can be divided into the following
 categories.
 
-**Attack: **A creature is called from elsewhere to battle the caster
+**Attack:** A creature is called from elsewhere to battle the caster
 (and often any bystanders and secondary casters). The incantation’s
 description tells the GM what Challenge Rating the creature should have,
 how it behaves, and how long it persists.
 
-**Augment: **The incantation was supposed to weaken or destroy its
+**Augment:** The incantation was supposed to weaken or destroy its
 target, but it makes it more powerful instead. A damaging spell might
 heal its target or cause it to grow in size, for example.
 
-**Betrayal: **The incantation seemingly succeeds, but the subject of the
+**Betrayal:** The incantation seemingly succeeds, but the subject of the
 incantation (or in rare cases the caster) loses all allegiances and
 gains their opposites. In general, the subject now hates all it loved
 before the incantation. The subject may keep its new allegiances a
 secret. Whenever a character attempts an incantation with a chance of
 betrayal failure, the GM should make the relevant die rolls in secret.
 
-**Damage: **The simplest consequence of failure, damage is dealt to the
+**Damage:** The simplest consequence of failure, damage is dealt to the
 caster or the target, depending on the incantation.
 
-**Death: **Someone—usually the caster or the target—dies. Depending on
+**Death:** Someone—usually the caster or the target—dies. Depending on
 the incantation, a successful saving throw may avoid the effect of
 failure.
 
-**Delusion: **The caster believes the incantation had the desired
+**Delusion:** The caster believes the incantation had the desired
 effect, but in fact it had no effect or a very different one.
 
-**Falsehood: **Common with divinations, the incantation delivers false
+**Falsehood:** Common with divinations, the incantation delivers false
 results to the caster, but the caster believes the results are true.
 Whenever a character attempts an incantation with a chance of falsehood
 failure, the GM should make the relevant die rolls in secret.
 
-**Hostile Spell: **The caster of the incantation is targeted by a
+**Hostile Spell:** The caster of the incantation is targeted by a
 harmful spell or incantation. The spell description specifies the
 specific spell or incantation, save DC, and so on.
 
-**Mirrorcast: **The spell has the opposite effect of that intended.
+**Mirrorcast:** The spell has the opposite effect of that intended.
 
-**Reversal: **The spell targets the caster, rather than the intended
+**Reversal:** The spell targets the caster, rather than the intended
 target of the incantation.
 
 Baleful Polymorph
 
 Transmutation
 
-**Skill Check: **Knowledge (arcane lore) DC 41, 6 successes, and
-Knowledge (earth and life sciences), 1 success; **Failure: **Two
-consecutive failed skill checks; **Components: **V, S, M, F, SC;
-**Casting Time: **70 minutes (minimum); **Range: **Touch; **Target:
-**Helpless creature touched; **Duration: **Permanent; **Saving Throw:
+**Skill Check:** Knowledge (arcane lore) DC 41, 6 successes, and
+Knowledge (earth and life sciences), 1 success; **Failure:** Two
+consecutive failed skill checks; **Components:** V, S, M, F, SC;
+**Casting Time:** 70 minutes (minimum); **Range:** Touch; **Target:
+**Helpless creature touched; **Duration:** Permanent; **Saving Throw:
 **Fortitude negates (DC 17 + caster’s Cha modifier) and see text;
-**Spell Resistance: **Yes
+**Spell Resistance:** Yes
 
 As the *polymorph *incantation, except that you change the subject into
 a Small or smaller animal of no more than 1 HD (such as a dog, lizard,
@@ -185,11 +185,11 @@ Bibliolalia
 
 Divination
 
-**Skill Check: **Knowledge (arcane lore) DC 33, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, F, XP;
-**Casting Time: **60 minutes (minimum); **Range: **Personal; **Target:
-**You; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, F, XP;
+**Casting Time:** 60 minutes (minimum); **Range:** Personal; **Target:
+**You; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 The *bibliolalia *incantation puts you in an oracular trance as you pore
 through books in a library. At the incantation’s conclusion, you uncover
@@ -217,12 +217,12 @@ Body Double
 
 Conjuration (Creation)
 
-**Skill Check: **Knowledge (arcane lore) DC 39, 6 successes (and see
-text) and Disguise DC 39, 1 success; **Failure: **Two consecutive failed
-skill checks; **Components: **V, S, M (see text), XP; **Casting Time:
-**7 hours (minimum); **Range: **Touch; **Effect: **One duplicate
-creature; **Duration: **12 days; **Saving Throw: **None; **Spell
-Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 39, 6 successes (and see
+text) and Disguise DC 39, 1 success; **Failure:** Two consecutive failed
+skill checks; **Components:** V, S, M (see text), XP; **Casting Time:
+**7 hours (minimum); **Range:** Touch; **Effect:** One duplicate
+creature; **Duration:** 12 days; **Saving Throw:** None; **Spell
+Resistance:** No
 
 The *body double *incantation creates a duplicate of any creature formed
 from mystic clay, with alchemical blood and an eldritch life of its own.
@@ -266,12 +266,12 @@ Caduceus
 
 Conjuration (Healing)
 
-**Skill Check: **Knowledge (arcane lore) DC 31, 4 successes, and Treat
-Injury DC 31, 2 success; **Failure: **Two consecutive failed skill
-checks; **Components: **V, S, F; **Casting Time: **6 hours (minimum);
-**Range: **Touch; **Target: **Living creature; **Duration:
-**Instantaneous; **Saving Throw: **Will negates (harmless); **Spell
-Resistance: **Yes (harmless)
+**Skill Check:** Knowledge (arcane lore) DC 31, 4 successes, and Treat
+Injury DC 31, 2 success; **Failure:** Two consecutive failed skill
+checks; **Components:** V, S, F; **Casting Time:** 6 hours (minimum);
+**Range:** Touch; **Target:** Living creature; **Duration:
+**Instantaneous; **Saving Throw:** Will negates (harmless); **Spell
+Resistance:** Yes (harmless)
 
 *Caduceus *enables you to channel magic into a creature to wipe away
 injury and afflictions. It immediately ends any and all of the following
@@ -298,12 +298,12 @@ Cast into Shadow
 
 Abjuration
 
-**Skill Check: **Knowledge (arcane lore) DC 33, 6 successes (see text);
-**Failure: **Two consecutive failed skill checks; **Components: **V, S,
-M, XP, B; **Casting Time: **1 hour (minimum); **Range: **55 ft.;
-**Target: **One or more outsiders, no two of which can be more than 30
-ft. apart; **Duration: **Permanent; **Saving Throw: **Fortitude negates
-(DC 17 + caster’s Cha modifier) and see text; **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes (see text);
+**Failure:** Two consecutive failed skill checks; **Components:** V, S,
+M, XP, B; **Casting Time:** 1 hour (minimum); **Range:** 55 ft.;
+**Target:** One or more outsiders, no two of which can be more than 30
+ft. apart; **Duration:** Permanent; **Saving Throw:** Fortitude negates
+(DC 17 + caster’s Cha modifier) and see text; **Spell Resistance:** Yes
 
 The *cast into Shadow *incantation enables you to force outsiders
 (usually, but not always, fiends) away from the world you know, trapping
@@ -342,11 +342,11 @@ Control Weather
 
 Evocation
 
-**Skill Check: **Knowledge (arcane lore) DC 34, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, SC;
-**Casting Time: **60 minutes (minimum); **Range: **Two miles; **Area:
-**Two-mile-radius circle, centered on you; **Duration: **24 hours (D);
-**Saving Throw: **None; **Spell Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, SC;
+**Casting Time:** 60 minutes (minimum); **Range:** Two miles; **Area:
+**Two-mile-radius circle, centered on you; **Duration:** 24 hours (D);
+**Saving Throw:** None; **Spell Resistance:** No
 
 You change the weather in the local area. It takes 10 minutes for the
 effects to manifest after the incantation is completed. The current,
@@ -420,12 +420,12 @@ Create Clone
 
 Necromancy
 
-**Skill Check: **Knowledge (arcane lore) DC 32, 7 successes, and
-Knowledge (earth and life sciences) DC 32, 1 success; **Failure: **Two
-consecutive failed skill checks; **Components: **V, S, M, F, XP;
-**Casting Time: **8 hours (minimum) and see text; **Range: **Touch;
-**Effect: **One clone; **Duration: **Instantaneous; **Saving Throw:
-**None; **Spell Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 32, 7 successes, and
+Knowledge (earth and life sciences) DC 32, 1 success; **Failure:** Two
+consecutive failed skill checks; **Components:** V, S, M, F, XP;
+**Casting Time:** 8 hours (minimum) and see text; **Range:** Touch;
+**Effect:** One clone; **Duration:** Instantaneous; **Saving Throw:
+**None; **Spell Resistance:** No
 
 This incantation makes an inert duplicate of a creature. If the original
 individual has been slain, the original’s soul transfers to the clone,
@@ -478,11 +478,11 @@ Create Golem
 
 Conjuration (Creation)
 
-**Skill Check: **Knowledge (arcane lore) DC 32, 7 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, M, XP;
-**Casting Time: **7 hours (minimum); **Range: **Touch; **Target: **One
-corpse; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 32, 7 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 7 hours (minimum); **Range:** Touch; **Target:** One
+corpse; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 This incantation fuses an elemental spirit with a patchwork collection
 of body parts knitted into a single bipedal form. *Create golem *brings
@@ -508,11 +508,11 @@ Create Undead
 
 Necromancy \[Evil\]
 
-**Skill Check: **Knowledge (arcane lore) DC 31, 7 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, M, XP;
-**Casting Time: **7 hours (minimum); **Range: **Touch; **Target: **One
-corpse or skeleton; **Duration: **Instantaneous; **Saving Throw: **None;
-**Spell Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 31, 7 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 7 hours (minimum); **Range:** Touch; **Target:** One
+corpse or skeleton; **Duration:** Instantaneous; **Saving Throw:** None;
+**Spell Resistance:** No
 
 Much more potent than the *animate dead *spell, this evil incantation
 allows you to create a powerful undead creature from the creature’s dead
@@ -551,12 +551,12 @@ Dedicate Site
 
 Evocation \[Good\]
 
-**Skill Check: **Knowledge (arcane lore) DC 35, 5 successes, and
-Spellcraft DC 35, 1 success; **Failure: **Two consecutive failed skill
-checks; **Components: **V, S, M, SC, B; **Casting Time: **6 hours
-(minimum); **Range: **Touch; **Area: **120-ft.- radius emanation
-centered on touched point; **Duration: **One year; **Saving Throw: **See
-text; **Spell Resistance: **See text
+**Skill Check:** Knowledge (arcane lore) DC 35, 5 successes, and
+Spellcraft DC 35, 1 success; **Failure:** Two consecutive failed skill
+checks; **Components:** V, S, M, SC, B; **Casting Time:** 6 hours
+(minimum); **Range:** Touch; **Area:** 120-ft.- radius emanation
+centered on touched point; **Duration:** One year; **Saving Throw:** See
+text; **Spell Resistance:** See text
 
 *Dedicate site *makes a particular place, building, or structure
 particularly attuned to a specific allegiance. This has two major
@@ -599,12 +599,12 @@ Greater Dispel Magic
 
 Abjuration
 
-**Skill Check: **Knowledge (arcane lore) DC 31, 4 successes, and
-Spellcraft DC 31, 2 successes; **Failure: **Two consecutive failed skill
-checks; **Components: **V, S, M, B; **Casting Time: **60 minutes
-(minimum); **Range: **220 ft.; **Target: **One spellcaster, creature, or
-object; or 30-ft.-radius burst; **Duration: **Instantaneous; **Saving
-Throw: **None; **Spell Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 31, 4 successes, and
+Spellcraft DC 31, 2 successes; **Failure:** Two consecutive failed skill
+checks; **Components:** V, S, M, B; **Casting Time:** 60 minutes
+(minimum); **Range:** 220 ft.; **Target:** One spellcaster, creature, or
+object; or 30-ft.-radius burst; **Duration:** Instantaneous; **Saving
+Throw:** None; **Spell Resistance:** No
 
 As the *dispel magic *spell, except that the bonus on the dispel check
 is +15, not the caster level. Additionally, *greater dispel magic *has a
@@ -625,14 +625,14 @@ Mystic Veil
 
 Illusion
 
-**Skill Check: **Knowledge (arcane lore) DC 34, 7 successes
+**Skill Check:** Knowledge (arcane lore) DC 34, 7 successes
 
-(and see text); **Failure: **Two consecutive failed skill checks;
-**Components: **V, S, M (see text), B; **Casting Time: **70 minutes
-(minimum); **Range: **55 ft.; **Effect: **Visual and audible figment
-that covers 12 10-foot cubes (S); **Duration: **12 hours; **Saving
-Throw: **None or Will disbelief (if interacted with) (see text); **Spell
-Resistance: **No
+(and see text); **Failure:** Two consecutive failed skill checks;
+**Components:** V, S, M (see text), B; **Casting Time:** 70 minutes
+(minimum); **Range:** 55 ft.; **Effect:** Visual and audible figment
+that covers 12 10-foot cubes (S); **Duration:** 12 hours; **Saving
+Throw:** None or Will disbelief (if interacted with) (see text); **Spell
+Resistance:** No
 
 This incantation combines several elements to create a powerful
 protection from scrying and direct observation. When casting the
@@ -669,12 +669,12 @@ Polymorph
 
 Transmutation
 
-**Skill Check: **Knowledge (arcane lore) DC 31, 5 successes, and
-Knowledge (earth and life sciences) DC 31, 1 success; **Failure: **Two
-consecutive failed skill checks; **Components: **V, S, M, F; **Casting
-Time: **60 minutes (minimum); **Range: **Touch; **Target: **Willing
-creature touched; **Duration: **12 minutes; **Saving Throw: **Fortitude
-negates; **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 31, 5 successes, and
+Knowledge (earth and life sciences) DC 31, 1 success; **Failure:** Two
+consecutive failed skill checks; **Components:** V, S, M, F; **Casting
+Time:** 60 minutes (minimum); **Range:** Touch; **Target:** Willing
+creature touched; **Duration:** 12 minutes; **Saving Throw:** Fortitude
+negates; **Spell Resistance:** Yes
 
 The *polymorph *incantation gives a creature another form that you
 designate, which must be within one size category of the subject’s
@@ -756,12 +756,12 @@ Possession
 
 Necromancy
 
-**Skill Check: **Knowledge (arcane lore) DC 34, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, M, XP;
-**Casting Time: **60 minutes (minimum); **Range: **Touch; **Target:
-**One helpless creature of fewer Hit Dice than you; **Duration: **12
-hours (D); **Saving Throw: **Will negates (DC 16 + caster’s Charisma
-modifier); **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 60 minutes (minimum); **Range:** Touch; **Target:
+**One helpless creature of fewer Hit Dice than you; **Duration:** 12
+hours (D); **Saving Throw:** Will negates (DC 16 + caster’s Charisma
+modifier); **Spell Resistance:** Yes
 
 By casting the *possession *incantation, you place the subject’s soul in
 a receptacle (a gem or large crystal) while your soul inhabits the
@@ -810,12 +810,12 @@ Quartz Compulsion
 
 Enchantment (Compulsion) \[Mind-Affecting, Language-Dependent\]
 
-**Skill Check: **Knowledge (arcane lore) DC 33, 6 successes, and
-Intimidate DC 33, 2 successes; **Failure: **Two consecutive failed skill
-checks; **Components: **V, S, F, B; **Casting Time: **80 minutes
-(minimum); **Range: **Unlimited; **Target: **One creature with fewer Hit
-Dice that you; **Duration: **16 hours (see text); **Saving Throw: **Will
-partial (DC 18 + caster’s Cha modifier); **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes, and
+Intimidate DC 33, 2 successes; **Failure:** Two consecutive failed skill
+checks; **Components:** V, S, F, B; **Casting Time:** 80 minutes
+(minimum); **Range:** Unlimited; **Target:** One creature with fewer Hit
+Dice that you; **Duration:** 16 hours (see text); **Saving Throw:** Will
+partial (DC 18 + caster’s Cha modifier); **Spell Resistance:** Yes
 
 The *quartz compulsion *incantation lets you telepathically contact the
 subject by gazing through a quartz shard, regardless of where the
@@ -845,12 +845,12 @@ Satellite Tracking
 
 Divination
 
-**Skill Check: **Knowledge (arcane lore) DC 34, 6 successes, and
-Computer Use DC 34, 2 successes; **Failure: **Two consecutive failed
-skill checks; **Components: **V, S, F; **Casting Time: **80 minutes
-(minimum); **Range: **Unlimited; **Target: **One living creature or
-object; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes, and
+Computer Use DC 34, 2 successes; **Failure:** Two consecutive failed
+skill checks; **Components:** V, S, F; **Casting Time:** 80 minutes
+(minimum); **Range:** Unlimited; **Target:** One living creature or
+object; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 A *satellite tracking *incantation is among the most powerful means of
 locating creatures or objects. You learn the exact location of a single
@@ -878,12 +878,12 @@ Sigil of Algos
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
-**Skill Check: **Knowledge (arcane lore) DC 32, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, M, XP;
-**Casting Time: **60 minutes (minimum); **Range: **Touch; **Effect: **60
-ft. burst centered on magic rune (see text); **Duration: **12 minutes
-(and see text); **Saving Throw: **Will negates (DC 16 + caster’s
-Charisma modifier); **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 32, 6 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 60 minutes (minimum); **Range:** Touch; **Effect:** 60
+ft. burst centered on magic rune (see text); **Duration:** 12 minutes
+(and see text); **Saving Throw:** Will negates (DC 16 + caster’s
+Charisma modifier); **Spell Resistance:** Yes
 
 This incantation, named after the Greek god of pain, allows you to
 scribe a potent rune of power upon a surface. When triggered, the *sigil
@@ -972,12 +972,12 @@ Sigil of Lyssa
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
-**Skill Check: **Knowledge (arcane lore) DC 35, 7 successes (and see
-text); **Failure: **Two consecutive failed skill checks; **Components:
-**V, S, M, XP; **Casting Time: **70 minutes (minimum); **Range: **Touch;
-**Effect: **60 ft. burst centered on magic rune (see text); **Duration:
-**16 minutes (and see text); **Saving Throw: **Will negates (DC 18 +
-caster’s Charisma modifier); **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 35, 7 successes (and see
+text); **Failure:** Two consecutive failed skill checks; **Components:
+**V, S, M, XP; **Casting Time:** 70 minutes (minimum); **Range:** Touch;
+**Effect:** 60 ft. burst centered on magic rune (see text); **Duration:
+**16 minutes (and see text); **Saving Throw:** Will negates (DC 18 +
+caster’s Charisma modifier); **Spell Resistance:** Yes
 
 As the *sigil of Algos *incantation, except that the rune causes
 creatures within 60 feet of the rune (treat as a burst) to go
@@ -1031,12 +1031,12 @@ Subjugate Outsider
 
 Conjuration (Calling)
 
-**Skill Check: **Knowledge (arcane lore) DC 33, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components: **V, S, M, SC, B;
-**Casting Time: **6 hours (minimum); **Range: **55 ft.; **Target: **One
-outsider of up to CR 6 (see text); **Duration: **Instantaneous (see
-text); **Saving Throw: **Will negates (DC 16 + caster’s Charisma
-modifier); **Spell Resistance: **Yes
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes; **Failure:
+**Two consecutive failed skill checks; **Components:** V, S, M, SC, B;
+**Casting Time:** 6 hours (minimum); **Range:** 55 ft.; **Target:** One
+outsider of up to CR 6 (see text); **Duration:** Instantaneous (see
+text); **Saving Throw:** Will negates (DC 16 + caster’s Charisma
+modifier); **Spell Resistance:** Yes
 
 Casting this incantation attempts a dangerous act: to lure a creature
 from another dimension or plane to a specifically prepared trap. The
@@ -1102,13 +1102,13 @@ Teleport
 
 Conjuration (Teleporting)
 
-**Skill Check: **Knowledge (arcane lore) DC 31, 5 successes, and
-Navigate DC 31, 1 success; **Failure: **Two consecutive failed skill
-checks; **Components: **V, S, SC, B; **Casting Time: **60 minutes
-(minimum); **Range: **Personal and Touch; **Target: **You, up to six
+**Skill Check:** Knowledge (arcane lore) DC 31, 5 successes, and
+Navigate DC 31, 1 success; **Failure:** Two consecutive failed skill
+checks; **Components:** V, S, SC, B; **Casting Time:** 60 minutes
+(minimum); **Range:** Personal and Touch; **Target:** You, up to six
 touched willing creatures, and touched objects weighing up to 500
-lb./level; **Duration: **Instantaneous; **Saving Throw: **None; **Spell
-Resistance: **No
+lb./level; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+Resistance:** No
 
 This incantation instantly transports you to a designated destination up
 to 1,000 miles away. You can bring along up to 500 pounds of touched
@@ -1179,13 +1179,13 @@ effective level determines a number of relatively minor aspects to the
 incantation: how many total successes are required, the exact save DC of
 the incantation, and sometimes its precise range and duration.
 
-**Total Successes: **Equal to the incantation’s effective level (minimum
+**Total Successes:** Equal to the incantation’s effective level (minimum
 6).
 
-**Save DC: **Equals 10 + incantation’s effective level + caster’s
+**Save DC:** Equals 10 + incantation’s effective level + caster’s
 Charisma modifier.
 
-**Duration and Range: **Assume a caster level of twice the spell’s
+**Duration and Range:** Assume a caster level of twice the spell’s
 level, using the same formula a spell would. For example an incantation
 built from a seed with a duration of “minutes” would last 12 minutes if
 it’s effectively a 6th-level spell. The same incantation with Medium
@@ -1236,21 +1236,21 @@ The following terms are used extensively in this section
 
 of the chapter:
 
-**Incantation: **Powerful ritual magic that requires successful
+**Incantation:** Powerful ritual magic that requires successful
 Knowledge (arcane lore) checks to cast. Incantations don’t require
 spellcasting ability, don’t take up spell slots, can’t be improved using
 metamagic feats, and need not be prepared ahead of time.
 
-**Factor: **An aspect of the incantation that’s built in when the
+**Factor:** An aspect of the incantation that’s built in when the
 incantation is designed. Casters have no control over factors; they’re
 an indelible part of the incantation. When a GM designs an incantation,
 factors are useful ways to customize an incantation.
 
-**Option: **Aspects of the incantation that make it easier or harder,
+**Option:** Aspects of the incantation that make it easier or harder,
 depending on choices the caster makes. Options provide modifiers to the
 caster’s Knowledge (arcane lore) check.
 
-**Seed: **The building blocks of incantation, seeds describe magical
+**Seed:** The building blocks of incantation, seeds describe magical
 effects in general terms.
 
 <table>
@@ -1426,9 +1426,9 @@ Seed: Afflict
 
 Enchantment (Compulsion) \[Fear, Mind-Affecting\]
 
-**Knowledge (arcane lore) DC: **30; **Range: **Close; **Target: **One
-living creature; **Duration: **Minutes; **Saving Throw: **Will negates;
-**Spell Resistance: **Yes
+**Knowledge (arcane lore) DC:** 30; **Range:** Close; **Target:** One
+living creature; **Duration:** Minutes; **Saving Throw:** Will negates;
+**Spell Resistance:** Yes
 
 You afflict the target with a –2 morale penalty on attack rolls, checks,
 and saving throws. For each additional –1 penalty assessed on either the
@@ -1465,9 +1465,9 @@ Seed: Animate Dead
 
 Necromancy
 
-**Knowledge (arcane lore) DC: **34; **Range: **Touch; **Targets: **One
-or more corpses touched; **Duration: **Instantaneous; **Saving Throw:
-**None; **Spell Resistance: **No
+**Knowledge (arcane lore) DC:** 34; **Range:** Touch; **Targets:** One
+or more corpses touched; **Duration:** Instantaneous; **Saving Throw:
+**None; **Spell Resistance:** No
 
 You can turn the bones or bodies of dead creatures into undead that
 follow your spoken commands. The undead can follow you, or they can
@@ -1494,7 +1494,7 @@ created with this seed can be controlled using this DC adjustment. If
 you want to both create and control more than 20 HD of undead, increase
 the Knowledge (arcane lore) DC by +3 per additional 2 HD of undead.
 
-**Type of Undead: **All types of undead can be created with the *animate
+**Type of Undead:** All types of undead can be created with the *animate
 dead *seed, although creating more powerful undead increases the
 Knowledge (arcane lore) check DC, according to the chart below. The GM
 must set the Knowledge (arcane lore) check DC for undead not included on
@@ -1613,9 +1613,9 @@ the chart, using similar undead as a basis for comparison.
 
 Conjuration (Creation)
 
-**Knowledge (arcane lore) DC: **30; **Range: **Touch; **Target:
-**Creature touched; **Duration: **Hours (D); **Saving Throw: **Will
-negates (harmless); **Spell Resistance: **Yes (harmless)
+**Knowledge (arcane lore) DC:** 30; **Range:** Touch; **Target:
+**Creature touched; **Duration:** Hours (D); **Saving Throw:** Will
+negates (harmless); **Spell Resistance:** Yes (harmless)
 
 You grant a creature additional armor, providing a +4 bonus to Defense.
 The bonus is either an equipment bonus or a natural armor bonus,
@@ -1635,10 +1635,10 @@ Seed: Banish
 
 Abjuration
 
-**Knowledge (arcane lore) DC: **34; **Range: **Close; **Targets: **One
+**Knowledge (arcane lore) DC:** 34; **Range:** Close; **Targets:** One
 or more summoned or called creatures, no two of which can be more than
-30 ft. apart; **Duration: **Instantaneous; **Saving Throw: **Will
-negates; **Spell Resistance: **Yes
+30 ft. apart; **Duration:** Instantaneous; **Saving Throw:** Will
+negates; **Spell Resistance:** Yes
 
 You force summoned or called creatures back to where they came from. You
 can banish up to 14 HD of such creatures. For each additional Hit Die of
@@ -1660,9 +1660,9 @@ Seed: Compel
 
 Enchantment (Compulsion) \[Mind-Affecting, Language-Dependent\]
 
-**Knowledge (arcane lore) DC: **30; **Range: **Close; **Target: **One
-living creature; **Duration: **Hours (D); **Saving Throw: **Will
-negates; **Spell Resistance: **Yes
+**Knowledge (arcane lore) DC:** 30; **Range:** Close; **Target:** One
+living creature; **Duration:** Hours (D); **Saving Throw:** Will
+negates; **Spell Resistance:** Yes
 
 You compel a target to follow a specified course of activity.
 
@@ -1687,10 +1687,10 @@ Seed: Conceal
 
 Illusion
 
-**Knowledge (arcane lore) DC: **30; **Range: **Personal or touch;
-**Target: **You or a creature or object up to 2,000 lb.; **Duration:
-**Minutes; **Saving Throw: **None or Will negates (harmless, object);
-**Spell Resistance: **No or Yes (harmless, object)
+**Knowledge (arcane lore) DC:** 30; **Range:** Personal or touch;
+**Target:** You or a creature or object up to 2,000 lb.; **Duration:
+**Minutes; **Saving Throw:** None or Will negates (harmless, object);
+**Spell Resistance:** No or Yes (harmless, object)
 
 You can conceal a creature or object touched from sight, even from
 darkvision. If the target is a creature carrying gear, the gear
@@ -1720,9 +1720,9 @@ Seed: Conjure
 
 Conjuration (Creation)
 
-**Knowledge (arcane lore) DC: **30; **Range: **0 ft.; **Effect:
+**Knowledge (arcane lore) DC:** 30; **Range:** 0 ft.; **Effect:
 **Unattended, nonmagical object of nonliving matter, 20 cu. ft.;
-**Duration: **Hours; **Saving Throw: **None; **Spell Resistance: **No
+**Duration:** Hours; **Saving Throw:** None; **Spell Resistance:** No
 
 You create a nonmagical, unattended object of up to 20 cubic feet. You
 must succeed at an appropriate skill check to make a complex item, such
@@ -1738,9 +1738,9 @@ Seed: Contact
 
 Divination
 
-**Knowledge (arcane lore) DC: **30; **Range: **See text; **Targets:
-**One other creature; **Duration: **Hours; **Saving Throw: **None;
-**Spell Resistance: **No
+**Knowledge (arcane lore) DC:** 30; **Range:** See text; **Targets:
+**One other creature; **Duration:** Hours; **Saving Throw:** None;
+**Spell Resistance:** No
 
 You forge a telepathic bond with a particular creature with whom you are
 familiar (or can currently see directly or through magical means) and
@@ -1759,10 +1759,10 @@ Seed: Delude
 
 Illusion
 
-**Knowledge (arcane lore) DC: **30; **Range: **Long; **Effect: **Visual
+**Knowledge (arcane lore) DC:** 30; **Range:** Long; **Effect:** Visual
 figment that can extend up to 12 10-ft. cubes (S); **Duration:
-**Minutes; **Saving Throw: **Will disbelief (if interacted with);
-**Spell Resistance: **No
+**Minutes; **Saving Throw:** Will disbelief (if interacted with);
+**Spell Resistance:** No
 
 An incantation developed with the *delude *seed creates the visual
 illusion of an object, creature, or force, as visualized by you. You can
@@ -1790,9 +1790,9 @@ Seed: Destroy
 
 Transmutation
 
-**Knowledge (arcane lore) DC: **30; **Range: **Long; **Targets: **1
+**Knowledge (arcane lore) DC:** 30; **Range:** Long; **Targets:** 1
 creature, or up to a 10-foot cube of nonliving matter; **Duration:
-**Instantaneous; **Saving Throw: **Fortitude half; **Spell Resistance:
+**Instantaneous; **Saving Throw:** Fortitude half; **Spell Resistance:
 **Yes
 
 You deal 10d6 points of damage to the target. The damage is of no
@@ -1816,9 +1816,9 @@ Seed: Dispel
 
 Abjuration
 
-**Knowledge (arcane lore) DC: **30; **Range: **Medium; **Target: **One
-creature or object; **Duration: **Instantaneous; **Saving Throw: **None;
-**Spell Resistance: **No
+**Knowledge (arcane lore) DC:** 30; **Range:** Medium; **Target:** One
+creature or object; **Duration:** Instantaneous; **Saving Throw:** None;
+**Spell Resistance:** No
 
 You can end ongoing spells and incantations that have been cast on a
 creature or object, temporarily suppress the magical abilities of a
@@ -1857,12 +1857,12 @@ Seed: Energy
 
 Evocation \[Acid, Fire, Electricity, Cold, or Sonic/Concussion\]
 
-**Knowledge (arcane lore) DC: **30; **Range: **Medium, or touched
-creature or object of up to 2,000 lbs.; **Area: **A bolt 5 ft. wide to
+**Knowledge (arcane lore) DC:** 30; **Range:** Medium, or touched
+creature or object of up to 2,000 lbs.; **Area:** A bolt 5 ft. wide to
 300 ft. long; or 5-ft.-radius emanation; or a wall whose area is up to
 one 200-ft. square; or a sphere or hemisphere with a radius of up to 20
-ft.; **Duration: **Instantaneous or hours; **Saving Throw: **Reflex
-half; **Spell Resistance: **Yes
+ft.; **Duration:** Instantaneous or hours; **Saving Throw:** Reflex
+half; **Spell Resistance:** Yes
 
 You can work with whichever one of five energy types you choose: acid,
 cold, electricity, fire, or sonic/concussion. You can cast the energy
@@ -1916,8 +1916,8 @@ Seed: Foresee
 
 Divination
 
-**Knowledge (arcane lore) DC: **32; **Range: **Personal; **Target:
-**You; **Duration: **Instantaneous (see text)
+**Knowledge (arcane lore) DC:** 32; **Range:** Personal; **Target:
+**You; **Duration:** Instantaneous (see text)
 
 You can foretell the immediate future, or gain information about
 specific questions.
@@ -1955,9 +1955,9 @@ Seed: Fortify
 
 Transmutation
 
-**Knowledge (arcane lore) DC: **30; **Range: **Touch; **Target:
-**Creature touched; **Duration: **Hours; **Saving Throw: **Will negates
-(harmless); **Spell Resistance: **Yes (harmless)
+**Knowledge (arcane lore) DC:** 30; **Range:** Touch; **Target:
+**Creature touched; **Duration:** Hours; **Saving Throw:** Will negates
+(harmless); **Spell Resistance:** Yes (harmless)
 
 Incantations using the *fortify *seed grant a +1 enhancement bonus to
 whichever one of the following you choose:
@@ -1999,9 +1999,9 @@ Seed: Heal
 
 Conjuration (Healing)
 
-**Knowledge (arcane lore) DC: **32; **Range: **Touch; **Target:
-**Creature touched; **Duration: **Instantaneous; **Saving Throw: **Yes
-(harmless; see text); **Spell Resistance: **Yes (harmless)
+**Knowledge (arcane lore) DC:** 32; **Range:** Touch; **Target:
+**Creature touched; **Duration:** Instantaneous; **Saving Throw:** Yes
+(harmless; see text); **Spell Resistance:** Yes (harmless)
 
 Incantations developed with the *heal *seed channel positive energy into
 a creature to wipe away disease and injury. Such an incantation
@@ -2026,9 +2026,9 @@ Seed: Life
 
 Conjuration (Healing)
 
-**Knowledge (arcane lore) DC: **33; **Range: **Touch; **Target: **Dead
-creature touched; **Duration: **Instantaneous; **Saving Throw: **None
-(see text); **Spell Resistance: **Yes (harmless)
+**Knowledge (arcane lore) DC:** 33; **Range:** Touch; **Target:** Dead
+creature touched; **Duration:** Instantaneous; **Saving Throw:** None
+(see text); **Spell Resistance:** Yes (harmless)
 
 An incantation developed with the *life *seed will restore life and
 complete vigor to any deceased creature. The condition of the remains is
@@ -2057,8 +2057,8 @@ Seed: Reflect
 
 Abjuration
 
-**Knowledge (arcane lore) DC: **32; **Range: **Personal; **Target:
-**You; **Duration: **Until expended or 12 hours
+**Knowledge (arcane lore) DC:** 32; **Range:** Personal; **Target:
+**You; **Duration:** Until expended or 12 hours
 
 Attacks targeted against you rebound on the original attacker. Each use
 of the *reflect *seed in an incantation is effective against one type of
@@ -2092,9 +2092,9 @@ Seed: Reveal
 
 Divination
 
-**Knowledge (arcane lore) DC: **30; **Range: **See text; **Effect:
-**Magical sensor; **Duration: **Minutes (D); **Saving Throw: **None;
-**Spell Resistance: **No
+**Knowledge (arcane lore) DC:** 30; **Range:** See text; **Effect:
+**Magical sensor; **Duration:** Minutes (D); **Saving Throw:** None;
+**Spell Resistance:** No
 
 You can hear or see some distant location almost as if you were there.
 To both hear and see, increase the Knowledge (arcane lore) check DC by
@@ -2130,9 +2130,9 @@ Seed: Slay
 
 Necromancy \[Death\]
 
-**Knowledge (arcane lore) DC: **34; **Range: **Medium; **Target: **One
-living creature; **Duration: **Instantaneous; **Saving Throw:
-**Fortitude partial; **Spell Resistance: **Yes
+**Knowledge (arcane lore) DC:** 34; **Range:** Medium; **Target:** One
+living creature; **Duration:** Instantaneous; **Saving Throw:
+**Fortitude partial; **Spell Resistance:** Yes
 
 An incantation developed using the *slay *seed snuffs out the life force
 of a living creature, killing it instantly. The *slay *seed kills a
@@ -2156,9 +2156,9 @@ Seed: Summon
 
 Conjuration (Summoning)
 
-**Knowledge (arcane lore) DC: **32; **Range: **Close; **Effect: **One
-summoned creature; **Duration: **Rounds (D); **Saving Throw: **Will
-negates (see text); **Spell Resistance: **Yes (see text)
+**Knowledge (arcane lore) DC:** 32; **Range:** Close; **Effect:** One
+summoned creature; **Duration:** Rounds (D); **Saving Throw:** Will
+negates (see text); **Spell Resistance:** Yes (see text)
 
 You can summon an outsider. It appears where you designate and acts
 immediately, on your turn, if its spell resistance is overcome and it
@@ -2188,9 +2188,9 @@ Seed: Transform
 
 Transmutation
 
-**Knowledge (arcane lore) DC: **32; **Range: **Close; **Target: **One
-creature or inanimate, nonmagical object; **Duration: **Hours; **Saving
-Throw: **Fortitude negates (and see text); **Spell Resistance: **Yes
+**Knowledge (arcane lore) DC:** 32; **Range:** Close; **Target:** One
+creature or inanimate, nonmagical object; **Duration:** Hours; **Saving
+Throw:** Fortitude negates (and see text); **Spell Resistance:** Yes
 
 Incantations using the *transform *seed change the subject into another
 form of creature or object. The new form can range in size from
@@ -2238,10 +2238,10 @@ Seed: Transport
 
 Conjuration (Teleporting)
 
-**Knowledge (arcane lore) DC: **32; **Range: **Touch; **Target: **You
+**Knowledge (arcane lore) DC:** 32; **Range:** Touch; **Target:** You
 and touched objects or other touched willing creatures weighing up to
-500 lb.; **Duration: **Instantaneous; **Saving Throw: **None and Will
-negates (object, subject); **Spell Resistance: **No and Yes (object,
+500 lb.; **Duration:** Instantaneous; **Saving Throw:** None and Will
+negates (object, subject); **Spell Resistance:** No and Yes (object,
 subject)
 
 Incantations using the *transport *seed instantly transport you to a
@@ -2269,10 +2269,10 @@ Seed: Ward
 
 Abjuration
 
-**Knowledge (arcane lore) DC: **30; **Range: **Touch; **Target:
+**Knowledge (arcane lore) DC:** 30; **Range:** Touch; **Target:
 **Creature or object of 1,000 lbs. or less touched; or 10-ft.-radius
-spherical emanation, centered on you; **Duration: **Hours (D); **Saving
-Throw: **None; **Spell Resistance: **Yes
+spherical emanation, centered on you; **Duration:** Hours (D); **Saving
+Throw:** None; **Spell Resistance:** Yes
 
 You can grant a creature protection from damage of a specified type. You
 can protect a creature from standard damage or from energy damage. You

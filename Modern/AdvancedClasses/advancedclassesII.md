@@ -10,7 +10,7 @@ following criteria.
 
 **Base Attack Bonus:** +3.
 
-**Feats: **Archaic Weapons Proficiency.
+**Feats:** Archaic Weapons Proficiency.
 
 ## Class Information
 
@@ -474,7 +474,7 @@ class, though other paths are possible.
 To qualify to become an Occultist, a character must fulfill the
 following criteria.
 
-**Skills: **Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks,
+**Skills:** Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks,
 Research 6 ranks.
 
 **Feats:** Educated, Studious.
@@ -701,7 +701,7 @@ you are casting a spell, you add the level of the spell to the DC.
 **Try Again?:** You can try again, but doing so doesn’t cancel the
 effects of a previous failure. If you lost a spell, the spell is lost.
 
-**Special: **By making a check (DC 15 + spell level), you can use
+**Special:** By making a check (DC 15 + spell level), you can use
 Concentration to cast a spell defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the casting without
 incurring any attacks of opportunity.
@@ -710,7 +710,7 @@ incurring any attacks of opportunity.
 magic devices, including scrolls and wands, that you could not otherwise
 activate.
 
-**Check: **You can use this skill to read a spell from a scroll or
+**Check:** You can use this skill to read a spell from a scroll or
 spellbook or activate a magic item. This skill lets you use a magic item
 as if you had the spell ability or class features of another class or a
 different allegiance.
@@ -771,7 +771,7 @@ If the class whose feature you are emulating has an allegiance
 requirement, you must meet it. This may require a separate check to
 emulate allegiance (see below).
 
-**Emulate Ability Score: **To cast a spell from a scroll, you need a
+**Emulate Ability Score:** To cast a spell from a scroll, you need a
 high ability score in the appropriate ability (Intelligence for arcane
 spells, Wisdom for divine spells). Your effective ability score
 (appropriate to the class you’re emulating when you try to cast a spell
@@ -783,7 +783,7 @@ effects based on your allegiance. You can use these items as if you were
 of an allegiance of your choice. You can only emulate one allegiance at
 a time.
 
-**Use a Scroll: **Normally, to cast a spell from a scroll, you must
+**Use a Scroll:** Normally, to cast a spell from a scroll, you must
 belong to a class that has access to the arcane or divine spell
 inscribed therein. This use of the skill allows you to use a scroll as
 if you were of the appropriate spellcasting class. The DC equals 20 +
@@ -795,12 +795,12 @@ In addition, casting a spell from a scroll requires a minimum score of
 sufficiently high score, you must emulate the ability score with a
 separate check (see above).
 
-**Use a Wand: **Normally, to use a wand you must belong to a class that
+**Use a Wand:** Normally, to use a wand you must belong to a class that
 has access to the arcane or divine spell ensorcelled therein. This use
 of the skill allows you to use a wand as if you were of the appropriate
 spellcasting class.
 
-**Try Again?: **Yes, but if you ever roll a natural 1 while attempting
+**Try Again?:** Yes, but if you ever roll a natural 1 while attempting
 to activate an item and you fail the check, then you can’t try to
 activate that item again for 24 hours.
 
@@ -1004,11 +1004,11 @@ A Telepath has access to the following psionic skills. These skills are
 considered class skills for the Telepath, and he can use his skill
 points to buy ranks in them, just like other skills in the game.
 
-**Autohypnosis (Wis): **Trained only. You have trained your mind to
+**Autohypnosis (Wis):** Trained only. You have trained your mind to
 resist certain injuries and threats while also gaining a few select
 benefits.
 
-**Check: **The DC and effect depend on the task you attempt.
+**Check:** The DC and effect depend on the task you attempt.
 
 <table>
 <tbody>
@@ -1123,7 +1123,7 @@ powers as they manifest or psionic effects already in place.
 
 **Try Again?:** See above.
 
-**Time: **Unless otherwise indicated, Psicraft is a move action.
+**Time:** Unless otherwise indicated, Psicraft is a move action.
 
 ### Psionic Powers
 
@@ -1437,9 +1437,9 @@ cost +6.
 To qualify to become a Battle Mind, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
-**Skill: **Jump 6 ranks.
+**Skill:** Jump 6 ranks.
 
 **Feat:** Wild Talent
 
@@ -1648,7 +1648,7 @@ skill points to buy ranks in them, just like other skills in the game.
 resist certain injuries and threats while also gaining a few select
 benefits.
 
-**Check: **The DC and effect depend on the task you attempt.
+**Check:** The DC and effect depend on the task you attempt.
 
 |                     |                   |
 |---------------------|-------------------|
@@ -1678,7 +1678,7 @@ Autohypnosis check on your next action. A successful check grants you a
 +4 morale bonus on your saving throw to resist the poison’s secondary
 damage.
 
-**Willpower: **If reduced to 0 hit points (disabled), you may make an
+**Willpower:** If reduced to 0 hit points (disabled), you may make an
 Autohypnosis check. If successful, you can perform a strenuous action
 without taking 1 point of damage. A failed check carries no
 penalties—you can choose not to perform the strenuous action. If you do
@@ -1714,7 +1714,7 @@ manifesting a power, you add the level of the power to the DC.
 **Try Again?:** You can try again, but doing so doesn’t cancel the
 effects of a previous failure. If you lost a power, the power is lost.
 
-**Special: **By making a check (DC 15 + power level), you can use
+**Special:** By making a check (DC 15 + power level), you can use
 Concentration to manifest a power defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the action without
 incurring any attacks of opportunity.
@@ -2192,7 +2192,7 @@ A Mage has access to the following arcane skills. These skills are
 considered class skills for the Mage, and he can use his skill points to
 buy ranks in them.
 
-**Concentration (Con): **The normal Concentration skill expands to
+**Concentration (Con):** The normal Concentration skill expands to
 include arcane applications, as defined below.
 
 **Check:** You must make a Concentration check whenever you may
@@ -2209,7 +2209,7 @@ The table in the Concentration skill description summarizes the various
 types of distractions. In situations where the distraction occurs while
 you are casting a spell, you add the level of the spell to the DC.
 
-**Try Again?: **You can try again, but doing so doesn’t cancel the
+**Try Again?:** You can try again, but doing so doesn’t cancel the
 effects of a previous failure. If you lost a spell, the spell is lost.
 
 **Special:** By making a check (DC 15 + spell level), you can use
@@ -2231,7 +2231,7 @@ description.
 
 **Try Again?:** See above.
 
-**Time: **Unless otherwise indicated, using the Spellcraft skill is a
+**Time:** Unless otherwise indicated, using the Spellcraft skill is a
 move action.
 
 |                  |                                                                                                                                                                                                          |
@@ -2609,7 +2609,7 @@ either case, the familiar uses its own ability modifiers. Regardless of
 a familiar’s total skill modifiers, some skills may remain beyond the
 ability of the familiar to perform (such as Craft, for instance).
 
-**Familiar Special Abilities: **Familiars have special abilities, or
+**Familiar Special Abilities:** Familiars have special abilities, or
 impart abilities to their Mages, depending on the level of the Mage.
 
 *Natural Armor (Ex): *This number represents a bonus to the familiar’s
@@ -2804,7 +2804,7 @@ spell is treated as a 5th-level spell.
 To qualify to become an Acolyte, a character must fulfill the following
 criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
 **Skills:** Knowledge (theology and philosophy) 6 ranks, Listen 6 ranks,
 Sense Motive 6 ranks.
@@ -2816,7 +2816,7 @@ either the good (positive) or evil (negative) allegiance to the
 character, and determines how the Acolyte uses certain aspects of her
 faith.
 
-**Holy Symbol: **When the character declares her allegiance, she must
+**Holy Symbol:** When the character declares her allegiance, she must
 designate one of her personal possessions as a symbol of her dedication
 to her allegiance. This possession can be either an actual religious
 object or some other item of personal significance. This object is
@@ -2884,10 +2884,10 @@ An Acolyte has access to the following divine skills. These skills are
 considered class skills for the Acolyte, and she can use her skill
 points to buy ranks in them, just like other skills in the game.
 
-**Concentration (Con): **The normal Concentration skill expands to
+**Concentration (Con):** The normal Concentration skill expands to
 include divine applications, as defined below.
 
-**Check: **You must make a Concentration check whenever you may
+**Check:** You must make a Concentration check whenever you may
 potentially be distracted while engaged in an activity, including
 casting a spell or concentrating on an active spell, that requires your
 full attention.
@@ -2901,7 +2901,7 @@ The table in the Concentration skill description summarizes the various
 types of distractions. In situations where the distraction occurs while
 you are casting a spell, you add the level of the spell to the DC.
 
-**Try Again?: **You can try again, but doing so doesn’t cancel the
+**Try Again?:** You can try again, but doing so doesn’t cancel the
 effects of a previous failure. If you lost a spell, the spell is lost.
 
 Special: By making a check (DC 15 + spell level), you can use
@@ -2909,10 +2909,10 @@ Concentration to cast a spell defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the casting without
 incurring any attacks of opportunity.
 
-**Spellcraft (Int): **Trained only. Use this skill to identify spells as
+**Spellcraft (Int):** Trained only. Use this skill to identify spells as
 they are cast or spells already in place.
 
-**Check: **You can identify spells and magic effects.
+**Check:** You can identify spells and magic effects.
 
 Additionally, certain spells allow you to gain information about magic
 provided that you make a Spellcraft check as detailed in the spell

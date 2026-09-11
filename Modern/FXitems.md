@@ -10,7 +10,7 @@ items.
 To use a magic item or psionic item, it must be activated. The three
 ways to activate FX items are described below.
 
-**Command Word: **If no activation method is suggested either in the
+**Command Word:** If no activation method is suggested either in the
 item description or by the nature of the item, assume that a command
 word is needed to activate it. Command word activation means that a
 character speaks the word and the item activates. No other special
@@ -142,7 +142,7 @@ long as it’s worn. If armor has a special quality that the wearer needs
 to activate, then the wearer needs to utter a command word (an attack
 action).
 
-**Purchase DC: **To calculate the purchase DC for armor with an
+**Purchase DC:** To calculate the purchase DC for armor with an
 enhancement bonus but no special qualities, use the following table.
 
 <table>
@@ -396,7 +396,7 @@ hit points, and a break DC of 25.
 Activating a ring is an attack action and does not provoke attacks of
 opportunity.
 
-**Purchase DC: **A ring’s purchase DC is 25 + the ring’s caster level
+**Purchase DC:** A ring’s purchase DC is 25 + the ring’s caster level
 unless noted otherwise.
 
 Examples of rings include the following.
@@ -465,7 +465,7 @@ paper; the scroll is wasted.
 
 Using a scroll is an attack action that provokes attacks of opportunity.
 
-**Purchase DC: **A scroll’s purchase DC is 15 + the scroll’s caster
+**Purchase DC:** A scroll’s purchase DC is 15 + the scroll’s caster
 level + spell level unless noted otherwise.
 
 Examples of scrolls include the following.
@@ -502,7 +502,7 @@ creatures with psionic abilities can use a staff of psionic powers.
 Using a staff is an attack action and does not provoke attacks of
 opportunity. A staff has 50 charges when new.
 
-**Purchase DC: **Unless noted otherwise, a staff’s purchase DC is 24 +
+**Purchase DC:** Unless noted otherwise, a staff’s purchase DC is 24 +
 the staff’s caster level or manifester level + the total levels of the
 spells stored in the staff.
 
@@ -610,7 +610,7 @@ arcane spell wand can be used only by arcane spellcasters.
 Using a wand is an attack action and does not provoke attacks of
 opportunity. A wand has 50 charges when new.
 
-**Purchase DC: **Unless noted otherwise, a wand’s purchase DC is 24 +
+**Purchase DC:** Unless noted otherwise, a wand’s purchase DC is 24 +
 the wand’s caster level + the level of the spell stored in the wand. The
 purchase DC is for a fully charged wand. For a used wand with 25
 charges, reduce the purchase DC by 2.

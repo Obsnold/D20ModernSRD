@@ -2271,11 +2271,11 @@ a purchase DC of 2.
 General equipment is described through a number of stats (see Table:
 General Equipment).
 
-**Weight: **This column gives the item’s weight.
+**Weight:** This column gives the item’s weight.
 
 **Purchase DC**: This is the purchase DC to buy the item.
 
-**Restriction: **The restriction rating for the item.
+**Restriction:** The restriction rating for the item.
 
 <table>
 <tbody>
@@ -2924,44 +2924,44 @@ impromptu weapons.
 
 ### VEHICLES
 
-**Crew: **The standard crew. In most cases, only one crewperson is
+**Crew:** The standard crew. In most cases, only one crewperson is
 needed to drive the vehicle; others serve as gunners or co-pilots.
 
-**Passengers: **The number of passengers the vehicle is designed to
+**Passengers:** The number of passengers the vehicle is designed to
 carry. This is in addition to the crew. Vehicles that carry passengers
 can use passenger space to carry additional cargo when passengers aren’t
 present. Each unused passenger slot allows the vehicle to carry an
 additional 250 pounds of cargo.
 
-**Cargo Capacity: **The amount of cargo the vehicle is designed to
+**Cargo Capacity:** The amount of cargo the vehicle is designed to
 carry. Many vehicles can, in a pinch, carry extra passengers instead of
 cargo, but doing so is usually a cramped, uncomfortable, and often
 unsafe experience for those passengers. As a rule of thumb, one
 additional passenger can be carried for each 250 pounds of unused cargo
 capacity.
 
-**Initiative: **The modifier added to initiative rolls when driving the
+**Initiative:** The modifier added to initiative rolls when driving the
 vehicle.
 
-**Maneuver: **The modifier added to any Drive or Pilot checks attempted
+**Maneuver:** The modifier added to any Drive or Pilot checks attempted
 with the vehicle.
 
-**Max Speed: **The maximum number of squares the vehicle can cover in a
+**Max Speed:** The maximum number of squares the vehicle can cover in a
 single round at character scale (with the number of squares at chase
 scale in parentheses). This is the fastest the vehicle can move.
 
-**Defense: **The vehicle’s Defense.
+**Defense:** The vehicle’s Defense.
 
-**Hardness: **The vehicle’s hardness. Subtract this number from any
+**Hardness:** The vehicle’s hardness. Subtract this number from any
 weapon damage dealt to the vehicle.
 
-**Hit Points: **The vehicle’s maximum hit points.
+**Hit Points:** The vehicle’s maximum hit points.
 
-**Size: **The vehicle’s size category.
+**Size:** The vehicle’s size category.
 
 **Purchase DC**: The purchase DC to buy the vehicle.
 
-**Restriction: **The restriction rating for the vehicle.
+**Restriction:** The restriction rating for the vehicle.
 
 <table>
 <tbody>

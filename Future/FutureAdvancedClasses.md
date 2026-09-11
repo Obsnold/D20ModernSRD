@@ -11,12 +11,12 @@ basic class, though other paths are conceivable.
 To qualify to become an Ambassador, a character must fulfill the
 following criteria.
 
-**Skills: **Diplomacy 6 ranks, Knowledge (civics) 6 ranks, Knowledge
+**Skills:** Diplomacy 6 ranks, Knowledge (civics) 6 ranks, Knowledge
 (theology and philosophy) 6 ranks.
 
-**Charismatic Hero Talents: **Charm, favor.
+**Charismatic Hero Talents:** Charm, favor.
 
-**Allegiance: **An Ambassador must pledge her primary allegiance to a
+**Allegiance:** An Ambassador must pledge her primary allegiance to a
 faction, nation, world, or empire and remain a dutiful servant of this
 body; if the Ambassador breaks this allegiance, she loses all the
 benefits of the Diplomatic Immunity and Open Arms class features (see
@@ -47,7 +47,7 @@ events, history, theology and philosophy) (Int), Profession (Wis),
 Read/Write Language (none), Research (Int), Sense Motive (Wis), and
 Speak Language (none).
 
-**Skill Points at Each Level: **5 + Int modifier (4 + Int modifier for
+**Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
 <table>
@@ -378,11 +378,11 @@ class, though other paths are certainly possible.
 To qualify to become a Dogfighter, a character must fulfill the
 following criteria.
 
-**Skills: **Pilot 6 ranks.
+**Skills:** Pilot 6 ranks.
 
-**Feat: **Starship Operation (ultralight).
+**Feat:** Starship Operation (ultralight).
 
-**Base Reflex Save: **+2.
+**Base Reflex Save:** +2.
 
 ###### Class Information
 
@@ -407,7 +407,7 @@ Bluff (Cha), Computer Use (Int), Craft (electronic, mechanical) (Int),
 Knowledge (popular culture, streetwise, technology) (Int), Navigate
 (Int), Pilot (Dex), Profession (Wis), Repair (Int).
 
-**Skill Points at Each Level: **5 + Int modifier (4 + Int modifier for
+**Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
 <table>
@@ -626,11 +626,11 @@ class, though other paths are possible.
 To qualify to become a Dreadnought, a character must fulfill the
 following criteria.
 
-**Skill: **Intimidate 6 ranks.
+**Skill:** Intimidate 6 ranks.
 
-**Feat: **Improved Damage Threshold.
+**Feat:** Improved Damage Threshold.
 
-**Tough Hero Talents: **Any two Tough hero talents.
+**Tough Hero Talents:** Any two Tough hero talents.
 
 ### Class Information
 
@@ -654,7 +654,7 @@ The Dreadnought’s class skills are as follows.
 Balance (Dex), Climb (Str), Concentration (Con), Intimidate (Cha), Jump
 (Str), Profession (Wis), Survival (Wis), Swim (Str), Tumble (Dex).
 
-**Skill Points at Each Level: **3 + Int modifier (2 + Int modifier for
+**Skill Points at Each Level:** 3 + Int modifier (2 + Int modifier for
 nonhumans).
 
 <table>
@@ -906,7 +906,7 @@ class, though other paths are possible.
 To qualify to become an Engineer, a character must fulfill the following
 criteria.
 
-**Skills: **Computer Use 6 ranks, Craft (electrical) 6 ranks, Craft
+**Skills:** Computer Use 6 ranks, Craft (electrical) 6 ranks, Craft
 (mechanical) 6 ranks, Knowledge (technology) 6 ranks, Repair 6 ranks.
 
 ### Class Information
@@ -934,7 +934,7 @@ technology) ( Int) , Navigate ( Int) , Pilot (Dex) , Profession (Wis),
 Read/Write Language (none), Repair (Int), Search (Int), Speak Language
 (none).
 
-**Skill Points at Each Level: **7 + Int modifier (6 + Int modifier for
+**Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
 <table>
@@ -1396,11 +1396,11 @@ basic class, though other paths are possible.
 To qualify to become an Explorer, a character must fulfill the following
 criteria.
 
-**Skills: **Knowledge (earth and life sciences) 6 ranks, Knowledge
+**Skills:** Knowledge (earth and life sciences) 6 ranks, Knowledge
 (history, physical sciences, or theology and philosophy) 4 ranks, Search
 4 ranks, Survival 6 ranks.
 
-**Dedicated Hero Talent: **Aware.
+**Dedicated Hero Talent:** Aware.
 
 ###### Class Information
 
@@ -1430,7 +1430,7 @@ none) , Research (Int) , Ride ( Dex) , Search ( Int) , Sense Motive
 (Wis), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str),
 Treat Injury (Wis).
 
-**Skill Points at Each Level: **7 + Int modifier (6 + Int modifier for
+**Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
 <table>
@@ -1731,11 +1731,11 @@ basic class, though other paths are possible.
 To qualify to become a Field Officer, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
-**Skills: **Diplomacy 6 ranks, Knowledge (tactics) 6 ranks.
+**Skills:** Diplomacy 6 ranks, Knowledge (tactics) 6 ranks.
 
-**Feat: **Personal Firearms Proficiency.
+**Feat:** Personal Firearms Proficiency.
 
 ###### Class Information
 
@@ -1761,7 +1761,7 @@ Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information
 history, physical sciences, tactics, theology and philosophy),
 Read/Write Language (none), Sense Motive (Wis), Speak Language (none).
 
-**Skill Points at Each Level: **5 + Int modifier (4 + Int modifier for
+**Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
 <table>
@@ -2042,11 +2042,11 @@ class, though other paths are possible.
 To qualify to become a Helix Warrior, a character must fulfill the
 following criteria.
 
-**Base Attack Bonus: **+3.
+**Base Attack Bonus:** +3.
 
-**Skill: **Knowledge (tactics) 3 ranks.
+**Skill:** Knowledge (tactics) 3 ranks.
 
-**Feat: **Endurance.
+**Feat:** Endurance.
 
 ###### Class Information
 
@@ -2072,7 +2072,7 @@ Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Listen
 (Wis), Move Silently (Dex), Navigate (Int), Spot (Wis), Survival (Wis),
 Swim (Str), Tumble (Dex).
 
-**Skill Points at Each Level: **3 + Int modifier (2 + Int modifier for
+**Skill Points at Each Level:** 3 + Int modifier (2 + Int modifier for
 nonhumans).
 
 <table>
@@ -2314,11 +2314,11 @@ class, though other paths are possible.
 To qualify to become a Space Monkey, a character must fulfill the
 following criteria.
 
-**Starting Occupation: **Astronaut Trainee.
+**Starting Occupation:** Astronaut Trainee.
 
-**Skills: **Craft (mechanical or structural) 6 ranks, Survival 6 ranks.
+**Skills:** Craft (mechanical or structural) 6 ranks, Survival 6 ranks.
 
-**Tough Hero Talent: **Any one talent from the Unbreakable Talent Tree.
+**Tough Hero Talent:** Any one talent from the Unbreakable Talent Tree.
 
 ### Class Information
 
@@ -2345,7 +2345,7 @@ Drive (Dex), Escape Artist (Dex), Jump (Str), Knowledge (earth and life
 sciences, technology) (Int), Navigate (Int), Pilot (Dex), Repair (Int),
 Search (Int), Survival (Wis), Treat Injury (Wis), Tumble (Dex).
 
-**Skill Points at Each Level: **5 + Int modifier (4 + Int modifier for
+**Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
 <table>
@@ -2581,9 +2581,9 @@ basic class, though other paths are possible.
 To qualify to become a Swindler, a character must fulfill the following
 criteria.
 
-**Skills: **Bluff 6 ranks, Disguise 4 ranks, Gamble 6 ranks.
+**Skills:** Bluff 6 ranks, Disguise 4 ranks, Gamble 6 ranks.
 
-**Charismatic Hero Talents: **Any two of the following talents: Charm,
+**Charismatic Hero Talents:** Any two of the following talents: Charm,
 Coordinate, Fast-Talk.
 
 ### Class Information
@@ -2614,7 +2614,7 @@ culture, streetwise, theology and philosophy) (Int), Perform (act)
 (Cha), Read/Write Language (none), Research (Int), Sense Motive (Wis),
 Sleight of Hand (Dex), Speak Language (none), Tumble (Dex).
 
-**Skill Points at Each Level: **7 + Int modifier (6 + Int modifier for
+**Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
 <table>
@@ -2835,7 +2835,7 @@ class, though other paths are possible.
 To qualify to become a Technosavant, a character must fulfill the
 following criteria.
 
-**Skills: **Computer Use 6 ranks, Craft (electrical or mechanical) 6
+**Skills:** Computer Use 6 ranks, Craft (electrical or mechanical) 6
 ranks, Disable Device 6 ranks, Knowledge (technology) 6 ranks.
 
 ###### Class Information
@@ -2864,7 +2864,7 @@ technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/
 Write Language (none), Repair (Int), Research (Int), Speak Language
 (none), Spot (Wis).
 
-**Skill Points at Each Level: **7 + Int modifier (6 + Int modifier for
+**Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
 <table>
@@ -3146,13 +3146,13 @@ basic class, though other paths are possible.
 To qualify to become a Tracer, a character must fulfill the following
 criteria.
 
-**Base Attack Bonus: **+2.
+**Base Attack Bonus:** +2.
 
-**Skills: **Investigate 6 ranks, Knowledge (behavioral sciences or
+**Skills:** Investigate 6 ranks, Knowledge (behavioral sciences or
 
 streetwise) 6 ranks, Survival 6 ranks.
 
-**Feat: **Track.
+**Feat:** Track.
 
 ###### Class Information
 
@@ -3180,7 +3180,7 @@ Jump (Str), Knowledge (behavioral sciences, civics, streetwise, tactics)
 Research (Int), Search (Int), Sense Motive (Wis), Spot (Wis), Survival
 (Wis), Swim (Str).
 
-**Skill Points at Each Level: **5 + Int modifier (4 + Int modifier for
+**Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
 
 <table>
@@ -3410,10 +3410,10 @@ class, though other paths are possible.
 To qualify to become a Xenophile, a character must fulfill the following
 criteria.
 
-**Skills: **Knowledge (earth and life sciences) 6 ranks, Knowledge
+**Skills:** Knowledge (earth and life sciences) 6 ranks, Knowledge
 (technology) 6 ranks.
 
-**Smart Hero Talent: **Either linguist or exploit weakness.
+**Smart Hero Talent:** Either linguist or exploit weakness.
 
 ###### Class Information
 
@@ -3440,7 +3440,7 @@ sciences, earth and life sciences, history, technology, theology and
 philosophy) (Int), Read/Write Language (none), Research (Int), Sense
 Motive (Wis), Speak Language (none), Treat Injury (Wis).
 
-**Skill Points at Each Level: **7 + Int modifier (6 + Int modifier for
+**Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
 
 <table>

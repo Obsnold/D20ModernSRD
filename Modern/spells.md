@@ -13,7 +13,7 @@ is the caster’s level in the appropriate spellcasting class. Creatures
 with no classes have a caster level equal to their Hit Dice unless
 otherwise specified.
 
-**Creatures and Characters: **“Creatures” and “characters” are used
+**Creatures and Characters:** “Creatures” and “characters” are used
 synonymously in the spell descriptions.
 
 **List Format:** Spells in the following lists are presented in order of
@@ -28,7 +28,7 @@ group. A brief description of the spell’s effect is provided.
 
 **Detect Magical Aura:** Detects spells and magic items within 60 ft.
 
-**Light: **Object shines like a torch.
+**Light:** Object shines like a torch.
 
 **Mage Hand:** 5-pound telekinesis.
 
@@ -46,19 +46,19 @@ group. A brief description of the spell’s effect is provided.
 
 **Cause Fear:** One creature flees for 1d4 rounds.
 
-**Change Self: **Changes your appearance.
+**Change Self:** Changes your appearance.
 
 **Comprehend Languages:** Understands all spoken and written languages.
 
-**Feather Fall: **Objects or creatures fall slowly.
+**Feather Fall:** Objects or creatures fall slowly.
 
-**Hold Portal: **Holds door shut.
+**Hold Portal:** Holds door shut.
 
 **Jump:** Subject gets bonus on Jump checks.
 
-**Mage Armor: **Gives subject +4 Defense bonus.
+**Mage Armor:** Gives subject +4 Defense bonus.
 
-**Magic Missile: **1d4+1 damage; +1 missile/two levels above 1st (max
+**Magic Missile:** 1d4+1 damage; +1 missile/two levels above 1st (max
 5).
 
 **Magic Weapon:** Weapon gains +1 bonus.
@@ -66,11 +66,11 @@ group. A brief description of the spell’s effect is provided.
 **Power Device:** Powers one inoperative electrical or mechanical
 device.
 
-**Ray of Fatigue: **Ray fatigues target.
+**Ray of Fatigue:** Ray fatigues target.
 
-**Shield: **Invisible disc gives cover, blocks magic missiles.
+**Shield:** Invisible disc gives cover, blocks magic missiles.
 
-**Sleep: **Put 2d4 HD of creatures into comatose slumber.
+**Sleep:** Put 2d4 HD of creatures into comatose slumber.
 
 **True Strike:** Adds +20 bonus to your next attack roll.
 
@@ -87,7 +87,7 @@ min./**Level:**
 
 **Glitterdust:** Blinds creatures, outlines invisible creatures.
 
-**Invisibility: **Subject is invisible for 10 min./level or until it
+**Invisibility:** Subject is invisible for 10 min./level or until it
 attacks.
 
 **Knock:** Opens locked or magically sealed door.
@@ -96,7 +96,7 @@ attacks.
 
 **Locate Object:** Senses direction toward object (specific or type).
 
-**Magic Mouth: **Speaks once when triggered.
+**Magic Mouth:** Speaks once when triggered.
 
 **Protection from Arrows/Bullets:** Subject immune to most ranged
 attacks.
@@ -106,7 +106,7 @@ type.
 
 **See Invisibility:** Reveals invisible creatures or objects.
 
-**Spider Climb: **Grants ability to travel on walls and ceilings.
+**Spider Climb:** Grants ability to travel on walls and ceilings.
 
 **Web:** Fills 20-ft.-radius spread with sticky spider webs.
 
@@ -114,36 +114,36 @@ type.
 
 **Dispel Magic:** Cancels magical spells and effects.
 
-**Displacement: **Attacks miss subject 50% of the time.
+**Displacement:** Attacks miss subject 50% of the time.
 
 **Fireball:** 1d6 damage per level, 20-ft: radius.
 
-**Flaming Projectiles: **Projectiles deal +1d6 fire damage.
+**Flaming Projectiles:** Projectiles deal +1d6 fire damage.
 
-**Greater Magic Weapon: **+1/three levels (max +5).
+**Greater Magic Weapon:** +1/three levels (max +5).
 
-**Halt Undead: **Immobilizes undead for 1 round/level.
+**Halt Undead:** Immobilizes undead for 1 round/level.
 
-**Haste: **Extra attack action, additional move, and +2 Defense.
+**Haste:** Extra attack action, additional move, and +2 Defense.
 
 **Hold Person:** Holds one person helpless; 1 round/level.
 
-**Invisibility Sphere: **Makes everyone within 10 ft: invisible.
+**Invisibility Sphere:** Makes everyone within 10 ft: invisible.
 
-**Keen Edge: **Doubles normal weapon’s threat range.
+**Keen Edge:** Doubles normal weapon’s threat range.
 
-**Lightning Bolt: **Electricity deals 1d6 damage/level.
+**Lightning Bolt:** Electricity deals 1d6 damage/level.
 
-**Slow: **One subject/level may only move or attack; –2 to Defense, –2
+**Slow:** One subject/level may only move or attack; –2 to Defense, –2
 on melee attack and damage rolls, –2 on Reflex saves.
 
 **Tongues:** Speak any language.
 
-**Water Breathing: **Subjects can breathe underwater.
+**Water Breathing:** Subjects can breathe underwater.
 
 **4th-level Mage Spells**
 
-**Animate Dead: **Creates undead skeletons and zombies.
+**Animate Dead:** Creates undead skeletons and zombies.
 
 **Arcane Eye:** Invisible floating eye moves 30 ft./round.
 
@@ -159,7 +159,7 @@ type.
 
 **Fear:** Subjects within cone flee for 1 round/level.
 
-**Ice Storm: **Hail deals 5d6 damage in cylinder 40 ft: across:
+**Ice Storm:** Hail deals 5d6 damage in cylinder 40 ft: across:
 
 **Minor Globe of Invulnerability:** Stops 1st- through 3rd-level spell
 effects.
@@ -173,7 +173,7 @@ effects.
 **Wall of Fire:** Deals 2d4 fire damage out to 10 ft: and 1d4 out to 20
 ft: Passing through wall deals 2d6 +1/level.
 
-**Wall of Ice: **Ice plane creates wall with 15 hp +1/level, or
+**Wall of Ice:** Ice plane creates wall with 15 hp +1/level, or
 hemisphere can trap creatures inside.
 
 **5th-level Mage Spells**
@@ -186,15 +186,15 @@ hemisphere can trap creatures inside.
 
 **Passwall:** Breaches walls 1 ft: thick/level.
 
-**Phantom Watchdog: **Spectral dog can guard or attack.
+**Phantom Watchdog:** Spectral dog can guard or attack.
 
 **Telekinesis:** Lifts or moves 25 lb./level at long range.
 
-**Wall of Force: **Wall is immune to damage.
+**Wall of Force:** Wall is immune to damage.
 
 **Wall of Iron:** 30 hp/four levels; can topple onto foes.
 
-**Wall of Stone: **Creates a stone wall that can be shaped.
+**Wall of Stone:** Creates a stone wall that can be shaped.
 
 ### Divine Spells
 
@@ -202,7 +202,7 @@ hemisphere can trap creatures inside.
 
 **Create Water:** Creates 2 gallons/level of pure water.
 
-**Cure Minor Wounds: **Cures 1 point of damage.
+**Cure Minor Wounds:** Cures 1 point of damage.
 
 **Detect Magical Aura:** Detects spells, magic items within 60 ft.
 
@@ -214,7 +214,7 @@ hemisphere can trap creatures inside.
 
 **Resistance:** Subject gains +1 on saving throws.
 
-**Virtue: **Subject gains 1 temporary hp.
+**Virtue:** Subject gains 1 temporary hp.
 
 **1st-level Acolyte Spells**
 
@@ -224,9 +224,9 @@ hemisphere can trap creatures inside.
 
 **Cause Fear:** One creature flees for 1d4 rounds.
 
-**Command: **One subject obeys one-word command for 1 round.
+**Command:** One subject obeys one-word command for 1 round.
 
-**Comprehend Languages: **Understand all spoken and written languages.
+**Comprehend Languages:** Understand all spoken and written languages.
 
 **Cure Light Wounds:** Cures 1d8 +1/level damage (max +5).
 
@@ -234,25 +234,25 @@ hemisphere can trap creatures inside.
 
 **Magic Weapon:** Weapon gains +1 bonus.
 
-**Remove Fear: **+4 on saves against fear for one subject + one
+**Remove Fear:** +4 on saves against fear for one subject + one
 additional subject/four levels.
 
 **Shield of Faith:** Aura grants +2 or higher deflection bonus.
 
 **2nd-Level Acolyte Spells**
 
-**Aid: **+1 attack, +1 on saves against fear, 1d8 temporary hit points.
+**Aid:** +1 attack, +1 on saves against fear, 1d8 temporary hit points.
 
-**Augury: **Learn whether an action will be good or bad.
+**Augury:** Learn whether an action will be good or bad.
 
-**Cure Moderate Wounds: **Cures 2d8 +1/level damage (max +10).
+**Cure Moderate Wounds:** Cures 2d8 +1/level damage (max +10).
 
-**Delay Poison: **Stops poison from harming subject for 1 hour/level.
+**Delay Poison:** Stops poison from harming subject for 1 hour/level.
 
 **Enhance Ability:** Subject gains +5 bonus to one ability score for 1
 min./level.
 
-**Hold Person: **Holds one person helpless; 1 round/level.
+**Hold Person:** Holds one person helpless; 1 round/level.
 
 **Inflict Moderate Wounds:** Touch attack, 2d8 +1/level damage (max
 +10).
@@ -260,30 +260,30 @@ min./level.
 **Lesser Restoration:** Dispels magic ability penalty or repairs 1d4
 ability damage.
 
-**Remove Paralysis: **Frees one or more creatures from paralysis, hold,
+**Remove Paralysis:** Frees one or more creatures from paralysis, hold,
 or slow.
 
-**Resist Energy: **Ignores 10 points of damage/round from one energy
+**Resist Energy:** Ignores 10 points of damage/round from one energy
 type.
 
-**Shatter: **Sonic vibration damages objects or crystalline creatures.
+**Shatter:** Sonic vibration damages objects or crystalline creatures.
 
-**Silence: **Negates sound in 15-ft: radius.
+**Silence:** Negates sound in 15-ft: radius.
 
 **Spider Climb:** Grants ability to travel on walls and ceilings.
 
-**Zone of Truth: **Subjects within range cannot lie.
+**Zone of Truth:** Subjects within range cannot lie.
 
 **3rd-level Acolyte Spells**
 
-**Animate Dead: **Creates undead skeletons and zombies.
+**Animate Dead:** Creates undead skeletons and zombies.
 
-**Bestow Curse: **–6 to an ability; –4 on attacks, saves, and checks; or
+**Bestow Curse:** –6 to an ability; –4 on attacks, saves, and checks; or
 50% chance of losing each action.
 
-**Cure Serious Wounds: **Cures 3d8 +1/level damage (max +10).
+**Cure Serious Wounds:** Cures 3d8 +1/level damage (max +10).
 
-**Dispel Magic: **Cancels magical spells and effects.
+**Dispel Magic:** Cancels magical spells and effects.
 
 **Glyph of Warding:** Inscription harms those who pass it.
 
@@ -313,16 +313,16 @@ levels.
 **Faith’s Fury:** Damages and blinds creatures with a specific
 allegiance.
 
-**Freedom of Movement: **Subject moves normally despite impediments.
+**Freedom of Movement:** Subject moves normally despite impediments.
 
-**Greater Magic Weapon: **+1 bonus/three levels (max +5).
+**Greater Magic Weapon:** +1 bonus/three levels (max +5).
 
 **Inflict Critical Wounds:** Touch attack, 4d8 +1/level damage (max
 +10).
 
 **Neutralize Poison:** Detoxifies venom in or on subject.
 
-**Restoration: **Restores level and ability score drains.
+**Restoration:** Restores level and ability score drains.
 
 **Tongues:** Speak any language.
 
@@ -338,17 +338,17 @@ curses, and petrification.
 **Insect Plague:** Insect horde limits vision, inflicts damage, and weak
 creatures flee.
 
-**Mass Cure Light Wounds: **Cures 1d8 +1/level damage for many
+**Mass Cure Light Wounds:** Cures 1d8 +1/level damage for many
 creatures.
 
-**Mass Inflict Light Wounds: **Deals 1d8 +1/level damage to many
+**Mass Inflict Light Wounds:** Deals 1d8 +1/level damage to many
 creatures.
 
-**Raise Dead: **Restores life to subject who died up to 1 day/level ago.
+**Raise Dead:** Restores life to subject who died up to 1 day/level ago.
 
-**True Seeing: **See all things as they really are.
+**True Seeing:** See all things as they really are.
 
-**Wall of Stone: **Creates a stone wall that can be shaped: Cures 4d8
+**Wall of Stone:** Creates a stone wall that can be shaped: Cures 4d8
 +1/level damage (max +10).
 
 Spell Descriptions
@@ -989,7 +989,7 @@ functioning spell level or an item’s caster level.
 If an aura falls into more than one category, detect magical aura
 indicates the stronger of the two.
 
-**Length Aura Lingers: **How long a magical aura lingers after the
+**Length Aura Lingers:** How long a magical aura lingers after the
 source has vacated the location depends on the aura’s original strength.
 
 <table>
@@ -1428,7 +1428,7 @@ levels to the intruder and to all within 5 feet of the intruder (maximum
 (caster’s choice, made at time of casting). Those affected can make
 Reflex saves to take half damage.
 
-**Spell Glyph: **The caster can store any harmful spell of up to 3rd
+**Spell Glyph:** The caster can store any harmful spell of up to 3rd
 level that he or she knows. All level-dependent features of the spell
 are based on the caster’s level at the time of casting. If the spell has
 targets, it targets the intruder. If the spell normally affects an area,
@@ -2712,7 +2712,7 @@ stops.
 An object can be telekinetically manipulated as if with one hand, if the
 force required is within the weight limitation.
 
-**Violent Thrust: **Alternatively, the spell energy can be expended in a
+**Violent Thrust:** Alternatively, the spell energy can be expended in a
 single round. The caster can hurl one or more objects or creatures that
 are within range and all within 10 feet of each other toward any target
 within 10 feet/level of all the objects. The caster can hurl up to a

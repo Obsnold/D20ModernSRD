@@ -6,7 +6,7 @@ CYBERNETICS
 As with all forms of technology, advancements in cybernetics can be
 tracked by Progress Level.
 
-**Progress Level 5: **Cybernetics is still in its formative stage. Most
+**Progress Level 5:** Cybernetics is still in its formative stage. Most
 prosthetic units are of the nonpowered variety, but medical associations
 have approved certain electronic regulators for life-threatening
 conditions. The artificial heart is the most recognized example. Other
@@ -20,7 +20,7 @@ professor Kevin Warwick, who develops methods of linking computer
 microchips to the human nervous system. His “cyborg chip” becomes the
 foundation for all future cybernetic components.
 
-**Progress Level 6: **This era sees the first use of independently
+**Progress Level 6:** This era sees the first use of independently
 powered cybernetics, including servolimbs and subcutaneous cellular
 telephones. These begin mostly in military applications but soon become
 available to the public. Household pets all over the world are implanted
@@ -48,7 +48,7 @@ involving cyborgs. These laws give rise to numerous black-market
 cybernetic clinics that install cybernetics without performing the
 required background checks.
 
-**Progress Level 7: **By this era, cybernetics has become a mostly safe
+**Progress Level 7:** By this era, cybernetics has become a mostly safe
 science. Flaws in earlier designs have been corrected. Cybernetics
 becomes more of a status symbol, and luminous skin grafts become the
 fashion accessory of choice. In some societies, newborn children are
@@ -62,7 +62,7 @@ as part of a prosthetic, rather than as elective cyber-surgery. Still,
 most cyborgs are members of military or law-enforcement organizations—or
 mercenaries.
 
-**Progress Level 8: **Cyborgs are a common sight. In some societies,
+**Progress Level 8:** Cyborgs are a common sight. In some societies,
 medical insurance frowns on noncybernetic replacements, as mechanical
 body parts are less expensive than flesh. Cybernetic technology has
 improved so much, in fact, that some cyborgs are virtually
@@ -74,7 +74,7 @@ age.
 Two kinds of cybernetic attachments exist: replacements and
 enhancements.
 
-**Replacements: **Replacements are prosthetic or artificial units
+**Replacements:** Replacements are prosthetic or artificial units
 intended to replace lost limbs and damaged organs. Common replacements
 provide no benefits other than duplicating the essential functions of
 their biological counterparts, and they present little strain on the
@@ -82,7 +82,7 @@ beneficiary’s overall well-being. In appearance, a cybernetic
 replacement can be recognizably artificial or virtually
 indistinguishable from the real thing.
 
-**Enhancements: **Enhancements bestow new abilities or improve the
+**Enhancements:** Enhancements bestow new abilities or improve the
 recipient in some fashion. Enhancements include skeletal reinforcement,
 subcutaneous communications hardware, and weapon mounts. Some
 enhancements have visible external components, while others are hidden
@@ -211,21 +211,21 @@ Massive Damage Effects to determine what happens.
 </tbody>
 </table>
 
-**Normal Effect: **The character immediately drops to –1 hit points and
+**Normal Effect:** The character immediately drops to –1 hit points and
 is dying.
 
-**Attachment Disabled: **One cybernetic attachment (determined randomly
+**Attachment Disabled:** One cybernetic attachment (determined randomly
 or chosen by the GM) ceases to function until repaired (see Construction
 and Repair, above). The character suffers the effects of the
 disability—as noted in the description of the cybernetic attachment— for
 as long as the attachment remains disabled.
 
-**Attachment Damaged: **One cybernetic attachment (determined randomly
+**Attachment Damaged:** One cybernetic attachment (determined randomly
 or chosen by the GM) continues to function but develops an unpleasant
 side effect that persists until the attachment is repaired (see
 Construction and Repair, above).
 
-**Side Effect: **The character suffers a debilitating side effect as the
+**Side Effect:** The character suffers a debilitating side effect as the
 result of a damaged attachment. Various side effects are presented on
 Table: Side Effects.
 
@@ -323,21 +323,21 @@ recipient’s weight.
 
 Each replacement description includes the following information:
 
-**Benefit: **What the cybernetic replacement allows its recipient to do.
+**Benefit:** What the cybernetic replacement allows its recipient to do.
 
-**Type: **Replacements can be external or internal. External
+**Type:** Replacements can be external or internal. External
 replacements are subject to sunder attacks; internal replacements are
 not.
 
-**Hardness/Hit Points: **The hardness and hit points of the replacement.
+**Hardness/Hit Points:** The hardness and hit points of the replacement.
 Internal replacements don’t have hardness.
 
-**Base Purchase DC: **The purchase DC of the replacement (or the
+**Base Purchase DC:** The purchase DC of the replacement (or the
 components to build it), at its specified Progress Level. Cybernetic
 attachments are cheaper to buy at higher Progress Levels; for each
 raised step in Progress Level, reduce the purchase DC by 2.
 
-**Restriction: **The level of license required to purchase the
+**Restriction:** The level of license required to purchase the
 replacement legally, and an appropriate black market purchase DC
 modifier.
 
@@ -346,48 +346,48 @@ Artificial Organ (PL 5)
 An artificial organ fully replaces a defective or destroyed biological
 organ, such as a heart, lung, eye, or ear.
 
-**Benefit: **The artificial organ duplicates the function of its
+**Benefit:** The artificial organ duplicates the function of its
 biological counterpart. It provides no special game benefits.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **19.
+**Base Purchase DC:** 19.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Prosthetic Arm (PL 5)
 
 A prosthetic arm fully replaces a lost or destroyed biological arm. The
 prosthetic arm may begin at the shoulder, elbow, or wrist.
 
-**Benefit: **The prosthetic arm duplicates the function of its
+**Benefit:** The prosthetic arm duplicates the function of its
 biological counterpart. It provides no special game benefits.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **3/5.
+**Hardness/Hit Points:** 3/5.
 
-**Base Purchase DC: **17.
+**Base Purchase DC:** 17.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Prosthetic Leg (PL 5)
 
 A prosthetic leg fully replaces a lost or destroyed biological leg. The
 prosthetic leg may begin at the thigh, knee, or ankle.
 
-**Benefit: **The prosthetic leg duplicates the function of its
+**Benefit:** The prosthetic leg duplicates the function of its
 biological counterpart. It provides no special game benefits.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **3/7.
+**Hardness/Hit Points:** 3/7.
 
-**Base Purchase DC: **17.
+**Base Purchase DC:** 17.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Artificial Organ Upgrade (PL 6)
 
@@ -395,17 +395,17 @@ This upgraded version of the PL 5 artificial organ not only replaces a
 defective or destroyed biological organ but is also more resilient than
 its technological predecessor.
 
-**Benefit: **The artificial organ upgrade duplicates the function of its
+**Benefit:** The artificial organ upgrade duplicates the function of its
 biological counterpart and cannot be disabled if the recipient takes
 massive damage (see Massive Damage Effects).
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **21.
+**Base Purchase DC:** 21.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Prosthetic Arm Upgrade (PL 6)
 
@@ -413,17 +413,17 @@ This upgraded version of the PL 5 prosthetic arm not only replaces a
 lost or destroyed arm but is also more resilient than its technological
 predecessor.
 
-**Benefit: **The prosthetic arm upgrade duplicates the function of its
+**Benefit:** The prosthetic arm upgrade duplicates the function of its
 biological counterpart but has a greater hardness and more hit points
 than the basic PL 5 prosthesis.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **5/10.
+**Hardness/Hit Points:** 5/10.
 
-**Base Purchase DC: **19.
+**Base Purchase DC:** 19.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Prosthetic Leg Upgrade (PL 6)
 
@@ -431,17 +431,17 @@ This upgraded version of the PL 5 prosthetic leg not only replaces a
 lost or destroyed leg but is also more resilient than its technological
 predecessor.
 
-**Benefit: **The prosthetic leg upgrade duplicates the function of its
+**Benefit:** The prosthetic leg upgrade duplicates the function of its
 biological counterpart but has a greater hardness and more hit points
 than the basic PL 5 prosthesis.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **5/15.
+**Hardness/Hit Points:** 5/15.
 
-**Base Purchase DC: **19.
+**Base Purchase DC:** 19.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Advanced Artificial Organ (PL 7)
 
@@ -449,20 +449,20 @@ This advanced version of the PL 5 artificial organ and PL 6 upgrade not
 only replaces a defective or destroyed biological organ but is also more
 resilient and less impairing than its technological predecessors.
 
-**Benefit: **The advanced artificial organ duplicates the function of
+**Benefit:** The advanced artificial organ duplicates the function of
 its biological counterpart and cannot be disabled if the recipient takes
 massive damage (see Massive Damage Effects). In addition, the advanced
 organ does not count toward the total number of cybernetic attachments
 the recipient can have before taking negative levels (see Number of
 Attachments).
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **24.
+**Base Purchase DC:** 24.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Advanced Prosthetic Arm (PL 7)
 
@@ -470,18 +470,18 @@ This upgraded version of the PL 5 prosthetic arm and PL 6 upgrade not
 only replaces a lost or destroyed arm but is also more resilient and
 less impairing than its technological predecessors.
 
-**Benefit: **The advanced prosthesis duplicates the function of its
+**Benefit:** The advanced prosthesis duplicates the function of its
 biological counterpart. In addition, this advanced prosthesis does not
 count toward the total number of cybernetic attachments the recipient
 can have before taking negative levels (see Number of Attachments).
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **5/10.
+**Hardness/Hit Points:** 5/10.
 
-**Base Purchase DC: **22.
+**Base Purchase DC:** 22.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Advanced Prosthetic Leg (PL 7)
 
@@ -489,18 +489,18 @@ This upgraded version of the PL 5 prosthetic leg and PL 6 upgrade not
 only replaces a lost or destroyed leg but is also more resilient and
 less impairing than its technological predecessors.
 
-**Benefit: **The advanced prosthesis duplicates the function of its
+**Benefit:** The advanced prosthesis duplicates the function of its
 biological counterpart. In addition, this advanced prosthesis does not
 count toward the total number of cybernetic attachments the recipient
 can have before taking negative levels (see Number of Attachments).
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **5/15.
+**Hardness/Hit Points:** 5/15.
 
-**Base Purchase DC: **22.
+**Base Purchase DC:** 22.
 
-**Restriction: **None.
+**Restriction:** None.
 
 ## ENHANCEMENTS
 
@@ -511,21 +511,21 @@ a recipient’s weight.
 
 Each enhancement description includes the following information:
 
-**Benefit: **What the cybernetic enhancement allows its recipient to do.
+**Benefit:** What the cybernetic enhancement allows its recipient to do.
 
-**Type: **Enhancements can be external or internal. External
+**Type:** Enhancements can be external or internal. External
 enhancements are subject to sunder attacks; internal enhancements are
 not.
 
-**Hardness/Hit Points: **The hardness and hit points of the enhancement.
+**Hardness/Hit Points:** The hardness and hit points of the enhancement.
 Internal enhancements don’t have hardness.
 
-**Base Purchase DC: **The purchase DC of the enhancement (or the
+**Base Purchase DC:** The purchase DC of the enhancement (or the
 components to build it), at its specified Progress Level. Cybernetic
 attachments are cheaper to buy at higher Progress Levels; for each
 raised step in Progress Level, reduce the purchase DC by 2.
 
-**Restriction: **The level of license required to purchase the
+**Restriction:** The level of license required to purchase the
 enhancement legally, and an appropriate black market purchase DC
 modifier.
 
@@ -534,34 +534,34 @@ Anti-Shock Implant (PL 6)
 This tiny implant, embedded near the recipient’s brain stem, protects
 itself and other cybernetic hardware against electricity damage.
 
-**Benefit: **The implant negates the recipient’s special vulnerability
+**Benefit:** The implant negates the recipient’s special vulnerability
 to electricity (see Benefits and Drawbacks, above).
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/1.
+**Hardness/Hit Points:** –/1.
 
-**Base Purchase DC: **15.
+**Base Purchase DC:** 15.
 
-**Restriction: **None.
+**Restriction:** None.
 
 External Weapon Mount (PL 6)
 
 The recipient’s prosthetic arm ends in a weapon instead of a hand.
 
-**Benefit: **The recipient has a melee or ranged weapon attached to a
+**Benefit:** The recipient has a melee or ranged weapon attached to a
 prosthetic arm. Attempts to disarm the recipient of the attached weapon
 automatically fail, though the weapon can still be attacked (like any
 other weapon) in an attempt to destroy it.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **10/5 (mount only).
+**Hardness/Hit Points:** 10/5 (mount only).
 
-**Base Purchase DC: **Melee weapon mount 15, ranged weapon mount 17 (the
+**Base Purchase DC:** Melee weapon mount 15, ranged weapon mount 17 (the
 purchase DC does not include the prosthetic arm or weapon).
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Identity Chip (PL 6)
 
@@ -569,17 +569,17 @@ Identity chips provide identification without requiring visual
 recognition— high-tech ID cards that function even when the wearer is
 unrecognizable.
 
-**Benefit: **An identity chip functions as both legal ID and a credit
+**Benefit:** An identity chip functions as both legal ID and a credit
 card. The recipient can make Wealth checks even when separated from his
 funds.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/1.
+**Hardness/Hit Points:** –/1.
 
-**Base Purchase DC: **5.
+**Base Purchase DC:** 5.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Injector Unit (PL 6)
 
@@ -587,7 +587,7 @@ This unit, attached the recipient’s forearm or thigh, incorporates three
 medical hypo-syringes. Upon command, the unit can inject any or all of
 the medicinal substances into the recipient’s bloodstream.
 
-**Benefit: **The injector unit has three built-in hypos, and each hypo
+**Benefit:** The injector unit has three built-in hypos, and each hypo
 holds a single dose of one of the following medicinal chemicals: antitox
 (PL 6), boost (PL 6), neutrad (PL 6), sporekill (PL 6), or biocort (PL
 7). As a free action during his turn, the recipient can contract his
@@ -595,13 +595,13 @@ muscles to inject himself with any or all of these hypos, gaining the
 benefits immediately. A drained hypo can be removed and replaced as a
 full-round action.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **2/5.
+**Hardness/Hit Points:** 2/5.
 
-**Base Purchase DC: **15 (medical hypos must be purchased separately).
+**Base Purchase DC:** 15 (medical hypos must be purchased separately).
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 Nightvision Optics (PL 6)
 
@@ -609,22 +609,22 @@ The recipient’s eyes are replaced with ocular implants that enable the
 character to see better in the dark. All of the recipient’s eyes must be
 replaced to gain any benefit.
 
-**Benefit: **The recipient gains darkvision out to a range of 60 feet.
+**Benefit:** The recipient gains darkvision out to a range of 60 feet.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2 (per eye).
+**Hardness/Hit Points:** –/2 (per eye).
 
-**Base Purchase DC: **19.
+**Base Purchase DC:** 19.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Skill Implant (PL 6)
 
 This small brain implant enables its recipient to perform a specific
 skill more adroitly.
 
-**Benefit: **The recipient gains a +2 competence bonus on checks made
+**Benefit:** The recipient gains a +2 competence bonus on checks made
 with one class skill of his choice. Different skills require different
 implants, and a skill implant cannot be modified to grant a bonus to
 another skill.
@@ -632,13 +632,13 @@ another skill.
 A recipient may have multiple skill implants, but each is considered a
 separate cybernetic attachment.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/1.
+**Hardness/Hit Points:** –/1.
 
-**Base Purchase DC: **20.
+**Base Purchase DC:** 20.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Stabilizer (PL 6)
 
@@ -646,34 +646,34 @@ A stabilizer releases chemical coagulants into a dying recipient’s
 bloodstream to prevent excess blood loss, effectively stabilizing him. A
 stabilizer is usually installed near the recipient’s heart.
 
-**Benefit: **If reduced to negative hit points, the recipient
+**Benefit:** If reduced to negative hit points, the recipient
 automatically stabilizes.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/3.
+**Hardness/Hit Points:** –/3.
 
-**Base Purchase DC: **22.
+**Base Purchase DC:** 22.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Subcutaneous Body Armor (PL 6)
 
 Subcutaneous body armor consists of small plates of flexible armor
 implanted under the recipient’s skin.
 
-**Benefit: **The character gains a natural armor bonus to Defense. The
+**Benefit:** The character gains a natural armor bonus to Defense. The
 bonus depends on the density of the armor: Light +2, Medium +5, Heavy
 +8.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/varies. The armor has one-quarter the maximum
+**Hardness/Hit Points:** –/varies. The armor has one-quarter the maximum
 hit points of the recipient.
 
-**Base Purchase DC: **Light 15, Medium 20, or Heavy 25.
+**Base Purchase DC:** Light 15, Medium 20, or Heavy 25.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Subcutaneous Cell Phone (PL 6)
 
@@ -681,19 +681,19 @@ The recipient has a small transceiver installed underneath the skin of
 her throat. The transceiver is connected to a tiny speaker located in
 the recipient’s ear.
 
-**Benefit: **The recipient may carry on conversations using the
+**Benefit:** The recipient may carry on conversations using the
 subcutaneous cell phone without raising her voice above a whisper;
 Listen checks made to hear the recipient suffer a –4 penalty. The tiny
 speaker implanted in the recipient’s ear enables her to hear the other
 side of the conversation, but others cannot.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **16.
+**Base Purchase DC:** 16.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Telescopic Optics (PL 6)
 
@@ -702,16 +702,16 @@ effects of binoculars, enabling the recipient to perceive distant
 objects more easily. All of the recipient’s eyes must be replaced to
 gain any benefit.
 
-**Benefit: **Telescopic optics reduce the range penalty for Spot checks
+**Benefit:** Telescopic optics reduce the range penalty for Spot checks
 to –1 for every 30 feet of distance (instead of –1 for every 10 feet).
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2 (per eye).
+**Hardness/Hit Points:** –/2 (per eye).
 
-**Base Purchase DC: **15.
+**Base Purchase DC:** 15.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Voice Stress Analyzer (PL 6)
 
@@ -720,62 +720,62 @@ minute physical indicators from living beings (including increased pulse
 galvanic skin response) and enable the recipient to better determine the
 emotional states of others.
 
-**Benefit: **The recipient gains a +4 equipment bonus on all Sense
+**Benefit:** The recipient gains a +4 equipment bonus on all Sense
 Motive checks.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **17.
+**Base Purchase DC:** 17.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Anti-Flare Implants (PL 7)
 
 The recipient’s corneas are replaced with artificial ones equipped with
 flare suppressors that react instantly to bright flashes of light.
 
-**Benefit: **Blinding effects produced by bright lights have no harmful
+**Benefit:** Blinding effects produced by bright lights have no harmful
 or debilitating effect on the recipient.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/1 (per eye).
+**Hardness/Hit Points:** –/1 (per eye).
 
-**Base Purchase DC: **14.
+**Base Purchase DC:** 14.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Anti-Stun Implant (PL 7)
 
 This implant, embedded near the spine, shields the recipient’s nervous
 system against stunning attacks.
 
-**Benefit: **The recipient cannot be stunned.
+**Benefit:** The recipient cannot be stunned.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **24.
+**Base Purchase DC:** 24.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Body Repair Weave (PL 7)
 
 A delicate weave of subdermal biowires stimulates and repairs the body’s
 damaged tissue.
 
-**Benefit: **The recipient heals naturally at twice the normal rate.
+**Benefit:** The recipient heals naturally at twice the normal rate.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **21.
+**Base Purchase DC:** 21.
 
-**Restriction: **Licensed (+1).
+**Restriction:** Licensed (+1).
 
 Data Archive (PL 7)
 
@@ -783,17 +783,17 @@ A data archive is a microcomputer implanted in the recipient’s skull. It
 contains skill-related information stored on a series of biological data
 chips, or biochips.
 
-**Benefit: **The recipient treats all skills as class skills.
+**Benefit:** The recipient treats all skills as class skills.
 Furthermore, the recipient gains access to an information database that
 grants a +4 equipment bonus on all Knowledge checks.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **27.
+**Base Purchase DC:** 27.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Feat Implant (PL 7)
 
@@ -801,34 +801,34 @@ Thanks to a chip implanted in the recipient’s brain or a series of
 implants wired to the recipient’s nervous system, the recipient gains
 special knowledge or some extraordinary ability.
 
-**Benefit: **The feat implant gives the recipient a feat. The recipient
+**Benefit:** The feat implant gives the recipient a feat. The recipient
 must meet all of the feat’s prerequisites to gain its benefits. If the
 feat implant is destroyed, the granted feat is lost as well. A feat
 implant cannot duplicate a metamagic or psionic feat.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/5.
+**Hardness/Hit Points:** –/5.
 
-**Base Purchase DC: **25.
+**Base Purchase DC:** 25.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Fortified Skeleton (PL 7)
 
 The recipient’s skeleton is fortified with high-impact polymers,
 increasing his ability to shrug off physical damage.
 
-**Benefit: **The recipient gains damage reduction 4/–.
+**Benefit:** The recipient gains damage reduction 4/–.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/varies. The skeletal reinforcement has
+**Hardness/Hit Points:** –/varies. The skeletal reinforcement has
 one-quarter the maximum hit points of the recipient.
 
-**Base Purchase DC: **32.
+**Base Purchase DC:** 32.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Initiative Implant (PL 7)
 
@@ -836,16 +836,16 @@ The initiative implant consists of a series of wires threaded around the
 recipient’s spinal cord and attached to the recipient’s nervous system.
 The implant stimulates faster response times.
 
-**Benefit: **The recipient gains a +2 equipment bonus on initiative
+**Benefit:** The recipient gains a +2 equipment bonus on initiative
 checks.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/10.
+**Hardness/Hit Points:** –/10.
 
-**Base Purchase DC: **20.
+**Base Purchase DC:** 20.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Internal Weapon Mount (PL 7)
 
@@ -853,7 +853,7 @@ The recipient has a subcutaneous weapon embedded in her body, usually in
 a prosthetic forearm or hand. The weapon extends from the prosthesis and
 is visible when in use.
 
-**Benefit: **The recipient has a melee or ranged weapon hidden under her
+**Benefit:** The recipient has a melee or ranged weapon hidden under her
 skin. Attempts to disarm the recipient of the attached weapon
 automatically fail, and the weapon itself cannot be attacked unless it
 is extended. Extending or retracting the weapon is a free action.
@@ -862,21 +862,21 @@ Spotting a subcutaneous weapon requires a successful Spot check opposed
 by the recipient’s Sleight of Hand check. The weapon’s size applies a
 modifier to the Sleight of Hand check.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **10/5 (mount only).
+**Hardness/Hit Points:** 10/5 (mount only).
 
-**Base Purchase DC: **Melee weapon mount 17, ranged weapon mount 19 (the
+**Base Purchase DC:** Melee weapon mount 17, ranged weapon mount 19 (the
 purchase DC does not include the prosthesis or weapon).
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Laser Optics (PL 7)
 
 The recipient’s eyes are replaced with ocular implants capable of firing
 thin laser beams.
 
-**Benefit: **Using laser optics is an attack action that does not
+**Benefit:** Using laser optics is an attack action that does not
 provoke attacks of opportunity. A “laser eye” deals 2d6 points of fire
 damage, threatens a critical hit on a natural 20, and has a range
 increment of 20 feet. Each additional eye adds +2 to the damage roll
@@ -885,13 +885,13 @@ increment of 20 feet. Each additional eye adds +2 to the damage roll
 A creature equipped with multiple laser eyes must fire them
 simultaneously at the same target.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2 (per eye).
+**Hardness/Hit Points:** –/2 (per eye).
 
-**Base Purchase DC: **Single 25, pair 28.
+**Base Purchase DC:** Single 25, pair 28.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Luminous Skin (PL 7)
 
@@ -899,62 +899,62 @@ Special skin grafts create luminous displays on the recipient’s flesh.
 Most recipients use it purely for decoration, but the same technology
 can provide a built-in chronometer.
 
-**Benefit: **The recipient can control the brightness of the
+**Benefit:** The recipient can control the brightness of the
 luminescence as a free action, negating it entirely if desired. As its
 most intense, luminous skin can illuminate squares occupied by or
 adjacent to the recipient. The chronometer serves the same function as a
 wristwatch, including date, time, and alarm functions.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/– (luminous skin ceases to function when the
+**Hardness/Hit Points:** –/– (luminous skin ceases to function when the
 recipient is killed).
 
-**Base Purchase DC: **4 (6 for chronometer version).
+**Base Purchase DC:** 4 (6 for chronometer version).
 
-**Restriction: **None.
+**Restriction:** None.
 
 Microcomputer (PL 7)
 
 The recipient has a miniature computer attached to his nervous system,
 usually at the base of the skull.
 
-**Benefit: **The recipient may attempt Computer Use checks as a move
+**Benefit:** The recipient may attempt Computer Use checks as a move
 action, rather than a full-round action. The microcomputer reduces by
 half the time required to operate remotes. A data port in the back of
 the unit allows for the insertion of a standard interface cable
 (purchase DC 5), allowing the recipient to transfer data without the
 benefit of a modem.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **35 (36 with integrated cellular modem).
+**Base Purchase DC:** 35 (36 with integrated cellular modem).
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 Mindscreen Implant (PL 7)
 
 A small implant in the recipient’s brain protects him against mental
 attacks.
 
-**Benefit: **The recipient gains a +2 equipment bonus on saving throws
+**Benefit:** The recipient gains a +2 equipment bonus on saving throws
 against mind-affecting attacks.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **28.
+**Base Purchase DC:** 28.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Prosthetic Enhancer (PL 7)
 
 This implant attaches to a prosthetic arm or leg, making it stronger.
 
-**Benefit: **If attached to a prosthetic leg, the prosthetic enhancer
+**Benefit:** If attached to a prosthetic leg, the prosthetic enhancer
 increases the recipient’s base speed by +5 feet. In addition, any
 unarmed attack made with an enhanced prosthetic leg deals an additional
 1 point of damage.
@@ -968,13 +968,13 @@ A prosthetic enhancer does not count toward the total number of
 cybernetic attachments the recipient can have before taking negative
 levels (see Number of Attachments).
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **22.
+**Base Purchase DC:** 22.
 
-**Restriction: **None.
+**Restriction:** None.
 
 Rage Implant (PL 7)
 
@@ -982,7 +982,7 @@ This brain implant dramatically increases the amount of adrenaline and
 testosterone the recipient’s body produces, temporarily boosting his
 strength and durability.
 
-**Benefit: **The recipient can activate the implant as a free action
+**Benefit:** The recipient can activate the implant as a free action
 once per day. Upon doing so, he temporarily gains a +4 bonus to
 Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will
 saves, but he takes a –2 penalty to Defense.
@@ -1008,13 +1008,13 @@ The increased Constitution triggered by the rage implant in now way
 obviates the negative levels bestowed for having too many cybernetic
 attachments.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/3.
+**Hardness/Hit Points:** –/3.
 
-**Base Purchase DC: **24.
+**Base Purchase DC:** 24.
 
-**Restriction: **Restricted (+2).
+**Restriction:** Restricted (+2).
 
 Skill Plexus (PL 7)
 
@@ -1022,18 +1022,18 @@ This unit, implanted in the recipient’s brain, allows multiple skill
 implants to function as a single cybernetic attachment (see Skill
 Implant, above).
 
-**Benefit: **The recipient may have up to four skill implants attached
+**Benefit:** The recipient may have up to four skill implants attached
 to the skill plexus, and together they are treated as a single
 cybernetic attachment. However, if the skill plexus is destroyed, all of
 the attached skill implants are destroyed as well.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **25 (does not include skill implants).
+**Base Purchase DC:** 25 (does not include skill implants).
 
-**Restriction: **None.
+**Restriction:** None.
 
 Targeting Optics (PL 7)
 
@@ -1041,16 +1041,16 @@ The recipient’s eyes are replaced with ocular implants that use a
 projected targeting reticle to improve the recipient’s aim. All of the
 recipient’s eyes must be replaced to gain any benefit.
 
-**Benefit: **Targeting optics grant a +1 bonus on all attack rolls made
+**Benefit:** Targeting optics grant a +1 bonus on all attack rolls made
 with ranged weapons.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2 (per eye).
+**Hardness/Hit Points:** –/2 (per eye).
 
-**Base Purchase DC: **17.
+**Base Purchase DC:** 17.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Feat Plexus (PL 8)
 
@@ -1058,18 +1058,18 @@ This unit, implanted in the recipient’s brain, allows multiple feat
 implants to function as a single cybernetic attachment (see Feat
 Implant, above).
 
-**Benefit: **The recipient may have up to four feat implants attached to
+**Benefit:** The recipient may have up to four feat implants attached to
 the feat plexus, and together they are treated as a single cybernetic
 attachment. However, if the feat plexus is destroyed, all of the
 attached feat implants are destroyed as well.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/4.
+**Hardness/Hit Points:** –/4.
 
-**Base Purchase DC: **25 (does not include feat implants).
+**Base Purchase DC:** 25 (does not include feat implants).
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Invisiware (PL 8)
 
@@ -1078,7 +1078,7 @@ time. Invisiware uses crystalline refractors grafted to the skin and
 powered by rechargeable solar battery units protruding from various
 points on the recipient’s body (usually the spine).
 
-**Benefit: **By using invisiware to bend light around its body, a
+**Benefit:** By using invisiware to bend light around its body, a
 creature can turn invisible. An invisible creature gains a +40 bonus on
 Hide checks if immobile, or a +20 bonus if moving. Pinpointing the
 location of an invisible creature that isn’t attempting to hide requires
@@ -1093,25 +1093,25 @@ technology consumes a great deal of the battery power; after 10 rounds
 (1 minute) of use, the solar batteries must be recharged for 1 hour,
 during which time the invisiware cannot be activated.
 
-**Type: **External.
+**Type:** External.
 
-**Hardness/Hit Points: **4/20.
+**Hardness/Hit Points:** 4/20.
 
-**Base Purchase DC: **35.
+**Base Purchase DC:** 35.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
 
 Psi Implant (PL 8)
 
 This brain implant stimulates neuron activity in underdeveloped regions
 of the recipient’s brain, unlocking latent psionic abilities.
 
-**Benefit: **The recipient gains the Wild Talent feat.
+**Benefit:** The recipient gains the Wild Talent feat.
 
-**Type: **Internal.
+**Type:** Internal.
 
-**Hardness/Hit Points: **–/2.
+**Hardness/Hit Points:** –/2.
 
-**Base Purchase DC: **31.
+**Base Purchase DC:** 31.
 
-**Restriction: **Military (+3).
+**Restriction:** Military (+3).
