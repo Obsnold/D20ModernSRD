@@ -19,6 +19,7 @@ advanced classes are summarized on the following table.
 | Smart        | Field Scientist; Techie, Mage      |
 | Dedicated    | Field Medic; Investigator, Acolyte |
 | Charismatic  | Personality; Negotiator            |
+
 1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
 
 The Gamemaster may add advanced classes specifically suited to his or

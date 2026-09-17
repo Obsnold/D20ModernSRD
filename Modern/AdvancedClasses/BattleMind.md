@@ -1,0 +1,257 @@
+
+# BATTLE MIND
+
+### Requirements
+
+To qualify to become a Battle Mind, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +3.
+
+**Skill:** Jump 6 ranks.
+
+**Feat:** Wild Talent
+
+### Class Information
+
+The following information pertains to the Battle Mind advanced class.
+
+### Hit Die
+
+The Battle Mind gains 1d8 hit points per level. The character’s
+Constitution modifier applies.
+
+### Action Points
+
+The Battle Mind gains a number of action points equal to 6 + one-half
+her character level, rounded down, every time she attains a new level in
+this class.
+
+### Class Skills
+
+The Battle Mind’s class skills are as follows.
+
+Autohypnosis (Wis), Balance (Dex), Climb (Str), Concentration (Con),
+Craft (visual arts) (Int), Drive (Dex), Jump (Str), Knowledge (current
+events, streetwise) (Int), Profession (Wis), Read/Write Language (none),
+Speak Language (none), Spot (Wis), Swim (Str).
+
+**Skill Points at Each Level:** 3 + Int modifier.
+
+**Table: The Battle Mind**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +0        | Psionic skills, psionic powers            | +1            | +0               |
+| 2nd         | +1                | +3        | +0       | +0        | Psi-blade, imprint tattoo, psionic powers | +2            | +0               |
+| 3rd         | +2                | +3        | +1       | +1        | Bonus feat, psionic powers                | +2            | +0               |
+| 4th         | +3                | +4        | +1       | +1        | Psychic shield, psionic powers            | +3            | +0               |
+| 5th         | +3                | +4        | +1       | +1        | Combat manifestation, psionic powers      | +4            | +1               |
+| 6th         | +4                | +5        | +2       | +2        | Bonus feat, psionic powers                | +4            | +1               |
+| 7th         | +5                | +5        | +2       | +2        | Improved psi-blade, psionic powers        | +5            | +1               |
+| 8th         | +6                | +6        | +2       | +2        | Improved psychic shield, psionic powers   | +6            | +1               |
+| 9th         | +6                | +6        | +3       | +3        | Bonus feat, psionic powers                | +6            | +2               |
+| 10th        | +7                | +7        | +3       | +3        | Ultimate psi-blade, psionic powers        | +7            | +2               |
+
+### Class Features
+
+All of the following features pertain to the Battle Mind advanced class.
+
+### Psionic Skills
+
+A Battle Mind has access to the following psionic skills. These skills
+are considered class skills for the Battle Mind, and she can use her
+skill points to buy ranks in them, just like other skills in the game.
+
+**Autohypnosis (Wis):** Trained only. You have trained your mind to
+resist certain injuries and threats while also gaining a few select
+benefits.
+
+**Check:** The DC and effect depend on the task you attempt.
+
+| <sup>Task</sup> | <sup>DC</sup> |
+|-----------------|---------------|
+| Resist fear     | 15            |
+| Memorize        | 15            |
+| Tolerate poison | Poison’s DC   |
+| Willpower       | 20            |
+
+**Resist Fear:** In response to a fear effect, you can make an
+Autohypnosis check on your next action even if you’ve been overcome by
+fear. A successful check grants you another saving throw with a +4
+morale bonus to resist the fear effect.
+
+**Memorize:** You can attempt to memorize a long string of numbers, a
+long passage of verse, or other particularly difficult piece of
+information. Each successful check allows you to memorize up to 250
+words or the equivalent of what could be comfortably contained on an 8
+1/2-by-11-inch sheet of paper. You always retain this information;
+however, you can only recall it with a successful Autohypnosis check.
+
+**Tolerate Poison:** In response to being poisoned, you can make an
+Autohypnosis check on your next action. A successful check grants you a
++4 morale bonus on your saving throw to resist the poison’s secondary
+damage.
+
+**Willpower:** If reduced to 0 hit points (disabled), you may make an
+Autohypnosis check. If successful, you can perform a strenuous action
+without taking 1 point of damage. A failed check carries no
+penalties—you can choose not to perform the strenuous action. If you do
+perform the strenuous action after failing the check, you take 1 point
+of damage, as normal.
+
+**Try Again?:** For resist fear and memorize, you can make a check once
+per round. You can’t try again to tolerate poison. You can’t try again
+in the same round for willpower.
+
+**Special:** You can take 10 on Autohypnosis checks, but you can’t take
+20.
+
+Most uses of Autohypnosis are attack actions. Willpower is a free action
+that can be attempted once per round.
+
+**Concentration (Con):** The normal Concentration skill expands to
+include psionic applications, as defined below.
+
+**Check:** You must make a Concentration check whenever you may
+potentially be distracted while engaged in an activity, including
+manifesting a power or concentrating on an active power, that requires
+your full attention.
+
+If the check succeeds, you may continue with the action as normal. If
+the check fails, the action automatically fails and is wasted. If you
+were in the process of manifesting a power, the power is lost. If you
+were concentrating on an active power, the power ends. The table in the
+Concentration skill description summarizes the various types of
+distractions. In situations where the distraction occurs while you are
+manifesting a power, you add the level of the power to the DC.
+
+**Try Again?:** You can try again, but doing so doesn’t cancel the
+effects of a previous failure. If you lost a power, the power is lost.
+
+**Special:** By making a check (DC 15 + power level), you can use
+Concentration to manifest a power defensively, thus avoiding attacks of
+opportunity. If the check succeeds, you can attempt the action without
+incurring any attacks of opportunity.
+
+### Psionic Powers
+
+The Battle Mind’s main strength is her ability to manifest offensive
+psionic powers.
+
+A psionic power is a one-time psionic effect. Psionic powers require
+power points to use. Unlike arcane spellcasters, Battle Minds don’t have
+spellbooks and they don’t prepare powers ahead of time. In addition, a
+Battle Mind can use psionics while wearing armor without risking the
+failure of the power.
+
+A Battle Mind’s level limits the number of power points available for
+manifesting powers. In addition, a Battle Mind must have a key ability
+score equal to at least 10 + the power’s level to manifest a particular
+power.
+
+The Battle Mind’s selection of powers is extremely limited and tied to
+combat. At 1st level, a Battle Mind knows two 0-level powers of your
+choice. At each level, the Battle Mind discovers one or more previously
+latent powers, as indicated on the table below.
+
+The DC for saving throws to resist a psionic power is 10 + the power’s
+level + the Battle Mind’s key ability modifier.
+
+| <sup>Battle Mind Level</sup> |                    | <sup>Powers Discovered by Level</sup> |              |              |              |              |
+|------------------------------|--------------------|---------------------------------------|--------------|--------------|--------------|--------------|
+|                              | <sup>Pts/Day</sup> | <sup>0</sup>                          | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> |
+| 1st                          | 2                  | 2                                     | —            | —            | —            | —            |
+| 2nd                          | 3                  | 3                                     | —            | —            | —            | —            |
+| 3rd                          | 4                  | 3                                     | 1            | —            | —            | —            |
+| 4th                          | 5                  | 3                                     | 2            | —            | —            | —            |
+| 5th                          | 8                  | 3                                     | 3            | 1            | —            | —            |
+| 6th                          | 11                 | 3                                     | 3            | 2            | —            | —            |
+| 7th                          | 16                 | 3                                     | 3            | 2            | 1            | —            |
+| 8th                          | 21                 | 3                                     | 3            | 3            | 1            | —            |
+| 9th                          | 26                 | 3                                     | 3            | 3            | 2            | —            |
+| 10th                         | 33                 | 3                                     | 3            | 3            | 2            | 1            |
+
+A Battle Mind can manifest a certain number of powers per day based on
+her available power points. She just pays the power point cost of a
+power to manifest it, no preparation necessary. The number of power
+points available per day is shown above.
+
+### Psi-Blade
+
+At 2nd level, a Battle Mind can manifest a glowing blade of mental
+energy. This 1-foot-long blade extends from the Battle Mind’s fist. It
+can be manifested as a move action, and it lasts for a number of rounds
+equal to the Battle Mind’s level or until the Battle Mind wills it to
+dissipate. She can create another one on her next move action, as long
+as the Battle Mind’s power point reserve is 1 or more.
+
+The psi-blade deals 1d6 points of piercing damage. At 3rd level, her
+psi-blade gains a +1 enhancement bonus. At 5th level the enhancement
+bonus improves to +2. At 7th level, it improves to +3, and at 9th level
+it improves to +4.
+
+The Battle Mind can apply the Weapon Focus or Weapon Finesse feats to
+her psi-blade.
+
+### Imprint Tattoo
+
+Starting at 2nd level, a Battle Mind can create create tattoos on his
+body or someone else’s that can be used to invoke psionic powers. A
+tattoo is a single-use item that duplicates the effect of a particular
+power. Imprinting a tattoo takes one day. The purchase DC for the raw
+materials to imprint a tattoo is 15 + the tattoo’s power level + the
+tattoo’s manifester level.
+
+The Battle Mind must also spend experience points to imprint a tattoo.
+The XP cost is equal to the power level x the manifester level x the
+purchase DC of the raw materials.
+
+Finally, the Battle Mind makes a Craft (visual arts) check. The DC for
+the check is 10 + the power level + the manifester level of the power.
+If the check fails, the raw materials are used up but the XP are not
+spent. The Battle Mind can try imprinting the tattoo again as soon as he
+purchases more raw materials.
+
+### Bonus Feats
+
+At 3rd, 6th, and 9th level, the Battle Mind gets a bonus feat. The bonus
+feat must be selected from the following list, and the Battle Mind must
+meet all the prerequisites of the feat to select it.
+
+Archaic Weapons Proficiency, Athletic, Blind-Fight, Cleave, Combat
+Martial Arts, Combat Reflexes, Exotic Melee Weapon Proficiency, Focused,
+Improved Combat Martial Arts, Power Attack, Weapon Finesse, Weapon
+Focus.
+
+### Psychic Shield
+
+At 4th level, a Battle Mind can manifest a shield of psychic energy,
+outlining her body in a barely perceptible glowing nimbus that provides
+a +3 equipment bonus to Defense. The shield can be manifested as a move
+action, and it lasts for a number of rounds equal to the Battle Mind’s
+level or until she wills it to dissipate. She can create another shield
+on her next move action, as long as her power point reserve is 1 or
+more.
+
+### Combat Manifestation
+
+At 5th level, a Battle Mind becomes adept at manifesting psionic powers
+in combat. She gets a +4 bonus on Concentration checks to manifest a
+power while on the defensive.
+
+### Improved Psi-Blade
+
+At 7th level, a Battle Mind’s psi-blade increases in damage capability.
+It now deals 1d8 points of piercing damage on a successful attack.
+
+### Improved Psychic Shield
+
+At 8th level, a Battle Mind’s psychic shield improves. It now provides a
++6 equipment bonus to Defense.
+
+### Ultimate Psi-Blade
+
+At 10th level, a Battle Mind’s psi-blade increases further in damage
+capability. It now deals 2d6 points of piercing damage on a successful
+attack.

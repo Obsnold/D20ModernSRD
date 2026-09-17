@@ -1,0 +1,112 @@
+# SOLDIER
+
+## Requirements
+
+To qualify to become a Soldier, a character must fulfill the following
+criteria.
+
+**Base Attack Bonus:** +3.
+
+**Skill:** Knowledge (tactics) 3 ranks.
+
+**Feat:** Personal Firearms Proficiency.
+
+## Class Information
+
+**Hit Die:** 1d10
+
+**Action Points:** 6 + one-half character level, rounded down, every
+time the character attains a new level in this class.
+
+**Class Skills**
+
+The Soldier’s class skills (and the key ability for each skill) are:
+Demolitions (Int), Drive (Dex), Intimidate (Cha), Jump (Str), Knowledge
+(current events, history, popular culture, tactics) (Int), Listen (Wis),
+Navigate (Int), Profession (Wis), Read/Write Language (none), Speak
+Language (none), Spot (Wis), Survival (Wis), Swim (Str).
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+**Table: The Soldier**
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation bonus |
+|-------------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
+| 1st         | +0                | +1        | +1       | +0        | Weapon Focus                  | +1            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Weapon specialization         | +1            | +0               |
+| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                    | +2            | +0               |
+| 4th         | +3                | +2        | +2       | +1        | Tactical aid                  | +2            | +0               |
+| 5th         | +3                | +3        | +3       | +1        | Improved critical             | +3            | +1               |
+| 6th         | +4                | +3        | +3       | +2        | Bonus feat                    | +3            | +1               |
+| 7th         | +5                | +4        | +4       | +2        | Improved reaction             | +4            | +1               |
+| 8th         | +6                | +4        | +4       | +2        | Greater weapon specialization | +4            | +1               |
+| 9th         | +6                | +4        | +4       | +3        | Bonus feat                    | +5            | +2               |
+| 10th        | +7                | +5        | +5       | +3        | Critical strike               | +5            | +2               |
+
+## Class Features
+
+The following features pertain to the Soldier advanced class.
+
+### Weapon Focus
+
+At 1st level, a Soldier gains the Weapon Focus class feature, providing
+the benefit of the feat with the same name. The Soldier chooses a
+specific weapon. The soldier can choose unarmed strike or grapple as the
+weapon. The soldier must be proficient with the chosen weapon.
+
+The soldier adds +1 to all attack rolls made using the selected weapon.
+
+**Weapon Specialization**
+
+At 2nd level, a Soldier gains weapon specialization with a specific
+melee or ranged weapon that he or she also has applied the Weapon Focus
+feat or class feature to. The soldier gets a +2 bonus on damage rolls
+with the chosen weapon.
+
+### Bonus Feats
+
+At 3rd, 6th, and 9th level, the Soldier gets a bonus feat. The bonus
+feat must be selected from the following list, and the Soldier must meet
+all the prerequisites of the feat to select it.
+
+Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor
+Proficiency (light), Armor Proficiency (medium), Armor Proficiency
+(heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms
+Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave,
+Im­proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.
+
+### Tactical Aid
+
+As a full-round action, the Soldier provides tactical aid to all of his
+allies (including himself) within sight and voice
+
+range of his position. This use of tactical aid requires an action
+point.
+
+This aid provides a +1 competence bonus on attack rolls. The bonus lasts
+for a number of rounds equal to one-half
+
+of the Soldier’s level in the advanced class, rounded down.
+
+### Improved Critical
+
+For the weapon the Soldier has applied weapon specialization to the
+Soldier’s threat range increases by one.
+
+### Improved Reaction
+
+At 7th level, a Soldier gains a +2 competence bonus on initiative
+checks.
+
+### Greater Weapon Specialization
+
+At 8th level, a Soldier gains greater weapon specialization with the
+weapon he or she selected at 2nd level. This ability increases the bonus
+on damage rolls to +4 when using the selected weapon.
+
+### Critical Strike
+
+At 10th level, a Soldier gains the ability to automatically confirm a
+threat as a critical hit when attacking with the weapon he or she has
+applied weapon specialization to, eliminating the need to make a roll to
+confirm the critical hit.
