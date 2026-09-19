@@ -1,7 +1,7 @@
 # Tongues
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 4, Mage 3 |
 | Components | V, M/DF |

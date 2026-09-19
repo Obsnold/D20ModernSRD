@@ -1,7 +1,7 @@
 # Change Self
 
 | Stat | Value |
-|--------------|----------------------|
+|---|---|
 | School | Illusion |
 | Level | Mage 1 |
 | Components | V, S |

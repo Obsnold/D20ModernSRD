@@ -5,7 +5,7 @@ See Table: Constructs for physical ability scores, recommended minimum
 Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d10 |
 | Base Attack Bonus | 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | None |
@@ -46,7 +46,7 @@ and cannot be repaired.
 **Table: Constructs**
 
 | Size | Str | Dex | Con | Minimum HD | Extra Hit Points | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-----|------------|------------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|---|
 | Colossal | 44–47 | 6–7 | — | 32d10 | 120 | 4d6 | 2d6 | 2d8 | 4d6 |
 | Gargantuan | 36–39 | 6–7 | — | 16d10 | 80 | 2d8 | 1d8 | 2d6 | 2d8 |
 | Huge | 28–31 | 6–7 | — | 8d10 | 40 | 2d6 | 1d6 | 2d4 | 2d6 |

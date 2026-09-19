@@ -1,7 +1,7 @@
 # Decipher Script
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |

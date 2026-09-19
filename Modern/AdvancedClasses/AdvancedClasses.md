@@ -12,7 +12,7 @@ have gained levels in. The associations between basic classes and
 advanced classes are summarized on the following table.
 
 | Basic Class1 | Advanced Class |
-|--------------|-------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Strong | [Soldier](Soldier.md); [Martial Artist](MartialArtist.md) |
 | Fast | [Gunslinger](GunSlinger.md); [Infiltrator](Infiltrator.md) |
 | Tough | [Daredevil](Daredevil.md); [Bodyguard](BodyGuard.md) |

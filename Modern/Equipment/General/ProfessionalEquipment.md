@@ -14,7 +14,7 @@ Note that some skills, by their nature, require a piece of equipment to
 utilize.
 
 | Skill | Associated Item |
-|------------------------|------------------------|
+|---|---|
 | Climb | Climbing gear |
 | Craft (chemical) | Chemical kit |
 | Craft (electronic) | Electrical tool kit |
@@ -43,7 +43,7 @@ utilize.
 **Table: General Equipment: Professional Equipment**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | Bolt cutter | Med | 5 lb. | 6 | — |
 | Caltrops (25) | Small | 2 lb. | 5 | — |
 | Chemical kit | Med | 6 lb. | 16 | — |

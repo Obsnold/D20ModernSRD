@@ -13,7 +13,7 @@ Automatic Language: Goblins read, write, and speak Goblin.
 ## Goblin
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------|
+|---|---|
 | CR | 1/4 |
 | Size | Small |
 | Type | humanoid |
@@ -59,7 +59,7 @@ ammunition, hip holster, basic walkie-talkie.
 ## Goblin Fast Hero 3
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------------------------------|
+|---|---|
 | CR | 3 |
 | Size | Small |
 | Type | humanoid |

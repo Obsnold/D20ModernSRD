@@ -85,7 +85,7 @@ language known by the original.
 ## Replacement Scientist (Human Smart Ordinary 5/Charismatic Ordinary 2)
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------|
+|---|---|
 | CR | 6 |
 | Size | Medium-size |
 | Type | humanoid |

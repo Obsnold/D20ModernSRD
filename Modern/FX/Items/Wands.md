@@ -21,7 +21,7 @@ Sample wands include the following:
 ## Wand of Animate Dead
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Wand (magic) |
 | Caster Level | 5th (divine) |
 | Purchase DC | 32 |
@@ -32,7 +32,7 @@ This wand allows its user to cast animate dead.
 ## Wand of Knock
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Wand (magic) |
 | Caster Level | 3rd (arcane) |
 | Purchase DC | 28 |
@@ -45,7 +45,7 @@ each other (including locked doors and containers).
 ## Wand of Web
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Wand (magic) |
 | Caster Level | 3rd (arcane) |
 | Purchase DC | 28 |

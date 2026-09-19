@@ -1,7 +1,7 @@
 # Inflict Light Wounds
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 1 |
 | Components | V, S |

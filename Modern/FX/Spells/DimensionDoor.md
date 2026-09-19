@@ -1,7 +1,7 @@
 # Dimension Door
 
 | Stat | Value |
-|------------------|----------------------------------------------------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Teleporting |
 | Level | Mage 4 |

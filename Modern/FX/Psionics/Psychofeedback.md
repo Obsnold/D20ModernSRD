@@ -1,7 +1,7 @@
 # Psychofeedback
 
 | Stat | Value |
-|--------------------|---------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Battle Mind 4 |
 | Display | Visual |

@@ -1,7 +1,7 @@
 # Dispel Magic
 
 | Stat | Value |
-|------------------|--------------------------------------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 3, Mage 3 |
 | Components | V, S |

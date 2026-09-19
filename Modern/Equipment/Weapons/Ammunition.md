@@ -6,7 +6,7 @@ Ammunition.
 **Table: Ammunition**
 
 | Ammunition Type (Quantity) | Purchase DC |
-|----------------------------|-------------|
+|---|---|
 | 5.56mm (20) | 4 |
 | 7.62mm (20) | 4 |
 | 7.62mmR (20) | 4 |
@@ -65,7 +65,7 @@ Shotgun shells are a little heavier; use the weight value for one damage
 step higher.
 
 | | Weight per Number of Rounds | | | | | |
-|------------|-----------------------------|--------|--------|--------|--------|---------|
+|---|---|---|---|---|---|---|
 | **Damage** | **10** | **20** | **30** | **40** | **50** | **100** |
 | 2d4 | 0.5lb | 0.5lb | 0.5lb | 0.5lb | 1.0lb | 1.5lb |
 | 2d6 | 0.5lb | 0.5lb | 0.5lb | 1.0lb | 1.0lb | 2.0lb |

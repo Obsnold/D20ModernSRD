@@ -1,7 +1,7 @@
 # Searing Light
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Evocation |
 | Level | Acolyte 3 |
 | Components | V, S |

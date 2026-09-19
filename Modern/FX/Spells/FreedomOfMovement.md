@@ -1,14 +1,14 @@
 # Freedom of Movement
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 4 |
 | Components | V, S, M, DF |
 | Casting Time | Attack action |
 | Range | Personal or touch |
 | Target | You or creature touched |
-| Duration | 10 minutes/\_level |
+| Duration | 10 minutes/level |
 | Saving Throw | Will negates (harmless) |
 | Spell Resistance | Yes (harmless) |
 

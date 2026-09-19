@@ -1,7 +1,7 @@
 # Resist Energy
 
 | Stat | Value |
-|------------------|------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 2, Mage 2 |
 | Components | V, S, DF |

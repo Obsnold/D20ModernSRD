@@ -1,7 +1,7 @@
 # Electric Charge
 
 | Stat | Value |
-|--------------------|-------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Descriptors | Electricity |
 | Level | Battle Mind 2 |

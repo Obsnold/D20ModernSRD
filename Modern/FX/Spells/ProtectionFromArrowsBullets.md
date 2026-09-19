@@ -1,7 +1,7 @@
 # Protection from Arrows/Bullets
 
 | Stat | Value |
-|------------------|--------------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Mage 2 |
 | Components | V, S, F |

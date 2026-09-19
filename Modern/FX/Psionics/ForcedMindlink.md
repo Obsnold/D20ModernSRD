@@ -1,7 +1,7 @@
 # Forced Mindlink
 
 | Stat | Value |
-|--------------------|----------------------------------------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Level | Telepath 4 |
 | Display | Material |

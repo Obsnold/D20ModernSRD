@@ -1,7 +1,7 @@
 # Hide
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Dex |
 | Trained Only | No |
 | Armor Penalty | Yes |
@@ -18,7 +18,7 @@ or charging.
 The hide check is also modified by the character’s size:
 
 | Size | Modifier | Size | Modifier |
-|-------------|----------|------------|----------|
+|---|---|---|---|
 | Fine | +16 | Large | –4 |
 | Diminutive | +12 | Huge | –8 |
 | Tiny | +8 | Gargantuan | –12 |
@@ -35,7 +35,7 @@ shown below. Note that a character can’t hide if he or she has less than
 one-half cover or concealment.
 
 | Cover or Concealment | Circumstance Bonus |
-|----------------------|--------------------|
+|---|---|
 | Three-quarters | +5 |
 | Nine-tenths | +10 |
 

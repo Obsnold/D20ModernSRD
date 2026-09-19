@@ -1,7 +1,7 @@
 # Energy Trap
 
 | Stat | Value |
-|------------------|--------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Mage 4 |
 | Components | V, S, M |

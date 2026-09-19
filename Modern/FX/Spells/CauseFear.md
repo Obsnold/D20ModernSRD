@@ -1,7 +1,7 @@
 # Cause Fear
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Necromancy |
 | Descriptors | Fear, Mind-Affecting |
 | Level | Acolyte 1, Mage 1 |

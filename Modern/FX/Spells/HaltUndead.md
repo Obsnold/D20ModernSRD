@@ -1,7 +1,7 @@
 # Halt Undead
 
 | Stat | Value |
-|------------------|-------------------------------------------------------------------|
+|---|---|
 | School | Necromancy |
 | Level | Mage 3 |
 | Components | V, S, M |

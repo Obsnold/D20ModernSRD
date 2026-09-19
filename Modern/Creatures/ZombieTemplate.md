@@ -72,7 +72,7 @@ the Toughness feat.
 ## Human Zombie
 
 | Stat | Value |
-|-------------------|------------------------------------|
+|---|---|
 | CR | 1/2 |
 | Size | Medium-size |
 | Type | undead |
@@ -113,7 +113,7 @@ the Toughness feat.
 ## Huge Crocodile Zombie
 
 | Stat | Value |
-|-------------------|------------------------------------------------------------------------------|
+|---|---|
 | CR | 6 |
 | Size | Huge |
 | Type | undead |

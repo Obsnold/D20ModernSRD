@@ -36,7 +36,7 @@ sonic/concussion, piercing, or slashing).
 ## Flesh Golem
 
 | Stat | Value |
-|-------------------|------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Large |
 | Type | construct |
@@ -78,7 +78,7 @@ sonic/concussion, piercing, or slashing).
 ## Advanced Flesh Golem
 
 | Stat | Value |
-|-------------------|------------------------------------------------------------|
+|---|---|
 | CR | 13 |
 | Size | Huge |
 | Type | construct |

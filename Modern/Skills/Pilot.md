@@ -1,7 +1,7 @@
 # Pilot
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Dex |
 | Trained Only | Yes |
 | Armor Penalty | No |

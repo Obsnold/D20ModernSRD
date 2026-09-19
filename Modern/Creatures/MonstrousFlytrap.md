@@ -31,7 +31,7 @@ taught to speak (but neither read nor write) one language.
 ## Monstrous Flytrap
 
 | Stat | Value |
-|-------------------|----------------------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Huge |
 | Type | plant |
@@ -74,7 +74,7 @@ taught to speak (but neither read nor write) one language.
 ## Advanced Monstrous Flytrap
 
 | Stat | Value |
-|-------------------|----------------------------------------------------------------------------|
+|---|---|
 | CR | 12 |
 | Size | Gargantuan |
 | Type | plant |

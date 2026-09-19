@@ -13,7 +13,7 @@ species. The type of information gleaned in this amount of time depends
 on the hero’s Research check result, as shown below.
 
 | Type of Information | Research Check DC |
-|-------------------------------------------------------------------------------|-------------------|
+|---|---|
 | **Type Traits** | |
 | Reveals a creature’s type and any traits common to that type. | 15 |
 | **Species Traits** | |

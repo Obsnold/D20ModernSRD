@@ -1,7 +1,7 @@
 # Fear
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Necromancy |
 | Descriptors | Fear, Mind-Affecting |
 | Level | Mage 4 |

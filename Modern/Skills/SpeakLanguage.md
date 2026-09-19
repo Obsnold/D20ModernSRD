@@ -1,7 +1,7 @@
 # Speak Language
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | None |
 | Trained Only | Yes |
 | Armor Penalty | No |

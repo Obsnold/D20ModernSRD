@@ -1,7 +1,7 @@
 # Shield
 
 | Stat | Value |
-|--------------|--------------------|
+|---|---|
 | School | Abjuration |
 | Descriptors | Force |
 | Level | Mage 1 |

@@ -47,7 +47,7 @@ Table below.
 **Table: Size Modifiers**
 
 | Size | Size Modifier |
-|---------------|---------------|
+|---|---|
 | *Colossal* | *–8* |
 | *Gargantuan* | *–4* |
 | \*Huge * | *–2* |

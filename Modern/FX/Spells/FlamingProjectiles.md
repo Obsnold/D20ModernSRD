@@ -1,7 +1,7 @@
 # Flaming Projectiles
 
 | Stat | Value |
-|------------------|----------------------------------------------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Descriptors | Fire |
 | Level | Mage 3 |

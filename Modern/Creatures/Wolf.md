@@ -17,7 +17,7 @@ when tracking by scent.
 ## Wolf
 
 | Stat | Value |
-|-------------------|-------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Medium-size |
 | Type | animal |

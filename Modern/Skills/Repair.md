@@ -1,7 +1,7 @@
 # Repair
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -18,7 +18,7 @@ by a Wealth check. If the GM decides this isn’t necessary for the type
 of repair the character is attempting, then no Wealth check is needed.
 
 | Repair Task (Example) | Purchase DC | Repair DC | Time |
-|---------------------------------------------------------|-------------|-----------|---------|
+|---|---|---|---|
 | Simple (tool, simple weapon) | 4 | 10 | 1 min. |
 | Moderate (mechanical or electronic component) | 7 | 15 | 10 min. |
 | Complex (mechanical or electronic device) | 10 | 20 | 1 hr. |

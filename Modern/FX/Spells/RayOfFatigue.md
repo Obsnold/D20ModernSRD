@@ -1,7 +1,7 @@
 # Ray of Fatigue
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Necromancy |
 | Level | Mage 1 |
 | Components | V, S, M |

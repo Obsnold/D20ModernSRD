@@ -1,7 +1,7 @@
 # THE DEDICATED HERO
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +1 | Talent | +1 | +1 |
 | 2nd | +1 | +2 | +0 | +2 | Bonus feat | +2 | +1 |
 | 3rd | +2 | +2 | +1 | +2 | Talent | +2 | +1 |

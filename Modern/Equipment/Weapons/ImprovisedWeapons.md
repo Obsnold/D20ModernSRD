@@ -11,7 +11,7 @@ the –4 penalty.
 **Table: Improvised Weapon Damage by Size**
 
 | Object Size | Examples | Damage |
-|-------------|------------------------------------------------------------------------------------|--------|
+|---|---|---|
 | Diminutive | Ashtray, CD disk case, crystal paperweight | 1 |
 | Tiny | Fist-sized rock, mug, screwdriver, softball, flashlight, wrench | 1d2 |
 | Small | Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase | 1d3 |

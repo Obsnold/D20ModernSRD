@@ -1,7 +1,7 @@
 # Metaphysical Weapon
 
 | Stat | Value |
-|--------------------|-------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Level | Battle Mind 3 |
 | Display | Visual |

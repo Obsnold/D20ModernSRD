@@ -1,7 +1,7 @@
 # Inflict Moderate Wounds
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 2 |
 | Components | V, S |

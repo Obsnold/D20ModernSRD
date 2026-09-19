@@ -14,7 +14,7 @@ size of the two colliding objects and refer to Table: Collision Damage.
 **Table: Collision Damage**
 
 | Highest Speed | Damage Die Type |
-|----------------------------------|-----------------|
+|---|---|
 | Alley speed | d2 |
 | Street speed | d4 |
 | Highway speed | d8 |
@@ -46,7 +46,7 @@ the minimum number of squares for its new speed category.
 **Table: Collision Direction**
 
 | Colliding Vehicle’s Target | Multiplier |
-|----------------------------------------------------------------------|------------|
+|---|---|
 | A stationary object | x 1 |
 | A moving vehicle, striking head-on or 45 degrees from head-on | x 2 |
 | A moving vehicle, striking perpendicular | x 1 |
@@ -66,7 +66,7 @@ damage as well. The base amount of damage depends on the cover offered
 by the vehicle.
 
 | Cover | Damage |
-|------------------------|-------------------------------------|
+|---|---|
 | None | Same as damage taken by vehicle |
 | One-quarter | One-half damage taken by vehicle |
 | One-half | One-quarter damage taken by vehicle |

@@ -1,7 +1,7 @@
 # Concussion
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Battle Mind 2 |
 | Display | Audible |

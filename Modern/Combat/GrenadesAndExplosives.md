@@ -21,7 +21,7 @@ explosive bounces to.
 **Thrown Explosives (hit)**
 
 | Roll on d4 | Corner of targeted square |
-|------------|---------------------------|
+|---|---|
 | 1 | Upper Left |
 | 2 | Upper Right |
 | 3 | Lower Right |
@@ -42,7 +42,7 @@ three range increments (11 to 30 feet), roll 1d8.
 **Thrown Explosive (Miss 2 to 3 Range Increments)**
 
 | Roll on d8 | Location Struck |
-|------------|------------------------------------------------|
+|---|---|
 | 1 | upper right corner, one square beyond target |
 | 2 | upper right corner, one square right of target |
 | 3 | lower right corner, one square right of target |
@@ -57,7 +57,7 @@ For ranges of up to five range increments (31 to 50 feet), roll 1d12.
 **Thrown Explosives (Miss 4 to5 Range Increments)**
 
 | Roll on d12 | Location Struck |
-|-------------|-----------------------------------------------------------|
+|---|---|
 | 1 | upper right corner, two squares beyond target |
 | 2 | upper right corner, one square beyond and right of target |
 | 3 | upper right corner, two squares right of target |

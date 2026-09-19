@@ -37,7 +37,7 @@ Climb checks.
 ## Constrictor Snake
 
 | Stat | Value |
-|-------------------|---------------------------------------------------------|
+|---|---|
 | CR | 2 |
 | Size | Medium-size |
 | Type | animal |
@@ -80,7 +80,7 @@ Climb checks.
 ## Tiny Viper
 
 | Stat | Value |
-|-------------------|------------------------------------|
+|---|---|
 | CR | 1/3 |
 | Size | Tiny |
 | Type | animal |

@@ -1,7 +1,7 @@
 # Telekinesis
 
 | Stat | Value |
-|--------------------|-----------------------------------------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Telepath 4 |
 | Display | Visual |

@@ -6,7 +6,7 @@ newscasters, radio and television personalities, and more fall under
 this starting occupation.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 15+ |
 | Reputation Bonus Increase | +1 |
 | Wealth Bonus Increase | +4 |

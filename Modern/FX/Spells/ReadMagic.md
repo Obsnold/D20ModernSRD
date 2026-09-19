@@ -1,7 +1,7 @@
 # Read Magic
 
 | Stat | Value |
-|--------------|-------------------|
+|---|---|
 | School | Universal |
 | Level | Acolyte 0, Mage 0 |
 | Components | V, S, F |

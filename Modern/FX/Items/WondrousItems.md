@@ -12,7 +12,7 @@ level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
 | Item’s Nature | FX Modifier |
-|-----------------------------------------|-------------|
+|---|---|
 | Single-use item | — |
 | Continuous effect or bonus <sup>1</sup> | +3 |
 | Limited number of uses per day | +2 |
@@ -25,7 +25,7 @@ Examples of wondrous items include the following.
 ## Chemical Light Stick of Revealing
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 3rd |
 | Purchase DC | 29 |
@@ -40,7 +40,7 @@ The purchase DC and weight given below are for a pack of five.
 ## Crystal Pistol
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | Type | Wondrous Item (psionic) |
 | Manifester Level | 3rd |
 | Purchase DC | 29 |
@@ -62,7 +62,7 @@ of opportunity.
 ## Duct Tape of Repair
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 5th |
 | Purchase DC | 31 |
@@ -80,7 +80,7 @@ full-round action that provokes attacks of opportunity.
 ## Gauntlet of Lightning
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 5th |
 | Purchase DC | 32 |
@@ -94,7 +94,7 @@ attack action and does not provoke attacks of opportunity.
 ## Icethrower
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 9th |
 | Purchase DC | 35 |
@@ -112,7 +112,7 @@ shots but can be replenished (at the cost of the item’s purchase DC).
 ## Jade Crocodile
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 6th |
 | Purchase DC | 33 |
@@ -131,7 +131,7 @@ has a Defense of 8, hardness 5, 6 hit points, and a break DC of 22.
 ## Leather Jacket of Damage Reduction
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 3rd |
 | Purchase DC | 31 |
@@ -145,7 +145,7 @@ damage to its wearer from any melee and ranged weapon attack by 1 point
 ## Running Shoes of Striding and Springing
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 5th |
 | Purchase DC | 33 |
@@ -158,7 +158,7 @@ equipment bonus on Jump checks.
 ## Screaming Amulet
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | Type | Wondrous Item (psionic) |
 | Manifester Level | 7th |
 | Purchase DC | 34 |
@@ -176,7 +176,7 @@ points to spend, he or she cannot activate the item.
 ## Six-Demon Bag
 
 | Stat | Value |
-|--------------|-----------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 5th |
 | Purchase DC | 34 |
@@ -212,7 +212,7 @@ properties.
 ## Windbreaker of Resistance
 
 | Stat | Value |
-|--------------|-------------------------------|
+|---|---|
 | Type | Wondrous Item (magic) |
 | Caster Level | 4th (+1), 7th (+2), 10th (+3) |
 | Purchase DC | 22 (+1), 25 (+2), 28 (+3) |

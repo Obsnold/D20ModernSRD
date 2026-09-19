@@ -6,7 +6,7 @@ done nevertheless.
 **Table: Melee Weapons: Simple Weapons (require the Simple Weapons Proficiency feat)**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
-|------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|
 | Brass knuckles | 1 | 20 | Bludgeoning | — | Tiny | 1 lb. | 5 | — |
 | Cleaver | 1d6 | 19–20 | Slashing | — | Small | 2 lb. | 5 | — |
 | Club | 1d6 | 20 | Bludgeoning | 10 ft. | Med | 3 lb. | 4 | — |

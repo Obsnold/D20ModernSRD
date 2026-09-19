@@ -1,7 +1,7 @@
 # Spider Climb
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Acolyte 2, Mage 2 |
 | Components | V, S, M |

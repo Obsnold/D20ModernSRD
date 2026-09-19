@@ -1,7 +1,7 @@
 # Web
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Mage 2 |
@@ -9,7 +9,7 @@
 | Casting Time | Attack action |
 | Range | Medium (100 ft. + 10 ft./level) |
 | Effect | Webs in a 20-ft.-radius spread |
-| Duration | 10 minutes/\_level |
+| Duration | 10 minutes/level |
 | Saving Throw | Reflex negates (see text) |
 | Spell Resistance | Yes |
 

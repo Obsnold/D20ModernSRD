@@ -50,7 +50,7 @@ involving the following skills for the duration of the encounter: Bluff,
 Diplomacy, Gather Information, Intimidate, and Perform.
 
 | Situation | Reputation Check Modifier |
-|---------------------------------------------------------------------------------------|---------------------------|
+|---|---|
 | The hero is famous, known far and wide with either a positive or negative connotation | +10 |
 | GM character is part of the hero’s professional or social circle | +5 |
 | The hero has some small amount of fame or notoriety | +2 |

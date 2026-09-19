@@ -21,7 +21,7 @@ their Hide bonus improves to +8.
 ## Tiger
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------|
+|---|---|
 | CR | 4 |
 | Size | Large |
 | Type | animal |

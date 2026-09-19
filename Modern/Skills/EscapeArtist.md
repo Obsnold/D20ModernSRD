@@ -1,7 +1,7 @@
 # Escape Artist
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Dex |
 | Trained Only | No |
 | Armor Penalty | Yes |
@@ -12,7 +12,7 @@ Make a check to escape from restraints or to squeeze through
 a tight space.
 
 | Restraint | DC |
-|-------------|--------------------------|
+|---|---|
 | Ropes | Opponent’s Dex check +20 |
 | Net | 20 |
 | Handcuffs | 35 |

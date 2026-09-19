@@ -12,7 +12,7 @@ gain a +4 species bonus on Survival checks when tracking by scent.
 ## Small Dog
 
 | Stat | Value |
-|-------------------|------------------------|
+|---|---|
 | CR | 1/3 |
 | Size | Small |
 | Type | animal |
@@ -55,7 +55,7 @@ by scent), Swim +5.
 ## Medium-Size Dog
 
 | Stat | Value |
-|-------------------|------------------------|
+|---|---|
 | CR | 1 |
 | Size | Medium-size |
 | Type | animal |

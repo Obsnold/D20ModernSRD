@@ -1,14 +1,14 @@
 # Forgery
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
 
 ## Check
 
-Forgery requires ma­terials appropriate to the document being
+Forgery requires materials appropriate to the document being
 forged, and some time. To forge a document the character needs to have
 seen a similar document before. The complexity of the document, the
 character’s degree of familiarity with it, and whether the character
@@ -16,7 +16,7 @@ needs to reproduce the signature or handwriting of a specific
 individual, provide modifiers to the Forgery check, as shown below.
 
 | Factor | Check Modifier | Time |
-|--------------------------------------------------|----------------|---------|
+|---|---|---|
 | **Document Type** | | |
 | Simple (typed letter, business card) | +0 | 10 min. |
 | Moderate (letterhead, business form) | –2 | 20 min. |
@@ -44,7 +44,7 @@ fraudulent. The examiner gains bonuses or penalties on his or her check
 as given in the table below.
 
 | Condition | Examiner’s Check Modifier |
-|----------------------------------------------------------|---------------------------|
+|---|---|
 | Type of document unknown to examiner | –4 |
 | Type of document somewhat known to examiner | –2 |
 | Type of document well known to examiner | +0 |
@@ -65,9 +65,9 @@ original forgery.
 
 ## Special
 
-To forge documents and detect for­geries, one must be able
-to read and write the ­language in question. (The skill is
-language-­dependent.)
+To forge documents and detect forgeries, one must be able
+to read and write the language in question. (The skill is
+language-dependent.)
 
 A character can take 10 when making a Forgery check, but can’t take 20.
 

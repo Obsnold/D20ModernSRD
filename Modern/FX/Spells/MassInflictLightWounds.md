@@ -1,7 +1,7 @@
 # Mass Inflict Light Wounds
 
 | Stat | Value |
-|------------------|-------------------------------------------------------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 5 |
 | Components | V, S |

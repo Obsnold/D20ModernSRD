@@ -1,7 +1,7 @@
 # Verve
 
 | Stat | Value |
-|--------------------|--------------------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Telepath 0/Battle Mind 0 |
 | Display | Material, Olfactory |

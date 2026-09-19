@@ -1,7 +1,7 @@
 # Lesser Bioweapon
 
 | Stat | Value |
-|--------------------|--------------------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Battle Mind 1 |
 | Display | Visual, Material |

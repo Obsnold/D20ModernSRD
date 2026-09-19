@@ -7,7 +7,7 @@ habits. See Table: Magical Beasts for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d10 |
 | Base Attack Bonus | Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Fortitude, Reflex |
@@ -27,7 +27,7 @@ feet and low-light vision (unless noted otherwise).
 **Table: Magical beasts**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 42–43 | 10–11 | 28–29 | 32d10 | 2d6 | 4d6 | 2d8 | 4d6 |
 | Gargantuan | 34–35 | 10–11 | 24–25 | 16d10 | 1d8 | 2d8 | 2d6 | 2d8 |
 | Huge | 26–27 | 10–11 | 20–21 | 8d10 | 1d6 | 2d6 | 2d4 | 2d6 |

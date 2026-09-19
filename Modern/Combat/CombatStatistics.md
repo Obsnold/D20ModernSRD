@@ -45,7 +45,7 @@ with vehicle sizes.
 **Table: Size Modifiers**
 
 | Size (Example) | Size Modifier |
-|---------------------------------------|---------------|
+|---|---|
 | Colossal (blue whale [90 ft. long]) | –8 |
 | Gargantuan (gray whale [40 ft. long]) | –4 |
 | Huge (elephant) | –2 |

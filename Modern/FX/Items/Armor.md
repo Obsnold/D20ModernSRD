@@ -19,7 +19,7 @@ action).
 enhancement bonus but no special qualities, use the following table.
 
 | Enhancement Bonus | Purchase DC Modifier |
-|-------------------|----------------------|
+|---|---|
 | +1 | +8 |
 | +2 | +13 |
 | +3 | +18 |
@@ -32,7 +32,7 @@ Examples of armor with special qualities include the following.
 ## Illusory Concealable Vest
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Armor (magic) |
 | Caster Level | 10th |
 | Purchase DC | 31 (+1), 36 (+2), 41 (+3) |
@@ -48,7 +48,7 @@ seeing spell reveals the true nature of the armor.
 ## Undercover Vest of Landing
 
 | Stat | Value |
-|------------------|-------------------------------|
+|---|---|
 | Type | Armor (psionic) |
 | Manifester Level | 4th (+1), 7th (+2), 10th (+3) |
 | Purchase DC | 30 (+1), 35 (+2), 40 (+3) |

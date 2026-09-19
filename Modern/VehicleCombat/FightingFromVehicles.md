@@ -54,7 +54,7 @@ behind the wheel.
 **Table: Vehicle Crew Quality**
 
 | Crew Quality | Check Modifier | Attack Bonus | |
-|--------------|----------------|--------------|--|
+|---|---|---|---|
 | Untrained | –4 | –2 | |
 | Normal | +2 | +0 | |
 | Skilled | +4 | +2 | |
@@ -64,7 +64,7 @@ behind the wheel.
 **Table: Crewed Vehicles**
 
 | Name | Crew | Initiative | Maneuver |
-|-----------------------------|----------------|------------|----------|
+|---|---|---|---|
 | **Civilian Aircraft** | | | |
 | Bell Jet Ranger | 2 (Skilled +4) | +0 | +0 |
 | Bell Model 212 | 2 (Skilled +4) | +0 | +0 |

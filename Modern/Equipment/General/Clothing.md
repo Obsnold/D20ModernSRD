@@ -21,7 +21,7 @@ object; clothing purposely tailored to conceal objects provides a bonus.
 **Table: General Equipment: Clothing**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | **Clothing outfit** | | | | |
 | Business | Med | 3 lb. | 12 | — |
 | Casual | Med | 2 lb. | 8 | — |

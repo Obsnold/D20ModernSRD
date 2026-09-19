@@ -1,7 +1,7 @@
 # Negate Psionics
 
 | Stat | Value |
-|--------------------|--------------------------------------------------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Telepath 3/Battle Mind 3 |
 | Display | Vi |

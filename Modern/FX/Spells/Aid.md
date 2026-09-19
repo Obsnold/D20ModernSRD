@@ -1,7 +1,7 @@
 # Aid
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Enchantment |
 | Descriptors | Mind-Affecting |
 | Level | Acolyte 2 |

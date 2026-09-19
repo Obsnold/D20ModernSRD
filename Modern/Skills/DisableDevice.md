@@ -1,7 +1,7 @@
 # Disable Device
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -17,7 +17,7 @@ a lockpick set (for a mechanical lock) or an electrical tool kit (for an
 electronic lock). The DC depends on the quality of the lock.
 
 | Lock Type (Example) | DC |
-|-----------------------------------------------|----|
+|---|---|
 | Cheap (briefcase lock) | 20 |
 | Average (home deadbolt) | 25 |
 | High quality (business deadbolt) | 30 |
@@ -35,7 +35,7 @@ tampering from being noticed. Doing so requires 10 minutes and an
 electrical tool kit, and increases the DC of the check by +10.
 
 | Device Type (Example) | DC |
-|-------------------------------------------------|----|
+|---|---|
 | Cheap (home door alarm) | 20 |
 | Average (store security camera) | 25 |
 | High quality (art museum motion detector) | 30 |

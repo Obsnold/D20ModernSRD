@@ -12,7 +12,7 @@ twice the character’s speed with a –20 penalty on the check). The DC
 depends on the surface and the prevailing conditions.
 
 | Surface | Track DC |
-|-----------|----------------|
+|---|---|
 | Very soft | 5 |
 | Soft | 10 |
 | Firm | 15 |
@@ -44,7 +44,7 @@ character can use the Search skill to find individual footprints, but
 cannot follow tracks using Search.
 
 | Condition | DC Modifier |
-|------------------------------------------------------|-------------|
+|---|---|
 | Every three targets in the group being tracked | –1 |
 | **Size of targets being tracked: <sup>1</sup>** | |
 | Fine | +8 |

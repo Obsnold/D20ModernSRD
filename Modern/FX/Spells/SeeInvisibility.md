@@ -1,7 +1,7 @@
 # See Invisibility
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Divination |
 | Level | Mage 2 |
 | Components | V, S, M |

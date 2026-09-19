@@ -1,7 +1,7 @@
 # Status
 
 | Stat | Value |
-|------------------|-----------------------------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 3 |
 | Components | V, S |

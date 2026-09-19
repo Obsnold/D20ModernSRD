@@ -7,7 +7,7 @@ airgoing vehicles that might be available to characters.
 **Table: Vehicles: Civilian Aircraft**
 
 | Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|--------------------------------------|------|------|------------|------|----------|-------------|---------|----------|------------|------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Bell Jet Ranger (helicopter) | 1 | 4 | 250 lb. | –4 | –4 | 245 (25) | 6 | 5 | 28 | G | 39 | Lic (+1) |
 | Bell Model 212 (helicopter) | 2 | 13 | 5,000 lb. | –4 | –4 | 200(20) | 6 | 5 | 36 | G | 45 | Res (+2) |
 | Cessna 172 Skyhawk (prop plane) | 1 | 3 | 120 lb. | –4 | –4 | 210 (21) | 6 | 5 | 30 | G | 36 | Lic (+1) |

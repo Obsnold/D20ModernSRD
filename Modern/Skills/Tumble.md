@@ -1,7 +1,7 @@
 # Tumble
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Dex |
 | Trained Only | Yes |
 | Armor Penalty | Yes |
@@ -22,7 +22,7 @@ the character moves as planned, but provokes attacks of opportunity as
 normal.
 
 **Tumble through Opponents:** With a successful Tumble check (DC 25),
-the character can roll, jump, or dive through squares oc­cupied by
+the character can roll, jump, or dive through squares occupied by
 opponents, moving over, under, or around them as if they weren’t there.
 Failure means the character moves as planned, but provokes attacks of
 opportunity as normal.

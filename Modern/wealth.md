@@ -24,7 +24,7 @@ sense of how financially solvent a character is at any given time, check
 the table below.
 
 | Wealth Bonus | Financial Condition |
-|---------------|-------------------------|
+|---|---|
 | +0 | Impoverished or in debt |
 | +1 to +4 | Struggling |
 | +5 to +10 | Middle class |
@@ -110,7 +110,7 @@ of 15 or higher, the character’s Wealth bonus goes down. How much the
 Wealth bonus is reduced depends on how expensive the object is.
 
 | Object or Service Purchase DC | Wealth Bonus Decrease |
-|-----------------------------------------------------|--------------------------|
+|---|---|
 | 15 or higher | +1 point\*\*<sup>1</sup>\*\* |
 | 1–10 points higher than current Wealth bonus | 1 point |
 | 11–15 points higher than current Wealth bonus | 1d6 points |

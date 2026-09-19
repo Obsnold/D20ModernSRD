@@ -1,7 +1,7 @@
 # Bestow Curse
 
 | Stat | Value |
-|------------------|-------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 3, Mage 4 |
 | Components | V, S |

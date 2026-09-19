@@ -6,7 +6,7 @@ a crucial part of the modern adventurer’s job.
 **Table: General Equipment: Surveillance Gear**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | Black box | Tiny | 0.5 lb. | 4 | Illegal (+4) |
 | Caller ID defeater | Tiny | 1 lb. | 5 | — |
 | Cellular interceptor | Tiny | 0.5 lb. | 23 | — |

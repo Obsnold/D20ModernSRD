@@ -1,7 +1,7 @@
 # Command
 
 | Stat | Value |
-|------------------|------------------------------------|
+|---|---|
 | School | Enchantment |
 | Descriptors | Language-Dependent, Mind-Affecting |
 | Level | Acolyte 1 |

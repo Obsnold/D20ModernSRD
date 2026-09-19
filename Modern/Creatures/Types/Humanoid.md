@@ -6,7 +6,7 @@ extraordinary abilities. See Table: Humanoids for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d8 |
 | Base Attack Bonus | 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Choose one (usually Reflex) |
@@ -30,7 +30,7 @@ in their entries).
 **Table: Humanoids**
 
 | Size | Str | Dex | Con | Minimum HD | Slam<sup>1</sup> | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------------------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Medium-size | 10–15 | 10–13 | 10–11 | 1d8 | 1d3 | 1d4 | 1d4 | 1d6 |
 | Small | 6–11 | 12–15 | 8–9 | 1/2 d8 | 1d2 | 1d3 | 1d3 | 1d4 |
 | Tiny | 2–7 | 14–17 | 8–9 | 1/4 d8 | 1 | 1d2 | 1d2 | 1d3 |

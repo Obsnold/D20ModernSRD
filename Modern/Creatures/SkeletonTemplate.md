@@ -72,7 +72,7 @@ the feat Improved Initiative.
 ## Human Skeleton
 
 | Stat | Value |
-|-------------------|-----------------------------|
+|---|---|
 | CR | 1/3 |
 | Size | Medium-size |
 | Type | undead |
@@ -112,7 +112,7 @@ the feat Improved Initiative.
 ## Ogre Skeleton
 
 | Stat | Value |
-|-------------------|------------------------------------------------------------|
+|---|---|
 | CR | 2 |
 | Size | Large |
 | Type | undead |

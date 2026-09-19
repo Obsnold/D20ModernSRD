@@ -1,7 +1,7 @@
 # Detect Magical Aura
 
 | Stat | Value |
-|------------------|---------------------------------------------------------------|
+|---|---|
 | School | Universal |
 | Level | Acolyte 0, Mage 0 |
 | Components | V, S |
@@ -29,7 +29,7 @@ Aura Strength: An aura’s magical power and strength depend on a spell’s
 functioning spell level or an item’s caster level.
 
 | Functioning Spell Level | Item Caster Level | Aura Power |
-|---------------------------|-------------------|--------------|
+|---|---|---|
 | 0-level or lingering aura | Lingering aura | Dim |
 | 1st–2nd | 1st–3rd | Faint |
 | 3rd | 4th–5th | Moderate |
@@ -43,7 +43,7 @@ indicates the stronger of the two.
 source has vacated the location depends on the aura’s original strength.
 
 | Original Strength | Duration |
-|-------------------|------------------|
+|---|---|
 | Faint | 1d6 minutes |
 | Moderate | 1d6 x 10 minutes |
 | Strong | 1d6 hours |

@@ -71,7 +71,7 @@ armor on the black market.
 **Table: Armor**
 
 | Armor | Type | Equipment Bonus | Nonprof. Bonus | Maximum Dex Bonus | Armor Penalty | Speed (30 ft.) | Weight | Purchase DC | Restriction |
-|------------------------|-------------|-----------------|----------------|-------------------|---------------|----------------|--------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|
 | **Light Armor** | | | | | | | | | |
 | Leather jacket | Impromptu | +1 | +1 | +8 | –0 | 30 | 4 lb. | 10 | — |
 | Leather armor | Archaic | +2 | +1 | +6 | –0 | 30 | 15 lb. | 12 | — |
@@ -169,7 +169,7 @@ out for the armor penalty.
 ## Plate Mail
 
 This medieval-era armor consists of metal plates that cover the entire
-body. It’s heavy and cumbersome com­pared to most modern armor, but it
+body. It’s heavy and cumbersome compared to most modern armor, but it
 does provide a great deal of protection.
 
 ## Special Response Vest

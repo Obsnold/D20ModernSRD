@@ -18,7 +18,7 @@ Dice.
 **Table: Creature Saves and Base Attack Bonuses**
 
 | Creature’s Hit Dice | Good Save Bonus | Poor Save Bonus | Base Attack Bonus (A) | Base Attack Bonus (B) | Base Attack Bonus (C) |
-|---------------------|-----------------|-----------------|-----------------------|-----------------------|-----------------------|
+|---|---|---|---|---|---|
 | 1 or less | +2 | +0 | +0 | +1 | +0 |
 | 2 | +3 | +0 | +1 | +2 | +0 |
 | 3 | +3 | +1 | +2 | +3 | +1 |

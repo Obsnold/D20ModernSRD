@@ -1,7 +1,7 @@
 # Inflict Critical Wounds
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 4 |
 | Components | V, S |

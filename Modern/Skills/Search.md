@@ -1,7 +1,7 @@
 # Search
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -18,7 +18,7 @@ character to follow tracks or tell the character which direction the
 creature or creatures went or came from.
 
 | DC | Task |
-|-----|---------------------------------------------------------------------------------------------|
+|---|---|
 | 10 | Ransack an area to find a certain object. |
 | 20 | Notice a typical secret compartment, a simple trap, or an obscure clue. |
 | 25+ | Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue. |

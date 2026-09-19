@@ -9,7 +9,7 @@ penalty.
 **Table: Melee Weapons: Exotic Melee Weapons (each requires a specific Exotic Melee Weapon Proficiency feat)**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
-|------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|
 | Chain\*\*<sup>1</sup>\*\* | 1d6/1d6 | 20 | Bludgeoning | — | Large | 5 lb. | 5 | — |
 | Chain saw | 3d6 | 20 | Slashing | — | Large | 10 lb. | 9 | — |
 | Kama | 1d6 | 20 | Slashing | — | Small | 2 lb. | 5 | — |

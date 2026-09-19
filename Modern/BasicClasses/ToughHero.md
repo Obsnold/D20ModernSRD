@@ -1,7 +1,7 @@
 # THE TOUGH HERO
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +0 | Talent | +1 | +0 |
 | 2nd | +1 | +2 | +0 | +0 | Bonus feat | +2 | +0 |
 | 3rd | +2 | +2 | +1 | +1 | Talent | +2 | +1 |

@@ -1,7 +1,7 @@
 # Intimidate
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -10,7 +10,7 @@
 
 With a successful check, a character can forcibly persuade
 another character to perform some task or behave in a certain way. A
-character’s Intimidate check is op­posed by the target’s level check
+character’s Intimidate check is opposed by the target’s level check
 (1d20 + the target’s character level or Hit Dice). Any modifiers that a
 target may have on Will saving throws against fear effects apply to this
 level check. If the character succeeds, he or she may treat the target

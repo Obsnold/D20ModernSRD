@@ -11,7 +11,7 @@ Reflex save (DC 16) halves the damage.
 ## Herd Animal
 
 | Stat | Value |
-|-------------------|------------------------|
+|---|---|
 | CR | 2 |
 | Size | Large |
 | Type | animal |

@@ -21,7 +21,7 @@ the user must speak a command word (an attack action).
 enchantment bonus but no special qualities, use the following table.
 
 | Enhancement Bonus | Purchase DC Modifier |
-|-------------------|----------------------|
+|---|---|
 | +1 | +10 |
 | +2 | +15 |
 | +3 | +20 |
@@ -34,7 +34,7 @@ Examples of weapons with special qualities include the following.
 ## Charged Nunchaku
 
 | Stat | Value |
-|------------------|---------------------------|
+|---|---|
 | Type | Weapon (psionic) |
 | Manifester Level | 10th |
 | Purchase DC | 23 (+1), 28 (+2), 33 (+3) |
@@ -46,7 +46,7 @@ points of damage with each successful strike.
 ## Flaming Machete
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Weapon (magic) |
 | Caster Level | 10th |
 | Purchase DC | 25 (+1), 30 (+2), 35 (+3) |
@@ -60,7 +60,7 @@ fire does not harm the hand that holds the weapon, and the machete deals
 ## Fragmentation Grenade of Distance
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Weapon (magic) |
 | Caster Level | 7th (+1 or +2), 10th (+3) |
 | Purchase DC | 35 (+1), 40 (+2), 45 (+3) |
@@ -74,7 +74,7 @@ The purchase DC given below is for a box of six grenades.
 ## Holy Crossbow
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Weapon (magic) |
 | Caster Level | 7th (+1 or +2), 10th (+3) |
 | Purchase DC | 34 (+1), 39 (+2), 44 (+3) |
@@ -92,7 +92,7 @@ while the weapon is wielded.
 ## Keen Chain Saw
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Weapon (magic) |
 | Caster Level | 10th |
 | Purchase DC | 29 (+1), 34 (+2), 39 (+3) |
@@ -105,7 +105,7 @@ saw has a threat range of 20).
 ## Wounding Handgun
 
 | Stat | Value |
-|--------------|---------------------------|
+|---|---|
 | Type | Weapon (magic) |
 | Caster Level | 10th |
 | Purchase DC | 38 (+1), 43 (+2), 48 (+3) |

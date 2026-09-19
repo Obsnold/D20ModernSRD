@@ -1,7 +1,7 @@
 # Faith’s Fury
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Evocation |
 | Level | Acolyte 4 |
 | Components | V, S |

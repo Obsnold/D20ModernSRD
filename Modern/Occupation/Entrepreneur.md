@@ -9,7 +9,7 @@ off the ground. They rarely want to stick around after the launch,
 however, as they prefer to put their energies into the next big thing.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 18+ |
 | Reputation Bonus Increase | +1 |
 | Wealth Bonus Increase | +4 |

@@ -6,7 +6,7 @@ physical ability scores, recommended minimum Hit Dice, and damage based
 on size.
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d8 |
 | Base Attack Bonus | 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Will |
@@ -31,7 +31,7 @@ feet.
 **Table: Aberrations**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 42–43 | 10–11 | 28–29 | 32d8 | 2d6 | 4d8 | 2d8 | 4d6 |
 | Gargantuan | 34–35 | 10–11 | 24–25 | 16d8 | 1d8 | 4d6 | 2d6 | 2d8 |
 | Huge | 26–27 | 10–11 | 20–21 | 8d8 | 1d6 | 2d8 | 2d4 | 2d6 |

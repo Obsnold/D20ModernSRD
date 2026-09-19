@@ -1,7 +1,7 @@
 # Magic Missile
 
 | Stat | Value |
-|------------------|---------------------------------------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Force |
 | Level | Mage 1 |

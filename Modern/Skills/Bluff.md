@@ -1,7 +1,7 @@
 # Bluff
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -34,7 +34,7 @@ A bluff requires interaction between the character and the target.
 Targets unaware of the character can’t be bluffed.
 
 | Example Circumstances | Sense Motive Modifier |
-|----------------------------------------------------------------------------------|-----------------------|
+|---|---|
 | The target wants to believe the character. | –5 |
 | The bluff is believable and doesn’t affect the target much one way or the other. | +0 |
 | The bluff is a little hard to believe or puts the target at some kind of risk. | +5 |

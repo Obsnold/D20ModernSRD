@@ -1,7 +1,7 @@
 # Perform
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -53,7 +53,7 @@ for playing wind musical instruments, such as flute, bugle, trumpet,
 tuba, bagpipes, and trombone.
 
 | Result | Performance |
-|--------|-------------------------------------------------------------------------------------|
+|---|---|
 | 10 | Amateur performance. Audience may appreciate your performance, but isn’t impressed. |
 | 15 | Routine performance. Audience enjoys your performance, but it isn’t exceptional. |
 | 20 | Great performance. Audience highly impressed. |

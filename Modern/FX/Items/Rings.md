@@ -16,7 +16,7 @@ Examples of rings include the following.
 ## Ring of Energy Resistance 15
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Ring (magic) |
 | Caster Level | 5th |
 | Purchase DC | 30 |
@@ -31,7 +31,7 @@ wearer takes no damage from the attack.
 ## Ring of Jumping
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Ring (magic) |
 | Caster Level | 1st |
 | Purchase DC | 26 |
@@ -44,7 +44,7 @@ limit.
 ## Ring of the Ram
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Ring (magic) |
 | Caster Level | 9th |
 | Purchase DC | 34 |

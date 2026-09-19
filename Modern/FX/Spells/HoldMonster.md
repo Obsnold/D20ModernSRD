@@ -1,7 +1,7 @@
 # Hold Monster
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Enchantment |
 | Descriptors | Mind-Affecting |
 | Level | Mage 5 |

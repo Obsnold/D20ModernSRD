@@ -1,7 +1,7 @@
 # Ice Storm
 
 | Stat | Value |
-|------------------|---------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Cold |
 | Level | Mage 4 |

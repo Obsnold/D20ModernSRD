@@ -1,7 +1,7 @@
 # Burst
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Dexterity |
 | Level | Telepath 0 |
 | Display | Audible |

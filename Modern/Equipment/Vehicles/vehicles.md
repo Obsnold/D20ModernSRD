@@ -51,7 +51,7 @@ vehicle on the black market.
 **Table: Vehicle Weapons**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|--------------------------------------------------------------------------|--------|----------|-------------|-----------------|--------------|----------|------|--------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|
 | ***Cannons (require the Exotic Firearms Proficiency [cannons] feat)*** | | | | | | | | | | |
 | BMP-2 30mm cannon | 4d12 | 20 | Ballistic | 300 ft. | A | Linked | Huge | * | * | * |
 | M1A2 Abrams tank cannon | 10d12 | 20 | Ballistic | 400 ft. | Single | 1 | Huge | * | * | * |

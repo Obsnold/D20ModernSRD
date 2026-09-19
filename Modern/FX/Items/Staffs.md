@@ -23,7 +23,7 @@ Examples of staffs include the following.
 ## Staff of Fire
 
 | Stat | Value |
-|--------------|---------------|
+|---|---|
 | Type | Staff (magic) |
 | Caster Level | 9th (arcane) |
 | Purchase DC | 43 |
@@ -42,7 +42,7 @@ Wall of fire (DC 17); uses 2 charges.
 ## Staff of Illumination
 
 | Stat | Value |
-|--------------|---------------|
+|---|---|
 | Type | Staff (magic) |
 | Caster Level | 9th (divine) |
 | Purchase DC | 41 |
@@ -62,7 +62,7 @@ True seeing (lasts 9 minutes; Will save DC 17); uses 2 charges.
 ## Staff of the Mind’s Eye
 
 | Stat | Value |
-|------------------|-----------------|
+|---|---|
 | Type | Staff (psionic) |
 | Manifester Level | 9th |
 | Purchase DC | 40 |

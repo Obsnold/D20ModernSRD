@@ -1,7 +1,7 @@
 # Listen
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Wis |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -24,7 +24,7 @@ A successful Listen check when there isn’t anything to hear results in
 the character hearing nothing.
 
 | DC | Sound |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|---|---|
 | –20 | Gunfire |
 | –10 | A melee battle |
 | 0 | People talking |

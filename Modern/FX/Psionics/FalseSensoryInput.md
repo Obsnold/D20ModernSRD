@@ -1,7 +1,7 @@
 # False Sensory Input
 
 | Stat | Value |
-|--------------------|-----------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Mind-Affecting |
 | Level | Telepath 3 |

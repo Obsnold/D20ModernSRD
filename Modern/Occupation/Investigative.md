@@ -6,7 +6,7 @@ detectives, criminologists, criminal profilers, espionage agents, and
 others who use their skills to gather evidence and analyze clues.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 23+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +2 |

@@ -132,7 +132,7 @@ bonus. A resulting value of +6 or higher provides the hero with multiple
 attacks.
 
 | Base Attack Bonus | Additional Attacks at |
-|-------------------|-----------------------|
+|---|---|
 | +6 | +1 |
 | +7 | +2 |
 | +8 | +3 |
@@ -241,7 +241,7 @@ Effects. The effects of each aging step are cumulative.
 
 **Table: Aging Effects**
 | Age Category | Ability Adjustments |
-|---------------------|--------------------------------------------------|
+|---|---|
 | Child (1–11) | –3 to Str and Con; –1 to Dex, Int, Wis, and Cha |
 | Young adult (12–15) | Original scores |
 | Adult (16–39) | Original scores |

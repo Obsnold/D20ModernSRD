@@ -21,7 +21,7 @@ Examples of tattoos include the following.
 ## Tattoo of Body Adjustment
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | Type | Tattoo (psionic) |
 | Manifester Level | 3rd |
 | Purchase DC | 20 |
@@ -40,7 +40,7 @@ Instantly heal 2 points of temporary ability damage.
 ## Tattoo of Natural Armor
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | Type | Tattoo (psionic) |
 | Manifester Level | 7th |
 | Purchase DC | 26 |
@@ -53,7 +53,7 @@ Defense. The effect lasts 7 minutes.
 ## Tattoo of Spider Climb
 
 | Stat | Value |
-|--------------|----------------|
+|---|---|
 | Type | Tattoo (magic) |
 | Caster Level | 3rd |
 | Purchase DC | 19 |

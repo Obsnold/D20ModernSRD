@@ -1,7 +1,7 @@
 # Craft
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -34,7 +34,7 @@ Wealth check is required to use the skill).
 ## Craft (chemical)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -47,7 +47,7 @@ acids but do not deal damage. A base of a certain type counteracts an
 acid of the same type or a less potent type.
 
 | | | Craft DCs | | |
-|------------------------------|-------------|-----------|------|---------|
+|---|---|---|---|---|
 | Type of Acid | Purchase DC | Acid | Base | Time |
 | Mild (1d6/1d10) <sup>1</sup> | 8 | 15 | 10 | 1 min. |
 | Potent (2d6/2d10) | 12 | 20 | 15 | 30 min. |
@@ -66,7 +66,7 @@ size of a brick. An explosive compound does not include a fuse or
 detonator. Connecting a fuse or detonator requires a Demolitions check.
 
 | Type of Scratch-Built Explosive | Purchase DC | Craft DC | Reflex DC (save for half damage) | Time |
-|--------------------------------------|-------------|----------|----------------------------------|---------|
+|---|---|---|---|---|
 | Improvised (1d6/5 feet) <sup>1</sup> | 6 | 10 | 10 | 1 round |
 | Simple (2d6/5 feet) | 12 | 15 | 12 | 10 min. |
 | Moderate (4d6/10 feet) | 16 | 20 | 12 | 1 hr. |
@@ -119,7 +119,7 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 **Table: Poisons**
 
 | Poison | Type | Save DC | Initial Damage | Secondary Damage | Purchase DC | Restriction | Craft DC | Time |
-|---------------------------|----------|---------|---------------------------|---------------------------|-------------|--------------|----------|--------|
+|---|---|---|---|---|---|---|---|---|
 | Arsenic | Ingested | 15 | 1d4 Str | 2d4 Con | 9 | Res (+2) | 24 | 4 hr. |
 | Atropine | Injury | 13 | 1d6 Dex | 1d6 Str | 3 | Res (+2) | 14 | 1 hr. |
 | Belladonna (plant) | Injury | 18 | 1d6 Str | 2d6 Str | 14 | Lic (+1) | n/a | n/a |
@@ -157,7 +157,7 @@ A character with the Builder feat gets a +2 bonus on all Craft
 ## Craft (electronic)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -169,10 +169,10 @@ devices, or radios and communication devices.
 When building an electronic device from scratch, the character describes
 the kind of device he or she wants to construct; then the Gamemaster
 decides whether the device is simple, moderate, complex, or advanced
-com­pared to current technology.
+compared to current technology.
 
 | Type of Scratch-Built Electronics (Examples) | Purchase DC | Craft DC | Time |
-|----------------------------------------------------|-------------|----------|--------|
+|---|---|---|---|
 | Simple (timer or detonator) | 8 | 15 | 1 hr. |
 | Moderate (radio direction finder, electronic lock) | 12 | 20 | 12 hr. |
 | Complex (cell phone) | 16 | 25 | 24 hr. |
@@ -187,7 +187,7 @@ A character with the Builder feat gets a +2 bonus on all Craft
 ## Craft (mechanical)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -200,7 +200,7 @@ decides if the device is simple, moderate, complex, or advanced compared
 to current technology.
 
 | Type of Scratch-Built Mechanical Device (Examples) | Purchase DC | Craft DC | Time |
-|-----------------------------------------------------|-------------|----------|--------|
+|---|---|---|---|
 | Simple (tripwire trap) | 5 | 15 | 1 hr |
 | Moderate (engine component, light armor) | 12 | 20 | 12 hr. |
 | Complex (automobile engine, 9mm autoloader handgun) | 16 | 25 | 24 hr. |
@@ -215,7 +215,7 @@ A character with the Builder feat gets a +2 bonus on all Craft
 ## Craft (pharmaceutical)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -230,7 +230,7 @@ to be countered as measured by the DC of the Fortitude save needed to
 resist it.
 
 | Disease Fortitude Save DC | Purchase DC | Craft DC | Time |
-|---------------------------|-------------|----------|--------|
+|---|---|---|---|
 | 14 or lower | 5 | 15 | 1 hr. |
 | 15–18 | 10 | 20 | 3 hr. |
 | 19–22 | 15 | 25 | 6 hr. |
@@ -245,7 +245,7 @@ A character with the Medical Expert feat gets a +2 bonus on all Craft
 ## Craft (structural)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -256,7 +256,7 @@ so forth, and includes such handyman skills as plumbing, house painting,
 drywall, laying cement, and building cabinets.
 
 | Type of Scratch-Built Structure (Examples) | Purchase DC | Craft DC | Time |
-|--------------------------------------------|-------------|----------|---------|
+|---|---|---|---|
 | Simple (bookcase, false wall) | 5 | 15 | 12 hr. |
 | Moderate (catapult, shed, house deck) | 10 | 20 | 24 hr. |
 | Complex (bunker, domed ceiling) | 15 | 25 | 60 hr. |
@@ -276,7 +276,7 @@ A character with the Builder feat gets a +2 bonus on all Craft
 ## Craft (visual art)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -294,7 +294,7 @@ acquire an expensive piece of equipment, the basic components have a
 purchase DC of 5.
 
 | Skill Check Result | Effort Achieved |
-|--------------------|--------------------|
+|---|---|
 | 9 or lower | Untalented amateur |
 | 10–19 | Talented amateur |
 | 20–24 | Professional |
@@ -311,7 +311,7 @@ Craft (visual art) checks.
 ## Craft (writing)
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -326,7 +326,7 @@ When creating a work of writing, the player simply makes a Craft
 No Wealth check is necessary to use this Craft skill.
 
 | Skill Check Result | Effort Achieved |
-|--------------------|--------------------|
+|---|---|
 | 9 or lower | Untalented amateur |
 | 10–19 | Talented amateur |
 | 20–24 | Professional |

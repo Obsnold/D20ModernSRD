@@ -1,7 +1,7 @@
 # Fire Storm
 
 | Stat | Value |
-|--------------------|-------------------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Descriptors | Fire |
 | Level | Battle Mind 4 |

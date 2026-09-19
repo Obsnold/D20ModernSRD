@@ -1,7 +1,7 @@
 # Cone of Cold
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Cold |
 | Level | Mage 5 |

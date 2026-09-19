@@ -1,7 +1,7 @@
 # Lesser Body Adjustment
 
 | Stat | Value |
-|--------------------|-------------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Telepath 1 |
 | Display | Audible, Material |

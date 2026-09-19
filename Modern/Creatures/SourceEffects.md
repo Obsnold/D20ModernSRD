@@ -9,7 +9,7 @@ resist the source of weakness; the DC of the save varies depending on
 the source’s strength:
 
 | Strength of Source | Save DC |
-|--------------------|---------|
+|---|---|
 | Easily resistible | 10 |
 | Moderate | 15 |
 | Strong | 20 |
@@ -135,7 +135,7 @@ susceptible to source-induced harm.
 **Table: Sources of Weakness**
 
 | d% | Source | d% | Source |
-|-------|-----------------------------------|--------|-------------------------------------|
+|---|---|---|---|
 | 01 | Alcohol or moonshine | 49 | Lilac-scented candles |
 | 02 | Amber | 50 | Mathematical equations |
 | 03 | Animated cartoons | 51 | Morphine |

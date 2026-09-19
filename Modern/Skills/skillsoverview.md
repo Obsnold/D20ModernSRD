@@ -51,7 +51,7 @@ a given situation.
 **Table: Skill Points per Level**
 
 | Class | 1st Level Skill Points | Higher Level Skill Points |
-|-------------|------------------------|---------------------------|
+|---|---|---|
 | Strong | (3 + Int modifier) x4 | 3 + Int modifier |
 | Fast | (5 + Int modifier) x4 | 5 + Int modifier |
 | Tough | (3 + Int modifier) x4 | 3 + Int modifier |
@@ -74,7 +74,7 @@ must attain to succeed.
 **Table: Difficulty Class Examples**
 
 | Difficulty (DC) | Example (Skill Used) |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Very easy (0) | Notice something large in plain sight (Spot) |
 | Easy (5) | Climb a knotted rope (Climb) |
 | Average (10) | Hear an approaching security guard (Listen) |
@@ -96,7 +96,7 @@ score wins. If those scores are the same, roll again.
 **Table: Example Opposed Checks**
 
 | Task | Skill | Opposing Skill |
-|----------------------------|-----------------|----------------|
+|---|---|---|
 | Sneak up on someone | Move Silently | Listen |
 | Con someone | Bluff | Sense Motive |
 | Hide from someone | Hide | Spot |
@@ -172,7 +172,7 @@ how movement is treated with respect to the activity. See the skill
 description for specifies on how long a skill takes to use.
 
 In general, using a skill that requires concentration while in close
-combat is dangerous. Nearby op­ponents can make attacks of opportunity
+combat is dangerous. Nearby opponents can make attacks of opportunity
 against a character when he or she lets his or her guard down.
 
 ## Tools
@@ -230,7 +230,7 @@ the character can’t take 10 on this check. If the check succeeds, the
 character’s ally gains a +2 circumstance bonus to apply to his or her
 skill check to complete the task.
 
-In many cases, a character’s help won’t be beneficial, or only a lim­ited
+In many cases, a character’s help won’t be beneficial, or only a limited
 number of characters can help at the same time. The GM limits aid
 another attempts as he or she sees fit for the conditions.
 
@@ -255,7 +255,7 @@ stronger character simply wins. In the case of identical scores, make
 opposed Strength checks.
 
 | Example Ability Check | Key Ability |
-|-----------------------------------------|--------------|
+|---|---|
 | Forcing open a jammed or locked door | Strength |
 | Tying a rope | Dexterity |
 | Holding one’s breath | Constitution |

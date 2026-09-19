@@ -20,7 +20,7 @@ or Tiny robot. Otherwise, a robot has no skills.
 ## Diminutive Robot
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------|
+|---|---|
 | CR | 1/10 |
 | Size | Diminutive |
 | Type | construct |
@@ -62,7 +62,7 @@ or Tiny robot. Otherwise, a robot has no skills.
 ## Tiny Robot
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------|
+|---|---|
 | CR | 1/4 |
 | Size | Tiny |
 | Type | construct |

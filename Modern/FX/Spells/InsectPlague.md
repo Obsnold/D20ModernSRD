@@ -1,7 +1,7 @@
 # Insect Plague
 
 | Stat | Value |
-|------------------|--------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Summoning |
 | Descriptors | see text |

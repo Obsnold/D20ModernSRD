@@ -1,7 +1,7 @@
 # Shatter
 
 | Stat | Value |
-|------------------|------------------------------------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Sonic |
 | Level | Acolyte 2 |

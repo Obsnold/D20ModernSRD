@@ -33,7 +33,7 @@ Examples of scrolls include the following.
 ## Scroll of Fireball
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Scroll |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -46,7 +46,7 @@ except that no components are required.
 ## Scroll of Neutralize Poison
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Scroll |
 | Caster Level | 7th |
 | Purchase DC | 26 |
@@ -59,7 +59,7 @@ the normal way, except that no components are required.
 ## Scroll of Raise Dead
 
 | Stat | Value |
-|--------------|--------------|
+|---|---|
 | Type | Scroll |
 | Caster Level | 9th (divine) |
 | Purchase DC | 29 |

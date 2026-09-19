@@ -20,7 +20,7 @@ on Table: Monstrous Spider Poison.
 **Table: Monstrous Spider Poison**
 
 | Spider Size | Fort Save DC | Initial/Secondary Damage |
-|-------------|--------------|--------------------------|
+|---|---|---|
 | Colossal | 35 | 2d8 Str |
 | Gargantuan | 31 | 2d6 Str |
 | Huge | 22 | 1d8 Str |
@@ -58,7 +58,7 @@ and can determine the exact location of any creature touching the web.
 **Table: Monstrous Spider Webs**
 
 | Spider Size | Escape DC | Break DC | Hit Points |
-|-------------|-----------|----------|------------|
+|---|---|---|---|
 | Colossal | 32 | 34 | 18 |
 | Gargantuan | 30 | 32 | 16 |
 | Huge | 28 | 30 | 14 |
@@ -80,7 +80,7 @@ feat Weapon Finesse (bite).
 ## Tiny Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 1/4 |
 | Size | Tiny |
 | Type | vermin |
@@ -123,7 +123,7 @@ Silently +9, Spot +12.
 ## Small Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 1/2 |
 | Size | Small |
 | Type | vermin |
@@ -166,7 +166,7 @@ Silently +9, Spot +12.
 ## Medium-size Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Medium-size |
 | Type | vermin |
@@ -209,7 +209,7 @@ Silently +9, Spot +12.
 ## Large Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 2 |
 | Size | Large |
 | Type | vermin |
@@ -252,7 +252,7 @@ Silently +9, Spot +12.
 ## Huge Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 4 |
 | Size | Huge |
 | Type | vermin |
@@ -295,7 +295,7 @@ Silently +9, Spot +12.
 ## Gargantuan Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Gargantuan |
 | Type | vermin |
@@ -338,7 +338,7 @@ Silently +9, Spot +12.
 ## Colossal Monstrous Spider
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 10 |
 | Size | Colossal |
 | Type | vermin |

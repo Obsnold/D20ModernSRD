@@ -1,7 +1,7 @@
 # NEGOTIATOR
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +2 | Conceal motive | +0 | +1 |
 | 2nd | +1 | +2 | +0 | +3 | React first | +1 | +1 |
 | 3rd | +2 | +2 | +1 | +3 | Bonus feat | +1 | +1 |

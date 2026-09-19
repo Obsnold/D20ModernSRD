@@ -103,7 +103,7 @@ Will and Weapon Finesse (bite).
 ## Werewolf in Humanoid Form (Human Strong Hero 5)
 
 | Stat | Value |
-|-------------------|---------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Medium-size |
 | Type | humanoid |
@@ -156,7 +156,7 @@ ammunition, cleaver, casual clothes.
 As humanoid form except:
 
 | Stat | Value |
-|-------------------|----------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Init | +4 |
 | Spd | 50 ft. |
 | Defense | 17 |
@@ -231,7 +231,7 @@ three-quarters of its full normal value and again after each additional
 one-quarter lost (save DC same as for full moon).
 
 | Task | DC |
-|--------------------------------------------------|----|
+|---|---|
 | Resist involuntary change | 25 |
 | Return to humanoid form (full moon <sup>1</sup>) | 25 |
 | Return to humanoid form (not full moon) | 20 |

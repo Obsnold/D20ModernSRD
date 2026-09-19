@@ -1,7 +1,7 @@
 # Telekinesis
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Mage 5 |
 | Components | V, S |

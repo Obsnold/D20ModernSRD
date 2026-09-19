@@ -17,7 +17,7 @@ Examples of potions include the following.
 ## Potion of Charisma
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -29,7 +29,7 @@ drinker’s Charisma score for 5 minutes.
 ## Potion of Constitution
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -41,7 +41,7 @@ the drinker’s Constitution score for 5 minutes.
 ## Potion of Cure Light Wounds
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 1st |
 | Purchase DC | 19 |
@@ -55,7 +55,7 @@ spells) are rumored to exist.
 ## Potion of Darkvision
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 3rd |
 | Purchase DC | 22 |
@@ -68,7 +68,7 @@ white.
 ## Potion of Dexterity
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -80,7 +80,7 @@ her Dexterity score for 5 minutes.
 ## Potion of Intelligence
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -92,7 +92,7 @@ the drinker’s Intelligence score for 5 minutes.
 ## Potion of Invisibility
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 3rd |
 | Purchase DC | 22 |
@@ -111,7 +111,7 @@ or she attacks any creature; otherwise, the effect lasts for 3 minutes.
 ## Potion of See Invisibility
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 3rd |
 | Purchase DC | 22 |
@@ -126,7 +126,7 @@ or otherwise hard to see. The effect lasts 30 minutes.
 ## Potion of Stealth
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 6th |
 | Purchase DC | 24 |
@@ -138,7 +138,7 @@ Hide and Move Silently checks for 1 hour.
 ## Potion of Strength
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |
@@ -151,7 +151,7 @@ resulting in a +5 enhancement bonus to the drinker’s Strength score for
 ## Potion of Truth
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 4th |
 | Purchase DC | 25 |
@@ -170,7 +170,7 @@ This effect is a mind-affecting enchantment.
 ## Potion of Wisdom
 
 | Stat | Value |
-|--------------|--------|
+|---|---|
 | Type | Potion |
 | Caster Level | 5th |
 | Purchase DC | 23 |

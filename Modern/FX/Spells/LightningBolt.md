@@ -1,7 +1,7 @@
 # Lightning Bolt
 
 | Stat | Value |
-|------------------|---------------------------------------------------------------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Electricity |
 | Level | Mage 3 |

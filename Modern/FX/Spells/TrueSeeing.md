@@ -1,7 +1,7 @@
 # True Seeing
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 5 |
 | Components | V, S, M |

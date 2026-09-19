@@ -5,7 +5,7 @@ unusual abilities. See Table: Dragons for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|--------------------------------------------------------------------|
+|---|---|
 | Hit Die | d12 |
 | Base Attack Bonus | Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Fortitude, Reflex, Will |
@@ -28,7 +28,7 @@ effects.
 **Table: Dragons**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 46–47 | 6–7 | 30–31 | 38d12 | 2d8 | 4d8 | 4d6 | 4d6 |
 | Gargantuan | 38–39 | 6–7 | 26–27 | 27d12 | 2d6 | 4d6 | 2d8 | 2d8 |
 | Huge | 30–31 | 6–7 | 22–23 | 19d12 | 1d8 | 2d8 | 2d6 | 2d6 |

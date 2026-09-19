@@ -1,7 +1,7 @@
 # Blur
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Illusion |
 | Level | Mage 2 |
 | Components | V |

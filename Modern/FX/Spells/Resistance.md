@@ -1,7 +1,7 @@
 # Resistance
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 0, Mage 0 |
 | Components | V, S, M/DF |

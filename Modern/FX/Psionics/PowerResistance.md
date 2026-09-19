@@ -1,7 +1,7 @@
 # Power Resistance
 
 | Stat | Value |
-|--------------------|------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Telepath 5 |
 | Display | Visual, Material |

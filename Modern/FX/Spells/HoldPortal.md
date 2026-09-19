@@ -1,7 +1,7 @@
 # Hold Portal
 
 | Stat | Value |
-|------------------|------------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Mage 1 |
 | Components | V |

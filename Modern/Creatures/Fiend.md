@@ -54,7 +54,7 @@ write these languages.
 **Table: Fiend Immunities, Resistances, and Damage Reduction**
 
 | Roll d% | Immunity | Roll d% | Resistance | Roll d% | Damage Reduction |
-|---------|----------------------------|---------|--------------------------------|---------|-------------------------------------|
+|---|---|---|---|---|---|
 | 01–06 | Acid damage | 01–21 | None (do not roll again) | 01–33 | None (do not roll again) |
 | 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type <sup>1</sup> |
 | 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type<sup>1</sup> |
@@ -73,7 +73,7 @@ write these languages.
 ## Festergog (Vomit Fiend)
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 9 |
 | Size | Huge |
 | Type | outsider |
@@ -135,7 +135,7 @@ points of damage dealt by any nonslashing weapon.
 ## Rotlord (Carrion Fiend)
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 4 |
 | Size | Large |
 | Type | outsider |
@@ -204,7 +204,7 @@ each of its two arms ends in a wicked, 3-foot-long, serrated bone blade.
 A skinhusker revels in combat and enjoys inflicting pain.
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 6 |
 | Size | Large |
 | Type | outsider |

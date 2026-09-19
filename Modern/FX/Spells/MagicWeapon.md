@@ -1,7 +1,7 @@
 # Magic Weapon
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Acolyte 1, Mage 1 |
 | Components | V, S, DF |

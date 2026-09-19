@@ -1,7 +1,7 @@
 # GUNSLINGER
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +1 | Close combat shot | +1 | +0 |
 | 2nd | +1 | +0 | +2 | +2 | Weapon focus | +1 | +0 |
 | 3rd | +2 | +1 | +2 | +2 | Bonus feat | +2 | +1 |

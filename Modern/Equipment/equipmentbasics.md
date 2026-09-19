@@ -52,7 +52,7 @@ circumstances.
 **Table: Restricted Objects**
 
 | Registration Rating | License or Fee Purchase DC | Black Market Purchase DC <sup>1</sup> | Time Required |
-|---------------------|----------------------------|---------------------------------------|---------------|
+|---|---|---|---|
 | Licensed | 10 | +1 | 1 day |
 | Restricted | 15 | +2 | 2 days |
 | Military | 20 | +3 | 3 days |
@@ -121,7 +121,7 @@ expendable objects like ammunition don’t have to be returned if used.
 **Table: Requisition Modifiers**
 
 | Situation | Modifier |
-|------------------------------------------------------|----------|
+|---|---|
 | Object is necessary for assignment | +6 |
 | Object has obvious application for assignment | +4 |
 | Object has peripheral application for assignment | +2 |
@@ -159,7 +159,7 @@ mastercraft +3 object would add +9 to the normal purchase DC.
 
 ## Concealed Weapons and Objects
 
-It’s assumed that, when attempting to conceal a weap­on or other object,
+It’s assumed that, when attempting to conceal a weapon or other object,
 a character is wearing appropriate clothing.
 
 Drawing a concealed weapon is more difficult than drawing a regularly
@@ -185,7 +185,7 @@ the check.
 **Table: Concealing Weapons and Objects**
 
 | Condition | Sleight of Hand Modifier |
-|---------------------------------------------------------|--------------------------|
+|---|---|
 | **Size of weapon or object** | |
 | Fine | +12 |
 | Diminutive | +8 |
@@ -245,7 +245,7 @@ Strength score, as shown on Table: Carrying Capacity.
 **Table: Carrying Capacity**
 
 | Strength | Light Load | Medium Load | Heavy Load |
-|----------|---------------|-------------|---------------|
+|---|---|---|---|
 | 1 | up to 3 lb. | 4–6 lb. | 7–10 lb. |
 | 2 | up to 6 lb. | 7–13 lb. | 14–20 lb. |
 | 3 | up to 10 lb. | 11–20 lb. | 21–30 lb. |
@@ -288,7 +288,7 @@ speed is reduced to the value given below, if the character is not
 already slowed to that speed for some other reason.
 
 | Previous Speed | Current Speed |
-|----------------|---------------|
+|---|---|
 | 20 ft. | 15 ft. |
 | 30 ft. | 20 ft. |
 | 40 ft. | 30 ft. |
@@ -308,7 +308,7 @@ encumbered character’s speed is reduced to the value given below, if the
 character is not already slowed to that speed for some other reason.
 
 | Previous Speed | Current Speed |
-|----------------|---------------|
+|---|---|
 | 20 ft. | 10 ft. |
 | 30 ft. | 15 ft. |
 | 40 ft. | 20 ft. |

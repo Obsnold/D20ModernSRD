@@ -1,7 +1,7 @@
 # INVESTIGATOR
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +1 | Profile | +1 | +1 |
 | 2nd | +1 | +0 | +2 | +2 | Contact, low-level | +1 | +1 |
 | 3rd | +2 | +1 | +2 | +2 | Bonus feat | +2 | +1 |

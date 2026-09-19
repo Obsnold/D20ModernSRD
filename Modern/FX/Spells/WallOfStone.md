@@ -1,7 +1,7 @@
 # Wall of Stone
 
 | Stat | Value |
-|------------------|-----------------------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Acolyte 5, Mage 5 |

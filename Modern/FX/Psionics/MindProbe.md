@@ -1,7 +1,7 @@
 # Mind Probe
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Level | Telepath 5 |
 | Display | Visual, Material, Audible |

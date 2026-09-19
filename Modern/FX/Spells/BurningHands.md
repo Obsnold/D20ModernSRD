@@ -1,7 +1,7 @@
 # Burning Hands
 
 | Stat | Value |
-|------------------|------------------------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Descriptors | Fire |
 | Level | Mage 1 |

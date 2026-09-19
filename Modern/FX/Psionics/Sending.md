@@ -1,7 +1,7 @@
 # Sending
 
 | Stat | Value |
-|--------------------|-------------------|
+|---|---|
 | Key Ability | Dexterity |
 | Level | Telepath 5 |
 | Display | Mental |

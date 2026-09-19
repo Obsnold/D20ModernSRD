@@ -1,7 +1,7 @@
 # Message
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Transmutation |
 | Descriptors | Language-Dependent |
 | Level | Mage 0 |

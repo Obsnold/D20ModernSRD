@@ -1,7 +1,7 @@
 # Glyph of Warding
 
 | Stat | Value |
-|------------------|-----------------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 3 |
 | Components | V, S, M |

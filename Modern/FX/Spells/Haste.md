@@ -1,7 +1,7 @@
 # Haste
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Mage 3 |
 | Components | V, S, M |

@@ -1,7 +1,7 @@
 # Climb
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Str |
 | Trained Only | No |
 | Armor Penalty | Yes |
@@ -66,7 +66,7 @@ rather than a full set of climbing gear to avoid the penalty.
 A character with the Athletic feat gets a +2 bonus on all Climb checks.
 
 | DC | Example Wall or Surface or Task |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 0 | A slope too steep to walk up. |
 | 5 | A knotted rope with a wall to brace against. |
 | 10 | A rope with a wall to brace against. A knotted rope. A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face. |

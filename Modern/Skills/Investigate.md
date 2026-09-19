@@ -1,7 +1,7 @@
 # Investigate
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -25,7 +25,7 @@ elapsed since the clue was left, and whether or not the scene was
 disturbed.
 
 | Circumstances | DC Modifier |
-|------------------------------------------|-------------|
+|---|---|
 | Every day since event (max modifier +10) | +2 |
 | Scene is outdoors | +5 |
 | Scene slightly disturbed | +2 |

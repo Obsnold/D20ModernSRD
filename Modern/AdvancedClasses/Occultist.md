@@ -4,7 +4,7 @@ The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
 | 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
 | 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +1 |
@@ -117,7 +117,7 @@ a scroll or a wand. If you are using the check to emulate some quality
 in an ongoing manner, you need to make the checks once per hour.
 
 | Task | DC |
-|--------------------------|-------------------|
+|---|---|
 | Activate blindly | 25 |
 | Decipher a written spell | 25 + spell level |
 | Emulate class feature | 20 |
@@ -220,7 +220,7 @@ many of these can be researched at each level. A failed Research check
 indicates that the Occultist instead discovers all random spells.
 
 | Level | 1 | 2 | 3 | 4 | Research |
-|-------|-----|-----|-----|-----|-----------|
+|---|---|---|---|---|---|
 | 2nd | 3 | — | — | — | 1 (DC 20) |
 | 3rd | 4 | — | — | — | 2 (DC 23) |
 | 4th | 5 | 2 | — | — | 3 (DC 25) |

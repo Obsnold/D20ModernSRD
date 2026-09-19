@@ -1,7 +1,7 @@
 # THE CHARISMATIC HERO
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +1 | +0 | Talent | +0 | +2 |
 | 2nd | +1 | +2 | +2 | +0 | Bonus feat | +1 | +2 |
 | 3rd | +1 | +2 | +2 | +1 | Talent | +1 | +2 |

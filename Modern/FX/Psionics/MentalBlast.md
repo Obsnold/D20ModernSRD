@@ -1,7 +1,7 @@
 # Mental Blast
 
 | Stat | Value |
-|--------------------|---------------------|
+|---|---|
 | Key Ability | Charisma |
 | Level | Telepath 3 |
 | Display | Visual |

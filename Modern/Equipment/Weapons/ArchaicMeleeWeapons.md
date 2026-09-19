@@ -17,7 +17,7 @@ weapon and a light weapon.
 **Table: Melee Weapons: Archaic Weapons (require the Archaic Weapons Proficiency feat)**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
-|------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|
 | Bayonet (fixed)**<sup>1</sup>** | 1d4/1d6 | 20 | Piercing | — | Large | 1 lb. | 7 | — |
 | Hatchet | 1d6 | 20 | Slashing | 10 ft. | Small | 4 lb. | 4 | — |
 | Longsword | 1d8 | 19–20 | Slashing | — | Med | 4 lb. | 11 | — |
@@ -31,7 +31,7 @@ weapon and a light weapon.
 
 ## Hatchet
 
-This light axe is a chopping tool that deals slashing dam­age when
+This light axe is a chopping tool that deals slashing damage when
 employed as a weapon.
 
 ## Longsword

@@ -1,7 +1,7 @@
 # Far Punch
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Battle Mind 0 |
 | Display | Visual, Mental |

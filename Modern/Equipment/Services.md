@@ -6,7 +6,7 @@ represented in overview here. Services are identified on Table:Services.
 **Table: Services**
 
 | Item | Purchase DC |
-|----------------------|----------------------------------------|
+|---|---|
 | **Auto repair** | |
 | 1 to 10 hp damage | 15 |
 | 11 to 20 hp damage | 18 |

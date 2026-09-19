@@ -1,7 +1,7 @@
 # Light
 
 | Stat | Value |
-|------------------|----------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Light |
 | Level | Acolyte 0, Mage 0 |

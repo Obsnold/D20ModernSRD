@@ -15,7 +15,7 @@ checks.
 ## Bugbear
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | CR | 2 |
 | Size | Medium-size |
 | Type | humanoid |
@@ -62,7 +62,7 @@ revolver), 50 rounds of .357 ammunition, hip holster, casual clothes.
 ## Bugbear Fast Hero 3
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------------------|
+|---|---|
 | CR | 5 |
 | Size | Medium-size |
 | Type | humanoid |
@@ -77,8 +77,8 @@ revolver), 50 rounds of .357 ammunition, hip holster, casual clothes.
 | Defense Breakdown | +1 Dex, +4 class, +3 natural, +3 undercover vest |
 | BAB | +4 |
 | Grap | +6 |
-| Atk | +6 melee (1d3+2, slam or 1d6+2/\_19–20, metal baton) |
-| Full Atk | +6 melee (1d3+2, slam or 1d6+2/\_19–20, metal baton), or +5 ranged (2d8, Mossberg) |
+| Atk | +6 melee (1d3+2, slam or 1d6+2/19–20, metal baton) |
+| Full Atk | +6 melee (1d3+2, slam or 1d6+2/19–20, metal baton), or +5 ranged (2d8, Mossberg) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
 | SQ | darkvision 60 ft., scent |

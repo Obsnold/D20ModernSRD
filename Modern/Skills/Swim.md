@@ -1,7 +1,7 @@
 # Swim
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Str |
 | Trained Only | No |
 | Armor Penalty | Yes |
@@ -30,7 +30,7 @@ fails the check, the character begins to drown.
 The DC for the Swim check depends on the water:
 
 | Water | DC |
-|--------------|----|
+|---|---|
 | Calm water | 10 |
 | Rough water | 15 |
 | Stormy water | 20 |

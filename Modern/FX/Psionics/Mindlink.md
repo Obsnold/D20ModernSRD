@@ -1,7 +1,7 @@
 # Mindlink
 
 | Stat | Value |
-|--------------------|--------------------------------------------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Level | Telepath 3 |
 | Display | Material |

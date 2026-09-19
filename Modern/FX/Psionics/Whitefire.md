@@ -1,7 +1,7 @@
 # Whitefire
 
 | Stat | Value |
-|--------------------|-------------------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Descriptors | Fire |
 | Level | Battle Mind 3 |

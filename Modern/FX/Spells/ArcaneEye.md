@@ -1,7 +1,7 @@
 # Arcane Eye
 
 | Stat | Value |
-|------------------|--------------------|
+|---|---|
 | School | Divination |
 | Level | Mage 4 |
 | Components | V, S, M |

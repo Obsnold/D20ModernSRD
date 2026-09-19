@@ -1,7 +1,7 @@
 # Brain Lock
 
 | Stat | Value |
-|--------------------|----------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Mind-Affecting |
 | Level | Telepath 2 |

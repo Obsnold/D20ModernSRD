@@ -1,7 +1,7 @@
 # Cloudkill
 
 | Stat | Value |
-|------------------|-------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Mage 5 |

@@ -1,7 +1,7 @@
 # Confusion
 
 | Stat | Value |
-|------------------|----------------------------------|
+|---|---|
 | School | Enchantment |
 | Descriptors | Mind-Affecting |
 | Level | Mage 4 |
@@ -17,7 +17,7 @@ Creatures affected by this spell behave randomly, as indicated on the
 following table.
 
 | d10 Roll | Behavior |
-|----------|---------------------------------------------|
+|---|---|
 | 1 | Wander away for 1 minute (unless prevented) |
 | 2–6 | Do nothing for 1 round |
 | 7–9 | Attack nearest creature for 1 round |

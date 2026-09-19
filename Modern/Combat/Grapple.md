@@ -48,7 +48,7 @@ from Table: Grapple **Modifiers.**
 **Table: Grapple Modifiers**
 
 | Size (Example) | Grapple Modifier |
-|-----------------------------------------|------------------|
+|---|---|
 | Colossal (blue whale [90 ft. long]) | +16 |
 | Gargantuan (gray whale [40 ft. long]) | +12 |
 | Huge (elephant) | +8 |

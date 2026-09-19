@@ -1,7 +1,7 @@
 # Jump
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Str |
 | Trained Only | No |
 | Armor Penalty | Yes |
@@ -41,7 +41,7 @@ feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
 | <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
-|-------------------------------|---------------------------|-------------------------------|---------------------------|
+|---|---|---|---|
 | 5 feet | 5 | 20 feet | 20 |
 | 10 feet | 10 | 25 feet | 25 |
 | 15 feet | 15 | 30 feet | 30 |
@@ -64,7 +64,7 @@ feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
 | <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
-|-------------------------------|---------------------------|-------------------------------|---------------------------|
+|---|---|---|---|
 | 1 foot | 4 | 5 feet | 20 |
 | 2 feet | 8 | 6 feet | 24 |
 | 3 feet | 12 | 7 feet | 28 |
@@ -86,7 +86,7 @@ creature, a typical human can reach 8 feet without jumping.) If the
 creature is long instead of tall, treat it as one size category smaller.
 
 | Creature Size | Maximum Height |
-|---------------|----------------|
+|---|---|
 | Colossal | 128 ft. |
 | Gargantuan | 64 ft. |
 | Huge | 32 ft. |

@@ -6,7 +6,7 @@ outdoors.
 **Table: General Equipment: Survival Gear**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | Backpack | Med | 3 lb. | 10 | — |
 | **Binoculars** | | | | |
 | Standard | Small | 2 lb. | 7 | — |

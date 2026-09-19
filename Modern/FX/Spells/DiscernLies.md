@@ -1,7 +1,7 @@
 # Discern Lies
 
 | Stat | Value |
-|------------------|-------------------------------------------------------------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 4 |
 | Components | V, S, DF |

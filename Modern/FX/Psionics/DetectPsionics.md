@@ -1,14 +1,14 @@
 # Detect Psionics
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Telepath 0/Battle Mind 0 |
 | Display | Visual, Audible |
 | Manifestation Time | Attack action |
 | Range | 60 ft. |
 | Area | Quarter-circle emanating from you to the extreme of the range |
-| Duration | Concentration, up to 1 minute/\_level (D) |
+| Duration | Concentration, up to 1 minute/level (D) |
 | Saving Throw | None |
 | Power Resistance | No |
 | Power Point Cost | 1 |
@@ -34,7 +34,7 @@ Aura Strength: An aura’s psionic power and strength depend on a power’s
 functioning power level or an item’s manifester level.
 
 | Functioning Power Level | Item Manifester Level | Aura Power |
-|---------------------------|-----------------------|------------|
+|---|---|---|
 | 0-level or lingering aura | Lingering aura | Dim |
 | 1st–3rd | 1st–5th | Faint |
 | 4th–5th | — | Moderate |
@@ -46,7 +46,7 @@ Length Aura Lingers: How long the aura lingers after the source has
 vacated the area depends on the aura’s original strength.
 
 | Original Aura Power | Duration |
-|---------------------|------------------|
+|---|---|
 | Dim | 1 minute |
 | Faint | 1d6 minutes |
 | Moderate | 1d6 x 10 minutes |

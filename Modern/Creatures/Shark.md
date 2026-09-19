@@ -13,7 +13,7 @@ radius and detect blood in the water at ranges of up to one mile.
 ## Shark
 
 | Stat | Value |
-|-------------------|---------------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Medium-size |
 | Type | animal |

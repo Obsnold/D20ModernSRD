@@ -1,7 +1,7 @@
 # Claws of the Bear
 
 | Stat | Value |
-|--------------------|------------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Battle Mind 2 |
 | Display | Visual, Material |

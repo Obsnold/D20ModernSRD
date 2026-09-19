@@ -1,7 +1,7 @@
 # Prestidigitation
 
 | Stat | Value |
-|-------------------------|---------------|
+|---|---|
 | School | Universal |
 | Level | Mage 0 |
 | Components | V, S |

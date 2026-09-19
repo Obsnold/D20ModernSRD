@@ -1,7 +1,7 @@
 # Cure Serious Wounds
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Healing |
 | Level | Acolyte 3 |

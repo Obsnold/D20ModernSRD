@@ -1,7 +1,7 @@
 # BODYGUARD
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|--------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +2 | +0 | Harm’s way | +1 | +0 |
 | 2nd | +1 | +2 | +3 | +0 | Combat sense +1 | +1 | +0 |
 | 3rd | +2 | +2 | +3 | +1 | Bonus feat | +2 | +1 |

@@ -15,7 +15,7 @@ one-quarter cover).
 **Table: Vehicles: Civilian Cars**
 
 | Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|--------------------------------------|------|------|------------|------|----------|-------------|---------|----------|------------|------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Acura 3.2 TL (mid-size sedan) | 1 | 4 | 300 lb. | –2 | –1 | 265 (26) | 8 | 5 | 34 | H | 29 | Lic (+1) |
 | Aston-Martin Vanquish (sports coupe) | 1 | 1 | 175 lb. | –2 | +0 | 335 (33) | 8 | 5 | 34 | H | 36 | Lic (+1) |
 | BMW M3 (sports coupe) | 1 | 4 | 200 lb. | –2 | +1 | 275 (27) | 8 | 5 | 32 | H | 30 | Lic (+1) |

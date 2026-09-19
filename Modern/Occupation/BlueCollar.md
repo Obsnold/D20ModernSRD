@@ -5,7 +5,7 @@ construction, service industry jobs, taxi drivers, postal workers, and
 other jobs that are usually not considered to be desk jobs.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 18+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +2 |

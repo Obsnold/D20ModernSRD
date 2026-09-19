@@ -1,7 +1,7 @@
 # Object Reading
 
 | Stat | Value |
-|--------------------|-------------------------------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Telepath 1 |
 | Display | Audible, Material |

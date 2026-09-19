@@ -5,7 +5,7 @@ dimension, reality, or plane. See Table: Outsiders for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|--------------------------------------------------------------------|
+|---|---|
 | Hit Die | d8 |
 | Base Attack Bonus | Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Fortitude, Reflex, Will |
@@ -31,7 +31,7 @@ feet.
 **Table: Outsiders**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 44–47 | 6–7 | 28–29 | 32d8 | 4d6 | 4d6 | 2d8 | 2d6 |
 | Gargantuan | 36–39 | 6–7 | 24–25 | 16d8 | 2d8 | 2d8 | 2d6 | 1d8 |
 | Huge | 28–31 | 6–7 | 20–21 | 8d8 | 2d6 | 2d6 | 2d4 | 1d6 |

@@ -1,7 +1,7 @@
 # Mind Darts
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Level | Battle Mind 3 |
 | Display | Visual (see text) |

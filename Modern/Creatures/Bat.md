@@ -13,7 +13,7 @@ checks. These bonuses are lost if the bat’s blindsight is negated.
 ## Bat
 
 | Stat | Value |
-|-------------------|--------------------------|
+|---|---|
 | CR | 1/10 |
 | Size | Diminutive |
 | Type | animal |

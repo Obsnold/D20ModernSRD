@@ -4,7 +4,7 @@ A plant is a vegetable creature. See Table: Plants for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d8 |
 | Base Attack Bonus | 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Fortitude |
@@ -31,7 +31,7 @@ blindsight with a range of 60 feet.
 **Table: Plants**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-------|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 44–45 | 6–7 | 28–29 | 32d8 | 4d6 | 2d6 | 2d8 | 4d6 |
 | Gargantuan | 36–37 | 6–7 | 24–25 | 16d8 | 2d8 | 1d8 | 2d6 | 2d8 |
 | Huge | 28–29 | 6–7 | 20–21 | 4d8 | 2d6 | 1d6 | 2d4 | 2d6 |

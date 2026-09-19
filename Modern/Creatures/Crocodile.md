@@ -16,7 +16,7 @@ submerged.
 ## Medium-Size Crocodile
 
 | Stat | Value |
-|-------------------|---------------------------------------------------------|
+|---|---|
 | CR | 2 |
 | Size | Medium-size |
 | Type | animal |
@@ -58,7 +58,7 @@ submerged.
 ## Huge Crocodile
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------|
+|---|---|
 | CR | 4 |
 | Size | Huge |
 | Type | animal |

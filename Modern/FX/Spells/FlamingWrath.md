@@ -1,7 +1,7 @@
 # Flaming Wrath
 
 | Stat | Value |
-|------------------|---------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Fire |
 | Level | Acolyte 5 |

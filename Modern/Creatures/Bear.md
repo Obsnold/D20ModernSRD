@@ -13,7 +13,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Bear
 
 | Stat | Value |
-|-------------------|---------------------------------------------------|
+|---|---|
 | CR | 4 |
 | Size | Large |
 | Type | animal |

@@ -49,7 +49,7 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 ## Puppeteer
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Fine |
 | Type | vermin |
@@ -91,7 +91,7 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 ## Puppeteer Host (Human Charismatic Ordinary 5)
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------------------------------|
+|---|---|
 | CR | 5 |
 | Size | Medium-size |
 | Type | humanoid |

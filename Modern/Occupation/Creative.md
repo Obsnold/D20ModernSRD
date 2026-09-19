@@ -7,7 +7,7 @@ sculptors, game designers, musicians, screenwriters, photographers, and
 web designers all fall under this occupation.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 15+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +2 |

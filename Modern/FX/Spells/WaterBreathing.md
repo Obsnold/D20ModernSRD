@@ -1,7 +1,7 @@
 # Water Breathing
 
 | Stat | Value |
-|------------------|--------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Acolyte 3, Mage 3 |
 | Components | V, S, M/DF |

@@ -1,7 +1,7 @@
 # Knock
 
 | Stat | Value |
-|------------------|----------------------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Mage 2 |
 | Components | V |

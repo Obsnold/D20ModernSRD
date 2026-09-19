@@ -9,7 +9,7 @@ ongoing subscription costs.
 **Table: General Equipment: Computers and Consumer Electronics**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | **Camera** | | | | |
 | 35mm | Small | 2 lb. | 17 | — |
 | Digital | Tiny | 0.5 lb. | 14 | — |
@@ -128,7 +128,7 @@ but can’t be used for Computer Use or Research checks.
 
 This object looks much like a bulky cell phone, and functions in much
 the same way as well. However, because it communicates directly via
-satellite, it can be used any­where on earth, even in remote areas well
+satellite, it can be used anywhere on earth, even in remote areas well
 beyond the extent of cell phone service.
 
 Portable satellite phones are very expensive to use. When used in a

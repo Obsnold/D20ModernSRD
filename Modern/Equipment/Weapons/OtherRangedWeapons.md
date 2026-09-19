@@ -8,7 +8,7 @@ Ranged Weapons.
 **Table: Ranged Weapons: Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---------------------------------------------------------------------------------|---------------------|----------|---------------------|--------------------|--------------|----------|-------|---------|-------------|--------------|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Compound bow (Archaic)<sup>2</sup> | 1d8 | 20 | Piercing | 40 ft. | 1 | — | Large | 3 lb. | 10 | — |
 | Crossbow (Simple) | 1d10 | 19–20 | Piercing | 40 ft. | 1 | 1 int. | Med | 7 lb. | 9 | — |
 | Flamethrower (no feat needed)<sup>3</sup> | 3d6 | — | Fire | — | 1 | 10 int. | Large | 50 lb. | 17 | Mil (+3) |

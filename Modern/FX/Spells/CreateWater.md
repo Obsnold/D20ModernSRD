@@ -1,7 +1,7 @@
 # Create Water
 
 | Stat | Value |
-|------------------|---------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Acolyte 0 |

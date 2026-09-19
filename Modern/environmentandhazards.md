@@ -9,7 +9,7 @@ light source illuminates and how long it lasts.
 **Table: Light Sources**
 
 | Item | Light | Duration |
-|-----------------|----------|----------|
+|---|---|---|
 | Candle | 5 feet | 12 hours |
 | Torch | 20 feet | 2 hours |
 | Halogen lantern | 40 feet | 24 hours |
@@ -157,7 +157,7 @@ The GM can modify the DCs for these checks based on the circumstances.
 **Table: Damage from Falling Objects**
 
 | Object Size | Examples | Initial Damage | Reflex Save DC | Strength Check DC |
-|-------------|-------------|----------------|----------------|-------------------|
+|---|---|---|---|---|
 | Fine | Penny | 0 | n/a | n/a |
 | Diminutive | Paperweight | 1 | 0 | n/a |
 | Tiny | Wrench | 1d3 | 5 | n/a |
@@ -237,7 +237,7 @@ damage is taken each day the saving throw fails.
 **Table: Diseases**
 
 | Disease | Type | Incubation Period | Initial Damage | Secondary Damage |
-|----------------------|-----------------------|-------------------|-----------------|-----------------------|
+|---|---|---|---|---|
 | Anthrax | Inhaled/Injury DC 16 | 1d2 days | 1 Con | 1d4 Con\* |
 | Small pox | Inhaled/Contact DC 15 | 2d4 days | 1 Str and 1 Con | 1d2 Str and 1d2 Con |
 | Pneumonia | Inhaled DC 12 | 1d4 days | 1 Str | 1d3 Str and 1d3 Con |
@@ -256,7 +256,7 @@ varies depending on the acid’s strength, as noted on Table: Acid Damage.
 **Table: Acid Damage**
 
 | Acid Strength | Splash Attack\* | Total Immersion\* |
-|---------------|-----------------|-------------------|
+|---|---|---|
 | Mild | 1d6 | 1d10 |
 | Potent | 2d6 | 2d10 |
 | Concentrated | 3d6 | 3d10 |
@@ -284,7 +284,7 @@ the current, a successful save indicates that no damage is suffered.
 **Table: Electricity Damage**
 
 | Type | Examples | Damage | Fort DC |
-|----------------|----------------------------------------|--------|---------|
+|---|---|---|---|
 | Jolt | Car battery, stun gun | 1d3 | 10 |
 | Low voltage | Fuse box, electrical socket | 2d6 | 15 |
 | Medium voltage | Industrial transformer, electric fence | 4d6 | 15 |

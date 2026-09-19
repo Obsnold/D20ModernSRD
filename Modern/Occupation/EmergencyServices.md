@@ -4,7 +4,7 @@ Rescue workers, firefighters, paramedics, hazardous material handlers,
 and emergency medical technicians fall under this category.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 18+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +2 |

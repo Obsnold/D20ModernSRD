@@ -5,7 +5,7 @@ could be in a seminary, a military school, or a private institution. A
 college-age student should also pick a major field of study.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 15+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +1 |

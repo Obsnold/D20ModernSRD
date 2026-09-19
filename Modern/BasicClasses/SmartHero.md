@@ -1,7 +1,7 @@
 # THE SMART HERO
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Talent | +0 | +1 |
 | 2nd | +1 | +0 | +0 | +2 | Bonus feat | +1 | +1 |
 | 3rd | +1 | +1 | +1 | +2 | Talent | +1 | +1 |
@@ -175,7 +175,7 @@ check provides the Smart hero and allies with a circumstance bonus. A
 Smart hero can’t take 10 or 20 when making this check.
 
 | Check Result | Bonus |
-|--------------|-------------------|
+|---|---|
 | 9 or lower | +0 (check failed) |
 | 10–14 | +1 |
 | 15–24 | +2 |

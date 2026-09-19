@@ -1,7 +1,7 @@
 # Delay Poison
 
 | Stat | Value |
-|------------------|------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Healing |
 | Level | Acolyte 2 |

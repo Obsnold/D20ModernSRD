@@ -9,7 +9,7 @@ improvised explosives.
 **Table: Splash Weapons**
 
 | **Weapon** | **Direct Hit Damage** | **Splash Damage** | **Critical<sup>2</sup>** | **Damage Type** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | Restriction |
-|------------------------------|-----------------------|-------------------|--------------------------|-----------------|---------------|---------------------|----------|------------|-----------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Acid, mild | 1d6 | 1 | 20 | Acid | — | 10 ft. | Tiny | 1 lb. | 6 | — |
 | Molotov cocktail<sup>1</sup> | 1d6 | 1 | 20 | Fire | — | 10 ft. | Small | 1 lb. | 3 | — |
 

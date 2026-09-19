@@ -5,7 +5,7 @@ navy, air force, and marines, as well as the various elite training
 units such as Seals, Rangers, and Special Forces.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 18+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +1 |

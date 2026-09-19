@@ -1,7 +1,7 @@
 # Concentration
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Con |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -57,10 +57,10 @@ psionics.
 
 Making a Concentration check doesn’t require an action; it is
 either a reaction (when attempted in response to a distraction) or part
-of another action (when at­tempted actively).
+of another action (when attempted actively).
 
 | Distraction | DC |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|---|---|
 | Damaged during the action <sup>1</sup> | 10 + damage dealt |
 | Taking continuous damage during the action<sup>2</sup> | 10 + half of continuous damage last dealt |
 | Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse) | 10 |

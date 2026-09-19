@@ -1,7 +1,7 @@
 # Levitate
 
 | Stat | Value |
-|--------------------|------------------------------------------------------------------------------|
+|---|---|
 | Key Ability | Dexterity |
 | Level | Telepath 2 |
 | Display | Olfactory |

@@ -10,7 +10,7 @@ daylight.
 ## Hawk
 
 | Stat | Value |
-|-------------------|------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Tiny |
 | Type | animal |

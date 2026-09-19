@@ -4,7 +4,7 @@ Law enforcement personnel include uniformed police, state troopers,
 federal police, federal agents, SWAT team members, and military police.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 20+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +1 |

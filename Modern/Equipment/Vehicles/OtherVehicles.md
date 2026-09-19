@@ -9,7 +9,7 @@ typical model.
 **Table: Vehicles: Other Civilian Vehicles**
 
 | Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|--------------------------------------|------|------|------------|------|----------|-------------|---------|----------|------------|------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Armored truck | 2 | 0 | 3,600 lb. | –2 | –2 | 175 (17) | 8 | 10 | 36 | H | 34 | Res (+2) |
 | Honda TRX400FW (4-wheel ATV) | 1 | 0 | 675 lb. | –1 | +1 | 95 (9) | 9 | 5 | 22 | L | 23 | Lic (+1) |
 | Limousine | 1 | 7 | 425 lb. | –4 | –4 | 195 (19) | 6 | 5 | 38 | G | 36 | Lic (+1) |

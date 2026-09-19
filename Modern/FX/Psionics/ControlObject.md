@@ -1,7 +1,7 @@
 # Control Object
 
 | Stat | Value |
-|--------------------|-------------------------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Telepath 1 |
 | Display | Material |

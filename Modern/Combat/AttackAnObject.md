@@ -15,7 +15,7 @@ Table: Size and Defense of Objects.
 **Table: Size and Defense of Objects**
 
 | Size (Example) | Defense |
-|-----------------------------|---------|
+|---|---|
 | Colossal (jetliner) | –3 |
 | Gargantuan (army tank) | 1 |
 | Huge (typical car) | 3 |
@@ -51,7 +51,7 @@ Object Hardness and Hit Points).
 **Table: Substance Hardness and Hit Points**
 
 | Substance | Hardness | Hit Points | |
-|---------------|----------|----------------------|--|
+|---|---|---|---|
 | Paper | 0 | 2/inch of thickness | |
 | Rope | 0 | 2/inch of thickness | |
 | Plastic, soft | 0 | 3/inch of thickness | |
@@ -67,7 +67,7 @@ Object Hardness and Hit Points).
 **Table: Object Hardness and Hit Points**
 
 | Object | Hardness | Hit Points | Break DC |
-|--------------------------------------|----------|------------|----------|
+|---|---|---|---|
 | **Lock** | | | |
 | Cheap | 0 | 1 | 10 |
 | Average | 3 | 5 | 15 |

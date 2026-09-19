@@ -1,7 +1,7 @@
 # Greater Magic Weapon
 
 | Stat | Value |
-|------------------|-------------------------------------------------------------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Acolyte 4, Mage 3 |
 | Components | V, S, M/DF |

@@ -1,7 +1,7 @@
 # Computer Use
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -25,7 +25,7 @@ application of the Computer Use skill only pertains to finding files on
 private systems with which the character is not familiar.
 
 | Size of Site | DC | Time |
-|---------------------------|----|------------|
+|---|---|---|
 | Personal computer | 10 | 1 round |
 | Small office network | 15 | 2 rounds |
 | Large office network | 20 | 1 minute |
@@ -47,7 +47,7 @@ that site until the end of the character’s session (see Computer Hacking
 below).
 
 | Level of Security | DC |
-|-------------------|----|
+|---|---|
 | Minimum | 20 |
 | Average | 25 |
 | Exceptional | 35 |
@@ -159,7 +159,7 @@ A character can degrade the programming of multiple computers at a
 single site; doing so adds +2 to the DC for each additional computer.
 
 | Scope of Alteration | DC | Time |
-|---------------------|----|------------|
+|---|---|---|
 | Crash computer | 10 | 1 minute |
 | Destroy programming | 15 | 10 minutes |
 | Damage programming | 20 | 10 minutes |
@@ -185,7 +185,7 @@ equipment. An alerted administrator may attempt to identify the
 character or cut off his or her access to the system.
 
 | Type of Operation | DC | Time |
-|-----------------------------------------------------------------|-----|---------------------|
+|---|---|---|
 | Shut down passive remote (including cameras and door locks) | 20 | 1 round per remote |
 | Shut down active remote (including motion detectors and alarms) | 25 | 1 round per remote |
 | Reset parameters | 30 | 1 minute per remote |

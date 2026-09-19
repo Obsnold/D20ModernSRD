@@ -22,7 +22,7 @@ languages.
 ## Medusa
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Medium-size |
 | Type | monstrous humanoid |
@@ -71,7 +71,7 @@ overcoat.
 ## Medusa Charismatic Hero 2
 
 | Stat | Value |
-|-------------------|---------------------------------------------------------------------------------------------|
+|---|---|
 | CR | 9 |
 | Size | Medium-size |
 | Type | monstrous humanoid |

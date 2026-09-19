@@ -1,7 +1,7 @@
 # PERSONALITY
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +1 | +0 | Unlimited access | +0 | +2 |
 | 2nd | +1 | +2 | +2 | +0 | Bonus class skill | +1 | +2 |
 | 3rd | +1 | +2 | +2 | +1 | Bonus feat | +1 | +2 |
@@ -71,7 +71,7 @@ she can make a Diplomacy check to get that ticket upgraded. DCs are
 given below.
 
 | Upgrade | Diplomacy DC |
-|---------------------------------------------|--------------|
+|---|---|
 | Seat at sporting event to field pass | 10 |
 | Hotel room to suite | 15 |
 | Concert or theater ticket to backstage pass | 20 |

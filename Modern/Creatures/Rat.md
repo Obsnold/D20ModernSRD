@@ -15,7 +15,7 @@ Dexterity modifier for Climb checks.
 ## Rat
 
 | Stat | Value |
-|-------------------|-----------------------------------|
+|---|---|
 | CR | 1/8 |
 | Size | Tiny |
 | Type | animal |

@@ -1,7 +1,7 @@
 # Mass Cure Light Wounds
 
 | Stat | Value |
-|------------------|-------------------------------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Healing |
 | Level | Acolyte 5 |

@@ -1,7 +1,7 @@
 # Darkvision
 
 | Stat | Value |
-|--------------------|--------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Battle Mind 2 |
 | Display | Visual |

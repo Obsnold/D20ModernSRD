@@ -4,7 +4,7 @@ Academics include librarians, archaeologists, scholars, professors,
 teachers, and other education professionals.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 23+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +3 |

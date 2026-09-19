@@ -5,7 +5,7 @@ supernatural forces. See Table: Undead for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
 | Stat | Value |
-|--------------------|---------------------------------------------------------------------------|
+|---|---|
 | Hit Die | d12 |
 | Base Attack Bonus | 1/2 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
 | Good Saving Throws | Will |
@@ -46,7 +46,7 @@ immediately if reduced to 0 hit points or less.
 **Table: Undead**
 
 | Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
-|-------------|-------|-------|-----|------------|------|------|------|------|
+|---|---|---|---|---|---|---|---|---|
 | Colossal | 44–45 | 6–7 | — | 32d12 | 4d6 | 4d6 | 2d8 | 2d6 |
 | Gargantuan | 36–37 | 6–7 | — | 21d12 | 2d8 | 2d8 | 2d6 | 1d8 |
 | Huge | 28–29 | 6–7 | — | 10d12 | 2d6 | 2d6 | 2d4 | 1d6 |

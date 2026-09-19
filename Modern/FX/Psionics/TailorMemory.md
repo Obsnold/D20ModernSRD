@@ -1,7 +1,7 @@
 # Tailor Memory
 
 | Stat | Value |
-|--------------------|--------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Mind-Affecting |
 | Level | Telepath 4 |

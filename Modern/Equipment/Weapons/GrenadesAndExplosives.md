@@ -17,7 +17,7 @@ The purchase DC given is for a box of 6 grenades.
 **Table: Grenades and Explosives**
 
 | **Weapon** | **Damage** | **Critical** | **Damage Type** | **Burst Radius** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
-|----------------------------|------------|--------------|-----------------|------------------|---------------|---------------------|----------|------------|-----------------|-----------------|
+|---|---|---|---|---|---|---|---|---|---|---|
 | 40mm fragmentation grenade | 3d6 | — | Slashing | 10 ft. | 15 | — | Tiny | 1 lb. | 16 | Mil (+3) |
 | C4/Semtex | 4d6 | — | Concussion | 10 ft. | 18 | — | Small | 1 lb. | 12 | Mil (+3) |
 | Det cord | 2d6 | — | Fire | See text | 12 | — | Med | 2 lb. | 8 | Res (+2) |

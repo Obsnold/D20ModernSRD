@@ -1,7 +1,7 @@
 # Mage Hand
 
 | Stat | Value |
-|------------------|----------------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Mage 0 |
 | Components | V, S |

@@ -1,7 +1,7 @@
 # Handle Animal
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | Yes |
 | Armor Penalty | No |
@@ -12,7 +12,7 @@ The time required to get an effect and the DC depend on what
 the character is trying to do.
 
 | Task | Time | DC |
-|-------------------------------|-------------------|----------|
+|---|---|---|
 | Handle an animal | Move action | 10 |
 | “Push” an animal | Full-round action | 25 |
 | Teach an animal a trick | 1 week | See text |
@@ -119,7 +119,7 @@ Come and Work.
 **Hunting (DC 20, 6 weeks):** An animal trained for hunting knows
 Attack, Down, Fetch, Heel, Seek, and Track.
 
-**Performing (DC 15, 4 weeks):** An animal trained for per­forming knows
+**Performing (DC 15, 4 weeks):** An animal trained for performing knows
 Come, Fetch, Heel, Perform, and Stay.
 
 **Riding (DC 15; 3 weeks):** An animal trained to bear a rider knows

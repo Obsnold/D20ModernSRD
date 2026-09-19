@@ -1,7 +1,7 @@
 # INFILTRATOR
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +2 | +0 | Sweep | +1 | +1 |
 | 2nd | +1 | +0 | +3 | +0 | Improvised implements | +2 | +1 |
 | 3rd | +1 | +1 | +3 | +1 | Bonus feat | +2 | +1 |

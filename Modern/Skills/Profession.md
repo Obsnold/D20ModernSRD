@@ -1,7 +1,7 @@
 # Profession
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Wis |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -25,7 +25,7 @@ ranks the character has in this skill increases his or her Wealth bonus
 as follows.
 
 | Ranks | Wealth Bonus Increase |
-|-------|-----------------------|
+|---|---|
 | 1–5 | +1 |
 | 6–10 | +2 |
 | 11–15 | +3 |

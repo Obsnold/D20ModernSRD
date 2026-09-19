@@ -1,7 +1,7 @@
 # Power Device
 
 | Stat | Value |
-|------------------|--------------------------------------------|
+|---|---|
 | School | Transmutation |
 | Level | Mage 1 |
 | Components | V, S |

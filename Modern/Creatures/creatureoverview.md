@@ -453,7 +453,7 @@ depending on its type.
 
 Table: Adjustments to Physical Abilities and Natural Armor
 | Old Size 1 | New Size | Str | Dex | Con | Natural Armor Improvement |
-|-------------|-------------|-----|-----|-----|---------------------------|
+|---|---|---|---|---|---|
 | Fine | Diminutive | — | –2 | — | — |
 | Diminutive | Tiny | +2 | –2 | — | — |
 | Tiny | Small | +4 | –2 | — | — |
@@ -467,7 +467,7 @@ Table: Adjustments to Physical Abilities and Natural Armor
 
 Table: Bonus Skill Points and Feats by Creature Type
 | Type | Bonus Skill Points | Bonus Feats |
-|--------------------|---------------------------------|-------------------|
+|---|---|---|
 | Aberration | +2 per extra HD | +1 per 4 extra HD |
 | Animal | — | — |
 | Construct | — | — |
@@ -512,7 +512,7 @@ abilities, which are noted here.
 
 Table: Skill Points per Class Level for Nonhumans
 | Basic Class | Skill Points per Level 1 |
-|----------------------------------|--------------------------|
+|---|---|
 | Strong | 2 + Int modifier |
 | Fast | 4 + Int modifier |
 | Tough | 2 + Int modifier |

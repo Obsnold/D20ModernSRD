@@ -1,7 +1,7 @@
 # Shield of Faith
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 1 |
 | Components | V, S, M |

@@ -1,7 +1,7 @@
 # BATTLE MIND
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +2 | +0 | +0 | Psionic skills, psionic powers | +1 | +0 |
 | 2nd | +1 | +3 | +0 | +0 | Psi-blade, imprint tattoo, psionic powers | +2 | +0 |
 | 3rd | +2 | +3 | +1 | +1 | Bonus feat, psionic powers | +2 | +0 |
@@ -74,7 +74,7 @@ threats while also gaining a few select benefits.
 **Check:** The DC and effect depend on the task you attempt.
 
 | Task | DC |
-|-----------------|-------------|
+|---|---|
 | Resist fear | 15 |
 | Memorize | 15 |
 | Tolerate poison | Poison’s DC |
@@ -165,7 +165,7 @@ The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Battle Mind’s key ability modifier.
 
 | Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | |
-|-------------------|---------|--------------------------------------|-------|-------|-------|-------|
+|---|---|---|---|---|---|---|
 | | | **0** | **1** | **2** | **3** | **4** |
 | 1st | 2 | 2 | — | — | — | — |
 | 2nd | 3 | 3 | — | — | — | — |

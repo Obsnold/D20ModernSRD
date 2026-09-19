@@ -1,7 +1,7 @@
 # Domination
 
 | Stat | Value |
-|--------------------|-------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Compulsion, Mind-Affecting |
 | Level | Telepath 4 |

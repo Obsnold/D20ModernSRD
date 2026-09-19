@@ -26,7 +26,7 @@ penalty on the attack roll when firing at an adjacent target.
 **Table: Ranged Weapons: Longarms (require the Personal Firearms Proficiency feat)**
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---------------------------------------------------------------------------------|---------------------|----------|---------------------|--------------------|--------------|----------|-------|---------|-------------|--------------|
+|---|---|---|---|---|---|---|---|---|---|---|
 | AKM/AK-47 (7.62mmR assault rifle) | 2d8 | 20 | Ballistic | 70 ft. | S, A | 30 box | Large | 10 lb. | 15 | Res (+2) |
 | Barrett Light Fifty (.50 sniper rifle) | 2d12 | 20 | Ballistic | 120 ft. | S | 11 box | Huge | 35 lb. | 22 | Lic (+1) |
 | Benelli 121 M1 (12-gague shotgun) | 2d8 | 20 | Ballistic | 40 ft. | S | 7 int | Large | 8 lb. | 17 | Lic (+1) |

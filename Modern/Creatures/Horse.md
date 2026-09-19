@@ -11,7 +11,7 @@ Qualities for more information.
 ## Horse
 
 | Stat | Value |
-|-------------------|-----------------------------|
+|---|---|
 | CR | 1 |
 | Size | Large |
 | Type | animal |

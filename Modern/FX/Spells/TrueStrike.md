@@ -1,7 +1,7 @@
 # True Strike
 
 | Stat | Value |
-|--------------|---------------|
+|---|---|
 | School | Divination |
 | Level | Mage 1 |
 | Components | V, F |

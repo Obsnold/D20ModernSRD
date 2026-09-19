@@ -3,7 +3,7 @@
 This section covers the wide variety of general gear available to
 adventurers of all sorts.
 
-Many of the objects in this section are battery-­operated. Any device
+Many of the objects in this section are battery-operated. Any device
 that uses batteries comes with them. As a general rule, ignore battery
 life—assume that heroes (and their antagonists) are smart enough to
 recharge or replace their batteries between adventures, and that the

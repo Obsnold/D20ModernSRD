@@ -1,7 +1,7 @@
 # Charm Person
 
 | Stat | Value |
-|--------------------|------------------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Compulsion, Mind-Affecting, Language-Dependent |
 | Level | Telepath 1 |

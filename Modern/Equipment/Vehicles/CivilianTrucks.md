@@ -10,7 +10,7 @@ one-half cover.
 **Table: Vehicles: Civilian Trucks**
 
 | Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|--------------------------------------|------|------|------------|------|----------|-------------|---------|----------|------------|------|-------------|-------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | AM General Hummer (SUV) | 1 | 3 | 1,000 lb. | –2 | –2 | 140 (14) | 8 | 5 | 38 | H | 34 | Lic (+1) |
 | Chevrolet Suburban (SUV) | 1 | 8 | 500 lb. | –2 | –2 | 175 (17) | 8 | 5 | 38 | H | 30 | Lic (+1) |
 | Dodge Caravan (minivan) | 1 | 4 | 325 lb. | –2 | –2 | 195 (19) | 8 | 5 | 34 | H | 28 | Lic (+1) |

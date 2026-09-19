@@ -1,7 +1,7 @@
 # Prayer
 
 | Stat | Value |
-|------------------|------------------------------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Acolyte 3 |

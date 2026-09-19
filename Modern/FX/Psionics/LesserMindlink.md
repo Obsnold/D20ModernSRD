@@ -1,7 +1,7 @@
 # Lesser Mindlink
 
 | Stat | Value |
-|--------------------|----------------------------------------------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Level | Telepath 1 |
 | Display | Material |

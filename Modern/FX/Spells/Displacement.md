@@ -1,7 +1,7 @@
 # Displacement
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Illusion |
 | Level | Mage 3 |
 | Components | V, M |

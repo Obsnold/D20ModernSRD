@@ -1,7 +1,7 @@
 # Missive
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Charisma |
 | Descriptors | Language-Dependent |
 | Level | Telepath 0 |

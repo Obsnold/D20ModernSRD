@@ -1,7 +1,7 @@
 # Gather Information
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -22,7 +22,7 @@ increases accordingly for the type of information the character seeks to
 gather, as given in the table below.
 
 | Type of Information | DC | Purchase DC |
-|---------------------|----|-------------|
+|---|---|---|
 | General | 10 | 5 |
 | Specific | 15 | 10 |
 | Restricted | 20 | 15 |

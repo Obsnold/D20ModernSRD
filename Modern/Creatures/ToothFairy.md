@@ -27,7 +27,7 @@ Proficiency.
 ## Tooth Fairy
 
 | Stat | Value |
-|-------------------|---------------------------------------------------|
+|---|---|
 | CR | 1 |
 | Size | Medium-size |
 | Type | fey |
@@ -73,7 +73,7 @@ Proficiency.
 ## Tooth Fairy Fast Hero 3/Smart Hero 1
 
 | Stat | Value |
-|-------------------|--------------------------------------------------------------|
+|---|---|
 | CR | 5 |
 | Size | Medium-size |
 | Type | fey |

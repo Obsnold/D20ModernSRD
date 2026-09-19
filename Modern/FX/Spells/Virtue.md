@@ -1,7 +1,7 @@
 # Virtue
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Transmutation |
 | Level | Acolyte 0 |
 | Components | V, S, DF |

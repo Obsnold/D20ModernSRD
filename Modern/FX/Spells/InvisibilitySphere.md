@@ -1,7 +1,7 @@
 # Invisibility Sphere
 
 | Stat | Value |
-|------------------|------------------------------------------------------------|
+|---|---|
 | School | Illusion |
 | Level | Mage 3 |
 | Components | V, S, M |

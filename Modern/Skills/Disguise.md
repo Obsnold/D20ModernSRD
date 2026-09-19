@@ -1,7 +1,7 @@
 # Disguise
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -24,7 +24,7 @@ The effectiveness of the character’s disguise depends in part on how
 much the character is attempting to change his or her appearance.
 
 | Disguise | Modifier |
-|-------------------------------------|-----------------|
+|---|---|
 | Minor details only | +5 |
 | Appropriate uniform or costume | +2 |
 | Disguised as different sex | –2 |
@@ -37,7 +37,7 @@ know what that person looks like automatically get to make Spot checks.
 Furthermore, they get a bonus on their Spot checks.
 
 | Familiarity | Bonus |
-|---------------------|-------|
+|---|---|
 | Recognizes on sight | +4 |
 | Friend or associate | +6 |
 | Close friend | +8 |

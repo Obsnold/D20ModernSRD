@@ -1,7 +1,7 @@
 # Animate Dead
 
 | Stat | Value |
-|------------------|-----------------------------|
+|---|---|
 | School | Necromancy |
 | Descriptors | Evil |
 | Level | Acolyte 3, Mage 4 |

@@ -1,7 +1,7 @@
 # Lesser Concussion
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Battle Mind 1 |
 | Display | Audible |

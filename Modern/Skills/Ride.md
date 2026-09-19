@@ -1,7 +1,7 @@
 # Ride
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Dex |
 | Trained Only | No |
 | Armor Penalty | No |

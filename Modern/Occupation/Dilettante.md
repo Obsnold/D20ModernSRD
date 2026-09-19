@@ -7,7 +7,7 @@ might be a charity or philanthropic foundation, an ideal or cause worth
 fighting for, or a lust for living a fun and carefree existence.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 18+ |
 | Reputation Bonus Increase | +1 |
 | Wealth Bonus Increase | +6 |

@@ -1,7 +1,7 @@
 # Clairaudience/Clairvoyance
 
 | Stat | Value |
-|--------------------|--------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Telepath 2 |
 | Display | Visual, Audible |

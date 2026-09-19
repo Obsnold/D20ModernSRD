@@ -1,7 +1,7 @@
 # Far Hand
 
 | Stat | Value |
-|--------------------|----------------------------------------------|
+|---|---|
 | Key Ability | Constitution |
 | Level | Telepath 0 |
 | Display | Visual |

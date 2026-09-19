@@ -11,7 +11,7 @@ Bonus Feat: Owls gain the bonus feat Weapon Finesse (claw).
 ## Owl
 
 | Stat | Value |
-|-------------------|------------------------------|
+|---|---|
 | CR | 1/4 |
 | Size | Tiny |
 | Type | animal |

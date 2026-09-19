@@ -6,7 +6,7 @@ thrill-seekers, and others called to face danger for a variety of
 reasons.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 15+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +1 |

@@ -1,7 +1,7 @@
 # Comprehend Languages
 
 | Stat | Value |
-|--------------|-------------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 1, Mage 1 |
 | Components | V, S, M/DF |

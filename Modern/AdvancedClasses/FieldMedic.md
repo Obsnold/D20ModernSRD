@@ -1,7 +1,7 @@
 # FIELD MEDIC
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +2 | +0 | +1 | Medical specialist +1 | +1 | +1 |
 | 2nd | +1 | +3 | +0 | +2 | Expert healer | +1 | +1 |
 | 3rd | +1 | +3 | +1 | +2 | Bonus feat | +2 | +1 |

@@ -5,7 +5,7 @@ experts on religious studies fall within the scope of this starting
 occupation.
 
 | Stat | Value |
-|---------------------------|---------|
+|---|---|
 | Prerequisite | Age 23+ |
 | Reputation Bonus Increase | — |
 | Wealth Bonus Increase | +2 |

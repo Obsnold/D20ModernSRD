@@ -1,7 +1,7 @@
 # Inflict Serious Wounds
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 3 |
 | Components | V, S |

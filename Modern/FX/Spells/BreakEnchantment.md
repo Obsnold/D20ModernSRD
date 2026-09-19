@@ -1,7 +1,7 @@
 # Break Enchantment
 
 | Stat | Value |
-|-------------------|---------------------------------------------------------------|
+|---|---|
 | School | Abjuration |
 | Level | Acolyte 5 |
 | Components | V, S |

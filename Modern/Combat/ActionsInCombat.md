@@ -29,7 +29,7 @@ before the same initiative count that they began on.
 **Table: Actions in Combat**
 
 | Attack Actions | Attack of Opportunity<sup>1</sup> |
-|------------------------------------------------------|---------------------------------------|
+|---|---|
 | Attack (melee) | No |
 | Attack (ranged) | Yes |
 | Attack (unarmed) | Yes |
@@ -380,7 +380,7 @@ apply as if the off-hand weapon were light.
 **Table: Two-Weapon Fighting Penalties**
 
 | Circumstances | Primary Hand | Off Hand |
-|-------------------------------------------------------|--------------|----------|
+|---|---|---|
 | Normal penalties | –6 | –10 |
 | Off-hand weapon is light | –4 | –8 |
 | Two-Weapon Fighting feat | –4 | –4 |

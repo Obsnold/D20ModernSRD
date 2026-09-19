@@ -223,7 +223,7 @@ spell is lost..
 **Table: FX Actions in Combat**
 
 | Attack Actions | AoO? |
-|-----------------------------------------------------|------|
+|---|---|
 | Activate a ring, rod, staff, wand, or wondrous item | No |
 | Cast a spell (attack action casting time) | Yes |
 | Concentrate to maintain an active spell or power | No |
@@ -713,9 +713,8 @@ and pays the power point cost.
 A power’s cost is determined by its level, as shown below. Every power’s
 cost is also noted in its description for easy reference.
 
-| | | | | | | |
-|------------------|-------|---|---|---|---|---|
 | Power Level | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|---|
 | Power point cost | 0/1\* | 1 | 3 | 5 | 7 | 9 |
 
 \*A psionic character can manifest any 0-level power he or she knows a

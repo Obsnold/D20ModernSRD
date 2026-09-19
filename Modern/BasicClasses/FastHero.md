@@ -1,7 +1,7 @@
 # THE FAST HERO
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +0 | Talent | +3 | +0 |
 | 2nd | +1 | +0 | +2 | +0 | Bonus feat | +4 | +0 |
 | 3rd | +2 | +1 | +2 | +1 | Talent | +4 | +1 |

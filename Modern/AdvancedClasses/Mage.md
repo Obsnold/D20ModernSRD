@@ -4,7 +4,7 @@ The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +2 | Arcane skills, arcane spells, summon familiar | +1 | +1 |
 | 2nd | +1 | +0 | +0 | +3 | Scribe scroll, arcane spells | +1 | +1 |
 | 3rd | +1 | +1 | +1 | +3 | Bonus feat, arcane spells, brew potion | +2 | +1 |
@@ -121,7 +121,7 @@ description.
 move action.
 
 | DC | Task |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again. |
 | 15 + spell level | Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft. |
 | 15 + spell level | Prepare a spell from a borrowed spellbook. One try per day. |
@@ -142,7 +142,7 @@ spells based on his Intelligence score. Determine the Mage’s total
 number of spells per day by consulting the two tables below.
 
 | Mage Level | ———— Spells per Day by Spell Level ———— | | | | | |
-|---------------|-------------------------------------------|-------|-------|-------|-------|-------|
+|---|---|---|---|---|---|---|
 | | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1st | 3 | 1 | — | — | — | — |
 | 2nd | 4 | 2 | — | — | — | — |
@@ -185,7 +185,7 @@ depends on the type of armor being worn and whether the Mage has the
 appropriate Armor Proficiency feat, as shown below.
 
 | Armor Type | Arcane Spell Failure (Proficient) | Arcane Spell Failure (Nonproficient) |
-|------------|-----------------------------------|--------------------------------------|
+|---|---|---|
 | Light | 10% | 20% |
 | Medium | 20% | 30% |
 | Heavy | 30% | 40% |
@@ -225,7 +225,7 @@ only Mage levels. Any levels from classes other than Mage are not
 included in this calculation unless specifically stated otherwise.
 
 | Familiar | Special Benefit |
-|--------------------|--------------------------------------------------------|
+|---|---|
 | Bat | Mage gains +3 bonus on Listen checks |
 | Cat | Mage gains +3 bonus on Move Silently checks |
 | Ferret | Mage gains +2 bonus on Reflex saves |

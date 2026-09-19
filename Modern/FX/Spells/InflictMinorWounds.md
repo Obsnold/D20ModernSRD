@@ -1,7 +1,7 @@
 # Inflict Minor Wounds
 
 | Stat | Value |
-|------------------|------------------|
+|---|---|
 | School | Necromancy |
 | Level | Acolyte 0 |
 | Components | V, S |

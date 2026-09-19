@@ -7,7 +7,7 @@ home rather than renting. Lifestyle items are shown on the table below.
 **Table : Lifestyle Items**
 
 | Housing | Purchase DC |
-|----------------------------|-------------|
+|---|---|
 | Small condo | 28 |
 | Large condo | 30 |
 | Small house | 30 |

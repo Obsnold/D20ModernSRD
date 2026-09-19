@@ -1,7 +1,7 @@
 # Fireball
 
 | Stat | Value |
-|------------------|-------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Fire |
 | Level | Mage 3 |

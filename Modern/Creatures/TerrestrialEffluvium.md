@@ -21,7 +21,7 @@ points of damage to the creature each round.
 ## Terrestrial Effluvium
 
 | Stat | Value |
-|-------------------|----------------------------------------------------------------------|
+|---|---|
 | CR | 15 |
 | Size | Colossal |
 | Type | ooze |

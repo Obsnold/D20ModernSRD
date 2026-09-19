@@ -1,7 +1,7 @@
 # MARTIAL ARTIST
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
 | 2nd | +2 | +0 | +3 | +0 | Flying kick | +2 | +0 |
 | 3rd | +3 | +1 | +3 | +1 | Bonus feat | +2 | +0 |

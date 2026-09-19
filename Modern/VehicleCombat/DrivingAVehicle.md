@@ -82,7 +82,7 @@ control of the vehicle (see Losing Control). Failing to avoid an object
 results in a collision with the object (see Collisions and Ramming).
 
 | Hazard | DC |
-|----------------------------|-------------------|
+|---|---|
 | Caltrops | 15 |
 | Oil slick | 15 |
 | **Object** | |
@@ -109,7 +109,7 @@ against a DC equal to the DC for the bootleg turn attempted (see Losing
 Control).
 
 | Facing Change | DC |
-|---------------|----|
+|---|---|
 | 45 degrees | 5 |
 | 90 degrees | 10 |
 | 135 degrees | 15 |
@@ -174,7 +174,7 @@ into it (or collides with the far side). Determine damage as for a
 collision (see Collisions and Ramming).
 
 | Gap Width | DC |
-|-------------------------------------|-------------|
+|---|---|
 | 1–3 ft. (ditch) | 15 |
 | 4–8 ft. (culvert) | 20 |
 | 8–15 ft. (creek, small ravine) | 25 |
@@ -227,7 +227,7 @@ The DC for a sideswipe is 15. It’s modified by the relative size and
 speed of the target.
 
 | Target Condition | DC Modifier |
-|-----------------------------------|-------------|
+|---|---|
 | Each size category larger | –5 |
 | Each size category smaller | +5 |
 | Each speed category of difference | –2 |

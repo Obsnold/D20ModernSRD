@@ -8,7 +8,7 @@ Hide checks.
 ## Toad
 
 | Stat | Value |
-|-------------------|-----------------|
+|---|---|
 | CR | 1/10 |
 | Size | Diminutive |
 | Type | animal |

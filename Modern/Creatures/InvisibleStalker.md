@@ -23,7 +23,7 @@ other languages.
 ## Invisible Stalker
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------|
+|---|---|
 | CR | 7 |
 | Size | Large |
 | Type | elemental (air) |
@@ -65,7 +65,7 @@ other languages.
 ## Advanced Invisible Stalker
 
 | Stat | Value |
-|-------------------|-----------------------------------------------------------------------|
+|---|---|
 | CR | 11 |
 | Size | Huge |
 | Type | elemental (air) |

@@ -1,7 +1,7 @@
 # Navigate
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Int |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -32,7 +32,7 @@ can try again. The character keeps trying until he or she succeeds,
 losing half a day for each failure.
 
 | Length of Trip | DC |
-|----------------------------|----|
+|---|---|
 | Short (a few hours) | 20 |
 | Moderate (a day or two) | 22 |
 | Long (up to a week) | 25 |

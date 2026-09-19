@@ -6,7 +6,7 @@ can increase their utility or efficiency.
 **Table: General Equipment: Weapon Accessories**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | Box magazine | Tiny | 0.5 lb. | 4 | — |
 | **Detonator** | | | | |
 | Blasting cap | Tiny | 0.5 lb. | 4 | Lic (+1) |

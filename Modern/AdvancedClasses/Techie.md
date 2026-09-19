@@ -1,7 +1,7 @@
 # TECHIE
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
 | 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
 | 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
@@ -80,7 +80,7 @@ Craft check depends on the type of improvement being made, as shown on
 the table below.
 
 | Improvement | Craft DC | Repair Chance (d%) |
-|----------------------------|----------|--------------------|
+|---|---|---|
 | **Ranged Weapons** | | |
 | +1 to damage | 15 | 01–25 |
 | +2 to damage | 20 | 01–50 |
@@ -141,7 +141,7 @@ The purchase DC for the components needed to construct a robot is based
 on the robot’s size.
 
 | Size | Purchase DC |
-|------------|-------------|
+|---|---|
 | Diminutive | 18 |
 | Tiny | 15 |
 
@@ -155,7 +155,7 @@ The DC of the Craft (mechanical) check is set by the robot’s size and
 modified by the form of locomotion selected.
 
 | Size | Craft DC |
-|--------------------------------------------|-------------|
+|---|---|
 | Diminutive | 15 |
 | Tiny | 12 |
 | **Components** | DC Modifier |

@@ -65,7 +65,7 @@ fire can be set on autofire or be used with feats that take advantage of
 automatic fire.
 
 **Magazine:** The weapon’s magazine capacity and type are given in this
-column. The amount of ammunition a weap­on carries, and hence how many
+column. The amount of ammunition a weapon carries, and hence how many
 shots it can fire before needing to be reloaded, is determined by its
 magazine capacity. How the firearm is reloaded depends upon its magazine
 type. The number in this entry is the magazine’s capacity in shots; the

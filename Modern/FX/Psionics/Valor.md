@@ -1,7 +1,7 @@
 # Valor
 
 | Stat | Value |
-|--------------------|---------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Battle Mind 0 |
 | Display | Audible |

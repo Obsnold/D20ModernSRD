@@ -1,7 +1,7 @@
 # Finger of Fire
 
 | Stat | Value |
-|--------------------|---------------------------------|
+|---|---|
 | Key Ability | Intelligence |
 | Descriptors | Fire |
 | Level | Telepath 0/ Battle Mind 0 |

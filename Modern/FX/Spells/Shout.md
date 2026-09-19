@@ -1,7 +1,7 @@
 # Shout
 
 | Stat | Value |
-|------------------|---------------------------------------|
+|---|---|
 | School | Evocation |
 | Descriptors | Sonic |
 | Level | Mage 4 |

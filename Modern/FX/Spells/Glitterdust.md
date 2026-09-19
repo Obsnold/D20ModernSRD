@@ -1,7 +1,7 @@
 # Glitterdust
 
 | Stat | Value |
-|------------------|--------------------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Level | Mage 2 |

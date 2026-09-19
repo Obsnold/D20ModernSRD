@@ -4,7 +4,7 @@ The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are possible.
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |
 | 2nd | +1 | +0 | +0 | +3 | Trigger power, psionic powers | +1 | +1 |
 | 3rd | +1 | +1 | +1 | +3 | Bonus feat, psionic powers | +1 | +1 |
@@ -76,7 +76,7 @@ threats while also gaining a few select benefits.
 **Check:** The DC and effect depend on the task you attempt.
 
 | Task | DC |
-|-----------------|-------------|
+|---|---|
 | Resist fear | 15 |
 | Memorize | 15 |
 | Tolerate poison | Poison’s DC |
@@ -150,7 +150,7 @@ or psionic effects already in place.
 **Check:** You can identify psionic powers and effects.
 
 | DC | Task |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 15 + power level | Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. |
 | 20 + power level | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again. |
 | 20 + power level | Identify materials created or shaped by psionics. You can’t try again. |
@@ -185,7 +185,7 @@ The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Telepath’s key ability modifier.
 
 | Telepath Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | | |
-|----------------|---------|--------------------------------------|-------|-------|-------|-------|-------|
+|---|---|---|---|---|---|---|---|
 | | | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1st | 2 | 3 | 1 | — | — | — | — |
 | 2nd | 3 | 3 | 2 | — | — | — | — |
@@ -207,7 +207,7 @@ determined by the Telepath’s Charisma score, as shown on the table
 below.
 
 | Cha Score | Bonus Power Points per Day |
-|-----------|----------------------------|
+|---|---|
 | 12–13 | 1 |
 | 14–15 | 3 |
 | 16–17 | 5 |

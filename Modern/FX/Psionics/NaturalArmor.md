@@ -1,7 +1,7 @@
 # Natural Armor
 
 | Stat | Value |
-|--------------------|---------------------|
+|---|---|
 | Key Ability | Strength |
 | Level | Battle Mind 4 |
 | Display | Olfactory, Material |

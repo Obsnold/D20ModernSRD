@@ -1,7 +1,7 @@
 # Invisibility
 
 | Stat | Value |
-|------------------|-----------------------------------------------------------------|
+|---|---|
 | School | Illusion |
 | Level | Mage 2 |
 | Components | V, S, M |

@@ -1,7 +1,7 @@
 # Sleep
 
 | Stat | Value |
-|------------------|-------------------------------------------------------|
+|---|---|
 | School | Enchantment |
 | Descriptors | Mind-Affecting |
 | Level | Mage 1 |

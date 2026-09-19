@@ -1,7 +1,7 @@
 # SHADOW SLAYER
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |
 | 2nd | +2 | +2 | +2 | +2 | Shadow immunity | +1 | +0 |
 | 3rd | +3 | +2 | +2 | +2 | Bonus feat | +2 | +0 |
@@ -94,14 +94,14 @@ type of creature or object emitting the aura and its Hit Dice or caster
 level.
 
 | Creature/Object | Rating |
-|-----------------------------------------------------------|--------------------|
+|---|---|
 | Outsider | HD |
 | Magic item or spell | Caster level x 1/2 |
 | Aberration, construct, dragon, elemental, undead creature | HD x 1/2 |
 | All other denizens of Shadow | HD x 1/5 |
 
 | Rating | Aura Power |
-|--------------|--------------|
+|---|---|
 | 1 or lower | Faint |
 | 2–4 | Moderate |
 | 5–10 | Strong |
@@ -116,7 +116,7 @@ creature or object has vacated the location depends on the aura’s
 original strength.
 
 | Original Aura Power | Duration |
-|---------------------|------------------|
+|---|---|
 | Faint | 1d6 minutes |
 | Moderate | 1d6 x 10 minutes |
 | Strong | 1d6 hours |
@@ -211,7 +211,7 @@ slaying affects any denizens of Shadow within 15 feet of the Slayer. The
 ill effects depend on the Hit Dice of the creatures, as shown below.
 
 | HD | Effect |
-|------------|-----------|
+|---|---|
 | 12 or more | Dazed |
 | 8–11 | Stunned |
 | 4–7 | Paralyzed |

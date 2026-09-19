@@ -8,7 +8,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Deinonychus
 
 | Stat | Value |
-|-------------------|-------------------------------------------------------------------------------|
+|---|---|
 | CR | 3 |
 | Size | Large |
 | Type | animal |

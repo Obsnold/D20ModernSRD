@@ -1,7 +1,7 @@
 # ACOLYTE
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|---------------------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +2 | +0 | +2 | Divine skills, divine spells | +1 | +2 |
 | 2nd | +1 | +3 | +0 | +3 | Turn or rebuke undead, divine spells | +1 | +2 |
 | 3rd | +2 | +3 | +1 | +3 | Bonus feat, divine spells | +2 | +2 |
@@ -129,7 +129,7 @@ description.
 **Time:** Unless otherwise indicated, Spellcraft is a move action.
 
 | DC | Task |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again. |
 | 15 + spell level | When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) |
 | 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again. |
@@ -151,7 +151,7 @@ receives bonus spells based on her Wisdom score. Determine the Acolyte’s
 total number of spells per day by consulting the two tables below.
 
 | Acolyte Level | ———— Spells per Day by Spell Level ———— | | | | | |
-|---------------|-------------------------------------------|-------|-------|-------|-------|-------|
+|---|---|---|---|---|---|---|
 | | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1st | 3 | 2 | — | — | — | — |
 | 2nd | 4 | 3 | — | — | — | — |
@@ -223,7 +223,7 @@ turning attempt, you can’t turn any creature whose Hit Dice exceeds the
 result of your turning check.
 
 | Turning Check Result | Most Powerful Creature Affected (Maximum Hit Dice) |
-|----------------------|----------------------------------------------------|
+|---|---|
 | 0 or lower | Acolyte level –4 |
 | 1–3 | Acolyte level –3 |
 | 4–6 | Acolyte level –2 |

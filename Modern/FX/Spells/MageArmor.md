@@ -1,7 +1,7 @@
 # Mage Armor
 
 | Stat | Value |
-|------------------|-------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Creation |
 | Descriptors | Force |

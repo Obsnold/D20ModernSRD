@@ -15,7 +15,7 @@ as guides.
 **Table: Defense Modifiers**
 
 | Circumstance | Melee | Ranged |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------|
+|---|---|---|
 | Defender sitting or kneeling | –2 | +2<sup>1</sup> |
 | Defender prone | –4 | +4<sup>1</sup> |
 | Defender stunned or cowering | –2<sup>2</sup> | –2<sup>2</sup> |
@@ -35,7 +35,7 @@ as guides.
 **Table: Attack Roll Modifiers**
 
 | Circumstance | Melee | Ranged |
-|----------------------------------------|----------------|----------------|
+|---|---|---|
 | Attacker flanking defender<sup>1</sup> | +2 | — |
 | Attacker on higher ground | +1 | +0 |
 | Attacker prone | –4 | –2 |
@@ -103,7 +103,7 @@ or her dodge bonus, if the character so desires.
 **Table: Cover**
 
 | Degree of Cover (Example) | Cover Bonus to Defense | Reflex Saves |
-|----------------------------------------------------------------------------------------------------------------|------------------------|-----------------|
+|---|---|---|
 | One-quarter (standing behind a 3-ft. high wall) | +2 | +1 |
 | One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4 | +2 |
 | Three-quarters (peering around a corner or a big tree) | +7 | +3 |
@@ -138,7 +138,7 @@ chance. Do not add the miss chances together.
 **Table: Concealment**
 
 | Concealment (Example) | Miss Chance |
-|----------------------------------------------------------------------------|--------------------------------------|
+|---|---|
 | One-quarter (light fog; light foliage) | 10% |
 | One-half (shadows; dense fog at 5 ft.) | 20% |
 | Three-quarters (dense foliage) | 30% |

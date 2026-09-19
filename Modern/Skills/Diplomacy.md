@@ -1,7 +1,7 @@
 # Diplomacy
 
 | Stat | Value |
-|---------------|-------|
+|---|---|
 | Key Ability | Cha |
 | Trained Only | No |
 | Armor Penalty | No |
@@ -45,7 +45,7 @@ Diplomacy is at least a full-round action. The GM may
 determine that some negotiations require a longer period of time.
 
 | Attitude | Means | Possible Actions | | | |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|------------|--------------|-------------|
+|---|---|---|---|---|---|
 | Hostile | Will take risks to hurt or avoid you | Attack, interfere, berate, flee | | | |
 | Unfriendly | Wishes you ill | Mislead, gossip, avoid, watch suspiciously, insult | | | |
 | Indifferent | Doesn’t much care | Act as socially expected | | | |
@@ -82,7 +82,7 @@ check. For every point by which the hero beats the DC, increase the
 bonus by +1 (to a total maximum bonus of +10).
 
 | Bribe Target | Purchase DC |
-|----------------|-------------|
+|---|---|
 | Bouncer | 6 |
 | Bureaucrat | 10 |
 | Informant | 7 |

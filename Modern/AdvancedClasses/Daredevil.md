@@ -1,7 +1,7 @@
 # DAREDEVIL
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
+|---|---|---|---|---|---|---|---|
 | 1st | +0 | +2 | +0 | +0 | Fearless | +1 | +0 |
 | 2nd | +1 | +3 | +0 | +0 | Nip-up | +2 | +0 |
 | 3rd | +1 | +3 | +1 | +1 | Bonus feat | +2 | +1 |

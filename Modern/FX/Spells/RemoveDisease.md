@@ -1,7 +1,7 @@
 # Remove Disease
 
 | Stat | Value |
-|------------------|------------------------------|
+|---|---|
 | School | Conjuration |
 | Subschool | Healing |
 | Level | Acolyte 3 |

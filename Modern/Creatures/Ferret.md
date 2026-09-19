@@ -19,7 +19,7 @@ Dexterity modifier for Climb checks.
 ## Ferret
 
 | Stat | Value |
-|-------------------|---------------------------------|
+|---|---|
 | CR | 1/4 |
 | Size | Tiny |
 | Type | animal |

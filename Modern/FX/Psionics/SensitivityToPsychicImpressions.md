@@ -1,7 +1,7 @@
 # Sensitivity to Psychic Impressions
 
 | Stat | Value |
-|--------------------|----------------------------------------------------------------------|
+|---|---|
 | Key Ability | Wisdom |
 | Level | Telepath 2 |
 | Display | Audible, Material |

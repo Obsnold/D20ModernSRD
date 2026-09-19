@@ -1,7 +1,7 @@
 # Augury
 
 | Stat | Value |
-|--------------|---------------|
+|---|---|
 | School | Divination |
 | Level | Acolyte 2 |
 | Components | V, S, F |

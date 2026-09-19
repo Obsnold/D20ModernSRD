@@ -7,7 +7,7 @@ around in.
 **Table: General Equipment: Bags and Boxes**
 
 | Object | Size | Weight | Purchase DC | Restriction |
-|----------------------------------------|-------|---------|-------------|--------------|
+|---|---|---|---|---|
 | **Aluminum travel case** | | | | |
 | 10 lb. Capacity | Med | 5 lb. | 10 | — |
 | 40 lb. Capacity | Large | 10 lb. | 11 | — |
