@@ -1,0 +1,58 @@
+# Melee Weapons
+
+Melee weapons are used in close combat, and they are generally among the
+simplest types of weapons. The feat that provides proficiency with these
+weapons varies from weapon to weapon; some are considered simple weapons
+(covered by the Simple Weapons Proficiency feat); others are archaic
+(Archaic Weapons Proficiency) or exotic (Exotic Melee Weapon
+Proficiency).
+
+A character’s Strength modifier is always added to a melee weapon’s
+attack roll and damage roll.
+
+## Melee Weapons Table
+
+Melee weapons are described by a number of statistics, as shown on
+Table: Melee Weapons.
+
+**Damage:** The damage the weapon deals on a successful hit.
+
+**Critical:** The threat range for a critical hit. If the threat is
+confirmed, a weapon deals double damage on a critical hit (roll damage
+twice, as if hitting the target two times).
+
+**Damage Type:** Melee weapon damage is classified according to type:
+bludgeoning (weapons with a blunt striking surface), energy (of a
+specific type), piercing (weapons with a sharp point), and slashing
+(weapons with an edged blade). Some creatures or characters may be
+resistant or immune to some forms of damage.
+
+**Range Increment:** Melee weapons that are designed to be thrown can be
+used to make ranged attacks. As such, they have a range increment just
+as other ranged weapons do—but the maximum range for a thrown weapon is
+five range increments instead of ten.
+
+Any attack at less than the given range increment is not penalized for
+range. However, each full range increment causes a cumulative –2 penalty
+on the attack roll.
+
+**Size:** Size categories for weapons and other objects are defined
+differently from the size categories for creatures. The relationship
+between a weapon’s size and that of its wielder defines whether it can
+be used one-handed, if it requires two hands, and if it’s a light
+weapon.
+
+A Medium-size or smaller weapon can be used one-handed or two-handed. A
+Large weapon requires two hands.
+
+A Small or smaller weapon is considered a light weapon. It can be used
+one-handed and, as a light weapon, is easier to use in a character’s off
+hand.
+
+**Weight:** This column gives the weapon’s weight.
+
+**Purchase DC:** This is the purchase DC for a Wealth check to acquire
+the weapon.
+
+**Restriction:** None of the following melee weapons have restrictions
+on their purchase.

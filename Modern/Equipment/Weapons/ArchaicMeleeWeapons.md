@@ -1,0 +1,68 @@
+# Archaic Melee Weapons
+
+Most of these weapons deal damage by means of a blade or a sharp point.
+Some of them are moderately expensive, reflecting their archaic nature
+in modern-day society.
+
+**Bayonet (Fixed)**
+
+The statistics given describe a bayonet fixed at the end of a longarm
+with an appropriate mount. With the bayonet fixed, the longarm becomes a
+double weapon—clublike at one end and spearlike at the other. A
+character can fight with it as if fighting with two weapons, but if the
+character does so, he or she incurs all the normal attack penalties
+associated with fighting with two weapons, as if using a one-handed
+weapon and a light weapon.
+
+**Table: Melee Weapons: Archaic Weapons (require the Archaic Weapons Proficiency feat)**
+
+| Weapon                                                                                   | Damage          | Critical | Damage Type | Range Increment | Size  | Weight  | Purchase DC | Restriction |
+|------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
+| Bayonet (fixed)**<sup>1</sup>**                                                          | 1d4/1d6         | 20       | Piercing    | —               | Large | 1 lb.   | 7           | —           |
+| Hatchet                                                                                  | 1d6             | 20       | Slashing    | 10 ft.          | Small | 4 lb.   | 4           | —           |
+| Longsword                                                                                | 1d8             | 19–20    | Slashing    | —               | Med   | 4 lb.   | 11          | —           |
+| Machete                                                                                  | 1d6             | 19–20    | Slashing    | —               | Small | 2 lb.   | 5           | —           |
+| Rapier                                                                                   | 1d6             | 18–20    | Piercing    | —               | Med   | 3 lb.   | 10          | —           |
+| Spear                                                                                    | 1d8             | 20       | Piercing    | —               | Large | 9 lb.   | 6           | —           |
+| Straight razor                                                                           | 1d4             | 19–20    | Slashing    | —               | Tiny  | 0.5 lb. | 4           | —           |
+| Sword cane**<sup>1</sup>**                                                               | 1d6             | 18–20    | Piercing    | —               | Med   | 3 lb.   | 9           | —           |
+
+1<sup> </sup>See the description of this weapon for special rules.
+
+## Hatchet
+
+This light axe is a chopping tool that deals slashing dam­age when
+employed as a weapon.
+
+## Longsword
+
+This classic, straight blade is the weapon of knighthood and valor.
+
+## Machete
+
+This long-bladed tool looks much like a short, lightweight sword.
+
+## Rapier
+
+The rapier is a lightweight sword with a thin blade. A character can
+select the Weapon Finesse feat to apply his or her Dexterity modifier
+instead of Strength modifier to attack rolls with a rapier.
+
+## Spear
+
+This primitive device is a reach weapon. A character can strike
+opponents 10 feet away with it, but can’t use it against an adjacent
+foe.
+
+## Straight Razor
+
+Favored by old-school organized crime “mechanics,” this item can still
+be found in some barbershops and shaving kits.
+
+## Sword Cane
+
+This is a lightweight, concealed sword that hides its blade in the shaft
+of a walking stick or umbrella. Because of this special construction, a
+sword cane is always considered to be concealed; it is noticed only with
+a Spot check (DC 18). (The walking stick or umbrella is not concealed,
+only the blade within.)

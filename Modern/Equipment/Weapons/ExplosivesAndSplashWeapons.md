@@ -1,0 +1,82 @@
+# Explosives and Splash Weapons
+
+These weapons explode or burst, dealing damage to creatures or objects
+within an area.
+
+Explosives can be thrown or set off in place, depending on the type of
+explosive device. Dynamite and hand grenades are examples of these
+weapons.
+
+All explosives must be detonated. Some, such as grenades, include
+built-in detonators. (Pulling the pin on a grenade is a free action.)
+Others require timers or other devices to set them off. Detonators are
+covered in Weapon Accessories.
+
+A splash weapon is a projectile that bursts on impact, spewing its
+contents over an area and damaging any creature or object within that
+area. Generally, creatures directly hit by splash weapons take the most
+damage, while those nearby take less damage. Splash weapons usually must
+be thrown to have effect.
+
+Explosives and splash weapons require no feat to use with proficiency
+unless they are fired or propelled from some sort of launcher or other
+device, in which case the appropriate Weapon Proficiency feat for the
+launcher is necessary to avoid the –4 nonproficient penalty.
+
+## Explosives and Splash Weapons Table
+
+Explosives and splash weapons are described by a number of statistics,
+as shown on Table: Explosives and Splash Weapons.
+
+**Damage/Direct Hit Damage:** The primary damage dealt by the weapon.
+For explosives, the Damage column shows the damage dealt to all
+creatures within the explosive’s burst radius. For splash weapons, the
+Direct Hit Damage column is used for a target directly struck by the
+weapon.
+
+**Burst Radius/Splash Damage:** For explosives, the burst radius is the
+area affected by the explosive. All creatures or objects within the
+burst radius take damage from the explosive.
+
+For splash weapons, all creatures within 5 feet of the weapon’s impact
+point take splash damage equal to the amount shown in this column.
+
+**Damage Type:** Damage from explosives and splash weapons is classified
+according to type: energy (of a specific type) or slashing. Some
+creatures or characters may be resistant or immune to some forms of
+damage.
+
+**Critical:** The threat range for a critical hit. If the threat is
+confirmed, a weapon deals double damage on a critical hit (roll damage
+twice, as if hitting the target two times).
+
+**Reflex DC:** Any creature caught within the burst radius of an
+explosive may make a Reflex save against the DC given in this column for
+half damage.
+
+**Range Increment:** If the weapon can be thrown, its range increment is
+shown in this column. Explosives with no range increment must be set in
+place before being detonated. (See the Demolitions skill)
+
+**Size:** Size categories for weapons and other objects are defined
+differently from the size categories for creatures. The relationship
+between a weapon’s size and that of its wielder defines whether it can
+be used one-handed, if it requires two hands, and if it’s a light
+weapon.
+
+A Medium-size or smaller weapon can be used one-handed or two-handed.
+
+A Small or smaller weapon is considered a light weapon. It can be used
+one-handed and, as a light weapon, is easier to use in a character’s off
+hand.
+
+**Weight:** This column gives the weapon’s weight.
+
+**Purchase DC:** This is the purchase DC for a Wealth check to acquire
+the weapon. This number reflects the base price and doesn’t include any
+modifier for purchasing the weapon on the black market.
+
+**Restriction:** The restriction rating for the weapon, if any, and the
+appropriate black market purchase DC modifier. Remember to apply this
+modifier to the purchase DC when making a Wealth check to acquire the
+weapon on the black market.

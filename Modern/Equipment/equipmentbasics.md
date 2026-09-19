@@ -1,5 +1,4 @@
-
-EQUIPMENT BASICS
+# EQUIPMENT BASICS
 
 ## On-Hand Objects
 
@@ -238,7 +237,7 @@ purchase similar items with luxury features, generally by increasing the
 purchase DC by 1. Although such items are more expensive, they offer no
 additional features or game benefits.
 
-# Carrying Capacity
+## Carrying Capacity
 
 A character’s carrying capacity depends directly on the character’s
 Strength score, as shown on Table: Carrying Capacity.
