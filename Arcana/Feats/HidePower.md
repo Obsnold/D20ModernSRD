@@ -1,0 +1,14 @@
+# Hide Power [METAPSIONIC]
+
+You can manifest powers without a telltale display.
+
+**Benefit:** A psionic power can be manifested without one associated
+display characteristic chosen by you when you take the feat: auditory,
+material, mental, olfactory, or visual.
+
+The hidden power costs a number of power points equal to the standard
+cost +2.
+
+**Special:** You can take this feat multiple times, each time choosing a
+different display characteristic to hide while manifesting a given
+power.

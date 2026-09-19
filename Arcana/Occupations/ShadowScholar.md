@@ -1,0 +1,19 @@
+# Shadow Scholar
+
+Shadow scholars fall into two categories—learned Shadowkind and mundane
+folk who have spent time studying Shadow culture, magic, and other
+supernatural occurrences.
+
+**Prerequisite:** Age 15+.
+
+**Skills:** Choose three of the following skills as permanent class
+skills. If a skill you select is already a class skill, you receive a +1
+competence bonus on checks using that skill. Decipher Script, Gather
+Information, Knowledge (arcane lore, art, behavioral sciences, earth and
+life sciences, history, physical sciences, tactics, or theology and
+philosophy), Research, or add a new Read/Write Language or a new Speak
+Language.
+
+**Bonus Feat:** Select either Arcane Skills or Educated.
+
+**Wealth Bonus:** +1.
