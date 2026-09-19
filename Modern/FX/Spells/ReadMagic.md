@@ -1,0 +1,19 @@
+# Read Magic
+
+| Stat         | Value             |
+|--------------|-------------------|
+| School       | Universal         |
+| Level        | Acolyte 0, Mage 0 |
+| Components   | V, S, F           |
+| Casting Time | Attack action     |
+| Range        | Personal          |
+| Target       | You               |
+| Duration     | 10 minutes/level  |
+
+This spell allows the caster to read magical inscriptions on objects
+that would otherwise be unintelligible. This deciphering does not invoke
+the magic contained in the writing. Furthermore, once the spell is cast
+and the caster has read the magical inscription, he or she is thereafter
+able to read that particular writing without recourse to the use of read
+magic. The caster can read at the rate of one page (250 words) per
+minute.

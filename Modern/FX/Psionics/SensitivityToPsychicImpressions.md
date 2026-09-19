@@ -1,0 +1,23 @@
+# Sensitivity to Psychic Impressions
+
+| Stat               | Value                                                                |
+|--------------------|----------------------------------------------------------------------|
+| Key Ability        | Wisdom                                                               |
+| Level              | Telepath 2                                                           |
+| Display            | Audible, Material                                                    |
+| Manifestation Time | Attack action                                                        |
+| Range              | Close (25 ft. + 5 ft./2 levels)                                      |
+| Target             | Area within a 25-ft. + 5 ft./2 levels-radius spread, centered on you |
+| Duration           | Concentration, up to 10 minutes/level (D)                            |
+| Saving Throw       | None                                                                 |
+| Power Resistance   | No                                                                   |
+| Power Point Cost   | 2                                                                    |
+
+The manifester gains historical vision in a given location. The types of
+events most likely to leave psychic impressions are those that elicited
+strong emotions. Everyday occurrences leave no residue for a manifester
+to detect. The vision of the event is dreamlike and shadowy. The
+manifester does not gain special knowledge of those involved in the
+vision. A manifester can sense one distinct event per round of
+concentration, if any exist at all. This sensitivity extends into the
+past a number of years equal to 100 x the manifester’s level.

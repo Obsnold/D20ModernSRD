@@ -112,7 +112,7 @@ creature, thing, or condition.
 designated as universal. The type of magic they involve does not fall
 into one of the above categories.
 
-## Descriptors
+### Descriptors
 
 Descriptors are a way of classifying spells (often from different
 schools) that have some common characteristic.
@@ -122,7 +122,7 @@ identifying the school. Descriptors used for spells include cold,
 electricity, fear, fire, force, language-dependent, light,
 mind-affecting, and sonic.
 
-## Level
+### Level
 
 The relative power of a spell is indicated by its level. A spell’s level
 also indicates whether a particular spellcaster is capable of preparing
@@ -138,7 +138,7 @@ to place a lower-level spell in a higher-level spell slot if you desire.
 A character doesn’t have to fill all spell slots with prepared spells
 every day (although it usually makes sense to do so).
 
-## Components
+### Components
 
 Every spell has at least one type of component that the spellcaster must
 provide at the time of casting.
@@ -176,7 +176,7 @@ spell or a divine spell—an arcane caster casting it needs the specified
 material component, while a divine caster needs to provide a divine
 focus.
 
-## Casting Time
+### Casting Time
 
 This entry tells how much time is needed to complete the casting of a
 spell once it is begun.
@@ -213,11 +213,11 @@ damage from an attack of opportunity, he or she must make a
 Concentration check or lose the spell he or she was trying to cast.
 
 Casting on the Defensive: A character may attempt to cast a spell while
-on the defen­sive. This option means casting the spell while paying
+on the defensive. This option means casting the spell while paying
 attention to threats and avoiding blows. In this case, the character are
 no more vulnerable to attack than he or she would be if the character
 was just standing there, so casting while on the defensive does not
-provoke an attack of oppor­­­tunity. It does, how­ever, require a
+provoke an attack of opportunity. It does, however, require a
 Concentration check (DC 15 + spell level) to pull off. Failure means the
 spell is lost..
 
@@ -249,7 +249,7 @@ spell is lost..
 | Prepare spell components to cast a spell            | No   |
 | Make Spellcraft check on counterspell attempt       | No   |
 
-## Range
+### Range
 
 A spell’s range indicates how far from the caster it can reach—the
 maximum distance from the caster that the spell’s effect can occur, as
@@ -269,7 +269,7 @@ to touch) the target. The caster may take his or her move before casting
 the spell, after touching the target, or between casting the spell and
 touching the target. A character can automatically touch one friend or
 use the spell on his or herself, but to touch an opponent, the character
-must suc­ceed on an attack.
+must succeed on an attack.
 
 **Touch Attacks:** Since the character only needs to touch the enemy, he
 or she makes a touch attack instead of a regular attack. Touching an
@@ -307,7 +307,7 @@ levels.
 category, just a range expressed in a unit of measurement (usually
 feet).
 
-## Target
+### Target
 
 Some spells have a specific target or targets. A caster uses these
 spells directly on creatures or objects, as defined by the spell itself.
@@ -326,7 +326,7 @@ not receive a saving throw, and spell resistance does not apply.
 object(s) it is directed against. A target becomes a subject if it fails
 a saving throw against the spell and is thus affected by the magic.
 
-## Effect
+### Effect
 
 Some spells create or summon things rather than affecting things that
 are already present. The caster must designate the location where these
@@ -353,7 +353,7 @@ distance by actual distance traveled, taking into account turns the
 spell effect takes. The caster must designate the point of origin, but
 need not have line of effect (see below) to all portions of the effect.
 
-## Area
+### Area
 
 Some spells affect an area. The caster selects where the spell starts,
 but otherwise doesn’t control which creatures or objects the spell
@@ -429,7 +429,7 @@ redirect the effect to new targets or areas after casting the spell.
 Redirecting a spell requires a move action that does not provoke attacks
 of opportunity. It also doesn’t require concentration.
 
-## Duration
+### Duration
 
 The Duration entry of a spell description tells how long the effect of
 the spell lasts.
@@ -480,7 +480,7 @@ opportunity. A spell that depends on concentration is dismissible by its
 very nature, and dismissing it does not require an action (since all the
 caster has to do to end the spell is to stop concentrating).
 
-## Saving Throw
+### Saving Throw
 
 Most harmful spells allow an affected creature to make a saving throw to
 avoid some or all of the effect. The Saving Throw entry in a spell
@@ -537,7 +537,7 @@ assumed to survive a magical attack.
 If an item is not carried or worn and is not magical, it does not get a
 saving throw. It is simply dealt the appropriate damage.
 
-## Spell Resistance
+### Spell Resistance
 
 Spell resistance is a special defensive ability that protects against
 spells.
@@ -582,7 +582,7 @@ subject to spell resistance and others that are not.
 
 Spell resistance does not stack with power resistance, and vice versa.
 
-## Descriptive Text
+### Descriptive Text
 
 A spell’s descriptive text explains how the spell works or what it does
 and includes necessary information such as the spell’s material
@@ -731,14 +731,14 @@ description and a spell description are summarized in this section. See
 How to Read a Spell Description, above, for information that is the same
 for both psionic powers and spells.
 
-## Key Ability
+### Key Ability
 
 The first line beneath the power’s name provides the key ability
 associated with the power. A psionic character must have a score in this
 ability equal to at least 10 + the power’s level in order to manifest
 the power.
 
-## Descriptors
+### Descriptors
 
 Descriptors are a way of classifying powers that have some common
 characteristic. Descriptors are often useful for knowing which creatures
@@ -747,37 +747,37 @@ appear in brackets on the line containing the key ability. Descriptors
 for powers include compulsion, electricity, fire, language-dependent,
 and mind-affecting.
 
-## Level
+### Level
 
 The relative strength of a power is indicated by its level. A power’s
 level also indicates whether a particular psionic character is capable
 of using the power, based on the character’s class level and key ability
 score.
 
-## Display
+### Display
 
 When psionic powers manifest, secondary displays usually accompany the
 primary effect. The psionic display may be auditory (Au), material (Ma),
 mental (Me), olfactory (Ol), or visual (Vi). Each power describes the
 sort of display that accompanies it.
 
-## Manifestation Time
+### Manifestation Time
 
 Manifesting a psionic power is either an attack action or a full-round
 action, depending on the power. See the power descriptions for details.
 
-## Range
+### Range
 
 Each psionic power has a range, as listed in the power description. A
 power’s range is the maximum distance from the psionic character that
 the power’s effect can occur. The range categories are the same as the
 ones used for spells.
 
-## Target, Effect, Area
+### Target, Effect, Area
 
 These terms are defined and used the same as they are for spells.
 
-## Saving Throw
+### Saving Throw
 
 Most harmful powers allow an affected target a saving throw to avoid
 some or all of the effect. Each power lists which saving throw type
@@ -786,7 +786,7 @@ level + the psionic character’s key ability modifier. The terms used to
 define the various types of saving throws and results are the same as
 for spells.
 
-## Power Resistance
+### Power Resistance
 
 Power resistance is a special defensive ability that protects against
 psionic powers. If a psionic character faces a creature with power
@@ -798,13 +798,13 @@ Each power description includes an entry that indicates whether power
 resistance applies to the power (if so, Yes; if not, No). Other details
 are the same as for spell resistance.
 
-## Power Point Cost
+### Power Point Cost
 
 All powers of a certain level have the same power point cost. The point
 cost to manifest a particular power is also provided in that power’s
 description.
 
-## Descriptive Text
+### Descriptive Text
 
 A power’s descriptive text explains how the power works or what it does.
 
