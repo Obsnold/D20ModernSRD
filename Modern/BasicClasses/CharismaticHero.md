@@ -1,30 +1,5 @@
 # THE CHARISMATIC HERO
 
-**Ability:** Charisma
-
-**Hit Die:** 1d6
-
-**Action Points:** Charismatic heroes gain a number of action points
-equal to 5 + one-half their character level, rounded down, at 1st level
-and every time they attain a new level in this class.
-
-**Class Skills:** The Charismatic hero’s class skills (and the key
-ability for each skill) are: Bluff (Cha), Craft (visual art, writing)
-(Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle
-Animal (Cha), Intimidate (Cha), Knowledge (arcane lore, art, behavioral
-sciences, business, civics, current events, popular culture, streetwise,
-theology and philosophy) (Int), Perform (act, dance, keyboards,
-percussion instruments, sing, stand-up, stringed instruments, wind
-instruments) (Cha), Profession (Wis), Read/Write Language (none), and
-Speak Language (none).
-
-Also, the starting occupation the hero selects can provide additional
-class skills to choose from.
-
-**Skill Points at 1st Level:** (7 + Int modifier) x4.
-
-**Skill Points at Each Additional Level:** 7 + Int modifier.
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
 | 1st         | +0                | +1        | +1       | +0        | Talent         | +0            | +2               |
@@ -37,6 +12,56 @@ class skills to choose from.
 | 8th         | +4                | +4        | +4       | +2        | Bonus feat     | +3            | +4               |
 | 9th         | +4                | +4        | +4       | +3        | Talent         | +3            | +4               |
 | 10th        | +5                | +5        | +5       | +3        | Bonus feat     | +3            | +5               |
+
+## Ability
+Charisma
+
+## Hit Die
+1d6
+
+## Action Points 
+Charismatic heroes gain a number of action points
+equal to 5 + one-half their character level, rounded down, at 1st level
+and every time they attain a new level in this class.
+
+## Class Skills
+The Charismatic hero’s class skills (and the key
+ability for each skill) are: 
+ - Bluff (Cha)
+ - Craft (visual art) (Int)
+ - Craft (writing) (Int)
+ - Diplomacy (Cha)
+ - Disguise (Cha)
+ - Gather Information (Cha)
+ - Handle Animal (Cha)
+ - Intimidate (Cha)
+ - Knowledge (arcane lore) (Int)
+ - Knowledge (art) (Int)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (business) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (streetwise) (Int)
+ - Knowledge (theology and philosophy) (Int)
+ - Perform (act) (Cha)
+ - Perform (dance) (Cha)
+ - Perform (keyboards) (Cha)
+ - Perform (percussion instruments) (Cha)
+ - Perform (sing) (Cha)
+ - Perform (stand-up) (Cha)
+ - Perform (stringed instruments) (Cha)
+ - Perform (wind instruments) (Cha)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Speak Language (none)
+
+Also, the starting occupation the hero selects can provide additional
+class skills to choose from.
+
+**Skill Points at 1st Level:** (7 + Int modifier) x4.
+
+**Skill Points at Each Additional Level:** 7 + Int modifier.
 
 ## Starting Feats
 
@@ -56,12 +81,13 @@ the hero qualifies, he or she can select freely from any and all talent
 trees. No talent can be selected more than once unless expressly
 indicated.
 
-### Charm Talent Tree
+#### Charm Talent Tree
 
 The Charismatic hero has an innate talent for being charming and
 captivating.
 
-**Charm:** The Charismatic hero gets a competence bonus on all
+##### Charm
+The Charismatic hero gets a competence bonus on all
 Charisma-based skill checks made to influence members of his chosen
 gender. (Some characters are charming to members of the opposite gender,
 others to members of the same gender.) The bonus is equal to the
@@ -73,7 +99,8 @@ characters who are unfriendly or hostile.
 
 This ability can be taken more than once (for another gender).
 
-**Favor:** The Charismatic hero has the ability to acquire minor aid
+##### Favor 
+The Charismatic hero has the ability to acquire minor aid
 from anyone he or she meets. By making a favor check, a Charismatic hero
 can gain important information without going through the time and
 trouble of doing a lot of research. Favors can also be used to acquire
@@ -100,7 +127,8 @@ may disallow any favor deemed to be disruptive to the game.
 
 **Prerequisite:** Charm.
 
-**Captivate:** The Charismatic hero has the ability to temporarily
+##### Captivate
+The Charismatic hero has the ability to temporarily
 beguile a target through the use of words and bearing. The target must
 have an Intelligence score of 3 or higher to be susceptible to a
 captivate attempt, must be within 30 feet of the hero, must be
@@ -127,18 +155,20 @@ target succeeds on the save. This is a Mind-Affecting ability.
 
 **Prerequisites:** Charm, Favor.
 
-### Fast-Talk Talent Tree
+#### Fast-Talk Talent Tree
 
 The Charismatic hero has an innate talent for bending the truth and
 dazzling others with a combination of words, mannerisms, and charm.
 
-**Fast-Talk:** The Charismatic hero has a way with words when attempting
+##### Fast-Talk
+The Charismatic hero has a way with words when attempting
 to con and deceive. With this talent, he or she applies his or her
 Charismatic level as a competence bonus on any Bluff, Diplomacy, or
 Gamble checks the hero makes while attempting to lie, cheat, or
 otherwise bend the truth.
 
-**Dazzle:** The Charismatic hero has the ability to dazzle a target
+##### Dazzle
+The Charismatic hero has the ability to dazzle a target
 through sheer force of personality, a winning smile, and fast-talking.
 The target must have an Intelligence score of 3 or higher to be
 susceptible to a dazzle attempt, must be within 30 feet of the hero, and
@@ -159,7 +189,8 @@ dazzled penalty by –1. This is a Mind-Affecting ability.
 
 **Prerequisite:** Fast-talk.
 
-Taunt: The Charismatic hero has the ability to temporarily rattle a
+##### Taunt
+The Charismatic hero has the ability to temporarily rattle a
 target through the use of insults and goading. The target must have an
 Intelligence score of 3 or higher to be susceptible to a taunt, must be
 within 30 feet of the hero, and must be able to hear and understand the
@@ -179,11 +210,12 @@ Mind-Affecting ability.
 
 **Prerequisites:** Fast-talk, dazzle.
 
-### Leadership Talent Tree
+#### Leadership Talent Tree
 
 The Charismatic hero has a talent for leadership and inspiration.
 
-**Coordinate:** The Charismatic hero has a knack for getting people to
+##### Coordinate 
+The Charismatic hero has a knack for getting people to
 work together. When the hero can spend a full round directing his or her
 allies and makes a Charisma check (DC 10), the hero provides any of his
 or her allies within 30 feet a +1 bonus on their attack rolls and skill
@@ -193,7 +225,8 @@ Charisma modifier.
 The hero can coordinate a number of allies equal to one-half his or her
 Charismatic level, rounded down (to a minimum of one ally).
 
-**Inspiration:** The Charismatic hero can inspire his or her allies,
+##### Inspiration 
+The Charismatic hero can inspire his or her allies,
 bolstering them and improving their chances of success. An ally must
 listen to and observe the Charismatic hero for a full round for the
 inspiration to take hold, and the hero must make a Charisma check (DC
@@ -209,7 +242,8 @@ down (to a minimum of one ally).
 
 **Prerequisite:** Coordinate.
 
-**Greater Inspiration:** The Charismatic hero can inspire his or her
+##### Greater Inspiration
+The Charismatic hero can inspire his or her
 allies to even greater heights, bolstering them and improving their
 chances of success. An ally must listen to and observe the Charismatic
 hero for a full round for the greater inspiration to take hold, and the
@@ -226,12 +260,21 @@ down (to a minimum of one ally).
 
 **Prerequisites:** Coordinate, inspiration.
 
-### Bonus Feats
+#### Bonus Feats
 
 At 2nd, 4th, 6th, 8th, and 10th level, the Charismatic hero gains a
 bonus feat. This feat must be selected from the following list, and the
 Charismatic hero must meet any prerequisites.
 
-Agile Riposte, Creative, Deceptive, Dodge, Frightful Presence, Iron
-Will, Lightning Reflexes, Low Profile, Point Blank Shot, Renown,
-Trustworthy, Windfall.
+ - Agile Riposte
+ - Creative
+ - Deceptive
+ - Dodge
+ - Frightful Presence
+ - Iron Will
+ - Lightning Reflexes
+ - Low Profile
+ - Point Blank Shot
+ - Renown
+ - Trustworthy
+ - Windfall

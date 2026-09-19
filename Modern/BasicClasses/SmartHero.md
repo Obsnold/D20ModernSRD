@@ -1,31 +1,5 @@
 # THE SMART HERO
 
-**Ability:** Intelligence
-
-**Hit Die:** 1d6
-
-**Action Points:** Smart heroes gain a number of action points equal to
-5 + one-half their character level, rounded down, at 1st level and every
-time they attain a new level in this class.
-
-**Class Skills:** The Smart hero’s class skills (and the key ability for
-each skill) are: Computer Use (Int), Craft (chemical, electronic,
-mechanical, pharmaceutical, structural, visual art, writing) (Int),
-Decipher Script (Int), Demolitions (Int), Disable Device (Int), Forgery
-(Int), Investigate (Int), Knowledge (arcane lore, art, behavioral
-sciences, business, civics, current events, earth and life sciences,
-history, physical sciences, popular culture, streetwise, tactics,
-technology, theology and philosophy) (Int), Navigate (Int), Profession
-(Wis), Read/Write Language (none), Repair (Int), Research (Int), Search
-(Int), and Speak Language (none).
-
-Also, the starting occupation the hero selects can provide additional
-class skills to choose from.
-
-**Skill Points at 1st Level:** (9 + Int modifier) x4.
-
-**Skill Points at Each Additional Level:** 9 + Int modifier.
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
 | 1st         | +0                | +0        | +0       | +1        | Talent         | +0            | +1               |
@@ -39,12 +13,67 @@ class skills to choose from.
 | 9th         | +4                | +3        | +3       | +4        | Talent         | +3            | +3               |
 | 10th        | +5                | +3        | +3       | +5        | Bonus feat     | +3            | +4               |
 
-### Starting Feats
+## Ability
+Intelligence
+
+## Hit Die
+1d6
+
+## Action Points
+Smart heroes gain a number of action points equal to
+5 + one-half their character level, rounded down, at 1st level and every
+time they attain a new level in this class.
+
+## Class Skills
+The Smart hero’s class skills (and the key ability for
+each skill) are: Computer Use (Int)
+ - Craft (chemical) (Int)
+ - Craft (electronic) (Int)
+ - Craft (mechanical) (Int)
+ - Craft (pharmaceutical) (Int)
+ - Craft (structural) (Int)
+ - Craft (visual art) (Int)
+ - Craft (writing) (Int)
+ - Decipher Script (Int)
+ - Demolitions (Int)
+ - Disable Device (Int)
+ - Forgery (Int)
+ - Investigate (Int)
+ - Knowledge (arcane lore) (Int)
+ - Knowledge (art) (Int)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (business) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (earth and life sciences) (Int)
+ - Knowledge (history) (Int)
+ - Knowledge (physical sciences) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (streetwise) (Int)
+ - Knowledge (tactics) (Int)
+ - Knowledge (technology) (Int)
+ - Knowledge (theology and philosophy) (Int)
+ - Navigate (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Repair (Int)
+ - Research (Int)
+ - Search (Int)
+ - Speak Language (none)
+
+Also, the starting occupation the hero selects can provide additional
+class skills to choose from.
+
+**Skill Points at 1st Level:** (9 + Int modifier) x4.
+
+**Skill Points at Each Additional Level:** 9 + Int modifier.
+
+## Starting Feats
 
 In addition to the two feats all characters get at 1st level, a Smart
 hero begins play with the Simple Weapons Proficiency feat.
 
-### Class Features
+## Class Features
 
 All of the following are class features of the Smart hero.
 
@@ -57,22 +86,33 @@ hero qualifies, he or she can select freely from any and all talent
 trees. No talent can be selected more than once unless expressly
 indicated.
 
-### Research Talent Tree
+#### Research Talent Tree
 
 The Smart hero has a natural aptitude for study and fact-finding. These
 talents can be selected in any order.
 
-**Savant:** Select one of the skills listed in the following paragraph.
+##### Savant
+Select one of the skills listed in the following paragraph.
 The hero must have ranks in the skill if it is Trained Only. The Smart
 hero gets to add a bonus equal to his or her Smart level when making
 checks with that skill. A Smart hero can take this talent multiple
 times; each time it applies to a different skill.
 
-Computer Use, Craft (any single skill), Decipher Script, Demolitions,
-Disable Device, Forgery, Investigate, Knowledge (any single skill),
-Navigate, Repair, Research, Search.
+ - Computer Use
+ - Craft (any single skill)
+ - Decipher Script
+ - Demolitions
+ - Disable Device
+ - Forgery
+ - Investigate
+ - Knowledge (any single skill)
+ - Navigate
+ - Repair
+ - Research
+ - Search
 
-**Linguist:** With this talent, the Smart hero becomes a master
+##### Linguist
+With this talent, the Smart hero becomes a master
 linguist. Whenever the hero encounters a new language, either spoken or
 written, that he or she does not know the Smart hero can make an
 Intelligence check to determine if he or she can understand it. The
@@ -94,14 +134,15 @@ page of a written language.
 **Prerequisite:** At least 1 rank in either Read/Write Language or Speak
 Language for each of three different languages.
 
-### Strategy Talent Tree
+#### Strategy Talent Tree
 
 The Smart hero has the brainpower to see solutions in most situations.
 These talents can be selected in any order, but before the hero can
 select a talent from this tree he or she must have previously selected
 at least one talent from the Research Talent Tree.
 
-**Exploit Weakness:** After 1 round of combat, the Smart hero can
+##### Exploit Weakness
+After 1 round of combat, the Smart hero can
 designate one opponent and try to find ways to gain an advantage by
 using brains over brawn. The Smart hero uses a move action and makes an
 Intelligence check (DC 15) with a bonus equal to his or her Smart level.
@@ -112,14 +153,15 @@ and notices weaknesses in his opponent’s fighting style.
 
 **Prerequisite:** One talent from the Research Talent Tree.
 
-**Plan:** Prior to an encounter the Smart hero can develop a plan of
+##### Plan
+Prior to an encounter the Smart hero can develop a plan of
 action to handle the situation. Using this talent requires preparation;
 a Smart hero can’t use this talent when surprised or otherwise
 unprepared for a particular situation. Creating a plan requires 1
 minute.
 
-After creating the plan the Smart hero makes an Intelligence check (DC
-10\) with a bonus equal to his or her Smart level. The result of the
+After creating the plan the Smart hero makes an Intelligence check 
+(DC 10) with a bonus equal to his or her Smart level. The result of the
 check provides the Smart hero and allies with a circumstance bonus. A
 Smart hero can’t take 10 or 20 when making this check.
 
@@ -139,7 +181,8 @@ best-laid plans.
 
 **Prerequisite:** One talent from the Research Talent Tree.
 
-**Trick:** The Smart hero has the ability to temporarily confuse a
+##### Trick
+The Smart hero has the ability to temporarily confuse a
 target through the use of ploy and deception. The target must have an
 Intelligence score of 3 or higher to be susceptible to a trick, must be
 within 30 feet of the hero, and must be able to hear and understand the
@@ -168,6 +211,17 @@ At 2nd, 4th, 6th, 8th, and 10th level, the Smart hero gains a bonus
 feat. This feat must be selected from the following list, and the Smart
 hero must meet any prerequisites.
 
-Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved
-Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous,
-Studious, Vehicle Expert, Weapon Focus.
+ - Builder
+ - Cautious
+ - Combat Expertise
+ - Educated
+ - Gearhead
+ - Improved
+ - Disarm
+ - Improved Trip
+ - Iron Will
+ - Lightning Reflexes
+ - Meticulous
+ - Studious
+ - Vehicle Expert
+ - Weapon Focus
