@@ -3,7 +3,7 @@
 A starship class template allows the creation of modified or improved
 versions of the various starship subtypes presented above. A template
 usually has an evocative name, giving rise to such ships as the
-*Lightning*-class frigate or the *Katana*-class assault fighter.
+*Lightning*-class frigate or the* Katana*-class assault fighter.
 
 A starship class template is nothing more than an alternative list of
 design specs that allow players and GMs to increase (or decrease) a

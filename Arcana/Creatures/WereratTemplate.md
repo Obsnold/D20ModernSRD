@@ -40,7 +40,7 @@ qualities
 
 listed below.
 
-*Alternate Form (Su): *A wererat can assume rat or
+*Alternate Form (Su):* A wererat can assume rat or
 hybrid form, but its gear is not absorbed into the new form. The bipedal
 hybrid form is about 5 feet tall, with a long tail and thin fur. The
 limbs are human, but the head looks like a rat’s. Changing to or from
@@ -50,25 +50,25 @@ reverts to its humanoid form, although it remains dead. Afflicted
 wererats find this ability difficult to control. The rare natural
 wererat has full control over this power.
 
-*Curse of Lycanthropy (Su): *Any humanoid bitten by a
+*Curse of Lycanthropy (Su):* Any humanoid bitten by a
 wererat’s bite attack (in rat or hybrid form) must succeed at a
 Fortitude save (DC 15) or contract lycanthropy.
 
-*Damage Reduction 15/Silver (Su): *A wererat in rat or
+*Damage Reduction 15/Silver (Su):* A wererat in rat or
 hybrid form ignores the first 15 points of damage dealt by a nonsilver
 or nonmagical weapon but takes full damage from silvered weapons or
 weapons with +1 or better magic bonus.
 
-*Scent (Ex): *This ability allows a wererat in rat or
+*Scent (Ex):* This ability allows a wererat in rat or
 hybrid form to detect approaching enemies, sniff out hidden foes, and
 track by sense of smell.
 
-*Rat Empathy (Ex): *A wererat can communciate with rats
+*Rat Empathy (Ex):* A wererat can communciate with rats
 in any form and gains a +4 species bonus on Diplomacy checks when
 influencing a rat’s attitude. A friendly rat understands and heeds
 simple commands, such “wait,” “watch,” “flee,” and “attack.”
 
-*Darkvision (Ex): *In their rat and hybrid forms,
+*Darkvision (Ex):* In their rat and hybrid forms,
 wererats have darkvision with a range of 60 feet.
 
 **Allegiances:** An afflicted wereat gains the law and
@@ -221,13 +221,13 @@ retain any or all of the base creature’s extraordinary abilities at the
 GM’s discretion. In addition to gaining the undead type, a liquefied
 zombie has the following special quality.
 
-*Liquefied Spew (Ex): *Whenever a liquefied zombie is
+*Liquefied Spew (Ex):* Whenever a liquefied zombie is
 damaged in combat by anything other than a bludgeoning weapon, some of
 the liquefied tissue spews forth, covering everything within 5 feet of
 the liquefied zombie. The scalding liquid deals 1d6 points of damage and
 exposes anyone it touches to the disease of necrotizing faciitis.
 
-*Darkvision (Ex): *Liquefied zombies have darkvision
+*Darkvision (Ex):* Liquefied zombies have darkvision
 with a range of 60 feet.
 
 **Allegiances:** A liquefied zombie loses any previous

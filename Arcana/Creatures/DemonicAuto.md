@@ -141,5 +141,5 @@ Vehicle Expert.
 **Feats:** Drive-By Attack, Great Fortitude, Force Stop,
 Iron Will, Vehicle Dodge, Vehicle Expert, Weapon Focus (slam).
 
-**Possessions:** *Flame job *(see Chapter
+**Possessions:** *Flame job* (see Chapter
 Four: Magic Items).

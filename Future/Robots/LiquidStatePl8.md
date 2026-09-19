@@ -1,4 +1,4 @@
-# Liquid-State (pl 8)
+# Liquid-State (PL 8)
 
 The liquid-state robot is a mass of metal alloy resembling liquid
 mercury. It contains a molecular network of subprocessors that interpret
@@ -60,7 +60,7 @@ construct immunities, including immunity to critical hits.
 
 |             |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Robot Size  | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Robot Size  | **Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
 | Colossal    | 56                   | 32d10             | 120                  | 45                          | 8       | —       | 10      | 11      | 10      | 40d10/+3 per HD                           |
 | Gargantuan  | 48                   | 16d10             | 80                   | 37                          | 8       | —       | 10      | 11      | 10      | 32d10/+3 per HD                           |
 | Huge        | 40                   | 8d10              | 40                   | 29                          | 8       | —       | 10      | 11      | 10      | 24d10/+2 per HD                           |

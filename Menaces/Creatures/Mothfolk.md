@@ -14,7 +14,7 @@ name).
 **Fear Aura (Su):** A mothfolk projects an aura of fear around itself in
 a 20-foot radius. Creatures within this area that wish to remain must
 attempt a Will save (DC 10 + ½ the mothman’s Hit Dice + its Charisma
-modifier) or be affected as by a *fear *spell. A mothfolk is immune to
+modifier) or be affected as by a *fear* spell. A mothfolk is immune to
 the fear auras of other mothfolk.
 
 **Skill Bonuses:** Mothfolk gain a +4 species bonus on Balance, Climb,
@@ -111,9 +111,9 @@ Proficiency, Stealthy, Track.
 
 **Talents (Dedicated Hero):** Aware, skill emphasis (Survival).
 
-**Acolyte Spells **(4/4/3): 0— *cure minor wounds*, *detect magical
-aura*, *light*, *resistance*; 1st—*bane*, *cause fear*, *comprehend
-languages*, *cure light wounds*; 2nd—*cure moderate wounds*, *hold
-person*, *shatter*. Caster level 3rd; save DC 12 + spell level.
+**Acolyte Spells** (4/4/3): 0— *cure minor wounds*,* detect magical
+aura*,* light*,* resistance*; 1st—*bane*,* cause fear*,* comprehend
+languages*,* cure light wounds*; 2nd—*cure moderate wounds*,* hold
+person*,* shatter*. Caster level 3rd; save DC 12 + spell level.
 
 **Possessions:** Various personal items.

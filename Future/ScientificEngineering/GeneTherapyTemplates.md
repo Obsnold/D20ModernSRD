@@ -25,12 +25,12 @@ character and gains the additional special qualities listed
 
 below.
 
-*Amphibious (Ex): *Aquans can breathe equally well in air and water.
+*Amphibious (Ex):* Aquans can breathe equally well in air and water.
 
-*Blindsight (Ex): *Aquans have blindsight with a range of 60 feet when
+*Blindsight (Ex):* Aquans have blindsight with a range of 60 feet when
 under water only.
 
-*Low-Light Vision (Ex): *Aquans have low-light vision with a range of 60
+*Low-Light Vision (Ex):* Aquans have low-light vision with a range of 60
 feet on land and in water.
 
 **Skills:** Same as the character, with a +2 species bonus on Listen
@@ -57,11 +57,11 @@ The regimen requires 25 successful Fortitude saving throws (DC 30).
 **Special Qualities:** A healer retains all the special qualities of the
 character and gains the additional special qualities listed below.
 
-*Fast Healing 3 (Ex): *A healer heals 3 points of damage each round.
+*Fast Healing 3 (Ex):* A healer heals 3 points of damage each round.
 Fast healing stops working when the healer is reduced to –10 hp or
 fewer.
 
-*Lowered Damage Threshold (Ex): *A healer’s massive damage threshold is
+*Lowered Damage Threshold (Ex):* A healer’s massive damage threshold is
 equal to Con –3.
 
 **Skills:** Same as the character, with a +2 species bonus on any Treat
@@ -88,7 +88,7 @@ the character and gains the additional special qualities
 
 listed below.
 
-*Hibernate (Ex): *A morphean can enter into a sleeplike state that lasts
+*Hibernate (Ex):* A morphean can enter into a sleeplike state that lasts
 for an extended period. While in this state, the morphean does not
 suffer the effects of dehydration or starvation. Hibernation can last up
 to a number of days equal to twice the character’s Constitution. The
@@ -99,7 +99,7 @@ end the
 
 hibernation prematurely.
 
-*Sleepless (Ex): *The morphean does not suffer the detrimental effects
+*Sleepless (Ex):* The morphean does not suffer the detrimental effects
 of sleep deprivation. Once per day, the morphean can
 
 spend 10 minutes meditating and receive all the benefits of a full 8
@@ -127,9 +127,9 @@ Human). The regimen requires 25 successful Fortitude saving throws (DC
 **Special Qualities:** A nocturnal retains all the special qualities of
 the character and gains the additional special qualities listed below.
 
-*Darkvision (Ex): *Nocturnals have darkvision with a range of 60 feet.
+*Darkvision (Ex):* Nocturnals have darkvision with a range of 60 feet.
 
-*Light Sensitivity (Ex): *Nocturnals are blinded by sunlight,
+*Light Sensitivity (Ex):* Nocturnals are blinded by sunlight,
 flashlights, fluorescent lights, halogen lamps, and other sources of
 bright illumination. They can counter the blindness and see normally by
 wearing dark-tinted sunglasses or tinted visors.

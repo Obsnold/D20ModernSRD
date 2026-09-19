@@ -1,4 +1,4 @@
-# Biodroid (“android”)
+# Biodroid (“Android”)
 
 Biodroids exist in societies of Progress Level 6 or higher. They are
 typically modeled after their anthropomorphic creators. The technology

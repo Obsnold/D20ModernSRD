@@ -37,7 +37,7 @@ If the target fails its saving throw, the sense you select doesn’t
 function for the spell’s duration, with all attendant penalties that
 apply for losing the specified sense.
 
-*Options: *Useful options for incantations with the *afflict *seed
+*Options:* Useful options for incantations with the *afflict* seed
 include having a hair, fingernail, or other part of the target (+2
 bonus); having the target present and helpless during the incantation
 (+6 bonus); or building an elaborate model or doll of the target (+4

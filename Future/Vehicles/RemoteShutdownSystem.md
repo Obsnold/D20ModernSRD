@@ -16,7 +16,7 @@ full-round action. Entering the code to shut down the vehicle is an
 attack action.
 
 This system is installed on all civilian vehicles. Acquiring a civilian
-vehicle *without *a remote shutdown system or acquiring a vehicle with
+vehicle *without* a remote shutdown system or acquiring a vehicle with
 an altered code (so that the owner can shut it down, but no one else
 can) is treated like buying an illegal item. Removing the system—an
 illegal act—requires a successful Disable Device check (DC 15). Changing

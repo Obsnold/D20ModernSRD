@@ -14,7 +14,9 @@ mutations that reshape a hero, and the worlds they travel to.
 ## Characters
 
 - [Advanced Classes](AdvancedClasses/futureclasses.md)
-- [Occupations, Skills and Feats](Occupations/occupations.md)
+- [Starting Occupations](Occupations/occupations.md)
+- [Expanded Skills](Skills/skills.md)
+- [Feats](Feats/feats.md)
 - [Cybernetics](Cybernetics/cybernetics.md)
 - [Mutations](Mutations/mutations.md)
 - [Scientific Engineering](ScientificEngineering/scientificengineering.md)

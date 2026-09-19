@@ -73,15 +73,15 @@ another piece of useful information.
 The type of Knowledge check depends on the xenomorph’s creature type, as
 shown below:
 
-*Knowledge (arcane lore):*** **Fey, magical beasts.
+**Knowledge (arcane lore):** Fey, magical beasts.
 
-*Knowledge (earth and life sciences):*** **Aberrations, animals,
+**Knowledge (earth and life sciences):** Aberrations, animals,
 dragons, elementals, giants, humanoids, monstrous humanoids, oozes,
 plants, vermin.
 
-*Knowledge (technology):*** **Constructs.
+**Knowledge (technology):** Constructs.
 
-*Knowledge (theology and philosophy):*** **Outsiders, undead.
+**Knowledge (theology and philosophy):** Outsiders, undead.
 
 **Xenotype**
 

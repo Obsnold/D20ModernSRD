@@ -26,14 +26,14 @@ of Shadow, seeking an answer from some willing entity. The answers
 return in a language you understand, but use only one-word answers such
 as “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word
 answer. All questions answered are 90% likely to be answered truthfully.
-However, a specific incantation using the *foresee *seed can only be
+However, a specific incantation using the *foresee* seed can only be
 cast once every five weeks.
 
-The *foresee *seed is also useful for incantations requiring specific
-information before functioning, such as those that use the *reveal *and
-*transport *seeds.
+The *foresee* seed is also useful for incantations requiring specific
+information before functioning, such as those that use the *reveal* and
+*transport* seeds.
 
-You can also use the *foresee *seed to gain one basic piece of
+You can also use the *foresee* seed to gain one basic piece of
 information about a living target: location, level, class, alignment, or
 other special ability (or an object’s magical abilities, if any). For
 knowledge revealed in each additional category, increase the Knowledge

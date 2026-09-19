@@ -15,7 +15,7 @@ subject to critical hits, nonlethal damage, ability damage, ability
 drain, energy drain, or effects of massive damage, or any effect
 requiring a Fortitude save unless the effect also works on objects or is
 harmless. They may be healed by application of negative energy (such as
-an *inflict light wounds *spell). They are destroyed if reduced to 0 hit
+an *inflict light wounds* spell). They are destroyed if reduced to 0 hit
 points or less.
 
 **Incorporeal (Ex)**: An ash wraith can be harmed only by other

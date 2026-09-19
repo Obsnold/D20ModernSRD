@@ -10,7 +10,7 @@
 | Saving Throw               | Fortitude negates (and see text)             |
 | Spell Resistance           | Yes                                          |
 
-Incantations using the *transform *seed change the subject into another
+Incantations using the *transform* seed change the subject into another
 form of creature or object. The new form can range in size from
 Diminutive to one size larger than the subject’s normal form. If you
 want transform a creature into a nonmagical, inanimate object, increase
@@ -22,7 +22,7 @@ Transformations involving nonmagical inanimate substances with hardness
 are more difficult; for each 2 points of hardness, increase the
 Knowledge (arcane lore) check DC by +1.
 
-The *transform *seed can also change its target into someone specific.
+The *transform* seed can also change its target into someone specific.
 To transform an object or creature into the specific likeness of another
 individual, increase the Knowledge (arcane lore) check DC by +6. If the
 transformed creature doesn’t have the level or Hit Dice of its new

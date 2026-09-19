@@ -27,15 +27,15 @@ With the breadth of activity in the corporation, it is difficult to see
 any overarching plan or goal other than continuing to grow by adding
 more and more business arms to the company. However, it is rumored that
 Franz Draco not only knows everything that his company does on a daily
-basis, but that he *personally *is responsible for all major decisions
-in *every *subsidiary and partnership. It is further said that he does
+basis, but that he *personally* is responsible for all major decisions
+in *every* subsidiary and partnership. It is further said that he does
 so with a secret purpose in mind—that he is a bit mad and occasionally
 talks of “ruling the world.” But the world of international high finance
 is notoriously tolerant of eccentric multi-trillionaires.
 
 While it’s easy for heroes to work for a company owned by Draco
 Industries, it is extraordinarily unlikely that they can work for Draco
-himself. However, anyone who *does *get the man’s personal attention (or
+himself. However, anyone who *does* get the man’s personal attention (or
 is working on a project in which he takes particular interest) can get
 up to a +15 modifier to level checks to requisition equipment.
 
@@ -62,13 +62,13 @@ help Franz Draco keep tabs on the people closest to him.
 
 Draco owns a crystal dragon egg of his own, but his is four feet tall—it
 is the hub for all the other eggs. This great egg is enchanted so that
-it can cast *detect thoughts *spell centered on any of the other dragon
+it can cast *detect thoughts* spell centered on any of the other dragon
 eggs, no matter where in the world they are. Franz Draco is the only
 person who knows how to make the hub egg work. Draco has the egg brought
 with him wherever he goes.
 
-*Type:*Wondrous item (magic); *Caster Level: *10th; *Purchase DC: *39;
-*Weight: *5 lb.
+*Type:*Wondrous item (magic);* Caster Level: *10th;* Purchase DC: *39;
+*Weight:* 5 lb.
 
 Franz Draco
 
@@ -101,7 +101,7 @@ Draco has acquired many loyal minions that excel in a number of skills.
 When he makes a rare public appearance, he is never seen without his
 trusted lieutenant, the deadly medusa Sasha.
 
-Draco spends most of his time *polymorphed *into a human. He appears to
+Draco spends most of his time *polymorphed* into a human. He appears to
 be in his mid-40s, with red hair, a red beard, and coal-black eyes. He
 dresses in the finest clothing and bits of flashy gold jewelry.
 
@@ -123,11 +123,11 @@ dresses in the finest clothing and bits of flashy gold jewelry.
 | Defense Breakdown | –1 size, +3 Dex, +6 natural, +2 class, +6 *+3 undercover vest*                                                                                                           |
 | BAB               | +13                                                                                                                                                                      |
 | Grap              | +23                                                                                                                                                                      |
-| Atk               | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6, *+2 fiery blast Uzi*)                       |
-| Full Atk          | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6, *+2 fiery blast Uzi*) |
+| Atk               | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6,* +2 fiery blast Uzi*)                       |
+| Full Atk          | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6,* +2 fiery blast Uzi*) |
 | FS                | 10 ft. by 10 ft.                                                                                                                                                         |
 | Reach             | 10 ft.                                                                                                                                                                   |
-| SQ                | heat, spell-like abilities, *polymorph *(self only), immune to fire, cold vulnerability, *grant wishes*, telepathy, darkvision 60 ft.                                    |
+| SQ                | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, *grant wishes*, telepathy, darkvision 60 ft.                                    |
 | AL                | Draco Industries, evil, law                                                                                                                                              |
 | Fort              | +12                                                                                                                                                                      |
 | Ref               | +13                                                                                                                                                                      |
@@ -167,8 +167,8 @@ cast by a 10th-level Mage (save DC 15 + spell level). The DCs are
 Charisma-based.
 
 **Possessions**: *+3 undercover vest, +2 fiery blast greataxe, +2 fiery
-blast Uzi *(9mm submachine gun), 100 rounds of 9mm ammunition, *ring of
-surveillance detection*, *wand of lightning bolt *(15 charges), 3
+blast Uzi *(9mm submachine gun), 100 rounds of 9mm ammunition,* ring of
+surveillance detection*,* wand of lightning bolt *(15 charges), 3
 *potions of Strength*, business outfit, cell phone.
 
 Sasha
@@ -245,4 +245,4 @@ Point Blank Shot, Simple Weapons Proficiency, Weapon Finesse (snakes).
 
 **Possessions:** Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
 ammunition, concealed carry holster, firearms license, business
-clothing, overcoat, *eldritch cell phone, *PDA, disguise kit.
+clothing, overcoat, *eldritch cell phone,* PDA, disguise kit.

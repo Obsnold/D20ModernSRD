@@ -143,7 +143,7 @@ number of spells per day by consulting the two tables below.
 
 | Mage Level | ———— Spells per Day by Spell Level ———— | | | | | |
 |---|---|---|---|---|---|---|
-| | **0** | **1** | **2** | **3** | **4** | **5** |
+| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 1st | 3 | 1 | — | — | — | — |
 | 2nd | 4 | 2 | — | — | — | — |
 | 3rd | 4 | 2 | 1 | — | — | — |
@@ -154,8 +154,8 @@ number of spells per day by consulting the two tables below.
 | 8th | 4 | 4 | 3 | 3 | 2 | — |
 | 9th | 4 | 4 | 4 | 3 | 2 | 1 |
 | 10th | 4 | 4 | 4 | 3 | 3 | 2 |
-| **Int Score** | **———— Bonus Spells by Spell Level ————** | | | | | |
-| | **0** | **1** | **2** | **3** | **4** | **5** |
+| **Int Score** |** ———— Bonus Spells by Spell Level ————** | | | | | |
+| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 12–13 | — | 1 | — | — | — | — |
 | 14–15 | — | 1 | 1 | — | — | — |
 | 16–17 | — | 1 | 1 | 1 | — | — |

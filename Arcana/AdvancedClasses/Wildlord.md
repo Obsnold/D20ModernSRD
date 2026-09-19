@@ -190,9 +190,9 @@ animal companion.
 | 9           | +10      | 10            | +5          | Improved evasion   |
 | 10          | +12      | 12            | +6          |                    |
 
-*Class Level: *The level of the Wildlord.
+*Class Level:* The level of the Wildlord.
 
-*Bonus HD: *These are extra eight-sided (d8) Hit Dice, each of which
+*Bonus HD:* These are extra eight-sided (d8) Hit Dice, each of which
 gains a Constitution modifier, as normal. Remember that extra Hit Dice
 improve the animal companion’s base attack and base save bonuses. An
 animal companion’s base attack bonus is equal to a Wildlord whose level
@@ -201,30 +201,30 @@ Reflex saves (treat it as a character whose level equals the animal’s
 HD). The animal companion doesn’t gain any extra skill points or feats
 for bonus HD.
 
-*Natural Armor: *The number listed here is an improvement to the animal
+*Natural Armor:* The number listed here is an improvement to the animal
 companion’s natural armor rating.
 
-*Str/Dex Adj.: *Add this figure to the animal companion’s Strength and
+*Str/Dex Adj.:* Add this figure to the animal companion’s Strength and
 Dexterity scores.
 
-*Link (Ex): *The Wildlord gains a +4 circumstance bonus on Animal
+*Link (Ex):* The Wildlord gains a +4 circumstance bonus on Animal
 Empathy and Handle Animal checks made regarding the animal companion.
 
-*Evasion (Ex): *If the animal companion is subjected to an attack that
+*Evasion (Ex):* If the animal companion is subjected to an attack that
 normally allows a Reflex saving throw for half damage, it takes no
 damage if it makes a successful saving throw.
 
-*Devotion (Ex): *The animal companion’s devotion to its master is so
+*Devotion (Ex):* The animal companion’s devotion to its master is so
 complete, it gains a +4 morale bonus on all Will saves against
 Enchantment spells and effects.
 
-*Multiattack (Ex): *The animal companion gains the Multiattack feat, if
+*Multiattack (Ex):* The animal companion gains the Multiattack feat, if
 it has 3 or more natural attacks. If it does not have the requisite 3 or
 more natural attacks, the animal companion instead gains a second attack
 with its primary natural attack, albeit at a –5 to the base attack
 bonus.
 
-*Improved Evasion (Ex): *If the animal companion is subjected to an
+*Improved Evasion (Ex):* If the animal companion is subjected to an
 attack that normally allows a Reflex saving throw for half damage, it
 takes no damage if it makes a successful saving throw and only half
 damage if the saving throw fails.

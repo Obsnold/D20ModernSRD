@@ -51,8 +51,8 @@ determine that some negotiations require a longer period of time.
 | Indifferent | Doesn’t much care | Act as socially expected | | | |
 | Friendly | Wishes you well | Chat, advise, offer limited help, advocate | | | |
 | Helpful | Will take risks to help you | Protect, back up, heal, aid | | | |
-| **Initial Attitude** | **<sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup> New Attitude </sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup>** | | | | |
-| | **Hostile** | **Unf.** | **Indif.** | **Friendly** | **Helpful** |
+| **Initial Attitude** |** <sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup> New Attitude </sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup>** | | | | |
+| | **Hostile** |** Unf.** |** Indif.** |** Friendly** |** Helpful** |
 | **Hostile** | 19 or less | 20 | 25 | 35 | 45 |
 | **Unfriendly** | 4 or less | 5 | 15 | 25 | 35 |
 | **Indifferent** | — | 0 or less | 1 | 15 | 25 |

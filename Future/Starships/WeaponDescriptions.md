@@ -21,17 +21,17 @@ increments, while projectile weapons have unlimited range.
 **Rate of Fire:** Ranged weapons have three possible rates of fire:
 single shot, semiautomatic, or automatic.
 
-*Single Shot: *A weapon with a single shot rate of fire can fire only
+*Single Shot:* A weapon with a single shot rate of fire can fire only
 one shot per attack, even if the gunner has a feat or other ability that
 normally allows more than one shot per attack.
 
-*Semiautomatic (S): *A semiautomatic ranged weapon fires one shot per
+*Semiautomatic (S):* A semiautomatic ranged weapon fires one shot per
 attack (effectively acting as a single shot weapon). However, a gunner
 who gains multiple attacks per round because of his level or because of
 certain feats can fire a semiautomatic beam weapon multiple times in
 rapid succession, getting more than one shot per attack.
 
-*Automatic (A): *Automatic ranged weapons fire a burst or stream of
+*Automatic (A):* Automatic ranged weapons fire a burst or stream of
 shots. Only weapons with the automatic rate of fire can be set on
 autofire or be used with feats that take advantage of automatic fire.
 See the Starship Weapons on Autofire for more rules and information.

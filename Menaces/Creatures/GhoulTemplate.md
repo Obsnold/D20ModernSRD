@@ -38,7 +38,7 @@ below.
 
 *Create Spawn (Su)*: If a ghoul’s prey contracts advanced necrotizing
 faciitis (see below) from the wounds it has sustained and dies from the
-disease, it rises 1d3 days later as a ghoul. A *remove disease *spell
+disease, it rises 1d3 days later as a ghoul. A *remove disease* spell
 cast on the corpse can prevent it from rising.
 
 *Disease (Su)*: A ghoul’s bite infects the victim with a supernatural
@@ -53,15 +53,15 @@ gradually turns dark purple and forms bloody blisters as the disease
 devours more and more of the victim’s flesh. The disease can be arrested
 completely through amputation of the affected limb, but most doctors
 prefer to combat it by surgical removal of all the affected tissue as
-well as some nearby healthy tissue. A *cure disease *spell or a
+well as some nearby healthy tissue. A *cure disease* spell or a
 successful Treat Injury check (surgery, DC 25) halts the disease. The GM
 should roll the check secretly; if it fails, the disease returns again
 in 1d3 days.
 
-*Scent (Ex): *This ability allows a ghoul to detect approaching enemies,
+*Scent (Ex):* This ability allows a ghoul to detect approaching enemies,
 sniff out hidden foes, and track by sense of smell.
 
-*Undead: *Ghouls have the traits and immunities common
+*Undead:* Ghouls have the traits and immunities common
 
 to undead.
 

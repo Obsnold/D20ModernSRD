@@ -15,7 +15,7 @@
 
 You create up to four lights that resemble lanterns or flashlights (and
 cast that amount of light), or up to four glowing spheres of light, or
-one faintly glowing, vaguely humanoid shape. The *dancing lights *must
+one faintly glowing, vaguely humanoid shape. The *dancing lights* must
 stay within a 10-foot-radius area in relation to each other but
 otherwise move as you desire (no concentration required): forward or
 back, up or down, straight or turning corners, and so forth. The lights

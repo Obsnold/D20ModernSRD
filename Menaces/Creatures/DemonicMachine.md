@@ -8,8 +8,8 @@ shredder, or the like—is an excellent candidate for fiendish possession.
 
 ## Species Traits
 
-***Charm Person *(Sp):** Once per day, as a full-round action, the
-demonic machine can use *charm person *(manifester level 5th; save DC
+**Charm Person (Sp):** Once per day, as a full-round action, the
+demonic machine can use *charm person* (manifester level 5th; save DC
 8).
 
 **Construct:** A demonic machine has the traits and immunities common to

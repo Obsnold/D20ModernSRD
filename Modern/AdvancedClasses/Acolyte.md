@@ -152,7 +152,7 @@ total number of spells per day by consulting the two tables below.
 
 | Acolyte Level | ———— Spells per Day by Spell Level ———— | | | | | |
 |---|---|---|---|---|---|---|
-| | **0** | **1** | **2** | **3** | **4** | **5** |
+| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 1st | 3 | 2 | — | — | — | — |
 | 2nd | 4 | 3 | — | — | — | — |
 | 3rd | 4 | 3 | 2 | — | — | — |
@@ -163,8 +163,8 @@ total number of spells per day by consulting the two tables below.
 | 8th | 6 | 5 | 4 | 4 | 3 | — |
 | 9th | 6 | 5 | 5 | 4 | 3 | 2 |
 | 10th | 6 | 5 | 5 | 4 | 4 | 3 |
-| **Wis Score** | **———— Bonus Spells by Spell Level ————** | | | | | |
-| | **0** | **1** | **2** | **3** | **4** | **5** |
+| **Wis Score** |** ———— Bonus Spells by Spell Level ————** | | | | | |
+| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 12–13 | — | 1 | — | — | — | — |
 | 14–15 | — | 1 | 1 | — | — | — |
 | 16–17 | — | 1 | 1 | 1 | — | — |

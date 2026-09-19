@@ -82,7 +82,7 @@ Field Officer’s touch and flat-footed Defense, as well.) He must declare
 he is doing this at the beginning of his turn, and the Defense bonus
 lasts until his next round of actions.
 
-**Bonus Feats **
+**Bonus Feats**
 
 At 3rd, 6th, and 9th level, the Field Officer gets a bonus feat. The
 bonus feat must be selected from the following list, and the Field

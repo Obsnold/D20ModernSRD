@@ -14,7 +14,7 @@ action, a sea serpent can blur its outline for a number of rounds equal
 to its Hit Dice. This distortion grants the sea serpent one-half
 concealment (20% miss chance). A sea serpent cannot be recorded on any
 visual media while in this state—a photograph shows only a fuzzy haze. A
-*see invisibility *spell does not counteract this effect, but a *true
+*see invisibility* spell does not counteract this effect, but a *true
 seeing *spell does.
 
 **Improved Grab (Ex):** To use this ability, the sea serpent must hit an

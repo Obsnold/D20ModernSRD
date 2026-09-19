@@ -15,7 +15,7 @@
 | Power Point Cost   | 1                               |
 
 You can alter the subject’s mood. An affected creature feels the new
-emotion, but *telempathic projection *cannot radically change its
+emotion, but *telempathic projection* cannot radically change its
 emotional state. Instead, you adjust its emotions by one step. For
 instance, an unfriendly creature might be made indifferent, or a hostile
 creature simply unfriendly. You can grant up to a +1 bonus on your own

@@ -11,23 +11,23 @@ special in that they do not require a feat to be used effectively.
 
 | Nonfirearms (feat needed listed in parentheses) |            |          |                 |                     |                  |              |          |            |                 |                 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Weapon **                                     | **Damage** | Critical | **Damage Type** | **Range Increment** | **Rate of Fire** | **Magazine** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
+| **Weapon**                                      | **Damage** | Critical |** Damage Type** |** Range Increment** |** Rate of Fire** |** Magazine** |** Size** |** Weight** |** Purchase DC** |** Restriction** |
 | Air pistol (simple)*                            | 1d2        | 20       | Piercing        | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 7               | —               |
 | Air rifle (simple)*                             | 1d2        | 20       | Piercing        | 50 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 8               | —               |
 | Blowgun (simple)*                               | 1          | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 4               | —               |
-| Bolas (archaic)*                                | *          | —        | *               | 10 ft.              | 1                | —            | Small    | 2 lb.      | 3               | —               |
-| Crossbow, grapple-firing (archaic)*             | 1d3        | *        | Piercing        | 120 ft.             | 1                | 1 Int.       | Med.     | 12 lb.     | 12              | —               |
+| Bolas (archaic)*                                |*           | —        | *               | 10 ft.              | 1                | —            | Small    | 2 lb.      | 3               | —               |
+| Crossbow, grapple-firing (archaic)*             | 1d3        |*         | Piercing        | 120 ft.             | 1                | 1 Int.       | Med.     | 12 lb.     | 12              | —               |
 | Crossbow, hand (archaic)                        | 1d4        | 19–20    | Piercing        | 30 ft.              | 1                | 1 Int.       | Tiny     | 3 lb.      | 11              | —               |
 | Crossbow, repeating (exotic)                    | 1d8        | 19–20    | Piercing        | 80 ft.              | 1                | 5 Int.       | Med.     | 16 lb.     | 13              | —               |
 | Flare gun (simple)*                             | 1d8        | 20       | Fire            | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 11              | —               |
-| Net (archaic)*                                  | *          | —        | *               | 10 ft.*             | 1                | —            | Med.     | 10 lb.     | 6               | —               |
+| Net (archaic)*                                  |*           | —        | *               | 10 ft.*             | 1                | —            | Med.     | 10 lb.     | 6               | —               |
 | Net launcher (grenade launcher)                 | *          | —        | —               | 10 ft.              | 1                | 1 Int.       | Large    | 20 lb.     | 15              | Lic (+1)        |
-| Paint ball gun (simple)                         | —          | 20*      | *               | 30 ft.              | Semi             | 40 Int.      | Small    | 2 lb.      | 8               |                 |
+| Paint ball gun (simple)                         | —          | 20*      |*                | 30 ft.              | Semi             | 40 Int.      | Small    | 2 lb.      | 8               |                 |
 | Sling (archaic)                                 | 1d4        | 20       | Ballistic       | 50 ft.              | 1                | —            | Small    | —          | 3               | —               |
 | Slingshot (simple)                              | 1d3        | 20       | Ballistic       | 50 ft.              | 1                | —            | Tiny     | 1 lb.      | 4               | —               |
 | Speargun (simple)*                              | 2d6        | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 10              | —               |
-| Super watergun (no feat required)*              | *          | *        | *               | 10 ft.              | 1                | 5 Int.       | Med.     | 2 lb.      | 4               | —               |
-| Water cannon (simple)*                          | *          | —        | *               | 10 ft.              | *                | 20 Int.      | Huge     | 50 lb.     | 19              | Lic (+1)        |
+| Super watergun (no feat required)*              |*           | *        |*                | 10 ft.              | 1                | 5 Int.       | Med.     | 2 lb.      | 4               | —               |
+| Water cannon (simple)*                          |*           | —        | *               | 10 ft.              |*                 | 20 Int.      | Huge     | 50 lb.     | 19              | Lic (+1)        |
 
 See weapon description for more information.
 
@@ -390,7 +390,7 @@ the Exotic Melee Weapons feat).
 | **Simple Weapons**       |         |          |                       |                 |       |        |             |             |
 | Club, spiked             | 1d8     | 20       | Bludgeoning, Piercing | —               | Med.  | 8 lb.  | 5           | —           |
 | Dagger, punching         | 1d4     | 20/x3    | Piercing              | —               | Tiny  | 2 lb.  | 5           | —           |
-| Gauntlet                 | *       | *        | Bludgeoning           | —               | *     | 2 lb.  | 5           | —           |
+| Gauntlet                 | *       |*         | Bludgeoning           | —               | *     | 2 lb.  | 5           | —           |
 | Gauntlet, spiked         | 1d4     | 20       | Piercing              | —               | Tiny  | 2 lb.  | 6           | —           |
 | Ketch-all pole*          | 1d4*    | 20       | Bludgeoning           | —               | Large | 8 lb.  | 11          | —           |
 | Mace, heavy              | 1d8     | 20       | Bludgeoning           | —               | Med.  | 8 lb.  | 5           | —           |
@@ -439,7 +439,7 @@ the Exotic Melee Weapons feat).
 | Waraxe, dwarven*         | 1d10    | 20/x3    | Slashing              | —               | Med.  | 15 lb. | 15          | —           |
 | War fan*                 | 1d6     | 20/x3    | Slashing              | —               | Small | 3 lb.  | 12          | —           |
 
-See the description of this weapon for special rules. *†*Reach weapon. *‡*Double weapon.
+See the description of this weapon for special rules. *†*Reach weapon.* ‡*Double weapon.
 
 **Axe, Orc Double**
 

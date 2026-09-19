@@ -1,7 +1,7 @@
 # Vivilor
 
 Vivilors are outsiders who come in response to the
-*summon vivilor *spell. Vivilors generally have
+*summon vivilor* spell. Vivilors generally have
 humanoid shapes, but spellcasters can summon quadupedal or serpentine
 vivilors if they wish. In addition to their basic statistics, a summoner
 chooses additional special qualities from Vivilor Menu A or Vivilor Menu

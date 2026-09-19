@@ -22,7 +22,7 @@ secondary 1d4 Con).
 **Immunities (Ex):** A sewer sludge is immune to electricity and cold
 damage. If a cold attack deals damage equal to or greater than the sewer
 sludge’s Constitution score, the creature is affected as though by a
-*slow *spell.
+*slow* spell.
 
 **Improved Grab (Ex):** To use this ability, the sewer sludge must hit
 an opponent at least one size category smaller than itself with its slam

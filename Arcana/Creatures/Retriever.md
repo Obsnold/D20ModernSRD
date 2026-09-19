@@ -21,25 +21,25 @@ rounds. It can fire an eye ray in the same round as it makes physical
 attacks. The save DC for all rays is 10 + 1/2 the retriever’s Hit Dice +
 the retriever’s Dexterity modifier. The four eye effects are:
 
-*Fire: *Deals 12d6 points of fire damage to the target
+*Fire:* Deals 12d6 points of fire damage to the target
 (Reflex half).
 
-*Cold: *Deals 12d6 points of cold damage to the target
+*Cold:* Deals 12d6 points of cold damage to the target
 (Reflex half).
 
-*Electricity: *Deals 12d6 points of electricity damage
+*Electricity:* Deals 12d6 points of electricity damage
 to the target (Reflex half).
 
-*Petrification: *The target must succeed on a Fortitude
+*Petrification:* The target must succeed on a Fortitude
 save or turn to stone permanently.
 
 **Fast Healing 5 (Ex):** Retrievers regain 5 hit points
 per round. Fast healing stops working when the retriever is reduced to 0
 hit points or fewer.
 
-***Find Target *(Sp): **When ordered to find
+**Find Target (Sp):** When ordered to find
 an item or being, a retriever does so unerringly, as though guided by
-*discern location. *The being giving the order
+*discern location.* The being giving the order
 must have seen (or have an item belonging to) the creature to be found,
 or have touched the object to be located. This ability is the equivalent
 of an 8th-level spell.

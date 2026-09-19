@@ -22,7 +22,7 @@ various enclaves of Shadowkind, and to deal with violent or destructive
 creatures of Shadow (or to protect benevolent creatures of Shadow from
 hostile mundanes). In the absence of an assigned task, agents are free
 to do whatever they like, but Department-7 demands that they maintain an
-appropriate public profile (in other words, that they *not *do anything
+appropriate public profile (in other words, that they *not* do anything
 that would break the trust that the organization has in either mundane
 or Shadow circles).
 
@@ -38,24 +38,24 @@ the following:
 
 **Synchronicity Watch:** A wrist or pocket watch that allows agents to
 move through crowds more easily than usual. Once per day, the watch can
-be used to activate a limited version of the *synchronicity *spell. It
+be used to activate a limited version of the *synchronicity* spell. It
 works exactly the same way as the spell except that the duration is only
 10 rounds.
 
-*Type: *Wondrous item (magic); *Caster Level: *5th; *Purchase DC: *32;
-*Weight: *—.
+*Type:* Wondrous item (magic); *Caster Level:* 5th; *Purchase DC:* 32;
+*Weight:* —.
 
 **Secret Pockets:** Each agent may choose one garment (pants,
 windbreaker, overcoat, etc.) and have up to two pockets of the garment
-function as described in the *secret pocket *spell.
+function as described in the *secret pocket* spell.
 
-*Type: *Wondrous item (magic); *Caster Level: *5th; *Purchase DC: *34;
-*Weight: *1 lb.
+*Type:* Wondrous item (magic); *Caster Level:* 5th; *Purchase DC:* 34;
+*Weight:* 1 lb.
 
 **Daylight Flares:** Every agent receives six sticks that look very much
 like unsharpened pencils. When a stick is snapped in two, the tip of the
-bottom half glows as thought it was the target of a *daylight *spell.
+bottom half glows as thought it was the target of a *daylight* spell.
 This effect lasts for 20 minutes.
 
-*Type: *Wondrous item (magic); *Caster Level: *2nd; *Purchase DC: *27;
-*Weight *—.
+*Type:* Wondrous item (magic); *Caster Level:* 2nd; *Purchase DC:* 27;
+*Weight* —.

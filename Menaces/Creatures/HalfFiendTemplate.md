@@ -39,9 +39,9 @@ greater.
 the base creature and gains the additional special qualities described
 below.
 
-*Darkvision *(Ex): A half-fiend has darkvision with a range of 60 feet.
+*Darkvision* (Ex): A half-fiend has darkvision with a range of 60 feet.
 
-*Damage Reduction *(Ex): Roll on Table: Fiend Immunities, Resistances,
+*Damage Reduction* (Ex): Roll on Table: Fiend Immunities, Resistances,
 and Damage Reduction, subtracting 30 from the die roll, to determine
 whether the half-fiend has damage reduction. If the result is less than
 1, the half-fiend has no damage reduction. If the campaign includes few
@@ -54,27 +54,27 @@ Damage Reduction, subtracting 30 from the die roll, to determine whether
 the half-fiend has any immunities. If the result is less than 1, the
 half-fiend has no immunities.
 
-*Outsider: *A half-fiend has the traits common to outsiders.
+*Outsider:* A half-fiend has the traits common to outsiders.
 
-*Resistance to Energy *(Ex): Roll on Table: Fiend Immunities,
+*Resistance to Energy* (Ex): Roll on Table: Fiend Immunities,
 Resistances, and Damage Reduction, subtracting 30 from the die roll, to
 determine whether the half-fiend has any resistances. If the result is
 less than 1, the half-fiend has no resistances.
 
-*Spell-Like Abilities: *A half-fiend with an Intelligence or Wisdom
+*Spell-Like Abilities:* A half-fiend with an Intelligence or Wisdom
 score of 8 or higher possesses spell-like abilities according to its
 character level, as given on the table below. Unless otherwise
 indicated, each ability is usable once per day.
 
 | Level | Abilities         | Level | Abilities      |
 |---|---|---|---|
-| 1–2   | *Mage hand *3/day | 11–12 | *Levitate*     |
-| 3–4   | *Daze *3/day      | 13–14 | *Displacement* |
-| 5–6   | *Change self *    | 15–16 | *Tongues*      |
-| 7–8   | *Cause fear *     | 17–18 | *Bestow curse* |
-| 9–10  | *Blur *           | 19+   | *Animate dead* |
+| 1–2   | *Mage hand* 3/day | 11–12 | *Levitate*     |
+| 3–4   | *Daze* 3/day      | 13–14 | *Displacement* |
+| 5–6   | *Change self*     | 15–16 | *Tongues*      |
+| 7–8   | *Cause fear*      | 17–18 | *Bestow curse* |
+| 9–10  | *Blur*            | 19+   | *Animate dead* |
 
-*Telepathy *(Su): A half-fiend with an Intelligence score of 12 or
+*Telepathy* (Su): A half-fiend with an Intelligence score of 12 or
 higher can communicate telepathically with any living creature within
 100 feet that has a language.
 

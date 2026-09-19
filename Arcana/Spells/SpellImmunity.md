@@ -19,11 +19,11 @@ regarding the specified spell or spells. Naturally, such immunity
 doesn’t protect a creature from spells for which spell resistance
 doesn’t apply.
 
-*Spell immunity *protects against spells, spell-like effects of magic
+*Spell immunity* protects against spells, spell-like effects of magic
 items, and innate spell-like abilities of creatures. It does not protect
 against supernatural or extraordinary abilities, such as breath weapons
 or gaze attacks. Only a particular spell can be protected against, not a
 school of spells or a group of spells that are similar in effect.
 
-A creature can have only one *spell immunity *spell in effect on it at a
+A creature can have only one *spell immunity* spell in effect on it at a
 time.

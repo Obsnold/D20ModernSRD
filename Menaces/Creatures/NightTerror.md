@@ -28,7 +28,7 @@ hours.
 
 **Selective Invisibility (Su):** Once the night terror has chosen its
 victim, only that individual can see it. To everyone else, the creature
-is invisible, as the *invisibility *spell (caster level 10th). If the
+is invisible, as the *invisibility* spell (caster level 10th). If the
 night terror attacks anyone, it becomes visible to all viewers until the
 next sunrise.
 

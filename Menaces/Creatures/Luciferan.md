@@ -112,8 +112,8 @@ Combat Expertise, Iron Will, Low Profile, Simple Weapons Proficiency.
 
 **Talents:** Savant (research), trick.
 
-**Mage Spells **(4/3/1): 0—*detect magical aura*, *light*, *mage hand*,
-*read magic*; 1st—*change self*, *power device*, *sleep*;
+**Mage Spells** (4/3/1): 0—*detect magical aura*,* light*,* mage hand*,
+*read magic*; 1st—*change self*,* power device*,* sleep*;
 2nd—*invisibility*. Caster level 3rd; save DC 11 + spell level.
 
 **Possessions:** Colt Python (.357 revolver), 12 rounds of .357

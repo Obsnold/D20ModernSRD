@@ -1,4 +1,4 @@
-# Biodroid (pl 6)
+# Biodroid (PL 6)
 
 Biodroids are a step up from biomorphs, in that they can be mistaken,
 under certain conditions, for what they are made to resemble. However,
@@ -31,7 +31,7 @@ can use the Disguise skill to increase the Spot check DC.
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
 | Colossal       | 48                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 5       | 45d10/+4 per HD                           |
 | Gargantuan     | 40                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 5       | 31d10/+3 per HD                           |
 | Huge           | 32                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 5       | 15d10/+2 per HD                           |

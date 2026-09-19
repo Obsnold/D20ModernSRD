@@ -1,4 +1,4 @@
-# Katana*-Class Template (pl 8)
+# Katana-Class Template (PL 8)
 
 The *Katana*-class template can be applied to any ultralight fighter or
 assault fighter. The starship’s design specs should be adjusted as

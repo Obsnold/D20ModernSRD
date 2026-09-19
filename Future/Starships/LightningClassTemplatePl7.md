@@ -1,4 +1,4 @@
-# Lightning*-Class Template (pl 7)
+# Lightning-Class Template (PL 7)
 
 The *Lightning*-class template can be applied to any PL 6 light
 starship. The starship’s design specs should be adjusted as follows.

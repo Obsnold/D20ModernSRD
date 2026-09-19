@@ -17,4 +17,4 @@ any creature or character makes a Search or Spot check to detect the
 object, he or she does not gain equipment bonuses from any device that
 detects metal.
 
-*Material Component: *A magnet.
+*Material Component:* A magnet.

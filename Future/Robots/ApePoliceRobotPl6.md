@@ -1,4 +1,4 @@
-# Ape Police Robot (pl 6)
+# Ape Police Robot (PL 6)
 
 The Armed Police Escort (APE) robot is designed to help police deal with
 civil disobedience and unrest in the urban jungle. This robot resembles

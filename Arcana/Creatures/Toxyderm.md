@@ -408,7 +408,7 @@ loss.
 | High | 21 | 1d6 Con | | | |
 | Severe | 24 | 2d6 Con | | | |
 
-**Minimum damage 0 Con.*
+\**Minimum damage 0 Con.*
 
 **Urban Wendigo**
 
@@ -438,7 +438,7 @@ desolation that created the urban wendigo in the first place, the urban
 wendigo gains the benefit of *invisibility*, as
 the spell cast by a 10th-level Mage. By staying out of the direct,
 focused vision of city dwellers, the urban wendigo can roam the city
-unseen. Unlike the *invisibility *spell, any
+unseen. Unlike the *invisibility* spell, any
 character looking in the general direction of the urban wendigo and
 taking an attack action to make a Spot check (DC = the urban wendigo’s
 Hide check) can see the urban wendigo if the check succeeds. Once a

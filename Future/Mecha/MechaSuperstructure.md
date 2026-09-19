@@ -30,7 +30,7 @@ purchase.
 
 |                              | —— Modified Base Purchase DC —— |           |          |                |              |
 |---|---|---|---|---|---|
-| **Superstructure Material ** | **Hardness**                    | **Large** | **Huge** | **Gargantuan** | **Colossal** |
+| **Superstructure Material**  | **Hardness**                    |** Large** |** Huge** |** Gargantuan** |** Colossal** |
 | Alumisteel (PL 5)            | 10                              | 36        | 40       | 44             | 56           |
 | Duralloy (PL 6)              | 15                              | 40        | 44       | 48             | 60           |
 | Vanadium (PL 6)              | 20                              | 44        | 48       | 52             | 64           |

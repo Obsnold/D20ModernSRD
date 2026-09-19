@@ -10,7 +10,7 @@ category.
 
 | Speed Category | Character Scale | Chase Scale | Defense Modifier | Check/Roll Modifier | | |
 |---|---|---|---|---|---|---|
-| | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** | **Movement<sup>1</sup>** | **Turn Number<sup>2</sup>** | | |
+| | **Movement<sup>1</sup>** |** Turn Number<sup>2</sup>** |** Movement<sup>1</sup>** |** Turn Number<sup>2</sup>** | | |
 | Stationary<sup>3</sup> | 0 | — | 0 | — | +0 | — |
 | Alley speed | 1–20 | 1 | 1–2 | 1 | +0 | +0 |
 | Street speed | 21–50 | 2 | 3–5 | 1 | +1 | –1 |

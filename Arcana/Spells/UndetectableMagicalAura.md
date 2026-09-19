@@ -13,10 +13,10 @@
 | Spell Resistance | No                                        |
 
 This glamer allows you to mask a magic item’s aura from detection. It
-fools *detect magical aura *spells such that the item appears
-nonmagical. If the object bearing *undetectable magical aura *has
-*instant identify *cast on it, the examiner recognizes that the aura is
+fools *detect magical aura* spells such that the item appears
+nonmagical. If the object bearing *undetectable magical aura* has
+*instant identify* cast on it, the examiner recognizes that the aura is
 false and detects the object’s actual qualities if he succeeds at a Will
 save.
 
-*Focus: *A small square of silk that must be passed over the object.
+*Focus:* A small square of silk that must be passed over the object.

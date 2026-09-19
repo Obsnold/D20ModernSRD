@@ -14,12 +14,12 @@ range, all targets have total concealment with respect to the satanic
 ichor.
 
 **Corrupt the Mind (Su):** As an attack action, satanic ichor can
-*dominate *any creature it can contact telepathically (as the
-*domination *psionic power manifested by a 10th-level Telepath). A
+*dominate* any creature it can contact telepathically (as the
+*domination* psionic power manifested by a 10th-level Telepath). A
 successful Will save (DC 18) negates the effect and protects the
 creature against further domination attempts by the satanic ichor for 24
 hours. Satanic ichor trapped within a container will typically use a
-*dominated *creature to break the container that confines it. Freed
+*dominated* creature to break the container that confines it. Freed
 satanic ichor will typically use a dominated creature as a vessel (see
 below) or thrall to attract other potential thralls.
 
@@ -39,7 +39,7 @@ wound. The target gets a Will save (DC 10 + 1/2 the satanic ichor’s Hit
 Dice + its Charisma modifier) to keep the satanic ichor from entering
 and taking control of its body. If the save fails, the satanic ichor
 seizes control of the creature’s body, using it as a vessel to commit
-murder and other atrocities. A *remove curse *spell can expel satanic
+murder and other atrocities. A *remove curse* spell can expel satanic
 ichor from a creature’s body, but the caster must succeed at a level
 check (1d20 + caster level) or the spell fails (DC 10 + 1/2 the satanic
 ichor’s Hit Dice + its Charisma modifier). The creature possessed by

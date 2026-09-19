@@ -16,7 +16,7 @@ The subject and all her gear become insubstantial, misty (or smoky), and
 translucent. The subject gains damage reduction 10/+1. Her material
 armor (including natural armor) becomes worthless, though her size,
 Dexterity, deflection bonuses, and Defense bonuses from force armor (for
-example, from the *mage armor *spell) still apply. She becomes immune to
+example, from the *mage armor* spell) still apply. She becomes immune to
 poison and critical hits. She can’t attack or cast spells with verbal,
 somatic, material, or focus components while in gaseous form. The
 subject loses supernatural abilities while in gaseous form. If she has a

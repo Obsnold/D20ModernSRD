@@ -1,4 +1,4 @@
-# Bioreplica (“synthetic”)
+# Bioreplica (“Synthetic”)
 
 Bioreplicas exist in societies of Progress Level 7 or higher. These
 anthropomorphic robots, modeled after their creators in most instances,

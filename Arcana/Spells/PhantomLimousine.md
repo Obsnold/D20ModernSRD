@@ -21,16 +21,16 @@ limousine has the exterior color and design details you choose when you
 prepare the spell, and the interior is one of opulent luxury. You decide
 what its license plates look like when you cast the spell.
 
-The *phantom limousine *has a Defense of 6, hardness of 15, and 50 hit
+The *phantom limousine* has a Defense of 6, hardness of 15, and 50 hit
 points +1 point per caster level. If it loses all its hit points, the
-*phantom limousine *disappears. A *phantom limousine *is much faster
+*phantom limousine* disappears. A *phantom limousine* is much faster
 than it looks, with a top speed of 60 feet per caster level, an
 initiative modifier of –2, and a maneuver modifier of –2.
 
-A *phantom limousine *has enough luxurious food and drink inside to
+A *phantom limousine* has enough luxurious food and drink inside to
 provide a hearty meal for all passengers. It has all the powers of a
-*phantom chopper *(ability to drive over bad terrain, water, or air).
+*phantom chopper* (ability to drive over bad terrain, water, or air).
 Additionally, it is airtight and can even travel underwater at a speed
 of 10 feet per caster level.
 
-*Focus: *A pair of car keys on a silver keychain.
+*Focus:* A pair of car keys on a silver keychain.

@@ -14,7 +14,7 @@ Swim checks and cannot drown in water.
 **Blindsight (Ex):** Porpoises can “see” by emitting
 high-frequency sounds, inaudible to most other creatures. This form of
 echolocation allows them to locate objects and creatures within 120
-feet. A *silence *spell negates this and forces
+feet. A *silence* spell negates this and forces
 the porpoise to rely on its vision, which is approximately as good as a
 human’s.
 

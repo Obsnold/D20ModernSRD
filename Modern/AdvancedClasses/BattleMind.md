@@ -166,7 +166,7 @@ level + the Battle Mind’s key ability modifier.
 
 | Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | |
 |---|---|---|---|---|---|---|
-| | | **0** | **1** | **2** | **3** | **4** |
+| | | **0** |** 1** |** 2** |** 3** |** 4** |
 | 1st | 2 | 2 | — | — | — | — |
 | 2nd | 3 | 3 | — | — | — | — |
 | 3rd | 4 | 3 | 1 | — | — | — |

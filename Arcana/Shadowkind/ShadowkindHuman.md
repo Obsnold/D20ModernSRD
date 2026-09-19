@@ -43,7 +43,7 @@ characters.
 A character’s CR is never used to determine how or when a character
 gains new skills and feats, nor does it have any effect on talents,
 spells, and abilities that use character levels. However, a character’s
-CR *is *used to determine how many experience points the character needs
+CR *is* used to determine how many experience points the character needs
 to advance in level (see Experience, below).
 
 EXPERIENCE

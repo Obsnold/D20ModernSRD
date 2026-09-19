@@ -10,7 +10,7 @@
 | Saving Throw               | Will disbelief (if interacted with)                      |
 | Spell Resistance           | No                                                       |
 
-An incantation developed with the *delude *seed creates the visual
+An incantation developed with the *delude* seed creates the visual
 illusion of an object, creature, or force, as visualized by you. You can
 move the image within the limits of the size of the effect by
 concentrating (the image is otherwise stationary).

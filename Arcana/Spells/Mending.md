@@ -12,7 +12,7 @@
 | Saving Throw     | Will negates (harmless, object)   |
 | Spell Resistance | Yes (harmless, object)            |
 
-*Mending *repairs small breaks or tears in objects (not warps). In
+*Mending* repairs small breaks or tears in objects (not warps). In
 metallic objects, it will weld a broken chain link, a necklace, or a
 knife, providing but one break exists. Ceramic or wooden objects with
 multiple breaks can be rejoined to be as strong as new. A hole in a

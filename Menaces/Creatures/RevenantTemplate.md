@@ -44,7 +44,7 @@ statistics and special abilities except as noted here.
 the base creature and gains the additional special qualities described
 below.
 
-*Revenant Regeneration (Ex): *The base creature loses the regeneration
+*Revenant Regeneration (Ex):* The base creature loses the regeneration
 and fast healing special qualities if it had them and gains revenant
 regeneration instead. Only damage that matches the revenant’s special
 vulnerability (see below) actually reduces its hit points. However,
@@ -59,7 +59,7 @@ nonvulnerability damage tally is wiped clean. Note that damage matching
 the revenant’s special vulnerability reduces its revenant regeneration
 damage threshold by reducing its actual hit points.
 
-*Special Vulnerability (Ex): *Each revenant has a special vulnerability
+*Special Vulnerability (Ex):* Each revenant has a special vulnerability
 related to the way it died. Any attack that deals the kind of damage
 that caused the revenant’s original death deals damage to the creature
 normally. Should the revenant reach 0 hit points from such damage, it is
@@ -78,16 +78,16 @@ vulnerability. If the revenant is subjected to another such mixed-damage
 attack, it takes hit point damage only from the type to which it is
 vulnerable.
 
-*Turn Resistance (Ex): *A revenant is treated as an undead with Hit Dice
+*Turn Resistance (Ex):* A revenant is treated as an undead with Hit Dice
 equal to the base creature’s Hit Dice +3 for the purpose of turn or
 rebuke attempts. This turn resistance increases by an additional +2 when
 it sees a creature upon which it wishes to take revenge and decreases by
 –2 while it is within sight of its vulnerability fear (see below). These
 modifiers stack.
 
-*Undead: *Revenants have the traits and immunities common to undead.
+*Undead:* Revenants have the traits and immunities common to undead.
 
-*Vulnerability Fear (Ex): *A revenant is terrified of any specific items
+*Vulnerability Fear (Ex):* A revenant is terrified of any specific items
 directly associated with its cause of death. Only something directly
 associated with the revenant’s death can cause this fear; the creature
 cannot be deceived by illusions or duplicates. When the revenant sees

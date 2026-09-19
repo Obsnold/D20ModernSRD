@@ -11,7 +11,7 @@
 | Saving Throw               | None (see text)       |
 | Spell Resistance           | Yes (harmless)        |
 
-An incantation developed with the *life *seed will restore life and
+An incantation developed with the *life* seed will restore life and
 complete vigor to any deceased creature. The condition of the remains is
 not a factor. So long as some small portion of the creature’s body still
 exists, it can be returned to life, but the portion receiving the
@@ -23,7 +23,7 @@ health, with no loss of prepared spells. However, the subject loses 1
 level (or 1 point of Constitution if the subject was 1st level). You
 cannot revive someone who has died of old age.
 
-You can also use the *life *seed to give an animal or plant a soul,
+You can also use the *life* seed to give an animal or plant a soul,
 personality, and sentience. For each point of Intelligence, Wisdom, or
 Charisma you give your creation, increase the Knowledge (arcane lore)
 check DC by +1. You can’t create a creature with a higher Intelligence,

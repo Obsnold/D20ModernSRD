@@ -63,7 +63,7 @@ talents. The Artificer must have ranks in the appropriate Craft skill to
 use the talent. Note that for talents that are available to other arcane
 advanced classes, the Artificer’s version is less expensive.
 
-*Craft Wand:*** **With this talent, the Artificer can create wands,
+**Craft Wand:** With this talent, the Artificer can create wands,
 which carry spells within themselves. The Artificer can create a wand of
 any spell of 4th level or lower that he knows. Crafting a wand takes 12
 hours x the spell’s level. When the Artificer creates a wand, he sets
@@ -153,8 +153,8 @@ saved as a file on a computer or PDA.
 **Improved Scribe Tattoo**: With this talent, an Artificer can create
 tattoos on his body or on someone else’s. Tattoos function similarly to
 scrolls, and are created in the same way (see Scribe Scroll), except
-that the pertinent skill is Craft (visual arts). **Magic Mastercraft:
-**With this talent, the Artificer can create magical mastercraft items.
+that the pertinent skill is Craft (visual arts). **Magic Mastercraft:**
+With this talent, the Artificer can create magical mastercraft items.
 
 Each time the Artificer selects this Craft Artifice talent, he applies
 it to either armor or weapons. From this point on, he can build magical

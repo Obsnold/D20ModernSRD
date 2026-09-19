@@ -16,7 +16,7 @@ personnel and materials from various government agencies including the
 FBI, Center for Disease Control, Office of Homeland Security,
 Immigration and Naturalization Services, and Internal Revenue Service
 among many others. She usually works with a small team of scientists and
-agents, but transfers them out every month or two so that *she *is the
+agents, but transfers them out every month or two so that *she* is the
 only truly permanent member of the Commission.
 
 Several government organizations (including the NSA and the Departments

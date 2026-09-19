@@ -22,7 +22,7 @@ bodies, to a maximum of 45 Hit Dice.
 **Immunities (Ex):** Toxic sludges are immune to acid, electricity, and
 cold damage. If a cold attack deals damage equal to or greater than a
 toxic sludge’s Constitution score, the toxic sludge is affected as
-though by a *slow *spell.
+though by a *slow* spell.
 
 **Improved Grab (Ex):** To use this ability, the toxic sludge must hit
 an opponent at least one size category smaller than itself with its slam

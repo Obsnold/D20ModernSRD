@@ -18,8 +18,8 @@ of wood, metal, or plastic.
 **Skill Bonus:** A jynx gains a +4 species bonus on Disable Device
 checks.
 
-***Spider Climb *(Sp):** A jynx can travel on any surface as though
-affected by a *spider climb *spell. This ability is always active.
+**Spider Climb (Sp):** A jynx can travel on any surface as though
+affected by a *spider climb* spell. This ability is always active.
 
 ## Jynx
 

@@ -22,4 +22,4 @@ hair or a few ounces of dirt. It does not change any disturbances that
 person created (including footprints, tool marks, or broken items) or
 remove any object the target person deliberately left.
 
-*Arcane Material Component: *A pair of tweezers.
+*Arcane Material Component:* A pair of tweezers.

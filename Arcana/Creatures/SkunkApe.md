@@ -116,7 +116,7 @@ Proficiency, Track.
 **Talents (Dedicated Hero):** Empathy, skill emphasis
 (Survival).
 
-**Spells **(4/4): 0—*cure minor wounds,
+**Spells** (4/4): 0—*cure minor wounds,
 detect magical aura, read magic, resistance;
 *1st—*bless, cure light wounds, mending, shield of
 faith*.

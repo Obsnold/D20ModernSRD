@@ -16,7 +16,7 @@ damage becomes ability drain. The victim dies, at which point the
 zeikune can begin sucking the liquefied organs from the creature’s body
 (see Siphon Fluids, below).
 
-***Psionics *(Sp):** At will—*combat precognition *(always active),
+**Psionics (Sp):** At will—*combat precognition* (always active),
 *mental blast, object reading*; 3/day—*inflict pain, levitate*.
 Manifester level 5th; save DC 10 + zeikune’s key ability modifier +
 power level.

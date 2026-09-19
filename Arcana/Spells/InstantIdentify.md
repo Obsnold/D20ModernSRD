@@ -16,4 +16,4 @@ The spell determines all magic properties of a single magic item,
 including how to activate those functions (if appropriate) and how many
 charges (if any) are left.
 
-*Arcane Material Component: *A pearl (purchase DC 12).
+*Arcane Material Component:* A pearl (purchase DC 12).

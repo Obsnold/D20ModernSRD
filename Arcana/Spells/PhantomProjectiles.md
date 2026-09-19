@@ -15,14 +15,14 @@
 You turn ammunition (such as arrows, bolts, bullets, and shuriken) into
 incorporeal projectiles that damage only their intended targets.
 
-*Phantom projectiles *pass through intervening obstacles (including
+*Phantom projectiles* pass through intervening obstacles (including
 armor) and thus ignore cover bonuses and equipment bonuses to Defense.
 Barriers of magical force, such as a *wall of force*, stops them.
-*Phantom bullets *count as having a +3 enhancement bonus for the purpose
+*Phantom bullets* count as having a +3 enhancement bonus for the purpose
 of overcoming damage reduction, although they don’t actually receive the
 enhancement bonus on attacks or damage. Additionally, the *phantom
 bullets *disappear 1d4 rounds after being fired, making it impossible to
 gather ballistic evidence.
 
-*Material Component: *In addition to the bullets, the caster needs a
+*Material Component:* In addition to the bullets, the caster needs a
 small chunk of lithium.

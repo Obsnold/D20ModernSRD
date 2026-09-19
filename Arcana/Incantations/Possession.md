@@ -13,7 +13,7 @@
 | Saving Throw     | Will negates (DC 16 + caster’s Charisma modifier) |
 | Spell Resistance | Yes                                               |
 
-By casting the *possession *incantation, you place the subject’s soul in
+By casting the *possession* incantation, you place the subject’s soul in
 a receptacle (a gem or large crystal) while your soul inhabits the
 subject’s body, leaving your body lifeless. Then you can attempt to take
 control of a nearby body, forcing its soul into the receptacle. The
@@ -49,9 +49,9 @@ at either the receptacle or the host.
 When you transfer your soul upon casting, your body is, as near as
 anyone can tell, dead.
 
-*Material Component: *A large gem or crystal (purchase DC 25).
+*Material Component:* A large gem or crystal (purchase DC 25).
 
-*Experience Point Cost: *1,000 XP.
+*Experience Point Cost:* 1,000 XP.
 
-*Failure: *Mirrorcast. You wind up trapped inside the receptacle, and
+*Failure:* Mirrorcast. You wind up trapped inside the receptacle, and
 the subject’s soul inhabits your body.

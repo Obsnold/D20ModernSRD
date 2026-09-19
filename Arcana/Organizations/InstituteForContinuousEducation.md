@@ -30,7 +30,7 @@ equipment from the Institute with an appropriate level check. These
 checks receive a +2 bonus if they are valid requests for the course a
 character is teaching, or a –5 penalty if they are frivolous.
 
-***Dr. Allison**’**s Guide to the Mystic Arts***
+***Dr. Allison’s Guide to the Mystic Arts***
 
 The primary text for all courses taught at the Institute for Continuous
 Education, this book by Rose Allison, PhD has also become an
@@ -57,7 +57,7 @@ though, and is only accessible to current students whose tuition is paid
 in full. (It is possible for non-students to access the website by
 succeeding at a DC 20 Computer Use check.
 
-Anyone using *Dr. Allison’s Guide to the Mystic Arts *gets a +5
+Anyone using *Dr. Allison’s Guide to the Mystic Arts* gets a +5
 equipment bonus on Research and Knowledge (Arcane Lore) checks. Users
 also receive a +2 equipment bonus on Craft (chemical), Craft (visual
 arts), and Craft (writing) checks when brewing potions and scribing

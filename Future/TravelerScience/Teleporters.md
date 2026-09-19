@@ -16,29 +16,29 @@ communication technology used, but even with the least effective
 communications, any distance of less than 1,000 miles is virtually
 instantaneous.
 
-*Radio Transceiver (PL 5): *A transport booth equipped with a radio
+*Radio Transceiver (PL 5):* A transport booth equipped with a radio
 transceiver can teleport its contents to a receiving booth positioned
 within 240,000 miles (roughly the distance between Earth and the Moon).
 Since light travels at a speed of 186,000 miles per second, the
 transport is nearly instantaneous.
 
-*Laser Transceiver (PL 6): *A transport booth equipped with a laser
+*Laser Transceiver (PL 6):* A transport booth equipped with a laser
 transceiver can teleport its contents to a receiving booth at any
 distance. However, the transmission travels at a speed of 8 AU/hour (or
 744,000,000 miles/hour), making it practical only for interplanetary
 transport.
 
-*Mass Transceiver (PL 7): *A transport booth equipped with a mass
+*Mass Transceiver (PL 7):* A transport booth equipped with a mass
 transceiver can teleport its contents to a receiving booth
 instantaneously. The maximum range of the transmission is 1,000 AU
 (roughly 93,000,000,000 miles).
 
-*Drive Transceiver (PL 8): *A transport booth equipped with a drive
+*Drive Transceiver (PL 8):* A transport booth equipped with a drive
 transceiver can teleport its contents to a receiving booth within 1,000
 AU (roughly 93,000,000,000 miles). The transport is virtually
 instantaneous.
 
-*Ansible (PL 9): *A transport booth equipped with an ansible can
+*Ansible (PL 9):* A transport booth equipped with an ansible can
 teleport its contents to a receiving booth across interstellar space.
 The teleport occurs instantaneously, and the range of the transport
 booth is effectively unlimited. If the transport booth operator attempts

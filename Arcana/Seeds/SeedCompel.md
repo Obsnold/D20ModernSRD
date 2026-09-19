@@ -14,7 +14,7 @@
 
 You compel a target to follow a specified course of activity.
 
-At the basic level of effect, an incantation using the *compel *seed
+At the basic level of effect, an incantation using the *compel* seed
 must be worded in such a manner as to make the activity sound
 reasonable. Asking the creature to stab itself, throw itself onto a
 spear, immolate itself, or do some other obviously harmful act

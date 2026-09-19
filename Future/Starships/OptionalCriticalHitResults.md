@@ -62,29 +62,29 @@ Repair check (DC 25), but the repairs last only until the end of the
 battle (or until the system is disabled again). During that round of
 jury-rigged repairs, the starship can continue to take actions.
 
-*Comm System: *One communications system of the attacker’s choice is
+*Comm System:* One communications system of the attacker’s choice is
 disabled. If this result is rolled again and the ship has no undamaged
 comm systems, ignore this result and reroll.
 
-*Defense System: *One defense system of the attacker’s choice is
+*Defense System:* One defense system of the attacker’s choice is
 disabled. If this result is rolled again and the ship has no undamaged
 defense systems, ignore this result and reroll.
 
-*Engines: *The starship’s tactical speed decreases by 1,000 feet until
+*Engines:* The starship’s tactical speed decreases by 1,000 feet until
 the engines are repaired. If this result is rolled again, the effect is
 cumulative. If the ship’s tactical speed has already been reduced to 0
 feet due to engine damage, ignore this result and reroll.
 
-*Sensors: *The starship is blinded until repaired. All the ship’s
+*Sensors:* The starship is blinded until repaired. All the ship’s
 targets gain the equivalent of total concealment (50% miss chance). If
 this result is rolled again, ignore the result and reroll.
 
-*Targeting System: *The starship’s targeting system ceases to function.
+*Targeting System:* The starship’s targeting system ceases to function.
 The starship loses the targeting system’s equipment bonus on attack
 rolls until the system is repaired. Reroll if this result comes up
 again.
 
-*Weapon: *One of the starship’s beam weapons, projectile weapons, or
+*Weapon:* One of the starship’s beam weapons, projectile weapons, or
 missile launchers (attacker’s choice) ceases to function. The weapon
 remains inoperable until it is repaired. If this result is rolled again
 and the ship has no functional weapons, ignore this result and reroll.

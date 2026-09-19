@@ -29,5 +29,5 @@ not reassigned to the subject.
 If you and the subject of the spell move out of range of each other, the
 spell ends.
 
-*Focus: *A pair of platinum rings (purchase DC 15 each) worn by both you
+*Focus:* A pair of platinum rings (purchase DC 15 each) worn by both you
 and the warded creature.

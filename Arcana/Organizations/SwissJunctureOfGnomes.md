@@ -35,7 +35,7 @@ how their work will be applied, a trait that many clients find
 invaluable but many advocate groups find unconscionable.
 
 Heroes will not be interested in joining the Swiss Juncture of
-Gnomes—the organization doesn’t actually *do *anything. However, if they
+Gnomes—the organization doesn’t actually *do* anything. However, if they
 can afford the group’s rates (purchase DC of 35 for one month’s
 consulting contract with one S.J.G. associate), they might want to hire
 the gnomes sometime to help out on particularly difficult research
@@ -43,7 +43,7 @@ assignments. On the other hand, the gnomes constantly employ contract
 workers to help in their more physical activities (such as traveling
 into the heart of the Amazon to locate a particular species of
 butterfly). In this way, it is possible for heroes to make some money
-*and *have access to one or more of the gnomes at the same time. If the
+*and* have access to one or more of the gnomes at the same time. If the
 heroes hire S.J.G., they might be in the uncomfortable position of
 having requisition requests passed their way. On the other hand, if they
 are hired by the gnomes, they S.J.G. will supply all necessary equipment

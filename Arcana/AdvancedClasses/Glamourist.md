@@ -98,9 +98,9 @@ Charismatic hero basic class.
 
 **Daze**
 
-At 7th level, the Glamourist gains the spell-like ability to *daze *an
+At 7th level, the Glamourist gains the spell-like ability to *daze* an
 individual of her choice. This ability may be used once per day, and
-functions identically to the *daze *psionic power.
+functions identically to the *daze* psionic power.
 
 **Utterly Convincing**
 
@@ -113,5 +113,5 @@ Disguise, Gather Information, Intimidate, and Perform.
 **Charm Person**
 
 At 10th level, the Glamourist gains the spell-like ability to *charm
-person *once per day. This ability functions identically to the *charm
+person *once per day. This ability functions identically to the* charm
 person *psionic ability.

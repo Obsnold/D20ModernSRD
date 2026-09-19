@@ -29,7 +29,7 @@ additional 3 points of damage every round thereafter. Multiple wounds
 result in cumulative blood loss (two successful rake attacks mean blood
 lose of 6 points per round, and so on). The bleeding can be stopped by a
 successful Treat Injury check (DC 10) or the application of a
-*cure *spell or some other healing spell.
+*cure* spell or some other healing spell.
 
 ## Leechwalker
 

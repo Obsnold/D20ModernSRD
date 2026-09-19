@@ -1,4 +1,4 @@
-# “spot” Security Robot (pl 6)
+# “Spot” Security Robot (PL 6)
 
 This robot looks like a man-sized, mechanical guard dog with four
 powerful legs, wicked jaws, and resilium armor covering its body. It

@@ -13,7 +13,7 @@
 
 You instantly transfer yourself from your current location to any other
 spot within range that you can see directly. You arrive at exactly the
-spot desired, if you can see it. You cannot *dimension slide *through
+spot desired, if you can see it. You cannot *dimension slide* through
 solid objects; even a curtain blocks you. You cannot bring along more
 than your medium load carrying capacity, nor can you bring along any
 living matter that weighs more than 20 pounds. After using this power,

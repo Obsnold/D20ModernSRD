@@ -13,7 +13,7 @@
 | Spell Resistance | No                                       |
 
 You immediately become aware of any attempt to observe you by means of
-scrying (including the *scrying *spell). The spell’s effect radiates
+scrying (including the *scrying* spell). The spell’s effect radiates
 from you moves as you move. The spell also reveals the use of crystal
 balls or other magic scrying devices. You know the location of every
 magical sensor within the spell’s area.
@@ -25,4 +25,4 @@ beat the scrier’s result, you get a visual image of the scrier and a
 sense of the scrier’s direction and distance from you (accurate to
 within one-tenth the distance).
 
-*Material Components: *A small shard of mirror and a miniature trumpet.
+*Material Components:* A small shard of mirror and a miniature trumpet.

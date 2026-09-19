@@ -69,7 +69,7 @@ person or a particular group that can use the weapon safely without
 triggering the trap. Additionally, the character must select a single
 trap from the list below.
 
-*Barbs: *The weapon rapidly projects spikes or blades from its grip,
+*Barbs:* The weapon rapidly projects spikes or blades from its grip,
 dealing 1d6 points of damage to the user each round the weapon is held.
 
 *Electric Shock*: Power cells in the weapon’s grip discharge and deal

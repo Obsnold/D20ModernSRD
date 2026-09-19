@@ -13,21 +13,21 @@
 | Saving Throw     | Will negates (object)           |
 | Spell Resistance | Yes (object)                    |
 
-When you cast *electromagnetic pulse, *you send a powerful burst of
+When you cast *electromagnetic pulse,* you send a powerful burst of
 energy that ruins electronic circuitry within the spell’s area. Any
 computer, telephone, television, or other device with a computer
 processor inside ceases to function immediately, and the contents of
 hard drives and other storage media are scrambled.
 
-The *electromagnetic pulse *affects only devices with extensive
+The *electromagnetic pulse* affects only devices with extensive
 circuitry, not everything that uses electricity. Ordinarily the lights
 stay on, although their electronic switches might not function.
 Automobiles continue to run, although their engines will run more
 roughly without electronic guidance. Most cars manufactured after the
-1980s won’t start after an *electromagnetic pulse *because they have
+1980s won’t start after an *electromagnetic pulse* because they have
 electronic ignition systems.
 
-Devices affected by an *electromagnetic pulse *can be fixed according to
+Devices affected by an *electromagnetic pulse* can be fixed according to
 the following table.
 
 | Repair Task (Example)                         | Relevant Skill | Purchase DC | Repair DC | Time    |

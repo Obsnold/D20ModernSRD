@@ -37,40 +37,40 @@ statistics and special abilities except as noted here.
 the base creature and gains the additional special qualities described
 below.
 
-*Darkvision (Ex): *A sand slave has darkvision to a range of 60 feet or
+*Darkvision (Ex):* A sand slave has darkvision to a range of 60 feet or
 the base creature’s darkvision, whichever is better.
 
-*Electricity Resistance 10 (Ex): *A sand slave ignores the first 10
+*Electricity Resistance 10 (Ex):* A sand slave ignores the first 10
 points of electricity damage from any single attack. If the base
 creature already has electricity resistance, use the better value.
 
-*Fast Ability Healing 1 (Ex): *A sand slave heals ability damage at the
+*Fast Ability Healing 1 (Ex):* A sand slave heals ability damage at the
 rate of 1 ability score point per damaged ability per round.
 
-*Fast Healing 3 (Ex): *A sand slave heals 3 points of damage per round
+*Fast Healing 3 (Ex):* A sand slave heals 3 points of damage per round
 unless it is reduced to –10 or fewer hit points. This ability does not
 enable the sand slave to regrow or reattach severed body parts. If the
 base creature already has fast healing, use the better value.
 
-*Fortification (Ex): *A sand slave has a 50% chance to ignore the extra
+*Fortification (Ex):* A sand slave has a 50% chance to ignore the extra
 damage from a critical hit.
 
-*Fugue (Ex): *Once per day as a free action, a sand slave may attempt a
+*Fugue (Ex):* Once per day as a free action, a sand slave may attempt a
 Constitution check (DC 20). Success indicates that the sand slave has
 forced its nannites into hyperproductivity, thereby gaining an extra
 attack or move action each round for 1d8+2 rounds.
 
-*Hot Running (Ex): *Once per day as a free action, a sand slave can make
+*Hot Running (Ex):* Once per day as a free action, a sand slave can make
 a Constitution check (DC 15) to reverse the effects of fatigue and
 nonlethal damage. A successful check negates all nonlethal damage the
 sand slave has sustained and reduces fatigue or exhaustion as if the
 sand slave had rested for a full day.
 
-*Immunities (Ex): *The sand slave is immune to disease and poison. The
+*Immunities (Ex):* The sand slave is immune to disease and poison. The
 nannites in its body fight off all diseases, including other nannite
 infections, and break down all poisons before they can take effect.
 
-*Network Mind (Ex): *A sand slave is automatically aware of the position
+*Network Mind (Ex):* A sand slave is automatically aware of the position
 and general emotional status of any other sand slaves within 200 feet.
 All sand slaves within that range that can see one another are in
 constant telepathic communication. If one is aware of a particular
@@ -78,13 +78,13 @@ threat, they all are. If one sand slave in a particular group is not
 flatfooted, none of them are. No sand slave in such a group is
 considered flanked unless they all are.
 
-*Self-Destruct (Ex): *When reduced to –10 hit points or below, a sand
+*Self-Destruct (Ex):* When reduced to –10 hit points or below, a sand
 slave’s body immediately turns into a pile of dust. At any time, a sand
 slave can willfully destroy itself by taking an attack action to make a
 Constitution check (DC 10). Success indicates that the sand slave
 self-destructs as above.
 
-*Stasis (Ex): *Once per day as a free action, a sand slave can attempt a
+*Stasis (Ex):* Once per day as a free action, a sand slave can attempt a
 Constitution check (DC 15). Success dramatically slows the creature’s
 metabolism for up to 1 hour. During this time, the sand slave does not
 need to breathe, and it lacks a heartbeat and normal body temperature.
@@ -100,7 +100,7 @@ fugue abilities, and it does not heal ability or hit point damage.
 The sand slave can end the stasis at any time before its duration runs
 out as a free action.
 
-*Telepathy (Ex): *A sand slave can communicate its thoughts and desires
+*Telepathy (Ex):* A sand slave can communicate its thoughts and desires
 to any etoile or sand slave within 200 feet that it can see, regardless
 of intervening matter such as glass. The target creature “hears” the
 sand slave’s thoughts in whatever language it can most easily

@@ -31,7 +31,7 @@ other means).
 *seed incantation, which will turn the artifact into something that can
 be destroyed by conventional means.
 
-• Use a *subjugate outsider *incantation to summon a powerful demon,
+• Use a *subjugate outsider* incantation to summon a powerful demon,
 then command it to take the artifact and plunge it into a pit of Hell.
 
 • Find the living descendant of an ancient Mongol dynasty whose blood,
@@ -86,9 +86,9 @@ This *+3 large shield*, emblazoned with the image of a roaring lion’s
 head, allows the bearer to wield any weapon as though he was proficient
 in its use. It also grants whatever weapon its bearer uses a +3
 enhancement bonus. The bearer has damage reduction 10/+1 while grasping
-*Caesar’s shield *as well.
+*Caesar’s shield* as well.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *70; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 70; *Weight:
 *15 lb.
 
 **Crescent of the Moon**
@@ -96,10 +96,10 @@ enhancement bonus. The bearer has damage reduction 10/+1 while grasping
 Legend says that the stone blade of this ancient scythe is carved from
 rock that came from the moon. Given the age of the specimen, this seems
 patently impossible, but its previous owners have been unwilling to
-submit the *crescent *to scientific examination. Experts estimate that
+submit the *crescent* to scientific examination. Experts estimate that
 it was made during the early iron age, though why one would make a stone
 blade when metal ones were widely available, no one can say. The
-*crescent *has a long and colorful history as an object both desired and
+*crescent* has a long and colorful history as an object both desired and
 feared by pagan sects.
 
 This *+3 scythe*, with images of the lunar cycle and baying wolves
@@ -107,18 +107,18 @@ carved into its shaft, also has the quality of lycanthrope bane (gaining
 an additional +2 enhancement bonus and dealing an additional +2d6 points
 of damage to werewolves, wererats, and other lycanthropes).
 
-The *crescent of the moon *has other enchantments that activate only
+The *crescent of the moon* has other enchantments that activate only
 during specific phases of the lunar cycle. The following effects are
 active only from dusk to dawn on the days in question:
 
-*New Moon: *On the three nights of the new moon, the *crescent *grants
+*New Moon:* On the three nights of the new moon, the *crescent* grants
 its wielder the ability to recognize lycanthropes by sight regardless of
 their current form—humanoid, hybrid, or animal.
 
-*Waxing: *During the period of time between new and full moon, the
-*crescent *grants its wielder darkvision out to a range of 60 feet.
+*Waxing:* During the period of time between new and full moon, the
+*crescent* grants its wielder darkvision out to a range of 60 feet.
 
-*Full Moon: *On the three nights of the full moon, the *crescent *grants
+*Full Moon:* On the three nights of the full moon, the *crescent* grants
 its wielder the ability to throw himself into a violent rage once per
 night. This rage lasts 1d4+3 rounds, and the wielder cannot choose to
 end it prematurely. Beginning a rage is a free action. In the rage, the
@@ -135,10 +135,10 @@ Strength, –2 to Dexterity, can’t charge or run) for 1d4+3 rounds. The
 wielder may only fly into a rage during his action, not in response to
 somebody else’s action.
 
-*Waning: *During the period of time between full and new moon, the
-*crescent *grants its wielder the scent special quality.
+*Waning:* During the period of time between full and new moon, the
+*crescent* grants its wielder the scent special quality.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *68; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 68; *Weight:
 *12 lb.
 
 **Cup of Curing**
@@ -167,7 +167,7 @@ the person must succeed at a Fortitude save (DC 25) or be struck blind
 for 2d6 minutes. On the next round, the drinker’s body is completely
 consumed as the light flares—anyone still watching must succeed at a
 Fortitude save (DC 35) or be struck permanently blind. The following
-round the light ceases, and the *cup of curing *disappears along with
+round the light ceases, and the *cup of curing* disappears along with
 any trace of the greedy drinker. No spell can divine where the cup goes
 or when it will surface again.
 
@@ -178,7 +178,7 @@ drinking four times in a sitting.
 Drinking from the cup is a move action that provokes attacks of
 opportunity.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *51; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 51; *Weight:
 *3 lb.
 
 **Dagger of Eternal Unrest**
@@ -190,11 +190,11 @@ victims back from the grave as the walking undead. The dagger has a +3
 enhancement bonus plus a secondary enchantment.
 
 Three times per day, if the dagger is used in a successful coup de
-grace, the wielder may choose to have the blade cast *animate dead *on
+grace, the wielder may choose to have the blade cast *animate dead* on
 the victim. This creates a zombie under the control of the dagger’s
 wielder. If the dagger changes hands, so too does the zombie’s loyalty.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *47; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 47; *Weight:
 *1 lb.
 
 **Houdini’s Watch Fob**
@@ -218,7 +218,7 @@ a +6 luck bonus on Balance, Bluff, Climb, Disguise, Escape Artist, Move
 Silently, and Tumble checks. Furthermore, the fob grants the wearer the
 Improved Initiative feat.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *50; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 50; *Weight:
 *—.
 
 **Index of Alexandria**
@@ -232,7 +232,7 @@ attributed to Aristarchus of Samothrace —the last known librarian of the
 Great Library of Alexandria —that purport to be a complete index to the
 40,000 volumes housed in that legendary temple to knowledge.
 
-Reading the *Index *takes 40 days (which do not have to occur in a row).
+Reading the *Index* takes 40 days (which do not have to occur in a row).
 At the end of each day, the reader must make a Decipher Script check (DC
 30) or that day’s effort is lost.
 
@@ -248,12 +248,12 @@ philosophy. (It is up to the GM to decide whether or not a specific
 subject falls into one or more of these categories.) This requires 2d6
 hours and a successful Research check (DC 25).
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *60; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 60; *Weight:
 *30 lb.
 
 **Sphere of Annihilation**
 
-A *sphere of annihilation *is a globe of absolute blackness, a ball of
+A *sphere of annihilation* is a globe of absolute blackness, a ball of
 nothingness 2 feet in diameter. The sphere is actually a hole in the
 continuity of the universe. Any matter that comes in contact with a
 sphere is instantly sucked into the void, gone, and utterly destroyed.
@@ -269,7 +269,7 @@ annihilation*. It is said that the globe is over 200 feet in diameter
 and that the U.S. government has it secreted away in an underground
 bunker in the Nevada desert.
 
-A *sphere of annihilation *is static, resting in some spot as if it were
+A *sphere of annihilation* is static, resting in some spot as if it were
 a normal hole. It can be caused to move, however, by mental effort. The
 brain waves of the individual concentrating on moving it bend spatial
 fabrics, causing the hole to slide. The range of this control is 40 feet
@@ -285,17 +285,17 @@ If two or more characters vie for control of a *sphere of annihilation*,
 the rolls are opposed. If none is successful, the sphere slips toward
 the one who rolled lowest.
 
-Should a *teleport *incantation be cast upon a *sphere of annihilation*,
+Should a *teleport* incantation be cast upon a *sphere of annihilation*,
 there is a 50% chance (a 01–50 result on d%) that the spell destroys it,
 a 34% chance (51–85) that the spell does nothing, and a 15% chance
 (86–100) that a gap is torn in the spatial fabric, resulting in a
 tremendous explosion. Everything within a 60-foot radius takes 2d6x10
-points of damage. *Dispel magic *has no effect on the sphere, although a
-*greater dispel magic *incantation has a chance of succeeding (treat the
+points of damage. *Dispel magic* has no effect on the sphere, although a
+*greater dispel magic* incantation has a chance of succeeding (treat the
 sphere as a spell effect created by a 20th-level spellcaster for this
 purpose).
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *40; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 40; *Weight:
 *—.
 
 **Staff of Sorcerous Might**
@@ -312,16 +312,16 @@ years. No one truly knows whether it is one of a kind, or if there are
 other staffs like it waiting to be found. In any case, it is one of the
 most powerful items that any spellcaster could possess.
 
-The *staff of sorcerous might *gives the wielder spell resistance 23. It
+The *staff of sorcerous might* gives the wielder spell resistance 23. It
 has several other spell powers, as well. Some the staff’s powers drain
 charges, while others don’t. A fully-charged *staff of sorcerous might
 *has 50 charges. The following powers do not drain charges:
 
-*Detect magical aura *
+*Detect magical aura*
 
 *Mage armor*
 
-*Hold portal *
+*Hold portal*
 
 *Mage hand*
 
@@ -333,9 +333,9 @@ The following powers drain 1 charge per usage:
 
 *Dispel magic*
 
-*Electromagnetic pulse *(Will save DC 15)
+*Electromagnetic pulse* (Will save DC 15)
 
-*Fireball *(10d6 points of damage, Reflex save DC 15)
+*Fireball* (10d6 points of damage, Reflex save DC 15)
 
 *Ice storm*
 
@@ -343,22 +343,22 @@ The following powers drain 1 charge per usage:
 
 *Knock*
 
-*Lightning bolt *(10d6 points of damage, Reflex save DC 15)
+*Lightning bolt* (10d6 points of damage, Reflex save DC 15)
 
 *Summon vivilor IV*
 
 These powers drain 2 charges per usage:
 
-*Cone of cold *(10d6 points of cold damage, Reflex save DC 17)
+*Cone of cold* (10d6 points of cold damage, Reflex save DC 17)
 
 *Passwall*
 
-*Telekinesis *(400 pounds maximum additional weight)
+*Telekinesis* (400 pounds maximum additional weight)
 
-A *staff of sorcerous might *has the following additional spell-like
+A *staff of sorcerous might* has the following additional spell-like
 abilities:
 
-*Absorb: *As an readied action, the staff’s wielder can draw spells or
+*Absorb:* As an readied action, the staff’s wielder can draw spells or
 spell-like abilities into the staff. The magic absorbed must be a
 single-target spell or a ray directed either at the character possessing
 the staff or her gear. The staff then nullifies the spell’s effect and
@@ -372,7 +372,7 @@ staff does not communicate this knowledge.
 Absorbing spells is risky, but absorption is the only way this staff can
 be recharged.
 
-*Retributive Strike: *The *staff of sorcerous might *can be broken for a
+*Retributive Strike:* The *staff of sorcerous might* can be broken for a
 retributive strike. Such an act must be purposeful and declared by the
 wielder. All charges in the staff are released in a 30-foot spread. All
 within 10 feet of the broken staff take points of damage equal to 8
@@ -383,11 +383,11 @@ feet away take points equal to 6 times the number of charges, and those
 A successful Reflex save (DC 17) reduce damage by half. The character
 breaking the staff is destroyed in the explosion.
 
-Only the *staff of sorcerous might *is capable of a retributive
+Only the *staff of sorcerous might* is capable of a retributive
 strike—this is not an act that can be performed with any other staff,
 wand, or magic item.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *95; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 95; *Weight:
 *5 lb.
 
 **Talisman of Pure Good**
@@ -404,14 +404,14 @@ this item to function. (In the air, in a highrise building, or on a boat
 or airplane are all places of safety against this otherwise potent
 item.)
 
-A *talisman of pure good *has 7 charges. If a divine spellcaster without
+A *talisman of pure good* has 7 charges. If a divine spellcaster without
 an allegiance to good touches one of these medallions, he takes 6d6
 points of damage. If a divine spellcaster with an allegiance to evil
 touches one, he takes 8d6 points of damage.
 
 All other characters are unaffected by this item.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *35; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:
 *—.
 
 **Talisman of Ultimate Evil**
@@ -427,11 +427,11 @@ crack. Obviously, the target must be standing on solid ground for this
 item to function. (In the air, in a high-rise building, or on a boat or
 airplane are all places of safety against this otherwise potent item.)
 
-A *talisman of ultimate evil *has 6 charges. If a divine spellcaster
+A *talisman of ultimate evil* has 6 charges. If a divine spellcaster
 without an allegiance to evil touches one of these medallions, he takes
 6d6 points of damage. If a divine spellcaster with an allegiance to good
 touches one, he takes 8d6 points of damage. All other characters are
 unaffected by this item.
 
-*Type: *Artifact (magic); *Caster Level: *—; *Purchase DC: *35; *Weight:
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:
 *—.

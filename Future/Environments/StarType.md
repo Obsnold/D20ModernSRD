@@ -69,7 +69,7 @@ activity.
 | Class G (yellow)                            | Lightly irradiated                                    | 1d6+4                 |
 | Class K (orange)                            | Moderately irradiated                                 | 1d6+5                 |
 | Class M (red)                               | Highly irradiated                                     | 1d8+2                 |
-| **Non-Main Sequence Star’s Classification** | **System’s Degree of Ionizing Radiation<sup>1</sup>** | **Number of Planets** |
+| **Non-Main Sequence Star’s Classification** |** System’s Degree of Ionizing Radiation<sup>1</sup>** |** Number of Planets** |
 | Black hole                                  | Highly irradiated                                     | —                     |
 | Neutron star                                | Severely irradiated                                   | 1d4–1                 |
 | White dwarf                                 | Moderately irradiated                                 | 1d4+1                 |

@@ -3,7 +3,7 @@
 Perhaps the single biggest reason for the success of the Prancing Pony
 franchise is the MAGIC MEAL™. This is a boxed meal that contains a
 children’s size sandwich, fries, drink, and a magic toy (purchase DC 2).
-Unlike other franchises, though, these toys really *are *enchanted. Each
+Unlike other franchises, though, these toys really *are* enchanted. Each
 MAGIC MEAL™ box contains either a temporary tattoo or a wind-up
 familiar.
 
@@ -27,17 +27,17 @@ of its command string. Each command takes 1 move action to execute.
 Each toy has its own special ability, hence the command “Special.” They
 are:
 
-*Cat: *eyes glow yellow lighting a 5 foot square in front of the toy;
+*Cat:* eyes glow yellow lighting a 5 foot square in front of the toy;
 
-*Owl: *fly five feet straight up and five feet forward then fly straight
+*Owl:* fly five feet straight up and five feet forward then fly straight
 down until landed;
 
-*Rat: *pick up and carry one item weighing no more than one pound;
+*Rat:* pick up and carry one item weighing no more than one pound;
 
-*Spider: *climb solid surface as per the *spider climb *spell (including
+*Spider:* climb solid surface as per the *spider climb* spell (including
 reduced movement rate);
 
-*Toad: *hop five feet in the air, landing 10 feet forward.
+*Toad:* hop five feet in the air, landing 10 feet forward.
 
 ## Wind-Up Familiar
 

@@ -13,14 +13,14 @@
 | Saving Throw     | None                    |
 | Spell Resistance | No                      |
 
-The *secret pocket *spell creates an extradimensional space that only
+The *secret pocket* spell creates an extradimensional space that only
 you can reach through a pocket in the target garment. The *secret pocket
 *can hold 1 pound per caster level, and you can put anything in it that
 will physical fit through the pocket opening. The item can be of any
 length and isn’t otherwise restricted by the pocket’s actual
 dimensions—it just has to be able to fit through the opening. The
 contents of the extradimensional space never cause the pocket to bulge,
-and items inside the *secret pocket *have no weight once they’re placed
+and items inside the *secret pocket* have no weight once they’re placed
 inside (although the weight still counts against the capacity of the
 extradimensional space). Whenever you reach into the pocket, you access
 the extradimensional space rather than the actual pocket. Anyone else
@@ -31,4 +31,4 @@ into the extradimensional space instead.
 You can give the garment to someone else to wear if you like, but only
 you can access the extradimensional space through the pocket.
 
-*Arcane Material Component: *A black handkerchief.
+*Arcane Material Component:* A black handkerchief.

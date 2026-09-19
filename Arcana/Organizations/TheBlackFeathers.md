@@ -40,7 +40,7 @@ Feathers can serve as a wealth of information and networking resources.
 
 It is not possible to requisition any equipment from the Black Feathers
 themselves. But the organization almost always can point the heroes to
-someone who *can *fulfill their needs—for a price.
+someone who *can* fulfill their needs—for a price.
 
 ## Potions, Poultices, and Poisons
 
@@ -129,7 +129,7 @@ throwing knives.
 | BAB               | +8                                                                                                                                                                |
 | Grap              | +8                                                                                                                                                                |
 | Atk               | +8 melee (1d3 nonlethal, unarmed strike) or +8 melee (1d4, knife) or +12 ranged (1d4, knife)                                                                      |
-| Full Atk          | +8/+3 melee (1d3 nonlethal, unarmed strike), or +8/+3 melee (1d4, knife), or +12/+7 ranged (1d4, knife), or +15/+10 ranged (1d8+3, *+2 longbow *with *+1 arrows*) |
+| Full Atk          | +8/+3 melee (1d3 nonlethal, unarmed strike), or +8/+3 melee (1d4, knife), or +12/+7 ranged (1d4, knife), or +15/+10 ranged (1d8+3, *+2 longbow* with *+1 arrows*) |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                    |
 | Reach             | 5 ft.                                                                                                                                                             |
 | SQ                | Elf traits                                                                                                                                                        |
@@ -165,7 +165,7 @@ Stealthy, Track.
 **Talents (Wildlord):** Animal empathy, animal companion, fast climb,
 resist venom, call companion, skill mastery (handle animal).
 
-**Possessions**: *+2 longbow*, 12 *+1 arrows*, 4 knives, *ghostshirt*,
+**Possessions**: *+2 longbow*, 12* +1 arrows*, 4 knives,* ghostshirt*,
 *medicine bundle*, casual outfit, backpack, 2- person dome tent, Jeep
 Wrangler.
 

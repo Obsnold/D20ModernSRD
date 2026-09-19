@@ -81,7 +81,7 @@ Clothing
 Here are some additional outfits that heroes might wear during their
 adventures.
 
-**Stealth **
+**Stealth**
 
 Worn by anyone who wants to go someplace without being seen. Includes
 long-sleeved shirt, cargo pants, tabi shoes, and ski mask. All these

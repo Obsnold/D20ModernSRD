@@ -4,19 +4,19 @@ Robots are unable to perceive their surroundings without a sensor system
 of some kind. Without sensors, they are effectively blind and deaf, and
 they suffer penalties on certain checks—if they can attempt them at all.
 
-*Sight: *A robot without visual sensors suffers a –4 penalty on all
+*Sight:* A robot without visual sensors suffers a –4 penalty on all
 skill checks and cannot make Spot checks.
 
-*Sound: *A robot without audio sensors suffers a –2 penalty on all skill
+*Sound:* A robot without audio sensors suffers a –2 penalty on all skill
 checks and cannot make Listen checks.
 
-*Touch: *A robot without tactile sensors suffers a –4 penalty on all
+*Touch:* A robot without tactile sensors suffers a –4 penalty on all
 Demolitions, Disable Device, Forgery, and Repair checks.
 
-*Smell: *A robot without olfactory sensors suffers no particular
+*Smell:* A robot without olfactory sensors suffers no particular
 penalties.
 
-*Taste: *A robot without gustatory sensors suffers no particular
+*Taste:* A robot without gustatory sensors suffers no particular
 penalties.
 
 To build a sensor system from scratch, a character must succeed at a
@@ -100,11 +100,11 @@ as well in the air. By bouncing sound waves off objects and measuring
 the length of time it takes to receive an echo, sonar can produce a
 clear image of the robot’s surroundings.
 
-*Ladar Version: *A robot with a ladar-equipped Class V sensor system
+*Ladar Version:* A robot with a ladar-equipped Class V sensor system
 gains a +4 equipment bonus on Spot checks and a +2 equipment bonus on
 Listen checks. All other skill checks are made without penalty.
 
-*Sonar Version: *A robot with a sonar-equipped Class V sensor system
+*Sonar Version:* A robot with a sonar-equipped Class V sensor system
 gains a +4 equipment bonus on Listen checks and a +2 equipment bonus on
 Spot checks. All other skill checks are made without penalty.
 

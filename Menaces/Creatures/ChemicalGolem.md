@@ -43,7 +43,7 @@ bludgeoning, piercing, slashing, or sonic/concussion).
 
 **Magic Immunity (Ex):** A chemical golem is immune to all spells,
 spell-like abilities, and supernatural effects, except one. A
-*neutralize poison *spell or effect slows the creature (as the *slow
+*neutralize poison* spell or effect slows the creature (as the *slow
 *spell) for 2d6 rounds, with no saving throw.
 
 **Rupture (Ex):** If the chemical golem takes at least 10 points of

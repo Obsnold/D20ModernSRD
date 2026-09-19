@@ -13,10 +13,10 @@
 
 You grant a creature additional armor, providing a +4 bonus to Defense.
 The bonus is either an equipment bonus or a natural armor bonus,
-whichever you select. Unlike mundane armor, the *armor *seed provides an
+whichever you select. Unlike mundane armor, the *armor* seed provides an
 intangible protection that entails no armor check penalty, arcane spell
 failure chance, or speed reduction. Incorporeal creatures can’t bypass
-the *armor *seed the way they can ignore normal armor. For each
+the *armor* seed the way they can ignore normal armor. For each
 additional point of Defense bonus, increase the Knowledge (arcane lore)
 check DC by +2.
 

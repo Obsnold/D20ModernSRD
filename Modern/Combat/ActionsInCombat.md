@@ -44,7 +44,7 @@ before the same initiative count that they began on.
 | Total defense | No |
 | Use a skill that takes an attack action | Usually |
 | Start/complete full-round action | Varies |
-| **Move Actions** | **Attack of Opportunity<sup>1</sup>** |
+| **Move Actions** |** Attack of Opportunity<sup>1</sup>** |
 | Move your speed | Yes |
 | Use a piece of equipment | No |
 | Climb (one-quarter speed) | No |
@@ -60,7 +60,7 @@ before the same initiative count that they began on.
 | Stand up from prone, sitting, or kneeling | Yes |
 | Swim | No |
 | Use a skill that takes a move action | Usually |
-| **Full-Round Actions** | **Attack of Opportunity<sup>1</sup>** |
+| **Full-Round Actions** |** Attack of Opportunity<sup>1</sup>** |
 | Bull rush (charge) | No |
 | Charge | No |
 | Coup de grace | Yes |
@@ -71,7 +71,7 @@ before the same initiative count that they began on.
 | Extinguish flames | No |
 | Use a skill that takes a full round | Usually |
 | Reload a firearm with an internal magazine | Yes |
-| *Free Actions* | *Attack of Opportunity*\*<sup>1</sup>\* |
+| *Free Actions* |* Attack of Opportunity*\*<sup>1</sup>\* |
 | Drop an object | No |
 | Drop to prone, sitting, or kneeling | No |
 | Speak | No |
@@ -81,7 +81,7 @@ before the same initiative count that they began on.
 | Load a weapon | Yes |
 | Trip an opponent<sup>4</sup> | No (Yes if unarmed) |
 | Use a feat<sup>5</sup> | Varies |
-| **No Action** | **Attack of Opportunity<sup>1</sup>** |
+| **No Action** |** Attack of Opportunity<sup>1</sup>** |
 | Delay | No |
 | 5-foot step | No |
 

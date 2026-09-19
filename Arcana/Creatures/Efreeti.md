@@ -20,14 +20,14 @@ magical aura, gaseous form, invisibility, wall of fire *(save
 DC 16). These abilities are as the spells cast by a 10th-level Mage
 (save DC 12 + spell level). The DCs are Charisma-based.
 
-***Polymorph *(Sp): **An efreeti can cast
+**Polymorph (Sp):** An efreeti can cast
 *polymorph*, at will, as a move action. This
-ability is similar to the *polymorph *incantation
+ability is similar to the *polymorph* incantation
 except that no skill checks or components are required, the efreeti
 cannot transform any creature other than itself, and the efreeti can
 remain in its new form indefinitely.
 
-***Grant Wishes *(Sp): **Some efreeti (1% of
+**Grant Wishes (Sp):** Some efreeti (1% of
 the total population) are “noble” and can grant up to three wishes to
 any being (non-genies only) who captures them. Noble efreet perform no
 other services and, upon granting the third wish, are free of their
@@ -90,7 +90,7 @@ normal sight, and efreet can function with no light at all.
 | Full Atk          | +15/+10 melee (1d8+9 plus 1d6 fire, slam)                                                                             |
 | FS                | 10 ft. by 10 ft.                                                                                                      |
 | Reach             | 10 ft.                                                                                                                |
-| SQ                | heat, spell-like abilities, *polymorph *(self only), immune to fire, cold vulnerability, telepathy, darkvision 60 ft. |
+| SQ                | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, telepathy, darkvision 60 ft. |
 | AL                | evil, law                                                                                                             |
 | Fort              | +9                                                                                                                    |
 | Ref               | +10                                                                                                                   |
@@ -138,7 +138,7 @@ as character class.
 | Full Atk          | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +20/+15/+10 melee (2d6+12/18–20 plus 1d6 fire, Huge falchion)                                                                                               |
 | FS                | 10 ft. by 10 ft.                                                                                                                                                                                            |
 | Reach             | 10 ft.                                                                                                                                                                                                      |
-| SQ                | heat, spell-like abilities, *polymorph *(self only), *grant wishes, *immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
+| SQ                | heat, spell-like abilities, *polymorph* (self only), *grant wishes,* immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
 | AL                | evil, law                                                                                                                                                                                                   |
 | Fort              | +13                                                                                                                                                                                                         |
 | Ref               | +11                                                                                                                                                                                                         |

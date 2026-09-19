@@ -23,7 +23,7 @@ Darkvision is black and white only, but it is otherwise like normal
 sight, and dragonblooded humans can function with no light at all.
 
 **Saving Throw Bonuses**: Dragonblooded humans gain a +4 species bonus
-on saves against *sleep *and paralysis.
+on saves against *sleep* and paralysis.
 
 **Skill Bonuses:** Dragonblooded humans gain a +2 species bonus on
 Intimidate and Spot skill checks.

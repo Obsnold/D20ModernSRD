@@ -12,7 +12,7 @@ starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
 under these conditions.
 
-**Spell Immunities:** Elves are immune to *sleep *spells and effects,
+**Spell Immunities:** Elves are immune to *sleep* spells and effects,
 and they gain a +2 species bonus on saves against Enchantment spells or
 effects.
 

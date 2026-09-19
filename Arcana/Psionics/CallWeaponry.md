@@ -35,5 +35,5 @@ power point cost is also greater.
 | 7–9   | SMG, rifle, shotgun     | Winchester 94 | 7            |
 | 10    | Exotic or Archaic melee | Katana        | 11           |
 
-Weapons gained by *call weaponry *are distinctive due to the low hum
+Weapons gained by *call weaponry* are distinctive due to the low hum
 they emit.

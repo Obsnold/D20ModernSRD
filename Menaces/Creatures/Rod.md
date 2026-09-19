@@ -15,9 +15,9 @@ If it hits, the rod deals 2d8 points of ballistic damage to the target,
 but it is destroyed by the impact. Except as noted here, this attack is
 treated as a charge.
 
-***Detect Psionics *(Sp):** A rod is automatically aware of psionic
+**Detect Psionics (Sp):** A rod is automatically aware of psionic
 creatures or powers within 60 feet, as though constantly under the
-effect of the *detect psionics *power.
+effect of the *detect psionics* power.
 
 **Invisible to Naked Eye (Ex):** A rod moves too fast to be seen by the
 naked eye, except as a blur of motion. It can be seen only as a recorded

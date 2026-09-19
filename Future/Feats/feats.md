@@ -1,0 +1,36 @@
+# FUTURE FEATS
+
+New feats available to heroes in a d20 Future campaign.
+
+## Feat Descriptions
+
+- [Action Boost](ActionBoost.md)
+- [Alien Weapons Proficiency](AlienWeaponsProficiency.md)
+- [Armor Proficiency (powered)](ArmorProficiencyPowered.md)
+- [Charismatic Plus](CharismaticPlus.md)
+- [Craft Cybernetics](CraftCybernetics.md)
+- [Cybernetic Surgery](CyberneticSurgery.md)
+- [Cybertaker](Cybertaker.md)
+- [Dedicated Plus](DedicatedPlus.md)
+- [Fast Plus](FastPlus.md)
+- [Jack of All Trades](JackOfAllTrades.md)
+- [Mastercrafter](Mastercrafter.md)
+- [Nerve Pinch](NervePinch.md)
+- [Oathbound](Oathbound.md)
+- [Planetary Adaptation](PlanetaryAdaptation.md)
+- [Salvage](Salvage.md)
+- [Smart Plus](SmartPlus.md)
+- [Spacer](Spacer.md)
+- [Starship Battle Run](StarshipBattleRun.md)
+- [Starship Dodge](StarshipDodge.md)
+- [Starship Feint](StarshipFeint.md)
+- [Starship Gunnery](StarshipGunnery.md)
+- [Starship Mobility](StarshipMobility.md)
+- [Starship Operation](StarshipOperation.md)
+- [Starship Strafe](StarshipStrafe.md)
+- [Strong Plus](StrongPlus.md)
+- [Tough Plus](ToughPlus.md)
+- [Ultra Immune System](UltraImmuneSystem.md)
+- [Urban Tracking](UrbanTracking.md)
+- [Xenomedic](Xenomedic.md)
+- [Zero-G Training](ZeroGTraining.md)

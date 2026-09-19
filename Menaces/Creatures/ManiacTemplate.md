@@ -32,7 +32,7 @@ base damage, whichever is greater.
 **Special Qualities:** A maniac retains all the special qualities of the
 base creature and gains the additional qualities described below.
 
-*Ability Surge (Ex): *Once per day as a free action, the maniac can
+*Ability Surge (Ex):* Once per day as a free action, the maniac can
 temporarily increase its Strength and Dexterity scores, but doing so
 imposes a penalty on its saving throws. While this ability is in effect,
 the maniac gains a +4 morale bonus to both Strength and Dexterity but
@@ -42,12 +42,12 @@ ability surge, the maniac is fatigued (–2 to Strength and Dexterity) for
 as many rounds as the surge was in effect, but it may negate this
 penalty as a free action by spending an action point.
 
-*Damage Reduction 5/– (Ex): *A maniac ignores the first 5 points of
+*Damage Reduction 5/– (Ex):* A maniac ignores the first 5 points of
 damage dealt by any attack.
 
-*Immunities (Ex): *A maniac is immune to mind-affecting effects.
+*Immunities (Ex):* A maniac is immune to mind-affecting effects.
 
-*Resistance to Massive Damage (Ex): *A maniac gains a +5 species bonus
+*Resistance to Massive Damage (Ex):* A maniac gains a +5 species bonus
 on Fortitude saves to negate the effects of massive damage.
 
 **Allegiances:** Previous allegiances are lost and replaced by

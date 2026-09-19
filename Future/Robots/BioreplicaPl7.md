@@ -1,4 +1,4 @@
-# Bioreplica (pl 7)
+# Bioreplica (PL 7)
 
 A step up from biodroids, bioreplicas are robots so convincingly
 lifelike that they are virtually indistinguishable from their living
@@ -34,7 +34,7 @@ can use the Disguise skill to increase the Spot check DC.
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
 | Colossal       | 52                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 10      | 45d10/+4 per HD                           |
 | Gargantuan     | 44                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 10      | 31d10/+3 per HD                           |
 | Huge           | 36                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 10      | 15d10/+2 per HD                           |

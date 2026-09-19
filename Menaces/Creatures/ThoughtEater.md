@@ -34,7 +34,7 @@ day to survive, but it happily gorges itself whenever the opportunity
 presents itself. Power points consumed in excess of its minimum daily
 requirement do not count against the next day’s requirement.
 
-***Psionics *(Sp):** At will—*daze*, *detect psionics, distract, verve*.
+**Psionics (Sp):** At will—*daze*,* detect psionics, distract, verve*.
 Manifester level 10th; save DC 10 + thought eater’s key ability
 modifier + power level.
 

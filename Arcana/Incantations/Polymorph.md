@@ -13,7 +13,7 @@
 | Saving Throw     | Fortitude negates                                                                                    |
 | Spell Resistance | Yes                                                                                                  |
 
-The *polymorph *incantation gives a creature another form that you
+The *polymorph* incantation gives a creature another form that you
 designate, which must be within one size category of the subject’s
 normal size. The new form can have no more Hit Dice than you or the
 subject has (whichever is greater), and in any case the assumed form
@@ -65,7 +65,7 @@ his original form, the form must be able to speak intelligibly (that is,
 speak a language) to use verbal components and must have humanlike hands
 to use somatic or material components.
 
-When the *polymorph *occurs, the subject’s equipment, if any, either
+When the *polymorph* occurs, the subject’s equipment, if any, either
 remains worn or held by the new form (if the new form is capable of
 wearing or holding the item), or melds into the new form and becomes
 nonfunctional. When the subject reverts to his true form, any objects
@@ -78,13 +78,13 @@ reversion are still held in the same way. Any part of the body or piece
 of equipment that is separated from the whole reverts to its original
 form.
 
-*Options: *If you have a living, helpless creature that can serve as a
+*Options:* If you have a living, helpless creature that can serve as a
 model for the target creature, the DC on the Knowledge (arcane lore)
 checks for this incantation is reduced by –2.
 
-*Material Component: *Part of the kind of creature that the target will
+*Material Component:* Part of the kind of creature that the target will
 turn into, such as a hair, scale, or feather.
 
-*Focus: *Laboratory equipment (purchase DC 25).
+*Focus:* Laboratory equipment (purchase DC 25).
 
-*Failure: *Damage. The target takes 12d6 points of damage.
+*Failure:* Damage. The target takes 12d6 points of damage.

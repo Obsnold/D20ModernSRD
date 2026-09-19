@@ -25,7 +25,7 @@ proficient in the use of shields.
 | Banded mail         | Archaic   | +6               | +3                 | +1                | –6                | 35%                      | 20                 | 35 lb.     | 19              | —               |
 | Half-plate          | Archaic   | +7               | +3                 | +0                | –7                | 35%                      | 20                 | 50 lb.     | 21              | —               |
 | O-yoroi             | Archaic   | +7               | +3                 | +2                | –5                | 40%                      | 20                 | 45 lb.     | 28              | —               |
-| **Shield**          | **Type**  | **Shield Bonus** | **Nonprof. Bonus** | **Max Dex Bonus** | **Armor Penalty** | **Arcane Spell Failure** | **Speed (30 ft.)** | **Weight** | **Purchase DC** | **Restriction** |
+| **Shield**          |** Type**  |** Shield Bonus** |** Nonprof. Bonus** |** Max Dex Bonus** |** Armor Penalty** |** Arcane Spell Failure** |** Speed (30 ft.)** |** Weight** |** Purchase DC** |** Restriction** |
 | Buckler             | Shield    | +1               | +0                 | —                 | –1                | 5%                       | —                  | 5 lb.      | 9               | —               |
 | Shield, impromptu   | Shield    | +1               | +0                 | —                 | –2                | 5%                       | —                  | varies     | —               | —               |
 | Shield, small       | Shield    | +1               | +0                 | —                 | –1                | 5%                       | —                  | 6 lb.      | 5               | —               |
@@ -125,13 +125,13 @@ fish. It includes gauntlets.
 
 You strap a shield to your forearm and grip it with your hand.
 
-*Small Shield: *A small shield’s light weight lets you carry other items
+*Small Shield:* A small shield’s light weight lets you carry other items
 in that hand (although you cannot use weapons).
 
-*Large Shield: *A large shield is too heavy for you to use your shield
+*Large Shield:* A large shield is too heavy for you to use your shield
 hand for anything else.
 
-*Wooden or Steel: *Wooden and steel shields offer the same protection,
+*Wooden or Steel:* Wooden and steel shields offer the same protection,
 although they respond differently to special attacks.
 
 *Impromptu*: This includes “picked up” shields like garbage can lids or

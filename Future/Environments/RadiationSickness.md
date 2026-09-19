@@ -29,7 +29,7 @@ within a given 24-hour period (rounding up).
 
 |                                            | ————————— Time of Exposure (Minimum) ———————— |              |                |            |           |
 |---|---|---|---|---|---|
-| **Situation**                              | **1 round**                                   | **1 minute** | **10 minutes** | **1 hour** | **1 day** |
+| **Situation**                              |** 1 round**                                   |** 1 minute** |** 10 minutes** |** 1 hour** |** 1 day** |
 | **Character in irradiated area:**          |                                               |              |                |            |           |
 | Lightly irradiated                         | mild                                          | mild         | mild           | mild       | low       |
 | Moderately irradiated                      | mild                                          | mild         | low            | low        | moderate  |
@@ -58,4 +58,4 @@ loss.
 | High               | 21                | 2d6 hours         | 1d6 Con                      |
 | Severe             | 24                | 1d6 hours         | 2d6 Con                      |
 
-* Minimum damage 0 Con.
+\*Minimum damage 0 Con.

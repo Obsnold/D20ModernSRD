@@ -12,7 +12,7 @@ considered an elf. Half-elves, for example, are just as susceptible to
 special effects that affect elves as their elven ancestors are, and they
 can use magic items that are only usable by elves.
 
-**Spell Immunities:** Half-elves are immune to *sleep *spells and
+**Spell Immunities:** Half-elves are immune to *sleep* spells and
 effects, and they gain a +2 species bonus on saves against Enchantment
 spells or effects.
 

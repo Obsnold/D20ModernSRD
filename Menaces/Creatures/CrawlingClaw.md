@@ -57,10 +57,10 @@ against prone combatants.
 
 Transmutation \[Evil\]
 
-**Level:** Mage 3; **Components:** V, S, M; **Casting Time:** 1 hour;
-**Range:** Close (25 ft. + 5 ft./2 levels); **Targets:** Severed human
+**Level:** Mage 3;** Components:** V, S, M;** Casting Time:** 1 hour;
+**Range:** Close (25 ft. + 5 ft./2 levels);** Targets:** Severed human
 left hands within a 5-foot-radius circle; **Duration:** Instantaneous;
-**Saving Throw:** None; **Spell Resistance:** Yes (harmless)
+**Saving Throw:** None;** Spell Resistance:** Yes (harmless)
 
 You create a number of crawling claws up to twice your caster level. The
 hands to be transformed must all be within a 5-foot-radius circle. Once
@@ -71,5 +71,5 @@ range, they obey these orders to the best of their ability until you
 return and issue new orders. Otherwise, they mill about aimlessly,
 attacking anything that moves into their space.
 
-*Material Component: *Clippings from a ghoul’s fingernails, and a ring
+*Material Component:* Clippings from a ghoul’s fingernails, and a ring
 that someone else lost.

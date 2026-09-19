@@ -1,4 +1,4 @@
-# Tempest (pl 7)
+# Tempest (PL 7)
 
 The Tempest is a heavy support mecha, designed to work alongside tanks
 and other heavy armored vehicles, or as the centerpiece of smaller mecha
@@ -7,14 +7,20 @@ platoons.
 A Tempest installed with the standard equipment package (see below) has
 a purchase DC of 49.
 
-|                                          |                           |
+| Stat              | Value                         |
 |---|---|
-| **Size:** Gargantuan (–4 size)           | **Bonus Hit Points:** 450 |
-| **Superstructure:** Neovulcanium         | **Hardness:** 20          |
-| **Armor:** Crystal carbon                | **Bonus to Defense:** +10 |
-| **Armor Penalty:** –8                    | **Reach:** 15 ft.         |
-| **Strength Bonus:** +24                  | **Dexterity Penalty:** –2 |
-| **Speed:** 50 ft., fly 150 ft. (average) | **Base Purchase DC:** 48  |
+| Size              | Gargantuan (–4 size)          |
+| Bonus Hit Points  | 450                           |
+| Superstructure    | Neovulcanium                  |
+| Hardness          | 20                            |
+| Armor             | Crystal carbon                |
+| Bonus to Defense  | +10                           |
+| Armor Penalty     | –8                            |
+| Reach             | 15 ft.                        |
+| Strength Bonus    | +24                           |
+| Dexterity Penalty | –2                            |
+| Speed             | 50 ft., fly 150 ft. (average) |
+| Base Purchase DC  | 48                            |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and belt), Mark
 III Oracle targeting system (visor), Class IV sensor system (cranium),

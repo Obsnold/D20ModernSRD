@@ -92,7 +92,7 @@ more resistant to spells and spell-like abilities, as listed in Table:
 Dragon Age Categories.
 
 **Immunities (Ex):** All dragons are immune to
-*sleep *and paralysis effects. Dragons are also
+*sleep* and paralysis effects. Dragons are also
 immune to certain energy types depending on their color:
 
 Black, green, and copper dragons are immune to acid.
@@ -165,7 +165,7 @@ darkvision with a range of 100 feet x the dragon’s age category.
 | Dragon King/Queen | 9th | *Break enchantment*or*true seeing*1/day | | | | | | | |
 | Dragon Emperor/Empress | 10th | *Cloudkill*or*telekinesis*1/day | | | | | | | |
 
-**Caster level applies to arcane spells and spell-like abilities.*
+\**Caster level applies to arcane spells and spell-like abilities.*
 
 ## Wyrmling
 
@@ -295,12 +295,12 @@ Draconic, Speak Language (any three), Spot +14.
 **Feats:** Alertness, Cleave, Improved Damage Threshold,
 Power Attack.
 
-**Spells Prepared **(3/2): 0—*mage hand, read
+**Spells Prepared** (3/2): 0—*mage hand, read
 magic, resistance; *1st—*ray of fatigue, sleep
 *(DC 14).
 
 **Spell-like Ability:** 1/day—*daze
-*(DC 13) or *detect magical
+*(DC 13) or* detect magical
 aura*.
 
 ## Juvenile Dragon
@@ -348,13 +348,13 @@ Listen +16, Read/Write Draconic, Read/Write Language (any four), Search
 **Feats:** Alertness, Cleave, Improved Damage Threshold,
 Power Attack.
 
-**Spells Prepared **(4/3): 0—*mage hand,
+**Spells Prepared** (4/3): 0—*mage hand,
 message, read magic, resistance; *1st—*mage armor,
 ray of fatigue, shield*.
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 14) or *detect magical aura*,
-*sleep *(DC 15) or *true
+*(DC 14) or* detect magical aura*,
+*sleep* (DC 15) or *true
 strike*.
 
 ## Young Adult Dragon
@@ -402,16 +402,16 @@ Listen +17, Read/Write Draconic, Read/Write Language (any four), Search
 **Feats:** Alertness, Cleave, Improved Bull Rush,
 Improved Damage Threshold, Power Attack.
 
-**Spells Prepared **(4/3/2): 0—*mage hand,
+**Spells Prepared** (4/3/2): 0—*mage hand,
 message, read magic, resistance; *1st—*mage armor,
 ray of fatigue, shield; *2nd—*enhance ability, web
 *(DC 16).
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 14) or *detect magical aura*,
-*sleep *(DC 15) or *true
-strike*, *locate object *or
-*zone of truth *(DC 16).
+*(DC 14) or* detect magical aura*,
+*sleep* (DC 15) or *true
+strike*,* locate object *or
+*zone of truth* (DC 16).
 
 ## Adult Dragon
 
@@ -458,18 +458,18 @@ Draconic, Speak Language (any five), Spot +19.
 **Feats:** Alertness, Cleave, Combat Reflexes, Improved
 Bull Rush, Improved Damage Threshold, Power Attack.
 
-**Spells Prepared **(4/5/3): 0—*mage hand,
+**Spells Prepared** (4/5/3): 0—*mage hand,
 message, read magic, resistance; *1st—*mage armor,
 magic missile, ray of fatigue, shield, true strike;
 *2nd—*enhance ability, spider climb, web
 *(DC 17).
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 15) or *detect magical aura*,
-*sleep *(DC 16) or *true
-strike*, *locate object *or
-*zone of truth *(DC 17), *protection
-from arrows/bullets *or *resist
+*(DC 15) or* detect magical aura*,
+*sleep* (DC 16) or *true
+strike*,* locate object *or
+*zone of truth* (DC 17), *protection
+from arrows/bullets *or* resist
 energy*.
 
 ## Mature Adult Dragon
@@ -517,7 +517,7 @@ Draconic, Speak Language (any five), Spot +20.
 **Feats:** Alertness, Cleave, Combat Reflexes, Improved
 Bull Rush, Improved Damage Threshold, Power Attack, Sunder.
 
-**Spells Prepared **(4/5/3/2): 0—*mage hand,
+**Spells Prepared** (4/5/3/2): 0—*mage hand,
 message, read magic, resistance; *1st—*mage armor,
 magic missile, ray of fatigue, shield, true strike;
 *2nd—*enhance ability, spider climb, web
@@ -525,12 +525,12 @@ magic missile, ray of fatigue, shield, true strike;
 haste*.
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 15) or *detect magical aura*,
-*sleep *(DC 16) or *true
-strike*, *locate object *or
-*zone of truth *(DC 17), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
+*(DC 15) or* detect magical aura*,
+*sleep* (DC 16) or *true
+strike*,* locate object *or
+*zone of truth* (DC 17), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
 *invisibility*.
 
 ## Old Dragon
@@ -578,7 +578,7 @@ Draconic, Speak Language (any six), Spot +22.
 **Feats:** Alertness, Cleave, Combat Reflexes, Improved
 Bull Rush, Improved Damage Threshold, Power Attack, Sunder.
 
-**Spells Prepared **(4/5/5/3): 0—*mage hand,
+**Spells Prepared** (4/5/5/3): 0—*mage hand,
 message, read magic, resistance; *1st—*mage armor,
 magic missile, ray of fatigue, shield, true strike;
 *2nd—*arcane lock, enhance ability, resist energy,
@@ -586,13 +586,13 @@ spider climb, web *(DC 18); 3rd—*dispel magic,
 displacement, haste*.
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 16) or *detect magical aura*,
-*sleep *(DC 17) or *true
-strike*, *locate object *or
-*zone of truth *(DC 18), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
-*invisibility*, *tongues *or
+*(DC 16) or* detect magical aura*,
+*sleep* (DC 17) or *true
+strike*,* locate object *or
+*zone of truth* (DC 18), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
+*invisibility*,* tongues *or
 *water breathing*.
 
 ## Very Old Dragon
@@ -641,25 +641,25 @@ Draconic, Speak Language (any seven), Spot +24.
 Bull Rush, Improved Damage Threshold, Multiattack, Power Attack,
 Sunder.
 
-**Spells Prepared **(4/6/5/3/2): 0—*mage
+**Spells Prepared** (4/6/5/3/2): 0—*mage
 hand, message, read magic, resistance; *1st—*mage
 armor, magic missile, ray of fatigue *(2),
-*shield, true strike; *2nd—*arcane
+*shield, true strike;* 2nd—*arcane
 lock, enhance ability, resist energy, spider climb, web *(DC
 19); 3rd—*dispel magic, displacement, haste;
-*4th—*stoneskin, wall of ice *(DC
+*4th—*stoneskin, wall of ice* (DC
 21).
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 17) or *detect magical aura*,
-*sleep *(DC 18) or *true
-strike*, *locate object *or
-*zone of truth *(DC 19), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
-*invisibility*, *tongues *or
-*water breathing*, *arcane eye
-*or *minor globe of
+*(DC 17) or* detect magical aura*,
+*sleep* (DC 18) or *true
+strike*,* locate object *or
+*zone of truth* (DC 19), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
+*invisibility*,* tongues *or
+*water breathing*,* arcane eye
+*or* minor globe of
 invulnerability*.
 
 ## Ancient Dragon
@@ -708,26 +708,26 @@ Draconic, Speak Language (any eight), Spot +26.
 Cleave, Improved Bull Rush, Improved Damage Threshold, Multiattack,
 Power Attack, Sunder.
 
-**Spells Prepared **(4/6/5/4/3): 0—*mage
+**Spells Prepared** (4/6/5/4/3): 0—*mage
 hand, message, read magic, resistance; *1st—*mage
 armor, magic missile, ray of fatigue *(2),
-*shield, true strike; *2nd—*arcane
+*shield, true strike;* 2nd—*arcane
 lock, enhance ability, resist energy, spider climb, web *(DC
 20); 3rd—*dispel magic, displacement, haste, slow
 *(DC 21); 4th—*ice storm, stoneskin, wall of fire
 *(DC 22).
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 18) or *detect magical aura*,
-*sleep *(DC 19) or *true
-strike*, *locate object *or
-*zone of truth *(DC 20), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
-*invisibility*, *tongues *or
-*water breathing*, *arcane eye
-*or *minor globe of invulnerability*,
-*confusion *(DC 22) or *freedom of
+*(DC 18) or* detect magical aura*,
+*sleep* (DC 19) or *true
+strike*,* locate object *or
+*zone of truth* (DC 20), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
+*invisibility*,* tongues *or
+*water breathing*,* arcane eye
+*or* minor globe of invulnerability*,
+*confusion* (DC 22) or *freedom of
 movement*.
 
 ## Dragon King/Queen
@@ -776,29 +776,29 @@ Draconic, Speak Language (any nine), Spot +28.
 Cleave, Improved Bull Rush, Improved Damage Threshold, Multiattack,
 Power Attack, Renown, Sunder.
 
-**Spells Prepared **(4/6/6/4/3/2): 0—*mage
+**Spells Prepared** (4/6/6/4/3/2): 0—*mage
 hand, message, read magic, resistance; *1st—*mage
 armor, magic missile, ray of fatigue *(2),
-*shield, true strike; *2nd—*arcane
-lock, enhance ability *(2), *resist energy, spider
-climb, web *(DC 21); 3rd— *dispel magic,
+*shield, true strike;* 2nd—*arcane
+lock, enhance ability *(2),* resist energy, spider
+climb, web *(DC 21); 3rd—* dispel magic,
 displacement, haste, slow *(DC 22); 4th—*ice
 storm, stoneskin, wall of fire *(DC 23); 5th—*hold
-monster *(DC 24), *wall of
+monster *(DC 24),* wall of
 force*.
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 19) or *detect magical aura*,
-*sleep *(DC 20) or *true
-strike*, *locate object *or
-*zone of truth *(DC 21), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
-*invisibility*, *tongues *or
-*water breathing*, *arcane eye
-*or *minor globe of invulnerability*,
-*confusion *(DC 23) or *freedom of
-movement*, *break enchantment *or
+*(DC 19) or* detect magical aura*,
+*sleep* (DC 20) or *true
+strike*,* locate object *or
+*zone of truth* (DC 21), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
+*invisibility*,* tongues *or
+*water breathing*,* arcane eye
+*or* minor globe of invulnerability*,
+*confusion* (DC 23) or *freedom of
+movement*,* break enchantment *or
 *true seeing*.
 
 ## Dragon Emperor/Empress
@@ -847,30 +847,30 @@ Draconic, Speak Language (any ten), Spot +30.
 Cleave, Improved Bull Rush, Improved Damage Threshold, Multiattack,
 Power Attack, Renown, Sunder.
 
-**Spells Prepared **(4/6/6/4/4/3): 0—*mage
+**Spells Prepared** (4/6/6/4/4/3): 0—*mage
 hand, message, read magic, resistance; *1st—*mage
 armor, magic missile, ray of fatigue *(2),
-*shield, true strike; *2nd—*arcane
-lock, enhance ability *(2), *resist energy, spider
+*shield, true strike;* 2nd—*arcane
+lock, enhance ability *(2),* resist energy, spider
 climb, web *(DC 22); 3rd—*dispel magic,
 displacement, haste, slow *(DC 23); 4th—*dimension
-door, ice storm*, *stoneskin, wall of fire
-*(DC 24); 5th—*cone of cold *(DC
-25)*, hold monster *(DC 25), *wall of
+door, ice storm*,* stoneskin, wall of fire
+*(DC 24); 5th—*cone of cold* (DC
+25)*, hold monster* (DC 25), *wall of
 force*.
 
 **Spell-like Abilities:** 1/day—*daze
-*(DC 20) or *detect magical aura*,
-*sleep *(DC 21) or *true
-strike*, *locate object *or
-*zone of truth *(DC 22), *protection
-from arrows/bullets *or *resist
-energy*, *blur *or
-*invisibility*, *tongues *or
-*water breathing*, *arcane eye
-*or *minor globe of invulnerability*,
-*confusion *(DC 24) or *freedom of
-movement*, *break enchantment *or
-*true seeing*, *cloudkill
-*(DC 25) or *telekinesis *(DC
+*(DC 20) or* detect magical aura*,
+*sleep* (DC 21) or *true
+strike*,* locate object *or
+*zone of truth* (DC 22), *protection
+from arrows/bullets *or* resist
+energy*,* blur *or
+*invisibility*,* tongues *or
+*water breathing*,* arcane eye
+*or* minor globe of invulnerability*,
+*confusion* (DC 24) or *freedom of
+movement*,* break enchantment *or
+*true seeing*,* cloudkill
+*(DC 25) or* telekinesis *(DC
 25).

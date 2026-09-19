@@ -1,4 +1,4 @@
-# Biomorph (pl 5)
+# Biomorph (PL 5)
 
 A biomorph frame is essentially a hard plastic or metallic casing, often
 in a shape that suggests a living creature—for example, a human, dog,
@@ -24,7 +24,7 @@ construct immunities, including immunity to critical hits.
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
 | Colossal       | 48                   | 32d10             | 120                  | 46                          | 6       | —       | —       | 10      | 1       | 64d10/+3 per HD                           |
 | Gargantuan     | 40                   | 16d10             | 80                   | 38                          | 6       | —       | —       | 10      | 1       | 31d10/+3 per HD                           |
 | Huge           | 32                   | 8d10              | 40                   | 30                          | 6       | —       | —       | 10      | 1       | 15d10/+2 per HD                           |

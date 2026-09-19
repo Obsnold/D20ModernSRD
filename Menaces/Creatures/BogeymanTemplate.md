@@ -26,7 +26,7 @@ until it is reduced to its negative Constitution score, at which point
 it dies. This ability does not enable the bogeyman to regrow or reattach
 severed body parts.
 
-*Immunities (Ex): *A bogeyman is immune to disease, mind-affecting
+*Immunities (Ex):* A bogeyman is immune to disease, mind-affecting
 effects, necromantic effects, paralysis, poison, and sleep. It is not
 subject to nonlethal damage.
 

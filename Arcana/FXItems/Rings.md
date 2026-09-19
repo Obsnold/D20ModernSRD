@@ -17,8 +17,8 @@ time. Either way, the transformation takes a move action to complete.
 The wearer retains her Intelligence, Wisdom, and Charisma scores in cat
 form, during which the ring takes the form of a handsome collar.
 
-*Type: *Ring (magic); *Caster Level: *12th\*; *Purchase DC: *37;
-*Weight: *—.
+*Type:* Ring (magic); *Caster Level:* 12th\*;* Purchase DC: *37;
+*Weight:* —.
 
 **Decoder Ring**
 
@@ -26,12 +26,12 @@ This cheap-looking tin ring has a small dial adorned with letters of the
 alphabet. It grants its wearer a +10 equipment bonus on Decipher Script
 checks. Note that understanding does not necessarily imply spell use.
 
-*Type: *Ring (magic); *Caster Level: *5th; *Purchase DC: *30; *Weight:
+*Type:* Ring (magic); *Caster Level:* 5th; *Purchase DC:* 30; *Weight:
 *—.
 
 **Ring of Algos**
 
-This iron signet ring has a *sigil of Algos *(see Incantations) carved
+This iron signet ring has a *sigil of Algos* (see Incantations) carved
 into its setting. Any time the wearer shakes hands with another living
 creature, he may activate the ring’s power (as an attack action). The
 two parties shaking hands make opposed Will saves, although the ring’s
@@ -39,8 +39,8 @@ wearer gets to add his Charisma bonus to his save. Whoever has the lower
 result receives a –4 penalty to all attack rolls, skill checks, and
 saving throws for the next 12 hours.
 
-*Type: *Ring (magic); *Caster Level: *11th\*; *Purchase DC: *36;
-*Weight: *—.
+*Type:* Ring (magic); *Caster Level:* 11th\*;* Purchase DC: *36;
+*Weight:* —.
 
 **Ring of Cold Cocking**
 
@@ -48,7 +48,7 @@ This brass ring is shaped like a fist. The wearer can make an unarmed
 attack against a flat-footed opponent as if he had the Knockout Punch
 feat, even if he doesn’t have the prerequisites.
 
-*Type: *Ring (magic); *Caster Level: *5th; *Purchase DC: *30; *Weight:
+*Type:* Ring (magic); *Caster Level:* 5th; *Purchase DC:* 30; *Weight:
 *—.
 
 **Ring of Lockpicking**
@@ -58,7 +58,7 @@ mechanical arms designed to fit into any Fine or Diminutive lock. The
 ring grants a +5 equipment bonus on Disable Device checks when picking
 or disabling mechanical or electronic locks.
 
-*Type: *Ring (magic); *Caster Level: *3rd; *Purchase DC: *28; *Weight:
+*Type:* Ring (magic); *Caster Level:* 3rd; *Purchase DC:* 28; *Weight:
 *—.
 
 **Ring of Lyssa**
@@ -70,8 +70,8 @@ on this cursed ring is suffers the effects of a *sigil of Lyssa
 negates). When the ring is removed, the victim must make a second Will
 save (DC 28) or suffer the effects for an additional 16 minutes.
 
-*Type: *Ring (magic); *Caster Level: *12th\*; *Purchase DC: *37;
-*Weight: *—.
+*Type:* Ring (magic); *Caster Level:* 12th\*;* Purchase DC: *37;
+*Weight:* —.
 
 **Ring of Surveillance Detection**
 
@@ -82,7 +82,7 @@ the wearer can locate the direction and distance to the device. It
 grants a +5 circumstance bonus on Search checks when trying to find
 concealed monitoring devices.
 
-*Type: *Ring (magic); *Caster Level: *5th; *Purchase DC: *30; *Weight:
+*Type:* Ring (magic); *Caster Level:* 5th; *Purchase DC:* 30; *Weight:
 *—.
 
 **Ring of Via Negativa**
@@ -90,5 +90,5 @@ concealed monitoring devices.
 This ring is set with a black pearl and allows its wearer to cast *via
 negativa *three times per day. Activating the ring is an attack action.
 
-*Type: *Ring (magic); *Caster Level: *7th; *Purchase DC: *32; *Weight:
+*Type:* Ring (magic); *Caster Level:* 7th; *Purchase DC:* 32; *Weight:
 *—.

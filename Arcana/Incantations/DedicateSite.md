@@ -14,11 +14,11 @@
 | Saving Throw     | See text                                                                    |
 | Spell Resistance | See text                                                                    |
 
-*Dedicate site *makes a particular place, building, or structure
+*Dedicate site* makes a particular place, building, or structure
 particularly attuned to a specific allegiance. This has two major
 effects.
 
-First, the site or structure is guarded by a *magic circle *effect (as
+First, the site or structure is guarded by a *magic circle* effect (as
 the spell) against any allegiance you choose.
 
 Second, you may choose to fix a single spell effect to the dedicated
@@ -27,26 +27,26 @@ entire site, regardless of the normal duration and area or effect. You
 may designate whether the effect applies to all creatures, creatures
 that share an allegiance with you, or creatures that have another
 allegiance. At the end of the year, the chosen effect lapses, but it can
-be renewed or replaced simply by casting the *dedicate site *incantation
+be renewed or replaced simply by casting the *dedicate site* incantation
 again.
 
 Spell effects that may be tied to a dedicated site include *aid, bane,
 bless, cause fear, darkness, daylight, detect magical aura, discern
 lies, dispel magic, freedom of movement, remove fear, resist energy,
-silence, tongues, *and *zone of truth. *Saving throws and spell
+silence, tongues, *and* zone of truth. *Saving throws and spell
 resistance might apply to these spells’ effects. (See the individual
 spell descriptions for details.)
 
-An area can receive only one *dedicate site *spell (and its associated
+An area can receive only one *dedicate site* spell (and its associated
 spell effect) at a time.
 
-*Material Component: *Various symbols relevant to your allegiance
+*Material Component:* Various symbols relevant to your allegiance
 (purchase DC 25).
 
-*Secondary Casters: *11 required (not including the primary caster).
+*Secondary Casters:* 11 required (not including the primary caster).
 
-*Backlash: *All casters are exhausted.
+*Backlash:* All casters are exhausted.
 
-*Failure: *Hostile spell. The primary caster is targeted with a *bestow
+*Failure:* Hostile spell. The primary caster is targeted with a *bestow
 curse *spell, but does not get a saving throw or spell resistance. The
 GM chooses the exact curse.

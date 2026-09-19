@@ -19,21 +19,21 @@ base creature’s extraordinary, supernatural, and spell-like qualities
 except for qualities tied to its type. In addition to gaining the fey
 type, a changeling has the following special qualities.
 
-*Spell-like Abilities: *1/day—*charm person,
+*Spell-like Abilities:* 1/day—*charm person,
 object reading; *3/day—*detect magical
 aura*. The changeling’s manifester level is equal to his or
 her character level.
 
-*Immunities (Ex): *A changeling picks one energy type
+*Immunities (Ex):* A changeling picks one energy type
 (acid, cold, electricity, fire, or sonic/concussion) to which it is
 immune.
 
-*Resistance to Energy (Ex): *A changeling gains energy
+*Resistance to Energy (Ex):* A changeling gains energy
 resistance 10 to one energy type (acid, cold, electricity, fire, or
 sonic/concussion). A changeling cannot be resistant to an energy type to
 which it is immune (see above).
 
-*Damage Reduction 5/+1 (Su): *A changeling ignores the
+*Damage Reduction 5/+1 (Su):* A changeling ignores the
 first 5 points of damage dealt by a nonmagical weapon. Unlike sidhe,
 this damage reduction doesn’t increase as the changeling gains Hit Dice
 or levels.

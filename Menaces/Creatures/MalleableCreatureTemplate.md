@@ -16,13 +16,13 @@ grapple checks.
 qualities of the base creature and gains the additional special
 qualities described below.
 
-*Bludgeoning Resistance 5 (Ex): *A malleable creature ignores the first
+*Bludgeoning Resistance 5 (Ex):* A malleable creature ignores the first
 5 points of bludgeoning damage from any single attack.
 
-*Increased Reach (Ex): *The reach of a malleable creature increases by 5
+*Increased Reach (Ex):* The reach of a malleable creature increases by 5
 feet.
 
-*Malleable Form (Ex): *This ability allows a malleable creature to make
+*Malleable Form (Ex):* This ability allows a malleable creature to make
 itself look different. It can appear 1 foot shorter or taller than its
 normal height, and it can seem thinner or fatter. It cannot change its
 skin, hair color, body type, or number of limbs. This ability does not

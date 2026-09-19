@@ -12,7 +12,7 @@
 | Saving Throw     | Will negates or Will disbelief (if interacted with)                    |
 | Spell Resistance | Yes or No (see text)                                                   |
 
-This glamer functions like the *change self *spell except you can change
+This glamer functions like the *change self* spell except you can change
 the appearance of other creatures as well. Affected creatures resume
 their normal appearances if slain. Unwilling targets can negate the
 spell’s effect on them by making Will saves or with spell resistance.

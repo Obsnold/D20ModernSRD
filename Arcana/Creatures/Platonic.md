@@ -95,8 +95,8 @@ Weapons Proficiency.
 | Defense Breakdown | +5 Dex, +15 natural, +2 deflection                                                                                                                                                      |
 | BAB               | +15                                                                                                                                                                                     |
 | Grap              | +21                                                                                                                                                                                     |
-| Atk               | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3, *+3 M–16A2*) or +19 ranged (4d8+3, *+2 M–16A2 *burst)                               |
-| Full Atk          | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3, *+2 M–16A2*) or +19/+14/+9 ranged (4d8+3, *+2 M16A2 *burst) |
+| Atk               | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3,* +3 M–16A2*) or +19 ranged (4d8+3,* +2 M–16A2 *burst)                               |
+| Full Atk          | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3,* +2 M–16A2*) or +19/+14/+9 ranged (4d8+3,* +2 M16A2 *burst) |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                                          |
 | Reach             | 5 ft.                                                                                                                                                                                   |
 | SQ                | aura of menace, spell-like abilities, tongues, extradimensional storage, keen vision, immunities, acid and fire resistance 20, damage reduction 30/+3, SR 25, fast healing 10           |
@@ -130,7 +130,7 @@ magic, teleport. *Caster level 10th; save DC 17 + spell
 level.
 
 **Possessions:** *+3 longsword, +3 M16A2
-*(both items stored extradimensionally), *+2 ring
+*(both items stored extradimensionally),* +2 ring
 of protection*.
 
 **Advancement:** By character class.

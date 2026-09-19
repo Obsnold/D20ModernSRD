@@ -6,7 +6,7 @@ of a drab color.
 
 ## Species Traits
 
-***Confusion *(Sp):** A doom hag can use *confusion *three times per
+**Confusion (Sp):** A doom hag can use *confusion* three times per
 day, as the spell cast by a 9th-level Mage (Will save negates; save DC
 14 + the doom hag’s Charisma modifier).
 
@@ -53,7 +53,7 @@ bonus on Hide checks at night or in darkness.
 | Full Atk          | +8 melee (1d4+4, 2 claws)                                                                 |
 | FS                | 5 ft. by 5 ft.                                                                            |
 | Reach             | 5 ft.                                                                                     |
-| SQ                | *confusion *(DC 17), darkvision 60 ft., mimicry, natural invisibility, rend 1d4+6, undead |
+| SQ                | *confusion* (DC 17), darkvision 60 ft., mimicry, natural invisibility, rend 1d4+6, undead |
 | AL                | chaos, evil                                                                               |
 | Fort              | +2                                                                                        |
 | Ref               | +2                                                                                        |

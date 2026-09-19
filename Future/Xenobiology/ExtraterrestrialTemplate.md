@@ -24,16 +24,16 @@ of +1.
 modes of movement for another, gaining the ability to burrow, climb,
 fly, or swim.
 
-*Burrow: *The extraterrestrial can burrow at a speed equal to one-half
+*Burrow:* The extraterrestrial can burrow at a speed equal to one-half
 its base land speed.
 
-*Climb: *The extraterrestrial can climb at a speed equal to its base
+*Climb:* The extraterrestrial can climb at a speed equal to its base
 land speed. It also gains a +8 species bonus on Climb checks.
 
-*Fly: *The extraterrestrial has wings and can fly at twice the speed of
+*Fly:* The extraterrestrial has wings and can fly at twice the speed of
 its base land speed (poor maneuverability).
 
-*Swim: *The extraterrestrial can swim at a speed equal to its base land
+*Swim:* The extraterrestrial can swim at a speed equal to its base land
 speed. It also gains a +8 species bonus on Swim checks.
 
 **Special Qualities:** An extraterrestrial retains all the special
@@ -55,7 +55,7 @@ qualities, chosen from the following list:
 | Psionics               | +1/3        |
 | Scent                  | +1/3        |
 
-*Acidic Blood (Ex): *The extraterrestrial has acidic blood. Each time it
+*Acidic Blood (Ex):* The extraterrestrial has acidic blood. Each time it
 takes damage, it deals acid damage to all adjacent creatures and objects
 as it splatters its blood on them. The amount of damage equals 1d6 per 3
 Hit Dice of the creature (rounded down), to a maximum of 5d6 points. A
@@ -64,7 +64,7 @@ the creature’s CR by +1/3.
 
 *Blindsight (Ex):* Blindsight increases the creature’s CR by +1/3.
 
-*Breath Weapon (Su): *Once every 1d4 rounds, the extraterrestrial can
+*Breath Weapon (Su):* Once every 1d4 rounds, the extraterrestrial can
 breathe a 30-foot cone of cold or fire, or a 60-foot line of acid or
 electricity. The breath weapon deals damage of the appropriate energy
 type to all opponents within the effect, and the amount of damage is
@@ -73,10 +73,10 @@ Targets who make a successful Reflex save (DC 10 + 1/2 creature’s HD +
 creature’s Con modifier) take half damage. A breath weapon increases the
 creature’s CR by +2/3.
 
-*Damage Reduction (Ex): *The extraterrestrial gains damage reduction
+*Damage Reduction (Ex):* The extraterrestrial gains damage reduction
 5/–. Damage reduction increases the creature’s CR by +2/3.
 
-*Death Cloud (Ex): *When it dies, the extraterrestrial expels a cloud of
+*Death Cloud (Ex):* When it dies, the extraterrestrial expels a cloud of
 poisonous gas that fills its fighting space and all squares within 10
 feet. Any creature in the cloud must succeed in a Fortitude save (DC
 10 + 1/2 the dead creature’s Hit Dice + the dead creature’s Con
@@ -84,17 +84,17 @@ modifier) to negate the initial and secondary effects (1d6 points of
 Constitution damage each). The death cloud increases the creature’s CR
 by +2/3.
 
-*Energy Resistance (Ex): *The extraterrestrial gains resistance 10 to
+*Energy Resistance (Ex):* The extraterrestrial gains resistance 10 to
 one type of energy (acid, cold, electricity, fire, or sonic/concussion).
 Energy resistance increases the creature’s CR by +1/3.
 
-*Fast Healing (Ex): *The extraterrestrial has fast healing 5. Fast
+*Fast Healing (Ex):* The extraterrestrial has fast healing 5. Fast
 healing increases the creature’s CR by +2/3.
 
-*Improved Natural Armor (Ex): *Increase the base creature’s natural
+*Improved Natural Armor (Ex):* Increase the base creature’s natural
 armor by +3. This increases the creature’s CR by +1/3.
 
-*Poisonous Bite (Ex): *The extraterrestrial’s bite attack is poisonous.
+*Poisonous Bite (Ex):* The extraterrestrial’s bite attack is poisonous.
 (Only creatures with a natural bite attack can gain this ability.) A
 successful Fortitude save (DC 10 + 1/2 the creature’s Hit Dice + the
 creature’s Con modifier) negates the effect. The poison’s damage can
@@ -111,15 +111,15 @@ suits the creature. A poisonous bite increases the creature’s CR by
 | 68–84   | 2d4 Cha        | 2d4 Cha             |
 | 85–100  | None           | Paralysis 1d6 hours |
 
-*Power Resistance (Ex): *The extraterrestrial gains power resistance
+*Power Resistance (Ex):* The extraterrestrial gains power resistance
 equal to its Hit Dice. Power resistance increases the creature’s CR by
 +1/3.
 
-*Psionics (Sp): *The extraterrestrial gains the use of one psionic power
+*Psionics (Sp):* The extraterrestrial gains the use of one psionic power
 of 2nd level or lower. It can use this power three times per day. This
 ability increases the creature’s CR by +1/3.
 
-*Scent (Ex): *This ability increases the creature’s CR by +1/3.
+*Scent (Ex):* This ability increases the creature’s CR by +1/3.
 
 **Feats:** An extraterrestrial may replace one of the base creature’s
 feats with the Planetary Adaptation feat. If the base creature has no

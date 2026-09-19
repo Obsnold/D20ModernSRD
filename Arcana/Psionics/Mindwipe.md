@@ -27,4 +27,4 @@ slot from her highest available level). Negative levels stack. Assuming
 the subject survives, he regains lost levels after a number of hours
 equal to your manifester level. Usually, negative levels have a chance
 of permanently draining the subject’s levels, but the negative levels
-from *mindwipe *don’t last long enough to do so.
+from *mindwipe* don’t last long enough to do so.

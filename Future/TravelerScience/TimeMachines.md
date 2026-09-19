@@ -37,8 +37,8 @@ check (DC 35).
 
 Time spheres have the following statistics:
 
-**Crew **2; **Passengers **0; **Cargo **120 lb.; **Defense **6;
-**Hardness **5; **Hit Points **24; **Size **Huge; **Purchase DC:** 65;
+**Crew** 2; **Passengers** 0; **Cargo** 120 lb.; **Defense** 6;
+**Hardness** 5; **Hit Points** 24; **Size** Huge; **Purchase DC:** 65;
 **Restriction:** Illegal (+4).
 
 ## Temporal Drive Generator (pl 9)
@@ -55,7 +55,7 @@ a starship of any size and turns the entire ship into a time machine.
 ## Time Bridge (pl 9)
 
 Doing away with the issue of portability, the time bridge opens a portal
-to both other times *and *other places. The time bridge also has the
+to both other times *and* other places. The time bridge also has the
 advantage of not leaving a fragile piece of vital equipment lying about
 while its operators go exploring. Instead, the travelers use a simple
 “message-drop” system to communicate with their base of operations: Upon

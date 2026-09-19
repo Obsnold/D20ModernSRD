@@ -26,7 +26,7 @@ of abilities often come the Guild with their list of requirements.
 So far, none of the labor issues in which the I.G.L. has been involved
 has come to all-out strikes (though temporary work stoppages have
 occasionally been applied). The Guild has a history of fairly
-representing their membership *without *ever making unreasonable demands
+representing their membership *without* ever making unreasonable demands
 on employers.
 
 Any shadowkind hero is welcome to join the International Guild of

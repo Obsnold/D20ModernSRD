@@ -45,10 +45,10 @@ enough to be released.
 Despite its benevolent façade, the Fraternal Order of Vigilance is
 nothing less than a hate group. It is there unfit for heroes to join.
 Members of the group do not get any special bonus to level checks for
-requisitioning materials, but they can count on the *complete *support
+requisitioning materials, but they can count on the *complete* support
 of other lodge members.
 
-***Ashe**’**s Field Guide***
+***Ashe’s Field Guide***
 
 Carlton Ashe was one of the founding members of the Fraternal Order of
 Vigilance. He was an otherwise mundane man who had the ability to see
@@ -62,7 +62,7 @@ Before long he had gathered a handbook that he hoped would let anyone
 tell the difference a “real person” and a “monster.” Unfortunately, his
 methods were not foolproof, and more than one mundane reader has
 mistakenly accused a tall, burly human of being a bugbear in disguise.
-Now in its 3rd edition, *Ashe’s Field Guide *is an item given to every
+Now in its 3rd edition, *Ashe’s Field Guide* is an item given to every
 member of the F.O.V., but it is not available in stores.
 
 This book, however, turns out to be even more useful to people who are

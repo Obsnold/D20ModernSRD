@@ -16,7 +16,7 @@ cold, electricity, fire, or sonic/concussion. You can cast the energy
 forth as a bolt, imbue an object with the energy, or create a
 freestanding manifestation of the energy.
 
-If your incantation developed using the *energy *seed releases a bolt,
+If your incantation developed using the *energy* seed releases a bolt,
 that bolt instantaneously deals 10d6 points of damage of the appropriate
 energy type, and all creatures in bolt’s area must make a Reflex save
 for half damage. For each additional 1d6 points of damage dealt,
@@ -46,10 +46,10 @@ provided the undead creature is not immune to the selected energy type.
 For each additional 1d6 points of damage, increase the Knowledge (arcane
 lore) check DC by +2.
 
-You can also use the *energy *seed to create an incantation that
+You can also use the *energy* seed to create an incantation that
 carefully releases and balances the emanation of cold, electricity, and
 fire, creating specific weather effects for a period of 24 hours. Using
-the *energy *seed this way has a base Knowledge (arcane lore) check DC
+the *energy* seed this way has a base Knowledge (arcane lore) check DC
 of 34. The area extends to a two-mile-radius centered on you. Once the
 incantation is cast, the weather takes 10 minutes to manifest.
 
@@ -57,4 +57,4 @@ With the base use, you can’t directly target a creature or object,
 though indirect effects are possible. But you can create cold snaps,
 heat waves, thunderstorms, fogs, blizzards —even a tornado that moves
 randomly in the affected area. Creating targeted damaging effects
-requires an additional use of the *energy *seed.
+requires an additional use of the *energy* seed.

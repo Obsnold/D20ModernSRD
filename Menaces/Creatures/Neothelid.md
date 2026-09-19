@@ -23,8 +23,8 @@ neothelid’s damage reduction or apply it only to certain types of
 weapons (ballistic, bludgeoning, piercing, slashing, or
 sonic/concussion).
 
-***Psionics *(Sp):** At will—*charm person*, *clairaudience/
-clairvoyance*, *detect thoughts*, *levitate*, *suggestion*,
+**Psionics (Sp):** At will—*charm person*,* clairaudience/
+clairvoyance*,* detect thoughts*,* levitate*,* suggestion*,
 *telekinesis*. Manifester level 10th; save DC 10 + neothelid’s key
 ability modifier + power level.
 
@@ -75,7 +75,7 @@ out. A Gargantuan neothelid’s gizzard can hold 2 Large, 8 Medium-size,
 | Full Atk          | +25 melee (2d6+10, 4 tentacle rakes)                                                                                             |
 | FS                | 20 ft. by 20 ft. (coiled)                                                                                                        |
 | Reach             | 20 ft.                                                                                                                           |
-| SQ                | blindsight 500 ft., breath weapon (DC 30), damage reduction 15/+2, improved grab, power resistance 25, *psionics, *swallow whole |
+| SQ                | blindsight 500 ft., breath weapon (DC 30), damage reduction 15/+2, improved grab, power resistance 25, *psionics,* swallow whole |
 | AL                | evil                                                                                                                             |
 | Fort              | +16                                                                                                                              |
 | Ref               | +6                                                                                                                               |

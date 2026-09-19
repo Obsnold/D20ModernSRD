@@ -106,14 +106,14 @@ a level check, adding all Arcane Arranger levels and any levels of
 Charismatic Hero. The difficulty of this task is based on how common the
 required abilities are:
 
-|                                                                                                                                        |                         |
+| Requirement | DC |
 |---|---|
-| **Common Skill **(Ride, Pilot, Treat Injury)                                                                                           | DC 10                   |
-| **Uncommon Skill **(subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                   | DC 15                   |
-| **Rare Skill **(skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                        | DC 20                   |
-| **Specific Feat **                                                                                                                     | DC 20                   |
-| **Class Feature **(spellcasting, turn undead, psionics)                                                                                | DC 20                   |
-| **Specific Combination **of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25                   |
+| **Common Skill** (Ride, Pilot, Treat Injury)                                                                                           | DC 10                   |
+| **Uncommon Skill** (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                   | DC 15                   |
+| **Rare Skill** (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                        | DC 20                   |
+| **Specific Feat**                                                                                                                      | DC 20                   |
+| **Class Feature** (spellcasting, turn undead, psionics)                                                                                | DC 20                   |
+| **Specific Combination** of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25                   |
 | Finding someone willing to perform activities secretly or illegally                                                                    | DC +5                   |
 | Finding someone with a specific level of ability                                                                                       | Add desired ranks to DC |
 
@@ -150,7 +150,7 @@ At 8th level, the Arcane Arranger gains the supernatural ability to pull
 a specific item out of thin air. As a move action, the Arcane Arranger
 may cause any item currently in his possession (with a size no greater
 than Small) to disappear into an extra-dimensional space. The item
-becomes impossible to detect by any means, however *detect magical *aura
+becomes impossible to detect by any means, however *detect magical* aura
 spells will reveal a moderate magical aura around the hand that last
 held the item. As a move action, the Arcane Arranger can cause the item
 to reappear in his hand. The Arcane Arranger may only hide one item at a

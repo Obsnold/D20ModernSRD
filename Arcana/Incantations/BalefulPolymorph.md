@@ -13,7 +13,7 @@
 | Saving Throw     | Fortitude negates (DC 17 + caster’s Cha modifier) and see text                                 |
 | Spell Resistance | Yes                                                                                            |
 
-As the *polymorph *incantation, except that you change the subject into
+As the *polymorph* incantation, except that you change the subject into
 a Small or smaller animal of no more than 1 HD (such as a dog, lizard,
 monkey, toad, or viper). If the new form would prove fatal to the
 creature (such as polymorphing a landbound target into a fish), the
@@ -29,16 +29,16 @@ Note that incorporeal or gaseous creatures are immune to being
 polymorphed, and a shapeshifter (such as a werewolf) can revert to its
 natural form as a move action.
 
-*Material Component: *Laboratory equipment and alchemical supplies
+*Material Component:* Laboratory equipment and alchemical supplies
 (purchase DC 25).
 
-*Focus: *Part of the kind of creature that the target will turn into,
+*Focus:* Part of the kind of creature that the target will turn into,
 such as a hair, scale, or feather. If you have a living, helpless
 creature that can serve as a model for the target creature, you gain a
 +2 bonus on the Knowledge (arcane lore) checks required for this
 incantation.
 
-*Secondary Casters: *12 required (not including the primary caster).
+*Secondary Casters:* 12 required (not including the primary caster).
 
-*Failure: *Reversal on all secondary casters, using the same saving
+*Failure:* Reversal on all secondary casters, using the same saving
 throw DC.

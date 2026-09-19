@@ -13,7 +13,7 @@
 You can conceal a creature or object touched from sight, even from
 darkvision. If the target is a creature carrying gear, the gear
 vanishes, too, rendering the creature invisible, with all the rules that
-apply to invisibility. An incantation using the *conceal *seed ends if
+apply to invisibility. An incantation using the *conceal* seed ends if
 the subject attacks any creature. Actions directed at unattended objects
 do not break the incantation, and causing harm indirectly is not an
 attack. To create invisibility that lasts regardless of the actions of
@@ -26,10 +26,10 @@ benefits from a 50% miss chance as if it had full concealment. However,
 unlike actual full concealment, this displacement effect does not
 prevent enemies from targeting him normally.
 
-The *conceal *seed can also be used to block out divinatory spells such
-as *scrying *spells, spell-like effects, and incantations developed
-using the *reveal *seed; this increases the Knowledge (arcane lore)
+The *conceal* seed can also be used to block out divinatory spells such
+as *scrying* spells, spell-like effects, and incantations developed
+using the *reveal* seed; this increases the Knowledge (arcane lore)
 check DC by +6. In all cases where incantations are used against the
-subject of a incantation using the *conceal *seed for this purpose, an
+subject of a incantation using the *conceal* seed for this purpose, an
 opposed Knowledge (arcane lore) check determines which incantation
 works.

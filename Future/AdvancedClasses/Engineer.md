@@ -152,23 +152,23 @@ feature). An Engineer may take 10 or take 20 on this check.
 The reconfiguration imposes a –1 penalty on attack rolls made with the
 weapon but grants one of the following benefits indefinitely:
 
-*Changed Rate of Fire:*** **The reconfiguration changes the weapon’s
+**Changed Rate of Fire:** The reconfiguration changes the weapon’s
 rate of fire. A semiautomatic-only weapon switches to an automatic-only
 weapon, or vice versa. This benefit applies only to a ranged weapon with
 either a semiautomatic or automatic fire setting.
 
-*Greater Ammo Capacity:*** **The reconfigured weapon can hold 50% more
+**Greater Ammo Capacity:** The reconfigured weapon can hold 50% more
 ammunition than normal. This benefit applies only to weapons that take
 ammunition.
 
-*Greater Concealment:*** **The reconfiguration grants a +2 bonus on
+**Greater Concealment:** The reconfiguration grants a +2 bonus on
 Sleight of Hand checks made to conceal the reconfigured weapon.
 
-*Greater Range Increment: *The reconfigured weapon’s range increment
+*Greater Range Increment:* The reconfigured weapon’s range increment
 increases by 10 feet. This benefit applies only to weapons with range
 increments.
 
-*Signature Shooter: *The weapon is reconfigured for a single
+*Signature Shooter:* The weapon is reconfigured for a single
 individual’s use only and is treated as a unique exotic weapon. Anyone
 else who uses the weapon takes a –4 nonproficient penalty on attack
 rolls.
@@ -189,12 +189,12 @@ without first testing the sabotaged device requires a successful Search
 check (DC = the Engineer’s Disable Device check result). Fixing the
 sabotaged item requires a successful Repair.
 
-*Sabotage Device:*** **As a full-round action, the Engineer can
+**Sabotage Device:** As a full-round action, the Engineer can
 reconfigure a device with electrical or mechanical components so that
 anyone who uses it suffers a penalty equal to the Engineer’s class level
 on skill checks made to use the device.
 
-*Sabotage Weapon:*** **As a full-round action, the Engineer can sabotage
+**Sabotage Weapon:** As a full-round action, the Engineer can sabotage
 a weapon so that it misfires or breaks the next time it is used. A
 sabotaged weapon cannot be used effectively until repaired. This use of
 sabotage also applies to vehicle and starship weapons.
@@ -241,7 +241,7 @@ weapons, as well as weapon systems aboard vehicles, mecha, or starships.
 | Weapon also knocks target prone                  | 30     |
 | Weapon leaves target shaken for 1d4 rounds       | 35     |
 | Weapon also stuns target for 1d4 rounds          | 40     |
-| **Vehicle/Mecha/Starship Weapon Upgrade **       | **DC** |
+| **Vehicle/Mecha/Starship Weapon Upgrade**        | **DC** |
 | Weapon deals an extra two dice of damage         | 25     |
 | Weapon ignores 5 points of target’s hardness/DR  | 30     |
 | Weapon’s critical hit multiplier increases by 1  | 35     |

@@ -19,7 +19,7 @@ from another dimension or plane to a specifically prepared trap. The
 called creature is held in the trap until it agrees to perform one
 service in return for its freedom.
 
-The trap is a ward similar to a *magic circle *spell, but focused
+The trap is a ward similar to a *magic circle* spell, but focused
 inward. The type of creature to be bound must be known and stated. If it
 has a specific, proper, or given name, this must be uttered during the
 incantation. If you wish to call a vivilor with this incantation, you
@@ -57,19 +57,19 @@ effect for a maximum of ten days, and the creature gains an immediate
 chance to break free. Note that a clever recipient can subvert some
 instructions.
 
-*Options: *If you call an outsider of CR 11 to CR 15, the DC for the
+*Options:* If you call an outsider of CR 11 to CR 15, the DC for the
 incantation is increased by +4. If you call an outsider of CR 16 or
 higher, the DC for the incantation is increased by +8.
 
-*Material Component: *Various rare alchemical pigments (purchase DC 25),
+*Material Component:* Various rare alchemical pigments (purchase DC 25),
 which are used to trace a series of symbols in a circle on the floor.
 This circle is the trap for the outsider.
 
-*Secondary Casters: *12 required (not including primary caster).
+*Secondary Casters:* 12 required (not including primary caster).
 
-*Backlash: *All casters (primary and secondary) receive one negative
+*Backlash:* All casters (primary and secondary) receive one negative
 level (Fortitude save, DC 15, to remove).
 
-*Failure: *Attack. The called outsider immediately attacks the casters,
+*Failure:* Attack. The called outsider immediately attacks the casters,
 and is thereafter roams the world freely for 10 days before returning to
 its home plane or dimension.

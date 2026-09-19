@@ -6,7 +6,7 @@ Use the information on Fey to create new sidhe.
 
 Sidhe have the following traits.
 
-***Change Self *(Sp): **A sidhe can change
+**Change Self (Sp):** A sidhe can change
 its appearance at will, as per the *change self
 *spell cast by a 10th-level Mage.
 
@@ -65,7 +65,7 @@ read and write these languages.
 
 **Dreamghast**
 
-***Fascinate *(Sp): **A dreamghast can
+**Fascinate (Sp):** A dreamghast can
 fascinate onlookers by staring at the targets and speaking softly. The
 targets must be within 60 feet of the dreamghast and must be able to see
 and hear the dreamghast. The dreamghast must also see the creatures it
@@ -77,11 +77,11 @@ fascinate effect for up to 1 minute.
 
 Any potential threat (such as a thrall of the dreamghast moving
 behind the fascinated creature) allows an affected target a new save
-against the *fascinate *effect. Any obvious
+against the *fascinate* effect. Any obvious
 threat, such as drawing a weapon, automatically breaks the effect. While
-using the *fascinate *ability, a dreamghast must
+using the *fascinate* ability, a dreamghast must
 spend an attack action each round concentrating. The
-*fascinate *ability is a spell-like,
+*fascinate* ability is a spell-like,
 mind-affecting charm ability.
 
 **Despair (Su):** The mere sight of a dreamghast in its
@@ -90,9 +90,9 @@ paralyzed with fear for 1d4 rounds. Whether or not the save is
 successful, that creature cannot be affected again by that dreamghast’s
 despair ability for one day.
 
-***Detect Dreams *(Sp): **A dreamghast can
+**Detect Dreams (Sp):** A dreamghast can
 observe the dreams of a sleeping creature within 60 feet. This functions
-like the *detect thoughts *power manifested by a
+like the *detect thoughts* power manifested by a
 10th-level Telepath, except that it only functions on sleeping
 creatures.
 
@@ -113,13 +113,13 @@ dream-devouring process.
 dream-eating victim particularly interesting or useful, he may implant a
 series of enslavement commands in the victim’s mind. The target must
 succeed at a Will save (DC 21) or be affected as though by a
-*domination *power manifested by a 10th-level
+*domination* power manifested by a 10th-level
 Telepath. The dreamghast commands the enslaved victim telepathically
 when the victim sleeps; when the victim is awake, it acts on previous
 orders but can’t be given new ones. An enslaved creature obeys the
 dreamghast’s commands until freed by a *dispel magic
-*or *remove curse *spell or a
-*negate psionics *power. The enslaved creature can
+*or* remove curse *spell or a
+*negate psionics* power. The enslaved creature can
 also attempt a new Will save every 24 hours to break free. The control
 is also broken if the dreamghast dies or travels more than 1 mile from
 its slave.
@@ -161,7 +161,7 @@ first 10 points of fire damage dealt by any single attack.
 | Full Atk          | +4 melee (1d6+1/19–20, machete), +0 melee (1d6/19–20, 3 machetes) or +6 ranged                                                                                   |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                   |
 | Reach             | 5 ft.                                                                                                                                                            |
-| SQ                | fascinate, *change self, *despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
+| SQ                | fascinate, *change self,* despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
 | AL                | chaos, evil                                                                                                                                                      |
 | Fort              | +4                                                                                                                                                               |
 | Ref               | +5                                                                                                                                                               |
@@ -200,8 +200,8 @@ all creatures within a 60-foot spread of the satyr (except other sidhe)
 must succeed at a Will save (DC 13) or be affected by
 *attraction*, as the power manifest by a 10thlevel
 Telepath. Once per day, the faun can use his music to instead create a
-*lesser domination *effect (Will save, DC 15,
-negates) or *mental blast *effect (Will save, DC
+*lesser domination* effect (Will save, DC 15,
+negates) or *mental blast* effect (Will save, DC
 15, negates) targeted at one specific listener.
 
 It takes the faun a full-round action to use enchanting music.

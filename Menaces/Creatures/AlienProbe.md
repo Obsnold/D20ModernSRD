@@ -2,7 +2,7 @@
 
 ## Species Traits
 
-***Actinic Light *(Sp):** As an attack action, an alien probe can
+**Actinic Light (Sp):** As an attack action, an alien probe can
 produce an extremely bright, blue-white light in a 60-foot cone. This
 light is not so much an attack form as a side effect of the means by
 which the creature gathers data. Nevertheless, exposure to the effect
@@ -25,11 +25,11 @@ invisible by shifting its light display to a wavelength beyond other
 creatures’ ability to perceive. This ability is usable at will, and the
 effect lasts until dismissed (also a free action).
 
-***Psionics *(Sp):** At will—*brain lock*, *daze*, *detect psionics*,
-*tailor memory*, *telekinesis*. Manifester level 10th; save DC 10 +
+**Psionics (Sp):** At will—*brain lock*,* daze*,* detect psionics*,
+*tailor memory*,* telekinesis*. Manifester level 10th; save DC 10 +
 alien probe’s key ability modifier + power level.
 
-***Dimension Door *(Sp):** As an attack action, an alien probe can
+**Dimension Door (Sp):** As an attack action, an alien probe can
 psionically transfer itself plus up to 300 pounds of additional material
 and/or creatures up to 600 feet; creatures can resist with a successful
 Will save (DC 10 + 1/2 the alien probe’s Hit Dice + its Charisma
@@ -67,7 +67,7 @@ once.
 | Full Atk          | +14 ranged touch (2d6 electricity, shock)                                                                                          |
 | FS                | 5 ft. by 5 ft.                                                                                                                     |
 | Reach             | 5 ft.                                                                                                                              |
-| SQ                | *actinic light *(DC 14), construct, darkvision 60 ft., *dimension door *(DC 14), invisibility, *psionics, *shock, supersonic speed |
+| SQ                | *actinic light* (DC 14), construct, darkvision 60 ft., *dimension door* (DC 14), invisibility, *psionics,* shock, supersonic speed |
 | AL                | creator                                                                                                                            |
 | Fort              | +2                                                                                                                                 |
 | Ref               | +11                                                                                                                                |

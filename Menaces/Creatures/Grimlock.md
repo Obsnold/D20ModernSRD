@@ -10,7 +10,7 @@ and objects within 40 feet just as a sighted creature would. Beyond that
 range, all targets have total concealment with respect to the grimlock.
 
 Grimlocks are affected normally by loud noises and sonic spells (such as
-*shout *or *silence*) and overpowering odors (such as a troglodyte’s
+*shout* or *silence*) and overpowering odors (such as a troglodyte’s
 stench or incense-thick air). Negating a grimlock’s sense of either
 smell or hearing denies it the benefits of blindsight, but the grimlock
 still functions as though it had the Blind-Fight feat. If both smell and

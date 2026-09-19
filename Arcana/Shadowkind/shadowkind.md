@@ -43,7 +43,7 @@ of Shadow.
 | Smart                 | 8 + Int modifier           |
 | Dedicated             | 4 + Int modifier           |
 | Charismatic           | 6 + Int modifier           |
-| **Advanced Class**    | **Skill Points Per Level** |
+| **Advanced Class**    |** Skill Points Per Level** |
 | Soldier               | 4 + Int modifier           |
 | Martial Artist        | 2 + Int modifier           |
 | Gunslinger            | 4 + Int modifier           |

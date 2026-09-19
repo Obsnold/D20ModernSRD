@@ -22,7 +22,7 @@ television monitors don’t display the subject, and other machines are
 likewise fooled. The creature or object touched can stand on a scale and
 doesn’t appear to weigh anything. Infrared and heat sensors detect only
 the ambient heat levels. X-ray machines don’t reveal the presence of an
-object with *machine invisibility. *Microphones don’t pick up sounds
+object with *machine invisibility.* Microphones don’t pick up sounds
 that the subject makes directly, although they will pick up sounds that
 subject makes by interacting with the environment. A hidden microphone
 wouldn’t hear the subject’s voice but would record the sound of that
@@ -43,11 +43,11 @@ break the spell. Causing harm indirectly is not an attack. If the
 subject attacks directly, however, the subject and its gear immediately
 becomes visible to machines.
 
-While *machine invisibility *is useful for many tasks requiring stealth,
+While *machine invisibility* is useful for many tasks requiring stealth,
 it sometimes makes the subject’s life more difficult. A stoplight sensor
 under an intersection might not pick up a motorcycle with *machine
 invisibility. *Automatic sliding doors at the supermarket won’t open for
-the subject of *machine invisibility. *Talking on the telephone or radio
+the subject of *machine invisibility.* Talking on the telephone or radio
 is impossible.
 
-*Focus: *A glass lens, which the caster fogs by breathing on it.
+*Focus:* A glass lens, which the caster fogs by breathing on it.

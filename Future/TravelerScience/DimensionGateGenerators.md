@@ -4,7 +4,7 @@ The technology behind dimension gates is highly advanced. The first
 working gates are treated as late Progress Level 7 technology, and
 concerted human exploration of alternative dimensions begins at Progress
 Level 8. The calculations required for dimensional travel are complex,
-but the calculations for *safe *travel—arriving at the intended
+but the calculations for *safe* travel—arriving at the intended
 destination with no loss of carrier signal—are tens of thousands of
 times more complex.
 

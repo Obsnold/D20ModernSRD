@@ -3,7 +3,7 @@
 One of the most difficult questions facing intelligent creatures who
 find themselves suddenly living on our side of Shadow is how to support
 themselves. Many of the skills and abilities that were highly prized in
-their former lives have no application (no *legal *application, that is)
+their former lives have no application (no *legal* application, that is)
 in the mundane world. Some, however, find their natural talents have
 unexpected outlets.
 
@@ -13,7 +13,7 @@ crowds know as “the Greatest Little Show on Earth.” Cirque has become
 world famous for precision acrobatics, sets and music that are often
 described as “otherworldly,” and routines so spectacular that crowds
 swear they must be magical. Of course, the truth of the matter is that
-they *are *magical. The troupe builds their shows using not only the
+they *are* magical. The troupe builds their shows using not only the
 halflings’ natural agility but knowledge of arcane and divine magic,
 too. They also employ a number of gnomes to design and build sets, and a
 few dwarves to do strength- and stamina- based acts. Occasionally they

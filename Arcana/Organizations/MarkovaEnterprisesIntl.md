@@ -109,7 +109,7 @@ can tie the tongues of even the most glib conversationalist. She is the
 undisputed matriarch of a small band of drow that act as her servants
 and minions. Among her many enemies, it is whispered that she has made
 pacts with dark powers and has lost her soul in a web of lies, deceit,
-and betrayal. In truth, she *is *a dark power, and the webs are all of
+and betrayal. In truth, she *is* a dark power, and the webs are all of
 her own spinning. Creatures of Shadow know her secret, but not all of
 them are happy to see a drow achieve such success
 
@@ -141,7 +141,7 @@ lifestyle.
 | BAB               | +10                                                                                                                       |
 | Grap              | +9                                                                                                                        |
 | Atk               | +9 melee (1d3–1 nonlethal, unarmed strike)                                                                                |
-| Full Atk          | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2*, +2 SITES M9*), or +16/+11 ranged (2d6+2, *+2 MP5*) |
+| Full Atk          | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2*, +2 SITES M9*), or +16/+11 ranged (2d6+2,* +2 MP5*) |
 | FS                | 5 ft. by 5 ft.                                                                                                            |
 | Reach             | 5 ft.                                                                                                                     |
 | SQ                | Darkvision 120 ft., light blindness, spell immunities, SR 29                                                              |
@@ -182,7 +182,7 @@ Trustworthy, Unbalance Opponent.
 **Talents (Charismatic Hero):** Charm, favor, captivate, fast talk,
 taunt.
 
-**Possessions**: *+2 SITES M9 *(9mm autoloader), 100 rounds of frangible
-9mm ammunition, *+2 HK MP5 *(with laser sight), concealed carry holster,
-*fabric of style*, 3 *potions of charisma, *cell phone, business outfit,
+**Possessions**: *+2 SITES M9* (9mm autoloader), 100 rounds of frangible
+9mm ammunition, *+2 HK MP5* (with laser sight), concealed carry holster,
+*fabric of style*, 3* potions of charisma, *cell phone, business outfit,
 briefcase.

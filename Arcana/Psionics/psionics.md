@@ -94,7 +94,7 @@ level + the Psionic Agent’s key ability modifier.
 
 | Psionic Agent Level | Pts/Day | Powers Discovered by Level |       |       |       |       |
 |---|---|---|---|---|---|---|
-|                     |         | **0**                      | **1** | **2** | **3** | **4** |
+|                     |         | **0**                      |** 1** |** 2** |** 3** |** 4** |
 | 1                   | 2       | 2                          | —     | —     | —     | —     |
 | 2                   | 3       | 3                          | —     | —     | —     | —     |
 | 3                   | 4       | 3                          | 1     | —     | —     | —     |
@@ -173,104 +173,104 @@ The Telepath chooses psionic powers from the following list.
 
 **0-Level Telepath Powers**
 
-**Burst **(Dex). Speed improves by 10 feet for 1 round.
+**Burst** (Dex). Speed improves by 10 feet for 1 round.
 
-**Daze **(Cha). Target loses next action.
+**Daze** (Cha). Target loses next action.
 
-**Detect Psionics **(Wis). You detect the presence of psionics activity.
+**Detect Psionics** (Wis). You detect the presence of psionics activity.
 
-**Distract **(Cha). Target’s mind wanders, imparting a –1 penalty on
+**Distract** (Cha). Target’s mind wanders, imparting a –1 penalty on
 certain actions.
 
-**Far Hand **(Con). Minor telekinesis.
+**Far Hand** (Con). Minor telekinesis.
 
-**Finger of Fire **(Int). You deal 1d3 points of fire damage to one
+**Finger of Fire** (Int). You deal 1d3 points of fire damage to one
 target.
 
-**Missive **(Cha). Send a one-way telepathic message.
+**Missive** (Cha). Send a one-way telepathic message.
 
-**Telempathic Projection **(Cha). Modify the subject’s emotions.
+**Telempathic Projection** (Cha). Modify the subject’s emotions.
 
-**Verve **(Str). Gain 1 temporary hit point.
+**Verve** (Str). Gain 1 temporary hit point.
 
 **1st-Level Telepath Powers**
 
-**Attraction **(Cha). Target develops an attraction you specify.
+**Attraction** (Cha). Target develops an attraction you specify.
 
-**Charm Person **(Cha). Makes target your friend.
+**Charm Person** (Cha). Makes target your friend.
 
-**Conceal Thoughts **(Cha) Hide your motives.
+**Conceal Thoughts** (Cha) Hide your motives.
 
-**Control Object **(Con). Telekinetically animate a small object.
+**Control Object** (Con). Telekinetically animate a small object.
 
-**Lesser Body Adjustment **(Str). Heal 1d8 hp, or gain +1 bonus on next
+**Lesser Body Adjustment** (Str). Heal 1d8 hp, or gain +1 bonus on next
 Fortitude save to resist poison or disease, or heal 1 point of ability
 damage.
 
-**Lesser Mindlink **(Cha). Forge a limited mental bond with target.
+**Lesser Mindlink** (Cha). Forge a limited mental bond with target.
 
-**Object Reading **(Wis). Reveal an object’s past.
+**Object Reading** (Wis). Reveal an object’s past.
 
-**White Noise **(Con). Scramble electronic transmissions.
+**White Noise** (Con). Scramble electronic transmissions.
 
 **2nd-Level Telepath Powers**
 
-**Brain Lock **(Cha). Target can’t move or take any mental actions.
+**Brain Lock** (Cha). Target can’t move or take any mental actions.
 
-**Clairaudience/Clairvoyance **(Wis). Hear or see at a distance.
+**Clairaudience/Clairvoyance** (Wis). Hear or see at a distance.
 
-**Detect Thoughts **(Cha). Detect target’s surface thoughts.
+**Detect Thoughts** (Cha). Detect target’s surface thoughts.
 
-**Electronic Fog **(Con).Scramble electronic signals.
+**Electronic Fog** (Con).Scramble electronic signals.
 
-**Inflict Pain **(Cha). Mental attack deals 3d6 points of damage to
+**Inflict Pain** (Cha). Mental attack deals 3d6 points of damage to
 target.
 
-**Levitate **(Dex). Target moves up or down at your direction.
+**Levitate** (Dex). Target moves up or down at your direction.
 
-**Sensitivity to Psychic Impressions **(Wis). Reveal an area’s past.
+**Sensitivity to Psychic Impressions** (Wis). Reveal an area’s past.
 
-**Suggestion **(Cha). Compels target to follow suggested action.
+**Suggestion** (Cha). Compels target to follow suggested action.
 
 **3rd-Level Telepath Powers**
 
-**Charm Creature **(Cha): Make creature belief you to be an ally
+**Charm Creature** (Cha): Make creature belief you to be an ally
 
-**False Sensory Input **(Cha). Falsify one of the target’s senses.
+**False Sensory Input** (Cha). Falsify one of the target’s senses.
 
-**Lesser Domination **(Cha). Forces target to obey your will.
+**Lesser Domination** (Cha). Forces target to obey your will.
 
-**Mental Blast **(Cha). Target stunned for 3d4 rounds.
+**Mental Blast** (Cha). Target stunned for 3d4 rounds.
 
-**Mindlink **(Cha). Forge a mental bond with others.
+**Mindlink** (Cha). Forge a mental bond with others.
 
-**Negate Psionics **(Con). Cancels psionic powers and effects.
+**Negate Psionics** (Con). Cancels psionic powers and effects.
 
 **4th-Level Telepath Powers**
 
-**Domination **(Cha). Subject obeys your will.
+**Domination** (Cha). Subject obeys your will.
 
-**Forced Mindlink **(Cha). Forge mental bond with unwilling target.
+**Forced Mindlink** (Cha). Forge mental bond with unwilling target.
 
-**Inertial Barrier **(Con). Subject gains DR 10/—.
+**Inertial Barrier** (Con). Subject gains DR 10/—.
 
 **Mindwipe (Cha):** Subject’s recent experiences are wiped away.
 
-**Tailor Memory **(Cha). Plant false memory in target.
+**Tailor Memory** (Cha). Plant false memory in target.
 
-**Telekinesis **(Con). Lift or move 25 pounds per level at long range.
+**Telekinesis** (Con). Lift or move 25 pounds per level at long range.
 
 **5th-Level Telepath Powers**
 
-**Catapsi **(cha). Reduce power manifestation of others.
+**Catapsi** (cha). Reduce power manifestation of others.
 
-**Mindprobe **(Cha). Discover a target’s secret thoughts.
+**Mindprobe** (Cha). Discover a target’s secret thoughts.
 
-**Power Resistance **(Wis). Target gains power resistance 12.
+**Power Resistance** (Wis). Target gains power resistance 12.
 
-**Sending **(Dex). Deliver short message anywhere instantly.
+**Sending** (Dex). Deliver short message anywhere instantly.
 
-**Signal Feed **(Cha) Cameras show what you want them to show.
+**Signal Feed** (Cha) Cameras show what you want them to show.
 
 Expanded Battle Mind Powers
 
@@ -278,52 +278,52 @@ The Battle Mind chooses psionic powers from the following list.
 
 **0-Level Battle Mind Powers**
 
-**Burst **(Dex). Speed improves by 10 feet for 1 round.
+**Burst** (Dex). Speed improves by 10 feet for 1 round.
 
-**Detect Psionics **(Wis). You detect the presence of psionics activity.
+**Detect Psionics** (Wis). You detect the presence of psionics activity.
 
-**Far Punch **(Con). Telekinetic strike deals 1 damage.
+**Far Punch** (Con). Telekinetic strike deals 1 damage.
 
-**Finger of Fire **(Int). Deal 1d3 points of fire damage to target.
+**Finger of Fire** (Int). Deal 1d3 points of fire damage to target.
 
-**Lesser Natural Armor **(Str). Gain +1 natural armor bonus to Defense.
+**Lesser Natural Armor** (Str). Gain +1 natural armor bonus to Defense.
 
-**Valor **(Str). Gain a +1 morale bonus on saving throws.
+**Valor** (Str). Gain a +1 morale bonus on saving throws.
 
-**Verve **(Str). Gain 1 temporary hit point.
+**Verve** (Str). Gain 1 temporary hit point.
 
 **1st-Level Battle Mind Powers**
 
-**Biofeedback **(Str): Some damage taken as nonlethal.
+**Biofeedback** (Str): Some damage taken as nonlethal.
 
-**Combat Precognition **(Wis). Gain a +1 insight bonus to Defense.
+**Combat Precognition** (Wis). Gain a +1 insight bonus to Defense.
 
-**Fire Bolt **(Int). Deals 1d6+1 points of fire damage to target.
+**Fire Bolt** (Int). Deals 1d6+1 points of fire damage to target.
 
-**Lesser Bioweapon **(Str). Create a staff of bioenergy that deals 1d4
+**Lesser Bioweapon** (Str). Create a staff of bioenergy that deals 1d4
 points of bludgeoning damage.
 
-**Lesser Concussion **(Con). Mentally pummel target for 1d6 points of
+**Lesser Concussion** (Con). Mentally pummel target for 1d6 points of
 damage.
 
-**Vigor **(Str). Gain 3 temporary hit points.
+**Vigor** (Str). Gain 3 temporary hit points.
 
-**White Noise **(Con). Scramble electronic transmissions.
+**White Noise** (Con). Scramble electronic transmissions.
 
 **2nd-Level Battle Mind Powers**
 
-**Claws of the Bear **(Str). Your claw attack deals 1d12 points of
+**Claws of the Bear** (Str). Your claw attack deals 1d12 points of
 damage.
 
-**Combat Focus **(Wis). Gain a +4 insight bonus on initiative checks.
+**Combat Focus** (Wis). Gain a +4 insight bonus on initiative checks.
 
-**Combat Prescience **(Wis). Gain a +2 insight bonus on attack rolls.
+**Combat Prescience** (Wis). Gain a +2 insight bonus on attack rolls.
 
-**Concussion **(Con). Mentally pummel target for 3d6 points of damage.
+**Concussion** (Con). Mentally pummel target for 3d6 points of damage.
 
-**Darkvision **(Wis). See in the dark.
+**Darkvision** (Wis). See in the dark.
 
-**Electric Charge **(Int). Shocking touch deals 2d6 points of damage to
+**Electric Charge** (Int). Shocking touch deals 2d6 points of damage to
 target.
 
 **Painful Touch (**Str). Unarmed attack deals 1d6 points of additional
@@ -331,36 +331,36 @@ nonlethal damage.
 
 **3rd-Level Battle Mind Powers**
 
-**Bite of the Tiger **(Str), Bite for 2d8 points of damage.
+**Bite of the Tiger** (Str), Bite for 2d8 points of damage.
 
-**Lightning Strike **(Int). Deals 3d6 points of electrical damage in a
+**Lightning Strike** (Int). Deals 3d6 points of electrical damage in a
 30-foot radius.
 
-**Improved Biofeedback **(Str). Larger amount of damage taken as
+**Improved Biofeedback** (Str). Larger amount of damage taken as
 nonlethal damage.
 
-**Metaphysical Weapon **(Int). Weapon gains a +3 enhancement bonus.
+**Metaphysical Weapon** (Int). Weapon gains a +3 enhancement bonus.
 
-**Mind Darts **(Int). A flurry of mental bursts deals 2d6 points of
+**Mind Darts** (Int). A flurry of mental bursts deals 2d6 points of
 damage to target.
 
-**Negate Psionics **(Con). Cancels psionic powers and effects.
+**Negate Psionics** (Con). Cancels psionic powers and effects.
 
-**Whitefire **(Int). Deals 5d4 points of fire damage in 20-foot radius.
+**Whitefire** (Int). Deals 5d4 points of fire damage in 20-foot radius.
 
 **4th-Level Battle Mind Powers**
 
-**Fire Storm **(Int). Deals 5d6 points of fire damage in 30-foot radius.
+**Fire Storm** (Int). Deals 5d6 points of fire damage in 30-foot radius.
 
-**Greater Bioweapon **(Str). Creates a staff of bioenergy that deals 2d8
+**Greater Bioweapon** (Str). Creates a staff of bioenergy that deals 2d8
 points of bludgeoning damage.
 
-**Natural Armor **(Str). You gain a +4 natural armor bonus to Defense.
+**Natural Armor** (Str). You gain a +4 natural armor bonus to Defense.
 
-**Psychofeedback **(Str). Use power points to boost Str, Dex, and/or Con
+**Psychofeedback** (Str). Use power points to boost Str, Dex, and/or Con
 modifiers.
 
-**Short Sharp Shock **(Con). Deal 2d10 points of nonlethal damage, and
+**Short Sharp Shock** (Con). Deal 2d10 points of nonlethal damage, and
 destroy electronic records.
 
 Psionic Agent Powers
@@ -369,83 +369,83 @@ The Psionic Agent chooses psionic powers from the following list.
 
 **0-Level Psionic Agent Powers**
 
-**Burst **(Dex). Speed improves by 10 feet for 1 round**.**
+**Burst** (Dex). Speed improves by 10 feet for 1 round**.**
 
-**Detect Poison **(Wis). Detect the presence of poisons.
+**Detect Poison** (Wis). Detect the presence of poisons.
 
-**Detect Psionics **(Wis). Detect the presence of psionics activity.
+**Detect Psionics** (Wis). Detect the presence of psionics activity.
 
-**Far Punch **(Con). Telekinetic strike deals 1 point of damage**.**
+**Far Punch** (Con). Telekinetic strike deals 1 point of damage**.**
 
-**Finger of Fire **(Int). Deal 1d3 points of fire damage to target.
+**Finger of Fire** (Int). Deal 1d3 points of fire damage to target.
 
-**Missive **(Cha). Send a one-way telepathic message.
+**Missive** (Cha). Send a one-way telepathic message.
 
-**Verve **(Str). Gain 1 temporary hit point.
+**Verve** (Str). Gain 1 temporary hit point.
 
 **1st-Level Psionic Agent Powers**
 
-**Call Weaponry **(Dex). Summon weapon to your hand.
+**Call Weaponry** (Dex). Summon weapon to your hand.
 
-**Combat Precognition **(Wis). Gain a +1 insight bonus to Defense.
+**Combat Precognition** (Wis). Gain a +1 insight bonus to Defense.
 
-**Feather Fall **(Dex). Objects or creatures fall slowly.
+**Feather Fall** (Dex). Objects or creatures fall slowly.
 
-**Identify **(Wis). Identify single feature of magical or psionics item.
+**Identify** (Wis). Identify single feature of magical or psionics item.
 
-**Lesser Concussion **(Con). Mentally pummel target for 1d6 points of
+**Lesser Concussion** (Con). Mentally pummel target for 1d6 points of
 damage.
 
-**Object Reading **(Wis). Reveal an object’s past.
+**Object Reading** (Wis). Reveal an object’s past.
 
-**Spider Climb **(Dex). Walk on walls and ceilings.
+**Spider Climb** (Dex). Walk on walls and ceilings.
 
 **2nd-Level Psionic Agent Powers**
 
-**Chameleon **(Str): Gain +10 bonus on Hide checks
+**Chameleon** (Str): Gain +10 bonus on Hide checks
 
-**Combat Focus **(Wis). Gain a +4 insight bonus on initiative checks.
+**Combat Focus** (Wis). Gain a +4 insight bonus on initiative checks.
 
-**Combat Prescience **(Wis). Gain a +2 insight bonus on attack rolls.
+**Combat Prescience** (Wis). Gain a +2 insight bonus on attack rolls.
 
-**Darkvision **(Wis). See in the dark.
+**Darkvision** (Wis). See in the dark.
 
-**Knock **(Dex): Open locked doors.
+**Knock** (Dex): Open locked doors.
 
-**Levitate **(Dex). Target moves up or down at your direction.
+**Levitate** (Dex). Target moves up or down at your direction.
 
-**Sensitivity to Psychic Impressions **(Wis). Reveal an area’s past.
+**Sensitivity to Psychic Impressions** (Wis). Reveal an area’s past.
 
 **3rd-Level Psionic Agent Powers**
 
-**Dimension Slide **(Dex). Move to spot within range you can see.
+**Dimension Slide** (Dex). Move to spot within range you can see.
 
-**Fly **(Dex). Subject flies at speed of 90 ft.
+**Fly** (Dex). Subject flies at speed of 90 ft.
 
-**Instant Reload **(Dex): Reload your weapon automatically.
+**Instant Reload** (Dex): Reload your weapon automatically.
 
-**Invisibility Purge **(Wis). Dispels invisibility within 5 ft./ level.
+**Invisibility Purge** (Wis). Dispels invisibility within 5 ft./ level.
 
-**Metaphysical Weapon **(Int). Weapon gains a +3 enhancement bonus.
+**Metaphysical Weapon** (Int). Weapon gains a +3 enhancement bonus.
 
 **Prowes**s (Wis) Take an extra attack of opportunity
 
-**Ubiquitous Vision **(Wis). You have all-around vision.
+**Ubiquitous Vision** (Wis). You have all-around vision.
 
 **4th-Level Psionic Agent Powers**
 
-**Dimension Door **(Dex). Teleports you and up to 500 lb. a short
+**Dimension Door** (Dex). Teleports you and up to 500 lb. a short
 distance
 
-**Fate of One **(Wis). Reroll a failed roll.
+**Fate of One** (Wis). Reroll a failed roll.
 
-**Freedom of Movement **(Dex). Move normally despite impediments.
+**Freedom of Movement** (Dex). Move normally despite impediments.
 
-**Ghost Shot **(Dex). Create intangible bullets.
+**Ghost Shot** (Dex). Create intangible bullets.
 
-**Immovability **(Str). Become impossible to move.
+**Immovability** (Str). Become impossible to move.
 
-**Steadfast Perception **(Wis). +4 bonus against illusions, +2 bonus on
+**Steadfast Perception** (Wis). +4 bonus against illusions, +2 bonus on
 Search and Spot checks.
 
 ## Power Descriptions

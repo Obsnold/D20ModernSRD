@@ -10,7 +10,7 @@ appear in Table: Fantastic Travel Times.
 
 |                                          | ———————————— Light Speed Factor ————————————— |             |            |           |           |           |           |
 |---|---|---|---|---|---|---|---|
-| **Distance**                             | **0.5**                                       | **0.75**    | **1**      | **5**     | **10**    | **15**    | **25**    |
+| **Distance**                             |** 0.5**                                       |** 0.75**    |** 1**      |** 5**     |** 10**    |** 15**    |** 25**    |
 | Earth to the Moon (240,000 mi.)          | 2.58 sec.                                     | 1.72 sec.   | 1.29 sec.  | 0.26 sec. | 0.13 sec. | 0.09 sec. | 0.05 sec. |
 | Earth to the Sun (1 AU) (93,000,000 mi.) | 16.6 min.                                     | 11.07 min.  | 8.3 min.   | 1.66 min. | 49.8 sec. | 33.2 sec. | 19.9 sec. |
 | Earth to Mercury (56,950,000 mi.)        | 10.2 min.                                     | 6.8 min.    | 5.1 min.   | 1.02 min. | 30.6 sec. | 20.4 sec. | 12.2 sec. |

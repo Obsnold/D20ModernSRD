@@ -21,4 +21,4 @@ sending no signal to monitoring stations. Video surveillance devices
 continue to send whatever image they were photographing the moment when
 the spell was cast.
 
-*Material Component: *A camera lens cover.
+*Material Component:* A camera lens cover.

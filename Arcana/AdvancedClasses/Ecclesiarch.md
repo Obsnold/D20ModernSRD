@@ -88,16 +88,22 @@ bolster the new creature type). Certain types of creatures have
 restrictions on how they may be affected. The types that may be affected
 are:
 
-|              |                       |
-|---|---|
-| Aberrations  | Humans \*             |
-| Animals      | Magical beasts\*\*    |
-| Constructs   | Monstrous humanoids\* |
-| Dragons\*\*  | Oozes                 |
-| Elementals   | Outsiders\*\*         |
-| Fey\*        | Plants                |
-| Giants\*     | Undead                |
-| Humanoids \* | Vermin                |
+- Aberrations
+- Animals
+- Constructs
+- Dragons\*\*
+- Elementals
+- Fey\*
+- Giants\*
+- Humanoids \*
+- Humans \*
+- Magical beasts\*\*
+- Monstrous humanoids\*
+- Oozes
+- Outsiders\*\*
+- Plants
+- Undead
+- Vermin
 
 \*This type of creature cannot be destroyed by turning, regardless of the success of the turning.
 \*\*This type of creature cannot be destroyed by turning, and cannot be commanded.

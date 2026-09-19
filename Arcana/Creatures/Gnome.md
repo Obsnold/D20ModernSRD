@@ -22,8 +22,8 @@ too.
 **Illusion Mastery:** Add +1 to the Difficulty Class for
 all saving throws against Illusion spells cast by gnomes.
 
-***Speak with Animals *(Sp): **Once per day,
-a gnome can use *speak with animals *as a
+**Speak with Animals (Sp):** Once per day,
+a gnome can use *speak with animals* as a
 spell-like ability to speak with a burrowing mammal (a mole, gopher,
 ground hog, and so forth). It has a duration of 1 minute, and the gnome
 is considered a 1st-level caster when he uses this ability, regardless
@@ -71,7 +71,7 @@ Magical Heritage.
 | Full Atk          | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d3 electricity plus stun, stun gun) or +1 ranged (blindness, pepper spray)      |
 | FS                | 5 ft. by 5 ft.                                                                                                                           |
 | Reach             | 5 ft.                                                                                                                                    |
-| SQ                | special combat bonuses, illusion mastery, *speak with animals *1/day, low-light vision                                                   |
+| SQ                | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision                                                   |
 | AL                | varies                                                                                                                                   |
 | Fort              | +1                                                                                                                                       |
 | Ref               | +2                                                                                                                                       |
@@ -122,7 +122,7 @@ casual clothes, cell phone, PDA.
 | Full Atk          | +2 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus stun, stun gun) or +5 ranged (blindness, pepper spray)      |
 | FS                | 5 ft. by 5 ft.                                                                                                                           |
 | Reach             | 5 ft.                                                                                                                                    |
-| SQ                | special combat bonuses, illusion mastery, *speak with animals *1/day, low-light vision, read/write code, online presence                 |
+| SQ                | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision, read/write code, online presence                 |
 | AL                | varies                                                                                                                                   |
 | Fort              | +4                                                                                                                                       |
 | Ref               | +4                                                                                                                                       |

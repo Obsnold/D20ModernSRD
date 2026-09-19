@@ -1,4 +1,4 @@
-# “nuyu” Doppelganger Robot (pl 7)
+# “Nuyu” Doppelganger Robot (PL 7)
 
 Each doppelganger robot is modeled after a specific person. “Nuyu”
 bioreplicas are often used as doubles for politicians and movie stars

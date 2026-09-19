@@ -82,7 +82,7 @@ Hide, Listen, Search, and Spot checks.
 An animating spirit can move and throw objects around.
 
 **Telekinesis (Su):** An animating spirit can use
-*telekinesis *as an attack action, at will (as a
+*telekinesis* as an attack action, at will (as a
 10th-level Mage). Creatures subjected to the telekinesis attack are
 entitled to a Will save (DC 15 + spirit’s Intelligence modifier) to
 resist.

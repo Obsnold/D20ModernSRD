@@ -62,7 +62,7 @@ damage reduction or apply it only to certain types of weapons
 
 **Fear Aura (Su):** At will as a free action, Baal can create an aura of
 fear in a 20-foot radius around himself. This effect is otherwise
-identical to that of a *fear *spell (caster level 10th; Will DC 21). A
+identical to that of a *fear* spell (caster level 10th; Will DC 21). A
 creature that succeeds on the saving throw cannot be affected again by
 Baal’s fear aura for 24 hours.
 
@@ -71,14 +71,14 @@ Baal’s fear aura for 24 hours.
 **Resistances (Ex):** Baal has cold resistance 20 and electricity
 resistance 20.
 
-**Spell-Like Abilities:** At will—*augury*, *bane*, *bestow curse*,
-*command*, *comprehend languages*, *confusion*, *detect magical aura*,
-*discern lies*, *dispel magic*, *enhance ability*, *faith’s fury*,
-*fireball*, *flaming projectiles*, *flaming wrath*, *greater command*,
-*hold monster*, *inflict critical wounds*, *inflict light wounds*,
-*inflict moderate wounds*, *inflict serious wounds*, *knock*, *mass
-inflict light wounds*, *passwall*, *prestidigitation*, *read magic*,
-*see invisibility*, *telekinesis*, *true seeing*, *wall of fire*. Caster
+**Spell-Like Abilities:** At will—*augury*,* bane*,* bestow curse*,
+*command*,* comprehend languages*,* confusion*,* detect magical aura*,
+*discern lies*,* dispel magic*,* enhance ability*,* faith’s fury*,
+*fireball*,* flaming projectiles*,* flaming wrath*,* greater command*,
+*hold monster*,* inflict critical wounds*,* inflict light wounds*,
+*inflict moderate wounds*,* inflict serious wounds*,* knock*,* mass
+inflict light wounds*,* passwall*,* prestidigitation*,* read magic*,
+*see invisibility*,* telekinesis*,* true seeing*,* wall of fire*. Caster
 level 10th; save DC 17 + spell level.
 
 ## Baal, Charismatic Hero 10/Negotiator 8
@@ -168,7 +168,7 @@ normal damage the weapon deals, the target takes 1 point of damage that
 round and each subsequent round from bleeding. Multiple wounds from a
 wounding weapon result in cumulative bleeding loss (two wounds for 2
 points of damage per round, and so on). A successful Treat Injury check
-(DC 15) or the application of any *cure *spell stops the bleeding. The
+(DC 15) or the application of any *cure* spell stops the bleeding. The
 weapon does not retain this ability outside the grasp of a knife fiend,
 although any bleeding wounds it has inflicted continue to bleed if the
 fleshraker is disarmed.
@@ -307,12 +307,12 @@ mannerisms, or knowledge, but it gains a +10 bonus on Disguise checks.
 Other creatures get a Will save (DC 10 + 1/2 the harriken’s Hit Dice +
 its Charisma modifier) to pierce the illusion if they interact with it
 (such as by touching the harriken and having that sensory input not
-match what they see). A *true seeing *spell reveals the harriken’s
+match what they see). A *true seeing* spell reveals the harriken’s
 actual horrific appearance.
 
 **Electrical Rejuvenation (Ex):** A harriken is immune to electricity.
 Furthermore, it heals 1 point of damage for every die of electricity
-damage it would take normally. For example, a 6d6 *lightning bolt *heals
+damage it would take normally. For example, a 6d6 *lightning bolt* heals
 6 points of damage to the harriken.
 
 **Fire Resistance 10 (Ex):** A harriken ignores the first 10 points of
@@ -680,7 +680,7 @@ ability.
 **Immune to Disease (Ex):** A stygilor is immune to diseases of all
 sorts.
 
-***Invisibility *(Sp):** A stygilor can use *invisibility *at will
+**Invisibility (Sp):** A stygilor can use *invisibility* at will
 (caster level 6th) as an attack action. It often uses this ability to
 move through hospital wards unseen.
 

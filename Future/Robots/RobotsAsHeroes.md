@@ -1,8 +1,8 @@
 # Robots as Heroes
 
 This section presents two types of anthropomorphic robots that can be
-played as heroes: the *biodroid *(more commonly referred to as an
-“android”) and the *bioreplica *(also known as a “synthetic”). Although
+played as heroes: the *biodroid* (more commonly referred to as an
+“android”) and the *bioreplica* (also known as a “synthetic”). Although
 neither is truly sentient, their artificial intelligence allows them to
 make independent decisions and learn through experience. Biodroids are
 present in societies with technology of Progress Level 6 or higher,

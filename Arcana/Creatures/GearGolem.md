@@ -2,7 +2,7 @@
 
 Gear golems cannot speak. They typically stand 10 feet tall and
 weigh 4,000 pounds. A gear golem may be created using the
-*create golem *incantation.
+*create golem* incantation.
 
 ## Species Traits
 

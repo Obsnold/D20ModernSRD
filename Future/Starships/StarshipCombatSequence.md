@@ -23,6 +23,6 @@ starships are now ready to begin their first regular round.
 **Step 4:** Starships act in initiative order. All crew aboard a
 starship act on the starship’s turn.
 
-**Step 5. **When each starship has had a turn, the starship with the
+**Step 5.** When each starship has had a turn, the starship with the
 highest initiative acts again, and steps 4 and 5 repeat until combat
 ends.

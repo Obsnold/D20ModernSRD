@@ -16,13 +16,13 @@ You enhance up to 50 individual bullets of the same caliber or a single
 magazine of up to 50 rounds with the power of a 1stlevel spell you
 already know. The bullets must be fired from a gun for the subsidiary
 magical effects to take hold. The related spells you must know to create
-*magic bullets *of a particular type are listed below.
+*magic bullets* of a particular type are listed below.
 
 Each time you cast the spell, all the bullets receive the same
-enchantment, but afterward it is possible to mix *magic bullets *with
+enchantment, but afterward it is possible to mix *magic bullets* with
 different effects in the same magazine. Be sure to note the order in
 which the bullets are loaded to correctly track the effect of each shot.
-Unless otherwise noted, *magic bullets *deal normal damage before they
+Unless otherwise noted, *magic bullets* deal normal damage before they
 impart their magical effect. This spell can be used to create one type
 of bullet (as noted in the chart below), or others at the GM’s
 discretion.

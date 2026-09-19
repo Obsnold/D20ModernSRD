@@ -2,19 +2,19 @@
 
 ## NEW BONUS FEATS FOR ADVANCED CLASSES
 
-**The Mage **advanced class may consider Greater Spell Focus, Greater
+**The Mage** advanced class may consider Greater Spell Focus, Greater
 Spell Penetration, Spell Focus, Spell Penetration, and any of the
 metamagic feats as potential bonus feats.
 
-**The Acolyte **advanced class may consider Empower Turning, Extra
+**The Acolyte** advanced class may consider Empower Turning, Extra
 Turning, Greater Spell Focus, Greater Spell Penetration, Improved
 Turning, Spell Focus, Spell Penetration, and any of the metamagic feats
 as potential bonus feats.
 
-**The Shadow Slayer **advanced class may consider Supernatural Strike as
+**The Shadow Slayer** advanced class may consider Supernatural Strike as
 a potential bonus feat.
 
-**The Battle Mind** and **Telepath** advanced classes may take any
+**The Battle Mind** and** Telepath** advanced classes may take any
 metapsionic feat as a bonus feat, in addition to the bonus feats listed
 for those classes.
 
@@ -41,7 +41,7 @@ descriptions for the spells that a particular feat can’t modify.
 
 ## Table: Metamagic Spell Level Adjustments
 
-|                  |                    |
+| Feat | Level Adjustment |
 |---|---|
 | Empower Spell    | +2                 |
 | Enlarge Spell    | +1                 |
@@ -75,7 +75,7 @@ action, casting a metamagic spell is a full-round action for the Mystic.
 For spells with a longer casting time, it takes an extra full-round
 action to cast the spell.
 
-Acolytes spontaneously casting *cure *or *inflict *spells can cast
+Acolytes spontaneously casting *cure* or *inflict* spells can cast
 metamagic versions of them. Casting an attack action metamagic spell
 spontaneously is a full-round action, and spells with longer casting
 times take an extra full-round action to cast.
@@ -124,7 +124,7 @@ following psionic feats function as the named spell-related feats. Treat
 references to spells as powers within these descriptions, and references
 to caster level as manifester level.
 
-|                         |                              |
+| Psionic Feat | Functions As |
 |---|---|
 | Power Penetration       | As Spell Penetration         |
 | Power Focus             | As Spell Focus               |

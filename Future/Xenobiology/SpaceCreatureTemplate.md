@@ -27,17 +27,17 @@ maneuverability).
 qualities of the base creature. I t also gains the following special
 qualities:
 
-*Energy Resistance (Ex): *A space creature gains cold resistance 20 and
+*Energy Resistance (Ex):* A space creature gains cold resistance 20 and
 fire resistance 20.
 
-*Darkvision (Ex): *The space creature gains darkvision out to a range of
+*Darkvision (Ex):* The space creature gains darkvision out to a range of
 120 feet. Darkvision is black and white only, but is otherwise the same
 as normal sight.
 
-*Radiation Resistance (Ex): *A space creature gains a +8 species bonus
+*Radiation Resistance (Ex):* A space creature gains a +8 species bonus
 on saves to resist any kind of radiation poisoning.
 
-*Vacuum Survival (Ex): *A space creature creates its own oxygen supply
+*Vacuum Survival (Ex):* A space creature creates its own oxygen supply
 or doesn’t need to breathe at all. It can exist in zero-atmosphere
 environments.
 

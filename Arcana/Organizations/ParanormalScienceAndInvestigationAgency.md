@@ -57,18 +57,18 @@ access to the following psionic power:
 
 Wisdom \[Mind-Affecting\]
 
-**Level:** Telepath 1; **Display:** Visual; **Manifestation Time:
-**Attack action; **Range:** Personal; **Target:** You; **Duration:** See
-text; **Power Resistance:** No; **Power Point Cost:** See text
+**Level:** Telepath 1;** Display:** Visual;** Manifestation Time:**
+Attack action; **Range:** Personal;** Target:** You;** Duration:** See
+text; **Power Resistance:** No;** Power Point Cost:** See text
 
-You can completely shield your mind. *Detect psionics *and other powers
+You can completely shield your mind. *Detect psionics* and other powers
 and spells that target your mind cannot detect you while this power is
-in effect. *Psionic blank *has a minimum power point cost of 1, which
+in effect. *Psionic blank* has a minimum power point cost of 1, which
 supplies 1 round of duration.
 
-When you manifest *psionic blank *you must decide how long you want the
+When you manifest *psionic blank* you must decide how long you want the
 effect to last, and spend the appropriate number of power points.
 
 The effect dissipates at the end of your turn in the appropriate round.
 You must wait until the beginning of your next turn before you can
-manifest *psionic blank *again.
+manifest *psionic blank* again.

@@ -49,24 +49,24 @@ do for free.
 | Feint (see Bluff skill)            | No                                             |
 | Grapple another ship<sup>1</sup>   | Yes                                            |
 | Total defense                      | No                                             |
-| **Move Actions**                   | **Attack of Opportunity?<sup>2</sup>**         |
+| **Move Actions**                   |** Attack of Opportunity?<sup>2</sup>**         |
 | Damage control                     | No                                             |
 | Move at tactical speed             | No                                             |
 | Operate sensors                    | No                                             |
 | Ram<sup>3</sup>                    | Yes                                            |
 | Sending/jamming a transmission     | No                                             |
 | Start/complete a full-round action | Varies                                         |
-| **Full-Round Actions**             | **Attack of Opportunity?<sup>2</sup>**         |
+| **Full-Round Actions**             |** Attack of Opportunity?<sup>2</sup>**         |
 | Jump to cruising speed             | Yes                                            |
 | Surge forward                      | Yes                                            |
 | Withdraw                           | No                                             |
-| **Free Actions **                  | **Attack of Opportunity?<sup>2</sup>**         |
+| **Free Actions**                   | **Attack of Opportunity?<sup>2</sup>**         |
 | Communicate via comm system        | No                                             |
 | Turn                               | No                                             |
-| **Special Initiative **            | **Actions Attack of Opportunity?<sup>2</sup>** |
+| **Special Initiative**             | **Actions Attack of Opportunity?<sup>2</sup>** |
 | Delay                              | No                                             |
 | Ready                              | No                                             |
-| **No Action **                     | **Attack of Opportunity?<sup>2</sup>**         |
+| **No Action**                      | **Attack of Opportunity?<sup>2</sup>**         |
 | 500-foot shift                     | No                                             |
 | Avoid hazard                       | No                                             |
 

@@ -65,15 +65,15 @@ Table: Side Effects.
 
 | d% Roll | Side Effect                                                                                                        |
 |---|---|
-| 01–08   | *Blurred Vision: *Character suffers a 20% miss chance on all attacks.                                              |
-| 09–17   | *Constant Trembling: *Character takes a –2 penalty on Dexterity-based skill checks.                                |
-| 18–25   | *Cybernetic Rejection: *Character suffers 1d4 points of Constitution damage per day.                               |
-| 26–34   | *Dizziness: *Character takes a –1 penalty on attack rolls, saving throws, ability checks, and skill checks.        |
-| 35–42   | *Impaired Hearing: *Static distortion imposes a –2 penalty on all Listen checks.                                   |
-| 43–50   | *Impaired Vision: *Distorted images impose a –2 penalty on Spot checks.                                            |
-| 51–59   | *Insomnia: *Character can only sleep for minutes at a time and gains insufficient rest to heal naturally.          |
-| 60–67   | *Muscle Cramps: *Character moves at half speed.                                                                    |
-| 68–76   | *Muscle Fatigue: *Character takes a –2 penalty on Strength-based skill checks.                                     |
-| 77–84   | *Power Surge: *Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates.            |
-| 85–93   | *Psychosis: *Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0. |
-| 94–100  | *Sensory Overload: *Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates.      |
+| 01–08   | *Blurred Vision:* Character suffers a 20% miss chance on all attacks.                                              |
+| 09–17   | *Constant Trembling:* Character takes a –2 penalty on Dexterity-based skill checks.                                |
+| 18–25   | *Cybernetic Rejection:* Character suffers 1d4 points of Constitution damage per day.                               |
+| 26–34   | *Dizziness:* Character takes a –1 penalty on attack rolls, saving throws, ability checks, and skill checks.        |
+| 35–42   | *Impaired Hearing:* Static distortion imposes a –2 penalty on all Listen checks.                                   |
+| 43–50   | *Impaired Vision:* Distorted images impose a –2 penalty on Spot checks.                                            |
+| 51–59   | *Insomnia:* Character can only sleep for minutes at a time and gains insufficient rest to heal naturally.          |
+| 60–67   | *Muscle Cramps:* Character moves at half speed.                                                                    |
+| 68–76   | *Muscle Fatigue:* Character takes a –2 penalty on Strength-based skill checks.                                     |
+| 77–84   | *Power Surge:* Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates.            |
+| 85–93   | *Psychosis:* Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0. |
+| 94–100  | *Sensory Overload:* Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates.      |

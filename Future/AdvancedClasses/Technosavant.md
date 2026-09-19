@@ -146,13 +146,13 @@ A Technosavant of 7th level or higher can perform small wonders with a
 computer. She gains the following benefits when using the Computer Use
 skill:
 
-*Find File, Degrade Programming, or Write Program:*** **When attempting
+**Find File, Degrade Programming, or Write Program:** When attempting
 to find a file, degrade a computer program, or write a program, a
 Technosavant who exceeds the Computer Use check DC by 5 or more
 accomplishes her intended task in half the normal time (minimum 1
 round).
 
-*Cover Tracks:*** **A Technosavant who successfully covers her tracks
+**Cover Tracks:** A Technosavant who successfully covers her tracks
 while hacking into a computer system imposes a –10 penalty (instead of
 the normal –5 penalty) on any attempt made to identify her.
 

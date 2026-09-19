@@ -11,7 +11,7 @@
 | Saving Throw               | None and Will negates (object, subject)                                           |
 | Spell Resistance           | No and Yes (object, subject)                                                      |
 
-Incantations using the *transport *seed instantly transport you to a
+Incantations using the *transport* seed instantly transport you to a
 designated destination up to 1,000 miles away. For each additional 500
 miles you wish to travel, increase the Knowledge (arcane lore) check DC
 by +2.
@@ -28,6 +28,6 @@ intended to transport unwilling creatures, increase the Knowledge
 (arcane lore) check DC by +6.
 
 You must have at least a reliable description of the place to which you
-are transporting. If you attempt to use the *transport *seed with
+are transporting. If you attempt to use the *transport* seed with
 insufficient or misleading information, you disappear and simply
 reappear in your original location.

@@ -145,12 +145,12 @@ Transmutation
 **Skill Check:** Knowledge (arcane lore) DC 41, 6 successes, and
 Knowledge (earth and life sciences), 1 success; **Failure:** Two
 consecutive failed skill checks; **Components:** V, S, M, F, SC;
-**Casting Time:** 70 minutes (minimum); **Range:** Touch; **Target:
-**Helpless creature touched; **Duration:** Permanent; **Saving Throw:
-**Fortitude negates (DC 17 + caster’s Cha modifier) and see text;
+**Casting Time:** 70 minutes (minimum);** Range:** Touch;** Target:**
+Helpless creature touched; **Duration:** Permanent;** Saving Throw:**
+Fortitude negates (DC 17 + caster’s Cha modifier) and see text;
 **Spell Resistance:** Yes
 
-As the *polymorph *incantation, except that you change the subject into
+As the *polymorph* incantation, except that you change the subject into
 a Small or smaller animal of no more than 1 HD (such as a dog, lizard,
 monkey, toad, or viper). If the new form would prove fatal to the
 creature (such as polymorphing a landbound target into a fish), the
@@ -166,50 +166,50 @@ Note that incorporeal or gaseous creatures are immune to being
 polymorphed, and a shapeshifter (such as a werewolf) can revert to its
 natural form as a move action.
 
-*Material Component: *Laboratory equipment and alchemical supplies
+*Material Component:* Laboratory equipment and alchemical supplies
 (purchase DC 25).
 
-*Focus: *Part of the kind of creature that the target will turn into,
+*Focus:* Part of the kind of creature that the target will turn into,
 such as a hair, scale, or feather. If you have a living, helpless
 creature that can serve as a model for the target creature, you gain a
 +2 bonus on the Knowledge (arcane lore) checks required for this
 incantation.
 
-*Secondary Casters: *12 required (not including the primary caster).
+*Secondary Casters:* 12 required (not including the primary caster).
 
-*Failure: *Reversal on all secondary casters, using the same saving
+*Failure:* Reversal on all secondary casters, using the same saving
 throw DC.
 
 Bibliolalia
 
 Divination
 
-**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, F, XP;
-**Casting Time:** 60 minutes (minimum); **Range:** Personal; **Target:
-**You; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, F, XP;
+**Casting Time:** 60 minutes (minimum);** Range:** Personal;** Target:**
+You; **Duration:** Instantaneous;** Saving Throw:** None;** Spell
 Resistance:** No
 
-The *bibliolalia *incantation puts you in an oracular trance as you pore
+The *bibliolalia* incantation puts you in an oracular trance as you pore
 through books in a library. At the incantation’s conclusion, you uncover
 lore about an important person, place, or thing beyond the limits of
 mundane research.
 
-The information gleaned through a *bibliolalia *incantation isn’t
+The information gleaned through a *bibliolalia* incantation isn’t
 necessarily known to anyone, and it may not be in any of the books in
 the library. Nonetheless, something within the books triggers the burst
 of magical inspiration that reveals the information.
 
 No set of rules can adequately describe how much information the
-*bibliolalia *incantation provides. If you have the item or person at
+*bibliolalia* incantation provides. If you have the item or person at
 hand, you’ll learn more than if you just have a name or a cryptic clue.
 
-*Focus: *A large library with at least a token occult section (purchase
+*Focus:* A large library with at least a token occult section (purchase
 DC 25).
 
-*Experience Point Cost: *200 XP.
+*Experience Point Cost:* 200 XP.
 
-*Failure: *Falsehood. The *bibliolalia *incantation reveals information
+*Failure:* Falsehood. The *bibliolalia* incantation reveals information
 that seems accurate, but is actively misleading.
 
 Body Double
@@ -218,12 +218,12 @@ Conjuration (Creation)
 
 **Skill Check:** Knowledge (arcane lore) DC 39, 6 successes (and see
 text) and Disguise DC 39, 1 success; **Failure:** Two consecutive failed
-skill checks; **Components:** V, S, M (see text), XP; **Casting Time:
-**7 hours (minimum); **Range:** Touch; **Effect:** One duplicate
-creature; **Duration:** 12 days; **Saving Throw:** None; **Spell
+skill checks; **Components:** V, S, M (see text), XP;** Casting Time:**
+7 hours (minimum); **Range:** Touch;** Effect:** One duplicate
+creature; **Duration:** 12 days;** Saving Throw:** None;** Spell
 Resistance:** No
 
-The *body double *incantation creates a duplicate of any creature formed
+The *body double* incantation creates a duplicate of any creature formed
 from mystic clay, with alchemical blood and an eldritch life of its own.
 At first glance, the duplicate appears to be exactly the same as the
 creature you modeled it after, but there are differences: The *body
@@ -235,11 +235,11 @@ detect the ruse with a successful Spot check. You must make a Disguise
 check when you cast the incantation to determine how good the likeness
 is, and this Disguise check sets the DC for Spot checks (to notice
 imperfections in the duplication) and Sense Motive checks (to discern
-that the *body double *is behaving oddly).
+that the *body double* is behaving oddly).
 
-At all times the *body double *remains under your absolute command. No
+At all times the *body double* remains under your absolute command. No
 special telepathic link exists, so command must be exercised in some
-other manner. The *body double *has no ability to become more powerful.
+other manner. The *body double* has no ability to become more powerful.
 It cannot earn experience points. If destroyed, it reverts to clay and
 melts into a vaguely humanoid lump within 1 minute. The *body double
 *doesn’t naturally heal and responds to neither conventional medicine
@@ -247,17 +247,17 @@ nor natural healing. A complex process requiring at least one day,
 materials (purchase DC 5 + 1 per hit point), and a fully equipped
 magical laboratory can repair damage to the *body double*.
 
-*Material Component: *The spell is cast over an elaborate clay
+*Material Component:* The spell is cast over an elaborate clay
 simulacrum of the creature to be duplicated, and some piece of the
 creature (a hair or fingernail, for instance) must be placed within the
 clay. Additionally, the incantation requires rare earths and unguents
 (purchase DC 30).
 
-*XP Cost: *1,000 XP.
+*XP Cost:* 1,000 XP.
 
-*Failure: *Betrayal. The *body double *has allegiances opposite the
+*Failure:* Betrayal. The *body double* has allegiances opposite the
 original creature and a pathological hatred of both the original
-creature and the caster. Furthermore, the *body double *isn’t under the
+creature and the caster. Furthermore, the *body double* isn’t under the
 command of the caster, although it may play along for a while while it
 learns about its new enemies.
 
@@ -267,12 +267,12 @@ Conjuration (Healing)
 
 **Skill Check:** Knowledge (arcane lore) DC 31, 4 successes, and Treat
 Injury DC 31, 2 success; **Failure:** Two consecutive failed skill
-checks; **Components:** V, S, F; **Casting Time:** 6 hours (minimum);
-**Range:** Touch; **Target:** Living creature; **Duration:
-**Instantaneous; **Saving Throw:** Will negates (harmless); **Spell
+checks; **Components:** V, S, F;** Casting Time:** 6 hours (minimum);
+**Range:** Touch;** Target:** Living creature;** Duration:**
+Instantaneous; **Saving Throw:** Will negates (harmless);** Spell
 Resistance:** Yes (harmless)
 
-*Caduceus *enables you to channel magic into a creature to wipe away
+*Caduceus* enables you to channel magic into a creature to wipe away
 injury and afflictions. It immediately ends any and all of the following
 adverse conditions affecting the target: temporary ability damage (but
 not permanent ability drain), blindness (including dazzled effects),
@@ -281,15 +281,15 @@ feeblemindedness, nausea, and poison. It also cures up to 150 points of
 damage. A single casting of the incantation is enough to simultaneously
 achieve all these effects.
 
-*Caduceus *also removes negative levels, but it does not restore
+*Caduceus* also removes negative levels, but it does not restore
 permanently drained levels.
 
-The *caduceus *incantation has no effect on undead or constructs.
+The *caduceus* incantation has no effect on undead or constructs.
 
-*Focus: *Medical equipment found in a hospital emergency room (purchase
+*Focus:* Medical equipment found in a hospital emergency room (purchase
 DC 25).
 
-*Failure: *Death. Target must succeed at a Fortitude save (DC 15) or
+*Failure:* Death. Target must succeed at a Fortitude save (DC 15) or
 die. If the save succeeds, the target is reduced to –1 hit points,
 unless he was already below that.
 
@@ -298,13 +298,13 @@ Cast into Shadow
 Abjuration
 
 **Skill Check:** Knowledge (arcane lore) DC 33, 6 successes (see text);
-**Failure:** Two consecutive failed skill checks; **Components:** V, S,
-M, XP, B; **Casting Time:** 1 hour (minimum); **Range:** 55 ft.;
+**Failure:** Two consecutive failed skill checks;** Components:** V, S,
+M, XP, B; **Casting Time:** 1 hour (minimum);** Range:** 55 ft.;
 **Target:** One or more outsiders, no two of which can be more than 30
-ft. apart; **Duration:** Permanent; **Saving Throw:** Fortitude negates
+ft. apart; **Duration:** Permanent;** Saving Throw:** Fortitude negates
 (DC 17 + caster’s Cha modifier) and see text; **Spell Resistance:** Yes
 
-The *cast into Shadow *incantation enables you to force outsiders
+The *cast into Shadow* incantation enables you to force outsiders
 (usually, but not always, fiends) away from the world you know, trapping
 them in some distant dimension. Up to 2 HD of creatures per caster level
 can be sent away in this fashion.
@@ -317,19 +317,19 @@ target fails its save, the target disappears. In general, targets never
 find their way back from beyond Shadow—or if they do, they don’t
 remember their previous time here.
 
-*Options: *If the target or targets are all helpless, the DC for the
+*Options:* If the target or targets are all helpless, the DC for the
 incantation is reduced by –6. At the GM’s option, certain rare items
 might work twice as well (each providing +2 against spell resistance and
 +4 on the spell’s DC).
 
-*Material Component: *An object the creature hates, fears, or opposes.
+*Material Component:* An object the creature hates, fears, or opposes.
 Discovering such an item may require a Research check.
 
-*Experience Point Cost: *1,000 XP.
+*Experience Point Cost:* 1,000 XP.
 
-*Backlash: *Caster is exhausted.
+*Backlash:* Caster is exhausted.
 
-*Failure: *Attack from an outsider of the same allegiance. The attacking
+*Failure:* Attack from an outsider of the same allegiance. The attacking
 outsider has a Challenge Rating equal to the average party level +1. It
 attacks the caster within a few rounds of the incantation’s failure. It
 has been brought to this world by the failed incantation, so it may
@@ -341,11 +341,11 @@ Control Weather
 
 Evocation
 
-**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, SC;
-**Casting Time:** 60 minutes (minimum); **Range:** Two miles; **Area:
-**Two-mile-radius circle, centered on you; **Duration:** 24 hours (D);
-**Saving Throw:** None; **Spell Resistance:** No
+**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, SC;
+**Casting Time:** 60 minutes (minimum);** Range:** Two miles;** Area:**
+Two-mile-radius circle, centered on you; **Duration:** 24 hours (D);
+**Saving Throw:** None;** Spell Resistance:** No
 
 You change the weather in the local area. It takes 10 minutes for the
 effects to manifest after the incantation is completed. The current,
@@ -372,12 +372,12 @@ fully manifests itself 10 minutes later).
 Contradictory conditions are not possible simultaneously— fog and strong
 wind, for example.
 
-*Control weather *can do away with atmospheric phenomena (naturally
+*Control weather* can do away with atmospheric phenomena (naturally
 occurring or otherwise) as well as create them.
 
-*Secondary Casters: *12 required (not including the primary caster).
+*Secondary Casters:* 12 required (not including the primary caster).
 
-*Failure: *Mirrorcast. The opposite weather effect manifests over the
+*Failure:* Mirrorcast. The opposite weather effect manifests over the
 course of 10 minutes (rain rather than a heat wave, for example, or a
 thaw rather than a blizzard). This weather persists for 4d12 hours and
 cannot be dismissed.
@@ -389,9 +389,9 @@ Necromancy
 **Skill Check:** Knowledge (arcane lore) DC 32, 7 successes, and
 Knowledge (earth and life sciences) DC 32, 1 success; **Failure:** Two
 consecutive failed skill checks; **Components:** V, S, M, F, XP;
-**Casting Time:** 8 hours (minimum) and see text; **Range:** Touch;
-**Effect:** One clone; **Duration:** Instantaneous; **Saving Throw:
-**None; **Spell Resistance:** No
+**Casting Time:** 8 hours (minimum) and see text;** Range:** Touch;
+**Effect:** One clone;** Duration:** Instantaneous;** Saving Throw:**
+None; **Spell Resistance:** No
 
 This incantation makes an inert duplicate of a creature. If the original
 individual has been slain, the original’s soul transfers to the clone,
@@ -426,14 +426,14 @@ original soul is somehow unavailable, but the resulting creature is
 merely a soulless bit of inert flesh, which rots if not somehow
 preserved.
 
-*Material Component: *The piece of flesh and various laboratory supplies
+*Material Component:* The piece of flesh and various laboratory supplies
 (purchase DC 25).
 
-*Focus: *Genetics laboratory (purchase DC 30).
+*Focus:* Genetics laboratory (purchase DC 30).
 
-*Experience Point Cost: *500 XP.
+*Experience Point Cost:* 500 XP.
 
-*Failure: *Betrayal, and possibly reversal as well. If the caster and
+*Failure:* Betrayal, and possibly reversal as well. If the caster and
 cloned creature were allies or neutral toward one another, then the
 cloned creature gains allegiances opposite the ones it once had. If the
 caster and cloned creature were enemies, then each one gains the
@@ -444,18 +444,18 @@ Create Golem
 
 Conjuration (Creation)
 
-**Skill Check:** Knowledge (arcane lore) DC 32, 7 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, M, XP;
-**Casting Time:** 7 hours (minimum); **Range:** Touch; **Target:** One
-corpse; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+**Skill Check:** Knowledge (arcane lore) DC 32, 7 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 7 hours (minimum);** Range:** Touch;** Target:** One
+corpse; **Duration:** Instantaneous;** Saving Throw:** None;** Spell
 Resistance:** No
 
 This incantation fuses an elemental spirit with a patchwork collection
-of body parts knitted into a single bipedal form. *Create golem *brings
+of body parts knitted into a single bipedal form. *Create golem* brings
 a flesh golem to life under your command. The golem can follow simple
 instructions. It does not speak.
 
-*Options: *If you want to create a gear golem rather than a flesh golem,
+*Options:* If you want to create a gear golem rather than a flesh golem,
 increase the DC of the Knowledge (arcane lore) check by +8 and increase
 the experience point cost to 700 XP. If you want to create an advanced
 golem, increase the DC of the Knowledge (arcane lore) check by +2 for
@@ -465,22 +465,22 @@ each additional Hit Die.
 eldritch specifications, with rare ingredients and unusual components
 (purchase DC 25).
 
-*Experience Point Cost: *400 XP.
+*Experience Point Cost:* 400 XP.
 
-*Failure: *Attack. The golem immediately goes berserk, attacking
+*Failure:* Attack. The golem immediately goes berserk, attacking
 everyone and everything.
 
 Create Undead
 
 Necromancy \[Evil\]
 
-**Skill Check:** Knowledge (arcane lore) DC 31, 7 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, M, XP;
-**Casting Time:** 7 hours (minimum); **Range:** Touch; **Target:** One
-corpse or skeleton; **Duration:** Instantaneous; **Saving Throw:** None;
+**Skill Check:** Knowledge (arcane lore) DC 31, 7 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 7 hours (minimum);** Range:** Touch;** Target:** One
+corpse or skeleton; **Duration:** Instantaneous;** Saving Throw:** None;
 **Spell Resistance:** No
 
-Much more potent than the *animate dead *spell, this evil incantation
+Much more potent than the *animate dead* spell, this evil incantation
 allows you to create a powerful undead creature from the creature’s dead
 remains. The incantation raises a corpse as a liquefied zombie, mummy,
 or vampire. It turns a skeleton into an ash wraith or spirit, and the
@@ -492,7 +492,7 @@ excess of this amount, older undead slip from your control.
 
 This incantation must be cast at night.
 
-*Options: *The type of undead you’re creating has a great influence on
+*Options:* The type of undead you’re creating has a great influence on
 the Knowledge (arcane lore) check DC. Apply the following modifiers:
 animating spirit –10, frightful spirit –8, groaning spirit –6, Small or
 smaller liquefied zombie –4, Medium liquefied zombie –2, weakening
@@ -502,15 +502,15 @@ Colossal liquefied zombie +10. If you’re creating a vampire, increase
 the DC of the Knowledge (arcane lore) check by the vampire’s Hit Dice +
 4.
 
-*Material Components: *A clay pot filled with grave dirt and another
+*Material Components:* A clay pot filled with grave dirt and another
 filled with brackish water. The spell requires a creature’s corpse or
 complete skeletal remains. You must place a black onyx gem (purchase DC
 20) into the mouth of the corpse or skeleton. The magic of the spell
 turns the gem into a worthless shell.
 
-*Experience Point Cost: *100 XP.
+*Experience Point Cost:* 100 XP.
 
-*Failure: *Betrayal and attack. The undead creature rises and attacks
+*Failure:* Betrayal and attack. The undead creature rises and attacks
 the caster immediately, fighting until slain.
 
 Dedicate Site
@@ -519,16 +519,16 @@ Evocation \[Good\]
 
 **Skill Check:** Knowledge (arcane lore) DC 35, 5 successes, and
 Spellcraft DC 35, 1 success; **Failure:** Two consecutive failed skill
-checks; **Components:** V, S, M, SC, B; **Casting Time:** 6 hours
-(minimum); **Range:** Touch; **Area:** 120-ft.- radius emanation
-centered on touched point; **Duration:** One year; **Saving Throw:** See
+checks; **Components:** V, S, M, SC, B;** Casting Time:** 6 hours
+(minimum); **Range:** Touch;** Area:** 120-ft.- radius emanation
+centered on touched point; **Duration:** One year;** Saving Throw:** See
 text; **Spell Resistance:** See text
 
-*Dedicate site *makes a particular place, building, or structure
+*Dedicate site* makes a particular place, building, or structure
 particularly attuned to a specific allegiance. This has two major
 effects.
 
-First, the site or structure is guarded by a *magic circle *effect (as
+First, the site or structure is guarded by a *magic circle* effect (as
 the spell) against any allegiance you choose.
 
 Second, you may choose to fix a single spell effect to the dedicated
@@ -537,27 +537,27 @@ entire site, regardless of the normal duration and area or effect. You
 may designate whether the effect applies to all creatures, creatures
 that share an allegiance with you, or creatures that have another
 allegiance. At the end of the year, the chosen effect lapses, but it can
-be renewed or replaced simply by casting the *dedicate site *incantation
+be renewed or replaced simply by casting the *dedicate site* incantation
 again.
 
 Spell effects that may be tied to a dedicated site include *aid, bane,
 bless, cause fear, darkness, daylight, detect magical aura, discern
 lies, dispel magic, freedom of movement, remove fear, resist energy,
-silence, tongues, *and *zone of truth. *Saving throws and spell
+silence, tongues, *and* zone of truth. *Saving throws and spell
 resistance might apply to these spells’ effects. (See the individual
 spell descriptions for details.)
 
-An area can receive only one *dedicate site *spell (and its associated
+An area can receive only one *dedicate site* spell (and its associated
 spell effect) at a time.
 
-*Material Component: *Various symbols relevant to your allegiance
+*Material Component:* Various symbols relevant to your allegiance
 (purchase DC 25).
 
-*Secondary Casters: *11 required (not including the primary caster).
+*Secondary Casters:* 11 required (not including the primary caster).
 
-*Backlash: *All casters are exhausted.
+*Backlash:* All casters are exhausted.
 
-*Failure: *Hostile spell. The primary caster is targeted with a *bestow
+*Failure:* Hostile spell. The primary caster is targeted with a *bestow
 curse *spell, but does not get a saving throw or spell resistance. The
 GM chooses the exact curse.
 
@@ -567,22 +567,22 @@ Abjuration
 
 **Skill Check:** Knowledge (arcane lore) DC 31, 4 successes, and
 Spellcraft DC 31, 2 successes; **Failure:** Two consecutive failed skill
-checks; **Components:** V, S, M, B; **Casting Time:** 60 minutes
-(minimum); **Range:** 220 ft.; **Target:** One spellcaster, creature, or
-object; or 30-ft.-radius burst; **Duration:** Instantaneous; **Saving
-Throw:** None; **Spell Resistance:** No
+checks; **Components:** V, S, M, B;** Casting Time:** 60 minutes
+(minimum); **Range:** 220 ft.;** Target:** One spellcaster, creature, or
+object; or 30-ft.-radius burst; **Duration:** Instantaneous;** Saving
+Throw:** None;** Spell Resistance:** No
 
-As the *dispel magic *spell, except that the bonus on the dispel check
-is +15, not the caster level. Additionally, *greater dispel magic *has a
-chance to dispel any effect that *remove curse *can remove, even if
-*dispel magic *can’t dispel that effect.
+As the *dispel magic* spell, except that the bonus on the dispel check
+is +15, not the caster level. Additionally, *greater dispel magic* has a
+chance to dispel any effect that *remove curse* can remove, even if
+*dispel magic* can’t dispel that effect.
 
-*Material Component: *Various rare incenses, herbs, and reagents
+*Material Component:* Various rare incenses, herbs, and reagents
 (purchase DC 20).
 
-*Backlash: *Caster takes 4d6 points of damage.
+*Backlash:* Caster takes 4d6 points of damage.
 
-*Failure: *Augment. One characteristic of the magical effect targeted
+*Failure:* Augment. One characteristic of the magical effect targeted
 (area, range, duration, etc.) doubles. The target spell might deal twice
 as much damage or a curse might bestow twice the penalty, for example.
 The GM determines which aspect of the target spell is so augmented.
@@ -594,10 +594,10 @@ Illusion
 **Skill Check:** Knowledge (arcane lore) DC 34, 7 successes
 
 (and see text); **Failure:** Two consecutive failed skill checks;
-**Components:** V, S, M (see text), B; **Casting Time:** 70 minutes
-(minimum); **Range:** 55 ft.; **Effect:** Visual and audible figment
-that covers 12 10-foot cubes (S); **Duration:** 12 hours; **Saving
-Throw:** None or Will disbelief (if interacted with) (see text); **Spell
+**Components:** V, S, M (see text), B;** Casting Time:** 70 minutes
+(minimum); **Range:** 55 ft.;** Effect:** Visual and audible figment
+that covers 12 10-foot cubes (S); **Duration:** 12 hours;** Saving
+Throw:** None or Will disbelief (if interacted with) (see text);** Spell
 Resistance:** No
 
 This incantation combines several elements to create a powerful
@@ -618,17 +618,17 @@ reappear at another. Even entering the area does not cancel the illusion
 or necessarily allow a save, assuming that hidden beings take care to
 stay out of the way of those affected by the illusion.
 
-*Options: *You can create the material component for the *mystic veil
+*Options:* You can create the material component for the *mystic veil
 *illusion yourself at no cost. If you do, the incantation also requires
 a successful Craft (visual arts) check (DC 34).
 
-*Material Component: *Realistic paintings, digitally-altered photos, or
+*Material Component:* Realistic paintings, digitally-altered photos, or
 other representations of the desired illusion (purchase DC 17).
 
-*Backlash: *Caster takes 2d6 points of damage.
+*Backlash:* Caster takes 2d6 points of damage.
 
-*Failure: *Delusion. The caster and anyone else present at the
-conclusion of the incantation believe the *mystic veil *is effective,
+*Failure:* Delusion. The caster and anyone else present at the
+conclusion of the incantation believe the *mystic veil* is effective,
 but no one else is fooled.
 
 Polymorph
@@ -637,12 +637,12 @@ Transmutation
 
 **Skill Check:** Knowledge (arcane lore) DC 31, 5 successes, and
 Knowledge (earth and life sciences) DC 31, 1 success; **Failure:** Two
-consecutive failed skill checks; **Components:** V, S, M, F; **Casting
-Time:** 60 minutes (minimum); **Range:** Touch; **Target:** Willing
-creature touched; **Duration:** 12 minutes; **Saving Throw:** Fortitude
+consecutive failed skill checks; **Components:** V, S, M, F;** Casting
+Time:** 60 minutes (minimum);** Range:** Touch;** Target:** Willing
+creature touched; **Duration:** 12 minutes;** Saving Throw:** Fortitude
 negates; **Spell Resistance:** Yes
 
-The *polymorph *incantation gives a creature another form that you
+The *polymorph* incantation gives a creature another form that you
 designate, which must be within one size category of the subject’s
 normal size. The new form can have no more Hit Dice than you or the
 subject has (whichever is greater), and in any case the assumed form
@@ -694,7 +694,7 @@ his original form, the form must be able to speak intelligibly (that is,
 speak a language) to use verbal components and must have humanlike hands
 to use somatic or material components.
 
-When the *polymorph *occurs, the subject’s equipment, if any, either
+When the *polymorph* occurs, the subject’s equipment, if any, either
 remains worn or held by the new form (if the new form is capable of
 wearing or holding the item), or melds into the new form and becomes
 nonfunctional. When the subject reverts to his true form, any objects
@@ -707,29 +707,29 @@ reversion are still held in the same way. Any part of the body or piece
 of equipment that is separated from the whole reverts to its original
 form.
 
-*Options: *If you have a living, helpless creature that can serve as a
+*Options:* If you have a living, helpless creature that can serve as a
 model for the target creature, the DC on the Knowledge (arcane lore)
 checks for this incantation is reduced by –2.
 
-*Material Component: *Part of the kind of creature that the target will
+*Material Component:* Part of the kind of creature that the target will
 turn into, such as a hair, scale, or feather.
 
-*Focus: *Laboratory equipment (purchase DC 25).
+*Focus:* Laboratory equipment (purchase DC 25).
 
-*Failure: *Damage. The target takes 12d6 points of damage.
+*Failure:* Damage. The target takes 12d6 points of damage.
 
 Possession
 
 Necromancy
 
-**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, M, XP;
-**Casting Time:** 60 minutes (minimum); **Range:** Touch; **Target:
-**One helpless creature of fewer Hit Dice than you; **Duration:** 12
+**Skill Check:** Knowledge (arcane lore) DC 34, 6 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 60 minutes (minimum);** Range:** Touch;** Target:**
+One helpless creature of fewer Hit Dice than you; **Duration:** 12
 hours (D); **Saving Throw:** Will negates (DC 16 + caster’s Charisma
 modifier); **Spell Resistance:** Yes
 
-By casting the *possession *incantation, you place the subject’s soul in
+By casting the *possession* incantation, you place the subject’s soul in
 a receptacle (a gem or large crystal) while your soul inhabits the
 subject’s body, leaving your body lifeless. Then you can attempt to take
 control of a nearby body, forcing its soul into the receptacle. The
@@ -765,11 +765,11 @@ at either the receptacle or the host.
 When you transfer your soul upon casting, your body is, as near as
 anyone can tell, dead.
 
-*Material Component: *A large gem or crystal (purchase DC 25).
+*Material Component:* A large gem or crystal (purchase DC 25).
 
-*Experience Point Cost: *1,000 XP.
+*Experience Point Cost:* 1,000 XP.
 
-*Failure: *Mirrorcast. You wind up trapped inside the receptacle, and
+*Failure:* Mirrorcast. You wind up trapped inside the receptacle, and
 the subject’s soul inhabits your body.
 
 Quartz Compulsion
@@ -778,31 +778,31 @@ Enchantment (Compulsion) \[Mind-Affecting, Language-Dependent\]
 
 **Skill Check:** Knowledge (arcane lore) DC 33, 6 successes, and
 Intimidate DC 33, 2 successes; **Failure:** Two consecutive failed skill
-checks; **Components:** V, S, F, B; **Casting Time:** 80 minutes
-(minimum); **Range:** Unlimited; **Target:** One creature with fewer Hit
-Dice that you; **Duration:** 16 hours (see text); **Saving Throw:** Will
+checks; **Components:** V, S, F, B;** Casting Time:** 80 minutes
+(minimum); **Range:** Unlimited;** Target:** One creature with fewer Hit
+Dice that you; **Duration:** 16 hours (see text);** Saving Throw:** Will
 partial (DC 18 + caster’s Cha modifier); **Spell Resistance:** Yes
 
-The *quartz compulsion *incantation lets you telepathically contact the
+The *quartz compulsion* incantation lets you telepathically contact the
 subject by gazing through a quartz shard, regardless of where the
 subject is located. You can telepathically converse for 16 minutes with
-the subject. Your telepathic contact can also contain a *suggestion *(as
-per the *suggestion *psionic power), which the subject does her best to
+the subject. Your telepathic contact can also contain a *suggestion* (as
+per the *suggestion* psionic power), which the subject does her best to
 carry out. A successful Will save negates the suggestion effect but not
 the contact itself. Telepathic communcation is possible even if the
 creature’s Intelligence score is as low as 1, but you must have a
 language in common with the subject to communicate. If the message is
 impossible or meaningless according to the circumstances that exist for
-the subject at the time the *quartz compulsion *comes, the message is
-understood but the *suggestion *is ineffective.
+the subject at the time the *quartz compulsion* comes, the message is
+understood but the *suggestion* is ineffective.
 
 *Focus*: A carefully cut shard of quartz (purchase DC 22).
 
-*Backlash: *Caster is exhausted.
+*Backlash:* Caster is exhausted.
 
-*Failure: *Reversal. You converse with the subject normally, but the
-*suggestion *attempt automatically fails, and the subject can instead
-compel you (as per the *suggestion *psionic power). You don’t get a
+*Failure:* Reversal. You converse with the subject normally, but the
+*suggestion* attempt automatically fails, and the subject can instead
+compel you (as per the *suggestion* psionic power). You don’t get a
 saving throw, and spell resistance does not apply. Depending on the
 specific *suggestion*, you may not realize that your attempt failed or
 that you’ve been compelled.
@@ -813,14 +813,14 @@ Divination
 
 **Skill Check:** Knowledge (arcane lore) DC 34, 6 successes, and
 Computer Use DC 34, 2 successes; **Failure:** Two consecutive failed
-skill checks; **Components:** V, S, F; **Casting Time:** 80 minutes
-(minimum); **Range:** Unlimited; **Target:** One living creature or
-object; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+skill checks; **Components:** V, S, F;** Casting Time:** 80 minutes
+(minimum); **Range:** Unlimited;** Target:** One living creature or
+object; **Duration:** Instantaneous;** Saving Throw:** None;** Spell
 Resistance:** No
 
-A *satellite tracking *incantation is among the most powerful means of
+A *satellite tracking* incantation is among the most powerful means of
 locating creatures or objects. You learn the exact location of a single
-individual or object. *Satellite tracking *circumvents normal means of
+individual or object. *Satellite tracking* circumvents normal means of
 protection from scrying or location.
 
 The incantation reveals global positioning system (GPS) coordinates for
@@ -833,10 +833,10 @@ To find a creature with the spell, you must have seen the creature or
 have some item that once belonged to it. To find an object, you must
 have touched the object at least once.
 
-*Focus: *A satellite dish, computer, and telemetry software (purchase DC
+*Focus:* A satellite dish, computer, and telemetry software (purchase DC
 25).
 
-*Failure: *Falsehood. The caster obtains bogus GPS data. At the GM’s
+*Failure:* Falsehood. The caster obtains bogus GPS data. At the GM’s
 discretion, the bogus data may lead the caster to a creature or object
 thematically similar to the intended target.
 
@@ -844,9 +844,9 @@ Sigil of Algos
 
 Enchantment (Compulsion) \[Mind-Affecting\]
 
-**Skill Check:** Knowledge (arcane lore) DC 32, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, M, XP;
-**Casting Time:** 60 minutes (minimum); **Range:** Touch; **Effect:** 60
+**Skill Check:** Knowledge (arcane lore) DC 32, 6 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, M, XP;
+**Casting Time:** 60 minutes (minimum);** Range:** Touch;** Effect:** 60
 ft. burst centered on magic rune (see text); **Duration:** 12 minutes
 (and see text); **Saving Throw:** Will negates (DC 16 + caster’s
 Charisma modifier); **Spell Resistance:** Yes
@@ -860,40 +860,40 @@ throws. These effects last for 12 hours after the creature leaves the
 area of the spell.
 
 Once triggered, the symbol becomes active and glows, lasting for 12
-minutes. Any creature who enters the area while the *sigil of Algos *is
+minutes. Any creature who enters the area while the *sigil of Algos* is
 active is subject to its effects, whether or not that creature was in
 the area when it was triggered. A creature need only save against the
 symbol once as long as it remains within the area, though if it leaves
 the area and returns while the symbol is still active, it must save
 again.
 
-Until it is triggered, the *sigil of Algos *is inactive (though visible
+Until it is triggered, the *sigil of Algos* is inactive (though visible
 and legible at a range of up to 60 feet). To be effective, a *sigil of
 Algos *must always be placed in plain sight and in a prominent location.
 Covering or hiding the rune renders it ineffective (unless a creature
-removes the covering, in which case the *sigil of Algos *works
+removes the covering, in which case the *sigil of Algos* works
 normally).
 
-As a default, a *sigil of Algos *is triggered whenever a creature does
+As a default, a *sigil of Algos* is triggered whenever a creature does
 one or more of the following, as you select: looks at the rune; reads
 the rune; touches the rune; passes over the rune; or passes through a
 portal bearing the rune. Regardless of the trigger method or methods
-chosen, a creature more than 60 feet from a *sigil of Algos *can’t
+chosen, a creature more than 60 feet from a *sigil of Algos* can’t
 trigger it (even if they meet one or more of the triggering conditions,
 such as reading it). Once the incantation is complete, the triggering
 conditions cannot be changed.
 
 In this case, “reading” the rune means any attempt to study it, identify
-it, or fathom its meaning. Throwing a cover over a *sigil of Algos *to
+it, or fathom its meaning. Throwing a cover over a *sigil of Algos* to
 render it inoperative triggers it if it reacts to touch. You can’t use a
-*sigil of Algos *offensively; for instance, a touch-triggered rune
-remains untriggered if an item bearing the *sigil of Algos *is used to
-touch a creature. Likewise, a *sigil of Algos *cannot be placed on a
+*sigil of Algos* offensively; for instance, a touch-triggered rune
+remains untriggered if an item bearing the *sigil of Algos* is used to
+touch a creature. Likewise, a *sigil of Algos* cannot be placed on a
 weapon and set to activate when the weapon strikes a foe.
 
 You can also set special triggering limitations of your own. These can
 be as simple or elaborate as you desire. Special conditions for
-triggering a *sigil of Algos *can be based on a creature’s name,
+triggering a *sigil of Algos* can be based on a creature’s name,
 identity, or allegiances, but otherwise must be based on observable
 actions or qualities. Intangibles such as level, class, Hit Dice, and
 hit points don’t qualify.
@@ -909,29 +909,29 @@ creatures takes negligible time, and attuning a small group (up to ten
 creatures) extends the casting time by 1 hour. Attuning a large group
 (up to 25 creatures) takes one day. Attuning larger groups takes
 proportionately longer, as the GM sees fit. Any creature attuned to a
-*sigil of Algos *cannot trigger it and is immune to its effects, even if
+*sigil of Algos* cannot trigger it and is immune to its effects, even if
 within its radius when triggered. You are automatically considered
 attuned to your own sigils, and thus always ignore the effects and
 cannot inadvertently trigger them.
 
-*Read magic *allows you to identify a *sigil of Algos *with a successful
-Spellcraft check (DC 16). Of course, if the *sigil of Algos *is set to
+*Read magic* allows you to identify a *sigil of Algos* with a successful
+Spellcraft check (DC 16). Of course, if the *sigil of Algos* is set to
 be triggered by reading it, this will trigger the symbol.
 
-The *sigil of Algos *can be removed by a successful *dispel magic
-*targeted solely on the rune. A *clean *spell has no effect on a *sigil
-of Algos*. Destruction of the surface where a *sigil of Algos *is
+The *sigil of Algos* can be removed by a successful *dispel magic
+*targeted solely on the rune. A* clean *spell has no effect on a* sigil
+of Algos*. Destruction of the surface where a* sigil of Algos *is
 inscribed destroys the rune but also triggers its effects.
 
-Note: Magic traps such as *sigil of Algos *are hard to detect and
+Note: Magic traps such as *sigil of Algos* are hard to detect and
 disable. Characters can use the Search skill to find a *sigil of Algos
 *and the Disable Device skill to thwart it. The DC in each case is 31.
 
-*Material Component: *Rare alchemical paints and herbs (purchase DC 20).
+*Material Component:* Rare alchemical paints and herbs (purchase DC 20).
 
-*Experience Point Cost: *500 XP.
+*Experience Point Cost:* 500 XP.
 
-*Failure: *Reversal. The sigil affects anyone, including the caster and
+*Failure:* Reversal. The sigil affects anyone, including the caster and
 any bystanders, who looks at it or reads it.
 
 Sigil of Lyssa
@@ -939,13 +939,13 @@ Sigil of Lyssa
 Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Skill Check:** Knowledge (arcane lore) DC 35, 7 successes (and see
-text); **Failure:** Two consecutive failed skill checks; **Components:
-**V, S, M, XP; **Casting Time:** 70 minutes (minimum); **Range:** Touch;
-**Effect:** 60 ft. burst centered on magic rune (see text); **Duration:
-**16 minutes (and see text); **Saving Throw:** Will negates (DC 18 +
+text); **Failure:** Two consecutive failed skill checks;** Components:**
+V, S, M, XP; **Casting Time:** 70 minutes (minimum);** Range:** Touch;
+**Effect:** 60 ft. burst centered on magic rune (see text);** Duration:**
+16 minutes (and see text); **Saving Throw:** Will negates (DC 18 +
 caster’s Charisma modifier); **Spell Resistance:** Yes
 
-As the *sigil of Algos *incantation, except that the rune causes
+As the *sigil of Algos* incantation, except that the rune causes
 creatures within 60 feet of the rune (treat as a burst) to go
 temporarily insane if they fail their Will saves. Creatures affected by
 this spell behave randomly for the next 16 hours, as indicated on the
@@ -963,39 +963,39 @@ see what the subject does that round. Wandering creatures leave the
 scene as if disinterested. Attackers are not at any special advantage
 when attacking them. Behavior is checked at the beginning of each
 creature’s turn. Any confused creature that is attacked automatically
-attacks its attackers on its next turn. *Remove curse *won’t end the
-insanity, but a *break enchantment *spell or *heal *incantation will.
+attacks its attackers on its next turn. *Remove curse* won’t end the
+insanity, but a *break enchantment* spell or *heal* incantation will.
 
 Once triggered, the symbol becomes active and glows, lasting for 16
-minutes. Any creature that enters the area while the *sigil of Lyssa *is
+minutes. Any creature that enters the area while the *sigil of Lyssa* is
 active is subject to its effects, whether or not that creature was in
 the area when it was triggered. A creature need only save against the
 symbol once as long as it remains within the area, though if it leaves
 the area and returns while the symbol is still active, it must save
 again.
 
-*Read magic *allows you to identify a *sigil of Lyssa *with a successful
-Spellcraft check (DC 18). Of course, if the *sigil of Algos *is set to
+*Read magic* allows you to identify a *sigil of Lyssa* with a successful
+Spellcraft check (DC 18). Of course, if the *sigil of Algos* is set to
 be triggered by reading it, this will trigger the symbol.
 
-Note: Magic traps such as *sigil of Lyssa *are hard to detect and
+Note: Magic traps such as *sigil of Lyssa* are hard to detect and
 disable. Characters can use the Search skill to find a *sigil of Lyssa
 *and Disable Device to thwart it. The DC in each case is 33.
 
-*Material Component: *Rare alchemical paints and herbs (purchase DC 25).
+*Material Component:* Rare alchemical paints and herbs (purchase DC 25).
 
-*Experience Point Cost: *700 XP.
+*Experience Point Cost:* 700 XP.
 
-*Failure: *Reversal. The sigil affects anyone, including the caster and
+*Failure:* Reversal. The sigil affects anyone, including the caster and
 any bystanders, who looks at it or reads it.
 
 Subjugate Outsider
 
 Conjuration (Calling)
 
-**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes; **Failure:
-**Two consecutive failed skill checks; **Components:** V, S, M, SC, B;
-**Casting Time:** 6 hours (minimum); **Range:** 55 ft.; **Target:** One
+**Skill Check:** Knowledge (arcane lore) DC 33, 6 successes;** Failure:**
+Two consecutive failed skill checks; **Components:** V, S, M, SC, B;
+**Casting Time:** 6 hours (minimum);** Range:** 55 ft.;** Target:** One
 outsider of up to CR 6 (see text); **Duration:** Instantaneous (see
 text); **Saving Throw:** Will negates (DC 16 + caster’s Charisma
 modifier); **Spell Resistance:** Yes
@@ -1005,7 +1005,7 @@ from another dimension or plane to a specifically prepared trap. The
 called creature is held in the trap until it agrees to perform one
 service in return for its freedom.
 
-The trap is a ward similar to a *magic circle *spell, but focused
+The trap is a ward similar to a *magic circle* spell, but focused
 inward. The type of creature to be bound must be known and stated. If it
 has a specific, proper, or given name, this must be uttered during the
 incantation. If you wish to call a vivilor with this incantation, you
@@ -1043,20 +1043,20 @@ effect for a maximum of ten days, and the creature gains an immediate
 chance to break free. Note that a clever recipient can subvert some
 instructions.
 
-*Options: *If you call an outsider of CR 11 to CR 15, the DC for the
+*Options:* If you call an outsider of CR 11 to CR 15, the DC for the
 incantation is increased by +4. If you call an outsider of CR 16 or
 higher, the DC for the incantation is increased by +8.
 
-*Material Component: *Various rare alchemical pigments (purchase DC 25),
+*Material Component:* Various rare alchemical pigments (purchase DC 25),
 which are used to trace a series of symbols in a circle on the floor.
 This circle is the trap for the outsider.
 
-*Secondary Casters: *12 required (not including primary caster).
+*Secondary Casters:* 12 required (not including primary caster).
 
-*Backlash: *All casters (primary and secondary) receive one negative
+*Backlash:* All casters (primary and secondary) receive one negative
 level (Fortitude save, DC 15, to remove).
 
-*Failure: *Attack. The called outsider immediately attacks the casters,
+*Failure:* Attack. The called outsider immediately attacks the casters,
 and is thereafter roams the world freely for 10 days before returning to
 its home plane or dimension.
 
@@ -1066,10 +1066,10 @@ Conjuration (Teleporting)
 
 **Skill Check:** Knowledge (arcane lore) DC 31, 5 successes, and
 Navigate DC 31, 1 success; **Failure:** Two consecutive failed skill
-checks; **Components:** V, S, SC, B; **Casting Time:** 60 minutes
-(minimum); **Range:** Personal and Touch; **Target:** You, up to six
+checks; **Components:** V, S, SC, B;** Casting Time:** 60 minutes
+(minimum); **Range:** Personal and Touch;** Target:** You, up to six
 touched willing creatures, and touched objects weighing up to 500
-lb./level; **Duration:** Instantaneous; **Saving Throw:** None; **Spell
+lb./level; **Duration:** Instantaneous;** Saving Throw:** None;** Spell
 Resistance:** No
 
 This incantation instantly transports you to a designated destination up
@@ -1085,15 +1085,15 @@ destination. The clearer your mental image, the more likely the
 teleportation works. Areas of strong physical or magical energies may
 make teleportation more hazardous or even impossible.
 
-*Options: *If you have global positioning system coordinates for your
+*Options:* If you have global positioning system coordinates for your
 destination, decrease the Knowledge (arcane lore) and Navigate check DCs
 by –2.
 
-*Secondary Casters: *Three required (not including primary caster).
+*Secondary Casters:* Three required (not including primary caster).
 
-*Backlash: *All casters take 2d6 points of damage.
+*Backlash:* All casters take 2d6 points of damage.
 
-*Failure: *Mirrorcast. If the second consecutive Knowledge (arcane lore)
+*Failure:* Mirrorcast. If the second consecutive Knowledge (arcane lore)
 check fails by 5 or less, you arrive off target, appearing safely a
 random distance away from the destination in a random direction.
 Distance off target is 1d10 x 1d10% of the distance that was to be

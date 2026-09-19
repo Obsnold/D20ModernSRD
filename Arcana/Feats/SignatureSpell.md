@@ -9,7 +9,7 @@ cast it, converting other prepared spells into that spell.
 mastered with Spell Mastery. You may now convert prepared arcane spells
 of that spell’s level or higher into this signature spell, just as an
 Acolyte of good allegiance may spontaneously cast prepared spells as
-*cure *spells.
+*cure* spells.
 
 **Special:** You may gain this feat multiple times. Each time you take
 the feat, it applies to a new spell that meets the prerequisites.

@@ -27,15 +27,15 @@ destination. The clearer your mental image, the more likely the
 teleportation works. Areas of strong physical or magical energies may
 make teleportation more hazardous or even impossible.
 
-*Options: *If you have global positioning system coordinates for your
+*Options:* If you have global positioning system coordinates for your
 destination, decrease the Knowledge (arcane lore) and Navigate check DCs
 by –2.
 
-*Secondary Casters: *Three required (not including primary caster).
+*Secondary Casters:* Three required (not including primary caster).
 
-*Backlash: *All casters take 2d6 points of damage.
+*Backlash:* All casters take 2d6 points of damage.
 
-*Failure: *Mirrorcast. If the second consecutive Knowledge (arcane lore)
+*Failure:* Mirrorcast. If the second consecutive Knowledge (arcane lore)
 check fails by 5 or less, you arrive off target, appearing safely a
 random distance away from the destination in a random direction.
 Distance off target is 1d10 x 1d10% of the distance that was to be

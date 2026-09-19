@@ -20,8 +20,8 @@ from a corporeal source. The whisperer in the dark can pass through
 solid objects at will, and its own attacks pass through armor. The
 charred one moves in complete silence and cannot be heard at all.
 
-***Psionics *(Sp):** At will—*attraction*, *clairaudience/clairvoyance*,
-*concussion*, *detect psionics*, *suggestion*. Manifester level 10th;
+**Psionics (Sp):** At will—*attraction*,* clairaudience/clairvoyance*,
+*concussion*,* detect psionics*,* suggestion*. Manifester level 10th;
 save DC 10 + whisperer in the dark’s key ability modifier + power level.
 
 **Steal Essence (Su):** If a creature with an Intelligence score greater
@@ -65,7 +65,7 @@ panic and remain panicked for as long as they are in the area.
 | Full Atk          | +4 melee (2d6 Con, 4 incorporeal touches)                                                                  |
 | FS                | 5 ft. by 5 ft.                                                                                             |
 | Reach             | 10 ft.                                                                                                     |
-| SQ                | daylight powerlessness, incorporeal, *psionics, *steal essence, turn resistance +2, undead, unnatural aura |
+| SQ                | daylight powerlessness, incorporeal, *psionics,* steal essence, turn resistance +2, undead, unnatural aura |
 | AL                | chaos, evil                                                                                                |
 | Fort              | +3                                                                                                         |
 | Ref               | +6                                                                                                         |

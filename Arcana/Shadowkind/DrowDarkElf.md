@@ -13,12 +13,12 @@ black and white only, but it is otherwise like normal sight, and drow
 can function with no light at all.
 
 **Light Blindness:** Abrupt exposure to bright light (such as sunlight
-or a *daylight *spell) blinds a drow for 1 round. In addition, drow take
+or a *daylight* spell) blinds a drow for 1 round. In addition, drow take
 a –1 circumstance penalty on all attack rolls, saves, and checks while
 operating in bright light. Sunglasses and tinted visors can negate light
 blindness.
 
-**Spell Immunities:** Drow are immune to *sleep *spells and effects, and
+**Spell Immunities:** Drow are immune to *sleep* spells and effects, and
 they gain a +2 species bonus on saves against Enchantment spells or
 effects. They also gain a +2 species bonus on Will saves against spells
 and spell-like abilities.

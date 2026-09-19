@@ -113,7 +113,7 @@ Specialization, the Swashbuckler may spend an action point to allow a
 Reflex save (DC 20 +1 per enhancement bonus of the attacking weapon). If
 he succeeds, he deflects the missile harmlessly away. The Deflect
 Missiles ability applies to bullets from handguns and longarms, but not
-exceptional missiles (such as *magic missiles *or particularly large
+exceptional missiles (such as *magic missiles* or particularly large
 items). If used successfully against a grenade attack the grenade
 automatically scatters (as normal rules) and then explodes.
 

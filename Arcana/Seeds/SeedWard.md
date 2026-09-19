@@ -18,7 +18,7 @@ out a type of creature from a specified area.
 A ward against standard damage protects a creature from two of the
 following damage types: ballistic, bludgeoning, piercing, and slashing.
 For a ward against all types, increase the Knowledge (arcane lore) check
-DC by +4. Each round, the incantation created with the *ward *seed
+DC by +4. Each round, the incantation created with the *ward* seed
 absorbs the first 5 points of damage the creature would otherwise take,
 regardless of whether the source of the damage is natural or magical.
 For each additional point of protection, increase the Knowledge (arcane
@@ -55,15 +55,15 @@ can leave and return to the protected area without penalty (unless the
 incantation specifically targets a creature and does not provide a
 radius effect).
 
-Instead of creating an incantation that uses the *ward *seed to nullify
+Instead of creating an incantation that uses the *ward* seed to nullify
 all spells of a given and lower level, you can create a ward that
 nullifies a specific spell (or specific set of spells). For each
 specific spell so nullified, increase the Knowledge (arcane lore) check
 DC by only +1 per spell level above 1st. For example, if you want to
 create an incantation that protects you specifically against *charm
-person *and *dominate*, the Knowledge (arcane lore) check DC would
+person *and* dominate*, the Knowledge (arcane lore) check DC would
 increase by +0 and +4, respectively.
 
-The ward could be brought down by a targeted *dispel magic *spell.
-Incantations using the *dispel *seed may bring down a ward if the enemy
+The ward could be brought down by a targeted *dispel magic* spell.
+Incantations using the *dispel* seed may bring down a ward if the enemy
 spellcaster succeeds at a caster level check.

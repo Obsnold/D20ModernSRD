@@ -25,5 +25,5 @@ the correct time.) Many sophisticated mechanical devices, including
 automobiles and aircraft, rely on electrical components, and so are
 usually affected by this spell.
 
-*Arcane Material Components: *The CONTROL, ALT, and DELETE keys from a
+*Arcane Material Components:* The CONTROL, ALT, and DELETE keys from a
 computer keyboard.

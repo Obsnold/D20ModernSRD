@@ -35,7 +35,7 @@ damage.
 
 **Plant:** Udoroots have the traits and immunities common to plants.
 
-***Psionics *(Sp):** At will—*false sensory input, lesser body
+**Psionics (Sp):** At will—*false sensory input, lesser body
 adjustment, lightning strike, telekinesis*. Manifester level 10th; save
 DC 10 + udoroot’s key ability modifier + power level.
 

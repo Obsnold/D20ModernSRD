@@ -24,7 +24,7 @@ or actually a psionic terrorist group depends entirely on the GM’s
 perspective on psionics in the campaign. Either way, the Mindwreckers
 are a dangerous organization of extremists who live to cause mayhem in
 the lives of the people they call “little brains.” As such, the
-Mindwreckers is *not *and organization that any hero should even
+Mindwreckers is *not* and organization that any hero should even
 consider joining.
 
 The Mindwreckers love publicity, but they hate when unexpected witnesses
@@ -37,10 +37,10 @@ Members of the Mindwreckers have access to the following psionic power:
 
 Charisma
 
-**Level:** Telepath 4; **Display:** Visual, Audible; **Manifestation
-Time:** 1 action; **Range:** Touch; **Target:** One living creature;
-**Duration:** 1 day + 1 hour/level; **Saving Throw:** Will negates;
-**Power Resistance:** Yes; **Power Points:** 10
+**Level:** Telepath 4;** Display:** Visual, Audible;** Manifestation
+Time:** 1 action;** Range:** Touch;** Target:** One living creature;
+**Duration:** 1 day + 1 hour/level;** Saving Throw:** Will negates;
+**Power Resistance:** Yes;** Power Points:** 10
 
 You form a psionic barrier within the target’s memory, creating near
 total amnesia. The target cannot remember his name or any pertinent

@@ -17,7 +17,7 @@ You create a psychokinetic barrier around the subject that resists
 blows, cuts, stabs, and slashes, as well as providing some protection
 against falling. The subject gains DR 10/—. Once the power has prevented
 a total of 10 points of damage per manifester level (maximum 150
-points), it is discharged. *Inertial barrier *also absorbs up to half
+points), it is discharged. *Inertial barrier* also absorbs up to half
 the damage from a fall. Damage absorbed from a fall counts toward
 discharging the effect. The psychokinetic barrier delays the effects of
 gases in the atmosphere for 2d4 rounds.

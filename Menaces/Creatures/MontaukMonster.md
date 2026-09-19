@@ -39,11 +39,11 @@ fingers or a portion of a face projecting from its surface.
 
 **Immunities (Ex):** Montauk monsters are immune to fire and
 electricity. They are also immune to force effects such as *mage armor,
-magic missile, *and *wall of force. *The creatures and their melee
+magic missile, *and* wall of force. *The creatures and their melee
 attacks pass through such effects unharmed and unhindered.
 
 **Invisibility (Su):** A montauk monster is naturally invisible, as
-though constantly under the effect of the *invisibility *spell (caster
+though constantly under the effect of the *invisibility* spell (caster
 level 10th). Like a subject of that spell, the monster becomes visible
 upon attacking, but it can reinstate its invisibility as a free action
 once per round.

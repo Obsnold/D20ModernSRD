@@ -16,8 +16,8 @@ the Fellowship shows up something terrible is on the verge of happening.
 
 Agents of the Fellowship invariably have freakishly detailed information
 regarding anyone and everyone they encounter. They always have a plan, a
-back-up plan, and an emergency plan *and *the equipment needed to carry
-out all three. And while they *always *fight to protect the world from
+back-up plan, and an emergency plan *and* the equipment needed to carry
+out all three. And while they *always* fight to protect the world from
 unspeakable danger, Fellowship agents consider extensive collateral
 damage to neighborhoods, bystanders, and even allies to be “acceptable”
 in the pursuit of the greater good.
@@ -42,7 +42,7 @@ to demand more and more future work out of the heroes.) The agent will
 supply the agreed upon materials in short order. Often he will have the
 requested items on his person, as though he knew ahead of time what the
 heroes would ask for. Heroes who attempt to renege on their agreement
-will receive one *very *firm warning from the Fellowship agent with whom
+will receive one *very* firm warning from the Fellowship agent with whom
 they bargained. After that, if they continue to be deadbeats, the
 Fellowship simply considers them “expendable.” They will not hunt the
 hero down, but neither will they lift a finger to save the hero (or any
@@ -61,15 +61,15 @@ situation.
 When the bearer breaks the sigil he or she may cast one of the following
 spells:
 
-• *Magic circle *against enemies of the Fellowship centered on the
+• *Magic circle* against enemies of the Fellowship centered on the
 person who broke the sigil.
 
-• *Electromagnetic pulse *centered on the person who broke the sigil.
+• *Electromagnetic pulse* centered on the person who broke the sigil.
 
-• *Obscuring mist *centered on the person who broke the sigil.
+• *Obscuring mist* centered on the person who broke the sigil.
 
-• *Recharge *without the need for an electrical outlet on which to
+• *Recharge* without the need for an electrical outlet on which to
 focus.
 
-*Type: *Scroll (magic); *Caster Level: *3rd; *Purchase DC: *20; *Weight:
+*Type:* Scroll (magic); *Caster Level:* 3rd; *Purchase DC:* 20; *Weight:
 *—.
