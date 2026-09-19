@@ -1,16 +1,16 @@
 # Prestidigitation
 
-| Stat                    | Value         |
+| Stat | Value |
 |-------------------------|---------------|
-| School                  | Universal     |
-| Level                   | Mage 0        |
-| Components              | V, S          |
-| Casting Time            | Attack action |
-| Range                   | 10 ft.        |
-| Target, Effect, or Area | See text      |
-| Duration                | 1 hour        |
-| Saving Throw            | See text      |
-| Spell Resistance        | No            |
+| School | Universal |
+| Level | Mage 0 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | 10 ft. |
+| Target, Effect, or Area | See text |
+| Duration | 1 hour |
+| Saving Throw | See text |
+| Spell Resistance | No |
 
 Once cast, the prestidigitation spell enables the caster to perform
 simple magical effects for 1 hour. The effects are minor and have severe

@@ -1,10 +1,10 @@
 # Research
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 

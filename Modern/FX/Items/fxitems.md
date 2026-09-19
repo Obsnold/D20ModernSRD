@@ -126,12 +126,12 @@ available and easy to mass-produce.
 
 ## FX Item Categories
 
- - [Armor](Armor.md)
- - [Weapons](Weapons.md)
- - [Potions](Potions.md)
- - [Rings](Rings.md)
- - [Scrolls](Scrolls.md)
- - [Staffs](Staffs.md)
- - [Tattoos](Tattoos.md)
- - [Wands](Wands.md)
- - [Wondrous Items](WondrousItems.md)
+- [Armor](Armor.md)
+- [Weapons](Weapons.md)
+- [Potions](Potions.md)
+- [Rings](Rings.md)
+- [Scrolls](Scrolls.md)
+- [Staffs](Staffs.md)
+- [Tattoos](Tattoos.md)
+- [Wands](Wands.md)
+- [Wondrous Items](WondrousItems.md)

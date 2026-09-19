@@ -1,16 +1,16 @@
 # Knock
 
-| Stat             | Value                                                          |
+| Stat | Value |
 |------------------|----------------------------------------------------------------|
-| School           | Transmutation                                                  |
-| Level            | Mage 2                                                         |
-| Components       | V                                                              |
-| Casting Time     | Attack action                                                  |
-| Range            | Medium (100 ft. + 10 ft./level)                                |
-| Target           | One door, box, or chest with an area of up to 10 sq. ft./level |
-| Duration         | Instantaneous (see text)                                       |
-| Saving Throw     | None                                                           |
-| Spell Resistance | No                                                             |
+| School | Transmutation |
+| Level | Mage 2 |
+| Components | V |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target | One door, box, or chest with an area of up to 10 sq. ft./level |
+| Duration | Instantaneous (see text) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The knock spell opens stuck, barred, locked, or magically held or sealed
 doors. It opens secret doors, as well as locked or trick-opening boxes

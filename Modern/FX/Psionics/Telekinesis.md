@@ -1,17 +1,17 @@
 # Telekinesis
 
-| Stat               | Value                                                           |
+| Stat | Value |
 |--------------------|-----------------------------------------------------------------|
-| Key Ability        | Constitution                                                    |
-| Level              | Telepath 4                                                      |
-| Display            | Visual                                                          |
-| Manifestation Time | Attack action                                                   |
-| Range              | Long (400 ft. + 40 ft./level)                                   |
-| Target or Targets  | See text                                                        |
-| Duration           | Concentration, up to 1 round/level, or instantaneous (see text) |
-| Saving Throw       | Will negates (object) (see text)                                |
-| Power Resistance   | Yes (object) (see text)                                         |
-| Power Point Cost   | 7                                                               |
+| Key Ability | Constitution |
+| Level | Telepath 4 |
+| Display | Visual |
+| Manifestation Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Target or Targets | See text |
+| Duration | Concentration, up to 1 round/level, or instantaneous (see text) |
+| Saving Throw | Will negates (object) (see text) |
+| Power Resistance | Yes (object) (see text) |
+| Power Point Cost | 7 |
 
 The manifester moves objects or creatures by concentrating on them. The
 power can provide either a gentle, sustained force or a single short,

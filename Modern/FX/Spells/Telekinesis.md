@@ -1,16 +1,16 @@
 # Telekinesis
 
-| Stat              | Value                                                           |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------|
-| School            | Transmutation                                                   |
-| Level             | Mage 5                                                          |
-| Components        | V, S                                                            |
-| Casting Time      | Attack action                                                   |
-| Range             | Long (400 ft. + 40 ft./level)                                   |
-| Target or Targets | See text                                                        |
-| Duration          | Concentration (up to 1 round/level) or instantaneous (see text) |
-| Saving Throw      | Will negates (object) (see text)                                |
-| Spell Resistance  | Yes (object) (see text)                                         |
+| School | Transmutation |
+| Level | Mage 5 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Target or Targets | See text |
+| Duration | Concentration (up to 1 round/level) or instantaneous (see text) |
+| Saving Throw | Will negates (object) (see text) |
+| Spell Resistance | Yes (object) (see text) |
 
 The caster can move objects or creatures by concentrating on them.
 Depending on the version selected, the spell can provide either a

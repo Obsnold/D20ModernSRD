@@ -1,18 +1,18 @@
 # Charm Person
 
-| Stat               | Value                                          |
+| Stat | Value |
 |--------------------|------------------------------------------------|
-| Key Ability        | Charisma                                       |
-| Descriptors        | Compulsion, Mind-Affecting, Language-Dependent |
-| Level              | Telepath 1                                     |
-| Display            | Mental                                         |
-| Manifestation Time | Attack action                                  |
-| Range              | Close (25 ft. + 5 ft./2 levels)                |
-| Target             | One person                                     |
-| Duration           | 1 hour/level                                   |
-| Saving Throw       | Will negates                                   |
-| Power Resistance   | Yes                                            |
-| Power Point Cost   | 1                                              |
+| Key Ability | Charisma |
+| Descriptors | Compulsion, Mind-Affecting, Language-Dependent |
+| Level | Telepath 1 |
+| Display | Mental |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One person |
+| Duration | 1 hour/level |
+| Saving Throw | Will negates |
+| Power Resistance | Yes |
+| Power Point Cost | 1 |
 
 This power makes a Medium-size or smaller person regard the manifester
 as his or her trusted friend and ally. If the target is currently being

@@ -48,39 +48,39 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 
 ## Puppeteer
 
-| Stat              | Value                                                                                                                                      |
+| Stat | Value |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| CR                | 1                                                                                                                                          |
-| Size              | Fine                                                                                                                                       |
-| Type              | vermin                                                                                                                                     |
-| HD                | 1/16 d8–1                                                                                                                                  |
-| hp                | 1                                                                                                                                          |
-| Mas               | 9                                                                                                                                          |
-| Init              | +4                                                                                                                                         |
-| Spd               | 5 ft., fly 20 ft. (poor)                                                                                                                   |
-| Defense           | 22                                                                                                                                         |
-| Touch             | 22                                                                                                                                         |
-| Flat-Footed       | 18                                                                                                                                         |
-| Defense Breakdown | +8 size, +4 Dex                                                                                                                            |
-| BAB               | +0                                                                                                                                         |
-| Grap              | –13                                                                                                                                        |
-| Atk               | +3 melee (1, bite)                                                                                                                         |
-| Full Atk          | +3 melee (1, bite)                                                                                                                         |
-| FS                | 6 in. by 6 in.                                                                                                                             |
-| Reach             | 0 ft.                                                                                                                                      |
-| SQ                | glide, psionics, thrall, shared host, blindsight 60 ft., host protection, immune to mind-influencing effects, resistance to massive damage |
-| AL                | evil                                                                                                                                       |
-| Fort              | +1                                                                                                                                         |
-| Ref               | +4                                                                                                                                         |
-| Will              | +3                                                                                                                                         |
-| AP                | 0                                                                                                                                          |
-| Rep               | +0                                                                                                                                         |
-| Str               | 1                                                                                                                                          |
-| Dex               | 19                                                                                                                                         |
-| Con               | 9                                                                                                                                          |
-| Int               | — (or as host)                                                                                                                             |
-| Wis               | 16                                                                                                                                         |
-| Cha               | 14                                                                                                                                         |
+| CR | 1 |
+| Size | Fine |
+| Type | vermin |
+| HD | 1/16 d8–1 |
+| hp | 1 |
+| Mas | 9 |
+| Init | +4 |
+| Spd | 5 ft., fly 20 ft. (poor) |
+| Defense | 22 |
+| Touch | 22 |
+| Flat-Footed | 18 |
+| Defense Breakdown | +8 size, +4 Dex |
+| BAB | +0 |
+| Grap | –13 |
+| Atk | +3 melee (1, bite) |
+| Full Atk | +3 melee (1, bite) |
+| FS | 6 in. by 6 in. |
+| Reach | 0 ft. |
+| SQ | glide, psionics, thrall, shared host, blindsight 60 ft., host protection, immune to mind-influencing effects, resistance to massive damage |
+| AL | evil |
+| Fort | +1 |
+| Ref | +4 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 19 |
+| Con | 9 |
+| Int | — (or as host) |
+| Wis | 16 |
+| Cha | 14 |
 
 **Skills:** Hide +20, Listen +7, Spot +7.
 
@@ -90,45 +90,45 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 
 ## Puppeteer Host (Human Charismatic Ordinary 5)
 
-| Stat              | Value                                                                                |
+| Stat | Value |
 |-------------------|--------------------------------------------------------------------------------------|
-| CR                | 5                                                                                    |
-| Size              | Medium-size                                                                          |
-| Type              | humanoid                                                                             |
-| HD                | 5d6                                                                                  |
-| hp                | 19                                                                                   |
-| Mas               | 10                                                                                   |
-| Init              | +0                                                                                   |
-| Spd               | 30 ft.                                                                               |
-| Defense           | 13                                                                                   |
-| Touch             | 13                                                                                   |
-| Flat-Footed       | 12                                                                                   |
-| Defense Breakdown | +1 Dex, +2 class                                                                     |
-| BAB               | +2                                                                                   |
-| Grap              | +1                                                                                   |
-| Atk               | +1 melee (1d3 electricity plus paralysis, stun gun)                                  |
-| Full Atk          | +1 melee (1d3 electricity plus paralysis, stun gun), or +3 ranged (2d6, Beretta 92F) |
-| FS                | 5 ft. by 5 ft.                                                                       |
-| Reach             | 5 ft.                                                                                |
-| SQ                | blindsight 60 ft., immune to mind-influencing effects, resistance to massive damage  |
-| AL                | puppeteer                                                                            |
-| Fort              | +3\*                                                                                 |
-| Ref               | +4\*                                                                                 |
-| Will              | +0\*                                                                                 |
-| AP                | 0                                                                                    |
-| Rep               | +3                                                                                   |
-| Str               | 8                                                                                    |
-| Dex               | 12                                                                                   |
-| Con               | 10                                                                                   |
-| Int               | 11                                                                                   |
-| Wis               | 9                                                                                    |
-| Cha               | 14                                                                                   |
+| CR | 5 |
+| Size | Medium-size |
+| Type | humanoid |
+| HD | 5d6 |
+| hp | 19 |
+| Mas | 10 |
+| Init | +0 |
+| Spd | 30 ft. |
+| Defense | 13 |
+| Touch | 13 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +1 Dex, +2 class |
+| BAB | +2 |
+| Grap | +1 |
+| Atk | +1 melee (1d3 electricity plus paralysis, stun gun) |
+| Full Atk | +1 melee (1d3 electricity plus paralysis, stun gun), or +3 ranged (2d6, Beretta 92F) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | blindsight 60 ft., immune to mind-influencing effects, resistance to massive damage |
+| AL | puppeteer |
+| Fort | +3\* |
+| Ref | +4\* |
+| Will | +0\* |
+| AP | 0 |
+| Rep | +3 |
+| Str | 8 |
+| Dex | 12 |
+| Con | 10 |
+| Int | 11 |
+| Wis | 9 |
+| Cha | 14 |
 
 \*While attached to its host, the puppeteer’s saving throw bonuses are
 as follows: Fort +2, Ref +7, Will +4.
 
 **Occupation:** White collar (bonus class Skills: Computer Use and
-Knowledge \[business\]).
+Knowledge [business]).
 
 **Skills:** Bluff +10, Computer Use +4, Diplomacy +12, Disguise +6,
 Gather Information +12, Intimidate +10, Knowledge (business) +8,

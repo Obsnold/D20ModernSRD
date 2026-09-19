@@ -8,11 +8,11 @@ together business plans, gathering resources, and getting a new venture
 off the ground. They rarely want to stick around after the launch,
 however, as they prefer to put their energies into the next big thing.
 
-| Stat                      | Value   |
+| Stat | Value |
 |---------------------------|---------|
-| Prerequisite              | Age 18+ |
-| Reputation Bonus Increase | +1      |
-| Wealth Bonus Increase     | +4      |
+| Prerequisite | Age 18+ |
+| Reputation Bonus Increase | +1 |
+| Wealth Bonus Increase | +4 |
 
 ## Skills
 
@@ -20,9 +20,9 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
- - Bluff
- - Diplomacy
- - Gamble
- - Knowledge (business)
- - Knowledge (current events)
- - Knowledge (technology)
+- Bluff
+- Diplomacy
+- Gamble
+- Knowledge (business)
+- Knowledge (current events)
+- Knowledge (technology)

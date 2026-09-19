@@ -1,10 +1,10 @@
 # Balance
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Dex   |
-| Trained Only  | No    |
-| Armor Penalty | Yes   |
+| Key Ability | Dex |
+| Trained Only | No |
+| Armor Penalty | Yes |
 
 ## Check
 
@@ -15,13 +15,13 @@ her move action keeping his or her balance and does not move. A failure
 by 5 or more indicates that the character falls. The difficulty varies
 with the conditions of the surface.
 
-| Narrow Surface       | DC* | Difficult Surface | DC |
+| Narrow Surface | DC\* | Difficult Surface | DC |
 |----------------------|-----|-------------------|----|
-| 7–12 in. wide        | 10  | Uneven or angled  | 10 |
-| 2–6 in. wide         | 15  | Slippery surface  | 10 |
-| Less than 2 in. wide | 20  |                   |    |
+| 7–12 in. wide | 10 | Uneven or angled | 10 |
+| 2–6 in. wide | 15 | Slippery surface | 10 |
+| Less than 2 in. wide | 20 | | |
 
-*Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
+\*Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
 
 **Being Attacked While Balancing:** While balancing, the character is
 flat-footed (the character loses his or her Dexterity bonus to Defense,

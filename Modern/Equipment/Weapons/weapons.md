@@ -44,7 +44,7 @@ forms of internal mechanisms, have varying rates of fire. The three
 possible rates of fire for handguns, longarms, and heavy weapons are
 single shot, semiautomatic, and automatic.
 
-*Single Shot:*** **A weapon with the single shot rate of fire requires
+*Single Shot:*\*\* \*\*A weapon with the single shot rate of fire requires
 the user to manually operate the action (the mechanism that feeds and
 cocks the weapon) between each shot. Pump shotguns and bolt-action
 rifles are examples of firearms with single shot rates of fire. A weapon
@@ -134,22 +134,22 @@ belts together is a move action.
 
 ### Ranged Weapons
 
- - [Handguns](Handguns.md)
- - [Longarms](Longarms.md)
- - [Heavy Weapons](HeavyWeapons.md)
- - [Other Ranged Weapons](OtherRangedWeapons.md)
- - [Ammunition](Ammunition.md)
+- [Handguns](Handguns.md)
+- [Longarms](Longarms.md)
+- [Heavy Weapons](HeavyWeapons.md)
+- [Other Ranged Weapons](OtherRangedWeapons.md)
+- [Ammunition](Ammunition.md)
 
 ### Explosives and Splash Weapons
 
- - [Explosives and Splash Weapons](ExplosivesAndSplashWeapons.md)
- - [Grenades and Explosives](GrenadesAndExplosives.md)
- - [Splash Weapons](SplashWeapons.md)
+- [Explosives and Splash Weapons](ExplosivesAndSplashWeapons.md)
+- [Grenades and Explosives](GrenadesAndExplosives.md)
+- [Splash Weapons](SplashWeapons.md)
 
 ### Melee Weapons
 
- - [Melee Weapons](MeleeWeapons.md)
- - [Simple Melee Weapons](SimpleMeleeWeapons.md)
- - [Archaic Melee Weapons](ArchaicMeleeWeapons.md)
- - [Exotic Melee Weapons](ExoticMeleeWeapons.md)
- - [Improvised Weapons](ImprovisedWeapons.md)
+- [Melee Weapons](MeleeWeapons.md)
+- [Simple Melee Weapons](SimpleMeleeWeapons.md)
+- [Archaic Melee Weapons](ArchaicMeleeWeapons.md)
+- [Exotic Melee Weapons](ExoticMeleeWeapons.md)
+- [Improvised Weapons](ImprovisedWeapons.md)

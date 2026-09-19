@@ -1,10 +1,10 @@
 # Perform
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Cha   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Cha |
+| Trained Only | No |
+| Armor Penalty | No |
 
 This skill encompasses several categories, each of them treated as a
 separate skill. These categories are identified and defined below.
@@ -52,13 +52,13 @@ harp, lute, sitar, and violin.
 for playing wind musical instruments, such as flute, bugle, trumpet,
 tuba, bagpipes, and trombone.
 
-| Result | Performance                                                                         |
+| Result | Performance |
 |--------|-------------------------------------------------------------------------------------|
-| 10     | Amateur performance. Audience may appreciate your performance, but isn’t impressed. |
-| 15     | Routine performance. Audience enjoys your performance, but it isn’t exceptional.    |
-| 20     | Great performance. Audience highly impressed.                                       |
-| 25     | Memorable performance. Audience enthusiastic.                                       |
-| 30     | Masterful performance. Audience awed.                                               |
+| 10 | Amateur performance. Audience may appreciate your performance, but isn’t impressed. |
+| 15 | Routine performance. Audience enjoys your performance, but it isn’t exceptional. |
+| 20 | Great performance. Audience highly impressed. |
+| 25 | Memorable performance. Audience enthusiastic. |
+| 30 | Masterful performance. Audience awed. |
 
 ## Try Again?
 

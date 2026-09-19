@@ -7,11 +7,11 @@ weapon.
 
 **Table: Ranged Weapons: Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)**
 
-| Weapon                                                                          | Damage              | Critical | Damage Type         | Range Increment    | Rate of Fire | Magazine | Size  | Weight  | Purchase DC | Restriction  |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---------------------------------------------------------------------------------|---------------------|----------|---------------------|--------------------|--------------|----------|-------|---------|-------------|--------------|
-| M2HB (heavy machine gun)                                                        | 2d12                | 20       | Ballistic           | 110 ft.            | A            | Linked   | Huge  | 75 lb.  | 22          | Mil (+3)     |
-| M72A3 LAW (rocket launcher)                                                     | 10d6<sup>2</sup>    | —        | —                   | 150 ft.            | 1            | 1 int.   | Large | 5 lb.   | 15          | Mil (+3)     |
-| M79 (grenade launcher)                                                          | Varies<sup>2</sup>  | —        | —                   | 70 ft.             | 1            | 1 int.   | Large | 7 lb.   | 14          | Mil (+3)     |
+| M2HB (heavy machine gun) | 2d12 | 20 | Ballistic | 110 ft. | A | Linked | Huge | 75 lb. | 22 | Mil (+3) |
+| M72A3 LAW (rocket launcher) | 10d6<sup>2</sup> | — | — | 150 ft. | 1 | 1 int. | Large | 5 lb. | 15 | Mil (+3) |
+| M79 (grenade launcher) | Varies<sup>2</sup> | — | — | 70 ft. | 1 | 1 int. | Large | 7 lb. | 14 | Mil (+3) |
 
 2 This weapon does special damage. See the weapon description.
 

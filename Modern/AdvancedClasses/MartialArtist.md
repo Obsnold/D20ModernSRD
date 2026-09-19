@@ -1,17 +1,17 @@
 # MARTIAL ARTIST
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                 | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------|---------------|------------------|
-| 1st         | +1                | +0        | +2       | +0        | Living weapon 1d6       | +1            | +0               |
-| 2nd         | +2                | +0        | +3       | +0        | Flying kick             | +2            | +0               |
-| 3rd         | +3                | +1        | +3       | +1        | Bonus feat              | +2            | +0               |
-| 4th         | +4                | +1        | +4       | +1        | Living weapon 1d8       | +3            | +0               |
-| 5th         | +5                | +1        | +4       | +1        | Iron fist (one attack)  | +4            | +1               |
-| 6th         | +6                | +2        | +5       | +2        | Bonus feat              | +4            | +1               |
-| 7th         | +7                | +2        | +5       | +2        | Flurry of blows         | +5            | +1               |
-| 8th         | +8                | +2        | +6       | +2        | Living weapon 1d10      | +6            | +1               |
-| 9th         | +9                | +3        | +6       | +3        | Bonus feat              | +6            | +2               |
-| 10th        | +10               | +3        | +7       | +3        | Iron fist (all attacks) | +7            | +2               |
+| 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
+| 2nd | +2 | +0 | +3 | +0 | Flying kick | +2 | +0 |
+| 3rd | +3 | +1 | +3 | +1 | Bonus feat | +2 | +0 |
+| 4th | +4 | +1 | +4 | +1 | Living weapon 1d8 | +3 | +0 |
+| 5th | +5 | +1 | +4 | +1 | Iron fist (one attack) | +4 | +1 |
+| 6th | +6 | +2 | +5 | +2 | Bonus feat | +4 | +1 |
+| 7th | +7 | +2 | +5 | +2 | Flurry of blows | +5 | +1 |
+| 8th | +8 | +2 | +6 | +2 | Living weapon 1d10 | +6 | +1 |
+| 9th | +9 | +3 | +6 | +3 | Bonus feat | +6 | +2 |
+| 10th | +10 | +3 | +7 | +3 | Iron fist (all attacks) | +7 | +2 |
 
 ## Requirements
 
@@ -25,32 +25,35 @@ following criteria.
 **Feats:** Combat Martial Arts, Defensive Martial Arts.
 
 ## Hit Die
+
 1d8
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the martial
 artist attains a new level in this class.
 
 ## Class Skills
+
 The Martial Artist’s class skills (and the key ability for each skill)
 are:
 
- - Balance (Dex)
- - Climb (Str)
- - Escape Artist (Dex)
- - Hide (Dex)
- - Intimidate (Cha)
- - Jump (Str)
- - Knowledge (current events) (Int)
- - Knowledge (popular culture) (Int)
- - Knowledge (theology and philosophy) (Int)
- - Move Silently (Dex)
- - Perform (dance) (Cha)
- - Profession (Wis)
- - Read/Write Language (none)
- - Speak Language (none)
- - Spot (Wis)
- - Tumble (Dex)
+- Balance (Dex)
+- Climb (Str)
+- Escape Artist (Dex)
+- Hide (Dex)
+- Intimidate (Cha)
+- Jump (Str)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Move Silently (Dex)
+- Perform (dance) (Cha)
+- Profession (Wis)
+- Read/Write Language (none)
+- Speak Language (none)
+- Spot (Wis)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
@@ -87,16 +90,16 @@ At 3rd, 6th, and 9th level, the Martial Artist gets a bonus feat. The
 bonus feat must be selected from the following list, and the Martial
 Artist must meet all the prerequisites of the feat to select it.
 
- - Acrobatic
- - Advanced Combat Martial Arts
- - Archaic Weapons Proficiency
- - Combat Reflexes
- - Combat Throw
- - Elusive Target
- - Exotic Melee Weapon Proficiency
- - Improved Combat Throw
- - Improved Combat Martial Arts
- - Unbalance Opponent
+- Acrobatic
+- Advanced Combat Martial Arts
+- Archaic Weapons Proficiency
+- Combat Reflexes
+- Combat Throw
+- Elusive Target
+- Exotic Melee Weapon Proficiency
+- Improved Combat Throw
+- Improved Combat Martial Arts
+- Unbalance Opponent
 
 ### Iron Fist
 

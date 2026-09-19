@@ -22,9 +22,9 @@ enchantment bonus but no special qualities, use the following table.
 
 | Enhancement Bonus | Purchase DC Modifier |
 |-------------------|----------------------|
-| +1                | +10                  |
-| +2                | +15                  |
-| +3                | +20                  |
+| +1 | +10 |
+| +2 | +15 |
+| +3 | +20 |
 
 Weapons with special qualities have an additional purchase DC modifier,
 as noted under each item entry.
@@ -33,24 +33,24 @@ Examples of weapons with special qualities include the following.
 
 ## Charged Nunchaku
 
-| Stat             | Value                     |
+| Stat | Value |
 |------------------|---------------------------|
-| Type             | Weapon (psionic)          |
-| Manifester Level | 10th                      |
-| Purchase DC      | 23 (+1), 28 (+2), 33 (+3) |
-| Weight           | 2 lb.                     |
+| Type | Weapon (psionic) |
+| Manifester Level | 10th |
+| Purchase DC | 23 (+1), 28 (+2), 33 (+3) |
+| Weight | 2 lb. |
 
 This weapon pulses with psionic energy and deals +1d4
 points of damage with each successful strike.
 
 ## Flaming Machete
 
-| Stat         | Value                     |
+| Stat | Value |
 |--------------|---------------------------|
-| Type         | Weapon (magic)            |
-| Caster Level | 10th                      |
-| Purchase DC  | 25 (+1), 30 (+2), 35 (+3) |
-| Weight       | 3 lb.                     |
+| Type | Weapon (magic) |
+| Caster Level | 10th |
+| Purchase DC | 25 (+1), 30 (+2), 35 (+3) |
+| Weight | 3 lb. |
 
 In addition to its enhancement bonus, this machete
 becomes sheathed in flames when the wielder utters a command word. The
@@ -59,12 +59,12 @@ fire does not harm the hand that holds the weapon, and the machete deals
 
 ## Fragmentation Grenade of Distance
 
-| Stat         | Value                     |
+| Stat | Value |
 |--------------|---------------------------|
-| Type         | Weapon (magic)            |
+| Type | Weapon (magic) |
 | Caster Level | 7th (+1 or +2), 10th (+3) |
-| Purchase DC  | 35 (+1), 40 (+2), 45 (+3) |
-| Weight       | 3 lb.                     |
+| Purchase DC | 35 (+1), 40 (+2), 45 (+3) |
+| Weight | 3 lb. |
 
 The range increment of this
 fragmentation grenade is double normal (20 feet instead of 10 feet).
@@ -73,12 +73,12 @@ The purchase DC given below is for a box of six grenades.
 
 ## Holy Crossbow
 
-| Stat         | Value                     |
+| Stat | Value |
 |--------------|---------------------------|
-| Type         | Weapon (magic)            |
+| Type | Weapon (magic) |
 | Caster Level | 7th (+1 or +2), 10th (+3) |
-| Purchase DC  | 34 (+1), 39 (+2), 44 (+3) |
-| Weight       | 7 lb.                     |
+| Purchase DC | 34 (+1), 39 (+2), 44 (+3) |
+| Weight | 7 lb. |
 
 Any bolt fired from this magic crossbow is blessed with
 holy power. It deals +2d6 points of bonus holy damage against any
@@ -91,12 +91,12 @@ while the weapon is wielded.
 
 ## Keen Chain Saw
 
-| Stat         | Value                     |
+| Stat | Value |
 |--------------|---------------------------|
-| Type         | Weapon (magic)            |
-| Caster Level | 10th                      |
-| Purchase DC  | 29 (+1), 34 (+2), 39 (+3) |
-| Weight       | 10 lb.                    |
+| Type | Weapon (magic) |
+| Caster Level | 10th |
+| Purchase DC | 29 (+1), 34 (+2), 39 (+3) |
+| Weight | 10 lb. |
 
 In addition to its enhancement bonus, this chain saw
 threatens a critical hit on a natural roll of 19 or 20 (a normal chain
@@ -104,12 +104,12 @@ saw has a threat range of 20).
 
 ## Wounding Handgun
 
-| Stat         | Value                     |
+| Stat | Value |
 |--------------|---------------------------|
-| Type         | Weapon (magic)            |
-| Caster Level | 10th                      |
-| Purchase DC  | 38 (+1), 43 (+2), 48 (+3) |
-| Weight       | 2 lb.                     |
+| Type | Weapon (magic) |
+| Caster Level | 10th |
+| Purchase DC | 38 (+1), 43 (+2), 48 (+3) |
+| Weight | 2 lb. |
 
 Any bullet fired from this magic Glock 17 deals such a
 terrible wound that, in addition to taking normal damage, the victim

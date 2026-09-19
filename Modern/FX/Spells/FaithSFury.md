@@ -1,16 +1,16 @@
 # Faith’s Fury
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Evocation                       |
-| Level            | Acolyte 4                       |
-| Components       | V, S                            |
-| Casting Time     | Attack action                   |
-| Range            | Medium (100 ft. + 10 ft./level) |
-| Area             | 20-ft.-radius burst             |
-| Duration         | Instantaneous                   |
-| Saving Throw     | Fortitude partial (see text)    |
-| Spell Resistance | Yes                             |
+| School | Evocation |
+| Level | Acolyte 4 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Area | 20-ft.-radius burst |
+| Duration | Instantaneous |
+| Saving Throw | Fortitude partial (see text) |
+| Spell Resistance | Yes |
 
 The caster draws upon holy (or unholy) power to smite enemies with one
 of the following allegiances, as chosen by the caster: chaos, evil,

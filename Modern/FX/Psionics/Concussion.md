@@ -1,17 +1,17 @@
 # Concussion
 
-| Stat               | Value                           |
+| Stat | Value |
 |--------------------|---------------------------------|
-| Key Ability        | Constitution                    |
-| Level              | Battle Mind 2                   |
-| Display            | Audible                         |
-| Manifestation Time | Attack action                   |
-| Range              | Medium (100 ft. + 10 ft./level) |
-| Target             | One individual                  |
-| Duration           | Instantaneous                   |
-| Saving Throw       | Fortitude half                  |
-| Power Resistance   | Yes                             |
-| Power Point Cost   | 3                               |
+| Key Ability | Constitution |
+| Level | Battle Mind 2 |
+| Display | Audible |
+| Manifestation Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target | One individual |
+| Duration | Instantaneous |
+| Saving Throw | Fortitude half |
+| Power Resistance | Yes |
+| Power Point Cost | 3 |
 
 The target is pummeled with telekinetic force for 3d6 points of damage.
 The manifester may choose to have the power deal only nonlethal damage

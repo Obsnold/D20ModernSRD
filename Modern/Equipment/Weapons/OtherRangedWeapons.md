@@ -7,16 +7,16 @@ Ranged Weapons.
 
 **Table: Ranged Weapons: Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**
 
-| Weapon                                                                          | Damage              | Critical | Damage Type         | Range Increment    | Rate of Fire | Magazine | Size  | Weight  | Purchase DC | Restriction  |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---------------------------------------------------------------------------------|---------------------|----------|---------------------|--------------------|--------------|----------|-------|---------|-------------|--------------|
-| Compound bow (Archaic)<sup>2</sup>                                              | 1d8                 | 20       | Piercing            | 40 ft.             | 1            | —        | Large | 3 lb.   | 10          | —            |
-| Crossbow (Simple)                                                               | 1d10                | 19–20    | Piercing            | 40 ft.             | 1            | 1 int.   | Med   | 7 lb.   | 9           | —            |
-| Flamethrower (no feat needed)<sup>3</sup>                                       | 3d6                 | —        | Fire                | —                  | 1            | 10 int.  | Large | 50 lb.  | 17          | Mil (+3)     |
-| Javelin (Simple)                                                                | 1d6                 | 20       | Piercing            | 30 ft.             | 1            | —        | Med   | 2 lb.   | 4           | —            |
-| Pepper spray (Simple)                                                           | Special<sup>2</sup> | —        | Special<sup>2</sup> | 5 ft.              | 1            | 1 int.   | Tiny  | 0.5 lb. | 5           | —            |
-| Shuriken (Archaic)                                                              | 1                   | 20       | Piercing            | 10 ft.             | 1            | —        | Tiny  | 0.5 lb. | 3           | —            |
-| Taser (Simple)                                                                  | 1d4<sup>2</sup>     | —        | Electricity         | 5 ft.              | 1            | 1 int.   | Small | 2 lb.   | 7           | —            |
-| Whip (Simple)                                                                   | 1d2                 | 20       | Slashing            | 15 ft.<sup>3</sup> | 1            | —        | Small | 2 lb.   | 4           | —            |
+| Compound bow (Archaic)<sup>2</sup> | 1d8 | 20 | Piercing | 40 ft. | 1 | — | Large | 3 lb. | 10 | — |
+| Crossbow (Simple) | 1d10 | 19–20 | Piercing | 40 ft. | 1 | 1 int. | Med | 7 lb. | 9 | — |
+| Flamethrower (no feat needed)<sup>3</sup> | 3d6 | — | Fire | — | 1 | 10 int. | Large | 50 lb. | 17 | Mil (+3) |
+| Javelin (Simple) | 1d6 | 20 | Piercing | 30 ft. | 1 | — | Med | 2 lb. | 4 | — |
+| Pepper spray (Simple) | Special<sup>2</sup> | — | Special<sup>2</sup> | 5 ft. | 1 | 1 int. | Tiny | 0.5 lb. | 5 | — |
+| Shuriken (Archaic) | 1 | 20 | Piercing | 10 ft. | 1 | — | Tiny | 0.5 lb. | 3 | — |
+| Taser (Simple) | 1d4<sup>2</sup> | — | Electricity | 5 ft. | 1 | 1 int. | Small | 2 lb. | 7 | — |
+| Whip (Simple) | 1d2 | 20 | Slashing | 15 ft.<sup>3</sup> | 1 | — | Small | 2 lb. | 4 | — |
 
 2 This weapon does special damage. See the weapon description.
 3 See the description of this weapon for special rules.
@@ -72,7 +72,7 @@ attack rolls.
 A chemical irritant that can temporarily blind a target, pepper spray
 comes in a single-shot container. To use it, make a ranged touch attack
 against the target. The target must make a Fortitude saving throw (DC
-15) or be blinded for 1d4 rounds. Pepper spray is limited to 5 range
+15\) or be blinded for 1d4 rounds. Pepper spray is limited to 5 range
 increments.
 
 ## Shuriken

@@ -1,14 +1,14 @@
 # Comprehend Languages
 
-| Stat         | Value             |
+| Stat | Value |
 |--------------|-------------------|
-| School       | Divination        |
-| Level        | Acolyte 1, Mage 1 |
-| Components   | V, S, M/DF        |
-| Casting Time | Attack action     |
-| Range        | Personal          |
-| Target       | You               |
-| Duration     | 10 minutes/level  |
+| School | Divination |
+| Level | Acolyte 1, Mage 1 |
+| Components | V, S, M/DF |
+| Casting Time | Attack action |
+| Range | Personal |
+| Target | You |
+| Duration | 10 minutes/level |
 
 The caster can understand words spoken or written in a language he or
 she does not know (including the unique languages of some creatures). In

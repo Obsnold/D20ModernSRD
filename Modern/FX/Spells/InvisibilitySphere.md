@@ -1,16 +1,16 @@
 # Invisibility Sphere
 
-| Stat             | Value                                                      |
+| Stat | Value |
 |------------------|------------------------------------------------------------|
-| School           | Illusion                                                   |
-| Level            | Mage 3                                                     |
-| Components       | V, S, M                                                    |
-| Casting Time     | Attack action                                              |
-| Range            | Personal or touch                                          |
-| Area             | 10-ft.-radius sphere around the creature or object touched |
-| Duration         | 1 minute/level (D)                                         |
-| Saving Throw     | Will negates (harmless) or Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless) or Yes (harmless, object)                   |
+| School | Illusion |
+| Level | Mage 3 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Personal or touch |
+| Area | 10-ft.-radius sphere around the creature or object touched |
+| Duration | 1 minute/level (D) |
+| Saving Throw | Will negates (harmless) or Will negates (harmless, object) |
+| Spell Resistance | Yes (harmless) or Yes (harmless, object) |
 
 All creatures within 10 feet of the recipient, including the recipient,
 vanish from sight, even from darkvision. The center of the effect is

@@ -1,17 +1,17 @@
 # Detect Thoughts
 
-| Stat               | Value                                                         |
+| Stat | Value |
 |--------------------|---------------------------------------------------------------|
-| Key Ability        | Charisma                                                      |
-| Descriptors        | Mind-Affecting                                                |
-| Level              | Telepath 2; Display Visual, Mental                            |
-| Manifestation Time | Attack action                                                 |
-| Range              | 60 ft,                                                        |
-| Area               | Quarter-circle emanating from you to the extreme of the range |
-| Duration           | Concentration, up to 1 minute/level (D)                       |
-| Saving Throw       | Will negates (see text)                                       |
-| Power Resistance   | No                                                            |
-| Power Point Cost   | 3                                                             |
+| Key Ability | Charisma |
+| Descriptors | Mind-Affecting |
+| Level | Telepath 2; Display Visual, Mental |
+| Manifestation Time | Attack action |
+| Range | 60 ft, |
+| Area | Quarter-circle emanating from you to the extreme of the range |
+| Duration | Concentration, up to 1 minute/level (D) |
+| Saving Throw | Will negates (see text) |
+| Power Resistance | No |
+| Power Point Cost | 3 |
 
 The manifester detects surface thoughts. The amount of information
 revealed depends on how long the manifester studies a particular area or

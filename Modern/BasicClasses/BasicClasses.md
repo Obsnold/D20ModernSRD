@@ -2,12 +2,12 @@
 
 ## Basic Class Descriptions
 
- - [The Strong Hero](StrongHero.md)
- - [The Fast Hero](FastHero.md)
- - [The Tough Hero](ToughHero.md)
- - [The Smart Hero](SmartHero.md)
- - [The Dedicated Hero](DedicatedHero.md)
- - [The Charismatic Hero](CharismaticHero.md)
+- [The Strong Hero](StrongHero.md)
+- [The Fast Hero](FastHero.md)
+- [The Tough Hero](ToughHero.md)
+- [The Smart Hero](SmartHero.md)
+- [The Dedicated Hero](DedicatedHero.md)
+- [The Charismatic Hero](CharismaticHero.md)
 
 ## Ability
 
@@ -133,21 +133,21 @@ attacks.
 
 | Base Attack Bonus | Additional Attacks at |
 |-------------------|-----------------------|
-| +6                | +1                    |
-| +7                | +2                    |
-| +8                | +3                    |
-| +9                | +4                    |
-| +10               | +5                    |
-| +11               | +6/+1                 |
-| +12               | +7/+2                 |
-| +13               | +8/+3                 |
-| +14               | +9/+4                 |
-| +15               | +10/+5                |
-| +16               | +11/+6/+1             |
-| +17               | +12/+7/+2             |
-| +18               | +13/+8/+3             |
-| +19               | +14/+9/+4             |
-| +20               | +15/+10/+5            |
+| +6 | +1 |
+| +7 | +2 |
+| +8 | +3 |
+| +9 | +4 |
+| +10 | +5 |
+| +11 | +6/+1 |
+| +12 | +7/+2 |
+| +13 | +8/+3 |
+| +14 | +9/+4 |
+| +15 | +10/+5 |
+| +16 | +11/+6/+1 |
+| +17 | +12/+7/+2 |
+| +18 | +13/+8/+3 |
+| +19 | +14/+9/+4 |
+| +20 | +15/+10/+5 |
 
 To use multiple attacks in the same round, a character must use a full
 attack, which is a full-round action.
@@ -240,11 +240,11 @@ his or her mental ability scores increase, as detailed on Table: Aging
 Effects. The effects of each aging step are cumulative.
 
 **Table: Aging Effects**
-| Age Category        | Ability Adjustments                              |
+| Age Category | Ability Adjustments |
 |---------------------|--------------------------------------------------|
-| Child (1–11)        | –3 to Str and Con; –1 to Dex, Int, Wis, and Cha  |
-| Young adult (12–15) | Original scores                                  |
-| Adult (16–39)       | Original scores                                  |
-| Middle age (40–59)  | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
-| Old (60–79)         | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
-| Venerable (80+)     | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+| Child (1–11) | –3 to Str and Con; –1 to Dex, Int, Wis, and Cha |
+| Young adult (12–15) | Original scores |
+| Adult (16–39) | Original scores |
+| Middle age (40–59) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+| Old (60–79) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+| Venerable (80+) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |

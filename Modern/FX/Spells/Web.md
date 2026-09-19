@@ -1,17 +1,17 @@
 # Web
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Conjuration                     |
-| Subschool        | Creation                        |
-| Level            | Mage 2                          |
-| Components       | V, S, M                         |
-| Casting Time     | Attack action                   |
-| Range            | Medium (100 ft. + 10 ft./level) |
-| Effect           | Webs in a 20-ft.-radius spread  |
-| Duration         | 10 minutes/\_level              |
-| Saving Throw     | Reflex negates (see text)       |
-| Spell Resistance | Yes                             |
+| School | Conjuration |
+| Subschool | Creation |
+| Level | Mage 2 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Effect | Webs in a 20-ft.-radius spread |
+| Duration | 10 minutes/\_level |
+| Saving Throw | Reflex negates (see text) |
+| Spell Resistance | Yes |
 
 The web spell creates a many-layered mass of strong, sticky strands.
 These strands trap those caught in them. These masses must be anchored

@@ -1,17 +1,17 @@
 # TECHIE
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
-| 1st         | +0                | +0        | +0       | +2        | Jury-rig +2     | +1            | +0               |
-| 2nd         | +1                | +0        | +0       | +3        | Extreme machine | +1            | +0               |
-| 3rd         | +1                | +1        | +1       | +3        | Bonus feat      | +2            | +1               |
-| 4th         | +2                | +1        | +1       | +4        | Build robot     | +2            | +1               |
-| 5th         | +2                | +1        | +1       | +4        | Mastercraft     | +3            | +1               |
-| 6th         | +3                | +2        | +2       | +5        | Bonus feat      | +3            | +2               |
-| 7th         | +3                | +2        | +2       | +5        | Jury-rig +4     | +4            | +2               |
-| 8th         | +4                | +2        | +2       | +6        | Mastercraft     | +4            | +2               |
-| 9th         | +4                | +3        | +3       | +6        | Bonus feat      | +5            | +3               |
-| 10th        | +5                | +3        | +3       | +7        | Mastercraft     | +5            | +3               |
+| 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
+| 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
+| 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
+| 4th | +2 | +1 | +1 | +4 | Build robot | +2 | +1 |
+| 5th | +2 | +1 | +1 | +4 | Mastercraft | +3 | +1 |
+| 6th | +3 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
+| 7th | +3 | +2 | +2 | +5 | Jury-rig +4 | +4 | +2 |
+| 8th | +4 | +2 | +2 | +6 | Mastercraft | +4 | +2 |
+| 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
+| 10th | +5 | +3 | +3 | +7 | Mastercraft | +5 | +3 |
 
 ## Requirements
 
@@ -22,33 +22,36 @@ criteria.
 Craft (mechanical) 6 ranks, and Disable Device 6 ranks.
 
 ## Hit Die
+
 1d6
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the Techie
 attains a new level in this class.
 
 ## Class Skills
+
 The Techie’s class skills (and the key ability for each skill) are:
 
- - Computer Use (Int)
- - Craft (electronic) (Int)
- - Craft (mechanical) (Int)
- - Demolitions (Int)
- - Disable Device (Int)
- - Drive (Dex)
- - Knowledge (behavioral sciences) (Int)
- - Knowledge (earth and life sciences) (Int)
- - Knowledge (physical sciences) (Int)
- - Knowledge (popular culture) (Int)
- - Knowledge (technology) (Int)
- - Navigate (Int)
- - Profession (Wis)
- - Read/Write Language (none)
- - Repair (Int)
- - Research (Int)
- - Speak Language (none)
- - Spot (Wis)
+- Computer Use (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Demolitions (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (technology) (Int)
+- Navigate (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Speak Language (none)
+- Spot (Wis)
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
@@ -76,22 +79,22 @@ the risk of causing the machine to need repairs later. The DC for the
 Craft check depends on the type of improvement being made, as shown on
 the table below.
 
-| Improvement                | Craft DC | Repair Chance (d%) |
+| Improvement | Craft DC | Repair Chance (d%) |
 |----------------------------|----------|--------------------|
-| **Ranged Weapons**         |          |                    |
-| +1 to damage               | 15       | 01–25              |
-| +2 to damage               | 20       | 01–50              |
-| +3 to damage               | 25       | 01–75              |
-| +5 ft. to range increment  | 15       | 01–25              |
-| +10 ft. to range increment | 25       | 01–50              |
-| **Electronic Devices**     |          |                    |
-| +1 equipment bonus         | 15       | 01–25              |
-| +2 equipment bonus         | 20       | 01–50              |
-| +3 equipment bonus         | 25       | 01–75              |
-| **Vehicles**               |          |                    |
-| +1 on initiative checks    | 20       | 01–25              |
-| +1 to maneuver             | 25       | 01–50              |
-| +2 to maneuver             | 30       | 01–75              |
+| **Ranged Weapons** | | |
+| +1 to damage | 15 | 01–25 |
+| +2 to damage | 20 | 01–50 |
+| +3 to damage | 25 | 01–75 |
+| +5 ft. to range increment | 15 | 01–25 |
+| +10 ft. to range increment | 25 | 01–50 |
+| **Electronic Devices** | | |
+| +1 equipment bonus | 15 | 01–25 |
+| +2 equipment bonus | 20 | 01–50 |
+| +3 equipment bonus | 25 | 01–75 |
+| **Vehicles** | | |
+| +1 on initiative checks | 20 | 01–25 |
+| +1 to maneuver | 25 | 01–50 |
+| +2 to maneuver | 30 | 01–75 |
 
 The Techie performs the extreme modifications in 1 hour. The Techie
 can’t take 10 or take 20 on this check. If the check succeeds, the
@@ -109,14 +112,14 @@ At 3rd, 6th, and 9th level, the Techie gets a bonus feat. The bonus feat
 must be selected from the following list, and the Techie must meet all
 the prerequisites of the feat to select it.
 
- - Builder
- - Cautious
- - Combat Expertise
- - Educated
- - Gearhead
- - Personal Firearms Proficiency
- - Point Blank Shot
- - Studious
+- Builder
+- Cautious
+- Combat Expertise
+- Educated
+- Gearhead
+- Personal Firearms Proficiency
+- Point Blank Shot
+- Studious
 
 ### Build Robot
 
@@ -137,10 +140,10 @@ Follow these steps to build a robot.
 The purchase DC for the components needed to construct a robot is based
 on the robot’s size.
 
-| Size       | Purchase DC |
+| Size | Purchase DC |
 |------------|-------------|
-| Diminutive | 18          |
-| Tiny       | 15          |
+| Diminutive | 18 |
+| Tiny | 15 |
 
 Make the Wealth check to purchase and gather the necessary components
 prior to starting construction.
@@ -151,23 +154,23 @@ The robot’s body determines its size, shape, locomotion, and hit points.
 The DC of the Craft (mechanical) check is set by the robot’s size and
 modified by the form of locomotion selected.
 
-| Size                                       | Craft DC    |
+| Size | Craft DC |
 |--------------------------------------------|-------------|
-| Diminutive                                 | 15          |
-| Tiny                                       | 12          |
-| **Components**                             | DC Modifier |
-| **Frame Shape and Locomotion<sup>1</sup>** |             |
-| Bipedal                                    | +4          |
-| Quadruped                                  | +3          |
-| Treads                                     | +2          |
-| Wheels                                     | +1          |
-| **External Components <sup>2</sup>**       |             |
-| Manipulators <sup>3</sup>                  | +3          |
-| Audio/visual sensor                        | +2          |
-| **Remote Range <sup>1</sup>**              |             |
-| Remote control link, 100 feet              | +1          |
-| Remote control link, 200 feet              | +3          |
-| Remote control link, 300 feet              | +5          |
+| Diminutive | 15 |
+| Tiny | 12 |
+| **Components** | DC Modifier |
+| **Frame Shape and Locomotion<sup>1</sup>** | |
+| Bipedal | +4 |
+| Quadruped | +3 |
+| Treads | +2 |
+| Wheels | +1 |
+| **External Components <sup>2</sup>** | |
+| Manipulators <sup>3</sup> | +3 |
+| Audio/visual sensor | +2 |
+| **Remote Range <sup>1</sup>** | |
+| Remote control link, 100 feet | +1 |
+| Remote control link, 200 feet | +3 |
+| Remote control link, 300 feet | +5 |
 
 1 Select only one of the options in this category.
 2 Select one or more of the options in this category.

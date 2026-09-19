@@ -14,19 +14,19 @@ one-quarter cover).
 
 **Table: Vehicles: Civilian Cars**
 
-| Name                                 | Crew | Pass | Cargo      | Init | Maneuver | Top Speed   | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
+| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
 |--------------------------------------|------|------|------------|------|----------|-------------|---------|----------|------------|------|-------------|-------------|
-| Acura 3.2 TL (mid-size sedan)        | 1    | 4    | 300 lb.    | –2   | –1       | 265 (26)    | 8       | 5        | 34         | H    | 29          | Lic (+1)    |
-| Aston-Martin Vanquish (sports coupe) | 1    | 1    | 175 lb.    | –2   | +0       | 335 (33)    | 8       | 5        | 34         | H    | 36          | Lic (+1)    |
-| BMW M3 (sports coupe)                | 1    | 4    | 200 lb.    | –2   | +1       | 275 (27)    | 8       | 5        | 32         | H    | 30          | Lic (+1)    |
-| Chevrolet Cavalier (economy coupe)   | 1    | 4    | 275 lb.    | –1   | –1       | 185 (18)    | 9       | 5        | 30         | L    | 26          | Lic (+1)    |
-| Chevrolet Corvette (sports coupe)    | 1    | 1    | 250 lb.    | –2   | +0       | 310 (31)    | 8       | 5        | 32         | H    | 30          | Lic (+1)    |
-| Dodge Neon (economy sedan)           | 1    | 4    | 275 lb.    | –1   | –1       | 220 (22)    | 9       | 5        | 30         | L    | 26          | Lic (+1)    |
-| Ford Crown Victoria (mid-size sedan) | 1    | 5    | 425 lb.    | –2   | –1       | 185 (18)    | 8       | 5        | 34         | H    | 28          | Lic (+1)    |
-| Jaguar XJS (luxury sedan)            | 1    | 4    | 275 lb.    | –2   | –1       | 230 (23)    | 8       | 5        | 34         | H    | 32          | Lic (+1)    |
-| Lamborghini Diablo (sports coupe)    | 1    | 1    | 100 lb.    | –2   | +1       | 360 (36)    | 8       | 5        | 34         | H    | 37          | Lic (+1)    |
-| Mercedes E55 AMG (luxury sedan)      | 1    | 4    | 325 lb.    | –2   | +0       | 280 (28)    | 8       | 5        | 34         | H    | 32          | Lic (+1)    |
-| Volkswagen Jetta (mid-size wagon)    | 1    | 4    | 275 lb.    | –2   | +0       | 230 (23)    | 8       | 5        | 32         | H    | 28          | Lic (+1)    |
+| Acura 3.2 TL (mid-size sedan) | 1 | 4 | 300 lb. | –2 | –1 | 265 (26) | 8 | 5 | 34 | H | 29 | Lic (+1) |
+| Aston-Martin Vanquish (sports coupe) | 1 | 1 | 175 lb. | –2 | +0 | 335 (33) | 8 | 5 | 34 | H | 36 | Lic (+1) |
+| BMW M3 (sports coupe) | 1 | 4 | 200 lb. | –2 | +1 | 275 (27) | 8 | 5 | 32 | H | 30 | Lic (+1) |
+| Chevrolet Cavalier (economy coupe) | 1 | 4 | 275 lb. | –1 | –1 | 185 (18) | 9 | 5 | 30 | L | 26 | Lic (+1) |
+| Chevrolet Corvette (sports coupe) | 1 | 1 | 250 lb. | –2 | +0 | 310 (31) | 8 | 5 | 32 | H | 30 | Lic (+1) |
+| Dodge Neon (economy sedan) | 1 | 4 | 275 lb. | –1 | –1 | 220 (22) | 9 | 5 | 30 | L | 26 | Lic (+1) |
+| Ford Crown Victoria (mid-size sedan) | 1 | 5 | 425 lb. | –2 | –1 | 185 (18) | 8 | 5 | 34 | H | 28 | Lic (+1) |
+| Jaguar XJS (luxury sedan) | 1 | 4 | 275 lb. | –2 | –1 | 230 (23) | 8 | 5 | 34 | H | 32 | Lic (+1) |
+| Lamborghini Diablo (sports coupe) | 1 | 1 | 100 lb. | –2 | +1 | 360 (36) | 8 | 5 | 34 | H | 37 | Lic (+1) |
+| Mercedes E55 AMG (luxury sedan) | 1 | 4 | 325 lb. | –2 | +0 | 280 (28) | 8 | 5 | 34 | H | 32 | Lic (+1) |
+| Volkswagen Jetta (mid-size wagon) | 1 | 4 | 275 lb. | –2 | +0 | 230 (23) | 8 | 5 | 32 | H | 28 | Lic (+1) |
 
 ## Acura 3.2 TL
 

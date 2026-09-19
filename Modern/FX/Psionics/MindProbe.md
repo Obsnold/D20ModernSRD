@@ -1,17 +1,17 @@
 # Mind Probe
 
-| Stat               | Value                           |
+| Stat | Value |
 |--------------------|---------------------------------|
-| Key Ability        | Charisma                        |
-| Level              | Telepath 5                      |
-| Display            | Visual, Material, Audible       |
-| Manifestation Time | 1 minute                        |
-| Range              | Close (25 ft. + 5 ft./2 levels) |
-| Target             | One living creature             |
-| Duration           | 1 minute/level                  |
-| Saving Throw       | Fortitude negates               |
-| Power Resistance   | Yes                             |
-| Power Point Cost   | 9                               |
+| Key Ability | Charisma |
+| Level | Telepath 5 |
+| Display | Visual, Material, Audible |
+| Manifestation Time | 1 minute |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One living creature |
+| Duration | 1 minute/level |
+| Saving Throw | Fortitude negates |
+| Power Resistance | Yes |
+| Power Point Cost | 9 |
 
 All the target’s memories and knowledge are accessible to the
 manifester. The manifester can learn the answer to one question per

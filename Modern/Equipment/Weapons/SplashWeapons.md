@@ -8,10 +8,10 @@ improvised explosives.
 
 **Table: Splash Weapons**
 
-| **Weapon**                   | **Direct Hit Damage** | **Splash Damage** | **Critical<sup>2</sup>** | **Damage Type** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | Restriction |
+| **Weapon** | **Direct Hit Damage** | **Splash Damage** | **Critical<sup>2</sup>** | **Damage Type** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | Restriction |
 |------------------------------|-----------------------|-------------------|--------------------------|-----------------|---------------|---------------------|----------|------------|-----------------|-------------|
-| Acid, mild                   | 1d6                   | 1                 | 20                       | Acid            | —             | 10 ft.              | Tiny     | 1 lb.      | 6               | —           |
-| Molotov cocktail<sup>1</sup> | 1d6                   | 1                 | 20                       | Fire            | —             | 10 ft.              | Small    | 1 lb.      | 3               | —           |
+| Acid, mild | 1d6 | 1 | 20 | Acid | — | 10 ft. | Tiny | 1 lb. | 6 | — |
+| Molotov cocktail<sup>1</sup> | 1d6 | 1 | 20 | Fire | — | 10 ft. | Small | 1 lb. | 3 | — |
 
 1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
 2 Threat range applies to direct hits only; splash damage does not threaten a critical hit.
@@ -28,7 +28,7 @@ many places, including hardware stores.
 
 A Molotov cocktail is a flask containing a flammable liquid, plugged
 with a rag. A Molotov cocktail is easily made by hand (Craft
-\[chemical\] check DC 10 or Intelligence check DC 15). The purchase DC
+[chemical] check DC 10 or Intelligence check DC 15). The purchase DC
 given is for the components. To use it, the rag must first be lit,
 requiring a move action (and a lighter or other source of flame). The
 cocktail detonates in 2 rounds or on impact with a solid object,

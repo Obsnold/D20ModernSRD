@@ -1,10 +1,10 @@
 # Climb
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Str   |
-| Trained Only  | No    |
-| Armor Penalty | Yes   |
+| Key Ability | Str |
+| Trained Only | No |
+| Armor Penalty | Yes |
 
 ## Check
 
@@ -65,21 +65,21 @@ rather than a full set of climbing gear to avoid the penalty.
 
 A character with the Athletic feat gets a +2 bonus on all Climb checks.
 
-| DC   | Example Wall or Surface or Task                                                                                                                                                                                     |
+| DC | Example Wall or Surface or Task |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0    | A slope too steep to walk up.                                                                                                                                                                                       |
-| 5    | A knotted rope with a wall to brace against.                                                                                                                                                                        |
-| 10   | A rope with a wall to brace against. A knotted rope. A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face.                                                                         |
-| 15   | Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence. An unknotted rope. Pulling yourself up when dangling by your hands. |
-| 20   | An uneven surface with just a few narrow handholds and footholds, such as a coarse masonry wall or a sheer cliff face with a few crevices and small toeholds.                                                       |
-| 25   | A rough surface with no real handholds or footholds, such as a brick wall.                                                                                                                                          |
-| 25   | Overhang or ceiling with handholds but no footholds.                                                                                                                                                                |
-| —    | A perfectly smooth, flat, vertical surface can’t be climbed.                                                                                                                                                        |
-| –10* | Climbing inside an air duct or other location where one can brace against two opposite walls (reduces normal DC by 10).                                                                                             |
-| –5*  | Climbing a corner where a character can brace against perpendicular walls (reduces normal DC by 5).                                                                                                                 |
-| +5*  | Surface is slippery (increases normal DC by 5).                                                                                                                                                                     |
+| 0 | A slope too steep to walk up. |
+| 5 | A knotted rope with a wall to brace against. |
+| 10 | A rope with a wall to brace against. A knotted rope. A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face. |
+| 15 | Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence. An unknotted rope. Pulling yourself up when dangling by your hands. |
+| 20 | An uneven surface with just a few narrow handholds and footholds, such as a coarse masonry wall or a sheer cliff face with a few crevices and small toeholds. |
+| 25 | A rough surface with no real handholds or footholds, such as a brick wall. |
+| 25 | Overhang or ceiling with handholds but no footholds. |
+| — | A perfectly smooth, flat, vertical surface can’t be climbed. |
+| –10\* | Climbing inside an air duct or other location where one can brace against two opposite walls (reduces normal DC by 10). |
+| –5\* | Climbing a corner where a character can brace against perpendicular walls (reduces normal DC by 5). |
+| +5\* | Surface is slippery (increases normal DC by 5). |
 
-*These modifiers are cumulative; use any that apply.
+\*These modifiers are cumulative; use any that apply.
 
 ## Time
 

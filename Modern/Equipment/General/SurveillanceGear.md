@@ -5,19 +5,19 @@ a crucial part of the modern adventurer’s job.
 
 **Table: General Equipment: Surveillance Gear**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| Black box                              | Tiny  | 0.5 lb. | 4           | Illegal (+4) |
-| Caller ID defeater                     | Tiny  | 1 lb.   | 5           | —            |
-| Cellular interceptor                   | Tiny  | 0.5 lb. | 23          | —            |
-| Lineman’s buttset                      | Tiny  | 1 lb.   | 13          | Lic (+1)     |
-| Metal detector                         | Small | 2 lb.   | 11          | —            |
-| Night vision goggles                   | Small | 3 lb.   | 17          | —            |
-| Tap detector                           | Tiny  | 1 lb.   | 7           | —            |
-| **Telephone tap**                      |       |         |             |              |
-| Line tap                               | Tiny  | 0.5 lb. | 13          | Lic (+1)     |
-| Receiver tap                           | Tiny  | 0.5 lb. | 3           | Res (+2)     |
-| Telephone line tracer                  | Med   | 5 lb.   | 23          | —            |
+| Black box | Tiny | 0.5 lb. | 4 | Illegal (+4) |
+| Caller ID defeater | Tiny | 1 lb. | 5 | — |
+| Cellular interceptor | Tiny | 0.5 lb. | 23 | — |
+| Lineman’s buttset | Tiny | 1 lb. | 13 | Lic (+1) |
+| Metal detector | Small | 2 lb. | 11 | — |
+| Night vision goggles | Small | 3 lb. | 17 | — |
+| Tap detector | Tiny | 1 lb. | 7 | — |
+| **Telephone tap** | | | | |
+| Line tap | Tiny | 0.5 lb. | 13 | Lic (+1) |
+| Receiver tap | Tiny | 0.5 lb. | 3 | Res (+2) |
+| Telephone line tracer | Med | 5 lb. | 23 | — |
 
 ## Black Box
 
@@ -40,7 +40,7 @@ and monitor a cell phone conversation within a 5-mile area by listening
 in on the cellular service’s own transmitters. Intercepting the calls of
 a particular cell phone requires a Computer Use check (DC 35); if the
 user knows the phone number of the phone in question, the DC drops by
-10. Obviously, the phone must be in use for someone to intercept the
+10\. Obviously, the phone must be in use for someone to intercept the
 call. A cellular interceptor cannot be used to intercept regular (ground
 line) phone connections.
 

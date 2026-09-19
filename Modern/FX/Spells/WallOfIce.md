@@ -1,17 +1,17 @@
 # Wall of Ice
 
-| Stat             | Value                                                                                                                 |
+| Stat | Value |
 |------------------|-----------------------------------------------------------------------------------------------------------------------|
-| School           | Evocation                                                                                                             |
-| Descriptors      | Cold                                                                                                                  |
-| Level            | Mage 4                                                                                                                |
-| Components       | V, S, M                                                                                                               |
-| Casting Time     | Attack action                                                                                                         |
-| Range            | Medium (100 ft. + 10 ft./level)                                                                                       |
-| Effect           | Anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level |
-| Duration         | 1 minute/level                                                                                                        |
-| Saving Throw     | See text                                                                                                              |
-| Spell Resistance | Yes                                                                                                                   |
+| School | Evocation |
+| Descriptors | Cold |
+| Level | Mage 4 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Effect | Anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level |
+| Duration | 1 minute/level |
+| Saving Throw | See text |
+| Spell Resistance | Yes |
 
 This spell creates an anchored plane of ice or a hemisphere of ice,
 depending on the version selected. A wall of ice cannot form in an area

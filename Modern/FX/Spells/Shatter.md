@@ -1,17 +1,17 @@
 # Shatter
 
-| Stat             | Value                                                            |
+| Stat | Value |
 |------------------|------------------------------------------------------------------|
-| School           | Evocation                                                        |
-| Descriptors      | Sonic                                                            |
-| Level            | Acolyte 2                                                        |
-| Components       | V, S, M/DF                                                       |
-| Casting Time     | Attack action                                                    |
-| Range            | Close (25 ft. + 5 ft./2 levels)                                  |
-| Area             | 5-ft. radius spread, or one solid object or crystalline creature |
-| Duration         | Instantaneous                                                    |
-| Saving Throw     | Will negates (object) or Fortitude half (see text)               |
-| Spell Resistance | Yes (object)                                                     |
+| School | Evocation |
+| Descriptors | Sonic |
+| Level | Acolyte 2 |
+| Components | V, S, M/DF |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Area | 5-ft. radius spread, or one solid object or crystalline creature |
+| Duration | Instantaneous |
+| Saving Throw | Will negates (object) or Fortitude half (see text) |
+| Spell Resistance | Yes (object) |
 
 Used as an area attack, shatter destroys nonmagical objects of crystal,
 glass, porcelain, or ceramic, such as vials, bottles, flasks, jugs,

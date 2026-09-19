@@ -1,17 +1,17 @@
 # GUNSLINGER
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|----------------------|---------------|------------------|
-| 1st         | +0                | +0        | +1       | +1        | Close combat shot    | +1            | +0               |
-| 2nd         | +1                | +0        | +2       | +2        | Weapon focus         | +1            | +0               |
-| 3rd         | +2                | +1        | +2       | +2        | Bonus feat           | +2            | +1               |
-| 4th         | +3                | +1        | +2       | +2        | Defensive position   | +2            | +1               |
-| 5th         | +3                | +1        | +3       | +3        | Lightning shot       | +3            | +1               |
-| 6th         | +4                | +2        | +3       | +3        | Bonus feat           | +3            | +2               |
-| 7th         | +5                | +2        | +4       | +4        | Sharp-shooting       | +4            | +2               |
-| 8th         | +6                | +2        | +4       | +4        | Greater weapon focus | +4            | +2               |
-| 9th         | +6                | +3        | +4       | +4        | Bonus feat           | +5            | +3               |
-| 10th        | +7                | +3        | +5       | +5        | Bullseye             | +5            | +3               |
+| 1st | +0 | +0 | +1 | +1 | Close combat shot | +1 | +0 |
+| 2nd | +1 | +0 | +2 | +2 | Weapon focus | +1 | +0 |
+| 3rd | +2 | +1 | +2 | +2 | Bonus feat | +2 | +1 |
+| 4th | +3 | +1 | +2 | +2 | Defensive position | +2 | +1 |
+| 5th | +3 | +1 | +3 | +3 | Lightning shot | +3 | +1 |
+| 6th | +4 | +2 | +3 | +3 | Bonus feat | +3 | +2 |
+| 7th | +5 | +2 | +4 | +4 | Sharp-shooting | +4 | +2 |
+| 8th | +6 | +2 | +4 | +4 | Greater weapon focus | +4 | +2 |
+| 9th | +6 | +3 | +4 | +4 | Bonus feat | +5 | +3 |
+| 10th | +7 | +3 | +5 | +5 | Bullseye | +5 | +3 |
 
 ## Requirements
 
@@ -25,33 +25,36 @@ following criteria.
 **Feat:** Personal Firearms Proficiency.
 
 ## Hit Die
+
 1d10
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the gunslinger
 attains a new level in this class.
 
 ## Class Skills
+
 The Gunslinger’s class skills (and the key ability for each skill) are:
 
- - Bluff (Cha)
- - Demolitions (Int)
- - Drive (Dex)
- - Escape Artist (Dex)
- - Gamble (Wis)
- - Intimidate (Cha)
- - Knowledge (current events) (Int)
- - Knowledge (popular culture) (Int)
- - Knowledge (streetwise) (Int)
- - Move Silently (Dex)
- - Profession (Wis)
- - Read/Write Language (none)
- - Ride (Dex)
- - Sleight of Hand (Dex)
- - Speak Language (none)
- - Spot (Wis)
- - Survival (Wis)
- - Tumble (Dex)
+- Bluff (Cha)
+- Demolitions (Int)
+- Drive (Dex)
+- Escape Artist (Dex)
+- Gamble (Wis)
+- Intimidate (Cha)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Move Silently (Dex)
+- Profession (Wis)
+- Read/Write Language (none)
+- Ride (Dex)
+- Sleight of Hand (Dex)
+- Speak Language (none)
+- Spot (Wis)
+- Survival (Wis)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -80,20 +83,20 @@ At 3rd, 6th, and 9th level, the Gunslinger gets a bonus feat. The bonus
 feat must be selected from the following list, and the Gunslinger must
 meet all the prerequisites of the feat to select it.
 
- - Advanced Firearms Proficiency
- - Advanced Two-Weapon Fighting
- - Burst Fire
- - Dead Aim
- - Double Tap
- - Far Shot
- - Improved Two-Weapon Fighting
- - Precise Shot
- - Quick Draw
- - Quick Reload
- - Shot on the Run
- - Skip Shot
- - Strafe
- - Two-Weapon Fighting
+- Advanced Firearms Proficiency
+- Advanced Two-Weapon Fighting
+- Burst Fire
+- Dead Aim
+- Double Tap
+- Far Shot
+- Improved Two-Weapon Fighting
+- Precise Shot
+- Quick Draw
+- Quick Reload
+- Shot on the Run
+- Skip Shot
+- Strafe
+- Two-Weapon Fighting
 
 ### Defensive Position
 

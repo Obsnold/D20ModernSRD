@@ -13,72 +13,72 @@ periodically (purchase DC 5 less than the original purchase DC.
 Note that some skills, by their nature, require a piece of equipment to
 utilize.
 
-| Skill                  | Associated Item        |
+| Skill | Associated Item |
 |------------------------|------------------------|
-| Climb                  | Climbing gear          |
-| Craft (chemical)       | Chemical kit           |
-| Craft (electronic)     | Electrical tool kit    |
-| Craft (mechanical)     | Mechanical tool kit    |
-| Craft (pharmaceutical) | Pharmacist kit         |
-| Craft (structural)     | Mechanical tool kit    |
-| Demolitions            | Demolitions kit        |
-| Disable Device         | Car opening kit        |
-|                        | Electrical tool kit    |
-|                        | Lockpick set           |
-|                        | Lock release gun       |
-| Disguise               | Disguise kit           |
-| Forgery                | Forgery kit            |
-| Investigate            | Evidence kit           |
-| Perform (keyboards)    | Instrument, keyboard   |
-| Perform (percussion)   | Instrument, percussion |
-| Perform (stringed)     | Instrument, stringed   |
-| Perform (wind)         | Instrument, wind       |
-| Repair                 | Electrical tool kit    |
-|                        | Mechanical tool kit    |
-|                        | Multipurpose tool      |
-| Treat Injury           | First aid kit          |
-|                        | Medical kit            |
-|                        | Surgery kit            |
+| Climb | Climbing gear |
+| Craft (chemical) | Chemical kit |
+| Craft (electronic) | Electrical tool kit |
+| Craft (mechanical) | Mechanical tool kit |
+| Craft (pharmaceutical) | Pharmacist kit |
+| Craft (structural) | Mechanical tool kit |
+| Demolitions | Demolitions kit |
+| Disable Device | Car opening kit |
+| | Electrical tool kit |
+| | Lockpick set |
+| | Lock release gun |
+| Disguise | Disguise kit |
+| Forgery | Forgery kit |
+| Investigate | Evidence kit |
+| Perform (keyboards) | Instrument, keyboard |
+| Perform (percussion) | Instrument, percussion |
+| Perform (stringed) | Instrument, stringed |
+| Perform (wind) | Instrument, wind |
+| Repair | Electrical tool kit |
+| | Mechanical tool kit |
+| | Multipurpose tool |
+| Treat Injury | First aid kit |
+| | Medical kit |
+| | Surgery kit |
 
 **Table: General Equipment: Professional Equipment**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| Bolt cutter                            | Med   | 5 lb.   | 6           | —            |
-| Caltrops (25)                          | Small | 2 lb.   | 5           | —            |
-| Chemical kit                           | Med   | 6 lb.   | 16          | —            |
-| Demolitions kit                        | Med   | 5 lb.   | 13          | Lic (+1)     |
-| Disguise kit                           | Med   | 5 lb.   | 12          | —            |
-| Duct tape                              | Tiny  | 1 lb.   | 3           | —            |
-| **Electrical tool kit**                |       |         |             |              |
-| Basic                                  | Large | 12 lb.  | 14          | —            |
-| Deluxe                                 | Huge  | 33 lb.  | 21          | —            |
-| **Evidence kit**                       |       |         |             |              |
-| Basic                                  | Med   | 6 lb.   | 7           | —            |
-| Deluxe                                 | Med   | 8 lb.   | 15          | —            |
-| Fake ID                                | Fine  | —       | See text    | Illegal (+4) |
-| First aid kit                          | Small | 3 lb.   | 5           | —            |
-| Forgery kit                            | Small | 3 lb.   | 12          | —            |
-| **Handcuffs**                          |       |         |             |              |
-| Steel                                  | Tiny  | 1 lb.   | 7           | —            |
-| Zip-tie (25)                           | Dim   | 0.5 lb. | 6           | —            |
-| Instrument, keyboard                   | Large | 12 lb.  | 12          | —            |
-| Instrument, percussion                 | Huge  | 50 lb.  | 14          | —            |
-| Instrument, stringed                   | Large | 7 lb.   | 13          | —            |
-| Instrument, wind                       | Tiny  | 1 lb.   | 8           | —            |
-| **Lockpicks**                          |       |         |             |              |
-| Car opening kit                        | Tiny  | 1 lb.   | 6           | Lic (+1)     |
-| Lockpick set                           | Tiny  | 1 lb.   | 9           | Lic (+1)     |
-| Lock release gun                       | Tiny  | 0.5 lb. | 12          | Res (+2)     |
-| **Mechanical tool kit**                |       |         |             |              |
-| Basic                                  | Large | 22 lb.  | 13          | —            |
-| Deluxe                                 | Huge  | 45 lb.  | 20          | —            |
-| Medical kit                            | Med   | 5 lb.   | 15          | —            |
-| Multipurpose tool                      | Tiny  | 0.5 lb. | 9           | —            |
-| Pharmacist kit                         | Med   | 6 lb.   | 17          | Res (+2)     |
-| Search-and-rescue kit                  | Med   | 7 lb.   | 12          | —            |
-| Spike strip                            | Huge  | 22 lb.  | 13          | —            |
-| Surgery kit                            | Med   | 5 lb.   | 16          | Lic (+1)     |
+| Bolt cutter | Med | 5 lb. | 6 | — |
+| Caltrops (25) | Small | 2 lb. | 5 | — |
+| Chemical kit | Med | 6 lb. | 16 | — |
+| Demolitions kit | Med | 5 lb. | 13 | Lic (+1) |
+| Disguise kit | Med | 5 lb. | 12 | — |
+| Duct tape | Tiny | 1 lb. | 3 | — |
+| **Electrical tool kit** | | | | |
+| Basic | Large | 12 lb. | 14 | — |
+| Deluxe | Huge | 33 lb. | 21 | — |
+| **Evidence kit** | | | | |
+| Basic | Med | 6 lb. | 7 | — |
+| Deluxe | Med | 8 lb. | 15 | — |
+| Fake ID | Fine | — | See text | Illegal (+4) |
+| First aid kit | Small | 3 lb. | 5 | — |
+| Forgery kit | Small | 3 lb. | 12 | — |
+| **Handcuffs** | | | | |
+| Steel | Tiny | 1 lb. | 7 | — |
+| Zip-tie (25) | Dim | 0.5 lb. | 6 | — |
+| Instrument, keyboard | Large | 12 lb. | 12 | — |
+| Instrument, percussion | Huge | 50 lb. | 14 | — |
+| Instrument, stringed | Large | 7 lb. | 13 | — |
+| Instrument, wind | Tiny | 1 lb. | 8 | — |
+| **Lockpicks** | | | | |
+| Car opening kit | Tiny | 1 lb. | 6 | Lic (+1) |
+| Lockpick set | Tiny | 1 lb. | 9 | Lic (+1) |
+| Lock release gun | Tiny | 0.5 lb. | 12 | Res (+2) |
+| **Mechanical tool kit** | | | | |
+| Basic | Large | 22 lb. | 13 | — |
+| Deluxe | Huge | 45 lb. | 20 | — |
+| Medical kit | Med | 5 lb. | 15 | — |
+| Multipurpose tool | Tiny | 0.5 lb. | 9 | — |
+| Pharmacist kit | Med | 6 lb. | 17 | Res (+2) |
+| Search-and-rescue kit | Med | 7 lb. | 12 | — |
+| Spike strip | Huge | 22 lb. | 13 | — |
+| Surgery kit | Med | 5 lb. | 16 | Lic (+1) |
 
 ## Bolt Cutter
 

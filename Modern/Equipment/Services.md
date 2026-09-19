@@ -5,29 +5,29 @@ represented in overview here. Services are identified on Table:Services.
 
 **Table: Services**
 
-| Item                 | Purchase DC                            |
+| Item | Purchase DC |
 |----------------------|----------------------------------------|
-| **Auto repair**      |                                        |
-| 1 to 10 hp damage    | 15                                     |
-| 11 to 20 hp damage   | 18                                     |
-| 21 to 30 hp damage   | 21                                     |
-| 30+ hp damage        | 24                                     |
-| Towing               | 8                                      |
-| **Bail bonds**       |                                        |
-| Property crime       | 13                                     |
-| Assault crime        | 16                                     |
-| Death crime          | 22                                     |
-| **Bribery**          |                                        |
-| Bouncer              | 6                                      |
-| Bureaucrat           | 10                                     |
-| Informant            | 7                                      |
-| Police officer       | 10                                     |
-| Legal services       | 10 + lawyer’s Knowledge (civics) ranks |
-| **Medical services** |                                        |
-| Long-term care       | 10                                     |
-| Restore hit points   | 12                                     |
-| Surgery              | 15                                     |
-| Treat poison/disease | 10                                     |
+| **Auto repair** | |
+| 1 to 10 hp damage | 15 |
+| 11 to 20 hp damage | 18 |
+| 21 to 30 hp damage | 21 |
+| 30+ hp damage | 24 |
+| Towing | 8 |
+| **Bail bonds** | |
+| Property crime | 13 |
+| Assault crime | 16 |
+| Death crime | 22 |
+| **Bribery** | |
+| Bouncer | 6 |
+| Bureaucrat | 10 |
+| Informant | 7 |
+| Police officer | 10 |
+| Legal services | 10 + lawyer’s Knowledge (civics) ranks |
+| **Medical services** | |
+| Long-term care | 10 |
+| Restore hit points | 12 |
+| Surgery | 15 |
+| Treat poison/disease | 10 |
 
 ## Auto Repair
 
@@ -87,7 +87,7 @@ points or ability score points more quickly than normal on a given day.
 *Restore Hit Points:* The purchase DC represents treatment for hit point
 damage from wounds or injuries on a given day.
 
-*Surgery: *The purchase DC represents the cost of a single surgical
+\*Surgery: \*The purchase DC represents the cost of a single surgical
 procedure.
 
 *Poison/Disease:* The purchase DC represents one application of

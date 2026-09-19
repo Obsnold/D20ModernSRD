@@ -47,17 +47,17 @@ from Table: Grapple **Modifiers.**
 
 **Table: Grapple Modifiers**
 
-| Size (Example)                          | Grapple Modifier |
+| Size (Example) | Grapple Modifier |
 |-----------------------------------------|------------------|
-| Colossal (blue whale \[90 ft. long\])   | +16              |
-| Gargantuan (gray whale \[40 ft. long\]) | +12              |
-| Huge (elephant)                         | +8               |
-| Large (lion)                            | +4               |
-| Medium-size (human)                     | +0               |
-| Small (German shepherd)                 | –4               |
-| Tiny (housecat)                         | –8               |
-| Diminutive (rat)                        | –12              |
-| Fine (horsefly)                         | –16              |
+| Colossal (blue whale [90 ft. long]) | +16 |
+| Gargantuan (gray whale [40 ft. long]) | +12 |
+| Huge (elephant) | +8 |
+| Large (lion) | +4 |
+| Medium-size (human) | +0 |
+| Small (German shepherd) | –4 |
+| Tiny (housecat) | –8 |
+| Diminutive (rat) | –12 |
+| Fine (horsefly) | –16 |
 
 ## Starting a Grapple
 
@@ -103,7 +103,7 @@ grapple again, the character must begin at step 1.
 While a character is grappling, his or her ability to attack others and
 defend him or herself is limited.
 
-*No Threatened Squares: *A character doesn’t threaten any squares while
+\*No Threatened Squares: \*A character doesn’t threaten any squares while
 grappling.
 
 *No Dexterity Bonus:* A character loses his or her Dexterity bonus to
@@ -152,7 +152,7 @@ if the character gets multiple attacks.
 If the character has not used his or her move action for the round, the
 character may do so after escaping the grapple.
 
-*Escape from Pin: *Make an opposed grapple check. If the character
+\*Escape from Pin: \*Make an opposed grapple check. If the character
 succeeds, he or she can escape from being pinned. (Opponents don’t have
 to try to keep the character pinned if they don’t want to.) The
 character is still being grappled, however.

@@ -36,39 +36,39 @@ Climb checks.
 
 ## Constrictor Snake
 
-| Stat              | Value                                                   |
+| Stat | Value |
 |-------------------|---------------------------------------------------------|
-| CR                | 2                                                       |
-| Size              | Medium-size                                             |
-| Type              | animal                                                  |
-| HD                | 3d8+3                                                   |
-| hp                | 16                                                      |
-| Mas               | 13                                                      |
-| Init              | +3                                                      |
-| Spd               | 20 ft., climb 20 ft., swim 20 ft.                       |
-| Defense           | 15                                                      |
-| Touch             | 13                                                      |
-| Flat-Footed       | 12                                                      |
-| Defense Breakdown | +3 Dex, +2 natural                                      |
-| BAB               | +2                                                      |
-| Grap              | +5                                                      |
-| Atk               | +5 melee (1d6+4, bite)                                  |
-| Full Atk          | +5 melee (1d6+4, bite)                                  |
-| FS                | 5 ft. by 5 ft. (coiled)                                 |
-| Reach             | 5 ft.                                                   |
-| SQ                | improved grab, constrict 1d6+4, scent, low-light vision |
-| AL                | none                                                    |
-| Fort              | +4                                                      |
-| Ref               | +6                                                      |
-| Will              | +2                                                      |
-| AP                | 0                                                       |
-| Rep               | +0                                                      |
-| Str               | 17                                                      |
-| Dex               | 17                                                      |
-| Con               | 13                                                      |
-| Int               | 1                                                       |
-| Wis               | 12                                                      |
-| Cha               | 2                                                       |
+| CR | 2 |
+| Size | Medium-size |
+| Type | animal |
+| HD | 3d8+3 |
+| hp | 16 |
+| Mas | 13 |
+| Init | +3 |
+| Spd | 20 ft., climb 20 ft., swim 20 ft. |
+| Defense | 15 |
+| Touch | 13 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +3 Dex, +2 natural |
+| BAB | +2 |
+| Grap | +5 |
+| Atk | +5 melee (1d6+4, bite) |
+| Full Atk | +5 melee (1d6+4, bite) |
+| FS | 5 ft. by 5 ft. (coiled) |
+| Reach | 5 ft. |
+| SQ | improved grab, constrict 1d6+4, scent, low-light vision |
+| AL | none |
+| Fort | +4 |
+| Ref | +6 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 17 |
+| Con | 13 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +11, Climb +14, Hide +11, Listen +9, Spot +9, Swim
 +11.
@@ -79,39 +79,39 @@ Climb checks.
 
 ## Tiny Viper
 
-| Stat              | Value                              |
+| Stat | Value |
 |-------------------|------------------------------------|
-| CR                | 1/3                                |
-| Size              | Tiny                               |
-| Type              | animal                             |
-| HD                | 1/4 d8                             |
-| hp                | 1                                  |
-| Mas               | 11                                 |
-| Init              | +3                                 |
-| Spd               | 15 ft., climb 15 ft., swim 15 ft.  |
-| Defense           | 17                                 |
-| Touch             | 15                                 |
-| Flat-Footed       | 14                                 |
-| Defense Breakdown | +2 size, +3 Dex, +2 natural        |
-| BAB               | +0                                 |
-| Grap              | –10                                |
-| Atk               | +5 melee (1d3–2 plus poison, bite) |
-| Full Atk          | +5 melee (1d3–2 plus poison, bite) |
-| FS                | 2 1/2 ft. by 2 1/2 ft. (coiled)    |
-| Reach             | 0 ft.                              |
-| SQ                | poison, scent, low-light vision    |
-| AL                | none                               |
-| Fort              | +2                                 |
-| Ref               | +5                                 |
-| Will              | +1                                 |
-| AP                | 0                                  |
-| Rep               | +0                                 |
-| Str               | 6                                  |
-| Dex               | 17                                 |
-| Con               | 11                                 |
-| Int               | 1                                  |
-| Wis               | 12                                 |
-| Cha               | 2                                  |
+| CR | 1/3 |
+| Size | Tiny |
+| Type | animal |
+| HD | 1/4 d8 |
+| hp | 1 |
+| Mas | 11 |
+| Init | +3 |
+| Spd | 15 ft., climb 15 ft., swim 15 ft. |
+| Defense | 17 |
+| Touch | 15 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +2 size, +3 Dex, +2 natural |
+| BAB | +0 |
+| Grap | –10 |
+| Atk | +5 melee (1d3–2 plus poison, bite) |
+| Full Atk | +5 melee (1d3–2 plus poison, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. (coiled) |
+| Reach | 0 ft. |
+| SQ | poison, scent, low-light vision |
+| AL | none |
+| Fort | +2 |
+| Ref | +5 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 6 |
+| Dex | 17 |
+| Con | 11 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +11, Climb +12, Hide +18, Listen +8, Spot +8, Swim
 +11.

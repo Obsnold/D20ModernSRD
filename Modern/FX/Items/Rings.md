@@ -15,12 +15,12 @@ Examples of rings include the following.
 
 ## Ring of Energy Resistance 15
 
-| Stat         | Value        |
+| Stat | Value |
 |--------------|--------------|
-| Type         | Ring (magic) |
-| Caster Level | 5th          |
-| Purchase DC  | 30           |
-| Weight       | —.           |
+| Type | Ring (magic) |
+| Caster Level | 5th |
+| Purchase DC | 30 |
+| Weight | —. |
 
 This ring absorbs one type of energy
 damage: acid, cold, electricity, fire, or sonic/concussion. Each time
@@ -30,12 +30,12 @@ wearer takes no damage from the attack.
 
 ## Ring of Jumping
 
-| Stat         | Value        |
+| Stat | Value |
 |--------------|--------------|
-| Type         | Ring (magic) |
-| Caster Level | 1st          |
-| Purchase DC  | 26           |
-| Weight       | —.           |
+| Type | Ring (magic) |
+| Caster Level | 1st |
+| Purchase DC | 26 |
+| Weight | —. |
 
 This ring continually provides a +30 bonus to the
 wearer’s Jump checks and eliminates the wearer’s usual maximum distance
@@ -43,12 +43,12 @@ limit.
 
 ## Ring of the Ram
 
-| Stat         | Value        |
+| Stat | Value |
 |--------------|--------------|
-| Type         | Ring (magic) |
-| Caster Level | 9th          |
-| Purchase DC  | 34           |
-| Weight       | —.           |
+| Type | Ring (magic) |
+| Caster Level | 9th |
+| Purchase DC | 34 |
+| Weight | —. |
 
 The wearer can command the ring to issue forth a
 ramlike force. This force strikes a single target, dealing 1d6 points of

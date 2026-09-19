@@ -28,62 +28,62 @@ before the same initiative count that they began on.
 
 **Table: Actions in Combat**
 
-| Attack Actions                                       | Attack of Opportunity<sup>1</sup>     |
+| Attack Actions | Attack of Opportunity<sup>1</sup> |
 |------------------------------------------------------|---------------------------------------|
-| Attack (melee)                                       | No                                    |
-| Attack (ranged)                                      | Yes                                   |
-| Attack (unarmed)                                     | Yes                                   |
-| Attack (aid another)                                 | No                                    |
-| Bull rush (attack)                                   | No                                    |
-| Escape a grapple                                     | No                                    |
-| Feint (see the Bluff skill)                          | No                                    |
-| Ready (triggers an attack action)                    | No                                    |
-| Make a dying character stable                        | Yes                                   |
-| Attack a weapon                                      | Yes                                   |
-| Attack an object                                     | Maybe<sup>2</sup>                     |
-| Total defense                                        | No                                    |
-| Use a skill that takes an attack action              | Usually                               |
-| Start/complete full-round action                     | Varies                                |
-| **Move Actions**                                     | **Attack of Opportunity<sup>1</sup>** |
-| Move your speed                                      | Yes                                   |
-| Use a piece of equipment                             | No                                    |
-| Climb (one-quarter speed)                            | No                                    |
-| Climb, accelerated (one-half speed)                  | No                                    |
-| Crawl                                                | No                                    |
-| Draw a weapon<sup>3</sup>                            | No                                    |
-| Holster a weapon                                     | Yes                                   |
-| Move a heavy object                                  | Yes                                   |
-| Open a door                                          | No                                    |
-| Pick up an object                                    | Yes                                   |
-| Reload a firearm with a box magazine or speed loader | Yes                                   |
-| Retrieve a stored object                             | Yes                                   |
-| Stand up from prone, sitting, or kneeling            | Yes                                   |
-| Swim                                                 | No                                    |
-| Use a skill that takes a move action                 | Usually                               |
-| **Full-Round Actions**                               | **Attack of Opportunity<sup>1</sup>** |
-| Bull rush (charge)                                   | No                                    |
-| Charge                                               | No                                    |
-| Coup de grace                                        | Yes                                   |
-| Full attack                                          | No                                    |
-| Overrun (charge)                                     | No                                    |
-| Run                                                  | Yes                                   |
-| Withdraw                                             | No                                    |
-| Extinguish flames                                    | No                                    |
-| Use a skill that takes a full round                  | Usually                               |
-| Reload a firearm with an internal magazine           | Yes                                   |
-| *Free Actions*                                       | *Attack of Opportunity**<sup>1</sup>* |
-| Drop an object                                       | No                                    |
-| Drop to prone, sitting, or kneeling                  | No                                    |
-| Speak                                                | No                                    |
-| Action Type Varies                                   | **Attack of Opportunity<sup>1</sup>** |
-| Disarm<sup>4</sup>                                   | Yes                                   |
-| Grapple<sup>4</sup>                                  | Yes                                   |
-| Load a weapon                                        | Yes                                   |
-| Trip an opponent<sup>4</sup>                         | No (Yes if unarmed)                   |
-| Use a feat<sup>5</sup>                               | Varies                                |
-| **No Action**                                        | **Attack of Opportunity<sup>1</sup>** |
-| Delay                                                | No                                    |
-| 5-foot step                                          | No                                    |
+| Attack (melee) | No |
+| Attack (ranged) | Yes |
+| Attack (unarmed) | Yes |
+| Attack (aid another) | No |
+| Bull rush (attack) | No |
+| Escape a grapple | No |
+| Feint (see the Bluff skill) | No |
+| Ready (triggers an attack action) | No |
+| Make a dying character stable | Yes |
+| Attack a weapon | Yes |
+| Attack an object | Maybe<sup>2</sup> |
+| Total defense | No |
+| Use a skill that takes an attack action | Usually |
+| Start/complete full-round action | Varies |
+| **Move Actions** | **Attack of Opportunity<sup>1</sup>** |
+| Move your speed | Yes |
+| Use a piece of equipment | No |
+| Climb (one-quarter speed) | No |
+| Climb, accelerated (one-half speed) | No |
+| Crawl | No |
+| Draw a weapon<sup>3</sup> | No |
+| Holster a weapon | Yes |
+| Move a heavy object | Yes |
+| Open a door | No |
+| Pick up an object | Yes |
+| Reload a firearm with a box magazine or speed loader | Yes |
+| Retrieve a stored object | Yes |
+| Stand up from prone, sitting, or kneeling | Yes |
+| Swim | No |
+| Use a skill that takes a move action | Usually |
+| **Full-Round Actions** | **Attack of Opportunity<sup>1</sup>** |
+| Bull rush (charge) | No |
+| Charge | No |
+| Coup de grace | Yes |
+| Full attack | No |
+| Overrun (charge) | No |
+| Run | Yes |
+| Withdraw | No |
+| Extinguish flames | No |
+| Use a skill that takes a full round | Usually |
+| Reload a firearm with an internal magazine | Yes |
+| *Free Actions* | *Attack of Opportunity*\*<sup>1</sup>\* |
+| Drop an object | No |
+| Drop to prone, sitting, or kneeling | No |
+| Speak | No |
+| Action Type Varies | **Attack of Opportunity<sup>1</sup>** |
+| Disarm<sup>4</sup> | Yes |
+| Grapple<sup>4</sup> | Yes |
+| Load a weapon | Yes |
+| Trip an opponent<sup>4</sup> | No (Yes if unarmed) |
+| Use a feat<sup>5</sup> | Varies |
+| **No Action** | **Attack of Opportunity<sup>1</sup>** |
+| Delay | No |
+| 5-foot step | No |
 
 1 Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
 2 If the object is being held, carried, or worn by a creature, yes. If not, no.
@@ -159,7 +159,7 @@ A character capable of making more than one melee attack per round must
 use the full attack action (see Full-Round Actions, below) in order to
 make more than one attack.
 
-*Fighting Defensively: *A character can choose to fight defensively
+\*Fighting Defensively: \*A character can choose to fight defensively
 while making a melee attack. If the character does so, he or she takes a
 –4 penalty on his or her attack in a round to gain a +2 dodge bonus to
 Defense in the same round.
@@ -187,7 +187,7 @@ foe, but a character provokes an attack of opportunity from that
 creature if the character makes an unarmed attack against it. The Combat
 Martial Arts feat makes a character’s unarmed attacks count as armed.
 
-*Unarmed Strike Damage: *An unarmed strike from a Medium-size character
+\*Unarmed Strike Damage: \*An unarmed strike from a Medium-size character
 deals 1d3 points (plus the character’s Strength modifier, as normal) of
 nonlethal damage.
 
@@ -379,12 +379,12 @@ apply as if the off-hand weapon were light.
 
 **Table: Two-Weapon Fighting Penalties**
 
-| Circumstances                                         | Primary Hand | Off Hand |
+| Circumstances | Primary Hand | Off Hand |
 |-------------------------------------------------------|--------------|----------|
-| Normal penalties                                      | –6           | –10      |
-| Off-hand weapon is light                              | –4           | –8       |
-| Two-Weapon Fighting feat                              | –4           | –4       |
-| Off-hand weapon is light and Two-Weapon Fighting feat | –2           | –2       |
+| Normal penalties | –6 | –10 |
+| Off-hand weapon is light | –4 | –8 |
+| Two-Weapon Fighting feat | –4 | –4 |
+| Off-hand weapon is light and Two-Weapon Fighting feat | –2 | –2 |
 
 ### Run
 

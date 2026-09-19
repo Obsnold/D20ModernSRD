@@ -6,16 +6,16 @@ psionic items that carry those effects.
 
 ## Using FX Abilities
 
- - [FX Basics](fxbasics.md)
+- [FX Basics](fxbasics.md)
 
 ## Spells
 
- - [Spells](Spells/spells.md)
+- [Spells](Spells/spells.md)
 
 ## Psionic Powers
 
- - [Psionics](Psionics/psionics.md)
+- [Psionics](Psionics/psionics.md)
 
 ## FX Items
 
- - [FX Items](Items/fxitems.md)
+- [FX Items](Items/fxitems.md)

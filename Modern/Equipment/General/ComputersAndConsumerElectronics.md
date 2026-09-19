@@ -8,38 +8,38 @@ ongoing subscription costs.
 
 **Table: General Equipment: Computers and Consumer Electronics**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| **Camera**                             |       |         |             |              |
-| 35mm                                   | Small | 2 lb.   | 17          | —            |
-| Digital                                | Tiny  | 0.5 lb. | 14          | —            |
-| Disposable                             | Tiny  | 0.5 lb. | 4           | —            |
-| Film                                   | Dim   | —       | 3           | —            |
-| Film developing (roll)                 | —     | —       | 3           | —            |
-| Cell phone                             | Dim   | —       | 9           | —            |
-| **Computer**                           |       |         |             |              |
-| Desktop                                | Large | 10 lb.  | 22          | —            |
-| Notebook                               | Med   | 5 lb.   | 23          | —            |
-| Upgrade                                | —     | —       | See text    | —            |
-| Digital audio recorder                 | Tiny  | 1 lb.   | 10          | —            |
-| **Modem**                              |       |         |             |              |
-| Broadband                              | Tiny  | 1 lb.   | 6           | —            |
-| Cellular                               | Tiny  | 1 lb.   | 6           | —            |
-| PDA                                    | Tiny  | 0.5 lb. | 16          | —            |
-| Portable satellite phone               | Small | 2 lb.   | 17          | —            |
-| Portable video camera                  | Small | 2 lb.   | 16          | —            |
-| Printer                                | Med   | 3 lb.   | 12          | —            |
-| Scanner                                | Med   | 3 lb.   | 12          | —            |
-| **Walkie-talkie**                      |       |         |             |              |
-| Basic                                  | Tiny  | 1 lb.   | 7           | —            |
-| Professional                           | Tiny  | 1 lb.   | 15          | —            |
+| **Camera** | | | | |
+| 35mm | Small | 2 lb. | 17 | — |
+| Digital | Tiny | 0.5 lb. | 14 | — |
+| Disposable | Tiny | 0.5 lb. | 4 | — |
+| Film | Dim | — | 3 | — |
+| Film developing (roll) | — | — | 3 | — |
+| Cell phone | Dim | — | 9 | — |
+| **Computer** | | | | |
+| Desktop | Large | 10 lb. | 22 | — |
+| Notebook | Med | 5 lb. | 23 | — |
+| Upgrade | — | — | See text | — |
+| Digital audio recorder | Tiny | 1 lb. | 10 | — |
+| **Modem** | | | | |
+| Broadband | Tiny | 1 lb. | 6 | — |
+| Cellular | Tiny | 1 lb. | 6 | — |
+| PDA | Tiny | 0.5 lb. | 16 | — |
+| Portable satellite phone | Small | 2 lb. | 17 | — |
+| Portable video camera | Small | 2 lb. | 16 | — |
+| Printer | Med | 3 lb. | 12 | — |
+| Scanner | Med | 3 lb. | 12 | — |
+| **Walkie-talkie** | | | | |
+| Basic | Tiny | 1 lb. | 7 | — |
+| Professional | Tiny | 1 lb. | 15 | — |
 
 ## Camera
 
 Still cameras let a character capture a record of what he or she has
 seen.
 
-*35mm: *The best choice for the professional photographer, this camera
+\*35mm: \*The best choice for the professional photographer, this camera
 can accept different lenses and takes the highest-quality picture. A
 camera is needed to use the photography aspect of the Craft (visual art)
 skill. The film used in a camera must be developed.
@@ -77,7 +77,7 @@ mouse, a monitor, speakers, a CD-ROM drive, a dial-up modem, and the
 latest processor. A character needs a computer to make Computer Use
 checks and to make Research checks involving the Internet.
 
-*Desktop: *Bulky but powerful, these machines are common on desks
+\*Desktop: \*Bulky but powerful, these machines are common on desks
 everywhere.
 
 *Notebook:* Slim, lightweight, and portable, notebook computers have
@@ -107,7 +107,7 @@ Internet but without the speed of broadband or the flexibility of
 cellular. A dial-up modem uses a standard telephone line; while it’s
 connected, that telephone line can’t be used for another purpose.
 
-*Broadband: *Cable modems and DSL services bring high-speed Internet
+\*Broadband: \*Cable modems and DSL services bring high-speed Internet
 access into the homes of millions. A broadband modem gives a character
 on-demand, high-speed access to data, allowing Computer Use and Research
 checks involving the Internet to be made in half the normal time.

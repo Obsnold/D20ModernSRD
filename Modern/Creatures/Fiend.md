@@ -53,58 +53,58 @@ write these languages.
 
 **Table: Fiend Immunities, Resistances, and Damage Reduction**
 
-| Roll d% | Immunity                   | Roll d% | Resistance                     | Roll d% | Damage Reduction                    |
+| Roll d% | Immunity | Roll d% | Resistance | Roll d% | Damage Reduction |
 |---------|----------------------------|---------|--------------------------------|---------|-------------------------------------|
-| 01–06   | Acid damage                | 01–21   | None (do not roll again)       | 01–33   | None (do not roll again)            |
-| 07–12   | Cold damage                | 22–27   | Acid resistance 10             | 34–45   | 5/specific weapon type <sup>1</sup> |
-| 13–18   | Sonic/concussion damage    | 28–30   | Acid resistance 20             | 46–57   | 10/specific weapon type<sup>1</sup> |
-| 19–24   | Electricity damage         | 31–36   | Cold resistance 10             | 58–63   | 20/specific weapon type<sup>1</sup> |
-| 25–30   | Fire damage                | 37–39   | Cold resistance 20             | 64–72   | 5/+1                                |
-| 31–36   | Ballistic damage           | 40–45   | Sonic/concussion resistance 10 | 73–81   | 10/+1                               |
-| 37–42   | Bludgeoning damage         | 46–48   | Sonic/concussion resistance 20 | 82–84   | 15/+1                               |
-| 43–48   | Piercing damage            | 49–54   | Electricity resistance 10      | 85–87   | 20/+1                               |
-| 49–54   | Slashing damage            | 55–57   | Electricity resistance 20      | 88–90   | 5/+2                                |
-| 55–60   | Poison damage              | 58–63   | Fire resistance 10             | 91–93   | 10/+2                               |
-| 61–66   | Radiation damage           | 64–66   | Fire resistance 20             | 94–98   | 15/+2                               |
-| 67–100  | Choose one, and roll again | 67–100  | Choose one, and roll again     | 99–100  | 20/+2                               |
+| 01–06 | Acid damage | 01–21 | None (do not roll again) | 01–33 | None (do not roll again) |
+| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type <sup>1</sup> |
+| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type<sup>1</sup> |
+| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type<sup>1</sup> |
+| 25–30 | Fire damage | 37–39 | Cold resistance 20 | 64–72 | 5/+1 |
+| 31–36 | Ballistic damage | 40–45 | Sonic/concussion resistance 10 | 73–81 | 10/+1 |
+| 37–42 | Bludgeoning damage | 46–48 | Sonic/concussion resistance 20 | 82–84 | 15/+1 |
+| 43–48 | Piercing damage | 49–54 | Electricity resistance 10 | 85–87 | 20/+1 |
+| 49–54 | Slashing damage | 55–57 | Electricity resistance 20 | 88–90 | 5/+2 |
+| 55–60 | Poison damage | 58–63 | Fire resistance 10 | 91–93 | 10/+2 |
+| 61–66 | Radiation damage | 64–66 | Fire resistance 20 | 94–98 | 15/+2 |
+| 67–100 | Choose one, and roll again | 67–100 | Choose one, and roll again | 99–100 | 20/+2 |
 
 1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
 
 ## Festergog (Vomit Fiend)
 
-| Stat              | Value                                                                                                                             |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| CR                | 9                                                                                                                                 |
-| Size              | Huge                                                                                                                              |
-| Type              | outsider                                                                                                                          |
-| HD                | 12d8+60                                                                                                                           |
-| hp                | 114                                                                                                                               |
-| Mas               | 20                                                                                                                                |
-| Init              | –2                                                                                                                                |
-| Spd               | 20 ft., climb 20 ft.                                                                                                              |
-| Defense           | 22                                                                                                                                |
-| Touch             | 6                                                                                                                                 |
-| Flat-Footed       | 22                                                                                                                                |
-| Defense Breakdown | –2 size, –2 Dex, +16 natural                                                                                                      |
-| BAB               | +16                                                                                                                               |
-| Grap              | +33                                                                                                                               |
-| Atk               | +23 melee (2d6+13, slam)                                                                                                          |
-| Full Atk          | +23/+18/+13/+8 melee (2d6+9, slam), or +12/+7/+2/–3 ranged                                                                        |
-| FS                | 15 ft. by 15 ft.                                                                                                                  |
-| Reach             | 10 ft.                                                                                                                            |
-| SQ                | stench, immune to electricity and poison, acid and fire resistance 20, damage reduction 10/slashing, telepathy, darkvision 60 ft. |
-| AL                | evil, chaos                                                                                                                       |
-| Fort              | +15                                                                                                                               |
-| Ref               | +8                                                                                                                                |
-| Will              | +14                                                                                                                               |
-| AP                | 0                                                                                                                                 |
-| Rep               | +0                                                                                                                                |
-| Str               | 28                                                                                                                                |
-| Dex               | 6                                                                                                                                 |
-| Con               | 20                                                                                                                                |
-| Int               | 16                                                                                                                                |
-| Wis               | 15                                                                                                                                |
-| Cha               | 16                                                                                                                                |
+| CR | 9 |
+| Size | Huge |
+| Type | outsider |
+| HD | 12d8+60 |
+| hp | 114 |
+| Mas | 20 |
+| Init | –2 |
+| Spd | 20 ft., climb 20 ft. |
+| Defense | 22 |
+| Touch | 6 |
+| Flat-Footed | 22 |
+| Defense Breakdown | –2 size, –2 Dex, +16 natural |
+| BAB | +16 |
+| Grap | +33 |
+| Atk | +23 melee (2d6+13, slam) |
+| Full Atk | +23/+18/+13/+8 melee (2d6+9, slam), or +12/+7/+2/–3 ranged |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | stench, immune to electricity and poison, acid and fire resistance 20, damage reduction 10/slashing, telepathy, darkvision 60 ft. |
+| AL | evil, chaos |
+| Fort | +15 |
+| Ref | +8 |
+| Will | +14 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 28 |
+| Dex | 6 |
+| Con | 20 |
+| Int | 16 |
+| Wis | 15 |
+| Cha | 16 |
 
 **Skills:** Bluff +15, Climb +29, Intimidate +15, Knowledge (any three)
 +15, Listen +14, Read/Write Abyssal, Read/Write Draconic, Read/Write
@@ -134,39 +134,39 @@ points of damage dealt by any nonslashing weapon.
 
 ## Rotlord (Carrion Fiend)
 
-| Stat              | Value                                                                                                                       |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| CR                | 4                                                                                                                           |
-| Size              | Large                                                                                                                       |
-| Type              | outsider                                                                                                                    |
-| HD                | 5d8+15                                                                                                                      |
-| hp                | 37                                                                                                                          |
-| Mas               | 17                                                                                                                          |
-| Init              | –1                                                                                                                          |
-| Spd               | 20 ft.                                                                                                                      |
-| Defense           | 22                                                                                                                          |
-| Touch             | 8                                                                                                                           |
-| Flat-Footed       | 22                                                                                                                          |
-| Defense Breakdown | –1 size, –1 Dex, +14 natural                                                                                                |
-| BAB               | +5                                                                                                                          |
-| Grap              | +14                                                                                                                         |
-| Atk               | +9 melee (1d6+7, pincer)                                                                                                    |
-| Full Atk          | +9 melee (1d6+5, 2 pincers), +7 melee (1d8+7 plus disease, bite)                                                            |
-| FS                | 10 ft. by 10 ft.                                                                                                            |
-| Reach             | 5 ft. (bite), 10 ft. (pincers)                                                                                              |
-| SQ                | disease, fast healing 3, immune to bludgeoning damage and poison, cold and fire resistance 10, telepathy, darkvision 60 ft. |
-| AL                | evil                                                                                                                        |
-| Fort              | +7                                                                                                                          |
-| Ref               | +3                                                                                                                          |
-| Will              | +5                                                                                                                          |
-| AP                | 0                                                                                                                           |
-| Rep               | +0                                                                                                                          |
-| Str               | 20                                                                                                                          |
-| Dex               | 8                                                                                                                           |
-| Con               | 17                                                                                                                          |
-| Int               | 11                                                                                                                          |
-| Wis               | 12                                                                                                                          |
-| Cha               | 12                                                                                                                          |
+| CR | 4 |
+| Size | Large |
+| Type | outsider |
+| HD | 5d8+15 |
+| hp | 37 |
+| Mas | 17 |
+| Init | –1 |
+| Spd | 20 ft. |
+| Defense | 22 |
+| Touch | 8 |
+| Flat-Footed | 22 |
+| Defense Breakdown | –1 size, –1 Dex, +14 natural |
+| BAB | +5 |
+| Grap | +14 |
+| Atk | +9 melee (1d6+7, pincer) |
+| Full Atk | +9 melee (1d6+5, 2 pincers), +7 melee (1d8+7 plus disease, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 5 ft. (bite), 10 ft. (pincers) |
+| SQ | disease, fast healing 3, immune to bludgeoning damage and poison, cold and fire resistance 10, telepathy, darkvision 60 ft. |
+| AL | evil |
+| Fort | +7 |
+| Ref | +3 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 20 |
+| Dex | 8 |
+| Con | 17 |
+| Int | 11 |
+| Wis | 12 |
+| Cha | 12 |
 
 **Skills:** Climb +10, Hide +4, Knowledge (any one) +5, Listen +6, Move
 Silently +4, Read/Write Abyssal, Search +5, Speak Abyssal, Speak Latin,
@@ -203,39 +203,39 @@ skin. Two slender, white horns protrude from its elongated forehead, and
 each of its two arms ends in a wicked, 3-foot-long, serrated bone blade.
 A skinhusker revels in combat and enjoys inflicting pain.
 
-| Stat              | Value                                                                                                                                         |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| CR                | 6                                                                                                                                             |
-| Size              | Large                                                                                                                                         |
-| Type              | outsider                                                                                                                                      |
-| HD                | 7d8+21                                                                                                                                        |
-| hp                | 52                                                                                                                                            |
-| Mas               | 17                                                                                                                                            |
-| Init              | –1                                                                                                                                            |
-| Spd               | 30 ft.                                                                                                                                        |
-| Defense           | 22                                                                                                                                            |
-| Touch             | 8                                                                                                                                             |
-| Flat-Footed       | 22                                                                                                                                            |
-| Defense Breakdown | –1 size, –1 Dex, +14 natural                                                                                                                  |
-| BAB               | +7                                                                                                                                            |
-| Grap              | +16                                                                                                                                           |
-| Atk               | +11 melee (1d8+7/19–20, bone armblade)                                                                                                        |
-| Full Atk          | +11 melee (1d8+5/19–20, 2 bone armblades), or +5 ranged                                                                                       |
-| FS                | 10 ft. by 10 ft.                                                                                                                              |
-| Reach             | 10 ft.                                                                                                                                        |
-| SQ                | improved critical (bone armblade), immune to fire and poison, electricity resistance 20, damage reduction 10/+1, telepathy, darkvision 60 ft. |
-| AL                | evil, chaos                                                                                                                                   |
-| Fort              | +8                                                                                                                                            |
-| Ref               | +4                                                                                                                                            |
-| Will              | +7                                                                                                                                            |
-| AP                | 0                                                                                                                                             |
-| Rep               | +0                                                                                                                                            |
-| Str               | 21                                                                                                                                            |
-| Dex               | 8                                                                                                                                             |
-| Con               | 17                                                                                                                                            |
-| Int               | 13                                                                                                                                            |
-| Wis               | 14                                                                                                                                            |
-| Cha               | 14                                                                                                                                            |
+| CR | 6 |
+| Size | Large |
+| Type | outsider |
+| HD | 7d8+21 |
+| hp | 52 |
+| Mas | 17 |
+| Init | –1 |
+| Spd | 30 ft. |
+| Defense | 22 |
+| Touch | 8 |
+| Flat-Footed | 22 |
+| Defense Breakdown | –1 size, –1 Dex, +14 natural |
+| BAB | +7 |
+| Grap | +16 |
+| Atk | +11 melee (1d8+7/19–20, bone armblade) |
+| Full Atk | +11 melee (1d8+5/19–20, 2 bone armblades), or +5 ranged |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | improved critical (bone armblade), immune to fire and poison, electricity resistance 20, damage reduction 10/+1, telepathy, darkvision 60 ft. |
+| AL | evil, chaos |
+| Fort | +8 |
+| Ref | +4 |
+| Will | +7 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 21 |
+| Dex | 8 |
+| Con | 17 |
+| Int | 13 |
+| Wis | 14 |
+| Cha | 14 |
 
 **Skills:** Intimidate +11, Knowledge (any two) +10, Listen +11,
 Read/Write Abyssal, Read/Write Latin, Search +10, Speak Abyssal, Speak

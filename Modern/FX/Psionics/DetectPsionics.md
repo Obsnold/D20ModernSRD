@@ -1,17 +1,17 @@
 # Detect Psionics
 
-| Stat               | Value                                                         |
+| Stat | Value |
 |--------------------|---------------------------------------------------------------|
-| Key Ability        | Wisdom                                                        |
-| Level              | Telepath 0/Battle Mind 0                                      |
-| Display            | Visual, Audible                                               |
-| Manifestation Time | Attack action                                                 |
-| Range              | 60 ft.                                                        |
-| Area               | Quarter-circle emanating from you to the extreme of the range |
-| Duration           | Concentration, up to 1 minute/\_level (D)                     |
-| Saving Throw       | None                                                          |
-| Power Resistance   | No                                                            |
-| Power Point Cost   | 1                                                             |
+| Key Ability | Wisdom |
+| Level | Telepath 0/Battle Mind 0 |
+| Display | Visual, Audible |
+| Manifestation Time | Attack action |
+| Range | 60 ft. |
+| Area | Quarter-circle emanating from you to the extreme of the range |
+| Duration | Concentration, up to 1 minute/\_level (D) |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 1 |
 
 The manifester detects psionic auras. The amount of information revealed
 depends on how long the manifester studies a particular area or subject.
@@ -33,11 +33,11 @@ may confuse or conceal weaker auras.
 Aura Strength: An aura’s psionic power and strength depend on a power’s
 functioning power level or an item’s manifester level.
 
-| Functioning Power Level   | Item Manifester Level | Aura Power |
+| Functioning Power Level | Item Manifester Level | Aura Power |
 |---------------------------|-----------------------|------------|
-| 0-level or lingering aura | Lingering aura        | Dim        |
-| 1st–3rd                   | 1st–5th               | Faint      |
-| 4th–5th                   | —                     | Moderate   |
+| 0-level or lingering aura | Lingering aura | Dim |
+| 1st–3rd | 1st–5th | Faint |
+| 4th–5th | — | Moderate |
 
 If an aura falls into more than one category, detect psionics indicates
 the stronger of the two.
@@ -45,11 +45,11 @@ the stronger of the two.
 Length Aura Lingers: How long the aura lingers after the source has
 vacated the area depends on the aura’s original strength.
 
-| Original Aura Power | Duration         |
+| Original Aura Power | Duration |
 |---------------------|------------------|
-| Dim                 | 1 minute         |
-| Faint               | 1d6 minutes      |
-| Moderate            | 1d6 x 10 minutes |
+| Dim | 1 minute |
+| Faint | 1d6 minutes |
+| Moderate | 1d6 x 10 minutes |
 
 Each round, the manifester can turn to detect things in a new area. The
 manifester can tell the difference between magical and psionic auras.

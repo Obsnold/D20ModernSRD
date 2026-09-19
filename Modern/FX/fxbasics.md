@@ -1,4 +1,3 @@
-
 # FX BASICS
 
 Arcane spells, divine spells, and psionic powers are all representative
@@ -161,7 +160,7 @@ some substance that the caster must have on hand. It is expended and
 disappears when the spell is cast. Preparing these materials is a free
 action. The purchase DCs for expensive material components are included
 in the spell descriptions; if no value is given, assume a purchase DC of
-2.
+2\.
 
 **Focus (F):** A focus is similar to a material component, except that
 it is not expended when the spell is cast.
@@ -223,31 +222,31 @@ spell is lost..
 
 **Table: FX Actions in Combat**
 
-| Attack Actions                                      | AoO? |
+| Attack Actions | AoO? |
 |-----------------------------------------------------|------|
-| Activate a ring, rod, staff, wand, or wondrous item | No   |
-| Cast a spell (attack action casting time)           | Yes  |
-| Concentrate to maintain an active spell or power    | No   |
-| Dismiss a spell or power                            | No   |
-| Drink a potion                                      | Yes  |
-| Manifest a power (attack action manifestation time) | Yes  |
-| Read a scroll                                       | Yes  |
-| Turn or rebuke undead                               | No   |
-| Use spell-like ability                              | Yes  |
-| Use supernatural ability                            | No   |
-| Use extraordinary ability                           | No   |
-| Use touch spell on self                             | No   |
-| Move Actions                                        | AoO? |
-| Direct or redirect an active spell or power         | No   |
-| Full-Round Actions                                  | AoO? |
-| Cast a spell (full-round action casting time)       | Yes  |
-| **Manifest a power**                                |      |
-| (full-round action manifestation time)              | Yes  |
-| Use touch spell on up to six friends                | Yes  |
-| Free Actions                                        | AoO? |
-| Cease concentration on a spell or power             | No   |
-| Prepare spell components to cast a spell            | No   |
-| Make Spellcraft check on counterspell attempt       | No   |
+| Activate a ring, rod, staff, wand, or wondrous item | No |
+| Cast a spell (attack action casting time) | Yes |
+| Concentrate to maintain an active spell or power | No |
+| Dismiss a spell or power | No |
+| Drink a potion | Yes |
+| Manifest a power (attack action manifestation time) | Yes |
+| Read a scroll | Yes |
+| Turn or rebuke undead | No |
+| Use spell-like ability | Yes |
+| Use supernatural ability | No |
+| Use extraordinary ability | No |
+| Use touch spell on self | No |
+| Move Actions | AoO? |
+| Direct or redirect an active spell or power | No |
+| Full-Round Actions | AoO? |
+| Cast a spell (full-round action casting time) | Yes |
+| **Manifest a power** | |
+| (full-round action manifestation time) | Yes |
+| Use touch spell on up to six friends | Yes |
+| Free Actions | AoO? |
+| Cease concentration on a spell or power | No |
+| Prepare spell components to cast a spell | No |
+| Make Spellcraft check on counterspell attempt | No |
 
 ### Range
 
@@ -714,9 +713,9 @@ and pays the power point cost.
 A power’s cost is determined by its level, as shown below. Every power’s
 cost is also noted in its description for easy reference.
 
-|                  |       |   |   |   |   |   |
+| | | | | | | |
 |------------------|-------|---|---|---|---|---|
-| Power Level      | 0     | 1 | 2 | 3 | 4 | 5 |
+| Power Level | 0 | 1 | 2 | 3 | 4 | 5 |
 | Power point cost | 0/1\* | 1 | 3 | 5 | 7 | 9 |
 
 \*A psionic character can manifest any 0-level power he or she knows a

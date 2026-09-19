@@ -1,17 +1,17 @@
 # Object Reading
 
-| Stat               | Value                                     |
+| Stat | Value |
 |--------------------|-------------------------------------------|
-| Key Ability        | Wisdom                                    |
-| Level              | Telepath 1                                |
-| Display            | Audible, Material                         |
-| Manifestation Time | Attack action                             |
-| Range              | Touch                                     |
-| Target             | One object                                |
-| Duration           | Concentration, up to 10 minutes/level (D) |
-| Saving Throw       | None                                      |
-| Power Resistance   | Yes                                       |
-| Power Point Cost   | 1                                         |
+| Key Ability | Wisdom |
+| Level | Telepath 1 |
+| Display | Audible, Material |
+| Manifestation Time | Attack action |
+| Range | Touch |
+| Target | One object |
+| Duration | Concentration, up to 10 minutes/level (D) |
+| Saving Throw | None |
+| Power Resistance | Yes |
+| Power Point Cost | 1 |
 
 This power provides information about an object’s previous owner. The
 amount of information revealed depends on how long the manifester

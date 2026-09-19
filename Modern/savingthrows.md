@@ -1,4 +1,3 @@
-
 # SAVING THROWS
 
 Generally, when a hero is subject to an unusual or magical attack, he or

@@ -1,17 +1,17 @@
 # Create Water
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Conjuration                     |
-| Subschool        | Creation                        |
-| Level            | Acolyte 0                       |
-| Components       | V, S                            |
-| Casting Time     | Attack action                   |
-| Range            | Close (25 ft. + 5 ft./2 levels) |
-| Effect           | Up to 2 gallons of water/level  |
-| Duration         | Instantaneous                   |
-| Saving Throw     | None                            |
-| Spell Resistance | No                              |
+| School | Conjuration |
+| Subschool | Creation |
+| Level | Acolyte 0 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Effect | Up to 2 gallons of water/level |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 This spell generates wholesome, drinkable water, just like clean
 rainwater. Water can be created in an area as small as will actually

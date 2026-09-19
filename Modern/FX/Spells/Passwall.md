@@ -1,16 +1,16 @@
 # Passwall
 
-| Stat             | Value                                    |
+| Stat | Value |
 |------------------|------------------------------------------|
-| School           | Transmutation                            |
-| Level            | Mage 5                                   |
-| Components       | V, S, M                                  |
-| Casting Time     | Attack action                            |
-| Range            | Close (25 ft. + 5 ft./2 levels)          |
-| Effect           | 5-ft.-by-8 ft. opening, 1 ft./level deep |
-| Duration         | 1 hour/level (D)                         |
-| Saving Throw     | None                                     |
-| Spell Resistance | No                                       |
+| School | Transmutation |
+| Level | Mage 5 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Effect | 5-ft.-by-8 ft. opening, 1 ft./level deep |
+| Duration | 1 hour/level (D) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The caster creates a passage through wooden, plaster, or stone walls,
 but not through metal or other harder materials. If the wall’s thickness

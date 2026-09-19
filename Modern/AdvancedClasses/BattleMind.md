@@ -1,17 +1,17 @@
 # BATTLE MIND
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
-| 1st         | +0                | +2        | +0       | +0        | Psionic skills, psionic powers            | +1            | +0               |
-| 2nd         | +1                | +3        | +0       | +0        | Psi-blade, imprint tattoo, psionic powers | +2            | +0               |
-| 3rd         | +2                | +3        | +1       | +1        | Bonus feat, psionic powers                | +2            | +0               |
-| 4th         | +3                | +4        | +1       | +1        | Psychic shield, psionic powers            | +3            | +0               |
-| 5th         | +3                | +4        | +1       | +1        | Combat manifestation, psionic powers      | +4            | +1               |
-| 6th         | +4                | +5        | +2       | +2        | Bonus feat, psionic powers                | +4            | +1               |
-| 7th         | +5                | +5        | +2       | +2        | Improved psi-blade, psionic powers        | +5            | +1               |
-| 8th         | +6                | +6        | +2       | +2        | Improved psychic shield, psionic powers   | +6            | +1               |
-| 9th         | +6                | +6        | +3       | +3        | Bonus feat, psionic powers                | +6            | +2               |
-| 10th        | +7                | +7        | +3       | +3        | Ultimate psi-blade, psionic powers        | +7            | +2               |
+| 1st | +0 | +2 | +0 | +0 | Psionic skills, psionic powers | +1 | +0 |
+| 2nd | +1 | +3 | +0 | +0 | Psi-blade, imprint tattoo, psionic powers | +2 | +0 |
+| 3rd | +2 | +3 | +1 | +1 | Bonus feat, psionic powers | +2 | +0 |
+| 4th | +3 | +4 | +1 | +1 | Psychic shield, psionic powers | +3 | +0 |
+| 5th | +3 | +4 | +1 | +1 | Combat manifestation, psionic powers | +4 | +1 |
+| 6th | +4 | +5 | +2 | +2 | Bonus feat, psionic powers | +4 | +1 |
+| 7th | +5 | +5 | +2 | +2 | Improved psi-blade, psionic powers | +5 | +1 |
+| 8th | +6 | +6 | +2 | +2 | Improved psychic shield, psionic powers | +6 | +1 |
+| 9th | +6 | +6 | +3 | +3 | Bonus feat, psionic powers | +6 | +2 |
+| 10th | +7 | +7 | +3 | +3 | Ultimate psi-blade, psionic powers | +7 | +2 |
 
 ## Requirements
 
@@ -25,31 +25,34 @@ following criteria.
 **Feat:** Wild Talent.
 
 ## Hit Die
+
 The Battle Mind gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
 ## Action Points
+
 The Battle Mind gains a number of action points equal to 6 + one-half
 her character level, rounded down, every time she attains a new level in
 this class.
 
 ## Class Skills
+
 The Battle Mind’s class skills are as follows.
 
- - Autohypnosis (Wis)
- - Balance (Dex)
- - Climb (Str)
- - Concentration (Con)
- - Craft (visual arts) (Int)
- - Drive (Dex)
- - Jump (Str)
- - Knowledge (current events) (Int)
- - Knowledge (streetwise) (Int)
- - Profession (Wis)
- - Read/Write Language (none)
- - Speak Language (none)
- - Spot (Wis)
- - Swim (Str)
+- Autohypnosis (Wis)
+- Balance (Dex)
+- Climb (Str)
+- Concentration (Con)
+- Craft (visual arts) (Int)
+- Drive (Dex)
+- Jump (Str)
+- Knowledge (current events) (Int)
+- Knowledge (streetwise) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Speak Language (none)
+- Spot (Wis)
+- Swim (Str)
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
@@ -70,12 +73,12 @@ threats while also gaining a few select benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-| Task            | DC          |
+| Task | DC |
 |-----------------|-------------|
-| Resist fear     | 15          |
-| Memorize        | 15          |
+| Resist fear | 15 |
+| Memorize | 15 |
 | Tolerate poison | Poison’s DC |
-| Willpower       | 20          |
+| Willpower | 20 |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -106,7 +109,7 @@ per round. You can’t try again to tolerate poison. You can’t try again
 in the same round for willpower.
 
 **Special:** You can take 10 on Autohypnosis checks, but you can’t take
-20.
+20\.
 
 Most uses of Autohypnosis are attack actions. Willpower is a free action
 that can be attempted once per round.
@@ -161,19 +164,19 @@ latent powers, as indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Battle Mind’s key ability modifier.
 
-| Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— |       |       |       |       |
+| Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | |
 |-------------------|---------|--------------------------------------|-------|-------|-------|-------|
-|                   |         | **0**                                | **1** | **2** | **3** | **4** |
-| 1st               | 2       | 2                                    | —     | —     | —     | —     |
-| 2nd               | 3       | 3                                    | —     | —     | —     | —     |
-| 3rd               | 4       | 3                                    | 1     | —     | —     | —     |
-| 4th               | 5       | 3                                    | 2     | —     | —     | —     |
-| 5th               | 8       | 3                                    | 3     | 1     | —     | —     |
-| 6th               | 11      | 3                                    | 3     | 2     | —     | —     |
-| 7th               | 16      | 3                                    | 3     | 2     | 1     | —     |
-| 8th               | 21      | 3                                    | 3     | 3     | 1     | —     |
-| 9th               | 26      | 3                                    | 3     | 3     | 2     | —     |
-| 10th              | 33      | 3                                    | 3     | 3     | 2     | 1     |
+| | | **0** | **1** | **2** | **3** | **4** |
+| 1st | 2 | 2 | — | — | — | — |
+| 2nd | 3 | 3 | — | — | — | — |
+| 3rd | 4 | 3 | 1 | — | — | — |
+| 4th | 5 | 3 | 2 | — | — | — |
+| 5th | 8 | 3 | 3 | 1 | — | — |
+| 6th | 11 | 3 | 3 | 2 | — | — |
+| 7th | 16 | 3 | 3 | 2 | 1 | — |
+| 8th | 21 | 3 | 3 | 3 | 1 | — |
+| 9th | 26 | 3 | 3 | 3 | 2 | — |
+| 10th | 33 | 3 | 3 | 3 | 2 | 1 |
 
 A Battle Mind can manifest a certain number of powers per day based on
 her available power points. She just pays the power point cost of a
@@ -222,18 +225,18 @@ At 3rd, 6th, and 9th level, the Battle Mind gets a bonus feat. The bonus
 feat must be selected from the following list, and the Battle Mind must
 meet all the prerequisites of the feat to select it.
 
- - Archaic Weapons Proficiency
- - Athletic
- - Blind-Fight
- - Cleave
- - Combat Martial Arts
- - Combat Reflexes
- - Exotic Melee Weapon Proficiency
- - Focused
- - Improved Combat Martial Arts
- - Power Attack
- - Weapon Finesse
- - Weapon Focus
+- Archaic Weapons Proficiency
+- Athletic
+- Blind-Fight
+- Cleave
+- Combat Martial Arts
+- Combat Reflexes
+- Exotic Melee Weapon Proficiency
+- Focused
+- Improved Combat Martial Arts
+- Power Attack
+- Weapon Finesse
+- Weapon Focus
 
 ### Psychic Shield
 

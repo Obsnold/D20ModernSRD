@@ -1,17 +1,17 @@
 # Fireball
 
-| Stat             | Value                         |
+| Stat | Value |
 |------------------|-------------------------------|
-| School           | Evocation                     |
-| Descriptors      | Fire                          |
-| Level            | Mage 3                        |
-| Components       | V, S, M                       |
-| Casting Time     | Attack action                 |
-| Range            | Long (400 ft. + 40 ft./level) |
-| Area             | 20-ft.-radius spread          |
-| Duration         | Instantaneous                 |
-| Saving Throw     | Reflex half                   |
-| Spell Resistance | Yes                           |
+| School | Evocation |
+| Descriptors | Fire |
+| Level | Mage 3 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Area | 20-ft.-radius spread |
+| Duration | Instantaneous |
+| Saving Throw | Reflex half |
+| Spell Resistance | Yes |
 
 A fireball spell detonates with a low roar and deals 1d6 points of fire
 damage per caster level (maximum 10d6) to all creatures within the area.

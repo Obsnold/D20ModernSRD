@@ -1,4 +1,3 @@
-
 # DEFENSE
 
 Defense represents how hard it is for opponents to land a solid,
@@ -47,17 +46,17 @@ Table below.
 
 **Table: Size Modifiers**
 
-| Size          | Size Modifier |
+| Size | Size Modifier |
 |---------------|---------------|
-| *Colossal*    | *–8*          |
-| *Gargantuan*  | *–4*          |
-| *Huge *       | *–2*          |
-| *Large *      | *–1*          |
-| *Medium-size* | *+0*          |
-| *Small*       | *+1*          |
-| *Tiny *       | *+2*          |
-| *Diminutive * | *+4*          |
-| *Fine *       | *+8*          |
+| *Colossal* | *–8* |
+| *Gargantuan* | *–4* |
+| \*Huge * | *–2* |
+| \*Large * | *–1* |
+| *Medium-size* | *+0* |
+| *Small* | *+1* |
+| \*Tiny * | *+2* |
+| \*Diminutive * | *+4* |
+| \*Fine * | *+8* |
 
 ## Other Modifiers
 

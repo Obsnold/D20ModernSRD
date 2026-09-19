@@ -1,4 +1,3 @@
-
 # ALLEGIANCES
 
 The allegiances system is optional.

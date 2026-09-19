@@ -1,17 +1,17 @@
 # NEGOTIATOR
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
-| 1st         | +0                | +1        | +0       | +2        | Conceal motive              | +0            | +1               |
-| 2nd         | +1                | +2        | +0       | +3        | React first                 | +1            | +1               |
-| 3rd         | +2                | +2        | +1       | +3        | Bonus feat                  | +1            | +1               |
-| 4th         | +3                | +2        | +1       | +4        | Talk down one opponent      | +1            | +2               |
-| 5th         | +3                | +3        | +1       | +4        | No sweat                    | +2            | +2               |
-| 6th         | +4                | +3        | +2       | +5        | Bonus feat                  | +2            | +2               |
-| 7th         | +5                | +4        | +2       | +5        | Talk down several opponents | +2            | +3               |
-| 8th         | +6                | +4        | +2       | +6        | Sow distrust                | +3            | +3               |
-| 9th         | +6                | +4        | +3       | +6        | Bonus feat                  | +3            | +3               |
-| 10th        | +7                | +5        | +3       | +7        | Talk down all opponents     | +3            | +4               |
+| 1st | +0 | +1 | +0 | +2 | Conceal motive | +0 | +1 |
+| 2nd | +1 | +2 | +0 | +3 | React first | +1 | +1 |
+| 3rd | +2 | +2 | +1 | +3 | Bonus feat | +1 | +1 |
+| 4th | +3 | +2 | +1 | +4 | Talk down one opponent | +1 | +2 |
+| 5th | +3 | +3 | +1 | +4 | No sweat | +2 | +2 |
+| 6th | +4 | +3 | +2 | +5 | Bonus feat | +2 | +2 |
+| 7th | +5 | +4 | +2 | +5 | Talk down several opponents | +2 | +3 |
+| 8th | +6 | +4 | +2 | +6 | Sow distrust | +3 | +3 |
+| 9th | +6 | +4 | +3 | +6 | Bonus feat | +3 | +3 |
+| 10th | +7 | +5 | +3 | +7 | Talk down all opponents | +3 | +4 |
 
 ## Requirements
 
@@ -23,34 +23,37 @@ following criteria.
 **Feat:** Alertness.
 
 ## Hit Die
+
 1d8
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the Negotiator
 attains a new level in this class.
 
 ## Class Skills
+
 The Negotiator’s class skills (and the key ability for each skill) are:
 
- - Bluff (Cha)
- - Computer Use (Int)
- - Diplomacy (Cha)
- - Drive (Dex)
- - Gamble (Wis)
- - Gather Information (Cha)
- - Intimidate (Cha)
- - Investigate (Int)
- - Knowledge (behavioral sciences) (Int)
- - Knowledge (business) (Int)
- - Knowledge (civics) (Int)
- - Knowledge (current events) (Int)
- - Knowledge (popular culture) (Int)
- - Knowledge (streetwise) (Int)
- - Profession (Wis)
- - Read/Write Language (none)
- - Sense Motive (Wis)
- - Speak Language (none)
- - Spot (Wis)
+- Bluff (Cha)
+- Computer Use (Int)
+- Diplomacy (Cha)
+- Drive (Dex)
+- Gamble (Wis)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Investigate (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (business) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Spot (Wis)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -80,18 +83,18 @@ At 3rd, 6th, and 9th level, the Negotiator gets a bonus feat. The bonus
 feat must be selected from the following list, and the Negotiator must
 meet all the prerequisites of the feat to select it.
 
- - Advanced Firearms Proficiency
- - Armor Proficiency (light)
- - Armor Proficiency (medium)
- - Attentive
- - Confident
- - Dead Aim
- - Deceptive
- - Educated
- - Far Shot
- - Iron Will
- - Personal Firearms Proficiency
- - Trustworthy
+- Advanced Firearms Proficiency
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Attentive
+- Confident
+- Dead Aim
+- Deceptive
+- Educated
+- Far Shot
+- Iron Will
+- Personal Firearms Proficiency
+- Trustworthy
 
 ### Talk Down
 

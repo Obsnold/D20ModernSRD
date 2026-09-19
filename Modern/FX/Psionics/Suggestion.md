@@ -1,18 +1,18 @@
 # Suggestion
 
-| Stat               | Value                                          |
+| Stat | Value |
 |--------------------|------------------------------------------------|
-| Key Ability        | Charisma                                       |
-| Descriptors        | Compulsion, Mind-Affecting, Language-Dependent |
-| Level              | Telepath 2                                     |
-| Display            | Audible                                        |
-| Manifestation Time | Attack action                                  |
-| Range              | Close (25 ft. + 5 ft./2 levels)                |
-| Target             | One living creature                            |
-| Duration           | 1 hour/level or until completed                |
-| Saving Throw       | Will negates                                   |
-| Power Resistance   | Yes                                            |
-| Power Point Cost   | 3                                              |
+| Key Ability | Charisma |
+| Descriptors | Compulsion, Mind-Affecting, Language-Dependent |
+| Level | Telepath 2 |
+| Display | Audible |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One living creature |
+| Duration | 1 hour/level or until completed |
+| Saving Throw | Will negates |
+| Power Resistance | Yes |
+| Power Point Cost | 3 |
 
 The manifester influences the actions of the target by suggesting a
 course of action (limited to a sentence or two). The suggestion must be

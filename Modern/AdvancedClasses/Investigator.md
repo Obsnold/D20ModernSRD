@@ -1,17 +1,17 @@
 # INVESTIGATOR
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
-| 1st         | +0                | +0        | +1       | +1        | Profile             | +1            | +1               |
-| 2nd         | +1                | +0        | +2       | +2        | Contact, low-level  | +1            | +1               |
-| 3rd         | +2                | +1        | +2       | +2        | Bonus feat          | +2            | +1               |
-| 4th         | +3                | +1        | +2       | +2        | Nonlethal force     | +2            | +2               |
-| 5th         | +3                | +1        | +3       | +3        | Contact, mid-level  | +3            | +2               |
-| 6th         | +4                | +2        | +3       | +3        | Bonus feat          | +3            | +2               |
-| 7th         | +5                | +2        | +4       | +4        | Discern lie         | +4            | +3               |
-| 8th         | +6                | +2        | +4       | +4        | Contact, high-level | +4            | +3               |
-| 9th         | +6                | +3        | +4       | +4        | Bonus feat          | +5            | +3               |
-| 10th        | +7                | +3        | +5       | +5        | Sixth sense         | +5            | +4               |
+| 1st | +0 | +0 | +1 | +1 | Profile | +1 | +1 |
+| 2nd | +1 | +0 | +2 | +2 | Contact, low-level | +1 | +1 |
+| 3rd | +2 | +1 | +2 | +2 | Bonus feat | +2 | +1 |
+| 4th | +3 | +1 | +2 | +2 | Nonlethal force | +2 | +2 |
+| 5th | +3 | +1 | +3 | +3 | Contact, mid-level | +3 | +2 |
+| 6th | +4 | +2 | +3 | +3 | Bonus feat | +3 | +2 |
+| 7th | +5 | +2 | +4 | +4 | Discern lie | +4 | +3 |
+| 8th | +6 | +2 | +4 | +4 | Contact, high-level | +4 | +3 |
+| 9th | +6 | +3 | +4 | +4 | Bonus feat | +5 | +3 |
+| 10th | +7 | +3 | +5 | +5 | Sixth sense | +5 | +4 |
 
 ## Requirements
 
@@ -23,36 +23,39 @@ following criteria.
 **Skills:** Investigate 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
 
 ## Hit Die
+
 1d6
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the Investigator
 attains a new level in this class.
 
 ## Class Skills
+
 The Investigator’s class skills (and the key ability for each skill)
 are:
 
- - Bluff (Cha)
- - Computer Use (Int)
- - Disable Device (Int)
- - Drive (Dex)
- - Forgery (Int)
- - Gather Information (Cha)
- - Intimidate (Cha)
- - Investigate (Int)
- - Knowledge (behavioral sciences) (Int)
- - Knowledge (civics) (Int)
- - Knowledge (current events) (Int)
- - Knowledge (streetwise) (Int)
- - Listen (Wis)
- - Profession (Wis)
- - Read/Write Language (none)
- - Research (Int)
- - Search (Int)
- - Sense Motive (Wis)
- - Speak Language (none)
- - Spot (Wis)
+- Bluff (Cha)
+- Computer Use (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Forgery (Int)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Investigate (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (streetwise) (Int)
+- Listen (Wis)
+- Profession (Wis)
+- Read/Write Language (none)
+- Research (Int)
+- Search (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Spot (Wis)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -113,17 +116,17 @@ At 3rd, 6th, and 9th level, the Investigator gets a bonus feat. The
 bonus feat must be selected from the following list, and the
 Investigator must meet all the prerequisites of the feat to select it.
 
- - Advanced Firearms Proficiency
- - Armor Proficiency (light)
- - Armor Proficiency (medium)
- - Brawl
- - Defensive Martial Arts
- - Dodge
- - Double Tap
- - Educated
- - Knockout Punch
- - Personal Firearms Proficiency
- - Point Blank Shot
+- Advanced Firearms Proficiency
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Brawl
+- Defensive Martial Arts
+- Dodge
+- Double Tap
+- Educated
+- Knockout Punch
+- Personal Firearms Proficiency
+- Point Blank Shot
 
 ### Nonlethal Force
 

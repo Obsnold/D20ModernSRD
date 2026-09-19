@@ -1,16 +1,16 @@
 # Dispel Magic
 
-| Stat             | Value                                                        |
+| Stat | Value |
 |------------------|--------------------------------------------------------------|
-| School           | Abjuration                                                   |
-| Level            | Acolyte 3, Mage 3                                            |
-| Components       | V, S                                                         |
-| Casting Time     | Attack action                                                |
-| Range            | Medium (100 ft. + 10 ft./level)                              |
-| Target or Area   | One spellcaster, creature, or object; or 30-ft.-radius burst |
-| Duration         | Instantaneous                                                |
-| Saving Throw     | None                                                         |
-| Spell Resistance | No                                                           |
+| School | Abjuration |
+| Level | Acolyte 3, Mage 3 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target or Area | One spellcaster, creature, or object; or 30-ft.-radius burst |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 A caster can use dispel magic to end ongoing spells that have been cast
 on a creature or object, to temporarily suppress the magical abilities

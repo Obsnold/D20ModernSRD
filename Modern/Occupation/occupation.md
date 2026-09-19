@@ -1,4 +1,3 @@
-
 # STARTING OCCUPATION
 
 A hero may hold other jobs as his or her career unfolds, but the
@@ -23,22 +22,22 @@ benefits to the character as noted in the occupation’s description.
 
 ## Starting Occupations
 
- - [Academic](Academic.md)
- - [Adventurer](Adventurer.md)
- - [Athlete](Athlete.md)
- - [Blue Collar](BlueCollar.md)
- - [Celebrity](Celebrity.md)
- - [Creative](Creative.md)
- - [Criminal](Criminal.md)
- - [Dilettante](Dilettante.md)
- - [Doctor](Doctor.md)
- - [Emergency Services](EmergencyServices.md)
- - [Entrepreneur](Entrepreneur.md)
- - [Investigative](Investigative.md)
- - [Law Enforcement](LawEnforcement.md)
- - [Military](Military.md)
- - [Religious](Religious.md)
- - [Rural](Rural.md)
- - [Student](Student.md)
- - [Technician](Technician.md)
- - [White Collar](WhiteCollar.md)
+- [Academic](Academic.md)
+- [Adventurer](Adventurer.md)
+- [Athlete](Athlete.md)
+- [Blue Collar](BlueCollar.md)
+- [Celebrity](Celebrity.md)
+- [Creative](Creative.md)
+- [Criminal](Criminal.md)
+- [Dilettante](Dilettante.md)
+- [Doctor](Doctor.md)
+- [Emergency Services](EmergencyServices.md)
+- [Entrepreneur](Entrepreneur.md)
+- [Investigative](Investigative.md)
+- [Law Enforcement](LawEnforcement.md)
+- [Military](Military.md)
+- [Religious](Religious.md)
+- [Rural](Rural.md)
+- [Student](Student.md)
+- [Technician](Technician.md)
+- [White Collar](WhiteCollar.md)

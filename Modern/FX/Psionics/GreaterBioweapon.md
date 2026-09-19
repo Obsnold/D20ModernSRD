@@ -1,15 +1,15 @@
 # Greater Bioweapon
 
-| Stat               | Value                    |
+| Stat | Value |
 |--------------------|--------------------------|
-| Key Ability        | Strength                 |
-| Level              | Battle Mind 4            |
-| Display            | Visual, Material         |
-| Manifestation Time | Attack action            |
-| Range              | Personal                 |
-| Target             | You                      |
-| Duration           | 4 rounds + 1 round/level |
-| Power Point Cost   | 7                        |
+| Key Ability | Strength |
+| Level | Battle Mind 4 |
+| Display | Visual, Material |
+| Manifestation Time | Attack action |
+| Range | Personal |
+| Target | You |
+| Duration | 4 rounds + 1 round/level |
+| Power Point Cost | 7 |
 
 The manifester generates a shaft of biokinetic energy that can be used
 as a melee weapon. It deals 2d8 points of bludgeoning damage on a

@@ -1,17 +1,17 @@
 # FIELD SCIENTIST
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
-| 1st         | +0                | +1        | +1       | +0        | Smart defense            | +0            | +0               |
-| 2nd         | +1                | +2        | +2       | +0        | Scientific improvisation | +1            | +0               |
-| 3rd         | +1                | +2        | +2       | +1        | Bonus feat               | +1            | +1               |
-| 4th         | +2                | +2        | +2       | +1        | Skill mastery            | +1            | +1               |
-| 5th         | +2                | +3        | +3       | +1        | Minor breakthrough       | +2            | +1               |
-| 6th         | +3                | +3        | +3       | +2        | Bonus feat               | +2            | +2               |
-| 7th         | +3                | +4        | +4       | +2        | Smart survival           | +2            | +2               |
-| 8th         | +4                | +4        | +4       | +2        | Smart weapon             | +3            | +2               |
-| 9th         | +4                | +4        | +4       | +3        | Bonus feat               | +3            | +3               |
-| 10th        | +5                | +5        | +5       | +3        | Major breakthrough       | +3            | +3               |
+| 1st | +0 | +1 | +1 | +0 | Smart defense | +0 | +0 |
+| 2nd | +1 | +2 | +2 | +0 | Scientific improvisation | +1 | +0 |
+| 3rd | +1 | +2 | +2 | +1 | Bonus feat | +1 | +1 |
+| 4th | +2 | +2 | +2 | +1 | Skill mastery | +1 | +1 |
+| 5th | +2 | +3 | +3 | +1 | Minor breakthrough | +2 | +1 |
+| 6th | +3 | +3 | +3 | +2 | Bonus feat | +2 | +2 |
+| 7th | +3 | +4 | +4 | +2 | Smart survival | +2 | +2 |
+| 8th | +4 | +4 | +4 | +2 | Smart weapon | +3 | +2 |
+| 9th | +4 | +4 | +4 | +3 | Bonus feat | +3 | +3 |
+| 10th | +5 | +5 | +5 | +3 | Major breakthrough | +3 | +3 |
 
 ## Requirements
 
@@ -23,37 +23,40 @@ plus 6 ranks in Knowledge (earth and life sciences), Knowledge (physical
 sciences), or Knowledge (technology), plus 6 ranks in Research.
 
 ## Hit Die
+
 1d8
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the Field
 Scientist attains a new level in this class.
 
 ## Class Skills
+
 The Field Scientist’s class skills (and the key ability for each skill)
 are:
 
- - Computer Use (Int)
- - Craft (chemical) (Int)
- - Craft (electronic) (Int)
- - Craft (mechanical) (Int)
- - Craft (pharmaceutical) (Int)
- - Decipher Script (Int)
- - Demolitions (Int)
- - Disable Device (Int)
- - Drive (Dex)
- - Investigate (Int)
- - Knowledge (behavioral sciences) (Int)
- - Knowledge (earth and life sciences) (Int)
- - Knowledge (physical sciences) (Int)
- - Knowledge (technology) (Int)
- - Navigate (Int)
- - Pilot (Dex)
- - Profession (Wis)
- - Read/Write Language (none)
- - Research (Int)
- - Search (Int)
- - Speak Language (none)
+- Computer Use (Int)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Decipher Script (Int)
+- Demolitions (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Investigate (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (technology) (Int)
+- Navigate (Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Read/Write Language (none)
+- Research (Int)
+- Search (Int)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
@@ -96,16 +99,16 @@ At 3rd, 6th, and 9th level, the Field Scientist gets a bonus feat. The
 bonus feat must be selected from the following list, and the Field
 Scientist must meet all the prerequisites of the feat to select it.
 
- - Archaic Weapons Proficiency
- - Attentive
- - Cautious
- - Combat Expertise
- - Educated
- - Gearhead
- - Personal Firearms Proficiency
- - Point Blank Shot
- - Renown
- - Studious
+- Archaic Weapons Proficiency
+- Attentive
+- Cautious
+- Combat Expertise
+- Educated
+- Gearhead
+- Personal Firearms Proficiency
+- Point Blank Shot
+- Renown
+- Studious
 
 ### Skill Mastery
 

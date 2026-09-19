@@ -1,10 +1,10 @@
 # Forgery
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 
@@ -15,20 +15,20 @@ character’s degree of familiarity with it, and whether the character
 needs to reproduce the signature or handwriting of a specific
 individual, provide modifiers to the Forgery check, as shown below.
 
-| Factor                                           | Check Modifier | Time    |
+| Factor | Check Modifier | Time |
 |--------------------------------------------------|----------------|---------|
-| **Document Type**                                |                |         |
-| Simple (typed letter, business card)             | +0             | 10 min. |
-| Moderate (letterhead, business form)             | –2             | 20 min. |
-| Complex (stock certificate, driver’s license)    | –4             | 1 hr.   |
-| Difficult (passport)                             | –8             | 4 hr.   |
-| Extreme (military/law enforcement ID)            | –16            | 24 hr.  |
-| **Familiarity**                                  |                |         |
-| Unfamiliar (seen once for less than a minute)    | –4             |         |
-| Fairly familiar (seen for several minutes)       | +0             |         |
-| Quite familiar (on hand, or studied at leisure)  | +4             |         |
-| Forger has produced other documents of same type | +4             |         |
-| Document includes specific signature             | –4             |         |
+| **Document Type** | | |
+| Simple (typed letter, business card) | +0 | 10 min. |
+| Moderate (letterhead, business form) | –2 | 20 min. |
+| Complex (stock certificate, driver’s license) | –4 | 1 hr. |
+| Difficult (passport) | –8 | 4 hr. |
+| Extreme (military/law enforcement ID) | –16 | 24 hr. |
+| **Familiarity** | | |
+| Unfamiliar (seen once for less than a minute) | –4 | |
+| Fairly familiar (seen for several minutes) | +0 | |
+| Quite familiar (on hand, or studied at leisure) | +4 | |
+| Forger has produced other documents of same type | +4 | |
+| Document includes specific signature | –4 | |
 
 Some documents require security or authorization codes, whether
 authentic ones or additional forgeries. The GM makes the character’s
@@ -43,13 +43,13 @@ higher than the original Forgery check, the document is determined to be
 fraudulent. The examiner gains bonuses or penalties on his or her check
 as given in the table below.
 
-| Condition                                                | Examiner’s Check Modifier |
+| Condition | Examiner’s Check Modifier |
 |----------------------------------------------------------|---------------------------|
-| Type of document unknown to examiner                     | –4                        |
-| Type of document somewhat known to examiner              | –2                        |
-| Type of document well known to examiner                  | +0                        |
-| Document is put through additional tests <sup>1</sup>    | +4                        |
-| Examiner only casually reviews the document <sup>1</sup> | –2                        |
+| Type of document unknown to examiner | –4 |
+| Type of document somewhat known to examiner | –2 |
+| Type of document well known to examiner | +0 |
+| Document is put through additional tests <sup>1</sup> | +4 |
+| Examiner only casually reviews the document <sup>1</sup> | –2 |
 
 1Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
 

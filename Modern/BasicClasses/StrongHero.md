@@ -2,29 +2,33 @@
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|----------------|---------------|------------------|
-| 1st         | +1                | +1        | +0       | +0        | Talent         | +1            | +0               |
-| 2nd         | +2                | +2        | +0       | +0        | Bonus feat     | +2            | +0               |
-| 3rd         | +3                | +2        | +1       | +1        | Talent         | +2            | +0               |
-| 4th         | +4                | +2        | +1       | +1        | Bonus feat     | +3            | +0               |
-| 5th         | +5                | +3        | +1       | +1        | Talent         | +3            | +1               |
-| 6th         | +6/+1             | +3        | +2       | +2        | Bonus feat     | +3            | +1               |
-| 7th         | +7/+2             | +4        | +2       | +2        | Talent         | +4            | +1               |
-| 8th         | +8/+3             | +4        | +2       | +2        | Bonus feat     | +4            | +1               |
-| 9th         | +9/+4             | +4        | +3       | +3        | Talent         | +5            | +2               |
-| 10th        | +10/+5            | +5        | +3       | +3        | Bonus feat     | +5            | +2               |
+| 1st | +1 | +1 | +0 | +0 | Talent | +1 | +0 |
+| 2nd | +2 | +2 | +0 | +0 | Bonus feat | +2 | +0 |
+| 3rd | +3 | +2 | +1 | +1 | Talent | +2 | +0 |
+| 4th | +4 | +2 | +1 | +1 | Bonus feat | +3 | +0 |
+| 5th | +5 | +3 | +1 | +1 | Talent | +3 | +1 |
+| 6th | +6/+1 | +3 | +2 | +2 | Bonus feat | +3 | +1 |
+| 7th | +7/+2 | +4 | +2 | +2 | Talent | +4 | +1 |
+| 8th | +8/+3 | +4 | +2 | +2 | Bonus feat | +4 | +1 |
+| 9th | +9/+4 | +4 | +3 | +3 | Talent | +5 | +2 |
+| 10th | +10/+5 | +5 | +3 | +3 | Bonus feat | +5 | +2 |
 
 ## Ability
+
 Strength
 
 ## Hit Die
+
 1d8
 
 ## Action Points
+
 Strong heroes gain a number of action points equal to
 5 + one-half their character level, rounded down, at 1st level and every
 time they attain a new level in this class.
 
 ## Class Skills
+
 The Strong hero’s class skills (and the key ability
 for each skill) are:
 
@@ -74,10 +78,12 @@ effort must relate either to a Strength check or a Strength-based skill
 check. You must decide to use this ability before making the check.
 
 ##### Extreme Effort
+
 The effort requires a full-round action and provides
 a +2 bonus on the check.
 
 ##### Improved Extreme Effort
+
 The effort requires a full-round action and
 provides a +2 bonus that stacks with the bonus provided by extreme
 effort (+4 total).
@@ -85,6 +91,7 @@ effort (+4 total).
 **Prerequisite:** Extreme effort.
 
 ##### Advanced Extreme Effort
+
 The effort requires a full-round action and
 provides a +2 bonus that stacks with the bonuses provided by extreme
 effort and improved extreme effort (+6 total).
@@ -98,16 +105,19 @@ This allows a Strong hero to ignore some of an object’s hardness when
 making a melee attack to break it.
 
 ##### Ignore Hardness
+
 The Strong hero ignores 2 points of an object’s
 hardness.
 
 ##### Improved Ignore Hardness
+
 The Strong hero ignores 2 additional
 points of an object’s hardness (for a total of 4).
 
 **Prerequisite:** Ignore hardness.
 
 ##### Advanced Ignore Hardness
+
 The Strong hero ignores 2 additional
 points of an object’s hardness (for a total of 6).
 
@@ -118,15 +128,18 @@ points of an object’s hardness (for a total of 6).
 The Strong hero has an innate talent that increases melee damage.
 
 ##### Melee Smash
+
 The Strong hero receives a +1 bonus on melee damage.
 
 ##### Improved Melee Smash
+
 The Strong hero receives an additional +1
 bonus on melee damage (+2 total).
 
 **Prerequisite:** Melee smash.
 
 ##### Advanced Melee Smash
+
 The Strong hero receives an additional +1
 bonus on melee damage (+3 total).
 
@@ -138,17 +151,17 @@ At 2nd, 4th, 6th, 8th, and 10th level, the Strong hero gains a bonus
 feat. This feat must be selected from the following list, and the Strong
 hero must meet any prerequisites.
 
- - Animal Affinity
- - Archaic Weapons Proficiency
- - Athletic
- - Blind-Fight
- - Brawl
- - Cleave
- - Combat Martial Arts
- - Combat Reflexes
- - Great Cleave
- - Improved Brawl
- - Improved Combat Martial Arts
- - Power Attack
- - Weapon
- - Focus
+- Animal Affinity
+- Archaic Weapons Proficiency
+- Athletic
+- Blind-Fight
+- Brawl
+- Cleave
+- Combat Martial Arts
+- Combat Reflexes
+- Great Cleave
+- Improved Brawl
+- Improved Combat Martial Arts
+- Power Attack
+- Weapon
+- Focus

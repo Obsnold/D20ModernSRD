@@ -37,10 +37,10 @@ item on the black market.
 
 ## Equipment Descriptions
 
- - [Bags and Boxes](BagsAndBoxes.md)
- - [Clothing](Clothing.md)
- - [Computers and Consumer Electronics](ComputersAndConsumerElectronics.md)
- - [Surveillance Gear](SurveillanceGear.md)
- - [Professional Equipment](ProfessionalEquipment.md)
- - [Survival Gear](SurvivalGear.md)
- - [Weapon Accessories](WeaponAccessories.md)
+- [Bags and Boxes](BagsAndBoxes.md)
+- [Clothing](Clothing.md)
+- [Computers and Consumer Electronics](ComputersAndConsumerElectronics.md)
+- [Surveillance Gear](SurveillanceGear.md)
+- [Professional Equipment](ProfessionalEquipment.md)
+- [Survival Gear](SurvivalGear.md)
+- [Weapon Accessories](WeaponAccessories.md)

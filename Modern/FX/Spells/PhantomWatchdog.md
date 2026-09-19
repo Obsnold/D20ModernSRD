@@ -1,17 +1,17 @@
 # Phantom Watchdog
 
-| Stat             | Value                                                              |
+| Stat | Value |
 |------------------|--------------------------------------------------------------------|
-| School           | Conjuration                                                        |
-| Subschool        | Creation                                                           |
-| Level            | Mage 5                                                             |
-| Components       | V, S, M                                                            |
-| Casting Time     | Attack action                                                      |
-| Range            | Close (25 ft. + 5 ft./2 levels)                                    |
-| Effect           | Phantom watchdog                                                   |
-| Duration         | 1 hour/caster level or until discharged, then 1 round/caster level |
-| Saving Throw     | None                                                               |
-| Spell Resistance | No                                                                 |
+| School | Conjuration |
+| Subschool | Creation |
+| Level | Mage 5 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Effect | Phantom watchdog |
+| Duration | 1 hour/caster level or until discharged, then 1 round/caster level |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The caster conjures up a spectral watchdog that is invisible to everyone
 but the caster. It then guards the area where it was conjured. The

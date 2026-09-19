@@ -1,16 +1,16 @@
 # Arcane Eye
 
-| Stat             | Value              |
+| Stat | Value |
 |------------------|--------------------|
-| School           | Divination         |
-| Level            | Mage 4             |
-| Components       | V, S, M            |
-| Casting Time     | 10 minutes         |
-| Range            | Unlimited          |
-| Effect           | Magical sensor     |
-| Duration         | 1 minute/level (D) |
-| Saving Throw     | None               |
-| Spell Resistance | No                 |
+| School | Divination |
+| Level | Mage 4 |
+| Components | V, S, M |
+| Casting Time | 10 minutes |
+| Range | Unlimited |
+| Effect | Magical sensor |
+| Duration | 1 minute/level (D) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The caster creates an invisible magical sensor that sends him or her
 visual information. The caster can create the arcane eye at any point he

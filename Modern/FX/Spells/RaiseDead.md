@@ -1,17 +1,17 @@
 # Raise Dead
 
-| Stat             | Value                 |
+| Stat | Value |
 |------------------|-----------------------|
-| School           | Conjuration           |
-| Subschool        | Healing               |
-| Level            | Acolyte 5             |
-| Components       | V, S, M, DF           |
-| Casting Time     | 1 minute              |
-| Range            | Touch                 |
-| Target           | Dead creature touched |
-| Duration         | Instantaneous         |
-| Saving Throw     | None (see text)       |
-| Spell Resistance | Yes (harmless)        |
+| School | Conjuration |
+| Subschool | Healing |
+| Level | Acolyte 5 |
+| Components | V, S, M, DF |
+| Casting Time | 1 minute |
+| Range | Touch |
+| Target | Dead creature touched |
+| Duration | Instantaneous |
+| Saving Throw | None (see text) |
+| Spell Resistance | Yes (harmless) |
 
 The divine spellcaster restores life to a deceased creature. The caster
 can raise creatures who have been dead up to one day per caster level.

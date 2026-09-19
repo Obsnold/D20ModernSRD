@@ -1,16 +1,16 @@
 # Feather Fall
 
-| Stat             | Value                                                                                                        |
+| Stat | Value |
 |------------------|--------------------------------------------------------------------------------------------------------------|
-| School           | Transmutation                                                                                                |
-| Level            | Mage 1                                                                                                       |
-| Components       | V                                                                                                            |
-| Casting Time     | See text                                                                                                     |
-| Range            | Close (25 ft. + 5 ft./2 levels)                                                                              |
-| Targets          | Any free-falling objects or creatures in a 10-ft. radius whose weight does not total more than 300 lb./level |
-| Duration         | Until landing or 1 round/level                                                                               |
-| Saving Throw     | Will negates (harmless) or Will negates (object)                                                             |
-| Spell Resistance | Yes (object)                                                                                                 |
+| School | Transmutation |
+| Level | Mage 1 |
+| Components | V |
+| Casting Time | See text |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Targets | Any free-falling objects or creatures in a 10-ft. radius whose weight does not total more than 300 lb./level |
+| Duration | Until landing or 1 round/level |
+| Saving Throw | Will negates (harmless) or Will negates (object) |
+| Spell Resistance | Yes (object) |
 
 The creatures or objects affected fall slowly. The rate of falling is
 instantly changed to a mere 60 feet per round, with no damage incurred

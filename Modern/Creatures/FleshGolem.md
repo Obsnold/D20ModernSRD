@@ -35,39 +35,39 @@ sonic/concussion, piercing, or slashing).
 
 ## Flesh Golem
 
-| Stat              | Value                                                      |
+| Stat | Value |
 |-------------------|------------------------------------------------------------|
-| CR                | 7                                                          |
-| Size              | Large                                                      |
-| Type              | construct                                                  |
-| HD                | 9d10+20                                                    |
-| hp                | 69                                                         |
-| Mas               | —                                                          |
-| Init              | –1                                                         |
-| Spd               | 30 ft. (can’t run)                                         |
-| Defense           | 18                                                         |
-| Touch             | 8                                                          |
-| Flat-Footed       | 18                                                         |
-| Defense Breakdown | –1 size, –1 Dex, +10 natural                               |
-| BAB               | +6                                                         |
-| Grap              | +15                                                        |
-| Atk               | +10 melee (2d8+5, slam)                                    |
-| Full Atk          | +10 melee (2d8+5, 2 slams), or +4 ranged                   |
-| FS                | 10 ft. by 10 ft.                                           |
-| Reach             | 10 ft.                                                     |
-| SQ                | construct, berserk, magic immunity, damage reduction 15/+1 |
-| AL                | none or owner                                              |
-| Fort              | +3                                                         |
-| Ref               | +2                                                         |
-| Will              | +3                                                         |
-| AP                | 0                                                          |
-| Rep               | +0                                                         |
-| Str               | 21                                                         |
-| Dex               | 9                                                          |
-| Con               | —                                                          |
-| Int               | —                                                          |
-| Wis               | 11                                                         |
-| Cha               | 1                                                          |
+| CR | 7 |
+| Size | Large |
+| Type | construct |
+| HD | 9d10+20 |
+| hp | 69 |
+| Mas | — |
+| Init | –1 |
+| Spd | 30 ft. (can’t run) |
+| Defense | 18 |
+| Touch | 8 |
+| Flat-Footed | 18 |
+| Defense Breakdown | –1 size, –1 Dex, +10 natural |
+| BAB | +6 |
+| Grap | +15 |
+| Atk | +10 melee (2d8+5, slam) |
+| Full Atk | +10 melee (2d8+5, 2 slams), or +4 ranged |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | construct, berserk, magic immunity, damage reduction 15/+1 |
+| AL | none or owner |
+| Fort | +3 |
+| Ref | +2 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 21 |
+| Dex | 9 |
+| Con | — |
+| Int | — |
+| Wis | 11 |
+| Cha | 1 |
 
 **Skills:** None.
 
@@ -77,39 +77,39 @@ sonic/concussion, piercing, or slashing).
 
 ## Advanced Flesh Golem
 
-| Stat              | Value                                                      |
+| Stat | Value |
 |-------------------|------------------------------------------------------------|
-| CR                | 13                                                         |
-| Size              | Huge                                                       |
-| Type              | construct                                                  |
-| HD                | 20d10+40                                                   |
-| hp                | 150                                                        |
-| Mas               | —                                                          |
-| Init              | –2                                                         |
-| Spd               | 30 ft. (can’t run)                                         |
-| Defense           | 19                                                         |
-| Touch             | 6                                                          |
-| Flat-Footed       | 19                                                         |
-| Defense Breakdown | –2 size, –2 Dex, +13 natural                               |
-| BAB               | +15                                                        |
-| Grap              | +32                                                        |
-| Atk               | +22 melee (4d6+9, slam)                                    |
-| Full Atk          | +22 melee (4d6+9, 2 slams), or +11 ranged                  |
-| FS                | 15 ft. by 15 ft.                                           |
-| Reach             | 15 ft.                                                     |
-| SQ                | construct, berserk, magic immunity, damage reduction 15/+1 |
-| AL                | none or owner                                              |
-| Fort              | +6                                                         |
-| Ref               | +4                                                         |
-| Will              | +6                                                         |
-| AP                | 0                                                          |
-| Rep               | +0                                                         |
-| Str               | 29                                                         |
-| Dex               | 7                                                          |
-| Con               | —                                                          |
-| Int               | —                                                          |
-| Wis               | 11                                                         |
-| Cha               | 1                                                          |
+| CR | 13 |
+| Size | Huge |
+| Type | construct |
+| HD | 20d10+40 |
+| hp | 150 |
+| Mas | — |
+| Init | –2 |
+| Spd | 30 ft. (can’t run) |
+| Defense | 19 |
+| Touch | 6 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –2 size, –2 Dex, +13 natural |
+| BAB | +15 |
+| Grap | +32 |
+| Atk | +22 melee (4d6+9, slam) |
+| Full Atk | +22 melee (4d6+9, 2 slams), or +11 ranged |
+| FS | 15 ft. by 15 ft. |
+| Reach | 15 ft. |
+| SQ | construct, berserk, magic immunity, damage reduction 15/+1 |
+| AL | none or owner |
+| Fort | +6 |
+| Ref | +4 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 29 |
+| Dex | 7 |
+| Con | — |
+| Int | — |
+| Wis | 11 |
+| Cha | 1 |
 
 **Skills:** None.
 

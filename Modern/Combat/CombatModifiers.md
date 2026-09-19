@@ -14,32 +14,32 @@ as guides.
 
 **Table: Defense Modifiers**
 
-| Circumstance                                                                                                                                       | Melee               | Ranged         |
+| Circumstance | Melee | Ranged |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------|
-| Defender sitting or kneeling                                                                                                                       | –2                  | +2<sup>1</sup> |
-| Defender prone                                                                                                                                     | –4                  | +4<sup>1</sup> |
-| Defender stunned or cowering                                                                                                                       | –2<sup>2</sup>      | –2<sup>2</sup> |
-| Defender climbing                                                                                                                                  | –2<sup>2</sup>      | –2<sup>2</sup> |
-| Defender flat-footed                                                                                                                               | +0<sup>2</sup>      | +0<sup>2</sup> |
-| Defender running                                                                                                                                   | +0<sup>2</sup>      | +2<sup>2</sup> |
-| Defender grappling (attacker not)                                                                                                                  | +0<sup>2</sup>      | +0<sup>3</sup> |
-| Defender pinned                                                                                                                                    | –4<sup>4</sup>      | +0<sup>4</sup> |
-| Defender helpless (such as paralyzed, sleeping, or bound)                                                                                          | +0<sup>2</sup>      | +0<sup>2</sup> |
-| Defender has cover                                                                                                                                 | —–— See Cover —–—   |                |
-| Defender concealed or invisible                                                                                                                    | — See Concealment — |                |
-| **1 Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.** |                     |                |
-| **2 The defender loses any Dexterity bonus to Defense.**                                                                                           |                     |                |
-| **3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.**                    |                     |                |
-| **4 Treat the defender’s Dexterity as 0 (–5 modifier).**                                                                                           |                     |                |
+| Defender sitting or kneeling | –2 | +2<sup>1</sup> |
+| Defender prone | –4 | +4<sup>1</sup> |
+| Defender stunned or cowering | –2<sup>2</sup> | –2<sup>2</sup> |
+| Defender climbing | –2<sup>2</sup> | –2<sup>2</sup> |
+| Defender flat-footed | +0<sup>2</sup> | +0<sup>2</sup> |
+| Defender running | +0<sup>2</sup> | +2<sup>2</sup> |
+| Defender grappling (attacker not) | +0<sup>2</sup> | +0<sup>3</sup> |
+| Defender pinned | –4<sup>4</sup> | +0<sup>4</sup> |
+| Defender helpless (such as paralyzed, sleeping, or bound) | +0<sup>2</sup> | +0<sup>2</sup> |
+| Defender has cover | —–— See Cover —–— | |
+| Defender concealed or invisible | — See Concealment — | |
+| **1 Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.** | | |
+| **2 The defender loses any Dexterity bonus to Defense.** | | |
+| **3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.** | | |
+| **4 Treat the defender’s Dexterity as 0 (–5 modifier).** | | |
 
 **Table: Attack Roll Modifiers**
 
-| Circumstance                           | Melee          | Ranged         |
+| Circumstance | Melee | Ranged |
 |----------------------------------------|----------------|----------------|
-| Attacker flanking defender<sup>1</sup> | +2             | —              |
-| Attacker on higher ground              | +1             | +0             |
-| Attacker prone                         | –4             | –2             |
-| Attacker invisible                     | +2<sup>3</sup> | +2<sup>3</sup> |
+| Attacker flanking defender<sup>1</sup> | +2 | — |
+| Attacker on higher ground | +1 | +0 |
+| Attacker prone | –4 | –2 |
+| Attacker invisible | +2<sup>3</sup> | +2<sup>3</sup> |
 
 1 A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
 2 Some ranged weapons can’t be used while the attacker is prone.
@@ -102,13 +102,13 @@ or her dodge bonus, if the character so desires.
 
 **Table: Cover**
 
-| Degree of Cover (Example)                                                                                      | Cover Bonus to Defense | Reflex Saves    |
+| Degree of Cover (Example) | Cover Bonus to Defense | Reflex Saves |
 |----------------------------------------------------------------------------------------------------------------|------------------------|-----------------|
-| One-quarter (standing behind a 3-ft. high wall)                                                                | +2                     | +1              |
-| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4                     | +2              |
-| Three-quarters (peering around a corner or a big tree)                                                         | +7                     | +3              |
-| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)                                    | +10                    | +4 <sup>1</sup> |
-| Total (on the other side of a solid wall)                                                                      | —                      | —               |
+| One-quarter (standing behind a 3-ft. high wall) | +2 | +1 |
+| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4 | +2 |
+| Three-quarters (peering around a corner or a big tree) | +7 | +3 |
+| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar) | +10 | +4 <sup>1</sup> |
+| Total (on the other side of a solid wall) | — | — |
 
 1 Half damage if save is failed; no damage if successful.
 
@@ -137,12 +137,12 @@ chance. Do not add the miss chances together.
 
 **Table: Concealment**
 
-| Concealment (Example)                                                      | Miss Chance                          |
+| Concealment (Example) | Miss Chance |
 |----------------------------------------------------------------------------|--------------------------------------|
-| One-quarter (light fog; light foliage)                                     | 10%                                  |
-| One-half (shadows; dense fog at 5 ft.)                                     | 20%                                  |
-| Three-quarters (dense foliage)                                             | 30%                                  |
-| Nine-tenths (near total darkness)                                          | 40%                                  |
+| One-quarter (light fog; light foliage) | 10% |
+| One-half (shadows; dense fog at 5 ft.) | 20% |
+| Three-quarters (dense foliage) | 30% |
+| Nine-tenths (near total darkness) | 40% |
 | Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.) | 50% and must guess target’s location |
 
 ## Helpless Defenders

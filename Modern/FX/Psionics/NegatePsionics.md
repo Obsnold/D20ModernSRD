@@ -1,17 +1,17 @@
 # Negate Psionics
 
-| Stat               | Value                                                                    |
+| Stat | Value |
 |--------------------|--------------------------------------------------------------------------|
-| Key Ability        | Constitution                                                             |
-| Level              | Telepath 3/Battle Mind 3                                                 |
-| Display            | Vi                                                                       |
-| Manifestation Time | Attack action                                                            |
-| Range              | Medium (100 ft. + 10 ft./level)                                          |
-| Target or Area     | One psionic character or creature, or one object; or 30-ft.-radius burst |
-| Duration           | Instantaneous                                                            |
-| Saving Throw       | None                                                                     |
-| Power Resistance   | No                                                                       |
-| Power Point Cost   | 5                                                                        |
+| Key Ability | Constitution |
+| Level | Telepath 3/Battle Mind 3 |
+| Display | Vi |
+| Manifestation Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target or Area | One psionic character or creature, or one object; or 30-ft.-radius burst |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 5 |
 
 Negate psionics can be used to end ongoing powers that are manifested on
 a creature or object, to temporarily suppress the psionic abilities of a

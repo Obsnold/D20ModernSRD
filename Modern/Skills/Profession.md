@@ -1,10 +1,10 @@
 # Profession
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Wis   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Wis |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 
@@ -26,11 +26,11 @@ as follows.
 
 | Ranks | Wealth Bonus Increase |
 |-------|-----------------------|
-| 1–5   | +1                    |
-| 6–10  | +2                    |
-| 11–15 | +3                    |
-| 16–20 | +4                    |
-| 21–23 | +5                    |
+| 1–5 | +1 |
+| 6–10 | +2 |
+| 11–15 | +3 |
+| 16–20 | +4 |
+| 21–23 | +5 |
 
 ## Special
 

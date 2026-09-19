@@ -1,10 +1,10 @@
 # Sense Motive
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Wis   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Wis |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 

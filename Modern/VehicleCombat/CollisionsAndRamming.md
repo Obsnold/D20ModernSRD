@@ -13,21 +13,21 @@ size of the two colliding objects and refer to Table: Collision Damage.
 
 **Table: Collision Damage**
 
-| Highest Speed                    | Damage Die Type |
+| Highest Speed | Damage Die Type |
 |----------------------------------|-----------------|
-| Alley speed                      | d2              |
-| Street speed                     | d4              |
-| Highway speed                    | d8              |
-| All-out                          | d12             |
-| Smallest Object or Creature Size | Number of Dice  |
-| Colossal                         | 20              |
-| Gargantuan                       | 16              |
-| Huge                             | 12              |
-| Large                            | 8               |
-| Medium-size                      | 4               |
-| Small                            | 2               |
-| Tiny                             | 1               |
-| Smaller than Tiny                | 0               |
+| Alley speed | d2 |
+| Street speed | d4 |
+| Highway speed | d8 |
+| All-out | d12 |
+| Smallest Object or Creature Size | Number of Dice |
+| Colossal | 20 |
+| Gargantuan | 16 |
+| Huge | 12 |
+| Large | 8 |
+| Medium-size | 4 |
+| Small | 2 |
+| Tiny | 1 |
+| Smaller than Tiny | 0 |
 
 After finding the base damage, determine the collision’s damage
 multiplier based on how the colliding vehicle struck the other vehicle
@@ -45,13 +45,13 @@ the minimum number of squares for its new speed category.
 
 **Table: Collision Direction**
 
-| Colliding Vehicle’s Target                                           | Multiplier |
+| Colliding Vehicle’s Target | Multiplier |
 |----------------------------------------------------------------------|------------|
-| A stationary object                                                  | x 1        |
-| A moving vehicle, striking head-on or 45 degrees from head-on        | x 2        |
-| A moving vehicle, striking perpendicular                             | x 1        |
-| A moving vehicle, striking from the rear or 45 degrees from the rear | x 1/2      |
-| A vehicle being sideswiped (see Sideswipe)                           | x 1/4      |
+| A stationary object | x 1 |
+| A moving vehicle, striking head-on or 45 degrees from head-on | x 2 |
+| A moving vehicle, striking perpendicular | x 1 |
+| A moving vehicle, striking from the rear or 45 degrees from the rear | x 1/2 |
+| A vehicle being sideswiped (see Sideswipe) | x 1/4 |
 
 The driver of the vehicle that caused the collision must immediately
 make a Drive check (DC 15) or lose control of the vehicle (see Losing
@@ -65,12 +65,12 @@ When a vehicle takes damage from a collision, its occupants may take
 damage as well. The base amount of damage depends on the cover offered
 by the vehicle.
 
-| Cover                  | Damage                              |
+| Cover | Damage |
 |------------------------|-------------------------------------|
-| None                   | Same as damage taken by vehicle     |
-| One-quarter            | One-half damage taken by vehicle    |
-| One-half               | One-quarter damage taken by vehicle |
-| Three-quarters or more | None                                |
+| None | Same as damage taken by vehicle |
+| One-quarter | One-half damage taken by vehicle |
+| One-half | One-quarter damage taken by vehicle |
+| Three-quarters or more | None |
 
 Each of the occupants may make a Reflex save (DC 15) to take half
 damage.

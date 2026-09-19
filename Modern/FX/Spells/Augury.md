@@ -1,14 +1,14 @@
 # Augury
 
-| Stat         | Value         |
+| Stat | Value |
 |--------------|---------------|
-| School       | Divination    |
-| Level        | Acolyte 2     |
-| Components   | V, S, F       |
+| School | Divination |
+| Level | Acolyte 2 |
+| Components | V, S, F |
 | Casting Time | Attack action |
-| Range        | Personal      |
-| Target       | You           |
-| Duration     | Instantaneous |
+| Range | Personal |
+| Target | You |
+| Duration | Instantaneous |
 
 An augury can tell the caster whether a particular action will bring
 good or bad results for him or her in the immediate future.

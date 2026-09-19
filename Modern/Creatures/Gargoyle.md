@@ -25,39 +25,39 @@ Terran.
 
 ## Gargoyle
 
-| Stat              | Value                                                                             |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------------------------|
-| CR                | 4                                                                                 |
-| Size              | Medium-size                                                                       |
-| Type              | magical beast                                                                     |
-| HD                | 4d10+16                                                                           |
-| hp                | 38                                                                                |
-| Mas               | 18                                                                                |
-| Init              | +2                                                                                |
-| Spd               | 45 ft., fly 75 ft. (average)                                                      |
-| Defense           | 16                                                                                |
-| Touch             | 14                                                                                |
-| Flat-Footed       | 12                                                                                |
-| Defense Breakdown | +2 Dex, +4 natural                                                                |
-| BAB               | +4                                                                                |
-| Grap              | +4                                                                                |
-| Atk               | +6 melee (1d4, claw)                                                              |
-| Full Atk          | +6 melee (1d4, 2 claws), +4 melee (1d6, bite), +4 melee (1d6, gore), or +6 ranged |
-| FS                | 5 ft by 5 ft.                                                                     |
-| Reach             | 5 ft.                                                                             |
-| SQ                | freeze, keen sight, damage reduction 15/+1                                        |
-| AL                | chaos, evil                                                                       |
-| Fort              | +8                                                                                |
-| Ref               | +6                                                                                |
-| Will              | +1                                                                                |
-| AP                | 0                                                                                 |
-| Rep               | +0                                                                                |
-| Str               | 11                                                                                |
-| Dex               | 14                                                                                |
-| Con               | 18                                                                                |
-| Int               | 6                                                                                 |
-| Wis               | 11                                                                                |
-| Cha               | 7                                                                                 |
+| CR | 4 |
+| Size | Medium-size |
+| Type | magical beast |
+| HD | 4d10+16 |
+| hp | 38 |
+| Mas | 18 |
+| Init | +2 |
+| Spd | 45 ft., fly 75 ft. (average) |
+| Defense | 16 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 Dex, +4 natural |
+| BAB | +4 |
+| Grap | +4 |
+| Atk | +6 melee (1d4, claw) |
+| Full Atk | +6 melee (1d4, 2 claws), +4 melee (1d6, bite), +4 melee (1d6, gore), or +6 ranged |
+| FS | 5 ft by 5 ft. |
+| Reach | 5 ft. |
+| SQ | freeze, keen sight, damage reduction 15/+1 |
+| AL | chaos, evil |
+| Fort | +8 |
+| Ref | +6 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 11 |
+| Dex | 14 |
+| Con | 18 |
+| Int | 6 |
+| Wis | 11 |
+| Cha | 7 |
 
 **Skills:** Hide +9 (+17 when concealed against worked stone), Listen
 +4, Speak Terran, Spot +4.
@@ -70,37 +70,37 @@ class.
 
 ## Gargoyle Tough Hero 3
 
-| Stat              | Value                                                                             |
+| Stat | Value |
 |-------------------|-----------------------------------------------------------------------------------|
-| CR                | 7                                                                                 |
-| Size              | Medium-size                                                                       |
-| Type              | humanoid magical beast                                                            |
-| HD                | 4d10+16 plus 3d10+12 plus 3 (robust)                                              |
-| hp                | 69                                                                                |
-| Mas               | 18                                                                                |
-| Init              | +2                                                                                |
-| Spd               | 45 ft., fly 75 ft. (average)                                                      |
-| Defense           | 18                                                                                |
-| Touch             | 14                                                                                |
-| Flat-Footed       | 16                                                                                |
-| Defense Breakdown | +2 Dex, +2 class, +4 natural                                                      |
-| BAB               | +6                                                                                |
-| Grap              | +6                                                                                |
-| Atk               | +8 melee (1d4, claw)                                                              |
-| Full Atk          | +8 melee (1d4, 2 claws), +6 melee (1d6, bite), +6 melee (1d6, gore), or +8 ranged |
-| SQ                | freeze, keen sight, damage reduction 15/+1                                        |
-| AL                | chaos, evil                                                                       |
-| Fort              | +10                                                                               |
-| Ref               | +7                                                                                |
-| Will              | +2                                                                                |
-| AP                | 1                                                                                 |
-| Rep               | +1                                                                                |
-| Str               | 11                                                                                |
-| Dex               | 15                                                                                |
-| Con               | 18                                                                                |
-| Int               | 6                                                                                 |
-| Wis               | 11                                                                                |
-| Cha               | 7                                                                                 |
+| CR | 7 |
+| Size | Medium-size |
+| Type | humanoid magical beast |
+| HD | 4d10+16 plus 3d10+12 plus 3 (robust) |
+| hp | 69 |
+| Mas | 18 |
+| Init | +2 |
+| Spd | 45 ft., fly 75 ft. (average) |
+| Defense | 18 |
+| Touch | 14 |
+| Flat-Footed | 16 |
+| Defense Breakdown | +2 Dex, +2 class, +4 natural |
+| BAB | +6 |
+| Grap | +6 |
+| Atk | +8 melee (1d4, claw) |
+| Full Atk | +8 melee (1d4, 2 claws), +6 melee (1d6, bite), +6 melee (1d6, gore), or +8 ranged |
+| SQ | freeze, keen sight, damage reduction 15/+1 |
+| AL | chaos, evil |
+| Fort | +10 |
+| Ref | +7 |
+| Will | +2 |
+| AP | 1 |
+| Rep | +1 |
+| Str | 11 |
+| Dex | 15 |
+| Con | 18 |
+| Int | 6 |
+| Wis | 11 |
+| Cha | 7 |
 
 **Skills:** Hide +11 (+19 when concealed against worked stone),
 Intimidate +1, Listen +4, Move Silently +4, Speak Terran, Spot +4.

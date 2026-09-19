@@ -1,4 +1,3 @@
-
 # ORDINARIES
 
 “Ordinaries” are nonheroic supporting characters and extras. Ordinaries

@@ -44,17 +44,17 @@ with vehicle sizes.
 
 **Table: Size Modifiers**
 
-| Size (Example)                        | Size Modifier |
+| Size (Example) | Size Modifier |
 |---------------------------------------|---------------|
-| Colossal (blue whale [90 ft. long])   | –8            |
-| Gargantuan (gray whale [40 ft. long]) | –4            |
-| Huge (elephant)                       | –2            |
-| Large (lion)                          | –1            |
-| Medium-size (human)                   | +0            |
-| Small (German shepherd)               | +1            |
-| Tiny (housecat)                       | +2            |
-| Diminutive (rat)                      | +4            |
-| Fine (horsefly)                       | +8            |
+| Colossal (blue whale [90 ft. long]) | –8 |
+| Gargantuan (gray whale [40 ft. long]) | –4 |
+| Huge (elephant) | –2 |
+| Large (lion) | –1 |
+| Medium-size (human) | +0 |
+| Small (German shepherd) | +1 |
+| Tiny (housecat) | +2 |
+| Diminutive (rat) | +4 |
+| Fine (horsefly) | +8 |
 
 ### Dexterity Modifier
 

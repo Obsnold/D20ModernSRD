@@ -1,10 +1,10 @@
 # Demolitions
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | Yes   |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | Yes |
+| Armor Penalty | No |
 
 ## Check
 

@@ -53,10 +53,10 @@ circumstances.
 
 | Registration Rating | License or Fee Purchase DC | Black Market Purchase DC <sup>1</sup> | Time Required |
 |---------------------|----------------------------|---------------------------------------|---------------|
-| Licensed            | 10                         | +1                                    | 1 day         |
-| Restricted          | 15                         | +2                                    | 2 days        |
-| Military            | 20                         | +3                                    | 3 days        |
-| Illegal             | 25                         | +4                                    | 4 days        |
+| Licensed | 10 | +1 | 1 day |
+| Restricted | 15 | +2 | 2 days |
+| Military | 20 | +3 | 3 days |
+| Illegal | 25 | +4 | 4 days |
 
 1 Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.
 
@@ -120,20 +120,20 @@ expendable objects like ammunition don’t have to be returned if used.
 
 **Table: Requisition Modifiers**
 
-| Situation                                            | Modifier |
+| Situation | Modifier |
 |------------------------------------------------------|----------|
-| Object is necessary for assignment                   | +6       |
-| Object has obvious application for assignment        | +4       |
-| Object has peripheral application for assignment     | +2       |
-| Object has no obvious application for assignment     | –2       |
-| Object is rare                                       | –2       |
-| **Object restriction**                               |          |
-| Licensed                                             | –2       |
-| Restricted                                           | –4       |
-| Military                                             | –6       |
-| Illegal                                              | –8       |
-| Hero is skilled or proficient in use of object       | +2       |
-| Hero returned all gear undamaged on previous mission | +2       |
+| Object is necessary for assignment | +6 |
+| Object has obvious application for assignment | +4 |
+| Object has peripheral application for assignment | +2 |
+| Object has no obvious application for assignment | –2 |
+| Object is rare | –2 |
+| **Object restriction** | |
+| Licensed | –2 |
+| Restricted | –4 |
+| Military | –6 |
+| Illegal | –8 |
+| Hero is skilled or proficient in use of object | +2 |
+| Hero returned all gear undamaged on previous mission | +2 |
 
 ## Mastercraft Objects
 
@@ -173,7 +173,7 @@ character concealing an object before he or she heads out into public
 can usually take 10 unless he or she is rushed, trying to conceal it
 when others might see, or under other unusual constraints. Sleight of
 Hand can be used untrained in this instance, but the character must take
-10.
+10\.
 
 ### Size and Concealment
 
@@ -184,22 +184,22 @@ the check.
 
 **Table: Concealing Weapons and Objects**
 
-| Condition                                               | Sleight of Hand Modifier |
+| Condition | Sleight of Hand Modifier |
 |---------------------------------------------------------|--------------------------|
-| **Size of weapon or object**                            |                          |
-| Fine                                                    | +12                      |
-| Diminutive                                              | +8                       |
-| Tiny                                                    | +4                       |
-| Small                                                   | +0                       |
-| Medium-size                                             | –4                       |
-| Large                                                   | –8                       |
-| Huge or larger                                          | can’t conceal            |
-| Clothing is tight or small                              | –4                       |
-| Clothing is especially loose or bulky                   | +2                       |
-| Clothing is specifically modified for concealing object | +2                       |
-| Weapon is carried in concealed carry holster            | +4                       |
-| Weapon can be drawn normally                            | –2                       |
-| Weapon can be drawn as free action with Quick Draw feat | –4                       |
+| **Size of weapon or object** | |
+| Fine | +12 |
+| Diminutive | +8 |
+| Tiny | +4 |
+| Small | +0 |
+| Medium-size | –4 |
+| Large | –8 |
+| Huge or larger | can’t conceal |
+| Clothing is tight or small | –4 |
+| Clothing is especially loose or bulky | +2 |
+| Clothing is specifically modified for concealing object | +2 |
+| Weapon is carried in concealed carry holster | +4 |
+| Weapon can be drawn normally | –2 |
+| Weapon can be drawn as free action with Quick Draw feat | –4 |
 
 ### Spotting Concealed Objects
 
@@ -244,38 +244,38 @@ Strength score, as shown on Table: Carrying Capacity.
 
 **Table: Carrying Capacity**
 
-| Strength | Light Load    | Medium Load | Heavy Load    |
+| Strength | Light Load | Medium Load | Heavy Load |
 |----------|---------------|-------------|---------------|
-| 1        | up to 3 lb.   | 4–6 lb.     | 7–10 lb.      |
-| 2        | up to 6 lb.   | 7–13 lb.    | 14–20 lb.     |
-| 3        | up to 10 lb.  | 11–20 lb.   | 21–30 lb.     |
-| 4        | up to 13 lb.  | 14–26 lb.   | 27–40 lb.     |
-| 5        | up to 16 lb.  | 17–33 lb.   | 34–50 lb.     |
-| 6        | up to 20 lb.  | 21–40 lb.   | 41–60 lb.     |
-| 7        | up to 23 lb.  | 24–46 lb.   | 47–70 lb.     |
-| 8        | up to 26 lb.  | 27–53 lb.   | 54–80 lb.     |
-| 9        | up to 30 lb.  | 31–60 lb.   | 61–90 lb.     |
-| 10       | up to 33 lb.  | 34–66 lb.   | 67–100 lb.    |
-| 11       | up to 38 lb.  | 39–76 lb.   | 77–115 lb.    |
-| 12       | up to 43 lb.  | 44–86 lb.   | 87–130 lb.    |
-| 13       | up to 50 lb.  | 51–100 lb.  | 101–150 lb.   |
-| 14       | up to 58 lb.  | 59–116 lb.  | 117–175 lb.   |
-| 15       | up to 66 lb.  | 67–133 lb.  | 134–200 lb.   |
-| 16       | up to 76 lb.  | 77–153 lb.  | 154–230 lb.   |
-| 17       | up to 86 lb.  | 87–173 lb.  | 174–260 lb.   |
-| 18       | up to 100 lb. | 101–200 lb. | 201–300 lb.   |
-| 19       | up to 116 lb. | 117–233 lb. | 234–350 lb.   |
-| 20       | up to 133 lb. | 134–266 lb. | 267–400 lb.   |
-| 21       | up to 153 lb. | 154–306 lb. | 307–460 lb.   |
-| 22       | up to 173 lb. | 174–346 lb. | 347–520 lb.   |
-| 23       | up to 200 lb. | 201–400 lb. | 401–600 lb.   |
-| 24       | up to 233 lb. | 234–466 lb. | 467–700 lb.   |
-| 25       | up to 266 lb. | 267–533 lb. | 534–800 lb.   |
-| 26       | up to 306 lb. | 307–613 lb. | 614–920 lb.   |
-| 27       | up to 346 lb. | 347–693 lb. | 694–1,040 lb. |
-| 28       | up to 400 lb. | 401–800 lb. | 801–1,200 lb. |
-| 29       | up to 466 lb. | 467–933 lb. | 934–1,400 lb. |
-| +10      | x4            | x4          | x4            |
+| 1 | up to 3 lb. | 4–6 lb. | 7–10 lb. |
+| 2 | up to 6 lb. | 7–13 lb. | 14–20 lb. |
+| 3 | up to 10 lb. | 11–20 lb. | 21–30 lb. |
+| 4 | up to 13 lb. | 14–26 lb. | 27–40 lb. |
+| 5 | up to 16 lb. | 17–33 lb. | 34–50 lb. |
+| 6 | up to 20 lb. | 21–40 lb. | 41–60 lb. |
+| 7 | up to 23 lb. | 24–46 lb. | 47–70 lb. |
+| 8 | up to 26 lb. | 27–53 lb. | 54–80 lb. |
+| 9 | up to 30 lb. | 31–60 lb. | 61–90 lb. |
+| 10 | up to 33 lb. | 34–66 lb. | 67–100 lb. |
+| 11 | up to 38 lb. | 39–76 lb. | 77–115 lb. |
+| 12 | up to 43 lb. | 44–86 lb. | 87–130 lb. |
+| 13 | up to 50 lb. | 51–100 lb. | 101–150 lb. |
+| 14 | up to 58 lb. | 59–116 lb. | 117–175 lb. |
+| 15 | up to 66 lb. | 67–133 lb. | 134–200 lb. |
+| 16 | up to 76 lb. | 77–153 lb. | 154–230 lb. |
+| 17 | up to 86 lb. | 87–173 lb. | 174–260 lb. |
+| 18 | up to 100 lb. | 101–200 lb. | 201–300 lb. |
+| 19 | up to 116 lb. | 117–233 lb. | 234–350 lb. |
+| 20 | up to 133 lb. | 134–266 lb. | 267–400 lb. |
+| 21 | up to 153 lb. | 154–306 lb. | 307–460 lb. |
+| 22 | up to 173 lb. | 174–346 lb. | 347–520 lb. |
+| 23 | up to 200 lb. | 201–400 lb. | 401–600 lb. |
+| 24 | up to 233 lb. | 234–466 lb. | 467–700 lb. |
+| 25 | up to 266 lb. | 267–533 lb. | 534–800 lb. |
+| 26 | up to 306 lb. | 307–613 lb. | 614–920 lb. |
+| 27 | up to 346 lb. | 347–693 lb. | 694–1,040 lb. |
+| 28 | up to 400 lb. | 401–800 lb. | 801–1,200 lb. |
+| 29 | up to 466 lb. | 467–933 lb. | 934–1,400 lb. |
+| +10 | x4 | x4 | x4 |
 
 If the weight of everything a character is wearing or carrying amounts
 to no more than his or her light load figure, the character can move and
@@ -289,11 +289,11 @@ already slowed to that speed for some other reason.
 
 | Previous Speed | Current Speed |
 |----------------|---------------|
-| 20 ft.         | 15 ft.        |
-| 30 ft.         | 20 ft.        |
-| 40 ft.         | 30 ft.        |
-| 50 ft.         | 40 ft.        |
-| 60 ft.         | 50 ft.        |
+| 20 ft. | 15 ft. |
+| 30 ft. | 20 ft. |
+| 40 ft. | 30 ft. |
+| 50 ft. | 40 ft. |
+| 60 ft. | 50 ft. |
 
 An encumbered character performs as if his or her Dexterity modifier
 were no higher than +3. In addition, the character takes a –3
@@ -309,11 +309,11 @@ character is not already slowed to that speed for some other reason.
 
 | Previous Speed | Current Speed |
 |----------------|---------------|
-| 20 ft.         | 10 ft.        |
-| 30 ft.         | 15 ft.        |
-| 40 ft.         | 20 ft.        |
-| 50 ft.         | 25 ft.        |
-| 60 ft.         | 30 ft.        |
+| 20 ft. | 10 ft. |
+| 30 ft. | 15 ft. |
+| 40 ft. | 20 ft. |
+| 50 ft. | 25 ft. |
+| 60 ft. | 30 ft. |
 
 A heavily encumbered character performs as if his or her Dexterity
 modifier were no higher than +1. In addition, the character takes a –6

@@ -3,18 +3,18 @@
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
-| 1st         | +0                | +0        | +0       | +1        | Arcane skills, spell resistance | +0            | +0               |
-| 2nd         | +1                | +0        | +0       | +2        | Arcane research (scrolls)       | +1            | +0               |
-| 3rd         | +1                | +1        | +1       | +2        | Bonus feat                      | +1            | +1               |
-| 4th         | +2                | +1        | +1       | +2        | Shadow contact                  | +1            | +1               |
-| 5th         | +2                | +1        | +1       | +3        | Bind Shadow creature            | +2            | +1               |
-| 6th         | +3                | +2        | +2       | +3        | Bonus feat                      | +2            | +2               |
-| 7th         | +3                | +2        | +2       | +4        | Arcane research (items)         | +2            | +2               |
-| 8th         | +4                | +2        | +2       | +4        | Bind Shadow creature            | +3            | +2               |
-| 9th         | +4                | +3        | +3       | +4        | Bonus feat                      | +3            | +3               |
-| 10th        | +5                | +3        | +3       | +5        | Banish                          | +3            | +3               |
+| 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
+| 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
+| 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +1 |
+| 4th | +2 | +1 | +1 | +2 | Shadow contact | +1 | +1 |
+| 5th | +2 | +1 | +1 | +3 | Bind Shadow creature | +2 | +1 |
+| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
+| 7th | +3 | +2 | +2 | +4 | Arcane research (items) | +2 | +2 |
+| 8th | +4 | +2 | +2 | +4 | Bind Shadow creature | +3 | +2 |
+| 9th | +4 | +3 | +3 | +4 | Bonus feat | +3 | +3 |
+| 10th | +5 | +3 | +3 | +5 | Banish | +3 | +3 |
 
 ## Requirements
 
@@ -27,33 +27,36 @@ Research 6 ranks.
 **Feats:** Educated, Studious.
 
 ## Hit Die
+
 The Occultist gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
 ## Action Points
+
 The Occultist gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
 ## Class Skills
+
 The Occultist’s class skills are as follows.
 
- - Craft (visual arts) (Int)
- - Craft (writing) (Int)
- - Decipher Script (Int)
- - Drive (Dex)
- - Escape Artist (Dex)
- - Forgery (Int)
- - Investigate (Int)
- - Knowledge (arcane lore) (Int)
- - Knowledge (history) (Int)
- - Knowledge (theology and philosophy) (Int)
- - Profession (Wis)
- - Read/Write Language (none)
- - Research (Int)
- - Sleight of Hand (Dex)
- - Speak Language (none)
- - Use Magic Device (Cha)
+- Craft (visual arts) (Int)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Drive (Dex)
+- Escape Artist (Dex)
+- Forgery (Int)
+- Investigate (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (history) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Research (Int)
+- Sleight of Hand (Dex)
+- Speak Language (none)
+- Use Magic Device (Cha)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -113,15 +116,15 @@ You make Use Magic Device checks each time you activate a device such as
 a scroll or a wand. If you are using the check to emulate some quality
 in an ongoing manner, you need to make the checks once per hour.
 
-| Task                     | DC                |
+| Task | DC |
 |--------------------------|-------------------|
-| Activate blindly         | 25                |
-| Decipher a written spell | 25 + spell level  |
-| Emulate class feature    | 20                |
-| Emulate ability score    | See text          |
-| Emulate allegiance       | 30                |
-| Use a scroll             | 20 + caster level |
-| Use a wand               | 20                |
+| Activate blindly | 25 |
+| Decipher a written spell | 25 + spell level |
+| Emulate class feature | 20 |
+| Emulate ability score | See text |
+| Emulate allegiance | 30 |
+| Use a scroll | 20 + caster level |
+| Use a wand | 20 |
 
 **Activate Blindly:** Some magic items are activated by special words,
 thoughts, or actions. You can activate such items as if you were using
@@ -216,17 +219,17 @@ spell level the Occultist receives upon gaining a new level, and how
 many of these can be researched at each level. A failed Research check
 indicates that the Occultist instead discovers all random spells.
 
-| Level | 1   | 2   | 3   | 4   | Research  |
+| Level | 1 | 2 | 3 | 4 | Research |
 |-------|-----|-----|-----|-----|-----------|
-| 2nd   | 3   | —   | —   | —   | 1 (DC 20) |
-| 3rd   | 4   | —   | —   | —   | 2 (DC 23) |
-| 4th   | 5   | 2   | —   | —   | 3 (DC 25) |
-| 5th   | 5   | 3   | —   | —   | 4 (DC 28) |
-| 6th   | 5   | 4   | —   | —   | 5 (DC 30) |
-| 7th   | 6   | 5   | 2   | —   | 6 (DC 33) |
-| 8th   | 6   | 5   | 3   | —   | 7 (DC 35) |
-| 9th   | 6   | 5   | 4   | —   | 8 (DC 38) |
-| 10th  | 7   | 6   | 5   | 2   | 9 (DC 40) |
+| 2nd | 3 | — | — | — | 1 (DC 20) |
+| 3rd | 4 | — | — | — | 2 (DC 23) |
+| 4th | 5 | 2 | — | — | 3 (DC 25) |
+| 5th | 5 | 3 | — | — | 4 (DC 28) |
+| 6th | 5 | 4 | — | — | 5 (DC 30) |
+| 7th | 6 | 5 | 2 | — | 6 (DC 33) |
+| 8th | 6 | 5 | 3 | — | 7 (DC 35) |
+| 9th | 6 | 5 | 4 | — | 8 (DC 38) |
+| 10th | 7 | 6 | 5 | 2 | 9 (DC 40) |
 
 So, at 2nd level, the Occultist gains three 1st-level arcane spell
 scrolls. One of these spells can be selected by the Occultist if she
@@ -245,16 +248,16 @@ At 3rd, 6th, and 9th level, the Occultist gets a bonus feat. The bonus
 feat must be selected from the following list, and the Occultist must
 meet all the prerequisites of the feat to select it.
 
- - Alertness
- - Archaic Weapons Proficiency
- - Attentive
- - Confident
- - Defensive Martial Arts
- - Focused
- - Frightful Presence
- - Iron Will
- - Personal Firearms Proficiency
- - Point Blank Shot
+- Alertness
+- Archaic Weapons Proficiency
+- Attentive
+- Confident
+- Defensive Martial Arts
+- Focused
+- Frightful Presence
+- Iron Will
+- Personal Firearms Proficiency
+- Point Blank Shot
 
 ### Shadow Contact
 

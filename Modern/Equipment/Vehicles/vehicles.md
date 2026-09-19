@@ -50,21 +50,21 @@ vehicle on the black market.
 
 **Table: Vehicle Weapons**
 
-| Weapon                                                                   | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |--------------------------------------------------------------------------|--------|----------|-------------|-----------------|--------------|----------|------|--------|-------------|-------------|
-| ***Cannons (require the Exotic Firearms Proficiency \[cannons\] feat)*** |        |          |             |                 |              |          |      |        |             |             |
-| BMP-2 30mm cannon                                                        | 4d12   | 20       | Ballistic   | 300 ft.         | A            | Linked   | Huge | \*     | \*          | \*          |
-| M1A2 Abrams tank cannon                                                  | 10d12  | 20       | Ballistic   | 400 ft.         | Single       | 1        | Huge | \*     | \*          | \*          |
-| M2A2 Bradley 25mm cannon                                                 | 4d12   | 20       | Ballistic   | 350 ft.         | A            | Linked   | Huge | \*     | \*          | \*          |
+| ***Cannons (require the Exotic Firearms Proficiency [cannons] feat)*** | | | | | | | | | | |
+| BMP-2 30mm cannon | 4d12 | 20 | Ballistic | 300 ft. | A | Linked | Huge | * | * | * |
+| M1A2 Abrams tank cannon | 10d12 | 20 | Ballistic | 400 ft. | Single | 1 | Huge | * | * | * |
+| M2A2 Bradley 25mm cannon | 4d12 | 20 | Ballistic | 350 ft. | A | Linked | Huge | * | * | * |
 
 \* Weight, purchase DC, and restriction rating do not apply. These weapons are part of the vehicles on which they are mounted.
 
 ## Vehicle Descriptions
 
- - [Civilian Aircraft](CivilianAircraft.md)
- - [Civilian Cars](CivilianCars.md)
- - [Civilian Motorcycles](CivilianMotorcycles.md)
- - [Civilian Trucks](CivilianTrucks.md)
- - [Civilian Water Vehicles](CivilianWaterVehicles.md)
- - [Other Vehicles](OtherVehicles.md)
- - [Military Vehicles](MilitaryVehicles.md)
+- [Civilian Aircraft](CivilianAircraft.md)
+- [Civilian Cars](CivilianCars.md)
+- [Civilian Motorcycles](CivilianMotorcycles.md)
+- [Civilian Trucks](CivilianTrucks.md)
+- [Civilian Water Vehicles](CivilianWaterVehicles.md)
+- [Other Vehicles](OtherVehicles.md)
+- [Military Vehicles](MilitaryVehicles.md)

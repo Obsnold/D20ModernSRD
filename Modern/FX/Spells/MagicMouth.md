@@ -1,16 +1,16 @@
 # Magic Mouth
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Illusion                        |
-| Level            | Mage 2                          |
-| Components       | V, S, M                         |
-| Casting Time     | Attack action                   |
-| Range            | Close (25 ft. + 5 ft./2 levels) |
-| Target           | One creature or object          |
-| Duration         | Permanent until discharged      |
-| Saving Throw     | Will negates (object)           |
-| Spell Resistance | Yes (object)                    |
+| School | Illusion |
+| Level | Mage 2 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One creature or object |
+| Duration | Permanent until discharged |
+| Saving Throw | Will negates (object) |
+| Spell Resistance | Yes (object) |
 
 This spell imbues the target with an enchanted mouth that suddenly
 appears and speaks its message the next time a specified event occurs.

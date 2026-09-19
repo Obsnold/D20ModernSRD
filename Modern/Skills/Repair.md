@@ -1,10 +1,10 @@
 # Repair
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | Yes   |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | Yes |
+| Armor Penalty | No |
 
 ## Check
 
@@ -17,12 +17,12 @@ monetary cost when spare parts or new components are needed, represented
 by a Wealth check. If the GM decides this isn’t necessary for the type
 of repair the character is attempting, then no Wealth check is needed.
 
-| Repair Task (Example)                                   | Purchase DC | Repair DC | Time    |
+| Repair Task (Example) | Purchase DC | Repair DC | Time |
 |---------------------------------------------------------|-------------|-----------|---------|
-| Simple (tool, simple weapon)                            | 4           | 10        | 1 min.  |
-| Moderate (mechanical or electronic component)           | 7           | 15        | 10 min. |
-| Complex (mechanical or electronic device)               | 10          | 20        | 1 hr.   |
-| Advanced (cutting-edge mechanical or electronic device) | 13          | 25        | 10 hr.  |
+| Simple (tool, simple weapon) | 4 | 10 | 1 min. |
+| Moderate (mechanical or electronic component) | 7 | 15 | 10 min. |
+| Complex (mechanical or electronic device) | 10 | 20 | 1 hr. |
+| Advanced (cutting-edge mechanical or electronic device) | 13 | 25 | 10 hr. |
 
 **Jury-Rig:** A character can choose to attempt jury-rigged, or
 temporary, repairs. Doing this reduces the purchase DC by 3 and the

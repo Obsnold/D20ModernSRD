@@ -1,18 +1,18 @@
 # Insect Plague
 
-| Stat             | Value                                |
+| Stat | Value |
 |------------------|--------------------------------------|
-| School           | Conjuration                          |
-| Subschool        | Summoning                            |
-| Descriptors      | see text                             |
-| Level            | Acolyte 5                            |
-| Components       | V, S, DF                             |
-| Casting Time     | Full-round action                    |
-| Range            | Long (400 ft. + 40 ft./level)        |
-| Effect           | Cloud of insects 180 ft. in diameter |
-| Duration         | 1 minute/level                       |
-| Saving Throw     | See text                             |
-| Spell Resistance | No                                   |
+| School | Conjuration |
+| Subschool | Summoning |
+| Descriptors | see text |
+| Level | Acolyte 5 |
+| Components | V, S, DF |
+| Casting Time | Full-round action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Effect | Cloud of insects 180 ft. in diameter |
+| Duration | 1 minute/level |
+| Saving Throw | See text |
+| Spell Resistance | No |
 
 A horde of insects swarm in a thick cloud when this spell is cast. The
 insects limit vision to 10 feet, and spellcasting within the cloud is

@@ -1,10 +1,10 @@
 # Ride
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Dex   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Dex |
+| Trained Only | No |
+| Armor Penalty | No |
 
 Animals ill suited as mounts provide a –2 penalty on their rider’s Ride
 check.
@@ -56,7 +56,7 @@ of falling damage.
 obstacles as part of its movement. Use the character’s Ride modifier or
 the mount’s Jump modifier (whichever is lower) when the mount makes its
 Jump check (see the Jump skill). The character makes a Ride check (DC
-15) to stay on the mount when it leaps.
+15\) to stay on the mount when it leaps.
 
 **Fast Mount or Dismount (DC 20; armor penalty applies):** The character
 can mount or dismount as a free action. If the character fails the

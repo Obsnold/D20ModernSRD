@@ -11,12 +11,12 @@ character’s normal speed with a –5 penalty on the check, or at up to
 twice the character’s speed with a –20 penalty on the check). The DC
 depends on the surface and the prevailing conditions.
 
-| Surface   | Track DC       |
+| Surface | Track DC |
 |-----------|----------------|
 | Very soft | 5 |
-| Soft      | 10             |
-| Firm      | 15             |
-| Hard      | 20             |
+| Soft | 10 |
+| Firm | 15 |
+| Hard | 20 |
 
 **Very Soft:** Any surface (fresh snow, thick dust, wet mud) that holds
 deep, clear impressions of footprints.
@@ -43,27 +43,27 @@ find tracks, but can only follow tracks if the DC is 10 or less. A
 character can use the Search skill to find individual footprints, but
 cannot follow tracks using Search.
 
-| Condition                                            | DC Modifier |
+| Condition | DC Modifier |
 |------------------------------------------------------|-------------|
-| Every three targets in the group being tracked       | –1          |
-| **Size of targets being tracked: <sup>1</sup>**      |             |
-| Fine                                                 | +8          |
-| Diminutive                                           | +4          |
-| Tiny                                                 | +2          |
-| Small                                                | +1          |
-| Medium-size                                          | +0          |
-| Large                                                | –1          |
-| Huge                                                 | –2          |
-| Gargantuan                                           | –4          |
-| Colossal                                             | -8          |
-| Every 24 hours since the trail was made              | +1          |
-| Every hour of rain since the trail was made          | +1          |
-| Fresh snow cover since the trail was made            | +10         |
-| **Poor visibility: <sub>2</sub>**                    |             |
-| Overcast or moonless night                           | +6          |
-| Moonlight                                            | +3          |
-| Fog or precipitation                                 | +3          |
-| Tracked target hides trail (and moves at half speed) | +5          |
+| Every three targets in the group being tracked | –1 |
+| **Size of targets being tracked: <sup>1</sup>** | |
+| Fine | +8 |
+| Diminutive | +4 |
+| Tiny | +2 |
+| Small | +1 |
+| Medium-size | +0 |
+| Large | –1 |
+| Huge | –2 |
+| Gargantuan | –4 |
+| Colossal | -8 |
+| Every 24 hours since the trail was made | +1 |
+| Every hour of rain since the trail was made | +1 |
+| Fresh snow cover since the trail was made | +10 |
+| **Poor visibility: <sub>2</sub>** | |
+| Overcast or moonless night | +6 |
+| Moonlight | +3 |
+| Fog or precipitation | +3 |
+| Tracked target hides trail (and moves at half speed) | +5 |
 
 1 For a group of mixed sizes, apply only the modifier for the largest size category represented.
 2 Apply only the largest modifier from this category.

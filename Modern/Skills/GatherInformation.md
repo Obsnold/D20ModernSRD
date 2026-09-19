@@ -1,10 +1,10 @@
 # Gather Information
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Cha   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Cha |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 
@@ -23,10 +23,10 @@ gather, as given in the table below.
 
 | Type of Information | DC | Purchase DC |
 |---------------------|----|-------------|
-| General             | 10 | 5           |
-| Specific            | 15 | 10          |
-| Restricted          | 20 | 15          |
-| Protected           | 25 | 20          |
+| General | 10 | 5 |
+| Specific | 15 | 10 |
+| Restricted | 20 | 15 |
+| Protected | 25 | 20 |
 
 General information concerns local happenings, rumors, gossip, and the
 like. Specific information usually relates to a particular question.

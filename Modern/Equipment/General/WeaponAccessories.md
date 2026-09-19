@@ -5,26 +5,26 @@ can increase their utility or efficiency.
 
 **Table: General Equipment: Weapon Accessories**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| Box magazine                           | Tiny  | 0.5 lb. | 4           | —            |
-| **Detonator**                          |       |         |             |              |
-| Blasting cap                           | Tiny  | 0.5 lb. | 4           | Lic (+1)     |
-| Radio controlled                       | Tiny  | 0.5 lb. | 10          | Lic (+1)     |
-| Timed                                  | Tiny  | 0.5 lb. | 7           | Lic (+1)     |
-| Wired                                  | Tiny  | 1 lb.   | 6           | Lic (+1)     |
-| **Holster**                            |       |         |             |              |
-| Hip                                    | Tiny  | 1 lb.   | 5           | —            |
-| Concealed carry                        | Tiny  | 0.5 lb. | 5           | —            |
-| Illuminator                            | Tiny  | 0.5 lb. | 7           | —            |
-| Laser sight                            | Tiny  | 0.5 lb. | 15          | —            |
-| **Scope**                              |       |         |             |              |
-| Standard                               | Tiny  | 0.5 lb. | 11          | —            |
-| Electro-optical                        | Small | 3 lb.   | 18          | —            |
-| Speed loader                           | Tiny  | 0.5 lb. | 3           | —            |
-| **Suppressor**                         |       |         |             |              |
-| Pistol                                 | Tiny  | 1 lb.   | 12          | Mil (+3)     |
-| Rifle                                  | Small | 4 lb.   | 14          | Mil (+3)     |
+| Box magazine | Tiny | 0.5 lb. | 4 | — |
+| **Detonator** | | | | |
+| Blasting cap | Tiny | 0.5 lb. | 4 | Lic (+1) |
+| Radio controlled | Tiny | 0.5 lb. | 10 | Lic (+1) |
+| Timed | Tiny | 0.5 lb. | 7 | Lic (+1) |
+| Wired | Tiny | 1 lb. | 6 | Lic (+1) |
+| **Holster** | | | | |
+| Hip | Tiny | 1 lb. | 5 | — |
+| Concealed carry | Tiny | 0.5 lb. | 5 | — |
+| Illuminator | Tiny | 0.5 lb. | 7 | — |
+| Laser sight | Tiny | 0.5 lb. | 15 | — |
+| **Scope** | | | | |
+| Standard | Tiny | 0.5 lb. | 11 | — |
+| Electro-optical | Small | 3 lb. | 18 | — |
+| Speed loader | Tiny | 0.5 lb. | 3 | — |
+| **Suppressor** | | | | |
+| Pistol | Tiny | 1 lb. | 12 | Mil (+3) |
+| Rifle | Small | 4 lb. | 14 | Mil (+3) |
 
 ## Box Magazine
 
@@ -57,7 +57,7 @@ of 500 feet.
 *Timed:* This is an electronic timer connected to the detonator. Like an
 alarm clock, it can be set to go off at a particular time.
 
-*Wired: *This is the simplest form of detonator. The blasting cap
+\*Wired: \*This is the simplest form of detonator. The blasting cap
 connects by a wire to an activation device, usually a small pistol-grip
 device that the user squeezes. The detonator comes with 100 feet of
 wire, but longer lengths can be spliced in with a Demolitions check (DC
@@ -71,7 +71,7 @@ firearms.
 *Hip:* This holster holds the weapon in an easily accessed—and easily
 seen—location.
 
-*Concealed Carry: *A concealed carry holster is designed to help keep a
+\*Concealed Carry: \*A concealed carry holster is designed to help keep a
 weapon out of sight (see Concealed Weapons and Objects). In most cases,
 this is a shoulder holster (the weapon fits under the wearer’s armpit,
 presumably beneath a jacket). Small or Tiny weapons can be carried in
@@ -103,7 +103,7 @@ character must spend an attack action acquiring his or her target. If
 the character changes targets or otherwise lose sight of the target, he
 or she must reacquire the target to gain the benefit of the scope.
 
-*Electro-Optical: *An electro-optical scope functions the same as a
+\*Electro-Optical: \*An electro-optical scope functions the same as a
 standard scope in normal light. In darkness, however, the user sees
 through it as if he or she had the darkvision ability granted by night
 vision goggles.

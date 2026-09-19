@@ -1,17 +1,17 @@
 # Levitate
 
-| Stat               | Value                                                                        |
+| Stat | Value |
 |--------------------|------------------------------------------------------------------------------|
-| Key Ability        | Dexterity                                                                    |
-| Level              | Telepath 2                                                                   |
-| Display            | Olfactory                                                                    |
-| Manifestation Time | Attack action                                                                |
-| Range              | Personal or close (25 ft. + 5 ft./2 levels)                                  |
-| Target             | You or one willing creature or one object (total weight up to 100 lb./level) |
-| Duration           | 10 minutes/level (D)                                                         |
-| Saving Throw       | None                                                                         |
-| Power Resistance   | No                                                                           |
-| Power Point Cost   | 3                                                                            |
+| Key Ability | Dexterity |
+| Level | Telepath 2 |
+| Display | Olfactory |
+| Manifestation Time | Attack action |
+| Range | Personal or close (25 ft. + 5 ft./2 levels) |
+| Target | You or one willing creature or one object (total weight up to 100 lb./level) |
+| Duration | 10 minutes/level (D) |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 3 |
 
 Levitate allows the manifester to move him or herself, another creature,
 or an object up and down as the manifester wishes. A creature must be

@@ -1,17 +1,17 @@
 # Lesser Mindlink
 
-| Stat               | Value                                                                |
+| Stat | Value |
 |--------------------|----------------------------------------------------------------------|
-| Key Ability        | Charisma                                                             |
-| Level              | Telepath 1                                                           |
-| Display            | Material                                                             |
-| Manifestation Time | Attack action                                                        |
-| Range              | Close (25 ft. + 5 ft./2 levels)                                      |
-| Targets            | You and one other creature who is initially no more than 30 ft. away |
-| Duration           | 10 minutes/level                                                     |
-| Saving Throw       | None                                                                 |
-| Power Resistance   | No                                                                   |
-| Power Point Cost   | 1                                                                    |
+| Key Ability | Charisma |
+| Level | Telepath 1 |
+| Display | Material |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Targets | You and one other creature who is initially no more than 30 ft. away |
+| Duration | 10 minutes/level |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 1 |
 
 The manifester forges a telepathic bond with another person or creature,
 which must have an Intelligence score of 6 or higher. The bond can be

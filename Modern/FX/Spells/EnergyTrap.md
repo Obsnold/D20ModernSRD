@@ -1,16 +1,16 @@
 # Energy Trap
 
-| Stat             | Value                          |
+| Stat | Value |
 |------------------|--------------------------------|
-| School           | Abjuration                     |
-| Level            | Mage 4                         |
-| Components       | V, S, M                        |
-| Casting Time     | 10 minutes                     |
-| Range            | Touch                          |
-| Target           | Object touched                 |
-| Duration         | Permanent until discharged (D) |
-| Saving Throw     | Reflex half (see text)         |
-| Spell Resistance | Yes                            |
+| School | Abjuration |
+| Level | Mage 4 |
+| Components | V, S, M |
+| Casting Time | 10 minutes |
+| Range | Touch |
+| Target | Object touched |
+| Duration | Permanent until discharged (D) |
+| Saving Throw | Reflex half (see text) |
+| Spell Resistance | Yes |
 
 Energy trap creates an explosion of one energy type (acid, cold,
 electricity, fire, or sonic/concussion) when an intruder opens the item

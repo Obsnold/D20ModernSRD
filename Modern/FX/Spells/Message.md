@@ -1,17 +1,17 @@
 # Message
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Transmutation                   |
-| Descriptors      | Language-Dependent              |
-| Level            | Mage 0                          |
-| Components       | V, S, F                         |
-| Casting Time     | Attack action                   |
-| Range            | Medium (100 ft. + 10 ft./level) |
-| Targets          | One creature/level              |
-| Duration         | 10 minutes/level                |
-| Saving Throw     | None                            |
-| Spell Resistance | No                              |
+| School | Transmutation |
+| Descriptors | Language-Dependent |
+| Level | Mage 0 |
+| Components | V, S, F |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Targets | One creature/level |
+| Duration | 10 minutes/level |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The caster can whisper messages and receive whispered replies with
 little chance of being overheard. The caster designates each creature to

@@ -10,16 +10,16 @@ the –4 penalty.
 
 **Table: Improvised Weapon Damage by Size**
 
-| Object Size | Examples                                                                           | Damage |
+| Object Size | Examples | Damage |
 |-------------|------------------------------------------------------------------------------------|--------|
-| Diminutive  | Ashtray, CD disk case, crystal paperweight                                         | 1      |
-| Tiny        | Fist-sized rock, mug, screwdriver, softball, flashlight, wrench                    | 1d2    |
-| Small       | Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase           | 1d3    |
-| Medium-size | Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun | 1d4    |
-| Large       | Empty garbage can, guitar, computer monitor, office chair, tire iron               | 1d6    |
-| Huge        | 10-foot ladder, mailbox, oil barrel, park bench, sawhorse                          | 1d8    |
-| Gargantuan  | Desk, dumpster, file cabinet, large sofa, soda machine                             | 2d6    |
-| Colossal    | Junked vehicle, stoplight, telephone pole                                          | 2d8    |
+| Diminutive | Ashtray, CD disk case, crystal paperweight | 1 |
+| Tiny | Fist-sized rock, mug, screwdriver, softball, flashlight, wrench | 1d2 |
+| Small | Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase | 1d3 |
+| Medium-size | Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun | 1d4 |
+| Large | Empty garbage can, guitar, computer monitor, office chair, tire iron | 1d6 |
+| Huge | 10-foot ladder, mailbox, oil barrel, park bench, sawhorse | 1d8 |
+| Gargantuan | Desk, dumpster, file cabinet, large sofa, soda machine | 2d6 |
+| Colossal | Junked vehicle, stoplight, telephone pole | 2d8 |
 
 A character can effectively wield or throw an object of his or her size
 category or smaller using one hand. A character can effectively wield or

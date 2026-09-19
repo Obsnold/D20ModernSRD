@@ -1,17 +1,17 @@
 # Cure Minor Wounds
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Conjuration                     |
-| Subschool        | Healing                         |
-| Level            | Acolyte 0                       |
-| Components       | V, S                            |
-| Casting Time     | Attack action                   |
-| Range            | Touch                           |
-| Target           | Creature touched                |
-| Duration         | Instantaneous                   |
-| Saving Throw     | Will half (harmless) (see text) |
-| Spell Resistance | Yes (harmless)                  |
+| School | Conjuration |
+| Subschool | Healing |
+| Level | Acolyte 0 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Instantaneous |
+| Saving Throw | Will half (harmless) (see text) |
+| Spell Resistance | Yes (harmless) |
 
 The caster lays his or her hand upon a living creature and channels
 positive energy that cures 1 point of damage..

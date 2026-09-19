@@ -5,18 +5,18 @@ done nevertheless.
 
 **Table: Melee Weapons: Simple Weapons (require the Simple Weapons Proficiency feat)**
 
-| Weapon                                                                                   | Damage          | Critical | Damage Type | Range Increment | Size  | Weight  | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
 |------------------------------------------------------------------------------------------|-----------------|----------|-------------|-----------------|-------|---------|-------------|-------------|
-| Brass knuckles                                                                           | 1               | 20       | Bludgeoning | —               | Tiny  | 1 lb.   | 5           | —           |
-| Cleaver                                                                                  | 1d6             | 19–20    | Slashing    | —               | Small | 2 lb.   | 5           | —           |
-| Club                                                                                     | 1d6             | 20       | Bludgeoning | 10 ft.          | Med   | 3 lb.   | 4           | —           |
-| Knife                                                                                    | 1d4             | 19–20    | Piercing    | 10 ft.          | Tiny  | 1 lb.   | 7           | —           |
-| Metal baton                                                                              | 1d6             | 19–20    | Bludgeoning | —               | Med   | 2 lb.   | 8           | —           |
-| Pistol whip                                                                              | 1d4             | 20       | Bludgeoning | —               | Small | —       | —           | —           |
-| Rifle butt                                                                               | 1d6             | 20       | Bludgeoning | —               | Large | —       | —           | —           |
-| Sap                                                                                      | 1d6<sup>1</sup> | 20       | Bludgeoning | —               | Small | 3 lb.   | 2           | —           |
-| Stun gun**<sup>1</sup>**                                                                 | 1d3             | 20       | Electricity | —               | Tiny  | 1 lb.   | 5           | —           |
-| Tonfa**<sup>1</sup>**                                                                    | 1d4             | 20       | Bludgeoning | —               | Med   | 2 lb.   | 6           | —           |
+| Brass knuckles | 1 | 20 | Bludgeoning | — | Tiny | 1 lb. | 5 | — |
+| Cleaver | 1d6 | 19–20 | Slashing | — | Small | 2 lb. | 5 | — |
+| Club | 1d6 | 20 | Bludgeoning | 10 ft. | Med | 3 lb. | 4 | — |
+| Knife | 1d4 | 19–20 | Piercing | 10 ft. | Tiny | 1 lb. | 7 | — |
+| Metal baton | 1d6 | 19–20 | Bludgeoning | — | Med | 2 lb. | 8 | — |
+| Pistol whip | 1d4 | 20 | Bludgeoning | — | Small | — | — | — |
+| Rifle butt | 1d6 | 20 | Bludgeoning | — | Large | — | — | — |
+| Sap | 1d6<sup>1</sup> | 20 | Bludgeoning | — | Small | 3 lb. | 2 | — |
+| Stun gun\*\*<sup>1</sup>\*\* | 1d3 | 20 | Electricity | — | Tiny | 1 lb. | 5 | — |
+| Tonfa\*\*<sup>1</sup>\*\* | 1d4 | 20 | Bludgeoning | — | Med | 2 lb. | 6 | — |
 
 1<sup> </sup>See the description of this weapon for special rules.
 

@@ -1,14 +1,14 @@
 # Change Self
 
-| Stat         | Value                |
+| Stat | Value |
 |--------------|----------------------|
-| School       | Illusion             |
-| Level        | Mage 1               |
-| Components   | V, S                 |
-| Casting Time | Attack action        |
-| Range        | Personal             |
-| Target       | You                  |
-| Duration     | 10 minutes/level (D) |
+| School | Illusion |
+| Level | Mage 1 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Personal |
+| Target | You |
+| Duration | 10 minutes/level (D) |
 
 The caster can make him or herself—including clothing, armor, weapons,
 and equipment—look different. The caster can seem 1 foot shorter or

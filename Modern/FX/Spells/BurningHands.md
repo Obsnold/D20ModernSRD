@@ -1,17 +1,17 @@
 # Burning Hands
 
-| Stat             | Value                                                            |
+| Stat | Value |
 |------------------|------------------------------------------------------------------|
-| School           | Transmutation                                                    |
-| Descriptors      | Fire                                                             |
-| Level            | Mage 1                                                           |
-| Components       | V, S                                                             |
-| Casting Time     | Attack action                                                    |
-| Range            | 10 ft.                                                           |
-| Area             | Semicircular burst of flames 10 ft. long, centered on your hands |
-| Duration         | Instantaneous                                                    |
-| Saving Throw     | Reflex half                                                      |
-| Spell Resistance | Yes                                                              |
+| School | Transmutation |
+| Descriptors | Fire |
+| Level | Mage 1 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | 10 ft. |
+| Area | Semicircular burst of flames 10 ft. long, centered on your hands |
+| Duration | Instantaneous |
+| Saving Throw | Reflex half |
+| Spell Resistance | Yes |
 
 A thin sheet of flame shoots from the caster’s outspread fingertips. The
 caster must hold his or her hands with the thumbs touching and fingers

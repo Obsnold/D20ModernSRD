@@ -1,10 +1,10 @@
 # Gamble
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Wis   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Wis |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 
@@ -42,11 +42,11 @@ next highest result among the other participants.
 
 | Check Result Difference | Wealth Bonus Increase |
 |-------------------------|-----------------------|
-| 1–9                     | +1                    |
-| 10–19                   | +2                    |
-| 20–29                   | +3                    |
-| 30­–39                  | +4                    |
-| 40 or more              | +5                    |
+| 1–9 | +1 |
+| 10–19 | +2 |
+| 20–29 | +3 |
+| 30­–39 | +4 |
+| 40 or more | +5 |
 
 ## Try Again?
 

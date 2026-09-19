@@ -5,36 +5,36 @@ outdoors.
 
 **Table: General Equipment: Survival Gear**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| Backpack                               | Med   | 3 lb.   | 10          | —            |
-| **Binoculars**                         |       |         |             |              |
-| Standard                               | Small | 2 lb.   | 7           | —            |
-| Rangefinding                           | Small | 3 lb.   | 15          | —            |
-| Electro-optical                        | Small | 4 lb.   | 16          | —            |
-| Chemical light sticks (5)              | Tiny  | 1 lb.   | 2           | —            |
-| Climbing gear                          | Large | 10 lb.  | 11          | —            |
-| Compass                                | Dim   | 0.5 lb. | 5           | —            |
-| Fire extinguisher                      | Med   | 3 lb.   | 8           | —            |
-| Flash goggles                          | Tiny  | 2 lb.   | 15          | —            |
-| **Flashlight**                         |       |         |             |              |
-| Penlight                               | Dim   | 0.5 lb. | 3           | —            |
-| Standard                               | Tiny  | 1 lb.   | 4           | —            |
-| Battery flood                          | Small | 2 lb.   | 6           | —            |
-| Gas mask                               | Small | 5 lb.   | 13          | —            |
-| GPS receiver                           | Tiny  | 1 lb.   | 15          | —            |
-| **Map**                                |       |         |             |              |
-| Road atlas                             | Tiny  | 1 lb.   | 4           | —            |
-| Tactical map                           | Tiny  | 0.5 lb. | 3           | —            |
-| Mesh vest                              | Med   | 7 lb.   | 8           | —            |
-| Portable stove                         | Tiny  | 1 lb.   | 9           | —            |
-| Rope (150 ft.)                         | Large | 12 lb.  | 5           | —            |
-| Sleeping bag                           | Med   | 4 lb.   | 9           | —            |
-| **Tent**                               |       |         |             |              |
-| 2-person dome                          | Med   | 4 lb.   | 11          | —            |
-| 4-person dome                          | Med   | 7 lb.   | 12          | —            |
-| 8-person dome                          | Large | 10 lb.  | 13          | —            |
-| Trail rations (12)                     | Tiny  | 1 lb.   | 5           | —            |
+| Backpack | Med | 3 lb. | 10 | — |
+| **Binoculars** | | | | |
+| Standard | Small | 2 lb. | 7 | — |
+| Rangefinding | Small | 3 lb. | 15 | — |
+| Electro-optical | Small | 4 lb. | 16 | — |
+| Chemical light sticks (5) | Tiny | 1 lb. | 2 | — |
+| Climbing gear | Large | 10 lb. | 11 | — |
+| Compass | Dim | 0.5 lb. | 5 | — |
+| Fire extinguisher | Med | 3 lb. | 8 | — |
+| Flash goggles | Tiny | 2 lb. | 15 | — |
+| **Flashlight** | | | | |
+| Penlight | Dim | 0.5 lb. | 3 | — |
+| Standard | Tiny | 1 lb. | 4 | — |
+| Battery flood | Small | 2 lb. | 6 | — |
+| Gas mask | Small | 5 lb. | 13 | — |
+| GPS receiver | Tiny | 1 lb. | 15 | — |
+| **Map** | | | | |
+| Road atlas | Tiny | 1 lb. | 4 | — |
+| Tactical map | Tiny | 0.5 lb. | 3 | — |
+| Mesh vest | Med | 7 lb. | 8 | — |
+| Portable stove | Tiny | 1 lb. | 9 | — |
+| Rope (150 ft.) | Large | 12 lb. | 5 | — |
+| Sleeping bag | Med | 4 lb. | 9 | — |
+| **Tent** | | | | |
+| 2-person dome | Med | 4 lb. | 11 | — |
+| 4-person dome | Med | 7 lb. | 12 | — |
+| 8-person dome | Large | 10 lb. | 13 | — |
+| Trail rations (12) | Tiny | 1 lb. | 5 | — |
 
 ## Backpack
 

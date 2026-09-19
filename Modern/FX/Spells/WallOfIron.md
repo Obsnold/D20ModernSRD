@@ -1,17 +1,17 @@
 # Wall of Iron
 
-| Stat             | Value                                                           |
+| Stat | Value |
 |------------------|-----------------------------------------------------------------|
-| School           | Conjuration                                                     |
-| Subschool        | Creation                                                        |
-| Level            | Mage 5                                                          |
-| Components       | V, S, M                                                         |
-| Casting Time     | Attack action                                                   |
-| Range            | Medium (100 ft. + 10 ft./level)                                 |
-| Effect           | Iron wall whose area is up to one 5-ft. square/level (see text) |
-| Duration         | Instantaneous                                                   |
-| Saving Throw     | See text                                                        |
-| Spell Resistance | No                                                              |
+| School | Conjuration |
+| Subschool | Creation |
+| Level | Mage 5 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Effect | Iron wall whose area is up to one 5-ft. square/level (see text) |
+| Duration | Instantaneous |
+| Saving Throw | See text |
+| Spell Resistance | No |
 
 The caster causes a flat, vertical iron wall to spring into being. This
 wall inserts itself into any surrounding nonliving material if its area

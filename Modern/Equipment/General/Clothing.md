@@ -20,23 +20,23 @@ object; clothing purposely tailored to conceal objects provides a bonus.
 
 **Table: General Equipment: Clothing**
 
-| Object                                 | Size  | Weight  | Purchase DC | Restriction  |
+| Object | Size | Weight | Purchase DC | Restriction |
 |----------------------------------------|-------|---------|-------------|--------------|
-| **Clothing outfit**                    |       |         |             |              |
-| Business                               | Med   | 3 lb.   | 12          | —            |
-| Casual                                 | Med   | 2 lb.   | 8           | —            |
-| Formal                                 | Med   | 3 lb.   | 15          | —            |
-| Fatigues                               | Med   | 3 lb.   | 9           | —            |
-| Uniform                                | Med   | 2 lb.   | 9           | —            |
-| Ghillie suit                           | Med   | 5 lb.   | 6           | —            |
-| **Outerwear**                          |       |         |             |              |
-| Coat                                   | Med   | 2 lb.   | 8           | —            |
-| Fatigue jacket                         | Med   | 2 lb.   | 7           | —            |
-| Overcoat                               | Med   | 3 lb.   | 9           | —            |
-| Parka                                  | Med   | 3 lb.   | 9           | —            |
-| Photojournalist’s vest                 | Med   | 1 lb.   | 9           | —            |
-| Windbreaker                            | Med   | 1 lb.   | 6           | —            |
-| Tool belt                              | Small | 2 lb.   | 9           | —            |
+| **Clothing outfit** | | | | |
+| Business | Med | 3 lb. | 12 | — |
+| Casual | Med | 2 lb. | 8 | — |
+| Formal | Med | 3 lb. | 15 | — |
+| Fatigues | Med | 3 lb. | 9 | — |
+| Uniform | Med | 2 lb. | 9 | — |
+| Ghillie suit | Med | 5 lb. | 6 | — |
+| **Outerwear** | | | | |
+| Coat | Med | 2 lb. | 8 | — |
+| Fatigue jacket | Med | 2 lb. | 7 | — |
+| Overcoat | Med | 3 lb. | 9 | — |
+| Parka | Med | 3 lb. | 9 | — |
+| Photojournalist’s vest | Med | 1 lb. | 9 | — |
+| Windbreaker | Med | 1 lb. | 6 | — |
+| Tool belt | Small | 2 lb. | 9 | — |
 
 ## Clothing Outfit
 
@@ -48,7 +48,7 @@ character wears does not count against the weight limit for encumbrance.
 *Business:* A business outfit generally includes a jacket or blazer, and
 it tends to look sharp and well groomed without being overly formal.
 
-*Casual: *Casual clothes range from cut-off jeans and a T-shirt to
+\*Casual: \*Casual clothes range from cut-off jeans and a T-shirt to
 neatly pressed khakis and a hand-knit sweater.
 
 *Formal:* From a little black dress to a fully appointed tuxedo, formal

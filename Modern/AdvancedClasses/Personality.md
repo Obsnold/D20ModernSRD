@@ -1,17 +1,17 @@
 # PERSONALITY
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|------------------------|---------------|------------------|
-| 1st         | +0                | +1        | +1       | +0        | Unlimited access       | +0            | +2               |
-| 2nd         | +1                | +2        | +2       | +0        | Bonus class skill      | +1            | +2               |
-| 3rd         | +1                | +2        | +2       | +1        | Bonus feat             | +1            | +2               |
-| 4th         | +2                | +2        | +2       | +1        | Royalty                | +1            | +3               |
-| 5th         | +2                | +3        | +3       | +1        | Winning smile          | +2            | +3               |
-| 6th         | +3                | +3        | +3       | +2        | Bonus feat             | +2            | +3               |
-| 7th         | +3                | +4        | +4       | +2        | Bonus class skill      | +2            | +4               |
-| 8th         | +4                | +4        | +4       | +2        | Royalty                | +3            | +4               |
-| 9th         | +4                | +4        | +4       | +3        | Bonus feat             | +3            | +4               |
-| 10th        | +5                | +5        | +5       | +3        | Compelling performance | +3            | +5               |
+| 1st | +0 | +1 | +1 | +0 | Unlimited access | +0 | +2 |
+| 2nd | +1 | +2 | +2 | +0 | Bonus class skill | +1 | +2 |
+| 3rd | +1 | +2 | +2 | +1 | Bonus feat | +1 | +2 |
+| 4th | +2 | +2 | +2 | +1 | Royalty | +1 | +3 |
+| 5th | +2 | +3 | +3 | +1 | Winning smile | +2 | +3 |
+| 6th | +3 | +3 | +3 | +2 | Bonus feat | +2 | +3 |
+| 7th | +3 | +4 | +4 | +2 | Bonus class skill | +2 | +4 |
+| 8th | +4 | +4 | +4 | +2 | Royalty | +3 | +4 |
+| 9th | +4 | +4 | +4 | +3 | Bonus feat | +3 | +4 |
+| 10th | +5 | +5 | +5 | +3 | Compelling performance | +3 | +5 |
 
 ## Requirements
 
@@ -23,32 +23,35 @@ following criteria.
 **Feat:** Renown.
 
 ## Hit Die
+
 1d6
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the Personality
 attains a new level in this class.
 
 ## Class Skills
+
 The Personality’s class skills (and the key ability for each skill) are:
 
- - Bluff (Cha)
- - Craft (visual arts) (Int)
- - Craft (writing) (Int)
- - Diplomacy (Cha)
- - Knowledge (art) (Int)
- - Knowledge (behavioral sciences) (Int)
- - Knowledge (business) (Int)
- - Knowledge (civics) (Int)
- - Knowledge (current events) (Int)
- - Knowledge (popular culture) (Int)
- - Perform (act) (Cha)
- - Perform (dance) (Cha)
- - Perform (sing) (Cha)
- - Perform (stand-up) (Cha)
- - Profession (Wis)
- - Read/Write Language (none)
- - Speak Language (none)
+- Bluff (Cha)
+- Craft (visual arts) (Int)
+- Craft (writing) (Int)
+- Diplomacy (Cha)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (business) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Perform (act) (Cha)
+- Perform (dance) (Cha)
+- Perform (sing) (Cha)
+- Perform (stand-up) (Cha)
+- Profession (Wis)
+- Read/Write Language (none)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -67,12 +70,12 @@ When a Personality buys a ticket to a show or for transportation, he or
 she can make a Diplomacy check to get that ticket upgraded. DCs are
 given below.
 
-| Upgrade                                     | Diplomacy DC |
+| Upgrade | Diplomacy DC |
 |---------------------------------------------|--------------|
-| Seat at sporting event to field pass        | 10           |
-| Hotel room to suite                         | 15           |
-| Concert or theater ticket to backstage pass | 20           |
-| Economy transportation to first-class       | 25           |
+| Seat at sporting event to field pass | 10 |
+| Hotel room to suite | 15 |
+| Concert or theater ticket to backstage pass | 20 |
+| Economy transportation to first-class | 25 |
 
 ### Bonus Class Skill
 
@@ -87,15 +90,15 @@ At 3rd, 6th, and 9th level, the Personality gets a bonus feat. The bonus
 feat must be selected from the following list, and the Personality must
 meet all the prerequisites of the feat to select it.
 
- - Alertness
- - Animal Affinity
- - Combat Expertise
- - Confident
- - Creative
- - Deceptive
- - Defensive Martial Arts
- - Educated
- - Trustworthy
+- Alertness
+- Animal Affinity
+- Combat Expertise
+- Confident
+- Creative
+- Deceptive
+- Defensive Martial Arts
+- Educated
+- Trustworthy
 
 ### Royalty
 

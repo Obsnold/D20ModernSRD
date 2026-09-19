@@ -1,17 +1,17 @@
 # Sending
 
-| Stat               | Value             |
+| Stat | Value |
 |--------------------|-------------------|
-| Key Ability        | Dexterity         |
-| Level              | Telepath 5        |
-| Display            | Mental            |
+| Key Ability | Dexterity |
+| Level | Telepath 5 |
+| Display | Mental |
 | Manifestation Time | Full-round action |
-| Range              | See text          |
-| Target             | One creature      |
-| Duration           | 1 round           |
-| Saving Throw       | None              |
-| Power Resistance   | No                |
-| Power Point Cost   | 9                 |
+| Range | See text |
+| Target | One creature |
+| Duration | 1 round |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 9 |
 
 The manifester contacts a particular individual with whom he or she is
 familiar and sends a short message of twenty-five words or less. The

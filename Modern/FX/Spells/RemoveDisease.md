@@ -1,17 +1,17 @@
 # Remove Disease
 
-| Stat             | Value                        |
+| Stat | Value |
 |------------------|------------------------------|
-| School           | Conjuration                  |
-| Subschool        | Healing                      |
-| Level            | Acolyte 3                    |
-| Components       | V, S                         |
-| Casting Time     | Attack action                |
-| Range            | Touch                        |
-| Target           | Creature touched             |
-| Duration         | Instantaneous                |
-| Saving Throw     | Fortitude negates (harmless) |
-| Spell Resistance | Yes (harmless)               |
+| School | Conjuration |
+| Subschool | Healing |
+| Level | Acolyte 3 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Instantaneous |
+| Saving Throw | Fortitude negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 Remove disease cures all treatable diseases afflicting the subject. It
 does not rid the subject of a disease for which no cure exists. Since

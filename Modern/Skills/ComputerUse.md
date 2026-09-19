@@ -1,10 +1,10 @@
 # Computer Use
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | No    |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | No |
+| Armor Penalty | No |
 
 ## Check
 
@@ -24,11 +24,11 @@ category; usually, such a task requires a Research check. This
 application of the Computer Use skill only pertains to finding files on
 private systems with which the character is not familiar.
 
-| Size of Site              | DC | Time       |
+| Size of Site | DC | Time |
 |---------------------------|----|------------|
-| Personal computer         | 10 | 1 round    |
-| Small office network      | 15 | 2 rounds   |
-| Large office network      | 20 | 1 minute   |
+| Personal computer | 10 | 1 round |
+| Small office network | 15 | 2 rounds |
+| Large office network | 20 | 1 minute |
 | Massive corporate network | 25 | 10 minutes |
 
 **Defeat Computer Security:** This application of Computer Use can’t be
@@ -48,10 +48,10 @@ below).
 
 | Level of Security | DC |
 |-------------------|----|
-| Minimum           | 20 |
-| Average           | 25 |
-| Exceptional       | 35 |
-| Maximum           | 40 |
+| Minimum | 20 |
+| Average | 25 |
+| Exceptional | 35 |
+| Maximum | 40 |
 
 ### Computer Hacking
 
@@ -158,11 +158,11 @@ won’t simply decide to use a different computer).
 A character can degrade the programming of multiple computers at a
 single site; doing so adds +2 to the DC for each additional computer.
 
-| Scope of Alteration | DC | Time       |
+| Scope of Alteration | DC | Time |
 |---------------------|----|------------|
-| Crash computer      | 10 | 1 minute   |
+| Crash computer | 10 | 1 minute |
 | Destroy programming | 15 | 10 minutes |
-| Damage programming  | 20 | 10 minutes |
+| Damage programming | 20 | 10 minutes |
 
 Fixing the degraded programming requires 1 hour and a Computer Use check
 against a DC equal to the DC for degrading it + 5.
@@ -184,16 +184,16 @@ alerts its administrator that there has been an unauthorized use of the
 equipment. An alerted administrator may attempt to identify the
 character or cut off his or her access to the system.
 
-| Type of Operation                                               | DC  | Time                |
+| Type of Operation | DC | Time |
 |-----------------------------------------------------------------|-----|---------------------|
-| Shut down passive remote (including cameras and door locks)     | 20  | 1 round per remote  |
-| Shut down active remote (including motion detectors and alarms) | 25  | 1 round per remote  |
-| Reset parameters                                                | 30  | 1 minute per remote |
-| Change passcodes                                                | 25  | 1 minute            |
-| Hide evidence of alteration                                     | +10 | 1 minute            |
-| Minimum security                                                | –5  | —                   |
-| Exceptional security                                            | +10 | —                   |
-| Maximum security                                                | +15 | —                   |
+| Shut down passive remote (including cameras and door locks) | 20 | 1 round per remote |
+| Shut down active remote (including motion detectors and alarms) | 25 | 1 round per remote |
+| Reset parameters | 30 | 1 minute per remote |
+| Change passcodes | 25 | 1 minute |
+| Hide evidence of alteration | +10 | 1 minute |
+| Minimum security | –5 | — |
+| Exceptional security | +10 | — |
+| Maximum security | +15 | — |
 
 ## Special
 

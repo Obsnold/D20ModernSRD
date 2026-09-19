@@ -1,14 +1,14 @@
 # Valor
 
-| Stat               | Value         |
+| Stat | Value |
 |--------------------|---------------|
-| Key Ability        | Strength      |
-| Level              | Battle Mind 0 |
-| Display            | Audible       |
-| Manifestation Time | See text      |
-| Range              | Personal      |
-| Target             | You           |
-| Power Point Cost   | 1             |
+| Key Ability | Strength |
+| Level | Battle Mind 0 |
+| Display | Audible |
+| Manifestation Time | See text |
+| Range | Personal |
+| Target | You |
+| Power Point Cost | 1 |
 
 The manifester can immediately apply a +1 morale bonus on a saving
 throw.

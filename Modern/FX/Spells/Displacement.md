@@ -1,16 +1,16 @@
 # Displacement
 
-| Stat             | Value                   |
+| Stat | Value |
 |------------------|-------------------------|
-| School           | Illusion                |
-| Level            | Mage 3                  |
-| Components       | V, M                    |
-| Casting Time     | Attack action           |
-| Range            | Touch                   |
-| Target           | Creature touched        |
-| Duration         | 1 round/level (D)       |
-| Saving Throw     | Will negates (harmless) |
-| Spell Resistance | Yes (harmless)          |
+| School | Illusion |
+| Level | Mage 3 |
+| Components | V, M |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | 1 round/level (D) |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 The subject appears to be about 2 feet away from his or her true
 location. The subject benefits from a 50% miss chance as if he or she

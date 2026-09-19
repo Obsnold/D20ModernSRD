@@ -1,17 +1,17 @@
 # SOLDIER
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
-| 1st         | +0                | +1        | +1       | +0        | Weapon Focus                  | +1            | +0               |
-| 2nd         | +1                | +2        | +2       | +0        | Weapon specialization         | +1            | +0               |
-| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                    | +2            | +0               |
-| 4th         | +3                | +2        | +2       | +1        | Tactical aid                  | +2            | +0               |
-| 5th         | +3                | +3        | +3       | +1        | Improved critical             | +3            | +1               |
-| 6th         | +4                | +3        | +3       | +2        | Bonus feat                    | +3            | +1               |
-| 7th         | +5                | +4        | +4       | +2        | Improved reaction             | +4            | +1               |
-| 8th         | +6                | +4        | +4       | +2        | Greater weapon specialization | +4            | +1               |
-| 9th         | +6                | +4        | +4       | +3        | Bonus feat                    | +5            | +2               |
-| 10th        | +7                | +5        | +5       | +3        | Critical strike               | +5            | +2               |
+| 1st | +0 | +1 | +1 | +0 | Weapon Focus | +1 | +0 |
+| 2nd | +1 | +2 | +2 | +0 | Weapon specialization | +1 | +0 |
+| 3rd | +2 | +2 | +2 | +1 | Bonus feat | +2 | +0 |
+| 4th | +3 | +2 | +2 | +1 | Tactical aid | +2 | +0 |
+| 5th | +3 | +3 | +3 | +1 | Improved critical | +3 | +1 |
+| 6th | +4 | +3 | +3 | +2 | Bonus feat | +3 | +1 |
+| 7th | +5 | +4 | +4 | +2 | Improved reaction | +4 | +1 |
+| 8th | +6 | +4 | +4 | +2 | Greater weapon specialization | +4 | +1 |
+| 9th | +6 | +4 | +4 | +3 | Bonus feat | +5 | +2 |
+| 10th | +7 | +5 | +5 | +3 | Critical strike | +5 | +2 |
 
 ## Requirements
 
@@ -25,31 +25,34 @@ criteria.
 **Feat:** Personal Firearms Proficiency.
 
 ## Hit Die
+
 1d10
 
 ## Action Points
+
 6 + one-half character level, rounded down, every time the character
 attains a new level in this class.
 
 ## Class Skills
+
 The Soldier’s class skills (and the key ability for each skill) are:
 
- - Demolitions (Int)
- - Drive (Dex)
- - Intimidate (Cha)
- - Jump (Str)
- - Knowledge (current events) (Int)
- - Knowledge (history) (Int)
- - Knowledge (popular culture) (Int)
- - Knowledge (tactics) (Int)
- - Listen (Wis)
- - Navigate (Int)
- - Profession (Wis)
- - Read/Write Language (none)
- - Speak Language (none)
- - Spot (Wis)
- - Survival (Wis)
- - Swim (Str)
+- Demolitions (Int)
+- Drive (Dex)
+- Intimidate (Cha)
+- Jump (Str)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (tactics) (Int)
+- Listen (Wis)
+- Navigate (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Speak Language (none)
+- Spot (Wis)
+- Survival (Wis)
+- Swim (Str)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
@@ -79,23 +82,23 @@ At 3rd, 6th, and 9th level, the Soldier gets a bonus feat. The bonus
 feat must be selected from the following list, and the Soldier must meet
 all the prerequisites of the feat to select it.
 
- - Advanced Firearms Proficiency
- - Archaic Weapons Proficiency
- - Armor Proficiency (light)
- - Armor Proficiency (medium)
- - Armor Proficiency (heavy)
- - Brawl
- - Burst Fire
- - Cleave
- - Combat Reflexes
- - Exotic Firearms Proficiency
- - Exotic Melee Weapon Proficiency
- - Far Shot
- - Great Cleave
- - Improved Brawl
- - Improved Knockout Punch
- - Knockout Punch
- - Power Attack
+- Advanced Firearms Proficiency
+- Archaic Weapons Proficiency
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Armor Proficiency (heavy)
+- Brawl
+- Burst Fire
+- Cleave
+- Combat Reflexes
+- Exotic Firearms Proficiency
+- Exotic Melee Weapon Proficiency
+- Far Shot
+- Great Cleave
+- Improved Brawl
+- Improved Knockout Punch
+- Knockout Punch
+- Power Attack
 
 ### Tactical Aid
 

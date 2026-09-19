@@ -1,16 +1,16 @@
 # Inflict Minor Wounds
 
-| Stat             | Value            |
+| Stat | Value |
 |------------------|------------------|
-| School           | Necromancy       |
-| Level            | Acolyte 0        |
-| Components       | V, S             |
-| Casting Time     | Attack action    |
-| Range            | Touch            |
-| Target           | Creature touched |
-| Duration         | Instantaneous    |
-| Saving Throw     | Will negates     |
-| Spell Resistance | Yes              |
+| School | Necromancy |
+| Level | Acolyte 0 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Instantaneous |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 The caster lays his or her hand upon a creature and channels negative
 energy that deals 1 point of damage.

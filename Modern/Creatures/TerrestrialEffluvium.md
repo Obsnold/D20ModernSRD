@@ -20,39 +20,39 @@ points of damage to the creature each round.
 
 ## Terrestrial Effluvium
 
-| Stat              | Value                                                                |
+| Stat | Value |
 |-------------------|----------------------------------------------------------------------|
-| CR                | 15                                                                   |
-| Size              | Colossal                                                             |
-| Type              | ooze                                                                 |
-| HD                | 32d10+256 plus 40 (extra hit points)                                 |
-| hp                | 472                                                                  |
-| Mas               | —                                                                    |
-| Init              | –2                                                                   |
-| Spd               | 10 ft.                                                               |
-| Defense           | 6                                                                    |
-| Touch             | 0                                                                    |
-| Flat-Footed       | 6                                                                    |
-| Defense Breakdown | –8 size, –2 Dex, +6 natural                                          |
-| BAB               | +24                                                                  |
-| Grap              | +53                                                                  |
-| Atk               | +37 melee (2d8+19 plus 1d6 acid, slam)                               |
-| Full Atk          | +37/+32/+27/+22 melee (2d8+19 plus 1d6 acid, slam)                   |
-| FS                | 30 ft. by 30 ft.                                                     |
-| Reach             | 15 ft.                                                               |
-| SQ                | ooze, acidic enzymes, immunities, vulnerabilities, blindsight 60 ft. |
-| AL                | none                                                                 |
-| Fort              | +18                                                                  |
-| Ref               | +8                                                                   |
-| Will              | +5                                                                   |
-| AP                | 0                                                                    |
-| Rep               | +0                                                                   |
-| Str               | 44                                                                   |
-| Dex               | 6                                                                    |
-| Con               | 26                                                                   |
-| Int               | —                                                                    |
-| Wis               | 1                                                                    |
-| Cha               | 1                                                                    |
+| CR | 15 |
+| Size | Colossal |
+| Type | ooze |
+| HD | 32d10+256 plus 40 (extra hit points) |
+| hp | 472 |
+| Mas | — |
+| Init | –2 |
+| Spd | 10 ft. |
+| Defense | 6 |
+| Touch | 0 |
+| Flat-Footed | 6 |
+| Defense Breakdown | –8 size, –2 Dex, +6 natural |
+| BAB | +24 |
+| Grap | +53 |
+| Atk | +37 melee (2d8+19 plus 1d6 acid, slam) |
+| Full Atk | +37/+32/+27/+22 melee (2d8+19 plus 1d6 acid, slam) |
+| FS | 30 ft. by 30 ft. |
+| Reach | 15 ft. |
+| SQ | ooze, acidic enzymes, immunities, vulnerabilities, blindsight 60 ft. |
+| AL | none |
+| Fort | +18 |
+| Ref | +8 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 44 |
+| Dex | 6 |
+| Con | 26 |
+| Int | — |
+| Wis | 1 |
+| Cha | 1 |
 
 **Skills:** None.
 

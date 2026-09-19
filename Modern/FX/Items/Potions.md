@@ -16,36 +16,36 @@ Examples of potions include the following.
 
 ## Potion of Charisma
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 This potion adds a +5 enhancement bonus to the
 drinker’s Charisma score for 5 minutes.
 
 ## Potion of Constitution
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 This potion provides a +5 enhancement bonus to
 the drinker’s Constitution score for 5 minutes.
 
 ## Potion of Cure Light Wounds
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 1st    |
-| Purchase DC  | 19     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 1st |
+| Purchase DC | 19 |
+| Weight | —. |
 
 A character who drinks this potion heals
 1d8+1 points of damage. More potent versions of this potion (with
@@ -54,12 +54,12 @@ spells) are rumored to exist.
 
 ## Potion of Darkvision
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 3rd    |
-| Purchase DC  | 22     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 3rd |
+| Purchase DC | 22 |
+| Weight | —. |
 
 The imbibing character can see in the dark for 3
 hours, although everything he or she sees appears in shades of black and
@@ -67,36 +67,36 @@ white.
 
 ## Potion of Dexterity
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 The imbibing gets a +5 enhancement bonus to his or
 her Dexterity score for 5 minutes.
 
 ## Potion of Intelligence
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 This potion provides a +5 enhancement bonus to
 the drinker’s Intelligence score for 5 minutes.
 
 ## Potion of Invisibility
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 3rd    |
-| Purchase DC  | 22     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 3rd |
+| Purchase DC | 22 |
+| Weight | —. |
 
 The drinker and any gear he or she is carrying
 vanish from sight. Even creatures with darkvision cannot see the
@@ -110,12 +110,12 @@ or she attacks any creature; otherwise, the effect lasts for 3 minutes.
 
 ## Potion of See Invisibility
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 3rd    |
-| Purchase DC  | 22     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 3rd |
+| Purchase DC | 22 |
+| Weight | —. |
 
 This potion allows its drinker to see
 objects and beings that are invisible as if they were normally visible.
@@ -125,24 +125,24 @@ or otherwise hard to see. The effect lasts 30 minutes.
 
 ## Potion of Stealth
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 6th    |
-| Purchase DC  | 24     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 6th |
+| Purchase DC | 24 |
+| Weight | —. |
 
 This potion grants a +5 circumstance bonus on her
 Hide and Move Silently checks for 1 hour.
 
 ## Potion of Strength
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 This potion improves the imbiber’s strength,
 resulting in a +5 enhancement bonus to the drinker’s Strength score for
@@ -150,12 +150,12 @@ resulting in a +5 enhancement bonus to the drinker’s Strength score for
 
 ## Potion of Truth
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 4th    |
-| Purchase DC  | 25     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 4th |
+| Purchase DC | 25 |
+| Weight | —. |
 
 This potion forces the individual drinking it to say
 nothing but the truth for 10 minutes; a successful Will save (DC 12)
@@ -169,12 +169,12 @@ This effect is a mind-affecting enchantment.
 
 ## Potion of Wisdom
 
-| Stat         | Value  |
+| Stat | Value |
 |--------------|--------|
-| Type         | Potion |
-| Caster Level | 5th    |
-| Purchase DC  | 23     |
-| Weight       | —.     |
+| Type | Potion |
+| Caster Level | 5th |
+| Purchase DC | 23 |
+| Weight | —. |
 
 This potion adds a +5 enhancement bonus to the
 drinker’s Wisdom score for 5 minutes.

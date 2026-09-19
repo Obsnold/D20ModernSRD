@@ -12,11 +12,11 @@ the creature is unique or has traits unlike other members of its
 species. The type of information gleaned in this amount of time depends
 on the hero’s Research check result, as shown below.
 
-| Type of Information                                                           | Research Check DC |
+| Type of Information | Research Check DC |
 |-------------------------------------------------------------------------------|-------------------|
-| **Type Traits**                                                               |                   |
-| Reveals a creature’s type and any traits common to that type.                 | 15                |
-| **Species Traits**                                                            |                   |
-| Reveals a specific creature’s Species Traits.                                 | 20                |
-| **Unique Traits**                                                             |                   |
-| Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25                |
+| **Type Traits** | |
+| Reveals a creature’s type and any traits common to that type. | 15 |
+| **Species Traits** | |
+| Reveals a specific creature’s Species Traits. | 20 |
+| **Unique Traits** | |
+| Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25 |

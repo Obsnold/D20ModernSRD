@@ -1,10 +1,10 @@
 # Knowledge
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Int   |
-| Trained Only  | Yes   |
-| Armor Penalty | No    |
+| Key Ability | Int |
+| Trained Only | Yes |
+| Armor Penalty | No |
 
 This skill encompasses several categories, each of them treated as a
 separate skill. These categories are identified and defined below.
@@ -91,7 +91,7 @@ check. Without actual training, a character only knows common knowledge
 about a given subject.
 
 A character can take 10 when making a Knowledge check, but can’t take
-20.
+20\.
 
 A character with the Educated feat gets a +2 bonus on any two types of
 Knowledge checks.

@@ -8,12 +8,12 @@ modified for boats, heavier armored vehicles, and aircraft.
 
 ## Vehicle Rules
 
- - [Characters in Vehicles](CharactersInVehicles.md)
- - [Scale](Scale.md)
- - [Getting Started](GettingStarted.md)
- - [Vehicle Speed](VehicleSpeed.md)
- - [Driving a Vehicle](DrivingAVehicle.md)
- - [Collisions and Ramming](CollisionsAndRamming.md)
- - [Hide and Seek](HideAndSeek.md)
- - [Fighting from Vehicles](FightingFromVehicles.md)
- - [Damaging Vehicles](DamagingVehicles.md)
+- [Characters in Vehicles](CharactersInVehicles.md)
+- [Scale](Scale.md)
+- [Getting Started](GettingStarted.md)
+- [Vehicle Speed](VehicleSpeed.md)
+- [Driving a Vehicle](DrivingAVehicle.md)
+- [Collisions and Ramming](CollisionsAndRamming.md)
+- [Hide and Seek](HideAndSeek.md)
+- [Fighting from Vehicles](FightingFromVehicles.md)
+- [Damaging Vehicles](DamagingVehicles.md)

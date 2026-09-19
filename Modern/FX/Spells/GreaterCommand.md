@@ -1,17 +1,17 @@
 # Greater Command
 
-| Stat             | Value                                                             |
+| Stat | Value |
 |------------------|-------------------------------------------------------------------|
-| School           | Enchantment                                                       |
-| Descriptors      | Language-Dependent, Mind-Affecting                                |
-| Level            | Acolyte 5                                                         |
-| Components       | V                                                                 |
-| Casting Time     | Attack action                                                     |
-| Range            | Close (25 ft. + 5 ft./2 levels)                                   |
-| Targets          | One creature/level, no two of which can be more than 30 ft. apart |
-| Duration         | 1 round/level                                                     |
-| Saving Throw     | Will negates                                                      |
-| Spell Resistance | Yes                                                               |
+| School | Enchantment |
+| Descriptors | Language-Dependent, Mind-Affecting |
+| Level | Acolyte 5 |
+| Components | V |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Targets | One creature/level, no two of which can be more than 30 ft. apart |
+| Duration | 1 round/level |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 The caster gives the subjects a single command, which they obey to the
 best of their ability at their earliest opportunity. The caster may

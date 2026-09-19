@@ -1,16 +1,16 @@
 # Haste
 
-| Stat             | Value                           |
+| Stat | Value |
 |------------------|---------------------------------|
-| School           | Transmutation                   |
-| Level            | Mage 3                          |
-| Components       | V, S, M                         |
-| Casting Time     | Attack action                   |
-| Range            | Close (25 ft. + 5 ft./2 levels) |
-| Target           | One creature                    |
-| Duration         | 1 round/level                   |
-| Saving Throw     | Fortitude negates (harmless)    |
-| Spell Resistance | Yes (harmless)                  |
+| School | Transmutation |
+| Level | Mage 3 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One creature |
+| Duration | 1 round/level |
+| Saving Throw | Fortitude negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 The transmuted creature moves and acts more quickly than normal. This
 extra speed has several effects.

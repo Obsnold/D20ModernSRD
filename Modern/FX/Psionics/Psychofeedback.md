@@ -1,15 +1,15 @@
 # Psychofeedback
 
-| Stat               | Value         |
+| Stat | Value |
 |--------------------|---------------|
-| Key Ability        | Strength      |
-| Level              | Battle Mind 4 |
-| Display            | Visual        |
+| Key Ability | Strength |
+| Level | Battle Mind 4 |
+| Display | Visual |
 | Manifestation Time | Attack action |
-| Range              | Personal      |
-| Target             | You           |
-| Duration           | 1 minute (D)  |
-| Power Point Cost   | 7             |
+| Range | Personal |
+| Target | You |
+| Duration | 1 minute (D) |
+| Power Point Cost | 7 |
 
 The manifester can use power points to boost his or her Strength,
 Dexterity, and Constitution modifiers as a free action. While the

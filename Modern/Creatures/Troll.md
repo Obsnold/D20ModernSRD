@@ -26,39 +26,39 @@ or one other language.
 
 ## Troll
 
-| Stat              | Value                                                                                        |
+| Stat | Value |
 |-------------------|----------------------------------------------------------------------------------------------|
-| CR                | 5                                                                                            |
-| Size              | Large                                                                                        |
-| Type              | giant                                                                                        |
-| HD                | 6d8+36                                                                                       |
-| hp                | 63                                                                                           |
-| Mas               | 23                                                                                           |
-| Init              | +2                                                                                           |
-| Spd               | 30 ft.                                                                                       |
-| Defense           | 18                                                                                           |
-| Touch             | 11                                                                                           |
-| Flat-Footed       | 15                                                                                           |
-| Defense Breakdown | –1 size, +2 Dex, +7 natural                                                                  |
-| BAB               | +4                                                                                           |
-| Grap              | +14                                                                                          |
-| Atk               | +9 melee (1d6+6, claw)                                                                       |
-| Full Atk          | +9 melee (1d6+6, 2 claws), +7 melee (1d6+3 bite), or +5 ranged                               |
-| FS                | 10 ft. by 10 ft.                                                                             |
-| Reach             | 10 ft.                                                                                       |
-| SQ                | rend 2d6+9, regeneration 5 (cannot regenerate acid or fire damage), scent, darkvision 90 ft. |
-| AL                | chaos, evil                                                                                  |
-| Fort              | +11                                                                                          |
-| Ref               | +4                                                                                           |
-| Will              | +1                                                                                           |
-| AP                | 0                                                                                            |
-| Rep               | +0                                                                                           |
-| Str               | 23                                                                                           |
-| Dex               | 14                                                                                           |
-| Con               | 23                                                                                           |
-| Int               | 6                                                                                            |
-| Wis               | 9                                                                                            |
-| Cha               | 6                                                                                            |
+| CR | 5 |
+| Size | Large |
+| Type | giant |
+| HD | 6d8+36 |
+| hp | 63 |
+| Mas | 23 |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 18 |
+| Touch | 11 |
+| Flat-Footed | 15 |
+| Defense Breakdown | –1 size, +2 Dex, +7 natural |
+| BAB | +4 |
+| Grap | +14 |
+| Atk | +9 melee (1d6+6, claw) |
+| Full Atk | +9 melee (1d6+6, 2 claws), +7 melee (1d6+3 bite), or +5 ranged |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | rend 2d6+9, regeneration 5 (cannot regenerate acid or fire damage), scent, darkvision 90 ft. |
+| AL | chaos, evil |
+| Fort | +11 |
+| Ref | +4 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 23 |
+| Dex | 14 |
+| Con | 23 |
+| Int | 6 |
+| Wis | 9 |
+| Cha | 6 |
 
 **Skills:** Listen +5, Speak Giant, Spot +5.
 
@@ -68,39 +68,39 @@ or one other language.
 
 ## Troll Tough Hero 7
 
-| Stat              | Value                                                                                        |
+| Stat | Value |
 |-------------------|----------------------------------------------------------------------------------------------|
-| CR                | 12                                                                                           |
-| Size              | Large                                                                                        |
-| Type              | giant                                                                                        |
-| HD                | 6d8+42 plus 7d10+49 plus 7 (robust)                                                          |
-| hp                | 163                                                                                          |
-| Mas               | 25                                                                                           |
-| Init              | +2                                                                                           |
-| Spd               | 30 ft.                                                                                       |
-| Defense           | 22                                                                                           |
-| Touch             | 15                                                                                           |
-| Flat-Footed       | 19                                                                                           |
-| Defense Breakdown | –1 size, +2 Dex, +4 class, +7 natural                                                        |
-| BAB               | +9                                                                                           |
-| Grap              | +19                                                                                          |
-| Atk               | +14 melee (1d6+6, claw)                                                                      |
-| Full Atk          | +14 melee (1d6+6, 2 claws), +12 melee (1d6+3 bite), or +10/+5 ranged (2d8, M16A2)            |
-| FS                | 10 ft. by 10 ft.                                                                             |
-| Reach             | 10 ft.                                                                                       |
-| SQ                | rend 2d6+9, regeneration 5 (cannot regenerate acid or fire damage), scent, darkvision 90 ft. |
-| AL                | chaos, evil                                                                                  |
-| Fort              | +15                                                                                          |
-| Ref               | +6                                                                                           |
-| Will              | +3                                                                                           |
-| AP                | 3                                                                                            |
-| Rep               | +2                                                                                           |
-| Str               | 23                                                                                           |
-| Dex               | 14                                                                                           |
-| Con               | 25                                                                                           |
-| Int               | 6                                                                                            |
-| Wis               | 9                                                                                            |
-| Cha               | 6                                                                                            |
+| CR | 12 |
+| Size | Large |
+| Type | giant |
+| HD | 6d8+42 plus 7d10+49 plus 7 (robust) |
+| hp | 163 |
+| Mas | 25 |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 22 |
+| Touch | 15 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –1 size, +2 Dex, +4 class, +7 natural |
+| BAB | +9 |
+| Grap | +19 |
+| Atk | +14 melee (1d6+6, claw) |
+| Full Atk | +14 melee (1d6+6, 2 claws), +12 melee (1d6+3 bite), or +10/+5 ranged (2d8, M16A2) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | rend 2d6+9, regeneration 5 (cannot regenerate acid or fire damage), scent, darkvision 90 ft. |
+| AL | chaos, evil |
+| Fort | +15 |
+| Ref | +6 |
+| Will | +3 |
+| AP | 3 |
+| Rep | +2 |
+| Str | 23 |
+| Dex | 14 |
+| Con | 25 |
+| Int | 6 |
+| Wis | 9 |
+| Cha | 6 |
 
 **Skills:** Climb +8, Drive +7, Listen +5, Read/Write English, Speak
 English, Speak Giant, Spot +5.

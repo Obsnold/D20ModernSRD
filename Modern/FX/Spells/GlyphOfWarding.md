@@ -1,16 +1,16 @@
 # Glyph of Warding
 
-| Stat             | Value                                   |
+| Stat | Value |
 |------------------|-----------------------------------------|
-| School           | Abjuration                              |
-| Level            | Acolyte 3                               |
-| Components       | V, S, M                                 |
-| Casting Time     | 10 minutes                              |
-| Range            | Touch                                   |
-| Target or Area   | Object touched or up to 5 sq. ft./level |
-| Duration         | Permanent until discharged (D)          |
-| Saving Throw     | See text                                |
-| Spell Resistance | Yes (object)                            |
+| School | Abjuration |
+| Level | Acolyte 3 |
+| Components | V, S, M |
+| Casting Time | 10 minutes |
+| Range | Touch |
+| Target or Area | Object touched or up to 5 sq. ft./level |
+| Duration | Permanent until discharged (D) |
+| Saving Throw | See text |
+| Spell Resistance | Yes (object) |
 
 This inscription harms those who enter, pass, or open the warded area or
 object.

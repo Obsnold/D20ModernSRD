@@ -1,10 +1,10 @@
 # Sleight of Hand
 
-| Stat          | Value |
+| Stat | Value |
 |---------------|-------|
-| Key Ability   | Dex   |
-| Trained Only  | Yes   |
-| Armor Penalty | Yes   |
+| Key Ability | Dex |
+| Trained Only | Yes |
+| Armor Penalty | Yes |
 
 ## Check
 

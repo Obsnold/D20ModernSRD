@@ -22,12 +22,12 @@ Examples of staffs include the following.
 
 ## Staff of Fire
 
-| Stat         | Value         |
+| Stat | Value |
 |--------------|---------------|
-| Type         | Staff (magic) |
-| Caster Level | 9th (arcane)  |
-| Purchase DC  | 43            |
-| Weight       | 5 lb.         |
+| Type | Staff (magic) |
+| Caster Level | 9th (arcane) |
+| Purchase DC | 43 |
+| Weight | 5 lb. |
 
 The staff has three uses, each identical to the
 corresponding arcane spell. Each time the staff is used, it depletes a
@@ -41,12 +41,12 @@ Wall of fire (DC 17); uses 2 charges.
 
 ## Staff of Illumination
 
-| Stat         | Value         |
+| Stat | Value |
 |--------------|---------------|
-| Type         | Staff (magic) |
-| Caster Level | 9th (divine)  |
-| Purchase DC  | 41            |
-| Weight       | 5 lb.         |
+| Type | Staff (magic) |
+| Caster Level | 9th (divine) |
+| Purchase DC | 41 |
+| Weight | 5 lb. |
 
 The staff has three uses, each identical to the
 corresponding divine spell. Each time the staff is used, it depletes a
@@ -61,12 +61,12 @@ True seeing (lasts 9 minutes; Will save DC 17); uses 2 charges.
 
 ## Staff of the Mind’s Eye
 
-| Stat             | Value           |
+| Stat | Value |
 |------------------|-----------------|
-| Type             | Staff (psionic) |
-| Manifester Level | 9th             |
-| Purchase DC      | 40              |
-| Weight           | 5 lb.           |
+| Type | Staff (psionic) |
+| Manifester Level | 9th |
+| Purchase DC | 40 |
+| Weight | 5 lb. |
 
 This staff has three uses, each identical to
 the corresponding psionic power. Each time the staff is used, it

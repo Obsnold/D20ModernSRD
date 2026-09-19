@@ -1,17 +1,17 @@
 # Dimension Door
 
-| Stat             | Value                                                                                  |
+| Stat | Value |
 |------------------|----------------------------------------------------------------------------------------|
-| School           | Conjuration                                                                            |
-| Subschool        | Teleporting                                                                            |
-| Level            | Mage 4                                                                                 |
-| Components       | V                                                                                      |
-| Casting Time     | Attack action                                                                          |
-| Range            | Long (400 ft. + 40 ft./level)                                                          |
-| Target           | You and touched objects or other touched willing creatures weighing up to 50 lb./level |
-| Duration         | Instantaneous                                                                          |
-| Saving Throw     | None and Will negates (object)                                                         |
-| Spell Resistance | No and Yes (object)                                                                    |
+| School | Conjuration |
+| Subschool | Teleporting |
+| Level | Mage 4 |
+| Components | V |
+| Casting Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Target | You and touched objects or other touched willing creatures weighing up to 50 lb./level |
+| Duration | Instantaneous |
+| Saving Throw | None and Will negates (object) |
+| Spell Resistance | No and Yes (object) |
 
 The caster instantly transfers him or herself from his or her current
 location to any other spot within range. The caster always arrives at

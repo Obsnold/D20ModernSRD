@@ -50,14 +50,14 @@ a given situation.
 
 **Table: Skill Points per Level**
 
-| Class       | 1st Level Skill Points | Higher Level Skill Points |
+| Class | 1st Level Skill Points | Higher Level Skill Points |
 |-------------|------------------------|---------------------------|
-| Strong      | (3 + Int modifier) x4  | 3 + Int modifier          |
-| Fast        | (5 + Int modifier) x4  | 5 + Int modifier          |
-| Tough       | (3 + Int modifier) x4  | 3 + Int modifier          |
-| Smart       | (9 + Int modifier) x4  | 9 + Int modifier          |
-| Dedicated   | (5 + Int modifier) x4  | 5 + Int modifier          |
-| Charismatic | (7 + Int modifier) x4  | 7 + Int modifier          |
+| Strong | (3 + Int modifier) x4 | 3 + Int modifier |
+| Fast | (5 + Int modifier) x4 | 5 + Int modifier |
+| Tough | (3 + Int modifier) x4 | 3 + Int modifier |
+| Smart | (9 + Int modifier) x4 | 9 + Int modifier |
+| Dedicated | (5 + Int modifier) x4 | 5 + Int modifier |
+| Charismatic | (7 + Int modifier) x4 | 7 + Int modifier |
 
 ## Skill Checks
 
@@ -73,17 +73,17 @@ must attain to succeed.
 
 **Table: Difficulty Class Examples**
 
-| Difficulty (DC)        | Example (Skill Used)                                                                                                                        |
+| Difficulty (DC) | Example (Skill Used) |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Very easy (0)          | Notice something large in plain sight (Spot)                                                                                                |
-| Easy (5)               | Climb a knotted rope (Climb)                                                                                                                |
-| Average (10)           | Hear an approaching security guard (Listen)                                                                                                 |
-| Tough (15)             | Disarm an explosive (Demolitions)                                                                                                           |
-| Challenging (20)       | Swim against a strong current (Swim)                                                                                                        |
-| Formidable (25)        | Break into a secure computer system (Computer Use)                                                                                          |
-| Heroic (30)            | Leap across a 30-foot chasm (Jump)                                                                                                          |
-| Superheroic (35)       | Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff) |
-| Nearly impossible (40) | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)                             |
+| Very easy (0) | Notice something large in plain sight (Spot) |
+| Easy (5) | Climb a knotted rope (Climb) |
+| Average (10) | Hear an approaching security guard (Listen) |
+| Tough (15) | Disarm an explosive (Demolitions) |
+| Challenging (20) | Swim against a strong current (Swim) |
+| Formidable (25) | Break into a secure computer system (Computer Use) |
+| Heroic (30) | Leap across a 30-foot chasm (Jump) |
+| Superheroic (35) | Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff) |
+| Nearly impossible (40) | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival) |
 
 ## Opposed Checks
 
@@ -95,15 +95,15 @@ score wins. If those scores are the same, roll again.
 
 **Table: Example Opposed Checks**
 
-| Task                       | Skill           | Opposing Skill |
+| Task | Skill | Opposing Skill |
 |----------------------------|-----------------|----------------|
-| Sneak up on someone        | Move Silently   | Listen         |
-| Con someone                | Bluff           | Sense Motive   |
-| Hide from someone          | Hide            | Spot           |
-| Win a car race             | Drive           | Drive          |
-| Pretend to be someone else | Disguise        | Spot           |
-| Steal a key chain          | Sleight of Hand | Spot           |
-| Create a fake ID           | Forgery         | Forgery        |
+| Sneak up on someone | Move Silently | Listen |
+| Con someone | Bluff | Sense Motive |
+| Hide from someone | Hide | Spot |
+| Win a car race | Drive | Drive |
+| Pretend to be someone else | Disguise | Spot |
+| Steal a key chain | Sleight of Hand | Spot |
+| Create a fake ID | Forgery | Forgery |
 
 ## Trying Again
 
@@ -254,14 +254,14 @@ doesn’t involve luck. When two characters arm wrestle, for example, the
 stronger character simply wins. In the case of identical scores, make
 opposed Strength checks.
 
-| Example Ability Check                   | Key Ability  |
+| Example Ability Check | Key Ability |
 |-----------------------------------------|--------------|
-| Forcing open a jammed or locked door    | Strength     |
-| Tying a rope                            | Dexterity    |
-| Holding one’s breath                    | Constitution |
-| Navigating a maze                       | Intelligence |
-| Recognize a stranger you’ve seen before | Wisdom       |
-| Getting yourself noticed in a crowd     | Charisma     |
+| Forcing open a jammed or locked door | Strength |
+| Tying a rope | Dexterity |
+| Holding one’s breath | Constitution |
+| Navigating a maze | Intelligence |
+| Recognize a stranger you’ve seen before | Wisdom |
+| Getting yourself noticed in a crowd | Charisma |
 
 ## Modifier Types and Stacking
 

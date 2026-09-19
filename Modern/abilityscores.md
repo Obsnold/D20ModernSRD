@@ -27,7 +27,7 @@ character’s ability score can’t drop below 0.
 Each ability will have a modifier. The modifier can be calculated using
 this formula:
 
-(ability/2) -5 \[round result down\]
+(ability/2) -5 [round result down]
 
 The modifier is the number you add to or subtract from the die roll when
 your character tries to do something related to that ability. A positive

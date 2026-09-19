@@ -16,17 +16,17 @@ The purchase DC given is for a box of 6 grenades.
 
 **Table: Grenades and Explosives**
 
-| **Weapon**                 | **Damage** | **Critical** | **Damage Type** | **Burst Radius** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
+| **Weapon** | **Damage** | **Critical** | **Damage Type** | **Burst Radius** | **Reflex DC** | **Range Increment** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
 |----------------------------|------------|--------------|-----------------|------------------|---------------|---------------------|----------|------------|-----------------|-----------------|
-| 40mm fragmentation grenade | 3d6        | —            | Slashing        | 10 ft.           | 15            | —                   | Tiny     | 1 lb.      | 16              | Mil (+3)        |
-| C4/Semtex                  | 4d6        | —            | Concussion      | 10 ft.           | 18            | —                   | Small    | 1 lb.      | 12              | Mil (+3)        |
-| Det cord                   | 2d6        | —            | Fire            | See text         | 12            | —                   | Med      | 2 lb.      | 8               | Res (+2)        |
-| Dynamite                   | 2d6        | —            | Concussion      | 5 ft.            | 15            | 10 ft.              | Tiny     | 1 lb.      | 12              | Lic (+1)        |
-| Fragmentation grenade      | 4d6        | —            | Slashing        | 20 ft.           | 15            | 10 ft.              | Tiny     | 1 lb.      | 15              | Mil (+3)        |
-| Smoke grenade              | —          | —            | —               | See text         | —             | 10 ft.              | Small    | 2 lb.      | 10              | —               |
-| Tear gas grenade           | See text   | —            | —               | See text         | —             | 10 ft.              | Small    | 2 lb.      | 12              | Res (+2)        |
-| Thermite grenade           | 6d6        | —            | Fire            | 5 ft.            | 12            | 10 ft.              | Small    | 2 lb.      | 17              | Mil (+3)        |
-| White phosphorus grenade   | 2d6        | —            | Fire            | 20 ft.           | 12            | 10 ft.              | Small    | 2 lb.      | 15              | Mil (+3)        |
+| 40mm fragmentation grenade | 3d6 | — | Slashing | 10 ft. | 15 | — | Tiny | 1 lb. | 16 | Mil (+3) |
+| C4/Semtex | 4d6 | — | Concussion | 10 ft. | 18 | — | Small | 1 lb. | 12 | Mil (+3) |
+| Det cord | 2d6 | — | Fire | See text | 12 | — | Med | 2 lb. | 8 | Res (+2) |
+| Dynamite | 2d6 | — | Concussion | 5 ft. | 15 | 10 ft. | Tiny | 1 lb. | 12 | Lic (+1) |
+| Fragmentation grenade | 4d6 | — | Slashing | 20 ft. | 15 | 10 ft. | Tiny | 1 lb. | 15 | Mil (+3) |
+| Smoke grenade | — | — | — | See text | — | 10 ft. | Small | 2 lb. | 10 | — |
+| Tear gas grenade | See text | — | — | See text | — | 10 ft. | Small | 2 lb. | 12 | Res (+2) |
+| Thermite grenade | 6d6 | — | Fire | 5 ft. | 12 | 10 ft. | Small | 2 lb. | 17 | Mil (+3) |
+| White phosphorus grenade | 2d6 | — | Fire | 20 ft. | 12 | 10 ft. | Small | 2 lb. | 15 | Mil (+3) |
 
 ## C4/Semtex
 
@@ -130,7 +130,7 @@ rounds, though a moderate wind (11+ mph) disperses the smoke in 4 rounds
 and a strong wind (21+ mph) disperses it in 1 round.
 
 A character caught in a cloud of tear gas must make a Fortitude save (DC
-15) or be nauseated. This effect lasts as long as the character is in
+15\) or be nauseated. This effect lasts as long as the character is in
 the cloud and for 1d6 rounds after he or she leaves the cloud. Those who
 succeed at their saves but remain in the cloud must continue to save
 each round. A gas mask renders the target immune to the effects. A wet

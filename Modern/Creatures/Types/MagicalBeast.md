@@ -6,13 +6,13 @@ extraordinary abilities, or it might be bizarre in appearance and
 habits. See Table: Magical Beasts for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.
 
-| Stat               | Value                                                                                        |
+| Stat | Value |
 |--------------------|----------------------------------------------------------------------------------------------|
-| Hit Die            | d10                                                                                          |
-| Base Attack Bonus  | Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses)                           |
-| Good Saving Throws | Fortitude, Reflex                                                                            |
-| Skill Points       | 2 x Int score, plus 1 point per Hit Dice beyond 1 HD, or 10–15 points if Int score is 1 or 2 |
-| Feats              | 1 + Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1 HD                         |
+| Hit Die | d10 |
+| Base Attack Bonus | Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses) |
+| Good Saving Throws | Fortitude, Reflex |
+| Skill Points | 2 x Int score, plus 1 point per Hit Dice beyond 1 HD, or 10–15 points if Int score is 1 or 2 |
+| Feats | 1 + Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1 HD |
 
 ## Traits
 
@@ -26,14 +26,14 @@ feet and low-light vision (unless noted otherwise).
 
 **Table: Magical beasts**
 
-| Size        | Str   | Dex   | Con   | Minimum HD | Slam | Bite | Claw | Gore |
+| Size | Str | Dex | Con | Minimum HD | Slam | Bite | Claw | Gore |
 |-------------|-------|-------|-------|------------|------|------|------|------|
-| Colossal    | 42–43 | 10–11 | 28–29 | 32d10      | 2d6  | 4d6  | 2d8  | 4d6  |
-| Gargantuan  | 34–35 | 10–11 | 24–25 | 16d10      | 1d8  | 2d8  | 2d6  | 2d8  |
-| Huge        | 26–27 | 10–11 | 20–21 | 8d10       | 1d6  | 2d6  | 2d4  | 2d6  |
-| Large       | 18–19 | 12–13 | 16–17 | 2d10       | 1d4  | 1d8  | 1d6  | 1d8  |
-| Medium-size | 10–11 | 14–15 | 12–13 | 1d10       | 1d3  | 1d6  | 1d4  | 1d6  |
-| Small       | 6–7   | 16–17 | 10–11 | 1/2 d10    | 1d2  | 1d4  | 1d3  | 1d4  |
-| Tiny        | 2–3   | 18–19 | 10–11 | 1/4 d10    | 1    | 1d3  | 1d2  | 1d3  |
-| Diminutive  | 1     | 20–21 | 10–11 | 1/8 d10    | —    | 1d2  | 1    | 1d2  |
-| Fine        | 1     | 22–23 | 10–11 | 1/16 d10   | —    | 1    | —    | 1    |
+| Colossal | 42–43 | 10–11 | 28–29 | 32d10 | 2d6 | 4d6 | 2d8 | 4d6 |
+| Gargantuan | 34–35 | 10–11 | 24–25 | 16d10 | 1d8 | 2d8 | 2d6 | 2d8 |
+| Huge | 26–27 | 10–11 | 20–21 | 8d10 | 1d6 | 2d6 | 2d4 | 2d6 |
+| Large | 18–19 | 12–13 | 16–17 | 2d10 | 1d4 | 1d8 | 1d6 | 1d8 |
+| Medium-size | 10–11 | 14–15 | 12–13 | 1d10 | 1d3 | 1d6 | 1d4 | 1d6 |
+| Small | 6–7 | 16–17 | 10–11 | 1/2 d10 | 1d2 | 1d4 | 1d3 | 1d4 |
+| Tiny | 2–3 | 18–19 | 10–11 | 1/4 d10 | 1 | 1d3 | 1d2 | 1d3 |
+| Diminutive | 1 | 20–21 | 10–11 | 1/8 d10 | — | 1d2 | 1 | 1d2 |
+| Fine | 1 | 22–23 | 10–11 | 1/16 d10 | — | 1 | — | 1 |

@@ -7,7 +7,7 @@ equates 1 inch (or a 1 inch square) to 5 feet in the game world.
 
 One inch (or one square) = 5 feet
 
-“Next to” or “adjacent” = 1 inch (5 feet) away  
+“Next to” or “adjacent” = 1 inch (5 feet) away\
 (or in adjacent square)
 
 30mm figure = A human-size creature
@@ -32,7 +32,7 @@ is sometimes called base speed.
 Encumbrance: A character encumbered by carrying a large amount of gear
 or a fallen comrade may move slower than normal.
 
-*Movement in Combat: *Generally, a character can move his or her speed
+\*Movement in Combat: \*Generally, a character can move his or her speed
 as a move action. If a character uses his or her attack action as a move
 action, the character can move again (for a total movement of up to
 twice the character’s normal speed). If the character spends the entire

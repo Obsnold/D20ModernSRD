@@ -1,16 +1,16 @@
 # Freedom of Movement
 
-| Stat             | Value                   |
+| Stat | Value |
 |------------------|-------------------------|
-| School           | Abjuration              |
-| Level            | Acolyte 4               |
-| Components       | V, S, M, DF             |
-| Casting Time     | Attack action           |
-| Range            | Personal or touch       |
-| Target           | You or creature touched |
-| Duration         | 10 minutes/\_level      |
-| Saving Throw     | Will negates (harmless) |
-| Spell Resistance | Yes (harmless)          |
+| School | Abjuration |
+| Level | Acolyte 4 |
+| Components | V, S, M, DF |
+| Casting Time | Attack action |
+| Range | Personal or touch |
+| Target | You or creature touched |
+| Duration | 10 minutes/\_level |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 This spell enables the caster or the creature touched to move and attack
 normally for the duration of the spell, even under the influence of
