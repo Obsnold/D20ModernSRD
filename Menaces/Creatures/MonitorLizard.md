@@ -19,7 +19,7 @@ checks improves to +8.
 ## Monitor Lizard
 
 | Stat              | Value                  |
-|-------------------|------------------------|
+|---|---|
 | CR                | 3                      |
 | Size              | Medium-size            |
 | Type              | animal                 |

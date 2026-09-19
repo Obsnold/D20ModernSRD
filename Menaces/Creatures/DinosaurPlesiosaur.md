@@ -8,7 +8,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Plesiosaur
 
 | Stat              | Value                    |
-|-------------------|--------------------------|
+|---|---|
 | CR                | 10                       |
 | Size              | Gargantuan               |
 | Type              | animal (aquatic)         |

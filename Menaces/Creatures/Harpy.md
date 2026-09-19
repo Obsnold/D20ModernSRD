@@ -29,7 +29,7 @@ bonus on Perform (act), Perform (sing), and Perform (stand-up) checks.
 ## Harpy
 
 | Stat              | Value                                                                                    |
-|-------------------|------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 4                                                                                        |
 | Size              | Medium-size                                                                              |
 | Type              | monstrous humanoid                                                                       |
@@ -76,7 +76,7 @@ rounds of ammunition, metal baton.
 ## Harpy Charismatic Hero 4
 
 | Stat              | Value                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                                         |
 | Size              | Medium-size                                                                               |
 | Type              | monstrous humanoid                                                                        |

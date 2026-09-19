@@ -56,7 +56,7 @@ out. A Gargantuan neothelid’s gizzard can hold 2 Large, 8 Medium-size,
 ## Neothelid
 
 | Stat              | Value                                                                                                                            |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 18                                                                                                                               |
 | Size              | Gargantuan                                                                                                                       |
 | Type              | aberration                                                                                                                       |

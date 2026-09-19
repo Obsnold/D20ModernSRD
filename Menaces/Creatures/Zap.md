@@ -20,7 +20,7 @@ be replaced or repaired (Repair DC 15).
 ## Zap
 
 | Stat              | Value                                                                          |
-|-------------------|--------------------------------------------------------------------------------|
+|---|---|
 | CR                | 1/4                                                                            |
 | Size              | Fine                                                                           |
 | Type              | elemental (air)                                                                |

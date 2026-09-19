@@ -40,7 +40,7 @@ within 10 feet of the toxic sludge.
 ## Toxic Sludge
 
 | Stat              | Value                                                                                        |
-|-------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 7                                                                                            |
 | Size              | Large                                                                                        |
 | Type              | ooze                                                                                         |
@@ -83,7 +83,7 @@ within 10 feet of the toxic sludge.
 ## Advanced Toxic Sludge
 
 | Stat              | Value                                                                             |
-|-------------------|-----------------------------------------------------------------------------------|
+|---|---|
 | CR                | 12                                                                                |
 | Size              | Gargantuan                                                                        |
 | Type              | ooze                                                                              |

@@ -34,7 +34,7 @@ Make a Wealth check to purchase and gather the necessary components
 before starting construction.
 
 | Size        | Purchase DC |
-|-------------|-------------|
+|---|---|
 | Small       | 21          |
 | Medium-size | 24          |
 
@@ -44,7 +44,7 @@ check is set by the robot’s size and modified by the mode of locomotion
 selected (see the Techie advanced class description).
 
 | Size        | Craft (mechanical) DC |
-|-------------|-----------------------|
+|---|---|
 | Small       | 18                    |
 | Medium-size | 21                    |
 
@@ -56,7 +56,7 @@ modifier for adding new
 components to a robot.
 
 | Components                     | DC Modifier |
-|--------------------------------|-------------|
+|---|---|
 | **Frame Shape and Locomotion** |             |
 | Articulated frame              | +5          |
 | **External Components**        |             |
@@ -101,7 +101,7 @@ flood spotlight.
 ## Small Robot
 
 | Stat              | Value                                                                       |
-|-------------------|-----------------------------------------------------------------------------|
+|---|---|
 | CR                | 1/2                                                                         |
 | Size              | Small                                                                       |
 | Type              | construct                                                                   |
@@ -145,7 +145,7 @@ flood spotlight.
 ## Medium-Size Robot
 
 | Stat              | Value                                                                       |
-|-------------------|-----------------------------------------------------------------------------|
+|---|---|
 | CR                | 1                                                                           |
 | Size              | Medium-size                                                                 |
 | Type              | construct                                                                   |
@@ -189,7 +189,7 @@ flood spotlight.
 ## Police Assault Drone\*
 
 | Stat              | Value                                                       |
-|-------------------|-------------------------------------------------------------|
+|---|---|
 | CR                | 1                                                           |
 | Size              | Medium-size                                                 |
 | Type              | construct                                                   |

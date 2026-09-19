@@ -41,7 +41,7 @@ undead.
 ## Skin Feaster
 
 | Stat              | Value                                                            |
-|-------------------|------------------------------------------------------------------|
+|---|---|
 | CR                | 3                                                                |
 | Size              | Medium-size                                                      |
 | Type              | undead                                                           |
@@ -84,7 +84,7 @@ Speak Language (any one), Spot +8.
 ## Advanced Skin Feaster
 
 | Stat              | Value                                                            |
-|-------------------|------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                |
 | Size              | Large                                                            |
 | Type              | undead                                                           |

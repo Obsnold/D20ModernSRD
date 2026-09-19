@@ -46,7 +46,7 @@ panic and remain panicked for as long as they are in the area.
 ## Whisperer in the Dark
 
 | Stat              | Value                                                                                                      |
-|-------------------|------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 12                                                                                                         |
 | Size              | Large                                                                                                      |
 | Type              | undead (incorporeal)                                                                                       |

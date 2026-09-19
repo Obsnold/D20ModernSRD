@@ -15,7 +15,7 @@ sasquatch gains a +4 species bonus on Intimidate checks.
 ## Sasquatch (Weren)
 
 | Stat              | Value                       |
-|-------------------|-----------------------------|
+|---|---|
 | CR                | 2                           |
 | Size              | Large                       |
 | Type              | giant                       |
@@ -59,7 +59,7 @@ sasquatch gains a +4 species bonus on Intimidate checks.
 ## Sasquatch Strong Hero 3/Soldier 3
 
 | Stat              | Value                                                          |
-|-------------------|----------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                              |
 | Size              | Large                                                          |
 | Type              | giant                                                          |

@@ -31,7 +31,7 @@ saves to negate the effects of massive damage.
 ## Rod
 
 | Stat              | Value                                                                                |
-|-------------------|--------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 1/4                                                                                  |
 | Size              | Diminutive                                                                           |
 | Type              | vermin                                                                               |

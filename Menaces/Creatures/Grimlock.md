@@ -29,7 +29,7 @@ or underground.
 ## Grimlock
 
 | Stat              | Value                                                                                             |
-|-------------------|---------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 1                                                                                                 |
 | Size              | Medium-size                                                                                       |
 | Type              | monstrous humanoid                                                                                |
@@ -74,7 +74,7 @@ Listen +4, Search +5, Speak English, Survival +2.
 ## Grimlock Strong Hero 3
 
 | Stat              | Value                                                                                                    |
-|-------------------|----------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 4                                                                                                        |
 | Size              | Medium-size                                                                                              |
 | Type              | monstrous humanoid                                                                                       |

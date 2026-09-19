@@ -22,7 +22,7 @@ Fortitude saves to negate the effects of massive damage.
 ## Scorpion
 
 | Stat              | Value                                                             |
-|-------------------|-------------------------------------------------------------------|
+|---|---|
 | CR                | 1/4                                                               |
 | Size              | Fine                                                              |
 | Type              | vermin                                                            |

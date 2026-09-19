@@ -38,7 +38,7 @@ Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
 ## Megalodon
 
 | Stat              | Value                                                                         |
-|-------------------|-------------------------------------------------------------------------------|
+|---|---|
 | CR                | 11                                                                            |
 | Size              | Gargantuan                                                                    |
 | Type              | animal                                                                        |
@@ -80,7 +80,7 @@ Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
 ## Advanced Megalodon
 
 | Stat              | Value                                                                         |
-|-------------------|-------------------------------------------------------------------------------|
+|---|---|
 | CR                | 17                                                                            |
 | Size              | Colossal                                                                      |
 | Type              | animal                                                                        |

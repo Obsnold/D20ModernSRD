@@ -51,7 +51,7 @@ Reflex save (DC 15) to halve the damage.
 ## Cat Folk
 
 | Stat              | Value                                                                           |
-|-------------------|---------------------------------------------------------------------------------|
+|---|---|
 | CR                | 2                                                                               |
 | Size              | Medium-size                                                                     |
 | Type              | monstrous humanoid                                                              |
@@ -98,7 +98,7 @@ concealed carry holster, formal outfit.
 ## Cat Folk Fast Hero 1/Charismatic Hero 2
 
 | Stat              | Value                                                                           |
-|-------------------|---------------------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                               |
 | Size/Type         | Mediumsize monstrous humanoid                                                   |
 | HD                | 2d8–2 plus 1d6–2 plus 2d6–2                                                     |

@@ -53,7 +53,7 @@ keeps the extra feat it gained as a 1st-level human character.
 ## Bogeyman Tough Hero 9
 
 | Stat              | Value                                                                            |
-|-------------------|----------------------------------------------------------------------------------|
+|---|---|
 | CR                | 10                                                                               |
 | Size              | Medium-size                                                                      |
 | Type              | humanoid                                                                         |

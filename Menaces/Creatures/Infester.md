@@ -64,7 +64,7 @@ Fortitude saves to negate the effects of massive damage.
 ## Infester (grub)
 
 | Stat              | Value                                                                                        |
-|-------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 1/10                                                                                         |
 | Size              | Fine                                                                                         |
 | Type              | vermin                                                                                       |
@@ -106,7 +106,7 @@ Fortitude saves to negate the effects of massive damage.
 ## Infester (adult)
 
 | Stat              | Value                                                               |
-|-------------------|---------------------------------------------------------------------|
+|---|---|
 | CR                | 1                                                                   |
 | Size              | Tiny                                                                |
 | Type              | vermin                                                              |

@@ -23,7 +23,7 @@ Listen, and Move Silently checks.
 ## Mothfolk
 
 | Stat              | Value                                  |
-|-------------------|----------------------------------------|
+|---|---|
 | CR                | 1                                      |
 | Size              | Large                                  |
 | Type              | outsider                               |
@@ -68,7 +68,7 @@ Read/Write Mothfolk, Sense Motive +4, Speak Mothfolk, Spot +4.
 ## Mothfolk Dedicated Hero 3/Acolyte 3
 
 | Stat              | Value                                                            |
-|-------------------|------------------------------------------------------------------|
+|---|---|
 | CR                | 7                                                                |
 | Size              | Large                                                            |
 | Type              | outsider                                                         |

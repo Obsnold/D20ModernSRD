@@ -24,7 +24,7 @@ use the values below or the base creature’s base damage, whichever is
 greater.
 
 | Size        | Bite Damage | Claw Damage |
-|-------------|-------------|-------------|
+|---|---|---|
 | Fine        | 1           | —           |
 | Diminutive  | 1d2         | 1           |
 | Tiny        | 1d3         | 1d2         |
@@ -67,7 +67,7 @@ character level, as given on the table below. Unless otherwise
 indicated, each ability is usable once per day.
 
 | Level | Abilities         | Level | Abilities      |
-|-------|-------------------|-------|----------------|
+|---|---|---|---|
 | 1–2   | *Mage hand *3/day | 11–12 | *Levitate*     |
 | 3–4   | *Daze *3/day      | 13–14 | *Displacement* |
 | 5–6   | *Change self *    | 15–16 | *Tongues*      |

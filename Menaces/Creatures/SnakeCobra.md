@@ -31,7 +31,7 @@ higher, to Climb checks.
 ## Snake, Cobra
 
 | Stat              | Value                                                            |
-|-------------------|------------------------------------------------------------------|
+|---|---|
 | CR                | 2                                                                |
 | Size              | Medium-size                                                      |
 | Type              | animal                                                           |

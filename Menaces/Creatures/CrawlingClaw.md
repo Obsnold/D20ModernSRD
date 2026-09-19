@@ -14,7 +14,7 @@ against prone combatants.
 ## Crawling Claw
 
 | Stat              | Value                                                       |
-|-------------------|-------------------------------------------------------------|
+|---|---|
 | CR                | 1/3                                                         |
 | Size              | Diminutive                                                  |
 | Type              | construct                                                   |

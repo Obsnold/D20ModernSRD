@@ -89,7 +89,7 @@ beyond (New FX Equipment, below).
 ## Dimensional Horror
 
 | Stat              | Value                                                                               |
-|-------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 7                                                                                   |
 | Size              | Large                                                                               |
 | Type              | outsider                                                                            |
@@ -133,7 +133,7 @@ Spot +11, Survival +11.
 ## Advanced Dimensional Horror
 
 | Stat              | Value                                                                               |
-|-------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 13                                                                                  |
 | Size              | Gargantuan                                                                          |
 | Type              | outsider                                                                            |

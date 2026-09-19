@@ -46,7 +46,7 @@ action.
 ## Demonic Machine
 
 | Stat              | Value                                                                               |
-|-------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                                   |
 | Size              | Large                                                                               |
 | Type              | construct                                                                           |
@@ -88,7 +88,7 @@ action.
 ## Advanced Demonic Machine (industrial shredder)
 
 | Stat              | Value                                                               |
-|-------------------|---------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                   |
 | Size              | Huge                                                                |
 | Type              | construct                                                           |

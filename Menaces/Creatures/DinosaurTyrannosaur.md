@@ -32,7 +32,7 @@ Small, 32 Tiny, or 128 Diminutive or smaller opponents.
 ## Tyrannosaur
 
 | Stat              | Value                               |
-|-------------------|-------------------------------------|
+|---|---|
 | CR                | 11                                  |
 | Size              | Huge                                |
 | Type              | animal                              |

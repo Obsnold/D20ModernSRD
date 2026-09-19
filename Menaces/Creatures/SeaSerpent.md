@@ -46,7 +46,7 @@ Diminutive or smaller opponents.
 ## Sea Serpent
 
 | Stat              | Value                                                                           |
-|-------------------|---------------------------------------------------------------------------------|
+|---|---|
 | CR                | 7                                                                               |
 | Size              | Huge                                                                            |
 | Type              | magical beast                                                                   |
@@ -88,7 +88,7 @@ Diminutive or smaller opponents.
 ## Advanced Sea Serpent
 
 | Stat              | Value                                                                           |
-|-------------------|---------------------------------------------------------------------------------|
+|---|---|
 | CR                | 10                                                                              |
 | Size              | Colossal                                                                        |
 | Type              | magical beast                                                                   |

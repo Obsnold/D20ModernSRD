@@ -43,7 +43,7 @@ undead.
 ## Charred One
 
 | Stat              | Value                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 3                                                                                         |
 | Size              | Medium-size                                                                               |
 | Type              | undead (fire, incorporeal)                                                                |
@@ -86,7 +86,7 @@ one), Speak Language (any one), Spot +11.
 ## Advanced Charred One
 
 | Stat              | Value                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                                         |
 | Size              | Medium-size                                                                               |
 | Type              | undead (fire, incorporeal)                                                                |

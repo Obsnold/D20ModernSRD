@@ -40,7 +40,7 @@ that leaves and reenters the area must make another save.
 ## Sewer Sludge
 
 | Stat        | Value                                                                                                    |
-|-------------|----------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR          | 5                                                                                                        |
 | Size        | Medium-size                                                                                              |
 | Type        | ooze                                                                                                     |
@@ -81,7 +81,7 @@ that leaves and reenters the area must make another save.
 ## Advanced Sewer Sludge
 
 | Stat              | Value                                                                                                    |
-|-------------------|----------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 7                                                                                                        |
 | Size              | Large                                                                                                    |
 | Type              | ooze                                                                                                     |

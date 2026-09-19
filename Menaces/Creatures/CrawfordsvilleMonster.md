@@ -46,7 +46,7 @@ double damage from attacks that deal sonic or concussion damage.
 ## Crawfordsville Monster
 
 | Stat              | Value                                                                                                                             |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 9                                                                                                                                 |
 | Size              | Huge                                                                                                                              |
 | Type              | ooze                                                                                                                              |
@@ -88,7 +88,7 @@ double damage from attacks that deal sonic or concussion damage.
 ## Advanced Crawfordsville Monster
 
 | Stat              | Value                                                                                                                    |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 12                                                                                                                       |
 | Size              | Gargantuan                                                                                                               |
 | Type              | ooze                                                                                                                     |

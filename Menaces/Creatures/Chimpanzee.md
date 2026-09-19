@@ -23,7 +23,7 @@ and a +4 species bonus on Jump checks.
 ## Chimpanzee
 
 | Stat              | Value                                                |
-|-------------------|------------------------------------------------------|
+|---|---|
 | CR                | 1/3                                                  |
 | Size              | Small                                                |
 | Type              | animal                                               |

@@ -34,7 +34,7 @@ bonus on Hide checks at night or in darkness.
 ## Doom Hag
 
 | Stat              | Value                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 6                                                                                         |
 | Size              | Medium-size                                                                               |
 | Type              | undead                                                                                    |

@@ -15,7 +15,7 @@ species bonus on Swim checks.
 ## Hippopotamus
 
 | Stat              | Value                       |
-|-------------------|-----------------------------|
+|---|---|
 | CR                | 6                           |
 | Size              | Large                       |
 | Type              | animal                      |

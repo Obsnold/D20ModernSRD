@@ -20,7 +20,7 @@ Intimidate checks.
 ## Luciferan
 
 | Stat              | Value                                                   |
-|-------------------|---------------------------------------------------------|
+|---|---|
 | CR                | 2                                                       |
 | Size              | Medium-size                                             |
 | Type              | outsider                                                |
@@ -65,7 +65,7 @@ Read/Write Aramaic, Speak Aramaic, Speak English.
 ## Luciferan Class Smart Hero 3/Mage 3
 
 | Stat              | Value                                                                                 |
-|-------------------|---------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                                     |
 | Size              | Medium-size                                                                           |
 | Type              | outsider                                                                              |

@@ -12,7 +12,7 @@ object or creature within 80 feet that is in contact with the water.
 ## Shark, Huge
 
 | Stat              | Value                       |
-|-------------------|-----------------------------|
+|---|---|
 | CR                | 5                           |
 | Size              | Huge                        |
 | Type              | animal                      |

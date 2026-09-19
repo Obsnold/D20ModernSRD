@@ -43,7 +43,7 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 ## Giant Anaconda
 
 | Stat              | Value                                                                     |
-|-------------------|---------------------------------------------------------------------------|
+|---|---|
 | CR                | 9                                                                         |
 | Size              | Huge                                                                      |
 | Type              | animal                                                                    |
@@ -86,7 +86,7 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 ## Advanced Giant Anaconda
 
 | Stat              | Value                                                                     |
-|-------------------|---------------------------------------------------------------------------|
+|---|---|
 | CR                | 15                                                                        |
 | Size              | Gargantuan                                                                |
 | Type              | animal                                                                    |

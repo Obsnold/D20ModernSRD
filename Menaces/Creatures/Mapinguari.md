@@ -25,7 +25,7 @@ If a creature leaves and reenters the area, a new save is required.
 ## Mapinguari
 
 | Stat              | Value                           |
-|-------------------|---------------------------------|
+|---|---|
 | CR                | 5                               |
 | Size              | Large                           |
 | Type              | animal                          |
@@ -67,7 +67,7 @@ If a creature leaves and reenters the area, a new save is required.
 ## Advanced Mapinguari
 
 | Stat              | Value                           |
-|-------------------|---------------------------------|
+|---|---|
 | CR                | 7                               |
 | Size              | Huge                            |
 | Type              | animal                          |

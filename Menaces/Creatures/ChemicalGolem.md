@@ -64,7 +64,7 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 ## Chemical Golem
 
 | Stat              | Value                                                                                                |
-|-------------------|------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 10                                                                                                   |
 | Size              | Large                                                                                                |
 | Type              | construct                                                                                            |
@@ -106,7 +106,7 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 ## Advanced Chemical Golem
 
 | Stat              | Value                                                                                                |
-|-------------------|------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 13                                                                                                   |
 | Size              | Huge                                                                                                 |
 | Type              | construct                                                                                            |

@@ -42,7 +42,7 @@ DC 10 + udoroot’s key ability modifier + power level.
 ## Udoroot
 
 | Stat              | Value                                                               |
-|-------------------|---------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                   |
 | Size              | Huge                                                                |
 | Type              | plant                                                               |
@@ -84,7 +84,7 @@ DC 10 + udoroot’s key ability modifier + power level.
 ## Advanced Udoroot
 
 | Stat              | Value                                                               |
-|-------------------|---------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                   |
 | Size              | Gargantuan                                                          |
 | Type              | plant                                                               |

@@ -28,7 +28,7 @@ location of anything within 60 feet that is in contact with the ground.
 ## Mongolian Death Worm
 
 | Stat              | Value                                                                                                       |
-|-------------------|-------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 3                                                                                                           |
 | Size              | Small                                                                                                       |
 | Type              | magical beast                                                                                               |
@@ -70,7 +70,7 @@ location of anything within 60 feet that is in contact with the ground.
 ## Advanced Mongolian Death Worm
 
 | Stat              | Value                                                                                               |
-|-------------------|-----------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 5                                                                                                   |
 | Size              | Medium-size                                                                                         |
 | Type              | magical beast                                                                                       |

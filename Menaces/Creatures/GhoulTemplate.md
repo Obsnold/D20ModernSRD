@@ -21,7 +21,7 @@ the values below or the base creature’s base damage, whichever is
 greater.
 
 | Size        | Bite Damage | Claw Damage |
-|-------------|-------------|-------------|
+|---|---|---|
 | Fine        | 1           | —           |
 | Diminutive  | 1d2         | —           |
 | Tiny        | 1d3         | 1           |
@@ -91,7 +91,7 @@ character.
 ## Ghoul (Human Strong Ordinary 1/Tough Ordinary 1)
 
 | Stat              | Value                                                                          |
-|-------------------|--------------------------------------------------------------------------------|
+|---|---|
 | CR                | 3                                                                              |
 | Size              | Medium-size                                                                    |
 | Type              | undead                                                                         |

@@ -30,7 +30,7 @@ damage and 1d6 points of ability damage (per ability).
 ## Zeikune
 
 | Stat              | Value                                                                                        |
-|-------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 4                                                                                            |
 | Size              | Medium-size                                                                                  |
 | Type              | aberration                                                                                   |
@@ -72,7 +72,7 @@ damage and 1d6 points of ability damage (per ability).
 ## Zeikune Smart Hero 2
 
 | Stat              | Value                                                                                        |
-|-------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 6                                                                                            |
 | Size              | Medium-size                                                                                  |
 | Type              | aberration                                                                                   |

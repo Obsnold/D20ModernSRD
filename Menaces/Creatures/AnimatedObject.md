@@ -51,7 +51,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Tiny Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 1/2                                     |
 | Size              | Tiny                                    |
 | Type              | construct                               |
@@ -93,7 +93,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Small Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 1                                       |
 | Size              | Small                                   |
 | Type              | construct                               |
@@ -135,7 +135,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Medium-size Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 2                                       |
 | Size              | Medium-size                             |
 | Type              | construct                               |
@@ -177,7 +177,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Large Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 3                                       |
 | Size              | Large                                   |
 | Type              | construct                               |
@@ -219,7 +219,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Huge Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 5                                       |
 | Size              | Huge                                    |
 | Type              | construct                               |
@@ -261,7 +261,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Gargantuan Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 7                                       |
 | Size              | Gargantuan                              |
 | Type              | construct                               |
@@ -303,7 +303,7 @@ object’s HD + object’s Strength bonus) for half damage.
 ## Colossal Animated Object
 
 | Stat              | Value                                   |
-|-------------------|-----------------------------------------|
+|---|---|
 | CR                | 10                                      |
 | Size              | Colossal                                |
 | Type              | construct                               |

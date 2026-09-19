@@ -29,7 +29,7 @@ checks.
 ## Hoop Snake
 
 | Stat              | Value                                                 |
-|-------------------|-------------------------------------------------------|
+|---|---|
 | CR                | 2                                                     |
 | Size              | Medium-size                                           |
 | Type              | animal                                                |
@@ -71,7 +71,7 @@ checks.
 ## Advanced Hoop Snake
 
 | Stat              | Value                                                 |
-|-------------------|-------------------------------------------------------|
+|---|---|
 | CR                | 4                                                     |
 | Size              | Large                                                 |
 | Type              | animal                                                |

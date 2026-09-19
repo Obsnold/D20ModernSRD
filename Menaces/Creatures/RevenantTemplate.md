@@ -127,7 +127,7 @@ have these feats. A human revenant keeps the extra feat it gained as a
 ## Revenant Police Officer (Human Strong Ordinary 1/ Dedicated Ordinary 1)
 
 | Stat              | Value                                                                                                                                                |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 3                                                                                                                                                    |
 | Size              | Medium-size                                                                                                                                          |
 | Type              | undead                                                                                                                                               |

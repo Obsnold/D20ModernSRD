@@ -62,7 +62,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Rogue Tulpa
 
 | Stat              | Value                                                                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                                                                             |
 | Size              | Large                                                                                                                         |
 | Type              | monstrous humanoid                                                                                                            |
@@ -105,7 +105,7 @@ Speak Navajo, Spot +14.
 ## Advanced Rogue Tulpa
 
 | Stat              | Value                                                                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 10                                                                                                                            |
 | Size              | Huge                                                                                                                          |
 | Type              | monstrous humanoid                                                                                                            |

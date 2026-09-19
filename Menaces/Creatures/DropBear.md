@@ -19,7 +19,7 @@ it can make a full attack even if it has already taken a move action.
 ## Drop Bear
 
 | Stat              | Value                                                |
-|-------------------|------------------------------------------------------|
+|---|---|
 | CR                | 1                                                    |
 | Size              | Medium-size                                          |
 | Type              | animal                                               |

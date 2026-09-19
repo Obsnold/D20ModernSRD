@@ -31,7 +31,7 @@ Hide checks made in snowy conditions.
 ## Yeti
 
 | Stat              | Value                                                     |
-|-------------------|-----------------------------------------------------------|
+|---|---|
 | CR                | 3                                                         |
 | Size              | Large                                                     |
 | Type              | monstrous humanoid (cold)                                 |
@@ -74,7 +74,7 @@ Hide checks made in snowy conditions.
 ## Abominable Snowman (Advanced Yeti)
 
 | Stat              | Value                                                     |
-|-------------------|-----------------------------------------------------------|
+|---|---|
 | CR                | 6                                                         |
 | Size              | Huge                                                      |
 | Type              | monstrous humanoid (cold)                                 |

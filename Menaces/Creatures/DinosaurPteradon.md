@@ -8,7 +8,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Pteradon
 
 | Stat              | Value                                                |
-|-------------------|------------------------------------------------------|
+|---|---|
 | CR                | 2                                                    |
 | Size              | Large                                                |
 | Type              | animal                                               |

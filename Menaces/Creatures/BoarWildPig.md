@@ -17,7 +17,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 ## Boar (Wild Pig)
 
 | Stat              | Value                             |
-|-------------------|-----------------------------------|
+|---|---|
 | CR                | 3                                 |
 | Size              | Medium-size                       |
 | Type              | animal                            |

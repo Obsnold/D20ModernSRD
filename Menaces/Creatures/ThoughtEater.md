@@ -41,7 +41,7 @@ modifier + power level.
 ## Thought Eater
 
 | Stat              | Value                                           |
-|-------------------|-------------------------------------------------|
+|---|---|
 | CR                | 2                                               |
 | Size              | Small                                           |
 | Type              | aberration                                      |

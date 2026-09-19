@@ -53,7 +53,7 @@ Artist checks.
 ## Malleable Human Tough Hero 4/Dedicated Hero 3
 
 | Stat              | Value                                                            |
-|-------------------|------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                |
 | Size              | Medium-size                                                      |
 | Type              | humanoid                                                         |

@@ -20,7 +20,7 @@ checks when concealed against a white background, such as snow and ice.
 ## Kinori
 
 | Stat              | Value                                                                     |
-|-------------------|---------------------------------------------------------------------------|
+|---|---|
 | CR                | 1                                                                         |
 | Size              | Medium-size                                                               |
 | Type              | monstrous humanoid                                                        |
@@ -65,7 +65,7 @@ Proficiency.
 ## Kinori Strong Hero 1
 
 | Stat              | Value                                                                                      |
-|-------------------|--------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 2                                                                                          |
 | Size              | Medium-size                                                                                |
 | Type              | monstrous humanoid                                                                         |

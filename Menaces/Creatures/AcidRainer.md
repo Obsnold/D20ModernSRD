@@ -30,7 +30,7 @@ checks and a +4 species bonus on Move Silently checks.
 ## Acid Rainer
 
 | Stat              | Value                                                                                           |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 8                                                                                               |
 | Size              | Huge                                                                                            |
 | Type              | elemental (air)                                                                                 |
@@ -73,7 +73,7 @@ checks and a +4 species bonus on Move Silently checks.
 ## Advanced Acid Rainer
 
 | Stat              | Value                                                                                           |
-|-------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 11                                                                                              |
 | Size              | Gargantuan                                                                                      |
 | Type              | elemental (air)                                                                                 |

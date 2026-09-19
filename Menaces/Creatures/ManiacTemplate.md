@@ -18,7 +18,7 @@ the table below. Otherwise, use the values below or the base creature’s
 base damage, whichever is greater.
 
 | Size        | Slam Damage |
-|-------------|-------------|
+|---|---|
 | Fine        | 1           |
 | Diminutive  | 1d2         |
 | Tiny        | 1d3         |
@@ -66,7 +66,7 @@ bonus feats.
 ## Maniac (Strong Hero 2/Tough Hero 3)
 
 | Stat              | Value                                                                                                                           |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | CR                | 6                                                                                                                               |
 | Size/Type         | Mediumsize humanoid                                                                                                             |
 | HD                | 5d12+20 plus 3 (robust) plus 3 (Toughness)                                                                                      |
