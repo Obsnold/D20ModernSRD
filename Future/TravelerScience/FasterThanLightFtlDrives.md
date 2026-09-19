@@ -1,0 +1,32 @@
+# Faster-Than-Light (ftl) Drives
+
+Early in Progress Level 7, the development of artificial gravity
+technology spawns the induction engine, and scientists quickly learn to
+apply the technology to faster-than-light travel. The early “stardrives”
+are not truly capable of reaching light speed but offer a vast
+improvement over conventional engines. Humanity can finally reach
+distant stars in mere weeks, advancing space exploration and
+colonization, as well as reaching out to contact and trade with
+intelligent alien life.
+
+Table: Faster-Than-Light (FTL) Drives shows the relativistic cruising
+speeds of various FTL engines.
+
+**Table: Faster-Than-Light (FTL) Engines**
+
+| Engine                            | Minimum Ship Size | Starship’s Cruising Speed |
+|---|---|---|
+| **Progress Level 6: Fusion Age**  |                   |                           |
+| Fusion torch                      | Gargantuan        | Light speed × 0.5         |
+| Ion engine                        | Huge              | Light speed × 0.75        |
+| Photon sails                      | Gargantuan        | Light speed × 1           |
+| **Progress Level 7: Gravity Age** |                   |                           |
+| Induction engine                  | Huge              | Light speed × 5           |
+| Particle impulse engine           | Gargantuan        | Light speed × 10          |
+| **Progress Level 8: Energy Age**  |                   |                           |
+| Gravitic redirector               | Colossal          | Light speed × 25          |
+| Inertial flux engine              | Gargantuan        | Light speed × 15          |
+| **Progress Level 9: Matter Age**  |                   |                           |
+| Spatial compressor                | Colossal          | Special<sup>1</sup>       |
+
+1 A spatial compressor allows a ship to travel from one star system to another instantaneously.

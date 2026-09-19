@@ -1,0 +1,46 @@
+# Bioreplica (pl 7)
+
+A step up from biodroids, bioreplicas are robots so convincingly
+lifelike that they are virtually indistinguishable from their living
+counterparts. The bioreplica’s components are made up of lightweight
+plastics in a synthetic sheath that looks and feels like real flesh and
+skin. Bioreplicants are restricted, and in some areas, buying or owning
+one is illegal.
+
+To build a bioreplica frame from scratch, a character must succeed at
+two skill checks—a Craft (mechanical) check (DC 30) and a Craft
+(electronic) check (DC 30). These checks are made after investing time
+in the frame’s construction: 48 hours for a Large or smaller frame or 72
+hours for a Huge or larger frame. A character without a mechanical tool
+kit or electrical tool kit takes a –4 penalty on the skill check (–8 if
+the character has neither). The character must also make a Wealth check
+against the frame’s purchase DC.
+
+Table: Bioreplica Robot Frames provides the base purchase DC, Hit Dice,
+and ability scores for factory-model bioreplica robots, as well as
+purchase DC modifiers for improving ability scores.
+
+**Critical Systems:** Although they are constructs, bioreplicas have
+vital areas and critical systems. Consequently, they are subject to
+critical hits.
+
+**Lifelike Appearance:** Distinguishing a bioreplica from members of its
+emulated species requires a successful Spot check (DC 20). A bioreplica
+can use the Disguise skill to increase the Spot check DC.
+
+**Restriction:** Restricted (+2) or Illegal (+4).
+
+**Table: Bioreplica Robot Frames (Pl 7)**
+
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 52                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 10      | 45d10/+4 per HD                           |
+| Gargantuan     | 44                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 10      | 31d10/+3 per HD                           |
+| Huge           | 36                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 10      | 15d10/+2 per HD                           |
+| Large          | 32                   | 2d10              | 20                   | 20                          | 9       | —       | 10      | 10      | 10      | 7d10/+1 per HD                            |
+| Medium-size    | 28                   | 1d10              | 10                   | 12                          | 11      | —       | 10      | 10      | 10      | —                                         |
+| Small          | 24                   | 1/2d10            | 5                    | 8                           | 13      | —       | 10      | 10      | 10      | —                                         |
+| Tiny           | 20                   | 1/4d10            | —                    | 4                           | 15      | —       | 10      | 10      | 10      | —                                         |
+| Diminutive     | 16                   | 1/8d10            | —                    | 2                           | 17      | —       | 10      | 10      | 10      | —                                         |
+| Fine           | 12                   | 1/16d10           | —                    | 1                           | 19      | —       | 10      | 10      | 10      | —                                         |

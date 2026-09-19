@@ -1,0 +1,26 @@
+# Autocomp, Driver
+
+A driver autocomp consists of an onboard computer with AI software
+capable to operating a vehicle, thereby removing the need for a driver
+or pilot. Most vehicles equipped with a driver autocomp still retain a
+driver’s seat, allowing the vehicle to be controlled manually if the
+autocomp is deactivated or disabled. Disabling a driver autocomp
+requires a successful Disable Device check (DC 15).
+
+The driver autocomp’s modifier on all Drive or Pilot checks, as well as
+its purchase DC, depends on the quality of the system’s AI software; see
+Table: Driver Autocomps for details.
+
+**Purchase DC:** See Table 8–8.
+
+**Restriction:** None.
+
+**Table: Driver Autocomps**
+
+| Driver Autocomp | Drive or Pilot Check Modifier | Purchase DC |
+|---|---|---|
+| Roadlord AI-DA  | +0                            | 12          |
+| Pegasus AI-200  | +2                            | 15          |
+| Dervish AI-400  | +4                            | 18          |
+| Twister AI-800  | +8                            | 21          |
+| Zephyr AI-1200  | +12                           | 24          |

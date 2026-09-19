@@ -1,0 +1,26 @@
+# Other Civilian Vehicles
+
+Some civilian vehicles are highly specialized, and so don’t truly fit
+into any other category. The operative skill for these vehicles is
+Drive, unless otherwise noted.
+
+**Table: Other Civilian Vehicles**
+
+| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
+| AutoDyn hoverboard                | 1    | 0    | F     | +2   | +4       | 50 (5)    | 14      | 2    | 8          | D    | 17          | Lic (+1)    |
+| WGM Wyoming                       | 1    | 0    | D     | +1   | +2       | 120 (12)  | 9       | 5    | 25         | L    | 26          | Lic (+1)    |
+
+## Autodyn Hoverboard (pl 7)
+
+The AutoDyn hoverboard is a 3-foot-long board held aloft by a tiny but
+powerful forced-air system. A hoverboard is 1 square wide and 1 square
+long, and it provides no cover to its rider. The operative skill to
+control a hoverboard is Tumble.
+
+## Wgm Wyoming (pl 7)
+
+The Wallace General Mechanics Wyoming is essentially a four-wheeled dirt
+bike powered by a minireactor. It provides no cover for its rider. The
+Wyoming is 1 square wide and 2 squares long.

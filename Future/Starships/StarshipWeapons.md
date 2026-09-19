@@ -1,0 +1,36 @@
+# Starship Weapons
+
+Starship weapons fall into one of four categories: beam weapons,
+projectile weapons, missiles, and mines. Each category of weapon is
+described in greater detail below.
+
+Starship weapons require the Starship Gunnery feat to operate
+proficiently. Without this feat, a gunner takes a –4 penalty on attack
+rolls made with starship weapons. Trained, expert, and ace crew gunners
+are assumed to have this feat.
+
+To build a starship weapon system from scratch, a character must succeed
+at a Craft (mechanical) check (DC 30) after investing 300 hours in its
+assembly. A character without a mechanical tool kit takes a –4 penalty
+on the skill check. The character must also make a Wealth check against
+the weapon’s purchase DC.
+
+Installing a weapon system requires a successful Craft (mechanical)
+check (DC 30) after investing 30 hours. A character without a mechanical
+tool kit takes a –4 penalty on the skill check.
+
+**Modifying Weapons:** Certain beam and projectile weapons—as noted in
+Table: Starship Weapons—can be modified for different rates of fire.
+With 1 hour of work and a successful Repair check (DC 30), these weapons
+can be reconfigured for semiautomatic or automatic fire mode. (Resetting
+a weapon to its original configuration requires another check and 1
+hour.) Weapons can be purchased in their modified versions, but the
+purchase DC of a modified weapon increases by +3.
+
+## Average Weapon Damage
+
+Some starship weapons (particularly fire-linked weapons) deal incredible
+damage. To speed up play, you can decide to deal average damage with
+weapon attacks instead of rolling handfuls of dice and adding them up.
+Table: Starship Weapons lists average damage in parentheses in the
+Damage column.
