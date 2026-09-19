@@ -1,0 +1,28 @@
+# Overrun
+
+A character can attempt an overrun as an attack action made during his
+or her move action, or as part of a charge. (In general, a character
+cannot make an attack action during a move action; this is an
+exception.) In either case, the character doesn’t get a 5-foot step
+before, during, or after the overrun attempt. With an overrun, the
+character attempts to move through an opponents area, going past or over
+the opponent. A character can only overrun an opponent who is one size
+category larger than the character, the same size, or smaller. A
+character can make only one overrun attempt per action.
+
+First, the character must move at least 10 feet in a straight line into
+the target’s square (provoking attacks of opportunity normally).
+
+Then the target chooses either to avoid the character or to block the
+character. If the opponent avoids the character, the character keeps
+moving. (A character can always move through a square occupied by
+someone who lets the character by.) If the opponent blocks the
+character, make a trip attack against the opponent (see Trip). If the
+character succeeds in tripping his or her opponent, the character can
+continue his or her movement as normal.
+
+If the character fails and are tripped in turn, the character falls
+prone in the target’s square. If the character fails but are not
+tripped, the character has to move 5 feet back the way he or she came,
+ending his or her movement there. If that square is occupied, the
+character falls prone in the square.
