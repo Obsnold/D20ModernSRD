@@ -1,0 +1,6 @@
+# Improved Initiative
+
+## Benefit
+
+The character gets a +4 circumstance bonus on initiative
+checks.

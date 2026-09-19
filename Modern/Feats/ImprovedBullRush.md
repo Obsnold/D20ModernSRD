@@ -1,0 +1,10 @@
+# Improved Bull Rush
+
+## Prerequisites
+
+Strength 13, Power Attack.
+
+## Benefit
+
+When the character performs a bull rush, the character does
+not provoke an attack of opportunity from the defender.
