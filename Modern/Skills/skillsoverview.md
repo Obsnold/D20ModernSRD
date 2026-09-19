@@ -1,7 +1,6 @@
+# SKILL BASICS
 
-SKILL BASICS
-
-# Getting Skills
+## Getting Skills
 
 At each level, a character gets skill points that are used to buy
 skills. The character’s class and Intelligence modifier determine the
@@ -13,7 +12,7 @@ he or she gets ½ rank per skill point. The maximum rank in a class skill
 is equal to character level + 3. The maximum rank in a cross-class skill
 is one-half of this number.
 
-# Using Skills
+## Using Skills
 
 To make a skill check, roll:
 
@@ -36,7 +35,7 @@ description.
 provided by feats and class features, and penalties such as the ones
 associated with the nonproficient use of armor, among others.
 
-# Acquiring Skill Ranks
+## Acquiring Skill Ranks
 
 Ranks indicate how much training or experience a character has with a
 given skill. Each skill has a number of ranks, from 0 (for a skill in
@@ -60,13 +59,13 @@ a given situation.
 | Dedicated   | (5 + Int modifier) x4  | 5 + Int modifier          |
 | Charismatic | (7 + Int modifier) x4  | 7 + Int modifier          |
 
-# Skill Checks
+## Skill Checks
 
 Unlike with attack rolls and saving throws, a natural roll of 20 on the
 d20 is not an automatic success when making a skill check, and a natural
 roll of 1 is not an automatic failure.
 
-# Difficulty Class
+## Difficulty Class
 
 Some checks are made against a Difficulty Class (DC). The DC is a number
 set by the GM (using the skill rules as a guideline) that a character
@@ -86,7 +85,7 @@ must attain to succeed.
 | Superheroic (35)       | Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff) |
 | Nearly impossible (40) | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)                             |
 
-# Opposed Checks
+## Opposed Checks
 
 Some skill checks are opposed checks. They are made against a randomized
 number, usually another character’s skill check result.
@@ -106,7 +105,7 @@ score wins. If those scores are the same, roll again.
 | Steal a key chain          | Sleight of Hand | Spot           |
 | Create a fake ID           | Forgery         | Forgery        |
 
-# Trying Again
+## Trying Again
 
 If a character fails on a skill check, he or she can sometimes try
 again. Check the skill description to find out if, and under what
@@ -118,7 +117,7 @@ If the use of a skill carries no penalty for failure, a character can
 take 20 and assume that he or she keeps trying until he or she
 eventually succeeds.
 
-# Untrained Skill Checks
+## Untrained Skill Checks
 
 Generally, if a character attempts to use a skill he or she doesn’t have
 any ranks in, the character makes a skill check as described. The
@@ -164,7 +163,7 @@ the same result—they create a better chance for success. But they
 represent different circumstances, and sometimes that difference is
 important.
 
-# Time and Skill Checks
+## Time and Skill Checks
 
 Using a skill might take a round, several rounds, or even longer. It
 might take no time at all. Types of actions define how long activities
@@ -176,7 +175,7 @@ In general, using a skill that requires concentration while in close
 combat is dangerous. Nearby op­ponents can make attacks of opportunity
 against a character when he or she lets his or her guard down.
 
-# Tools
+## Tools
 
 Some skill applications require the use of tools. If tools are needed,
 the specific items required are mentioned in the skill description. If
@@ -190,14 +189,14 @@ using impromptu tools. It usually takes some time (several minutes to an
 hour or more) to collect or create a set of impromptu tools, and it may
 require a skill check as well.
 
-# Checks without Rolls
+## Checks without Rolls
 
 A skill check represents an attempt to accomplish some goal, usually in
 the face of time pressure or distraction. Sometimes, though, a character
 can use a skill under more favorable conditions and eliminate the luck
 factor.
 
-# Taking 10
+## Taking 10
 
 When a character is not being threatened or distracted, he or she may
 choose to take 10. Instead of rolling 1d20 for the skill check,
@@ -221,7 +220,7 @@ until the character gets it right. Taking 20 takes twenty times as long
 as making a single check (2 minutes for a skill that can normally be
 checked in 1 round).
 
-# Aiding Another
+## Aiding Another
 
 In some situations, characters can cooperate to accomplish a given task.
 One character is designated as the leader in the effort, while the
@@ -235,7 +234,7 @@ In many cases, a character’s help won’t be beneficial, or only a lim­ited
 number of characters can help at the same time. The GM limits aid
 another attempts as he or she sees fit for the conditions.
 
-# Skill Synergy
+## Skill Synergy
 
 Sometimes, the GM may decide that having one skill provides a bonus when
 a character uses another skill in certain situations. The character must
@@ -264,7 +263,7 @@ opposed Strength checks.
 | Recognize a stranger you’ve seen before | Wisdom       |
 | Getting yourself noticed in a crowd     | Charisma     |
 
-# Modifier Types and Stacking
+## Modifier Types and Stacking
 
 A modifier provides a bonus (a positive modifier) or a penalty (a
 negative modifier) to a die roll.
