@@ -15,6 +15,7 @@ classes.
 ## Using Creatures
 
  - [Creature Overview](creatureoverview.md)
+ - [Creature Types](Types/creaturetypes.md)
  - [Creature Weaknesses](CreatureWeaknesses.md)
  - [Researching Creatures](ResearchingCreatures.md)
  - [Source Effects](SourceEffects.md)
