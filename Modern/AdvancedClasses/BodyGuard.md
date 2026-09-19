@@ -1,52 +1,60 @@
-## BODYGUARD
+# BODYGUARD
 
-### Requirements
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special            | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|--------------------|---------------|------------------|
+| 1st         | +0                | +1        | +2       | +0        | Harm’s way         | +1            | +0               |
+| 2nd         | +1                | +2        | +3       | +0        | Combat sense +1    | +1            | +0               |
+| 3rd         | +2                | +2        | +3       | +1        | Bonus feat         | +2            | +1               |
+| 4th         | +3                | +2        | +4       | +1        | Sudden action      | +2            | +1               |
+| 5th         | +3                | +3        | +4       | +1        | Improved charge    | +3            | +1               |
+| 6th         | +4                | +3        | +5       | +2        | Bonus feat         | +3            | +2               |
+| 7th         | +5                | +4        | +5       | +2        | Defensive strike   | +4            | +2               |
+| 8th         | +6                | +4        | +6       | +2        | Combat sense +2    | +4            | +2               |
+| 9th         | +6                | +4        | +6       | +3        | Bonus feat         | +5            | +3               |
+| 10th        | +7                | +5        | +7       | +3        | Blanket protection | +5            | +3               |
+
+## Requirements
 
 To qualify to become a Bodyguard, a character must fulfill the following
 criteria.
 
 **Base Attack Bonus:** +2.
 
-**Skills:** Concentrate 6 ranks, Intimidate 6 ranks.
+**Skills:** Concentration 6 ranks, Intimidate 6 ranks.
 
 **Feat:** Personal Firearms Proficiency.
 
-### Class Information
+## Hit Die
+1d12
 
-The following information pertains to the Bodyguard advanced class.
+## Action Points
+6 + one-half character level, rounded down, every time the Bodyguard
+attains a new level in this class.
 
-**Hit Die:** 1d12
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Bodyguard attains a new level in this class.
-
-### Class Skills
-
+## Class Skills
 The Bodyguard’s class skills (and the key ability for each skill) are:
-Concentration (Con), Disguise (Cha), Drive (Dex), Forgery (Int), Gather
-Information (Cha), Intimidate (Cha), Knowledge (behavioral sciences,
-civics, current events, streetwise) (Int), Listen (Wis), Profession
-(Wis), Read/Write Language (none), Search (Int), Sense Motive (Wis),
-Speak Language (none), Spot (Wis).
+
+ - Concentration (Con)
+ - Disguise (Cha)
+ - Drive (Dex)
+ - Forgery (Int)
+ - Gather Information (Cha)
+ - Intimidate (Cha)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (streetwise) (Int)
+ - Listen (Wis)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Search (Int)
+ - Sense Motive (Wis)
+ - Speak Language (none)
+ - Spot (Wis)
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-**Table: The Bodyguard**
-
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|-----------------------|---------------|------------------|
-| 1st         | +0                | +1        | +2       | +0        | Harm’s way            | +1            | +0               |
-| 2nd         | +1                | +2        | +3       | +0        | Combat sense +1       | +1            | +0               |
-| 3rd         | +2                | +2        | +3       | +1        | Bonus feat            | +2            | +1               |
-| 4th         | +3                | +2        | +4       | +1        | Sudden action         | +2            | +1               |
-| 5th         | +3                | +3        | +4       | +1        | Improved charge       | +3            | +1               |
-| 6th         | +4                | +3        | +5       | +2        | Bonus feat            | +3            | +2               |
-| 7th         | +5                | +4        | +5       | +2        | Defensive strike      | +4            | +2               |
-| 8th         | +6                | +4        | +6       | +2        | Combat sense +2       | +4            | +2               |
-| 9th         | +6                | +4        | +6       | +3        | Bonus feat            | +5            | +3               |
-| 10th        | +7                | +5        | +7       | +3        | Blanket protection +5 | +3            |                  |
-
-### Class Features
+## Class Features
 
 The following features pertain to the Bodyguard advanced class.
 
@@ -79,11 +87,22 @@ At 3rd, 6th, and 9th level, the Bodyguard gets a bonus feat. The bonus
 feat must be selected from the following list, and the Bodyguard must
 meet all the prerequisites of the feat to select it.
 
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor
-Proficiency (medium), Attentive, Combat Expertise, Combat Reflexes,
-Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch,
-Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting,
-Vehicle Expert.
+ - Advanced Firearms Proficiency
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Attentive
+ - Combat Expertise
+ - Combat Reflexes
+ - Double Tap
+ - Improved Brawl
+ - Improved Feint
+ - Improved Knockout Punch
+ - Knockout Punch
+ - Precise Shot
+ - Quick Draw
+ - Quick Reload
+ - Streetfighting
+ - Vehicle Expert
 
 ### Sudden Action
 

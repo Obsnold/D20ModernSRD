@@ -3,45 +3,6 @@
 The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are possible.
 
-### Requirements
-
-To qualify to become a Telepath, a character must fulfill the following
-criteria.
-
-**Skills:** Bluff 6 ranks, Diplomacy 6 ranks, Gather Information 6
-ranks.
-
-**Feat:** Wild Talent
-
-**Class Information**
-
-The following information pertains to the Telepath advanced class.
-
-### Hit Die
-
-The Telepath gains 1d6 hit points per level. The character’s
-Constitution modifier applies.
-
-### Action Points
-
-The Telepath gains a number of action points equal to 6 + one-half his
-character level, rounded down, every time he attains a new level in this
-class.
-
-### Class Skills
-
-The Telepath’s class skills are as follows.
-
-Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Diplomacy (Cha),
-Gather Information (Cha), Knowledge (behavioral sciences, current
-events, popular culture, philosophy and theology) (Int), Profession
-(Wis), Psicraft (Int), Read/Write Language (none), Sense Motive (Wis),
-Speak Language (none).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Telepath**
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
 | 1st         | +0                | +0        | +0       | +2        | Psionic skills, psionic powers       | +0            | +1               |
@@ -55,7 +16,46 @@ Speak Language (none).
 | 9th         | +4                | +3        | +3       | +6        | Bonus feat, psionic powers           | +3            | +3               |
 | 10th        | +5                | +3        | +3       | +7        | Maximize power, psionic powers       | +3            | +4               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Telepath, a character must fulfill the following
+criteria.
+
+**Skills:** Bluff 6 ranks, Diplomacy 6 ranks, Gather Information 6
+ranks.
+
+**Feat:** Wild Talent.
+
+## Hit Die
+The Telepath gains 1d6 hit points per level. The character’s
+Constitution modifier applies.
+
+## Action Points
+The Telepath gains a number of action points equal to 6 + one-half his
+character level, rounded down, every time he attains a new level in this
+class.
+
+## Class Skills
+The Telepath’s class skills are as follows.
+
+ - Autohypnosis (Wis)
+ - Bluff (Cha)
+ - Concentration (Con)
+ - Diplomacy (Cha)
+ - Gather Information (Cha)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (philosophy and theology) (Int)
+ - Profession (Wis)
+ - Psicraft (Int)
+ - Read/Write Language (none)
+ - Sense Motive (Wis)
+ - Speak Language (none)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 All of the following features pertain to the Telepath advanced class.
 
@@ -65,18 +65,19 @@ A Telepath has access to the following psionic skills. These skills are
 considered class skills for the Telepath, and he can use his skill
 points to buy ranks in them, just like other skills in the game.
 
-**Autohypnosis (Wis):** Trained only. You have trained your mind to
-resist certain injuries and threats while also gaining a few select
-benefits.
+#### Autohypnosis (Wis)
+
+Trained only. You have trained your mind to resist certain injuries and
+threats while also gaining a few select benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-| <sup>Task</sup> | <sup>DC</sup> |
-|-----------------|---------------|
-| Resist fear     | 15            |
-| Memorize        | 15            |
-| Tolerate poison | Poison’s DC   |
-| Willpower       | 20            |
+| Task            | DC          |
+|-----------------|-------------|
+| Resist fear     | 15          |
+| Memorize        | 15          |
+| Tolerate poison | Poison’s DC |
+| Willpower       | 20          |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -112,8 +113,10 @@ in the same round for willpower.
 Most uses of Autohypnosis are attack actions. Willpower is a free action
 that can be attempted once per round.
 
-**Concentration (Con):** The normal Concentration skill expands to
-include psionic applications, as defined below.
+#### Concentration (Con)
+
+The normal Concentration skill expands to include psionic applications,
+as defined below.
 
 **Check:** You must make a Concentration check whenever you may
 potentially be distracted while engaged in an activity, including
@@ -136,17 +139,19 @@ Concentration to manifest a power defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the action without
 incurring any attacks of opportunity.
 
-**Psicraft (Int):** Trained only. Use this skill to identify psionic
-powers as they manifest or psionic effects already in place.
+#### Psicraft (Int)
+
+Trained only. Use this skill to identify psionic powers as they manifest
+or psionic effects already in place.
 
 **Check:** You can identify psionic powers and effects.
 
-| <sup>DC</sup>    | <sup>Task</sup>                                                                                                                                     |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| DC               | Task                                                                                                                                               |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15 + power level | Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. |
 | 20 + power level | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again.          |
-| 20 + power level | Identify materials created or shaped by psionics. You can’t try again.                                                                              |
-| 30 or higher     | Understand a strange or unique psionic effect. You can’t try again.                                                                                 |
+| 20 + power level | Identify materials created or shaped by psionics. You can’t try again.                                                                             |
+| 30 or higher     | Understand a strange or unique psionic effect. You can’t try again.                                                                                |
 
 **Try Again?:** See above.
 
@@ -176,19 +181,19 @@ indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Telepath’s key ability modifier.
 
-| <sup>Telepath Level</sup> |                    | <sup>—</sup><sup>—</sup><sup>Powers Discovered by Level</sup><sup>—</sup><sup>—</sup> |              |              |              |              |              |
-|---------------------------|--------------------|---------------------------------------------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
-|                           | <sup>Pts/Day</sup> | <sup>0</sup>                                                                          | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> | <sup>5</sup> |
-| 1st                       | 2                  | 3                                                                                     | 1            | —            | —            | —            | —            |
-| 2nd                       | 3                  | 3                                                                                     | 2            | —            | —            | —            | —            |
-| 3rd                       | 4                  | 3                                                                                     | 3            | —            | —            | —            | —            |
-| 4th                       | 7                  | 4                                                                                     | 3            | 1            | —            | —            | —            |
-| 5th                       | 10                 | 4                                                                                     | 3            | 2            | —            | —            | —            |
-| 6th                       | 15                 | 4                                                                                     | 3            | 2            | 1            | —            | —            |
-| 7th                       | 20                 | 5                                                                                     | 4            | 3            | 2            | —            | —            |
-| 8th                       | 27                 | 5                                                                                     | 4            | 3            | 2            | 1            | —            |
-| 9th                       | 34                 | 5                                                                                     | 4            | 3            | 3            | 2            | —            |
-| 10th                      | 43                 | 6                                                                                     | 4            | 3            | 3            | 2            | 1            |
+| Telepath Level | Pts/Day | ———— Powers Discovered by Level ———— |       |       |       |       |       |
+|----------------|---------|--------------------------------------|-------|-------|-------|-------|-------|
+|                |         | **0**                                | **1** | **2** | **3** | **4** | **5** |
+| 1st            | 2       | 3                                    | 1     | —     | —     | —     | —     |
+| 2nd            | 3       | 3                                    | 2     | —     | —     | —     | —     |
+| 3rd            | 4       | 3                                    | 3     | —     | —     | —     | —     |
+| 4th            | 7       | 4                                    | 3     | 1     | —     | —     | —     |
+| 5th            | 10      | 4                                    | 3     | 2     | —     | —     | —     |
+| 6th            | 15      | 4                                    | 3     | 2     | 1     | —     | —     |
+| 7th            | 20      | 5                                    | 4     | 3     | 2     | —     | —     |
+| 8th            | 27      | 5                                    | 4     | 3     | 2     | 1     | —     |
+| 9th            | 34      | 5                                    | 4     | 3     | 3     | 2     | —     |
+| 10th           | 43      | 6                                    | 4     | 3     | 3     | 2     | 1     |
 
 A Telepath can manifest a certain number of powers per day based on his
 available power points. (0-level powers have a special cost; see FX
@@ -198,14 +203,14 @@ is shown on the table above. This number is improved by bonus points
 determined by the Telepath’s Charisma score, as shown on the table
 below.
 
-| <sup>Cha Score</sup> | <sup>Bonus Power Points per Day</sup> |
-|----------------------|---------------------------------------|
-| 12–13                | 1                                     |
-| 14–15                | 3                                     |
-| 16–17                | 5                                     |
-| 18–19                | 7                                     |
-| 20–21                | 9                                     |
-| 22–23                | 11                                    |
+| Cha Score | Bonus Power Points per Day |
+|-----------|----------------------------|
+| 12–13     | 1                          |
+| 14–15     | 3                          |
+| 16–17     | 5                          |
+| 18–19     | 7                          |
+| 20–21     | 9                          |
+| 22–23     | 11                         |
 
 ### Trigger Power
 
@@ -231,9 +236,21 @@ At 3rd, 6th, and 9th level, the Telepath gets a bonus feat. The bonus
 feat must be selected from the following list, and the Telepath must
 meet all the prerequisites of the feat to select it.
 
-Alertness, Animal Affinity, Attentive, Blind-Fight, Combat Expertise,
-Confident, Creative, Deceptive, Educated, Focused, Frightful Presence,
-Iron Will, Renown, Stealthy, Studious.
+ - Alertness
+ - Animal Affinity
+ - Attentive
+ - Blind-Fight
+ - Combat Expertise
+ - Confident
+ - Creative
+ - Deceptive
+ - Educated
+ - Focused
+ - Frightful Presence
+ - Iron Will
+ - Renown
+ - Stealthy
+ - Studious
 
 ### Power Crystal
 
@@ -249,7 +266,7 @@ Telepath can call upon these power points at any time and use them just
 as he would his natural power points. Once the crystal is depleted, the
 Telepath must refill it using up to 5 power points from his own
 reserves. A power crystal can be recharged after a Telepath has rested
-and renewed his own reserves of power points for the day..
+and renewed his own reserves of power points for the day.
 
 ### Combat Manifestation
 

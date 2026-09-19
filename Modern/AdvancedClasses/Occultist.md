@@ -3,45 +3,6 @@
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
-## Requirements
-
-To qualify to become an Occultist, a character must fulfill the
-following criteria.
-
-**Skills:** Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks,
-Research 6 ranks.
-
-**Feats:** Educated, Studious.
-
-### Class Information
-
-The following information pertains to the Occultist advanced class.
-
-### Hit Die
-
-The Occultist gains 1d6 hit points per level. The character’s
-Constitution modifier applies.
-
-### Action Points
-
-The Occultist gains a number of action points equal to 6 + one-half her
-character level, rounded down, every time she attains a new level in
-this class.
-
-### Class Skills
-
-The Occultist’s class skills are as follows.
-
-Craft (visual arts, writing) (Int), Decipher Script (Int), Drive (Dex),
-Escape Artist (Dex), Forgery (Int), Investigate (Int), Knowledge (arcane
-lore, history, theology and philosophy) (Int), Profession (Wis),
-Read/Write Language (none), Re­ search (Int), Sleight of Hand (Dex),
-Speak Language (none), Use Magic Device (Cha).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Occultist**
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|---------------------------------|---------------|------------------|
 | 1st         | +0                | +0        | +0       | +1        | Arcane skills, spell resistance | +0            | +0               |
@@ -55,7 +16,48 @@ Speak Language (none), Use Magic Device (Cha).
 | 9th         | +4                | +3        | +3       | +4        | Bonus feat                      | +3            | +3               |
 | 10th        | +5                | +3        | +3       | +5        | Banish                          | +3            | +3               |
 
-### Class Features
+## Requirements
+
+To qualify to become an Occultist, a character must fulfill the
+following criteria.
+
+**Skills:** Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks,
+Research 6 ranks.
+
+**Feats:** Educated, Studious.
+
+## Hit Die
+The Occultist gains 1d6 hit points per level. The character’s
+Constitution modifier applies.
+
+## Action Points
+The Occultist gains a number of action points equal to 6 + one-half her
+character level, rounded down, every time she attains a new level in
+this class.
+
+## Class Skills
+The Occultist’s class skills are as follows.
+
+ - Craft (visual arts) (Int)
+ - Craft (writing) (Int)
+ - Decipher Script (Int)
+ - Drive (Dex)
+ - Escape Artist (Dex)
+ - Forgery (Int)
+ - Investigate (Int)
+ - Knowledge (arcane lore) (Int)
+ - Knowledge (history) (Int)
+ - Knowledge (theology and philosophy) (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Research (Int)
+ - Sleight of Hand (Dex)
+ - Speak Language (none)
+ - Use Magic Device (Cha)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Occultist advanced class.
 
@@ -65,8 +67,10 @@ An Occultist has access to the following arcane skills. These skills are
 considered class skills for the Occultist, and she can use her skill
 points to buy ranks in them, just like other skills in the game.
 
-**Concentration (Con):** The normal Concentration skill expands to
-include arcane applications, as defined below.
+#### Concentration (Con)
+
+The normal Concentration skill expands to include arcane applications,
+as defined below.
 
 **Check:** You must make a Concentration check whenever you may
 potentially be distracted while engaged in an activity, including
@@ -90,9 +94,10 @@ Concentration to cast a spell defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the casting without
 incurring any attacks of opportunity.
 
-**Use Magic Device (Cha):** Trained only. Use this skill to activate
-magic devices, including scrolls and wands, that you could not otherwise
-activate.
+#### Use Magic Device (Cha)
+
+Trained only. Use this skill to activate magic devices, including
+scrolls and wands, that you could not otherwise activate.
 
 **Check:** You can use this skill to read a spell from a scroll or
 spellbook or activate a magic item. This skill lets you use a magic item
@@ -108,7 +113,7 @@ You make Use Magic Device checks each time you activate a device such as
 a scroll or a wand. If you are using the check to emulate some quality
 in an ongoing manner, you need to make the checks once per hour.
 
-| <sup>Task</sup>          | <sup>DC</sup>     |
+| Task                     | DC                |
 |--------------------------|-------------------|
 | Activate blindly         | 25                |
 | Decipher a written spell | 25 + spell level  |
@@ -187,13 +192,13 @@ activate that item again for 24 hours.
 **Special:** You can’t take 10 or take 20 with this skill. Magic is too
 unpredictable to make the use of this skill reliable.
 
-#### Spell Resistance
+### Spell Resistance
 
 An Occultist has spell resistance equal to 5 + her Occultist level. It
 never interferes with her own spells, and she can voluntarily lower her
 spell resistance at any time.
 
-**Arcane Research (Scrolls)**
+### Arcane Research (Scrolls)
 
 Starting at 2nd level, an Occultist can research spells and scribe
 scrolls. Indeed, the only way for an Occultist to cast an arcane spell
@@ -211,17 +216,17 @@ spell level the Occultist receives upon gaining a new level, and how
 many of these can be researched at each level. A failed Research check
 indicates that the Occultist instead discovers all random spells.
 
-| <sup>Level</sup> | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> | <sup>Research</sup> |
-|------------------|--------------|--------------|--------------|--------------|---------------------|
-| 2nd              | 3            | —            | —            | —            | 1 (DC 20)           |
-| 3rd              | 4            | —            | —            | —            | 2 (DC 23)           |
-| 4th              | 5            | 2            | —            | —            | 3 (DC 25)           |
-| 5th              | 5            | 3            | —            | —            | 4 (DC 28)           |
-| 6th              | 5            | 4            | —            | —            | 5 (DC 30)           |
-| 7th              | 6            | 5            | 2            | —            | 6 (DC 33)           |
-| 8th              | 6            | 5            | 3            | —            | 7 (DC 35)           |
-| 9th              | 6            | 5            | 4            | —            | 8 (DC 38)           |
-| 10th             | 7            | 6            | 5            | 2            | 9 (DC 40)           |
+| Level | 1   | 2   | 3   | 4   | Research  |
+|-------|-----|-----|-----|-----|-----------|
+| 2nd   | 3   | —   | —   | —   | 1 (DC 20) |
+| 3rd   | 4   | —   | —   | —   | 2 (DC 23) |
+| 4th   | 5   | 2   | —   | —   | 3 (DC 25) |
+| 5th   | 5   | 3   | —   | —   | 4 (DC 28) |
+| 6th   | 5   | 4   | —   | —   | 5 (DC 30) |
+| 7th   | 6   | 5   | 2   | —   | 6 (DC 33) |
+| 8th   | 6   | 5   | 3   | —   | 7 (DC 35) |
+| 9th   | 6   | 5   | 4   | —   | 8 (DC 38) |
+| 10th  | 7   | 6   | 5   | 2   | 9 (DC 40) |
 
 So, at 2nd level, the Occultist gains three 1st-level arcane spell
 scrolls. One of these spells can be selected by the Occultist if she
@@ -240,9 +245,16 @@ At 3rd, 6th, and 9th level, the Occultist gets a bonus feat. The bonus
 feat must be selected from the following list, and the Occultist must
 meet all the prerequisites of the feat to select it.
 
-Alertness, Archaic Weapons Proficiency, Attentive, Confident, Defensive
-Martial Arts, Focused, Frightful Presence, Iron Will, Personal Firearms
-Proficiency, Point Blank Shot.
+ - Alertness
+ - Archaic Weapons Proficiency
+ - Attentive
+ - Confident
+ - Defensive Martial Arts
+ - Focused
+ - Frightful Presence
+ - Iron Will
+ - Personal Firearms Proficiency
+ - Point Blank Shot
 
 ### Shadow Contact
 
@@ -281,7 +293,7 @@ less.
 At 8th level, the Occultist can bind a Shadow creature with 4 HD or
 less.
 
-**Arcane Research (Items)**
+### Arcane Research (Items)
 
 Starting at 7th level, an Occultist can perform research to find magic
 items. The method and process is unique to the Occultist. There is no

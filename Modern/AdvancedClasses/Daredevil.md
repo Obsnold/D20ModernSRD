@@ -1,37 +1,4 @@
-## DAREDEVIL
-
-### Requirements
-
-To qualify to become a Daredevil, a character must fulfill the following
-criteria.
-
-**Base Attack Bonus:** +2.
-
-**Skills:** Concentration 6 ranks, Drive 6 ranks.
-
-**Feat:** Endurance.
-
-### Class Information
-
-The following information pertains to the Daredevil advanced class.
-
-**Hit Die:** 1d10
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time he or she attains a new level in this class.
-
-### Class Skills
-
-The Daredevil’s class skills (and the key ability for each skill) are:
-Balance (Dex), Climb (Str), Concentration (Con), Demolitions (Int),
-Drive (Dex), Escape Artist (Dex), Intimidate (Cha), Jump (Str),
-Knowledge (current events, popular culture) (Int), Perform (act) (Cha),
-Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex),
-Speak Language (none), Spot (Wis), Swim (Str), Tumble (Dex).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Daredevil**
+# DAREDEVIL
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|--------------------------------------|---------------|------------------|
@@ -46,7 +13,50 @@ Speak Language (none), Spot (Wis), Swim (Str), Tumble (Dex).
 | 9th         | +4                | +6        | +3       | +3        | Bonus feat                           | +6            | +3               |
 | 10th        | +5                | +7        | +3       | +3        | Damage threshold                     | +7            | +3               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Daredevil, a character must fulfill the following
+criteria.
+
+**Base Attack Bonus:** +2.
+
+**Skills:** Concentration 6 ranks, Drive 6 ranks.
+
+**Feat:** Endurance.
+
+## Hit Die
+1d10
+
+## Action Points
+6 + one-half character level, rounded down, every time he or she attains
+a new level in this class.
+
+## Class Skills
+The Daredevil’s class skills (and the key ability for each skill) are:
+
+ - Balance (Dex)
+ - Climb (Str)
+ - Concentration (Con)
+ - Demolitions (Int)
+ - Drive (Dex)
+ - Escape Artist (Dex)
+ - Intimidate (Cha)
+ - Jump (Str)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Perform (act) (Cha)
+ - Pilot (Dex)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Ride (Dex)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Swim (Str)
+ - Tumble (Dex)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Daredevil advanced class.
 
@@ -66,11 +76,26 @@ At 3rd, 6th, and 9th level, the Daredevil gets a bonus feat. The bonus
 feat must be selected from the following list, and the Daredevil must
 meet all the prerequisites of the feat to select it.
 
-Acrobatic, Armor Proficiency (light), Armor Proficiency (me­di­um),
-Athletic, Brawl, Cautious, Dodge, Force Stop, Im­proved Brawl, Improved
-Damage Threshold, Improved Knockout Punch, Knockout Punch, Mobility,
-Nimble, Spring Attack, Streetfighting, Surface Vehicle Operation,
-Toughness, Vehicle Dodge, Vehicle Expert.
+ - Acrobatic
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Athletic
+ - Brawl
+ - Cautious
+ - Dodge
+ - Force Stop
+ - Improved Brawl
+ - Improved Damage Threshold
+ - Improved Knockout Punch
+ - Knockout Punch
+ - Mobility
+ - Nimble
+ - Spring Attack
+ - Streetfighting
+ - Surface Vehicle Operation
+ - Toughness
+ - Vehicle Dodge
+ - Vehicle Expert
 
 ### Action Boost
 

@@ -1,36 +1,4 @@
-## INVESTIGATOR
-
-### Requirements
-
-To qualify to become an Investigator, a character must fulfill the
-following criteria.
-
-**Base Attack Bonus:** +2.
-
-**Skills:** Investigate 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
-
-### Class Information
-
-The following information pertains to the Investigator advanced class.
-
-**Hit Die:** 1d6
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Investigator attains a new level in this class.
-
-### Class Skills
-
-The Investigator’s class skills (and the key ability for each skill)
-are: Bluff (Cha), Computer Use (Int), Disable Device (Dex), Drive (Dex),
-Forgery (Int), Gather Information (Cha), Intimidate (Cha), Investigate
-(Int), Knowledge (behavioral sciences, civics, current events,
-streetwise) (Int), Listen (Wis), Profession (Wis), Read/\_Write Language
-(none), Research (Int), Search (Int), Sense Motive (Wis), Speak Language
-(none), Spot (Wis).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Investigator**
+# INVESTIGATOR
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|---------------------|---------------|------------------|
@@ -45,7 +13,50 @@ streetwise) (Int), Listen (Wis), Profession (Wis), Read/\_Write Language
 | 9th         | +6                | +3        | +4       | +4        | Bonus feat          | +5            | +3               |
 | 10th        | +7                | +3        | +5       | +5        | Sixth sense         | +5            | +4               |
 
-### Class Features
+## Requirements
+
+To qualify to become an Investigator, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +2.
+
+**Skills:** Investigate 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
+
+## Hit Die
+1d6
+
+## Action Points
+6 + one-half character level, rounded down, every time the Investigator
+attains a new level in this class.
+
+## Class Skills
+The Investigator’s class skills (and the key ability for each skill)
+are:
+
+ - Bluff (Cha)
+ - Computer Use (Int)
+ - Disable Device (Int)
+ - Drive (Dex)
+ - Forgery (Int)
+ - Gather Information (Cha)
+ - Intimidate (Cha)
+ - Investigate (Int)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (streetwise) (Int)
+ - Listen (Wis)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Research (Int)
+ - Search (Int)
+ - Sense Motive (Wis)
+ - Speak Language (none)
+ - Spot (Wis)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Investigator advanced class.
 
@@ -102,10 +113,17 @@ At 3rd, 6th, and 9th level, the Investigator gets a bonus feat. The
 bonus feat must be selected from the following list, and the
 Investigator must meet all the prerequisites of the feat to select it.
 
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor
-Proficiency (medium), Brawl, Defensive Martial Arts, Dodge, Double Tap,
-Educated, Knockout Punch, Personal Firearms Proficiency, Point Blank
-Shot.
+ - Advanced Firearms Proficiency
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Brawl
+ - Defensive Martial Arts
+ - Dodge
+ - Double Tap
+ - Educated
+ - Knockout Punch
+ - Personal Firearms Proficiency
+ - Point Blank Shot
 
 ### Nonlethal Force
 

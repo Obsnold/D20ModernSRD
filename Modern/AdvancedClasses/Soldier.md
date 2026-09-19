@@ -1,36 +1,6 @@
 # SOLDIER
 
-## Requirements
-
-To qualify to become a Soldier, a character must fulfill the following
-criteria.
-
-**Base Attack Bonus:** +3.
-
-**Skill:** Knowledge (tactics) 3 ranks.
-
-**Feat:** Personal Firearms Proficiency.
-
-## Class Information
-
-**Hit Die:** 1d10
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the character attains a new level in this class.
-
-**Class Skills**
-
-The Soldier’s class skills (and the key ability for each skill) are:
-Demolitions (Int), Drive (Dex), Intimidate (Cha), Jump (Str), Knowledge
-(current events, history, popular culture, tactics) (Int), Listen (Wis),
-Navigate (Int), Profession (Wis), Read/Write Language (none), Speak
-Language (none), Spot (Wis), Survival (Wis), Swim (Str).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Soldier**
-
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------------|---------------|------------------|
 | 1st         | +0                | +1        | +1       | +0        | Weapon Focus                  | +1            | +0               |
 | 2nd         | +1                | +2        | +2       | +0        | Weapon specialization         | +1            | +0               |
@@ -42,6 +12,46 @@ Language (none), Spot (Wis), Survival (Wis), Swim (Str).
 | 8th         | +6                | +4        | +4       | +2        | Greater weapon specialization | +4            | +1               |
 | 9th         | +6                | +4        | +4       | +3        | Bonus feat                    | +5            | +2               |
 | 10th        | +7                | +5        | +5       | +3        | Critical strike               | +5            | +2               |
+
+## Requirements
+
+To qualify to become a Soldier, a character must fulfill the following
+criteria.
+
+**Base Attack Bonus:** +3.
+
+**Skill:** Knowledge (tactics) 3 ranks.
+
+**Feat:** Personal Firearms Proficiency.
+
+## Hit Die
+1d10
+
+## Action Points
+6 + one-half character level, rounded down, every time the character
+attains a new level in this class.
+
+## Class Skills
+The Soldier’s class skills (and the key ability for each skill) are:
+
+ - Demolitions (Int)
+ - Drive (Dex)
+ - Intimidate (Cha)
+ - Jump (Str)
+ - Knowledge (current events) (Int)
+ - Knowledge (history) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (tactics) (Int)
+ - Listen (Wis)
+ - Navigate (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Survival (Wis)
+ - Swim (Str)
+
+**Skill Points at Each Level:** 5 + Int modifier.
 
 ## Class Features
 
@@ -56,7 +66,7 @@ weapon. The soldier must be proficient with the chosen weapon.
 
 The soldier adds +1 to all attack rolls made using the selected weapon.
 
-**Weapon Specialization**
+### Weapon Specialization
 
 At 2nd level, a Soldier gains weapon specialization with a specific
 melee or ranged weapon that he or she also has applied the Weapon Focus
@@ -69,24 +79,33 @@ At 3rd, 6th, and 9th level, the Soldier gets a bonus feat. The bonus
 feat must be selected from the following list, and the Soldier must meet
 all the prerequisites of the feat to select it.
 
-Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor
-Proficiency (light), Armor Proficiency (medium), Armor Proficiency
-(heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms
-Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave,
-Im­proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.
+ - Advanced Firearms Proficiency
+ - Archaic Weapons Proficiency
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Armor Proficiency (heavy)
+ - Brawl
+ - Burst Fire
+ - Cleave
+ - Combat Reflexes
+ - Exotic Firearms Proficiency
+ - Exotic Melee Weapon Proficiency
+ - Far Shot
+ - Great Cleave
+ - Improved Brawl
+ - Improved Knockout Punch
+ - Knockout Punch
+ - Power Attack
 
 ### Tactical Aid
 
 As a full-round action, the Soldier provides tactical aid to all of his
-allies (including himself) within sight and voice
-
-range of his position. This use of tactical aid requires an action
-point.
+allies (including himself) within sight and voice range of his position.
+This use of tactical aid requires an action point.
 
 This aid provides a +1 competence bonus on attack rolls. The bonus lasts
-for a number of rounds equal to one-half
-
-of the Soldier’s level in the advanced class, rounded down.
+for a number of rounds equal to one-half of the Soldier’s level in the
+advanced class, rounded down.
 
 ### Improved Critical
 

@@ -1,41 +1,5 @@
 # INFILTRATOR
 
-## Requirements
-
-To qualify to become an Infiltrator, a character must fulfill the
-following criteria.
-
-**Base Attack Bonus:** +2.
-
-**Skills:** Hide 6 ranks, Move Silently 6 ranks.
-
-## Class Information
-
-The following information pertains to the Infiltrator advanced class.
-
-**Hit Die:** 1d8
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the infiltrator attains a new level in this class.
-
-## Class Skills
-
-The Infiltrator’s class skills (and the key ability for each skill) are:
-Balance (Dex), Climb (Str), Disable Device (Int), Disguise (Cha), Escape
-Artist (Dex), Hide (Dex), Investigate (Int), Jump (Str), Knowledge (art,
-business, current events, popular culture, streetwise) (Int), Listen
-(Wis), Move Silently (Dex), Profession (Wis), Read/Write Language
-(none), Search (Int), Sleight of Hand (Dex), Speak Language (none), Spot
-(Wis), Tumble (Dex).
-
-**Skill Points at Each Level:** 7 + Int modifier.
-
-## Class Features
-
-The following features pertain to the Infiltrator advanced class.
-
-**Table: The Infiltrator**
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|--------------------------|---------------|------------------|
 | 1st         | +0                | +0        | +2       | +0        | Sweep                    | +1            | +1               |
@@ -48,6 +12,54 @@ The following features pertain to the Infiltrator advanced class.
 | 8th         | +4                | +2        | +6       | +2        | Improved sweep           | +6            | +3               |
 | 9th         | +4                | +3        | +6       | +3        | Bonus feat               | +6            | +3               |
 | 10th        | +5                | +3        | +7       | +3        | Without a trace          | +7            | +4               |
+
+## Requirements
+
+To qualify to become an Infiltrator, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +2.
+
+**Skills:** Hide 6 ranks, Move Silently 6 ranks.
+
+## Hit Die
+1d8
+
+## Action Points
+6 + one-half character level, rounded down, every time the infiltrator
+attains a new level in this class.
+
+## Class Skills
+The Infiltrator’s class skills (and the key ability for each skill) are:
+
+ - Balance (Dex)
+ - Climb (Str)
+ - Disable Device (Int)
+ - Disguise (Cha)
+ - Escape Artist (Dex)
+ - Hide (Dex)
+ - Investigate (Int)
+ - Jump (Str)
+ - Knowledge (art) (Int)
+ - Knowledge (business) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (streetwise) (Int)
+ - Listen (Wis)
+ - Move Silently (Dex)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Search (Int)
+ - Sleight of Hand (Dex)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Tumble (Dex)
+
+**Skill Points at Each Level:** 7 + Int modifier.
+
+## Class Features
+
+The following features pertain to the Infiltrator advanced class.
 
 ### Sweep
 
@@ -75,9 +87,22 @@ At 3rd, 6th, and 9th level, the Infiltrator gets a bonus feat. The bonus
 feat must be selected from the following list, and the Infiltrator must
 meet all the prerequisites of the feat to select it.
 
-Acrobatic, Alertness, Armor Proficiency (light), Athletic, Attentive,
-Brawl, Cautious, Defensive Martial Arts, Dodge, Elusive Target,
-Meticulous, Mobility, Nimble, Renown, Run, Stealthy.
+ - Acrobatic
+ - Alertness
+ - Armor Proficiency (light)
+ - Athletic
+ - Attentive
+ - Brawl
+ - Cautious
+ - Defensive Martial Arts
+ - Dodge
+ - Elusive Target
+ - Meticulous
+ - Mobility
+ - Nimble
+ - Renown
+ - Run
+ - Stealthy
 
 ### Improved Evasion
 

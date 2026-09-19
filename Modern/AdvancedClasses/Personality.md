@@ -1,35 +1,4 @@
-PERSONALITY
-
-### Requirements
-
-To qualify to become a Personality, a character must fulfill the
-following criteria.
-
-**Skills:** Diplomacy 6 ranks, Perform (select one) 6 ranks.
-
-**Feat:** Renown.
-
-### Class Information
-
-The following information pertains to the Personality advanced class.
-
-**Hit Die:** 1d6
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Personality attains a new level in this class.
-
-### Class Skills
-
-The Personality’s class skills (and the key ability for each skill) are:
-Bluff (Cha), Craft (visual arts) (Int), Craft (writing) (Int), Diplomacy
-(Cha), Knowledge (art, behavioral sciences, business, civics, current
-events, popular culture) (Int), Perform (act, dance, sing, stand-up)
-(Cha), Profession (Wis), Read/\_Write Language (none), Speak Language
-(none).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Personality**
+# PERSONALITY
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|------------------------|---------------|------------------|
@@ -44,7 +13,46 @@ events, popular culture) (Int), Perform (act, dance, sing, stand-up)
 | 9th         | +4                | +4        | +4       | +3        | Bonus feat             | +3            | +4               |
 | 10th        | +5                | +5        | +5       | +3        | Compelling performance | +3            | +5               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Personality, a character must fulfill the
+following criteria.
+
+**Skills:** Diplomacy 6 ranks, Perform (select one) 6 ranks.
+
+**Feat:** Renown.
+
+## Hit Die
+1d6
+
+## Action Points
+6 + one-half character level, rounded down, every time the Personality
+attains a new level in this class.
+
+## Class Skills
+The Personality’s class skills (and the key ability for each skill) are:
+
+ - Bluff (Cha)
+ - Craft (visual arts) (Int)
+ - Craft (writing) (Int)
+ - Diplomacy (Cha)
+ - Knowledge (art) (Int)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (business) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Perform (act) (Cha)
+ - Perform (dance) (Cha)
+ - Perform (sing) (Cha)
+ - Perform (stand-up) (Cha)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Speak Language (none)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Personality advanced class.
 
@@ -66,7 +74,7 @@ given below.
 | Concert or theater ticket to backstage pass | 20           |
 | Economy transportation to first-class       | 25           |
 
-**Bonus Class Skill**
+### Bonus Class Skill
 
 At 2nd and again at 7th level, the Personality designates one
 cross-class skill as a class skill. Once designated, the skill is
@@ -79,8 +87,15 @@ At 3rd, 6th, and 9th level, the Personality gets a bonus feat. The bonus
 feat must be selected from the following list, and the Personality must
 meet all the prerequisites of the feat to select it.
 
-Alertness, Animal Affinity, Combat Expertise, Confident, Creative,
-Deceptive, Defensive Martial Arts, Educated, Trustworthy.
+ - Alertness
+ - Animal Affinity
+ - Combat Expertise
+ - Confident
+ - Creative
+ - Deceptive
+ - Defensive Martial Arts
+ - Educated
+ - Trustworthy
 
 ### Royalty
 
@@ -130,13 +145,13 @@ level + Personality’s Charisma bonus. If the target succeeds at the
 saving throw, he or she is immune to the compulsion of this performance.
 If the target fails, he or she reacts to the emotion as described below.
 
-Despair: The target takes a –2 morale penalty on saving throws, attack
+**Despair:** The target takes a –2 morale penalty on saving throws,
+attack rolls, ability checks, skill checks, and weapon damage rolls.
+
+**Hope:** The target gains a +2 morale bonus on saving throws, attack
 rolls, ability checks, skill checks, and weapon damage rolls.
 
-Hope: The target gains a +2 morale bonus on saving throws, attack rolls,
-ability checks, skill checks, and weapon damage rolls.
-
-Rage: The target gains a +2 morale bonus to Strength and Constitution, a
-+1 morale bonus on Will saves, and a –1 penalty to Defense. In a
-dramatic situation, the target is compelled to fight, regardless of the
-danger.
+**Rage:** The target gains a +2 morale bonus to Strength and
+Constitution, a +1 morale bonus on Will saves, and a –1 penalty to
+Defense. In a dramatic situation, the target is compelled to fight,
+regardless of the danger.

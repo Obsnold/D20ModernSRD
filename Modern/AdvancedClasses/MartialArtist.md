@@ -1,35 +1,4 @@
-## MARTIAL ARTIST
-
-### Requirements
-
-To qualify to become a Martial Artist, a character must fulfill the
-following criteria.
-
-**Base Attack Bonus:** +3.
-
-**Skill:** Jump 3 ranks.
-
-**Feats:** Combat Martial Arts, Defensive Martial Arts.
-
-### Class Information
-
-**Hit Die:** 1d8
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the martial artist attains a new level in this class.
-
-### Class Skills
-
-The Martial Artist’s class skills (and the key ability for each skill)
-are: Balance (Dex), Climb (Str), Escape Artist (Dex), Hide (Dex),
-Intimidate (Cha), Jump (Str), Knowledge (current events, popular
-culture, theology and philosophy) (Int), Move Silently (Dex), Perform
-(dance) (Cha), Profession (Wis), Read/Write Language (none), Speak
-Language (none), Spot (Wis), Tumble (Dex).
-
-**Skill Points at Each Level:** 3 + Int modifier.
-
-**Table: The Martial Artist**
+# MARTIAL ARTIST
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                 | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------|---------------|------------------|
@@ -44,7 +13,48 @@ Language (none), Spot (Wis), Tumble (Dex).
 | 9th         | +9                | +3        | +6       | +3        | Bonus feat              | +6            | +2               |
 | 10th        | +10               | +3        | +7       | +3        | Iron fist (all attacks) | +7            | +2               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Martial Artist, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +3.
+
+**Skill:** Jump 3 ranks.
+
+**Feats:** Combat Martial Arts, Defensive Martial Arts.
+
+## Hit Die
+1d8
+
+## Action Points
+6 + one-half character level, rounded down, every time the martial
+artist attains a new level in this class.
+
+## Class Skills
+The Martial Artist’s class skills (and the key ability for each skill)
+are:
+
+ - Balance (Dex)
+ - Climb (Str)
+ - Escape Artist (Dex)
+ - Hide (Dex)
+ - Intimidate (Cha)
+ - Jump (Str)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (theology and philosophy) (Int)
+ - Move Silently (Dex)
+ - Perform (dance) (Cha)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Tumble (Dex)
+
+**Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Martial Artist advanced class.
 
@@ -77,10 +87,16 @@ At 3rd, 6th, and 9th level, the Martial Artist gets a bonus feat. The
 bonus feat must be selected from the following list, and the Martial
 Artist must meet all the prerequisites of the feat to select it.
 
-Acrobatic, Advanced Combat Martial Arts, Archaic Weapons Proficiency,
-Combat Reflexes, Combat Throw, Elusive Target, Exotic Melee Weapon
-Proficiency, Improved Combat Throw, Improved Combat Martial Arts,
-Unbalance Opponent.
+ - Acrobatic
+ - Advanced Combat Martial Arts
+ - Archaic Weapons Proficiency
+ - Combat Reflexes
+ - Combat Throw
+ - Elusive Target
+ - Exotic Melee Weapon Proficiency
+ - Improved Combat Throw
+ - Improved Combat Martial Arts
+ - Unbalance Opponent
 
 ### Iron Fist
 
@@ -90,7 +106,7 @@ single unarmed strike. The martial artist declares the use of the action
 point after making a successful unarmed strike. The result of the action
 point roll is added to the damage roll for that attack.
 
-At 10th level, this ability im­proves. The Martial Artist now adds the
+At 10th level, this ability improves. The Martial Artist now adds the
 result of the action point roll to all successful attacks he or she
 makes in a round.
 

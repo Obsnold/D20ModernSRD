@@ -1,44 +1,4 @@
-
 # BATTLE MIND
-
-### Requirements
-
-To qualify to become a Battle Mind, a character must fulfill the
-following criteria.
-
-**Base Attack Bonus:** +3.
-
-**Skill:** Jump 6 ranks.
-
-**Feat:** Wild Talent
-
-### Class Information
-
-The following information pertains to the Battle Mind advanced class.
-
-### Hit Die
-
-The Battle Mind gains 1d8 hit points per level. The character’s
-Constitution modifier applies.
-
-### Action Points
-
-The Battle Mind gains a number of action points equal to 6 + one-half
-her character level, rounded down, every time she attains a new level in
-this class.
-
-### Class Skills
-
-The Battle Mind’s class skills are as follows.
-
-Autohypnosis (Wis), Balance (Dex), Climb (Str), Concentration (Con),
-Craft (visual arts) (Int), Drive (Dex), Jump (Str), Knowledge (current
-events, streetwise) (Int), Profession (Wis), Read/Write Language (none),
-Speak Language (none), Spot (Wis), Swim (Str).
-
-**Skill Points at Each Level:** 3 + Int modifier.
-
-**Table: The Battle Mind**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-------------------------------------------|---------------|------------------|
@@ -53,7 +13,47 @@ Speak Language (none), Spot (Wis), Swim (Str).
 | 9th         | +6                | +6        | +3       | +3        | Bonus feat, psionic powers                | +6            | +2               |
 | 10th        | +7                | +7        | +3       | +3        | Ultimate psi-blade, psionic powers        | +7            | +2               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Battle Mind, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +3.
+
+**Skill:** Jump 6 ranks.
+
+**Feat:** Wild Talent.
+
+## Hit Die
+The Battle Mind gains 1d8 hit points per level. The character’s
+Constitution modifier applies.
+
+## Action Points
+The Battle Mind gains a number of action points equal to 6 + one-half
+her character level, rounded down, every time she attains a new level in
+this class.
+
+## Class Skills
+The Battle Mind’s class skills are as follows.
+
+ - Autohypnosis (Wis)
+ - Balance (Dex)
+ - Climb (Str)
+ - Concentration (Con)
+ - Craft (visual arts) (Int)
+ - Drive (Dex)
+ - Jump (Str)
+ - Knowledge (current events) (Int)
+ - Knowledge (streetwise) (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Swim (Str)
+
+**Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Features
 
 All of the following features pertain to the Battle Mind advanced class.
 
@@ -63,18 +63,19 @@ A Battle Mind has access to the following psionic skills. These skills
 are considered class skills for the Battle Mind, and she can use her
 skill points to buy ranks in them, just like other skills in the game.
 
-**Autohypnosis (Wis):** Trained only. You have trained your mind to
-resist certain injuries and threats while also gaining a few select
-benefits.
+#### Autohypnosis (Wis)
+
+Trained only. You have trained your mind to resist certain injuries and
+threats while also gaining a few select benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-| <sup>Task</sup> | <sup>DC</sup> |
-|-----------------|---------------|
-| Resist fear     | 15            |
-| Memorize        | 15            |
-| Tolerate poison | Poison’s DC   |
-| Willpower       | 20            |
+| Task            | DC          |
+|-----------------|-------------|
+| Resist fear     | 15          |
+| Memorize        | 15          |
+| Tolerate poison | Poison’s DC |
+| Willpower       | 20          |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -110,8 +111,10 @@ in the same round for willpower.
 Most uses of Autohypnosis are attack actions. Willpower is a free action
 that can be attempted once per round.
 
-**Concentration (Con):** The normal Concentration skill expands to
-include psionic applications, as defined below.
+#### Concentration (Con)
+
+The normal Concentration skill expands to include psionic applications,
+as defined below.
 
 **Check:** You must make a Concentration check whenever you may
 potentially be distracted while engaged in an activity, including
@@ -158,19 +161,19 @@ latent powers, as indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Battle Mind’s key ability modifier.
 
-| <sup>Battle Mind Level</sup> |                    | <sup>Powers Discovered by Level</sup> |              |              |              |              |
-|------------------------------|--------------------|---------------------------------------|--------------|--------------|--------------|--------------|
-|                              | <sup>Pts/Day</sup> | <sup>0</sup>                          | <sup>1</sup> | <sup>2</sup> | <sup>3</sup> | <sup>4</sup> |
-| 1st                          | 2                  | 2                                     | —            | —            | —            | —            |
-| 2nd                          | 3                  | 3                                     | —            | —            | —            | —            |
-| 3rd                          | 4                  | 3                                     | 1            | —            | —            | —            |
-| 4th                          | 5                  | 3                                     | 2            | —            | —            | —            |
-| 5th                          | 8                  | 3                                     | 3            | 1            | —            | —            |
-| 6th                          | 11                 | 3                                     | 3            | 2            | —            | —            |
-| 7th                          | 16                 | 3                                     | 3            | 2            | 1            | —            |
-| 8th                          | 21                 | 3                                     | 3            | 3            | 1            | —            |
-| 9th                          | 26                 | 3                                     | 3            | 3            | 2            | —            |
-| 10th                         | 33                 | 3                                     | 3            | 3            | 2            | 1            |
+| Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— |       |       |       |       |
+|-------------------|---------|--------------------------------------|-------|-------|-------|-------|
+|                   |         | **0**                                | **1** | **2** | **3** | **4** |
+| 1st               | 2       | 2                                    | —     | —     | —     | —     |
+| 2nd               | 3       | 3                                    | —     | —     | —     | —     |
+| 3rd               | 4       | 3                                    | 1     | —     | —     | —     |
+| 4th               | 5       | 3                                    | 2     | —     | —     | —     |
+| 5th               | 8       | 3                                    | 3     | 1     | —     | —     |
+| 6th               | 11      | 3                                    | 3     | 2     | —     | —     |
+| 7th               | 16      | 3                                    | 3     | 2     | 1     | —     |
+| 8th               | 21      | 3                                    | 3     | 3     | 1     | —     |
+| 9th               | 26      | 3                                    | 3     | 3     | 2     | —     |
+| 10th              | 33      | 3                                    | 3     | 3     | 2     | 1     |
 
 A Battle Mind can manifest a certain number of powers per day based on
 her available power points. She just pays the power point cost of a
@@ -196,12 +199,12 @@ her psi-blade.
 
 ### Imprint Tattoo
 
-Starting at 2nd level, a Battle Mind can create create tattoos on his
-body or someone else’s that can be used to invoke psionic powers. A
-tattoo is a single-use item that duplicates the effect of a particular
-power. Imprinting a tattoo takes one day. The purchase DC for the raw
-materials to imprint a tattoo is 15 + the tattoo’s power level + the
-tattoo’s manifester level.
+Starting at 2nd level, a Battle Mind can create tattoos on his body or
+someone else’s that can be used to invoke psionic powers. A tattoo is a
+single-use item that duplicates the effect of a particular power.
+Imprinting a tattoo takes one day. The purchase DC for the raw materials
+to imprint a tattoo is 15 + the tattoo’s power level + the tattoo’s
+manifester level.
 
 The Battle Mind must also spend experience points to imprint a tattoo.
 The XP cost is equal to the power level x the manifester level x the
@@ -219,10 +222,18 @@ At 3rd, 6th, and 9th level, the Battle Mind gets a bonus feat. The bonus
 feat must be selected from the following list, and the Battle Mind must
 meet all the prerequisites of the feat to select it.
 
-Archaic Weapons Proficiency, Athletic, Blind-Fight, Cleave, Combat
-Martial Arts, Combat Reflexes, Exotic Melee Weapon Proficiency, Focused,
-Improved Combat Martial Arts, Power Attack, Weapon Finesse, Weapon
-Focus.
+ - Archaic Weapons Proficiency
+ - Athletic
+ - Blind-Fight
+ - Cleave
+ - Combat Martial Arts
+ - Combat Reflexes
+ - Exotic Melee Weapon Proficiency
+ - Focused
+ - Improved Combat Martial Arts
+ - Power Attack
+ - Weapon Finesse
+ - Weapon Focus
 
 ### Psychic Shield
 

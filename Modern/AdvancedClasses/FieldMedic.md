@@ -1,37 +1,4 @@
-## FIELD MEDIC
-
-### Requirements
-
-To qualify to become a Field Medic, a character must fulfill the
-following ­criteria.
-
-**Base Attack Bonus:** +2.
-
-**Skills:** Treat Injury 6 ranks, Spot 6 ranks.
-
-**Feat:** Surgery.
-
-### Class Information
-
-The following information pertains to the Field Medic advanced class.
-
-**Hit Die:** 1d8
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Field Medic attains a new level in this class.
-
-### Class Skills
-
-The Field Medic’s class skills (and the key ability for each skill) are:
-Computer Use (Int), Concentration (Con), Craft (pharmaceutical) (Int),
-Diplomacy (Cha), Drive (Dex), Knowledge (behavioral sciences, current
-events, earth and life sciences, popular culture, technology) (Int),
-Listen (Wis), Pilot (Dex), Profession (Wis), Read/Write Language (none),
-Research (Int), Speak Language (none), Spot (Wis), Treat Injury (Wis).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Field Medic**
+# FIELD MEDIC
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-----------------------|---------------|------------------|
@@ -46,7 +13,49 @@ Research (Int), Speak Language (none), Spot (Wis), Treat Injury (Wis).
 | 9th         | +4                | +6        | +3       | +4        | Bonus feat            | +5            | +3               |
 | 10th        | +5                | +7        | +3       | +5        | Medical miracle       | +5            | +4               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Field Medic, a character must fulfill the
+following criteria.
+
+**Base Attack Bonus:** +2.
+
+**Skills:** Treat Injury 6 ranks, Spot 6 ranks.
+
+**Feat:** Surgery.
+
+## Hit Die
+1d8
+
+## Action Points
+6 + one-half character level, rounded down, every time the Field Medic
+attains a new level in this class.
+
+## Class Skills
+The Field Medic’s class skills (and the key ability for each skill) are:
+
+ - Computer Use (Int)
+ - Concentration (Con)
+ - Craft (pharmaceutical) (Int)
+ - Diplomacy (Cha)
+ - Drive (Dex)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (earth and life sciences) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (technology) (Int)
+ - Listen (Wis)
+ - Pilot (Dex)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Research (Int)
+ - Speak Language (none)
+ - Spot (Wis)
+ - Treat Injury (Wis)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Field Medic advanced class.
 
@@ -71,10 +80,17 @@ At 3rd, 6th, and 9th level, the Field Medic gets a bonus feat. The bonus
 feat must be selected from the following list, and the Field Medic must
 meet all the prerequisites of the feat to select it.
 
-Armor Proficiency (light), Armor Proficiency (medium), Cautious,
-Defensive Martial Arts, Dodge, Educated, Im­proved Initiative, Medical
-Expert, Personal Firearms Proficiency, Surface Vehicle Operation,
-Vehicle Expert.
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Cautious
+ - Defensive Martial Arts
+ - Dodge
+ - Educated
+ - Improved Initiative
+ - Medical Expert
+ - Personal Firearms Proficiency
+ - Surface Vehicle Operation
+ - Vehicle Expert
 
 ### Medical Mastery
 

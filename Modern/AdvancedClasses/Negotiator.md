@@ -1,36 +1,5 @@
 # NEGOTIATOR
 
-### Requirements
-
-To qualify to become a Negotiator, a character must fulfill the
-following criteria.
-
-**Skills:** Bluff 6 ranks, Diplomacy 6 ranks.
-
-**Feat:** Alertness.
-
-### Class Information
-
-The following information pertains to the Negotiator advanced class.
-
-**Hit Die:** 1d8
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Negotiator attains a new level in this class.
-
-### Class Skills
-
-The Negotiator’s class skills (and the key ability for each skill) are:
-Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Drive (Dex), Gamble
-(Wis), Gather Information (Cha), Intimidate (Cha), Investigate (Int),
-Knowledge (behavioral sciences, business, civics, current events,
-popular culture, streetwise) (Int), Profession (Wis), Read/Write
-Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis).
-
-**Skill Points at Each Level:** 5 + Int modifier.
-
-**Table: The Negotiator**
-
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-----------------------------|---------------|------------------|
 | 1st         | +0                | +1        | +0       | +2        | Conceal motive              | +0            | +1               |
@@ -44,7 +13,48 @@ Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis).
 | 9th         | +6                | +4        | +3       | +6        | Bonus feat                  | +3            | +3               |
 | 10th        | +7                | +5        | +3       | +7        | Talk down all opponents     | +3            | +4               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Negotiator, a character must fulfill the
+following criteria.
+
+**Skills:** Bluff 6 ranks, Diplomacy 6 ranks.
+
+**Feat:** Alertness.
+
+## Hit Die
+1d8
+
+## Action Points
+6 + one-half character level, rounded down, every time the Negotiator
+attains a new level in this class.
+
+## Class Skills
+The Negotiator’s class skills (and the key ability for each skill) are:
+
+ - Bluff (Cha)
+ - Computer Use (Int)
+ - Diplomacy (Cha)
+ - Drive (Dex)
+ - Gamble (Wis)
+ - Gather Information (Cha)
+ - Intimidate (Cha)
+ - Investigate (Int)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (business) (Int)
+ - Knowledge (civics) (Int)
+ - Knowledge (current events) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (streetwise) (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Sense Motive (Wis)
+ - Speak Language (none)
+ - Spot (Wis)
+
+**Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Features
 
 All of the following are features of the Negotiator advanced class.
 
@@ -70,10 +80,18 @@ At 3rd, 6th, and 9th level, the Negotiator gets a bonus feat. The bonus
 feat must be selected from the following list, and the Negotiator must
 meet all the prerequisites of the feat to select it.
 
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor
-Proficiency (medium), Attentive, Confident, Dead Aim, Deceptive,
-Educated, Far Shot, Iron Will, Personal Firearms Proficiency,
-Trustworthy.
+ - Advanced Firearms Proficiency
+ - Armor Proficiency (light)
+ - Armor Proficiency (medium)
+ - Attentive
+ - Confident
+ - Dead Aim
+ - Deceptive
+ - Educated
+ - Far Shot
+ - Iron Will
+ - Personal Firearms Proficiency
+ - Trustworthy
 
 ### Talk Down
 

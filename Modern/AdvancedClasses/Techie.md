@@ -1,34 +1,4 @@
-## TECHIE
-
-### Requirements
-
-To qualify to become a Techie, a character must fulfill the following
-criteria.
-
-**Skills:** Computer Use 6 ranks, either Craft (electronic) 6 ranks or
-Craft (mechanical) 6 ranks, and Disable Device 6 ranks.
-
-### Class Information
-
-The following information pertains to the Techie advanced class.
-
-**Hit Die:** 1d6
-
-**Action Points:** 6 + one-half character level, rounded down, every
-time the Techie attains a new level in this class.
-
-### Class Skills
-
-The Techie’s class skills (and the key ability for each skill) are:
-Computer Use (Int), Craft (electronic, mechanical) (Int), Demolitions
-(Int), Disable Device (Int), Drive (Dex), Knowledge (behavioral
-sciences, earth and life sciences, physical sciences, popular culture,
-technology) (Int), Navigate (Int), Profession (Wis), Read/Write Language
-(none), Repair (Int), Research (Int), Speak Language (none), Spot (Wis).
-
-**Skill Points at Each Level:** 7 + Int modifier.
-
-**Table: The Techie**
+# TECHIE
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
 |-------------|-------------------|-----------|----------|-----------|-----------------|---------------|------------------|
@@ -43,7 +13,46 @@ technology) (Int), Navigate (Int), Profession (Wis), Read/Write Language
 | 9th         | +4                | +3        | +3       | +6        | Bonus feat      | +5            | +3               |
 | 10th        | +5                | +3        | +3       | +7        | Mastercraft     | +5            | +3               |
 
-### Class Features
+## Requirements
+
+To qualify to become a Techie, a character must fulfill the following
+criteria.
+
+**Skills:** Computer Use 6 ranks, either Craft (electronic) 6 ranks or
+Craft (mechanical) 6 ranks, and Disable Device 6 ranks.
+
+## Hit Die
+1d6
+
+## Action Points
+6 + one-half character level, rounded down, every time the Techie
+attains a new level in this class.
+
+## Class Skills
+The Techie’s class skills (and the key ability for each skill) are:
+
+ - Computer Use (Int)
+ - Craft (electronic) (Int)
+ - Craft (mechanical) (Int)
+ - Demolitions (Int)
+ - Disable Device (Int)
+ - Drive (Dex)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (earth and life sciences) (Int)
+ - Knowledge (physical sciences) (Int)
+ - Knowledge (popular culture) (Int)
+ - Knowledge (technology) (Int)
+ - Navigate (Int)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Repair (Int)
+ - Research (Int)
+ - Speak Language (none)
+ - Spot (Wis)
+
+**Skill Points at Each Level:** 7 + Int modifier.
+
+## Class Features
 
 The following features pertain to the Techie advanced class.
 
@@ -91,7 +100,7 @@ her Techie class level, beginning when the object is first put into use.
 The Techie selects the single improvement he or she wants to make prior
 to making the check. After the duration of the effect ends, the machine
 reverts to its previous state and a repair chance percentile roll is
-made. The result of this roll indicates whether the machine re­quires
+made. The result of this roll indicates whether the machine requires
 repairs before it can be used again.
 
 ### Bonus Feats
@@ -100,8 +109,14 @@ At 3rd, 6th, and 9th level, the Techie gets a bonus feat. The bonus feat
 must be selected from the following list, and the Techie must meet all
 the prerequisites of the feat to select it.
 
-Builder, Cautious, Combat Expertise, Educated, Gearhead, Personal
-Firearms Proficiency, Point Blank Shot, Studious.
+ - Builder
+ - Cautious
+ - Combat Expertise
+ - Educated
+ - Gearhead
+ - Personal Firearms Proficiency
+ - Point Blank Shot
+ - Studious
 
 ### Build Robot
 
@@ -117,8 +132,10 @@ and only one of his robots can be active at any time.
 
 Follow these steps to build a robot.
 
-**Wealth Check:** The purchase DC for the components needed to construct
-a robot is based on the robot’s size.
+#### Wealth Check
+
+The purchase DC for the components needed to construct a robot is based
+on the robot’s size.
 
 | Size       | Purchase DC |
 |------------|-------------|
@@ -128,9 +145,11 @@ a robot is based on the robot’s size.
 Make the Wealth check to purchase and gather the necessary components
 prior to starting construction.
 
-**Construct Frame:** The robot’s body determines its size, shape,
-locomotion, and hit points. The DC of the Craft (mechanical) check is
-set by the robot’s size and modified by the form of locomotion selected.
+#### Construct Frame
+
+The robot’s body determines its size, shape, locomotion, and hit points.
+The DC of the Craft (mechanical) check is set by the robot’s size and
+modified by the form of locomotion selected.
 
 | Size                                       | Craft DC    |
 |--------------------------------------------|-------------|
@@ -167,29 +186,35 @@ pound. A Tiny robot can be 13 to 24 inches long or tall and weighs up to
 3 pounds. Statistics for these robots can be found in the Creature
 listings.
 
-Construct the Electronics: The next step is to build the internal
-electronics for the robot and install them in the frame. The DC is based
-on the size of the robot and modified by the number of components that
-need to be wired together. For a Diminutive robot, the DC is 20. For a
-Tiny robot, the DC is 15. Add +1 to the DC for each external component
-and +2 for the remote link. Make the Craft (electronic) check.
+#### Construct the Electronics
+
+The next step is to build the internal electronics for the robot and
+install them in the frame. The DC is based on the size of the robot and
+modified by the number of components that need to be wired together. For
+a Diminutive robot, the DC is 20. For a Tiny robot, the DC is 15. Add +1
+to the DC for each external component and +2 for the remote link. Make
+the Craft (electronic) check.
 
 It takes a Techie 12 hours to wire a Diminutive robot or 6 hours to wire
 a Tiny robot.
 
-**Program the Robot:** The Techie programs the robot as the final step.
-Decide how many ranks of the appropriate skill to program into the
-robot, up to the number of ranks the Techie has in the skill. A Techie’s
-robot can only contain programming for one skill. Make the Computer Use
-check to program the robot.
+#### Program the Robot
+
+The Techie programs the robot as the final step. Decide how many ranks
+of the appropriate skill to program into the robot, up to the number of
+ranks the Techie has in the skill. A Techie’s robot can only contain
+programming for one skill. Make the Computer Use check to program the
+robot.
 
 The DC for the Computer Use check is 20, modified by the number of ranks
 the Techie wants to program into the robot (+1 to the DC for each rank).
 It takes 1 hour to program the robot.
 
-Reprogramming: A robot can be reprogrammed at any time. Doing this
-requires 1 hour of work and a Computer Use check (DC 20 + the number of
-ranks programmed into the robot).
+#### Reprogramming
+
+A robot can be reprogrammed at any time. Doing this requires 1 hour of
+work and a Computer Use check (DC 20 + the number of ranks programmed
+into the robot).
 
 ### Mastercraft
 

@@ -1,6 +1,19 @@
 # ACOLYTE
 
-### Requirements
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Defense Bonus | Reputation Bonus |
+|-------------|-------------------|-----------|----------|-----------|---------------------------------------------|---------------|------------------|
+| 1st         | +0                | +2        | +0       | +2        | Divine skills, divine spells                | +1            | +2               |
+| 2nd         | +1                | +3        | +0       | +3        | Turn or rebuke undead, divine spells        | +1            | +2               |
+| 3rd         | +2                | +3        | +1       | +3        | Bonus feat, divine spells                   | +2            | +2               |
+| 4th         | +3                | +4        | +1       | +4        | Spontaneous cast, divine spells             | +2            | +3               |
+| 5th         | +3                | +4        | +1       | +4        | Combat casting, divine spells               | +3            | +3               |
+| 6th         | +4                | +5        | +2       | +5        | Bonus feat, divine spells                   | +3            | +3               |
+| 7th         | +5                | +5        | +2       | +5        | Turn or rebuke magical beast, divine spells | +4            | +4               |
+| 8th         | +6                | +6        | +2       | +6        | Turn or rebuke outsider, divine spells      | +4            | +4               |
+| 9th         | +6                | +6        | +3       | +6        | Bonus feat, divine spells                   | +5            | +4               |
+| 10th        | +7                | +7        | +3       | +7        | Maximize spell, divine spells               | +5            | +5               |
+
+## Requirements
 
 To qualify to become an Acolyte, a character must fulfill the following
 criteria.
@@ -10,8 +23,8 @@ criteria.
 **Skills:** Knowledge (theology and philosophy) 6 ranks, Listen 6 ranks,
 Sense Motive 6 ranks.
 
-Allegiance: At the time that the character receives her first level in
-the Acolyte advanced class, she must decide if her faith leans toward
+**Allegiance:** At the time that the character receives her first level
+in the Acolyte advanced class, she must decide if her faith leans toward
 the positive energy or negative energy of the universe. This choice adds
 either the good (positive) or evil (negative) allegiance to the
 character, and determines how the Acolyte uses certain aspects of her
@@ -30,49 +43,37 @@ An Acolyte needs her holy symbol in order to cast certain divine spells.
 It is also necessary for the Acolyte to be able to turn or rebuke undead
 (see below).
 
-### Class Information
-
-The following information pertains to the Acolyte advanced class.
-
-### Hit Die
-
+## Hit Die
 The Acolyte gains 1d8 hit points per level. The character’s Constitution
 modifier applies.
 
-### Action Points
-
+## Action Points
 The Acolyte gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
-### Class Skills
-
+## Class Skills
 The Acolyte’s class skills are as follows.
 
-Concentration (Con), Craft (structural, visual arts, writing) (Int),
-Diplomacy (Cha), Knowledge (behavioral sciences, earth and life
-sciences, theology and philosophy) (Int), Listen (Wis), Profession
-(Wis), Read/Write Language (none), Sense Motive, Speak Language (none),
-Spellcraft (Int), Treat Injury (Wis).
+ - Concentration (Con)
+ - Craft (structural) (Int)
+ - Craft (visual arts) (Int)
+ - Craft (writing) (Int)
+ - Diplomacy (Cha)
+ - Knowledge (behavioral sciences) (Int)
+ - Knowledge (earth and life sciences) (Int)
+ - Knowledge (theology and philosophy) (Int)
+ - Listen (Wis)
+ - Profession (Wis)
+ - Read/Write Language (none)
+ - Sense Motive (Wis)
+ - Speak Language (none)
+ - Spellcraft (Int)
+ - Treat Injury (Wis)
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table: The Acolyte**
-
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Defense Bonus | Reputation Bonus |
-|-------------|-------------------|-----------|----------|-----------|---------------------------------------------|---------------|------------------|
-| 1st         | +0                | +2        | +0       | +2        | Divine skills, divine spells                | +1            | +2               |
-| 2nd         | +1                | +3        | +0       | +3        | Turn or rebuke undead, divine spells        | +1            | +2               |
-| 3rd         | +2                | +3        | +1       | +3        | Bonus feat, divine spells                   | +2            | +2               |
-| 4th         | +3                | +4        | +1       | +4        | Spontaneous cast, divine spells             | +2            | +3               |
-| 5th         | +3                | +4        | +1       | +4        | Combat casting, divine spells               | +3            | +3               |
-| 6th         | +4                | +5        | +2       | +5        | Bonus feat, divine spells                   | +3            | +3               |
-| 7th         | +5                | +5        | +2       | +5        | Turn or rebuke magical beast, divine spells | +4            | +4               |
-| 8th         | +6                | +6        | +2       | +6        | Turn or rebuke outsider, divine spells      | +4            | +4               |
-| 9th         | +6                | +6        | +3       | +6        | Bonus feat, divine spells                   | +5            | +4               |
-| 10th        | +7                | +7        | +3       | +7        | Maximize spell, divine spells               | +5            | +5               |
-
-### Class Features
+## Class Features
 
 All of the following features pertain to the Acolyte advanced class.
 
@@ -82,8 +83,10 @@ An Acolyte has access to the following divine skills. These skills are
 considered class skills for the Acolyte, and she can use her skill
 points to buy ranks in them, just like other skills in the game.
 
-**Concentration (Con):** The normal Concentration skill expands to
-include divine applications, as defined below.
+#### Concentration (Con)
+
+The normal Concentration skill expands to include divine applications,
+as defined below.
 
 **Check:** You must make a Concentration check whenever you may
 potentially be distracted while engaged in an activity, including
@@ -102,13 +105,15 @@ you are casting a spell, you add the level of the spell to the DC.
 **Try Again?:** You can try again, but doing so doesn’t cancel the
 effects of a previous failure. If you lost a spell, the spell is lost.
 
-Special: By making a check (DC 15 + spell level), you can use
+**Special:** By making a check (DC 15 + spell level), you can use
 Concentration to cast a spell defensively, thus avoiding attacks of
 opportunity. If the check succeeds, you can attempt the casting without
 incurring any attacks of opportunity.
 
-**Spellcraft (Int):** Trained only. Use this skill to identify spells as
-they are cast or spells already in place.
+#### Spellcraft (Int)
+
+Trained only. Use this skill to identify spells as they are cast or
+spells already in place.
 
 **Check:** You can identify spells and magic effects.
 
@@ -118,18 +123,18 @@ description.
 
 **Try Again?:** See above.
 
-Time: Unless otherwise indicated, Spellcraft is a move action.
+**Time:** Unless otherwise indicated, Spellcraft is a move action.
 
-| DC               | Task                                                                                                                                                                                                     |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DC               | Task                                                                                                                                                                                                    |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.                                                                                       |
 | 15 + spell level | When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) |
 | 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.                                                               |
 | 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.                                                              |
-| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                   |
+| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                  |
 | 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.                                                                                |
-| 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                  |
-| 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                      |
+| 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                 |
+| 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                     |
 
 ### Divine Spells
 
@@ -194,21 +199,21 @@ that follows, up to the section on Effect and Duration of Turning,
 “turning” refers to turning or rebuking, whichever is appropriate for a
 particular Acolyte.)
 
-*How Turning Works: *An Acolyte can turn undead (or other types of
+**How Turning Works:** An Acolyte can turn undead (or other types of
 creatures at higher level) as an attack action. Doing so does not
 provoke an attack of opportunity. An Acolyte must present her holy
 symbol to make a turning attempt, holding it in one hand in such a way
 that it is visible to the creatures she wants to affect.
 
-*Times per Day: *An Acolyte may attempt to turn a number of times per
+**Times per Day:** An Acolyte may attempt to turn a number of times per
 day equal to 3 + her Charisma modifier.
 
-*Range:*** **The Acolyte turns the closest turnable creature first. She
+**Range:** The Acolyte turns the closest turnable creature first. She
 can’t turn creatures that are more than 60 feet away or that have total
 cover.
 
-*Turning Check:* First, roll a turning check to determine how powerful a
-creature you can turn. This is a Charisma check (1d20 + Charisma
+**Turning Check:** First, roll a turning check to determine how powerful
+a creature you can turn. This is a Charisma check (1d20 + Charisma
 modifier). The table below shows the Hit Dice of the most powerful
 creature you can affect, relative to your Acolyte level. With a given
 turning attempt, you can’t turn any creature whose Hit Dice exceeds the
@@ -226,19 +231,20 @@ result of your turning check.
 | 19–21                | Acolyte level +3                                   |
 | 22 or higher         | Acolyte level +4                                   |
 
-*Turning Damage: *If your turning check result is high enough to let you
-turn at least some of the undead (or other appropriate) creatures within
-60 feet, roll 2d6 and add your Acolyte level and your Charisma modifier
-to the result to determine turning damage. That’s how many total Hit
-Dice of undead (or other) creatures you can turn on this attempt.
+**Turning Damage:** If your turning check result is high enough to let
+you turn at least some of the undead (or other appropriate) creatures
+within 60 feet, roll 2d6 and add your Acolyte level and your Charisma
+modifier to the result to determine turning damage. That’s how many
+total Hit Dice of undead (or other) creatures you can turn on this
+attempt.
 
 You may skip over already turned creatures that are still within range
 so that you don’t waste your turning capacity on them.
 
-*Effect and Duration of Turning:* Turned creatures flee from the Acolyte
-by the best and fastest means available to them. A turned creature flees
-for 10 rounds (1 minute). If it can’t flee, it cowers (can take no
-actions, –2 penalty to Defense).
+**Effect and Duration of Turning:** Turned creatures flee from the
+Acolyte by the best and fastest means available to them. A turned
+creature flees for 10 rounds (1 minute). If it can’t flee, it cowers
+(can take no actions, –2 penalty to Defense).
 
 If the Acolyte moves to within 10 feet of a cowering turned creature, it
 overcomes the turning and can act normally. (The Acolyte can be standing
@@ -248,26 +254,26 @@ a turned and cowering creature with ranged attacks from more than 10
 feet away, and others can attack in any fashion, without breaking the
 turning effect.
 
-*Destroying Undead: *If the Acolyte has twice as many Acolyte levels (or
-more) as the undead has Hit Dice, she destroys any creature that she
+**Destroying Undead:** If the Acolyte has twice as many Acolyte levels
+(or more) as the undead has Hit Dice, she destroys any creature that she
 would normally turn.
 
-*Evil Acolytes and Undead:* An Acolyte with the evil allegiance channels
-negative energy to rebuke (awe) or command (control) undead, instead of
-turning or destroying them. An evil Acolyte makes the equivalent of a
-turning check. Creatures that would be turned are rebuked instead, and
-those that would be destroyed are commanded.
+**Evil Acolytes and Undead:** An Acolyte with the evil allegiance
+channels negative energy to rebuke (awe) or command (control) undead,
+instead of turning or destroying them. An evil Acolyte makes the
+equivalent of a turning check. Creatures that would be turned are
+rebuked instead, and those that would be destroyed are commanded.
 
-*Rebuked: *A rebuked creature cowers as if in awe (can take no actions,
-–2 penalty to Defense) for 10 rounds.
+**Rebuked:** A rebuked creature cowers as if in awe (can take no
+actions, –2 penalty to Defense) for 10 rounds.
 
-*Commanded: *A commanded creature falls under the mental control of the
-Acolyte. The Acolyte can give mental orders to a commanded creature as
-an attack action. The Acolyte can command any number of creatures whose
-total Hit Dice don’t exceed her Acolyte level. She may voluntarily
+**Commanded:** A commanded creature falls under the mental control of
+the Acolyte. The Acolyte can give mental orders to a commanded creature
+as an attack action. The Acolyte can command any number of creatures
+whose total Hit Dice don’t exceed her Acolyte level. She may voluntarily
 relinquish command in order to establish command on different creatures.
 
-*Dispel Turning: *An evil Acolyte may dispel the turning effect of a
+**Dispel Turning:** An evil Acolyte may dispel the turning effect of a
 good Acolyte. To do so, the evil Acolyte makes a turning check as if
 attempting to rebuke. If the turning check result is equal to or greater
 than the turning check result that the good Acolyte scored when turning
@@ -275,11 +281,12 @@ them, then the creatures are no longer turned. The evil Acolyte rolls
 turning damage to see how many Hit Dice worth of creatures she can
 affect in this way.
 
-*Bolster Undead:* An evil Acolyte may bolster creatures against turning
-effects in advance. She makes a turning check as if attempting to rebuke
-them, but the Hit Dice result becomes the creatures’ effective Hit Dice
-as far as turning is concerned (provided the result is higher than the
-creatures’ normal Hit Dice). This bolstering lasts for 10 rounds.
+**Bolster Undead:** An evil Acolyte may bolster creatures against
+turning effects in advance. She makes a turning check as if attempting
+to rebuke them, but the Hit Dice result becomes the creatures’ effective
+Hit Dice as far as turning is concerned (provided the result is higher
+than the creatures’ normal Hit Dice). This bolstering lasts for 10
+rounds.
 
 ### Bonus Feats
 
@@ -287,9 +294,17 @@ At 3rd, 6th, and 9th level, the Acolyte gets a bonus feat. The bonus
 feat must be selected from the following list, and the Acolyte must meet
 all the prerequisites of the feat to select it.
 
-Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light),
-Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will,
-Medical Expert, Studious, Trustworthy.
+ - Animal Affinity
+ - Archaic Weapons Proficiency
+ - Armor Proficiency (light)
+ - Attentive
+ - Combat Expertise
+ - Educated
+ - Frightful Presence
+ - Iron Will
+ - Medical Expert
+ - Studious
+ - Trustworthy
 
 ### Spontaneous Casting
 
@@ -326,7 +341,7 @@ creatures, can’t be destroyed or commanded. All other rules pertaining
 to turning apply. The number of times per day the Acolyte can make a
 turning attempt (3 + Cha modifier) does not increase.
 
-**Maximize Spell**
+### Maximize Spell
 
 At 10th level, an Acolyte learns to cast some of her spells to maximum
 effect. All variable, numeric effects of a maximized spell automatically
