@@ -16,7 +16,7 @@ When a character spends 1 action point to improve a d20 roll, add 1d6 to
 the d20 roll to help meet or exceed the target number. A character can
 declare the use of 1 action point to alter a d20 roll after the roll is
 made—but only before the GM reveals the result of that roll (whether the
-attack or check or saving throw suc­ceeded or failed). A character can’t
+attack or check or saving throw succeeded or failed). A character can’t
 use an action point on a skill check or ability check when he or she is
 taking 10 or taking 20.
 

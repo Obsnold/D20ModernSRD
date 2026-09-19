@@ -52,7 +52,7 @@ the target must make a Fortitude save (DC 15). If the target succeeds on
 the save, the target is dazed for 1 round. If the target fails, he or
 she is knocked unconscious for 1d4+1 rounds.
 
-Disabled (0 Hit Points)
+## Disabled (0 Hit Points)
 
 When a character’s current hit points drop to exactly 0, the character
 is disabled. The character is not unconscious, but he or she is close to
@@ -72,7 +72,7 @@ A character can also become disabled when recovering from dying. In this
 case, it’s a step up along the road to recovery, and the character can
 have fewer than 0 hit points (see Stable Characters and Recovery).
 
-Dying (–1 to –9 Hit Points)
+## Dying (–1 to –9 Hit Points)
 
 When a character’s current hit points drop below 0, the character is
 dying. A dying character has a current hit point total between –1 and –9
@@ -83,7 +83,7 @@ A dying character immediately falls unconscious and can take no actions.
 A dying character loses 1 hit point every round. This continues until
 the character dies or becomes stable naturally or with help (see below).
 
-Dead (–10 hit points or lower)
+## Dead (–10 hit points or lower)
 
 When a character’s current hit points drop to –10 or lower, he or she is
 dead. A character can also die if his or her Constitution is reduced to
@@ -91,10 +91,10 @@ dead. A character can also die if his or her Constitution is reduced to
 
 ## Stable Characters and Recovery
 
-A dying character (one with –1 to –9 hit points) is un­conscious and
+A dying character (one with –1 to –9 hit points) is unconscious and
 loses 1 hit point every round until he or she becomes stable or dies.
 
-Recovering without Help
+## Recovering without Help
 
 Each round, a dying character makes a Fortitude saving throw (DC 20). If
 the save fails, the character loses 1 hit point and must make another

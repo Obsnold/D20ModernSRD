@@ -69,7 +69,7 @@ Natural Armor: Some creatures have natural armor, which usually consists
 of scales, fur, or layers of thick muscle.
 
 Dodge Bonuses: Some other Defense bonuses represent actively avoiding
-blows. These bonuses are called dodge bo­nus­es. Any situation that denies
+blows. These bonuses are called dodge bonuses. Any situation that denies
 the character his or her Dexterity bonus also denies the character dodge
 bonuses. Unlike most sorts of bonuses, dodge bonuses stack with each
 other.

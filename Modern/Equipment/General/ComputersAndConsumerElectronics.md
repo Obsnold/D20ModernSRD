@@ -88,7 +88,7 @@ processor to provide a +1 equipment bonus on Computer Use checks.
 Increase the purchase DC of a desktop by +1 or a notebook by +2 to
 purchase an upgrade.
 
-#### Digital Audio Recorder
+### Digital Audio Recorder
 
 These tiny recorders (about the size of a deck of playing cards) can
 record up to eight hours of audio and can be connected to a computer to

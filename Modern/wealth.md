@@ -34,7 +34,7 @@ the table below.
 | +21 to +30    | Rich                    |
 | +31 or higher | Very rich               |
 
-Purchasing Equipment
+## Purchasing Equipment
 
 Wealth checks are used to determine what characters can afford and what
 gear they might reasonably have access to. Every character has a Wealth
@@ -45,7 +45,7 @@ the purchase DC.
 ## The Wealth Check
 
 A Wealth check is a 1d20 roll plus a character’s current Wealth bonus.
-The Wealth bonus is fluid. It in­creases as a character gains Wealth and
+The Wealth bonus is fluid. It increases as a character gains Wealth and
 decreases as the character makes purchases.
 
 If the character succeeds on the Wealth check, the character gains the

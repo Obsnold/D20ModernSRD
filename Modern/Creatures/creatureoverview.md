@@ -394,7 +394,7 @@ This section lists alphabetically all the creature’s feats.
 Most creatures use the same feats that are available to characters, but
 some have access to the Multiattack feat (described below).
 
-#### Multiattack
+### Multiattack
 
 The creature is adept at using all its natural weapons at once.
 
@@ -413,7 +413,7 @@ Advancement entry indicates the increased Hit Dice (and often size) of
 the creature or indicates that the creature can advance by character
 class.
 
-#### Increasing Hit Dice
+### Increasing Hit Dice
 
 As a creature gains Hit Dice, many of its game statistics change.
 
