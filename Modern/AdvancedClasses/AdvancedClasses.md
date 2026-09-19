@@ -11,14 +11,14 @@ the prerequisites of the class, regardless of what basic classes they
 have gained levels in. The associations between basic classes and
 advanced classes are summarized on the following table.
 
-| Basic Class1 | Advanced Class                     |
-|--------------|------------------------------------|
-| Strong       | Soldier; Martial Artist            |
-| Fast         | Gunslinger; Infiltrator            |
-| Tough        | Daredevil; Bodyguard               |
-| Smart        | Field Scientist; Techie, Mage      |
-| Dedicated    | Field Medic; Investigator, Acolyte |
-| Charismatic  | Personality; Negotiator            |
+| Basic Class1 | Advanced Class                                                                                              |
+|--------------|-------------------------------------------------------------------------------------------------------------|
+| Strong       | [Soldier](Soldier.md); [Martial Artist](MartialArtist.md)                                                   |
+| Fast         | [Gunslinger](GunSlinger.md); [Infiltrator](Infiltrator.md)                                                  |
+| Tough        | [Daredevil](Daredevil.md); [Bodyguard](BodyGuard.md)                                                        |
+| Smart        | [Field Scientist](FieldScientist.md); [Techie](Techie.md), [Mage](Mage.md)                                  |
+| Dedicated    | [Field Medic](FieldMedic.md); [Investigator](Investigator.md), [Acolyte](Acolyte.md)                        |
+| Charismatic  | [Personality](Personality.md); [Negotiator](Negotiator.md)                                                  |
 
 1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
 
@@ -36,3 +36,24 @@ additional class as he or she gains levels, using the multiclassing
 rules. Some combination of base attack bonus, feats, and skill ranks
 determines whether a character is eligible to gain a level in an
 advanced class.
+
+## Advanced Class Descriptions
+
+ - [Acolyte](Acolyte.md)
+ - [Battle Mind](BattleMind.md)
+ - [Bodyguard](BodyGuard.md)
+ - [Daredevil](Daredevil.md)
+ - [Field Medic](FieldMedic.md)
+ - [Field Scientist](FieldScientist.md)
+ - [Gunslinger](GunSlinger.md)
+ - [Infiltrator](Infiltrator.md)
+ - [Investigator](Investigator.md)
+ - [Mage](Mage.md)
+ - [Martial Artist](MartialArtist.md)
+ - [Negotiator](Negotiator.md)
+ - [Occultist](Occultist.md)
+ - [Personality](Personality.md)
+ - [Shadow Slayer](ShadowSlayer.md)
+ - [Soldier](Soldier.md)
+ - [Techie](Techie.md)
+ - [Telepath](Telepath.md)

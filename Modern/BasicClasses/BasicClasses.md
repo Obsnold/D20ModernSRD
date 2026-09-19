@@ -1,6 +1,13 @@
 # BASIC CHARACTER CLASSES
 
-Basic Class Descriptions
+## Basic Class Descriptions
+
+ - [The Strong Hero](StrongHero.md)
+ - [The Fast Hero](FastHero.md)
+ - [The Tough Hero](ToughHero.md)
+ - [The Smart Hero](SmartHero.md)
+ - [The Dedicated Hero](DedicatedHero.md)
+ - [The Charismatic Hero](CharismaticHero.md)
 
 ## Ability
 
