@@ -1,7 +1,6 @@
+# Bugbear
 
-## Bugbear
-
-**Species Traits**
+## Species Traits
 
 **Scent (Ex):** This ability allows the bugbear to detect approaching
 enemies, sniff out hidden foes, and track by sense of smell.
@@ -13,14 +12,41 @@ checks.
 
 **Automatic Language:** Bugbears read, write, and speak Goblin.
 
-**Bugbear:** CR 2; Medium-size humanoid; HD 3d8+3; hp 16; Mas 13; Init
-+1; Spd 30 ft.; Defense 15, touch 11, flat-footed 14 (+1 Dex, +3
-natural, +1 leather jacket); BAB +2; Grap +4; Atk +4 melee (1d3+2, slam
-or 1d6+2/19–20, metal baton); Full Atk +4 melee (1d3+2, slam or
-1d6+2/19–20, metal baton), or +3 ranged (2d6, Colt Python); FS 5 ft. by
-5 ft.; Reach 5 ft.; SQ darkvision 60 ft., scent; AL chaos, evil; SV Fort
-+2, Ref +4, Will +1; AP 0; Rep +0; Str 15, Dex 12, Con 13, Int 10, Wis
-10, Cha 9.
+## Bugbear
+
+| Stat              | Value                                                                               |
+|-------------------|-------------------------------------------------------------------------------------|
+| CR                | 2                                                                                   |
+| Size              | Medium-size                                                                         |
+| Type              | humanoid                                                                            |
+| HD                | 3d8+3                                                                               |
+| hp                | 16                                                                                  |
+| Mas               | 13                                                                                  |
+| Init              | +1                                                                                  |
+| Spd               | 30 ft.                                                                              |
+| Defense           | 15                                                                                  |
+| Touch             | 11                                                                                  |
+| Flat-Footed       | 14                                                                                  |
+| Defense Breakdown | +1 Dex, +3 natural, +1 leather jacket                                               |
+| BAB               | +2                                                                                  |
+| Grap              | +4                                                                                  |
+| Atk               | +4 melee (1d3+2, slam or 1d6+2/19–20, metal baton)                                  |
+| Full Atk          | +4 melee (1d3+2, slam or 1d6+2/19–20, metal baton), or +3 ranged (2d6, Colt Python) |
+| FS                | 5 ft. by 5 ft.                                                                      |
+| Reach             | 5 ft.                                                                               |
+| SQ                | darkvision 60 ft., scent                                                            |
+| AL                | chaos, evil                                                                         |
+| Fort              | +2                                                                                  |
+| Ref               | +4                                                                                  |
+| Will              | +1                                                                                  |
+| AP                | 0                                                                                   |
+| Rep               | +0                                                                                  |
+| Str               | 15                                                                                  |
+| Dex               | 12                                                                                  |
+| Con               | 13                                                                                  |
+| Int               | 10                                                                                  |
+| Wis               | 10                                                                                  |
+| Cha               | 9                                                                                   |
 
 **Skills:** Climb +2, Hide +3, Listen +3, Move Silently +6 (includes
 species bonus), Read/Write Goblin, Speak Goblin, Spot +3.
@@ -33,14 +59,41 @@ revolver), 50 rounds of .357 ammunition, hip holster, casual clothes.
 
 **Advancement:** By character class.
 
-**Bugbear Fast Hero 3:** CR 5; Medium-size humanoid; HD 3d8+3 plus
-3d8+3; hp 32; Mas 13; Init +1; Spd 30 ft.; Defense 21, touch 15,
-flat-footed 20 (+1 Dex, +4 class, +3 natural, +3 undercover vest); BAB
-+4; Grap +6; Atk +6 melee (1d3+2, slam or 1d6+2/_19–20, metal baton);
-Full Atk +6 melee (1d3+2, slam or 1d6+2/_19–20, metal baton), or +5
-ranged (2d8, Mossberg); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ darkvision 60
-ft., scent; AL chaos, evil; SV Fort +3, Ref +6, Will +2; AP 1; Rep +1;
-Str 15, Dex 13, Con 13, Int 10, Wis 10, Cha 9.
+## Bugbear Fast Hero 3
+
+| Stat              | Value                                                                             |
+|-------------------|-----------------------------------------------------------------------------------|
+| CR                | 5                                                                                 |
+| Size              | Medium-size                                                                       |
+| Type              | humanoid                                                                          |
+| HD                | 3d8+3 plus 3d8+3                                                                  |
+| hp                | 32                                                                                |
+| Mas               | 13                                                                                |
+| Init              | +1                                                                                |
+| Spd               | 30 ft.                                                                            |
+| Defense           | 21                                                                                |
+| Touch             | 15                                                                                |
+| Flat-Footed       | 20                                                                                |
+| Defense Breakdown | +1 Dex, +4 class, +3 natural, +3 undercover vest                                  |
+| BAB               | +4                                                                                |
+| Grap              | +6                                                                                |
+| Atk               | +6 melee (1d3+2, slam or 1d6+2/_19–20, metal baton)                               |
+| Full Atk          | +6 melee (1d3+2, slam or 1d6+2/_19–20, metal baton), or +5 ranged (2d8, Mossberg) |
+| FS                | 5 ft. by 5 ft.                                                                    |
+| Reach             | 5 ft.                                                                             |
+| SQ                | darkvision 60 ft., scent                                                          |
+| AL                | chaos, evil                                                                       |
+| Fort              | +3                                                                                |
+| Ref               | +6                                                                                |
+| Will              | +2                                                                                |
+| AP                | 1                                                                                 |
+| Rep               | +1                                                                                |
+| Str               | 15                                                                                |
+| Dex               | 13                                                                                |
+| Con               | 13                                                                                |
+| Int               | 10                                                                                |
+| Wis               | 10                                                                                |
+| Cha               | 9                                                                                 |
 
 **Skills:** Climb +2*, Drive +3, Escape Artist +3*, Hide +5*,
 Knowledge (streetwise) +2, Listen +3, Move Silently +8*, Read/Write

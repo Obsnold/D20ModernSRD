@@ -1,8 +1,8 @@
-## Zombie (Template)
+# Zombie (Template)
 
 Zombies do not speak, but they understand the orders of their creators.
 
-### Template Traits
+## Template Traits
 
 “Zombie” is a template that can be added to any corporeal creature other
 than an undead (referred to hereafter as the base creature. It uses all
@@ -69,12 +69,40 @@ Wisdom changes to 10, and its Charisma decreases to 1.
 **Feats:** The zombie loses all of the base creature’s feats and gains
 the Toughness feat.
 
-**Human Zombie:** CR 1/2; Medium-size undead; HD 2d12 plus 3 (Toughness
-feat); hp 16; Init –1; Spd 30 ft.; Defense 11, touch 9, flat-footed 11
-(–1 Dex, +2 natural); BAB +0; Grap +1; Atk +1 melee (1d6+1, slam); Full
-Atk +1 melee (1d6+1, slam); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ undead,
-move or attack action only; AL none or creator; SV Fort +0, Ref –1, Will
-+3; AP 0; Rep +0; Str 13, Dex 8, Con —, Int —, Wis 10, Cha 1.
+## Human Zombie
+
+| Stat              | Value                              |
+|-------------------|------------------------------------|
+| CR                | 1/2                                |
+| Size              | Medium-size                        |
+| Type              | undead                             |
+| HD                | 2d12 plus 3 (Toughness feat)       |
+| hp                | 16                                 |
+| Init              | –1                                 |
+| Spd               | 30 ft.                             |
+| Defense           | 11                                 |
+| Touch             | 9                                  |
+| Flat-Footed       | 11                                 |
+| Defense Breakdown | –1 Dex, +2 natural                 |
+| BAB               | +0                                 |
+| Grap              | +1                                 |
+| Atk               | +1 melee (1d6+1, slam)             |
+| Full Atk          | +1 melee (1d6+1, slam)             |
+| FS                | 5 ft. by 5 ft.                     |
+| Reach             | 5 ft.                              |
+| SQ                | undead, move or attack action only |
+| AL                | none or creator                    |
+| Fort              | +0                                 |
+| Ref               | –1                                 |
+| Will              | +3                                 |
+| AP                | 0                                  |
+| Rep               | +0                                 |
+| Str               | 13                                 |
+| Dex               | 8                                  |
+| Con               | —                                  |
+| Int               | —                                  |
+| Wis               | 10                                 |
+| Cha               | 1                                  |
 
 **Skills:** None.
 
@@ -82,16 +110,41 @@ move or attack action only; AL none or creator; SV Fort +0, Ref –1, Will
 
 **Possessions:** Burial clothes.
 
-**Huge Crocodile Zombie:** CR 6; Huge undead; HD 14d12 plus 3 (Toughness
-feat); hp 94; Init +0; Spd 20 ft., swim 30 ft.; Defense 15, touch 8,
-flat-footed 15 (–2 size, +7 natural); BAB +5; Grap +22; Atk +12 melee
-(2d8+13, bite), or +12 melee (1d6+13, tail slap); Full Atk +12 melee
-(2d8+13, bite), or +12 melee (1d6+13, tail slap); FS 15 ft. by 15 ft.;
-Reach 10 ft.; SQ undead, move or attack action only, aquatic, improved
-grab, low-light vision; AL none or creator; SV Fort +9, Ref +6, Will +3;
-AP 0; Rep +0; Str 29, Dex 10, Con —, Int —, Wis 10, Cha 1.
+## Huge Crocodile Zombie
+
+| Stat              | Value                                                                        |
+|-------------------|------------------------------------------------------------------------------|
+| CR                | 6                                                                            |
+| Size              | Huge                                                                         |
+| Type              | undead                                                                       |
+| HD                | 14d12 plus 3 (Toughness feat)                                                |
+| hp                | 94                                                                           |
+| Init              | +0                                                                           |
+| Spd               | 20 ft., swim 30 ft.                                                          |
+| Defense           | 15                                                                           |
+| Touch             | 8                                                                            |
+| Flat-Footed       | 15                                                                           |
+| Defense Breakdown | –2 size, +7 natural                                                          |
+| BAB               | +5                                                                           |
+| Grap              | +22                                                                          |
+| Atk               | +12 melee (2d8+13, bite), or +12 melee (1d6+13, tail slap)                   |
+| Full Atk          | +12 melee (2d8+13, bite), or +12 melee (1d6+13, tail slap)                   |
+| FS                | 15 ft. by 15 ft.                                                             |
+| Reach             | 10 ft.                                                                       |
+| SQ                | undead, move or attack action only, aquatic, improved grab, low-light vision |
+| AL                | none or creator                                                              |
+| Fort              | +9                                                                           |
+| Ref               | +6                                                                           |
+| Will              | +3                                                                           |
+| AP                | 0                                                                            |
+| Rep               | +0                                                                           |
+| Str               | 29                                                                           |
+| Dex               | 10                                                                           |
+| Con               | —                                                                            |
+| Int               | —                                                                            |
+| Wis               | 10                                                                           |
+| Cha               | 1                                                                            |
 
 **Skills:** None.
 
 **Feats:** Toughness.
-

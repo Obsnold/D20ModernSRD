@@ -1,10 +1,10 @@
-## Werewolf (Template)
+# Werewolf (Template)
 
 Natural werewolves are humanoids born with the ability to assume wolf
 and hybrid forms. A humanoid who contracts lycanthropy after being
 wounded by a werewolf becomes an afflicted werewolf.
 
-### Template Traits
+## Template Traits
 
 “Werewolf” is a template (inherited for natural werewolves, acquired for
 afflicted werewolves) that can be added to any humanoid creature
@@ -100,14 +100,41 @@ Will and Weapon Finesse (bite).
 
 **Talents:** Same as the character.
 
-**Werewolf in Humanoid Form (Human Strong Hero 5):** CR 7; Medium-size
-humanoid; HD 5d8+15 plus 2d8+6; hp 52; Mas 17; Init +2; Spd 30 ft.;
-Defense 15, touch 15, flat-footed 13 (+2 Dex, +3 class); BAB +5; Grap
-+8; Atk +8 melee (1d6+6/19–20, cleaver); Full Atk +8 melee (1d6+6/19–20,
-cleaver), or +7 ranged (2d8, Mossberg); FS 5 ft. by 5 ft.; Reach 5 ft.;
-SQ alternate form, trip, scent, wolf empathy; AL evil, chaos; SV Fort
-+9, Ref +6, Will +2; AP 2; Rep +1; Str 16, Dex 14, Con 17, Int 12, Wis
-12, Cha 8.
+## Werewolf in Humanoid Form (Human Strong Hero 5)
+
+| Stat              | Value                                                         |
+|-------------------|---------------------------------------------------------------|
+| CR                | 7                                                             |
+| Size              | Medium-size                                                   |
+| Type              | humanoid                                                      |
+| HD                | 5d8+15 plus 2d8+6                                             |
+| hp                | 52                                                            |
+| Mas               | 17                                                            |
+| Init              | +2                                                            |
+| Spd               | 30 ft.                                                        |
+| Defense           | 15                                                            |
+| Touch             | 15                                                            |
+| Flat-Footed       | 13                                                            |
+| Defense Breakdown | +2 Dex, +3 class                                              |
+| BAB               | +5                                                            |
+| Grap              | +8                                                            |
+| Atk               | +8 melee (1d6+6/19–20, cleaver)                               |
+| Full Atk          | +8 melee (1d6+6/19–20, cleaver), or +7 ranged (2d8, Mossberg) |
+| FS                | 5 ft. by 5 ft.                                                |
+| Reach             | 5 ft.                                                         |
+| SQ                | alternate form, trip, scent, wolf empathy                     |
+| AL                | evil, chaos                                                   |
+| Fort              | +9                                                            |
+| Ref               | +6                                                            |
+| Will              | +2                                                            |
+| AP                | 2                                                             |
+| Rep               | +1                                                            |
+| Str               | 16                                                            |
+| Dex               | 14                                                            |
+| Con               | 17                                                            |
+| Int               | 12                                                            |
+| Wis               | 12                                                            |
+| Cha               | 8                                                             |
 
 **Skills:** Climb +9, Handle Animal +3, Hide +3, Jump +7, Knowledge
 (current events) +5, Knowledge (popular culture) +5, Knowledge
@@ -124,17 +151,30 @@ melee smash.
 **Possessions:** Mossberg (12-gauge shotgun), 12 rounds of 12-gauge
 ammunition, cleaver, casual clothes.
 
-**Werewolf in Hybrid or Wolf Form (Human Strong Hero 5):** As humanoid
-form except: Init +4; Spd 50 ft.; Defense 17, touch 15, flat-footed 15
-(+2 Dex, +3 class, +2 natural); Grap +9; Atk +9 melee (1d6+7, bite);
-Full Atk +9 melee (1d6+7, bite), or +9 ranged; SQ alternate form, curse
-of lycanthropy, trip, scent, damage reduction 15/silver, wolf empathy,
-darkvision 60 ft.; SV Ref +8; Str 18, Dex 18.
+## Werewolf in Hybrid or Wolf Form (Human Strong Hero 5)
+
+As humanoid form except:
+
+| Stat              | Value                                                                                                          |
+|-------------------|----------------------------------------------------------------------------------------------------------------|
+| Init              | +4                                                                                                             |
+| Spd               | 50 ft.                                                                                                         |
+| Defense           | 17                                                                                                             |
+| Touch             | 15                                                                                                             |
+| Flat-Footed       | 15                                                                                                             |
+| Defense Breakdown | +2 Dex, +3 class, +2 natural                                                                                   |
+| Grap              | +9                                                                                                             |
+| Atk               | +9 melee (1d6+7, bite)                                                                                         |
+| Full Atk          | +9 melee (1d6+7, bite), or +9 ranged                                                                           |
+| SQ                | alternate form, curse of lycanthropy, trip, scent, damage reduction 15/silver, wolf empathy, darkvision 60 ft. |
+| Ref               | +8                                                                                                             |
+| Str               | 18                                                                                                             |
+| Dex               | 18                                                                                                             |
 
 **Adjusted Skills:** Climb +10, Hide +5, Jump +8, Move Silently +6, Swim
 +10, Survival +5 (when tracking by scent).
 
-### Lycanthropy as an Affliction
+## Lycanthropy as an Affliction
 
 When a character contracts lycanthropy through a werewolf’s attack, no
 symptoms appear until the first night of the next full moon. On that
@@ -148,7 +188,7 @@ the full moon and whenever damaged in combat. He or she feels an
 overwhelming rage building up and must succeed on a Control Shape check
 to resist changing into animal form.
 
-### Curing Lycanthropy
+## Curing Lycanthropy
 
 An afflicted character who eats a sprig of belladonna (also called
 wolfsbane) within an hour of a lycanthrope’s attack can attempt a
@@ -176,7 +216,7 @@ cure takes effect.
 Only afflicted lycanthropes can be cured of lycanthropy. Natural
 lycanthropy cannot be cured.
 
-### New Skill: Control Shape (Wis) Trained Only
+## New Skill: Control Shape (Wis) Trained Only
 
 Any character who has contracted lycanthropy and is aware of his or her
 condition can learn Control Shape as a class skill. This determines
@@ -222,4 +262,3 @@ the appropriate DC. Only one attempt is allowed, however, as described
 above.
 
 Time: Attempting to control one’s shape is a full-round action.
-

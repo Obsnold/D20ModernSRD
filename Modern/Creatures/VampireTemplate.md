@@ -1,8 +1,8 @@
-## Vampire (Template)
+# Vampire (Template)
 
 Vampires speak, read, and write the languages they knew in life.
 
-### Template Traits
+## Template Traits
 
 “Vampire” is an acquired template that can be added to any humanoid, or
 monstrous humanoid (referred to hereafter as the base creature). The
@@ -171,17 +171,41 @@ character.
 
 **Advancement:** By character class.
 
-**Vampire (Human Fast Hero 2/Charismatic Hero 3):** CR 7; Medium-size
-undead; HD 5d12; hp 32; Mas —; Init +8; Spd 30 ft.; Defense 25, touch
-19, flat-footed 21 (+4 Dex, +5 class, +6 natural); BAB +2; Grap +6; Atk
-+6 melee (1d6+4, slam); Full Atk +6 melee (1d6+4, slam) +7 melee
-(2d6/19–20, mastercraft katana), or +6 ranged; FS 5 ft. by 5 ft.; Reach
-5 ft.; SQ blood drain, create spawn, domination (DC 17), energy drain,
-alternate form, chil­dren of the night, dam­age re­duction 15/+1, fast
-healing 5, gaseous form, cold and electricity resistance 20, spider
-climb, +4 turn resistance, darkvision 60 ft., weaknesses; AL evil,
-chaos, master; SV Fort +2, Ref +10, Will +3; AP 2; Rep +5; Str 19, Dex
-18, Con —, Int 14, Wis 10, Cha 20.
+## Vampire (Human Fast Hero 2/Charismatic Hero 3)
+
+| Stat              | Value                                                                                                                                                                                                                                                         |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CR                | 7                                                                                                                                                                                                                                                             |
+| Size              | Medium-size                                                                                                                                                                                                                                                   |
+| Type              | undead                                                                                                                                                                                                                                                        |
+| HD                | 5d12                                                                                                                                                                                                                                                          |
+| hp                | 32                                                                                                                                                                                                                                                            |
+| Mas               | —                                                                                                                                                                                                                                                             |
+| Init              | +8                                                                                                                                                                                                                                                            |
+| Spd               | 30 ft.                                                                                                                                                                                                                                                        |
+| Defense           | 25                                                                                                                                                                                                                                                            |
+| Touch             | 19                                                                                                                                                                                                                                                            |
+| Flat-Footed       | 21                                                                                                                                                                                                                                                            |
+| Defense Breakdown | +4 Dex, +5 class, +6 natural                                                                                                                                                                                                                                  |
+| BAB               | +2                                                                                                                                                                                                                                                            |
+| Grap              | +6                                                                                                                                                                                                                                                            |
+| Atk               | +6 melee (1d6+4, slam)                                                                                                                                                                                                                                        |
+| Full Atk          | +6 melee (1d6+4, slam) +7 melee (2d6/19–20, mastercraft katana), or +6 ranged                                                                                                                                                                                 |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                                                                                                |
+| Reach             | 5 ft.                                                                                                                                                                                                                                                         |
+| SQ                | blood drain, create spawn, domination (DC 17), energy drain, alternate form, children of the night, damage reduction 15/+1, fast healing 5, gaseous form, cold and electricity resistance 20, spider climb, +4 turn resistance, darkvision 60 ft., weaknesses |
+| AL                | evil, chaos, master                                                                                                                                                                                                                                           |
+| Fort              | +2                                                                                                                                                                                                                                                            |
+| Ref               | +10                                                                                                                                                                                                                                                           |
+| Will              | +3                                                                                                                                                                                                                                                            |
+| AP                | 2                                                                                                                                                                                                                                                             |
+| Rep               | +5                                                                                                                                                                                                                                                            |
+| Str               | 19                                                                                                                                                                                                                                                            |
+| Dex               | 18                                                                                                                                                                                                                                                            |
+| Con               | —                                                                                                                                                                                                                                                             |
+| Int               | 14                                                                                                                                                                                                                                                            |
+| Wis               | 10                                                                                                                                                                                                                                                            |
+| Cha               | 20                                                                                                                                                                                                                                                            |
 
 **Skills:** Bluff +17\*, Diplomacy +9\*, Disguise +9, Drive +8, Gather
 Information +9\*, Hide +18, Intimidate +9\*, Knowledge (art) +6,
@@ -205,4 +229,3 @@ Simple Weapons Proficiency, Stealthy, Windfall.
 mansion, designer formal wear, mastercraft katana (+1), cell phone,
 desktop computer (with cellular modem, printer, and scanner),
 mastercraft violin (+1).
-

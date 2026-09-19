@@ -1,6 +1,6 @@
-## Skeleton (Template)
+# Skeleton (Template)
 
-### Template Traits
+## Template Traits
 
 “Skeleton” is an acquired template that can be added to any living
 corporeal creature that has a skeletal structure (referred to hereafter
@@ -46,7 +46,7 @@ lacks flesh and internal organs, a skeleton takes only half damage from
 ballistic, piercing, or slashing weapons.
 
 **Allegiances:** A skeleton loses any previous allegiances and adopts a
-new allegiance to its creator. This allegiance can­not be broken.
+new allegiance to its creator. This allegiance cannot be broken.
 
 **Saves:** A skeleton’s saving throw modifiers are based on Hit Dice and
 given in Table: Creature Saves and Base Attack Bonuses.
@@ -69,25 +69,82 @@ Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Personal
 Firearms Proficiency, and Simple Weapons Proficiency). A skeleton gains
 the feat Improved Initiative.
 
-**Human Skeleton:** CR 1/3; Medium-size undead; HD 1d12; hp 6; Mas —;
-Init +5; Spd 30 ft.; Defense 13, touch 11, flat-footed 12 (+1 Dex, +2
-natural); BAB +0; Grap +0; Atk +0 melee (1d4, claw); Full Atk +0 melee
-(1d4, 2 claws); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ undead, skeleton
-immunities; AL creator; SV Fort +0, Ref +1, Will +2; AP 0; Rep +0; Str
-10, Dex 12, Con —, Int —, Wis 10, Cha 1.
+## Human Skeleton
+
+| Stat              | Value                       |
+|-------------------|-----------------------------|
+| CR                | 1/3                         |
+| Size              | Medium-size                 |
+| Type              | undead                      |
+| HD                | 1d12                        |
+| hp                | 6                           |
+| Mas               | —                           |
+| Init              | +5                          |
+| Spd               | 30 ft.                      |
+| Defense           | 13                          |
+| Touch             | 11                          |
+| Flat-Footed       | 12                          |
+| Defense Breakdown | +1 Dex, +2 natural          |
+| BAB               | +0                          |
+| Grap              | +0                          |
+| Atk               | +0 melee (1d4, claw)        |
+| Full Atk          | +0 melee (1d4, 2 claws)     |
+| FS                | 5 ft. by 5 ft.              |
+| Reach             | 5 ft.                       |
+| SQ                | undead, skeleton immunities |
+| AL                | creator                     |
+| Fort              | +0                          |
+| Ref               | +1                          |
+| Will              | +2                          |
+| AP                | 0                           |
+| Rep               | +0                          |
+| Str               | 10                          |
+| Dex               | 12                          |
+| Con               | —                           |
+| Int               | —                           |
+| Wis               | 10                          |
+| Cha               | 1                           |
 
 **Skills:** None.
 
 **Feats:** Improved Initiative, Simple Weapons Proficiency.
 
-**Ogre Skeleton:** CR 2; Large undead; HD 4d12; hp 22; Mas —; Init +4;
-Spd 30 ft.; Defense 12, touch 9, flat-footed 12 (–1 size, +3 natural);
-BAB +0; Grap +8; Atk +4 melee (1d6+5, claw); Full Atk +4 melee (1d6+5, 2
-claws), or +4 melee (2d6+7, great club); FS 10 ft. by 10 ft.; Reach 10
-ft.; SQ undead, skeleton immunities; AL creator; SV Fort +0, Ref +0,
-Will +3; AP 0; Rep +0; Str 21, Dex 10, Con —, Int —, Wis 10, Cha 1.
+## Ogre Skeleton
+
+| Stat              | Value                                                      |
+|-------------------|------------------------------------------------------------|
+| CR                | 2                                                          |
+| Size              | Large                                                      |
+| Type              | undead                                                     |
+| HD                | 4d12                                                       |
+| hp                | 22                                                         |
+| Mas               | —                                                          |
+| Init              | +4                                                         |
+| Spd               | 30 ft.                                                     |
+| Defense           | 12                                                         |
+| Touch             | 9                                                          |
+| Flat-Footed       | 12                                                         |
+| Defense Breakdown | –1 size, +3 natural                                        |
+| BAB               | +0                                                         |
+| Grap              | +8                                                         |
+| Atk               | +4 melee (1d6+5, claw)                                     |
+| Full Atk          | +4 melee (1d6+5, 2 claws), or +4 melee (2d6+7, great club) |
+| FS                | 10 ft. by 10 ft.                                           |
+| Reach             | 10 ft.                                                     |
+| SQ                | undead, skeleton immunities                                |
+| AL                | creator                                                    |
+| Fort              | +0                                                         |
+| Ref               | +0                                                         |
+| Will              | +3                                                         |
+| AP                | 0                                                          |
+| Rep               | +0                                                         |
+| Str               | 21                                                         |
+| Dex               | 10                                                         |
+| Con               | —                                                          |
+| Int               | —                                                          |
+| Wis               | 10                                                         |
+| Cha               | 1                                                          |
 
 **Skills:** None.
 
 **Feats:** Improved Initiative, Simple Weapons Proficiency.
-

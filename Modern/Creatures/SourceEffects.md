@@ -1,4 +1,4 @@
-## Source Effects
+# Source Effects
 
 After determining a creature’s source of weakness, the GM needs to
 decide how the creature reacts when confronted by the source. Pick an
@@ -32,7 +32,7 @@ the following effects (GM’s choice):
 
 • Blindness: The creature has a 50% miss chance in combat, loses any
 Dexterity bonus to Defense, moves at half speed, takes a –4 penalty on
-Strength and Dex­terity-based skills, and cannot make Spot checks. Foes
+Strength and Dexterity-based skills, and cannot make Spot checks. Foes
 gain a +2 bonus on attack rolls to hit the creature.
 
 • Deafness: The creature takes a –4 penalty to initiative checks and has
@@ -173,4 +173,3 @@ susceptible to source-induced harm.
 | 45–46 | Laughter of children              | 96     | Television static                   |
 | 47    | Laundry detergent                 | 97–98  | White rice                          |
 | 48    | Lavender                          | 99–100 | X-rays                              |
-

@@ -1,6 +1,6 @@
-## Troglodyte
+# Troglodyte
 
-**Species Traits**
+## Species Traits
 
 **Stench (Ex):** When a troglodyte is angry or frightened, it secretes
 an oily, musklike chemical that most animal life finds offensive. All
@@ -22,14 +22,41 @@ Proficiency.
 
 **Automatic Language:** Troglodytes read, write, and speak Draconic.
 
-Troglodyte: CR 1; Medium-size humanoid; HD 2d8+4; hp 13; Mas 14; Init
-–1; Spd 30 ft.; Defense 15, touch 9, flat-footed 15 (–1 Dex, +6
-natural); BAB +1; Grap +1; Atk +1 melee (1d4, claw); Full Atk +1 melee
-(1d4, 2 claws), –1 melee (1d4, bite), or +1 melee (1d6 nonlethal, sap),
-–4 melee (1d4, bite), or +0 ranged (1d6, javelin); FS 5 ft. by 5 ft.;
-Reach 5 ft.; SQ stench, darkvision 90 ft.; AL chaos, evil; SV Fort +5,
-Ref –1, Will +0; AP 0; Rep +0; Str 10, Dex 9, Con 14, Int 8, Wis 10, Cha
-10.
+## Troglodyte
+
+| Stat              | Value                                                                                                                              |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| CR                | 1                                                                                                                                  |
+| Size              | Medium-size                                                                                                                        |
+| Type              | humanoid                                                                                                                           |
+| HD                | 2d8+4                                                                                                                              |
+| hp                | 13                                                                                                                                 |
+| Mas               | 14                                                                                                                                 |
+| Init              | –1                                                                                                                                 |
+| Spd               | 30 ft.                                                                                                                             |
+| Defense           | 15                                                                                                                                 |
+| Touch             | 9                                                                                                                                  |
+| Flat-Footed       | 15                                                                                                                                 |
+| Defense Breakdown | –1 Dex, +6 natural                                                                                                                 |
+| BAB               | +1                                                                                                                                 |
+| Grap              | +1                                                                                                                                 |
+| Atk               | +1 melee (1d4, claw)                                                                                                               |
+| Full Atk          | +1 melee (1d4, 2 claws), –1 melee (1d4, bite), or +1 melee (1d6 nonlethal, sap), –4 melee (1d4, bite), or +0 ranged (1d6, javelin) |
+| FS                | 5 ft. by 5 ft.                                                                                                                     |
+| Reach             | 5 ft.                                                                                                                              |
+| SQ                | stench, darkvision 90 ft.                                                                                                          |
+| AL                | chaos, evil                                                                                                                        |
+| Fort              | +5                                                                                                                                 |
+| Ref               | –1                                                                                                                                 |
+| Will              | +0                                                                                                                                 |
+| AP                | 0                                                                                                                                  |
+| Rep               | +0                                                                                                                                 |
+| Str               | 10                                                                                                                                 |
+| Dex               | 9                                                                                                                                  |
+| Con               | 14                                                                                                                                 |
+| Int               | 8                                                                                                                                  |
+| Wis               | 10                                                                                                                                 |
+| Cha               | 10                                                                                                                                 |
 
 **Skills:** Hide +6, Listen +3.
 
@@ -40,15 +67,41 @@ assorted items.
 
 **Advancement:** By character class.
 
-**Troglodyte Dedicated Hero 3/Field Medic 1:** CR 5; Medium-size
-humanoid; HD 2d8+4 plus 3d6+6 plus 1d8+2; hp 35; Mas 14; Init +0; Spd 30
-ft.; Defense 19, touch 13, flat-footed 19 (+3 class, +6 natural); BAB
-+3; Grap +3; Atk +3 melee (1d4, claw); Full Atk +3 melee (1d4, 2 claws),
-+1 melee (1d4, bite), or +3 melee (1d6 nonlethal, sap), –2 melee (1d4,
-bite), or +4 ranged (1d4 electricity plus paralysis, taser); FS 5 ft. by
-5 ft.; Reach 5 ft.; SQ stench, darkvision 90 ft.; AL chaos, evil; SV
-Fort +9, Ref +2, Will +3; AP 2; Rep +2; Str 10, Dex 10, Con 14, Int 8,
-Wis 10, Cha 10.
+## Troglodyte Dedicated Hero 3/Field Medic 1
+
+| Stat              | Value                                                                                                                                                       |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CR                | 5                                                                                                                                                           |
+| Size              | Medium-size                                                                                                                                                 |
+| Type              | humanoid                                                                                                                                                    |
+| HD                | 2d8+4 plus 3d6+6 plus 1d8+2                                                                                                                                 |
+| hp                | 35                                                                                                                                                          |
+| Mas               | 14                                                                                                                                                          |
+| Init              | +0                                                                                                                                                          |
+| Spd               | 30 ft.                                                                                                                                                      |
+| Defense           | 19                                                                                                                                                          |
+| Touch             | 13                                                                                                                                                          |
+| Flat-Footed       | 19                                                                                                                                                          |
+| Defense Breakdown | +3 class, +6 natural                                                                                                                                        |
+| BAB               | +3                                                                                                                                                          |
+| Grap              | +3                                                                                                                                                          |
+| Atk               | +3 melee (1d4, claw)                                                                                                                                        |
+| Full Atk          | +3 melee (1d4, 2 claws), +1 melee (1d4, bite), or +3 melee (1d6 nonlethal, sap), –2 melee (1d4, bite), or +4 ranged (1d4 electricity plus paralysis, taser) |
+| FS                | 5 ft. by 5 ft.                                                                                                                                              |
+| Reach             | 5 ft.                                                                                                                                                       |
+| SQ                | stench, darkvision 90 ft.                                                                                                                                   |
+| AL                | chaos, evil                                                                                                                                                 |
+| Fort              | +9                                                                                                                                                          |
+| Ref               | +2                                                                                                                                                          |
+| Will              | +3                                                                                                                                                          |
+| AP                | 2                                                                                                                                                           |
+| Rep               | +2                                                                                                                                                          |
+| Str               | 10                                                                                                                                                          |
+| Dex               | 10                                                                                                                                                          |
+| Con               | 14                                                                                                                                                          |
+| Int               | 8                                                                                                                                                           |
+| Wis               | 10                                                                                                                                                          |
+| Cha               | 10                                                                                                                                                          |
 
 **Skills:** Craft (pharmaceutical) +1, Hide +7, Listen +3, Spot +3,
 Treat Injury +10.
@@ -62,4 +115,3 @@ Proficiency, Surgery, Weapon Focus (taser).
 
 **Possessions:** Sap, taser, medical kit, first aid kit, backpack
 containing food and assorted items.
-

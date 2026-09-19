@@ -185,7 +185,7 @@ appendage, dealing piercing damage.
 Slap or Slam: The creature batters opponents with an appendage, dealing
 bludgeoning damage.
 
-Sting: The creature stabs with a stinger, dealing piercing dam­age.
+Sting: The creature stabs with a stinger, dealing piercing damage.
 Stings are usually poisoned.
 
 ## Manufactured Weapons
@@ -344,13 +344,13 @@ immobile. The creature automatically fails Strength checks. If the
 creature can attack, it applies its Dexterity modifier to its base
 attack bonus instead of a Strength modifier.
 
-Dexterity: Any creature that can move has at least 1 point of ­Dexterity.
+Dexterity: Any creature that can move has at least 1 point of Dexterity.
 A creature with no Dexterity score can’t move. If it can act (such as by
 casting spells), the creature applies its Intelligence modifier instead
 of its Dexterity modifier to initiative checks. The creature fails all
 Reflex saves and Dexterity checks.
 
-Constitution: Any living creature has at least 1 point of ­Constitution.
+Constitution: Any living creature has at least 1 point of Constitution.
 A creature with no Constitution has no body or no metabolism. It is
 immune to any effect that requires a Fortitude save unless the effect
 works on objects or is harmless. The creature is also immune to ability
@@ -440,7 +440,7 @@ modifier, as shown on Table: Creature Sizes.
 **Damage:** An increase in size also increases the amount of damage a
 creature deals with its natural weapons.
 
-**Saving Throws:** Table: Creature Saves and Base At­tack Bonuses shows
+**Saving Throws:** Table: Creature Saves and Base Attack Bonuses shows
 how a creature’s saving throw bonuses improve as it gains Hit Dice.
 
 **Ability Scores:** An increase in size affects a creature’s Strength,

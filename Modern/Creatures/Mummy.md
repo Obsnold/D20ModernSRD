@@ -1,6 +1,6 @@
-## Mummy
+# Mummy
 
-**Species Traits**
+## Species Traits
 
 Undead: Mummies have the traits and immunities common to undead.
 
@@ -40,14 +40,41 @@ Proficiency.
 
 **Automatic Language:** Mummies read, write, and speak one language.
 
-**Mummy:** CR 4; Medium-size undead; HD 6d12 plus 3 (Toughness feat); hp
-42; Mas —; Init –1; Spd 20 ft.; Defense 17, touch 9, flat-footed 17 (–1
-Dex, +8 natural); BAB +3; Grap +6; Atk +6 melee (1d6+4 plus mummy rot,
-slam); Full Atk +6 melee (1d6+4 plus mummy rot, slam), or +2 ranged; FS
-5 ft. by 5 ft.; Reach 5 ft.; SQ undead, despair, mummy rot, fire
-vulnerability, resistant to blows, damage reduction 5/+1, darkvision 60
-ft.; AL evil, law; SV Fort +2, Ref +1, Will +7; AP 0; Rep +0; Str 17,
-Dex 8, Con —, Int 6, Wis 14, Cha 15.
+## Mummy
+
+| Stat              | Value                                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| CR                | 4                                                                                                            |
+| Size              | Medium-size                                                                                                  |
+| Type              | undead                                                                                                       |
+| HD                | 6d12 plus 3 (Toughness feat)                                                                                 |
+| hp                | 42                                                                                                           |
+| Mas               | —                                                                                                            |
+| Init              | –1                                                                                                           |
+| Spd               | 20 ft.                                                                                                       |
+| Defense           | 17                                                                                                           |
+| Touch             | 9                                                                                                            |
+| Flat-Footed       | 17                                                                                                           |
+| Defense Breakdown | –1 Dex, +8 natural                                                                                           |
+| BAB               | +3                                                                                                           |
+| Grap              | +6                                                                                                           |
+| Atk               | +6 melee (1d6+4 plus mummy rot, slam)                                                                        |
+| Full Atk          | +6 melee (1d6+4 plus mummy rot, slam), or +2 ranged                                                          |
+| FS                | 5 ft. by 5 ft.                                                                                               |
+| Reach             | 5 ft.                                                                                                        |
+| SQ                | undead, despair, mummy rot, fire vulnerability, resistant to blows, damage reduction 5/+1, darkvision 60 ft. |
+| AL                | evil, law                                                                                                    |
+| Fort              | +2                                                                                                           |
+| Ref               | +1                                                                                                           |
+| Will              | +7                                                                                                           |
+| AP                | 0                                                                                                            |
+| Rep               | +0                                                                                                           |
+| Str               | 17                                                                                                           |
+| Dex               | 8                                                                                                            |
+| Con               | —                                                                                                            |
+| Int               | 6                                                                                                            |
+| Wis               | 14                                                                                                           |
+| Cha               | 15                                                                                                           |
 
 **Skills:** Hide +8, Listen +9, Move Silently +8, Read/Write Egyptian,
 Speak Egyptian, Spot +9.
@@ -57,15 +84,41 @@ Speak Egyptian, Spot +9.
 **Advancement:** 7–12 HD (Medium-size); 13–18 HD (Large); or by
 character class.
 
-**Mummy Dedicated Hero 3:** CR 7; Medium-size undead; HD 9d12 plus 3
-(Toughness feat); hp 58; Mas —; Init –1; Spd 20 ft.; Defense 19, touch
-11, flat-footed 19 (–1 Dex, +2 class, +8 natural); BAB +5; Grap +8; Atk
-+8 melee (1d6+4 plus mummy rot, slam); Full Atk +8 melee (1d6+4 plus
-mummy rot, slam), or +4 ranged (1d10/19–20, crossbow); FS 5 ft. by 5
-ft.; Reach 5 ft.; SQ undead, despair, mummy rot, fire vulnerability,
-resistant to blows, damage reduction 5/+1, darkvision 60 ft.; AL evil,
-law; SV Fort +4, Ref +2, Will +9; AP 1; Rep +1; Str 17, Dex 8, Con —,
-Int 7, Wis 14, Cha 15.
+## Mummy Dedicated Hero 3
+
+| Stat              | Value                                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| CR                | 7                                                                                                            |
+| Size              | Medium-size                                                                                                  |
+| Type              | undead                                                                                                       |
+| HD                | 9d12 plus 3 (Toughness feat)                                                                                 |
+| hp                | 58                                                                                                           |
+| Mas               | —                                                                                                            |
+| Init              | –1                                                                                                           |
+| Spd               | 20 ft.                                                                                                       |
+| Defense           | 19                                                                                                           |
+| Touch             | 11                                                                                                           |
+| Flat-Footed       | 19                                                                                                           |
+| Defense Breakdown | –1 Dex, +2 class, +8 natural                                                                                 |
+| BAB               | +5                                                                                                           |
+| Grap              | +8                                                                                                           |
+| Atk               | +8 melee (1d6+4 plus mummy rot, slam)                                                                        |
+| Full Atk          | +8 melee (1d6+4 plus mummy rot, slam), or +4 ranged (1d10/19–20, crossbow)                                   |
+| FS                | 5 ft. by 5 ft.                                                                                               |
+| Reach             | 5 ft.                                                                                                        |
+| SQ                | undead, despair, mummy rot, fire vulnerability, resistant to blows, damage reduction 5/+1, darkvision 60 ft. |
+| AL                | evil, law                                                                                                    |
+| Fort              | +4                                                                                                           |
+| Ref               | +2                                                                                                           |
+| Will              | +9                                                                                                           |
+| AP                | 1                                                                                                            |
+| Rep               | +1                                                                                                           |
+| Str               | 17                                                                                                           |
+| Dex               | 8                                                                                                            |
+| Con               | —                                                                                                            |
+| Int               | 7                                                                                                            |
+| Wis               | 14                                                                                                           |
+| Cha               | 15                                                                                                           |
 
 **Skills:** Hide +8, Listen +12, Move Silently +8, Read/Write Egyptian,
 Speak Egyptian, Spot +12, Survival +11.
@@ -76,4 +129,3 @@ Weapons Proficiency, Toughness, Track.
 **Talents (Dedicated Hero):** Skill emphasis (Survival), aware.
 
 **Possessions:** Crossbow, 15 crossbow bolts.
-

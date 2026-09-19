@@ -1,4 +1,4 @@
-## Researching Creatures
+# Researching Creatures
 
 Researching a creature and learning its weaknesses will increase the
 likelihood of victory in the ultimate confrontation.
@@ -20,4 +20,3 @@ on the hero’s Research check result, as shown below.
 | Reveals a specific creature’s Species Traits.                                 | 20                |
 | **Unique Traits**                                                             |                   |
 | Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25                |
-

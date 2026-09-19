@@ -1,4 +1,4 @@
-## Replacement (Template)
+# Replacement (Template)
 
 A replacement is a physical duplicate of a specific humanoid, called a
 primary. Although a replacement does not gain the specific life
@@ -19,7 +19,7 @@ death of the replacement. Financing the growth and development of a
 replacement also requires a successful Wealth check against a purchase
 DC of 48, rolled before the process of growing the clone commences.
 
-### Template Traits
+## Template Traits
 
 “Replacement” is an inherited template that can be added to any humanoid
 (referred to hereafter as the original). A replacement uses all the
@@ -71,7 +71,7 @@ Intelligence modifier (minimum 1 skill point per Hit Die). The
 replacement can never have more ranks in a skill than the original.
 
 The replacement gains a +4 species bonus on Disguise checks when
-impersonating the original. The bonus in­creases to +10 if the
+impersonating the original. The bonus increases to +10 if the
 replacement wears contact lenses that hide its distinctive black eyes.
 
 **Feats:** A replacement gains the original’s feats but cannot use any
@@ -82,13 +82,40 @@ language known by the original.
 
 **Advancement:** By character class.
 
-**Replacement Scientist (Human Smart Ordinary 5/Charismatic Ordinary
-2):** CR 6; Medium-size humanoid; HD 7d6+7; hp 31; Mas 12; Init +1; Spd
-30 ft.; Defense 14, touch 14, flat-footed 13 (+1 Dex, +3 class); BAB +3;
-Grap +3; Atk +3 melee (1d3, unarmed strike); Full Atk +3 melee (1d3,
-unarmed strike), or +4 ranged (2d6, SITES M9); FS 5 ft. by 5 ft.; Reach
-5 ft.; AL Creator; SV Fort +4, Ref +4, Will +3; AP 0; Rep +4; Str 10,
-Dex 12, Con 12, Int 12, Wis 11, Cha 9.
+## Replacement Scientist (Human Smart Ordinary 5/Charismatic Ordinary 2)
+
+| Stat              | Value                                                        |
+|-------------------|--------------------------------------------------------------|
+| CR                | 6                                                            |
+| Size              | Medium-size                                                  |
+| Type              | humanoid                                                     |
+| HD                | 7d6+7                                                        |
+| hp                | 31                                                           |
+| Mas               | 12                                                           |
+| Init              | +1                                                           |
+| Spd               | 30 ft.                                                       |
+| Defense           | 14                                                           |
+| Touch             | 14                                                           |
+| Flat-Footed       | 13                                                           |
+| Defense Breakdown | +1 Dex, +3 class                                             |
+| BAB               | +3                                                           |
+| Grap              | +3                                                           |
+| Atk               | +3 melee (1d3, unarmed strike)                               |
+| Full Atk          | +3 melee (1d3, unarmed strike), or +4 ranged (2d6, SITES M9) |
+| FS                | 5 ft. by 5 ft.                                               |
+| Reach             | 5 ft.                                                        |
+| AL                | Creator                                                      |
+| Fort              | +4                                                           |
+| Ref               | +4                                                           |
+| Will              | +3                                                           |
+| AP                | 0                                                            |
+| Rep               | +4                                                           |
+| Str               | 10                                                           |
+| Dex               | 12                                                           |
+| Con               | 12                                                           |
+| Int               | 12                                                           |
+| Wis               | 11                                                           |
+| Cha               | 9                                                            |
 
 **Skills:** Bluff +4, Computer Use +4, Craft (chemical) +5, Decipher
 Script +3, Disguise +5 (+11 with contact lenses), Disable Device +3,
@@ -105,4 +132,3 @@ therefore cannot use it.
 **Possessions:** SITES M9 (9mm autoloader pistol), 16 rounds of 9mm
 ammunition, firearms license, notebook computer, briefcase, cellphone,
 corporate security pass, overcoat, business clothing, wallet.
-

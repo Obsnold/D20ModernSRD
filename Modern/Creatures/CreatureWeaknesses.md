@@ -1,4 +1,4 @@
-## Creature Weaknesses
+# Creature Weaknesses
 
 Although a creature’s type and species determine many of its traits and
 abilities, GMs are encouraged to alter a creature’s physiology,
@@ -20,4 +20,3 @@ of weakness is left up to the GM, although most sources must be in close
 proximity to the creature (if not touching the creature) to affect it.
 GMs may roll randomly on the table, choose a source that suits the
 creature, or devise their own.
-

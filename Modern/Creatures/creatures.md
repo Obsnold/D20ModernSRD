@@ -11,4 +11,3 @@ Inherited templates assume the creature was born with the template. .
 A creature’s description often includes statistics for both the standard
 breed and an “improved” version that has levels in one or more heroic
 classes.
-
