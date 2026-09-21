@@ -1,16 +1,16 @@
 # Burglar’s Buddy
 
-| Stat             | Value                                                                     |
+| Stat | Value |
 |---|---|
-| School           | Illusion                                                                  |
-| Level            | Arcane 2                                                                  |
-| Components       | V, S, M                                                                   |
-| Casting Time     | Attack action                                                             |
-| Range            | Long (400 ft. + 40 ft./level)                                             |
-| Area             | 15-ft.-radius emanation centered on a creature, object, or point in space |
-| Duration         | 1 minute/level                                                            |
-| Saving Throw     | None and Will negates (object)                                            |
-| Spell Resistance | Yes and no (object)                                                       |
+| School | Illusion |
+| Level | Arcane 2 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Area | 15-ft.-radius emanation centered on a creature, object, or point in space |
+| Duration | 1 minute/level |
+| Saving Throw | None and Will negates (object) |
+| Spell Resistance | Yes and no (object) |
 
 This spell suppresses all mechanical or electronic intrusion alarms and
 alarm sensors in the affected area. Burglar alarms or other intrusion

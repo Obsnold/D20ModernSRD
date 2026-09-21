@@ -20,16 +20,16 @@ survive. For example, it may need to consume a particular chemical.
 The frequency with which the organism requires its dependent condition
 varies widely.
 
-| Creature Size | Frequency           |
+| Creature Size | Frequency |
 |---|---|
-| Fine          | Once every round    |
-| Diminutive    | Once every minute   |
-| Tiny          | Once every hour     |
-| Small         | Once every 4 hours  |
-| Medium-size   | Once every 6 hours  |
-| Large         | Once every 8 hours  |
-| Huge          | Once every 12 hours |
-| Gargantuan    | Once every 24 hours |
+| Fine | Once every round |
+| Diminutive | Once every minute |
+| Tiny | Once every hour |
+| Small | Once every 4 hours |
+| Medium-size | Once every 6 hours |
+| Large | Once every 8 hours |
+| Huge | Once every 12 hours |
+| Gargantuan | Once every 24 hours |
 
 If the organism’s dependent need is not met, it suffers 1d4 points of
 Constitution damage each time the specified period passes.

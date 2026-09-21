@@ -60,24 +60,24 @@ activity.
 
 **Table: Star Systems**
 
-| Star’s System’s Classification              | Degree of Ionizing Radiation<sup>1</sup>              | Number of Planets     |
+| Star’s System’s Classification | Degree of Ionizing Radiation¹ | Number of Planets |
 |---|---|---|
-| Class O (blue-white)                        | Highly irradiated                                     | 1d4+1                 |
-| Class B (blue-white)                        | Moderately irradiated                                 | 1d4+2                 |
-| Class A (blue)                              | Moderately irradiated                                 | 1d6+2                 |
-| Class F (green)                             | Lightly irradiated                                    | 1d6+3                 |
-| Class G (yellow)                            | Lightly irradiated                                    | 1d6+4                 |
-| Class K (orange)                            | Moderately irradiated                                 | 1d6+5                 |
-| Class M (red)                               | Highly irradiated                                     | 1d8+2                 |
-| **Non-Main Sequence Star’s Classification** |** System’s Degree of Ionizing Radiation<sup>1</sup>** |** Number of Planets** |
-| Black hole                                  | Highly irradiated                                     | —                     |
-| Neutron star                                | Severely irradiated                                   | 1d4–1                 |
-| White dwarf                                 | Moderately irradiated                                 | 1d4+1                 |
-| Black dwarf                                 | Lightly irradiated                                    | 1d4+2                 |
-| Brown dwarf                                 | Lightly irradiated                                    | 1d4+1                 |
-| Red supergiant                              | Highly irradiated                                     | 1d4–1                 |
+| Class O (blue-white) | Highly irradiated | 1d4+1 |
+| Class B (blue-white) | Moderately irradiated | 1d4+2 |
+| Class A (blue) | Moderately irradiated | 1d6+2 |
+| Class F (green) | Lightly irradiated | 1d6+3 |
+| Class G (yellow) | Lightly irradiated | 1d6+4 |
+| Class K (orange) | Moderately irradiated | 1d6+5 |
+| Class M (red) | Highly irradiated | 1d8+2 |
+| **Non-Main Sequence Star’s Classification** |** System’s Degree of Ionizing Radiation¹** |** Number of Planets** |
+| Black hole | Highly irradiated | — |
+| Neutron star | Severely irradiated | 1d4–1 |
+| White dwarf | Moderately irradiated | 1d4+1 |
+| Black dwarf | Lightly irradiated | 1d4+2 |
+| Brown dwarf | Lightly irradiated | 1d4+1 |
+| Red supergiant | Highly irradiated | 1d4–1 |
 
-1 Refer to Table: Radiation Exposure for details.
+¹ Refer to Table: Radiation Exposure for details.
 
 ## Black Holes
 

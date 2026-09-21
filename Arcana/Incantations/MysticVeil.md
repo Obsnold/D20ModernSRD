@@ -1,8 +1,8 @@
 # Mystic Veil
 
-| Stat        | Value                                      |
+| Stat | Value |
 |---|---|
-| School      | Illusion                                   |
+| School | Illusion |
 | Skill Check | Knowledge (arcane lore) DC 34, 7 successes |
 
 (and see text); **Failure:** Two consecutive failed skill checks;

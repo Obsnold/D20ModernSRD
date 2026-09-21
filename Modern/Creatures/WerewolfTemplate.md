@@ -233,12 +233,12 @@ one-quarter lost (save DC same as for full moon).
 | Task | DC |
 |---|---|
 | Resist involuntary change | 25 |
-| Return to humanoid form (full moon <sup>1</sup>) | 25 |
+| Return to humanoid form (full moon ¹) | 25 |
 | Return to humanoid form (not full moon) | 20 |
 | Voluntary change (full moon) | 10 |
 | Voluntary change (not full moon) | 15 |
 
-1 For game purposes, the full moon lasts three days every month.
+¹ For game purposes, the full moon lasts three days every month.
 
 **Try Again?:** Check for an involuntary change once each time a
 triggering event occurs. On a failed check to return to humanoid form

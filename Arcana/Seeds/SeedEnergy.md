@@ -1,15 +1,15 @@
 # Seed: Energy
 
-| Stat                       | Value                                                                                                                                                                   |
+| Stat | Value |
 |---|---|
-| School                     | Evocation                                                                                                                                                               |
-| Descriptors                | Acid, Fire, Electricity, Cold, or Sonic/Concussion                                                                                                                      |
-| Knowledge (arcane lore) DC | 30                                                                                                                                                                      |
-| Range                      | Medium, or touched creature or object of up to 2,000 lbs.                                                                                                               |
-| Area                       | A bolt 5 ft. wide to 300 ft. long; or 5-ft.-radius emanation; or a wall whose area is up to one 200-ft. square; or a sphere or hemisphere with a radius of up to 20 ft. |
-| Duration                   | Instantaneous or hours                                                                                                                                                  |
-| Saving Throw               | Reflex half                                                                                                                                                             |
-| Spell Resistance           | Yes                                                                                                                                                                     |
+| School | Evocation |
+| Descriptors | Acid, Fire, Electricity, Cold, or Sonic/Concussion |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Medium, or touched creature or object of up to 2,000 lbs. |
+| Area | A bolt 5 ft. wide to 300 ft. long; or 5-ft.-radius emanation; or a wall whose area is up to one 200-ft. square; or a sphere or hemisphere with a radius of up to 20 ft. |
+| Duration | Instantaneous or hours |
+| Saving Throw | Reflex half |
+| Spell Resistance | Yes |
 
 You can work with whichever one of five energy types you choose: acid,
 cold, electricity, fire, or sonic/concussion. You can cast the energy

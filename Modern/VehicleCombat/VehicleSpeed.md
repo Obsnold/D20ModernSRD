@@ -10,14 +10,14 @@ category.
 
 | Speed Category | Character Scale | Chase Scale | Defense Modifier | Check/Roll Modifier | | |
 |---|---|---|---|---|---|---|
-| | **Movement<sup>1</sup>** |** Turn Number<sup>2</sup>** |** Movement<sup>1</sup>** |** Turn Number<sup>2</sup>** | | |
-| Stationary<sup>3</sup> | 0 | — | 0 | — | +0 | — |
+| | **Movement¹** |** Turn Number²** |** Movement¹** |** Turn Number²** | | |
+| Stationary³ | 0 | — | 0 | — | +0 | — |
 | Alley speed | 1–20 | 1 | 1–2 | 1 | +0 | +0 |
 | Street speed | 21–50 | 2 | 3–5 | 1 | +1 | –1 |
 | Highway speed | 51–150 | 4 | 6–15 | 2 | +2 | –2 |
 | All-out | 151+ | 8 | 16+ | 2 | +4 | –4 |
 
-1 The number of squares a vehicle can move at this speed.
+¹ The number of squares a vehicle can move at this speed.
 2 The number of squares a vehicle must move at this speed before making a turn.
 3 A stationary vehicle cannot move or maneuver.
 

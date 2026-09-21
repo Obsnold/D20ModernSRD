@@ -12,38 +12,38 @@ dog at distances of 100 feet or more.
 
 ## “Spot” Security Robot
 
-| Stat              | Value                               |
+| Stat | Value |
 |---|---|
-| CR                | 1                                   |
-| Size              | Medium-size                         |
-| Type              | construct                           |
-| HD                | 1d10+10                             |
-| hp                | 15                                  |
-| Mas               | —                                   |
-| Init              | +0                                  |
-| Spd               | 30 ft.                              |
-| Defense           | 17                                  |
-| Touch             | 11                                  |
-| Flat-Footed       | 16                                  |
-| Defense Breakdown | +1 Dex, +6 equipment                |
-| BAB               | +0                                  |
-| ??                | Grp +2                              |
-| Atk               | +2 melee (1d4+2, jaws) or +1 ranged |
-| FS                | 5 ft. by 5 ft.                      |
-| Reach             | 5 ft.                               |
-| SQ                | construct traits                    |
-| AL                | owner                               |
-| Fort              | +0                                  |
-| Ref               | +1                                  |
-| Will              | +0                                  |
-| AP                | 0                                   |
-| Rep               | +0                                  |
-| Str               | 14                                  |
-| Dex               | 12                                  |
-| Con               | —                                   |
-| Int               | —                                   |
-| Wis               | 10                                  |
-| Cha               | 1                                   |
+| CR | 1 |
+| Size | Medium-size |
+| Type | construct |
+| HD | 1d10+10 |
+| hp | 15 |
+| Mas | — |
+| Init | +0 |
+| Spd | 30 ft. |
+| Defense | 17 |
+| Touch | 11 |
+| Flat-Footed | 16 |
+| Defense Breakdown | +1 Dex, +6 equipment |
+| BAB | +0 |
+| ?? | Grp +2 |
+| Atk | +2 melee (1d4+2, jaws) or +1 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | construct traits |
+| AL | owner |
+| Fort | +0 |
+| Ref | +1 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 14 |
+| Dex | 12 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** Hide +5, Jump +6, Listen +6, Move Silently +5, Spot +6.
 

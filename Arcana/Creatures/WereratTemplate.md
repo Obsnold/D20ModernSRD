@@ -97,38 +97,38 @@ and the bonus feat Weapon Finesse (bite) in rat or hybrid form.
 
 ## Wererat in Humanoid Form (Human Fast Hero 1)
 
-| Stat              | Value                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                             |
-| Size/Type         | Medium humanoid                                               |
-| HD                | 1d8+2 plus 1d8+2                                              |
-| hp                | 13                                                            |
-| Mas               | 15                                                            |
-| Init              | +5                                                            |
-| Spd               | 30 ft.                                                        |
-| Defense           | 18                                                            |
-| Touch             | 15                                                            |
-| Flat-Footed       | 13                                                            |
-| Defense Breakdown | +5 Dex, +3 class                                              |
-| BAB               | +0                                                            |
-| Grap              | +2                                                            |
-| Atk               | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
-| Full Atk          | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
-| FS                | 5 ft. by 5 ft.                                                |
-| Reach             | 5 ft.                                                         |
-| SQ                | alternate form, rat empathy                                   |
-| AL                | law, evil, wererats                                           |
-| Fort              | +4                                                            |
-| Ref               | +8                                                            |
-| Will              | +0                                                            |
-| AP                | 0                                                             |
-| Rep               | +0                                                            |
-| Str               | 14                                                            |
-| Dex               | 21                                                            |
-| Con               | 15                                                            |
-| Int               | 8                                                             |
-| Wis               | 10                                                            |
-| Cha               | 12                                                            |
+| CR | 3 |
+| Size/Type | Medium humanoid |
+| HD | 1d8+2 plus 1d8+2 |
+| hp | 13 |
+| Mas | 15 |
+| Init | +5 |
+| Spd | 30 ft. |
+| Defense | 18 |
+| Touch | 15 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +5 Dex, +3 class |
+| BAB | +0 |
+| Grap | +2 |
+| Atk | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
+| Full Atk | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | alternate form, rat empathy |
+| AL | law, evil, wererats |
+| Fort | +4 |
+| Ref | +8 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 14 |
+| Dex | 21 |
+| Con | 15 |
+| Int | 8 |
+| Wis | 10 |
+| Cha | 12 |
 
 **Skills:** Balance +9, Climb +11, Escape Artist +9,
 Hide +10, Knowledge (streetwise) +3, Listen +4, Move Silently +8, Search
@@ -259,37 +259,37 @@ feat.
 
 ## Human Liquefied Zombie
 
-| Stat              | Value                                     |
+| Stat | Value |
 |---|---|
-| CR                | 2                                         |
-| Size/Type         | Medium undead                             |
-| HD                | 3d12+3 (includes Toughness feat)          |
-| hp                | 22                                        |
-| Init              | –1                                        |
-| Spd               | 30 ft.                                    |
-| Defense           | 10                                        |
-| Touch             | 9                                         |
-| Flat-Footed       | 10                                        |
-| Defense Breakdown | –1 Dex, +1 natural                        |
-| BAB               | +0                                        |
-| Grap              | +2                                        |
-| Atk               | +2 melee (1d6+3, slam)                    |
-| Full Atk          | +2 melee (1d6+3, slam)                    |
-| FS                | 5 ft. by 5 ft.                            |
-| Reach             | 5 ft.                                     |
-| SQ                | undead, liquefied spew, darkvision 60 ft. |
-| AL                | creator                                   |
-| Fort              | +1                                        |
-| Ref               | +0                                        |
-| Will              | +3                                        |
-| AP                | 0                                         |
-| Rep               | +0                                        |
-| Str               | 15                                        |
-| Dex               | 8                                         |
-| Con               | —                                         |
-| Int               | —                                         |
-| Wis               | 10                                        |
-| Cha               | 1                                         |
+| CR | 2 |
+| Size/Type | Medium undead |
+| HD | 3d12+3 (includes Toughness feat) |
+| hp | 22 |
+| Init | –1 |
+| Spd | 30 ft. |
+| Defense | 10 |
+| Touch | 9 |
+| Flat-Footed | 10 |
+| Defense Breakdown | –1 Dex, +1 natural |
+| BAB | +0 |
+| Grap | +2 |
+| Atk | +2 melee (1d6+3, slam) |
+| Full Atk | +2 melee (1d6+3, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, liquefied spew, darkvision 60 ft. |
+| AL | creator |
+| Fort | +1 |
+| Ref | +0 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 15 |
+| Dex | 8 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** None.
 
@@ -297,38 +297,38 @@ feat.
 
 ## Otyugh Liquefied Zombie
 
-| Stat              | Value                                                                              |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                                  |
-| Size              | Large                                                                              |
-| Type              | undead                                                                             |
-| HD                | 18d12+3 (includes Toughness feat)                                                  |
-| hp                | 120                                                                                |
-| Init              | +0                                                                                 |
-| Spd               | 20 ft.                                                                             |
-| Defense           | 17                                                                                 |
-| Touch             | 9                                                                                  |
-| Flat-Footed       | 17                                                                                 |
-| Defense Breakdown | –1 size, +8 natural                                                                |
-| BAB               | +9                                                                                 |
-| Grap              | +19                                                                                |
-| Atk               | +14 melee (1d6+9, tentacle rake)                                                   |
-| Full Atk          | +14 melee (1d6+6, 2 tentacle rakes), +9 melee (2d6+3 plus disease, bite)           |
-| FS                | 10 ft. by 10 ft.                                                                   |
-| Reach             | 10 ft. (15 ft. with tentacles)                                                     |
-| SQ                | undead, liquefied spew, improved grab, constrict 1d6+6, disease, darkvision 60 ft. |
-| AL                | creator                                                                            |
-| Fort              | +6                                                                                 |
-| Ref               | +6                                                                                 |
-| Will              | +11                                                                                |
-| AP                | 0                                                                                  |
-| Rep               | +0                                                                                 |
-| Str               | 22                                                                                 |
-| Dex               | 10                                                                                 |
-| Con               | —                                                                                  |
-| Int               | —                                                                                  |
-| Wis               | 10                                                                                 |
-| Cha               | 1                                                                                  |
+| CR | 8 |
+| Size | Large |
+| Type | undead |
+| HD | 18d12+3 (includes Toughness feat) |
+| hp | 120 |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 17 |
+| Touch | 9 |
+| Flat-Footed | 17 |
+| Defense Breakdown | –1 size, +8 natural |
+| BAB | +9 |
+| Grap | +19 |
+| Atk | +14 melee (1d6+9, tentacle rake) |
+| Full Atk | +14 melee (1d6+6, 2 tentacle rakes), +9 melee (2d6+3 plus disease, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. (15 ft. with tentacles) |
+| SQ | undead, liquefied spew, improved grab, constrict 1d6+6, disease, darkvision 60 ft. |
+| AL | creator |
+| Fort | +6 |
+| Ref | +6 |
+| Will | +11 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 22 |
+| Dex | 10 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** None.
 

@@ -18,12 +18,12 @@ evacuation pod.
 
 **Table: Evacuation Times**
 
-| Ship Type    | Untrained Crew Evacuation Time | Trained Crew Evacuation Time<sup>1</sup> |
+| Ship Type | Untrained Crew Evacuation Time | Trained Crew Evacuation Time¹ |
 |---|---|---|
-| Ultralight   | 1d3 rounds                     | Move action                              |
-| Light        | 1d6 rounds                     | Full-round action                        |
-| Mediumweight | 2d6 rounds                     | 1d4 rounds                               |
-| Heavy        | 3d6 rounds                     | 2d4 rounds                               |
-| Superheavy   | 4d6 rounds                     | 3d4 rounds                               |
+| Ultralight | 1d3 rounds | Move action |
+| Light | 1d6 rounds | Full-round action |
+| Mediumweight | 2d6 rounds | 1d4 rounds |
+| Heavy | 3d6 rounds | 2d4 rounds |
+| Superheavy | 4d6 rounds | 3d4 rounds |
 
-1 Includes expert and ace crews.
+¹ Includes expert and ace crews.

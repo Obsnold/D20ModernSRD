@@ -64,39 +64,39 @@ Silently +5, Spot +5.
 
 ## Giant Octopus
 
-| Stat              | Value                                                                       |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                           |
-| Size              | Large                                                                       |
-| Type              | animal                                                                      |
-| HD                | 8d8+8                                                                       |
-| hp                | 44                                                                          |
-| Mas               | 13                                                                          |
-| Init              | +2                                                                          |
-| Spd               | 10 ft., swim 30 ft.                                                         |
-| Defense           | 18                                                                          |
-| Touch             | 11                                                                          |
-| Flat-Footed       | 16                                                                          |
-| Defense Breakdown | –1 size, +2 Dex, +7 natural                                                 |
-| BAB               | +6                                                                          |
-| Grap              | +15                                                                         |
-| Atk               | +10 melee (1d4+7, tentacle slam)                                            |
-| Full Atk          | +10 melee (1d4+5, 8 tentacle slams), +5 melee (1d8+2, bite)                 |
-| FS                | 10 ft. by 10 ft.                                                            |
-| Reach             | 10 ft.                                                                      |
-| SQ                | Aquatic subtype, improved grab, constrict, ink cloud, jet, low-light vision |
-| AL                | none                                                                        |
-| Fort              | +7                                                                          |
-| Ref               | +8                                                                          |
-| Will              | +3                                                                          |
-| AP                | 0                                                                           |
-| Rep               | +0                                                                          |
-| Str               | 20                                                                          |
-| Dex               | 15                                                                          |
-| Con               | 13                                                                          |
-| Int               | 2                                                                           |
-| Wis               | 12                                                                          |
-| Cha               | 3                                                                           |
+| CR | 8 |
+| Size | Large |
+| Type | animal |
+| HD | 8d8+8 |
+| hp | 44 |
+| Mas | 13 |
+| Init | +2 |
+| Spd | 10 ft., swim 30 ft. |
+| Defense | 18 |
+| Touch | 11 |
+| Flat-Footed | 16 |
+| Defense Breakdown | –1 size, +2 Dex, +7 natural |
+| BAB | +6 |
+| Grap | +15 |
+| Atk | +10 melee (1d4+7, tentacle slam) |
+| Full Atk | +10 melee (1d4+5, 8 tentacle slams), +5 melee (1d8+2, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | Aquatic subtype, improved grab, constrict, ink cloud, jet, low-light vision |
+| AL | none |
+| Fort | +7 |
+| Ref | +8 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 20 |
+| Dex | 15 |
+| Con | 13 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 3 |
 
 **Skills**: Escape Artist +12, Hide +2, Listen +5, Move
 Silently +4, Spot +5.

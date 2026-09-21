@@ -1,15 +1,15 @@
 # Dimension Slide
 
-| Stat               | Value                           |
+| Stat | Value |
 |---|---|
-| Key Ability        | Dexterity                       |
-| Level              | Psionic Agent 3                 |
-| Display            | Visual                          |
-| Manifestation Time | Attack action                   |
-| Range              | Close (25 ft. + 5 ft./2 levels) |
-| Target             | You (see text)                  |
-| Duration           | Instantaneous                   |
-| Power Point Cost   | 5                               |
+| Key Ability | Dexterity |
+| Level | Psionic Agent 3 |
+| Display | Visual |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | You (see text) |
+| Duration | Instantaneous |
+| Power Point Cost | 5 |
 
 You instantly transfer yourself from your current location to any other
 spot within range that you can see directly. You arrive at exactly the

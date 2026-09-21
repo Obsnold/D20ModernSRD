@@ -352,12 +352,12 @@ effects to manifest after the incantation is completed. The current,
 natural weather conditions are determined by the GM. You can call forth
 weather appropriate to the climate and season of the area you are in.
 
-| Season      | Possible Weather                                     |
+| Season | Possible Weather |
 |---|---|
-| Spring      | Tornado, thunderstorm, sleet storm, or hot weather   |
-| Summer      | Torrential rain, heat wave, or hailstorm             |
-| Autumn      | Hot or cold weather, fog, or sleet                   |
-| Winter      | Frigid cold, blizzard, or thaw                       |
+| Spring | Tornado, thunderstorm, sleet storm, or hot weather |
+| Summer | Torrential rain, heat wave, or hailstorm |
+| Autumn | Hot or cold weather, fog, or sleet |
+| Winter | Frigid cold, blizzard, or thaw |
 | Late winter | Hurricane-force winds or early spring (coastal area) |
 
 You control the general tendencies of the weather, such as the direction
@@ -951,12 +951,12 @@ temporarily insane if they fail their Will saves. Creatures affected by
 this spell behave randomly for the next 16 hours, as indicated on the
 following table:
 
-| 1d10 | Behavior                                    |
+| 1d10 | Behavior |
 |---|---|
-| 1    | Wander away for 1 minute (unless prevented) |
-| 2–6  | Do nothing for 1 round                      |
-| 7–9  | Attack nearest creature for 1 round         |
-| 10   | Act normally for 1 round                    |
+| 1 | Wander away for 1 minute (unless prevented) |
+| 2–6 | Do nothing for 1 round |
+| 7–9 | Attack nearest creature for 1 round |
+| 10 | Act normally for 1 round |
 
 Except on a result of 1, roll again each round on the creature’s turn to
 see what the subject does that round. Wandering creatures leave the

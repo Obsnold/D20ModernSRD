@@ -34,9 +34,9 @@ legally.
 
 **Table: Mecha Sizes**
 
-| Size       | Size Modifier | Equipment Slots | Hit Points | Base Speed | Height     | Weight              | Fighting Space   | Reach  | Purchase DC | Restriction |
+| Size | Size Modifier | Equipment Slots | Hit Points | Base Speed | Height | Weight | Fighting Space | Reach | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Colossal   | –8            | 25              | 800        | 60 ft.     | 64–128 ft. | 250,000 lb. or more | 30 ft. by 30 ft. | 15 ft. | 60          | Mil (+3)    |
-| Gargantuan | –4            | 17              | 400        | 50 ft.     | 32–64 ft.  | 32,000–250,000 lb.  | 20 ft. by 20 ft. | 15 ft. | 48          | Mil (+3)    |
-| Huge       | –2            | 11              | 200        | 40 ft.     | 16–32 ft.  | 4,000–32,000 lb.    | 15 ft. by 15 ft. | 10 ft. | 44          | Mil (+3)    |
-| Large      | –1            | 7               | 100        | 30 ft.     | 8–16 ft.   | 500–4,000 lb.       | 10 ft. by 10 ft. | 10 ft. | 40          | Res (+2)    |
+| Colossal | –8 | 25 | 800 | 60 ft. | 64–128 ft. | 250,000 lb. or more | 30 ft. by 30 ft. | 15 ft. | 60 | Mil (+3) |
+| Gargantuan | –4 | 17 | 400 | 50 ft. | 32–64 ft. | 32,000–250,000 lb. | 20 ft. by 20 ft. | 15 ft. | 48 | Mil (+3) |
+| Huge | –2 | 11 | 200 | 40 ft. | 16–32 ft. | 4,000–32,000 lb. | 15 ft. by 15 ft. | 10 ft. | 44 | Mil (+3) |
+| Large | –1 | 7 | 100 | 30 ft. | 8–16 ft. | 500–4,000 lb. | 10 ft. by 10 ft. | 10 ft. | 40 | Res (+2) |

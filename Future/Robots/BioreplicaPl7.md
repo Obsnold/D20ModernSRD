@@ -32,15 +32,15 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Table: Bioreplica Robot Frames (Pl 7)**
 
-|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+| | | | | ——— Base Ability Scores ——— | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
-| Colossal       | 52                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 10      | 45d10/+4 per HD                           |
-| Gargantuan     | 44                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 10      | 31d10/+3 per HD                           |
-| Huge           | 36                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 10      | 15d10/+2 per HD                           |
-| Large          | 32                   | 2d10              | 20                   | 20                          | 9       | —       | 10      | 10      | 10      | 7d10/+1 per HD                            |
-| Medium-size    | 28                   | 1d10              | 10                   | 12                          | 11      | —       | 10      | 10      | 10      | —                                         |
-| Small          | 24                   | 1/2d10            | 5                    | 8                           | 13      | —       | 10      | 10      | 10      | —                                         |
-| Tiny           | 20                   | 1/4d10            | —                    | 4                           | 15      | —       | 10      | 10      | 10      | —                                         |
-| Diminutive     | 16                   | 1/8d10            | —                    | 2                           | 17      | —       | 10      | 10      | 10      | —                                         |
-| Fine           | 12                   | 1/16d10           | —                    | 1                           | 19      | —       | 10      | 10      | 10      | —                                         |
+| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal | 52 | 32d10 | 120 | 44 | 7 | — | 10 | 10 | 10 | 45d10/+4 per HD |
+| Gargantuan | 44 | 16d10 | 80 | 36 | 7 | — | 10 | 10 | 10 | 31d10/+3 per HD |
+| Huge | 36 | 8d10 | 40 | 28 | 7 | — | 10 | 10 | 10 | 15d10/+2 per HD |
+| Large | 32 | 2d10 | 20 | 20 | 9 | — | 10 | 10 | 10 | 7d10/+1 per HD |
+| Medium-size | 28 | 1d10 | 10 | 12 | 11 | — | 10 | 10 | 10 | — |
+| Small | 24 | 1/2d10 | 5 | 8 | 13 | — | 10 | 10 | 10 | — |
+| Tiny | 20 | 1/4d10 | — | 4 | 15 | — | 10 | 10 | 10 | — |
+| Diminutive | 16 | 1/8d10 | — | 2 | 17 | — | 10 | 10 | 10 | — |
+| Fine | 12 | 1/16d10 | — | 1 | 19 | — | 10 | 10 | 10 | — |

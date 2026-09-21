@@ -1,17 +1,17 @@
 # Secret Vault
 
-| Stat             | Value                                               |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                         |
-| Subschool        | Summoning                                           |
-| Level            | Arcane 5                                            |
-| Components       | V, S, F                                             |
-| Casting Time     | 10 minutes                                          |
-| Range            | See text                                            |
-| Target           | One chest and up to 1 cu. ft. of goods/caster level |
-| Duration         | 60 days or until discharged                         |
-| Saving Throw     | None                                                |
-| Spell Resistance | No                                                  |
+| School | Conjuration |
+| Subschool | Summoning |
+| Level | Arcane 5 |
+| Components | V, S, F |
+| Casting Time | 10 minutes |
+| Range | See text |
+| Target | One chest and up to 1 cu. ft. of goods/caster level |
+| Duration | 60 days or until discharged |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You hide a briefcase, backpack, dufflebag, or similar item in an
 extradimensional space for up to 60 days and can retrieve it at will.

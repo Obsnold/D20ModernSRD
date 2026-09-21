@@ -62,13 +62,10 @@ character’s Wealth bonus decreases.
 
 A newly created 1st-level character’s Wealth bonus is +0 plus:
 
-• Wealth provided by the character’s starting occupation.
-
-• Bonus from the Windfall feat, if taken.
-
-• 2d4 die roll.
-
-• +1 for having 1 to 4 ranks in the Profession skill.
+ - Wealth provided by the character’s starting occupation.
+ - Bonus from the Windfall feat, if taken.
+ - 2d4 die roll.
+ - +1 for having 1 to 4 ranks in the Profession skill.
 
 ## Shopping and Time
 
@@ -111,12 +108,12 @@ Wealth bonus is reduced depends on how expensive the object is.
 
 | Object or Service Purchase DC | Wealth Bonus Decrease |
 |---|---|
-| 15 or higher | +1 point\*\*<sup>1</sup>\*\* |
+| 15 or higher | +1 point¹ |
 | 1–10 points higher than current Wealth bonus | 1 point |
 | 11–15 points higher than current Wealth bonus | 1d6 points |
 | 16 or more points higher than current Wealth Bonus. | 2d6 points |
 
-1 This stacks with the loss from a Purchase DC above the character’s current wealth bonus.
+¹ This stacks with the loss from a Purchase DC above the character’s current wealth bonus.
 
 Along with this loss, any time a character buys an object or service
 with a purchase DC of 15 or higher, the character reduces his or her

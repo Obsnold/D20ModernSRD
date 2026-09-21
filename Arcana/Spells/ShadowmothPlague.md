@@ -1,17 +1,17 @@
 # Shadowmoth Plague
 
-| Stat             | Value                                                           |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                                     |
-| Subschool        | Summoning                                                       |
-| Level            | Divine 3                                                        |
-| Components       | V, S, DF                                                        |
-| Casting Time     | Fullround action                                                |
-| Range            | Long (400 ft. + 40 ft./level)                                   |
-| Effect           | 5- ft.-high cloud of shadowmoths filling a 10-ft.-radius spread |
-| Duration         | 1 minute/level                                                  |
-| Saving Throw     | None                                                            |
-| Spell Resistance | No                                                              |
+| School | Conjuration |
+| Subschool | Summoning |
+| Level | Divine 3 |
+| Components | V, S, DF |
+| Casting Time | Fullround action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Effect | 5- ft.-high cloud of shadowmoths filling a 10-ft.-radius spread |
+| Duration | 1 minute/level |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You summon a number of shadowmoth swarms, each of which attacks any
 creature occupying its square. Each square of the spell’s effect is

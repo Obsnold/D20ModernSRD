@@ -141,8 +141,8 @@ other language), Speak English (or other language), Spot +3\*\*.
 Weapons Proficiency, Trustworthy.
 
 **Possessions:** Business clothes, cell phone, PDA, briefcase, stun gun,
-Beretta 92F (9mm autoloader)<sup>†</sup>, 15 rounds of 9mm ammunition<sup>†</sup>,
-firearms license<sup>†</sup>, wallet with ID and credit cards, BMW M3
+Beretta 92F (9mm autoloader)†, 15 rounds of 9mm ammunition†,
+firearms license†, wallet with ID and credit cards, BMW M3
 sports coupe with car alarm, car alarm keychain.
 
-<sup>†</sup>These items are stored in the BMW’s glove compartment.
+†These items are stored in the BMW’s glove compartment.

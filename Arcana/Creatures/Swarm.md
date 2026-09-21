@@ -104,38 +104,38 @@ at all.
 
 ## Monstrous Spider Swarm
 
-| Stat              | Value                                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                                   |
-| Size/Type         | Medium vermin (swarm of Tiny vermin)                                                |
-| HD                | 4d8                                                                                 |
-| hp                | 18                                                                                  |
-| Mas               | 10                                                                                  |
-| Init              | +3                                                                                  |
-| Spd               | 20 ft., climb 10 ft.                                                                |
-| Defense           | 13                                                                                  |
-| Touch             | 13                                                                                  |
-| Flat-Footed       | 10                                                                                  |
-| Defense Breakdown | +3 Dex                                                                              |
-| BAB               | +3                                                                                  |
-| Grap              | —                                                                                   |
-| Atk               | swarm (1d6 plus poison, swarm)                                                      |
-| Full Atk          | swarm (1d6 plus poison, swarm)                                                      |
-| FS                | 5 ft. by 5 ft.                                                                      |
-| Reach             | 0 ft.                                                                               |
-| SQ                | swarm, vermin, distraction, poison, resistance to massive damage, darkvision 60 ft. |
-| AL                | none                                                                                |
-| Fort              | +4                                                                                  |
-| Ref               | +4                                                                                  |
-| Will              | +1                                                                                  |
-| AP                | 0                                                                                   |
-| Rep               | +0                                                                                  |
-| Str               | 1                                                                                   |
-| Dex               | 16                                                                                  |
-| Con               | 10                                                                                  |
-| Int               | —                                                                                   |
-| Wis               | 10                                                                                  |
-| Cha               | 2                                                                                   |
+| CR | 2 |
+| Size/Type | Medium vermin (swarm of Tiny vermin) |
+| HD | 4d8 |
+| hp | 18 |
+| Mas | 10 |
+| Init | +3 |
+| Spd | 20 ft., climb 10 ft. |
+| Defense | 13 |
+| Touch | 13 |
+| Flat-Footed | 10 |
+| Defense Breakdown | +3 Dex |
+| BAB | +3 |
+| Grap | — |
+| Atk | swarm (1d6 plus poison, swarm) |
+| Full Atk | swarm (1d6 plus poison, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, vermin, distraction, poison, resistance to massive damage, darkvision 60 ft. |
+| AL | none |
+| Fort | +4 |
+| Ref | +4 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 16 |
+| Con | 10 |
+| Int | — |
+| Wis | 10 |
+| Cha | 2 |
 
 **Skills**: Climb +3, Move Silently +8, Spot +5.
 
@@ -155,29 +155,29 @@ color and detail under these conditions.
 
 ## Piranha Swarm
 
-| Stat              | Value                                           |
+| Stat | Value |
 |---|---|
-| CR                | 3                                               |
-| Size/Type         | Medium animal (swarm of Diminutive animals)     |
-| HD                | 6d8+6                                           |
-| hp                | 33                                              |
-| Mas               | 12                                              |
-| Init              | +3                                              |
-| Spd               | swim 30 ft.                                     |
-| Defense           | 14                                              |
-| Touch             | 13                                              |
-| Flat-Footed       | 11                                              |
-| Defense Breakdown | +3 Dex, +1 natural                              |
-| BAB               | +4                                              |
-| Grap              | —                                               |
-| Atk               | swarm (2d6, swarm), Full Atk swarm (2d6, swarm) |
-| FS                | 5 ft. by 5 ft.                                  |
-| Reach             | 0 ft.                                           |
-| SQ                | swarm, aquatic, distraction, low-light vision   |
-| AL                | none                                            |
-| Fort              | +6                                              |
-| Ref               | +8                                              |
-| Will              | +2                                              |
+| CR | 3 |
+| Size/Type | Medium animal (swarm of Diminutive animals) |
+| HD | 6d8+6 |
+| hp | 33 |
+| Mas | 12 |
+| Init | +3 |
+| Spd | swim 30 ft. |
+| Defense | 14 |
+| Touch | 13 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +3 Dex, +1 natural |
+| BAB | +4 |
+| Grap | — |
+| Atk | swarm (2d6, swarm), Full Atk swarm (2d6, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, aquatic, distraction, low-light vision |
+| AL | none |
+| Fort | +6 |
+| Ref | +8 |
+| Will | +2 |
 
 AP 0; Rep +0; Str 1, Dex 17, Con 12, Int 1, Wis 10, Cha 1.
 
@@ -208,37 +208,37 @@ light at all.
 
 ## Sentient Killer Bee Swarm
 
-| Stat              | Value                                                                                  |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                                                      |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                                   |
-| HD                | 5d8                                                                                    |
-| hp                | 22                                                                                     |
-| Mas               | 10                                                                                     |
-| Init              | +5                                                                                     |
-| Spd               | fly 20 ft. (perfect)                                                                   |
-| Defense           | 15                                                                                     |
-| Touch             | 15                                                                                     |
-| Flat-Footed       | 10                                                                                     |
-| Defense Breakdown | +5 Dex                                                                                 |
-| BAB               | +3                                                                                     |
-| Grap              | —                                                                                      |
-| Atk               | swarm (3d6 plus poison, swarm)                                                         |
-| Full Atk          | swarm (3d6 plus poison, swarm)                                                         |
-| FS                | 5 ft. by 5 ft.                                                                         |
-| Reach             | 0 ft.                                                                                  |
-| SQ                | swarm, sentience, distraction, poison, resistance to massive damage, darkvision 60 ft. |
-| Fort              | +4                                                                                     |
-| Ref               | +6                                                                                     |
-| Will              | +2                                                                                     |
-| AP                | 0                                                                                      |
-| Rep               | +0                                                                                     |
-| Str               | 1                                                                                      |
-| Dex               | 20                                                                                     |
-| Con               | 10                                                                                     |
-| Int               | 10 (— when dispersed)                                                                  |
-| Wis               | 12                                                                                     |
-| Cha               | 2                                                                                      |
+| CR | 5 |
+| Size/Type | Medium vermin (swarm of Fine vermin) |
+| HD | 5d8 |
+| hp | 22 |
+| Mas | 10 |
+| Init | +5 |
+| Spd | fly 20 ft. (perfect) |
+| Defense | 15 |
+| Touch | 15 |
+| Flat-Footed | 10 |
+| Defense Breakdown | +5 Dex |
+| BAB | +3 |
+| Grap | — |
+| Atk | swarm (3d6 plus poison, swarm) |
+| Full Atk | swarm (3d6 plus poison, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, sentience, distraction, poison, resistance to massive damage, darkvision 60 ft. |
+| Fort | +4 |
+| Ref | +6 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 20 |
+| Con | 10 |
+| Int | 10 (— when dispersed) |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills**: Hide +7, Intimidate +4, Listen +7, Move
 Silently +7, Spot +7.
@@ -263,38 +263,38 @@ light at all.
 
 ## Shadowmoth Swarm
 
-| Stat              | Value                                                                       |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                                           |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                        |
-| HD                | 2d8                                                                         |
-| hp                | 9                                                                           |
-| Mas               | 10                                                                          |
-| Init              | +5                                                                          |
-| Spd               | 10 ft., fly 30 ft. (perfect)                                                |
-| Defense           | 15                                                                          |
-| Touch             | 15                                                                          |
-| Flat-Footed       | 10                                                                          |
-| Defense Breakdown | +5 Dex                                                                      |
-| BAB               | +1                                                                          |
-| Grap              | —                                                                           |
-| Atk               | swarm (1d6, swarm)                                                          |
-| Full Atk          | swarm (1d6, swarm)                                                          |
-| FS                | 5 ft. by 5 ft.                                                              |
-| Reach             | 0 ft.                                                                       |
-| SQ                | swarm, vermin, distraction, resistance to massive damage, darkvision 60 ft. |
-| AL                | none                                                                        |
-| Fort              | +3                                                                          |
-| Ref               | +8                                                                          |
-| Will              | +0                                                                          |
-| AP                | 0                                                                           |
-| Rep               | +0                                                                          |
-| Str               | 1                                                                           |
-| Dex               | 20                                                                          |
-| Con               | 10                                                                          |
-| Int               | 1                                                                           |
-| Wis               | 10                                                                          |
-| Cha               | 2                                                                           |
+| CR | 1 |
+| Size/Type | Medium vermin (swarm of Fine vermin) |
+| HD | 2d8 |
+| hp | 9 |
+| Mas | 10 |
+| Init | +5 |
+| Spd | 10 ft., fly 30 ft. (perfect) |
+| Defense | 15 |
+| Touch | 15 |
+| Flat-Footed | 10 |
+| Defense Breakdown | +5 Dex |
+| BAB | +1 |
+| Grap | — |
+| Atk | swarm (1d6, swarm) |
+| Full Atk | swarm (1d6, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, vermin, distraction, resistance to massive damage, darkvision 60 ft. |
+| AL | none |
+| Fort | +3 |
+| Ref | +8 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 20 |
+| Con | 10 |
+| Int | 1 |
+| Wis | 10 |
+| Cha | 2 |
 
 **Skills**: Listen +5, Spot +5.
 
@@ -325,38 +325,38 @@ light at all.
 
 ## Skeletal Rat Swarm
 
-| Stat              | Value                                                     |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                         |
-| Size/Type         | Medium undead (swarm of Fine undead)                      |
-| HD                | 3d12                                                      |
-| hp                | 19                                                        |
-| Mas               | —                                                         |
-| Init              | +1                                                        |
-| Spd               | 20 ft.                                                    |
-| Defense           | 13                                                        |
-| Touch             | 11                                                        |
-| Flat-Footed       | 12                                                        |
-| Defense Breakdown | +1 Dex, +2 natural                                        |
-| BAB               | +1                                                        |
-| Grap              | —                                                         |
-| Atk               | swarm (2d4, swarm)                                        |
-| Full Atk          | swarm (2d4, swarm)                                        |
-| FS                | 5 ft. by 5 ft.                                            |
-| Reach             | 0 ft.                                                     |
-| SQ                | swarm, undead, immunities, distraction, darkvision 60 ft. |
-| AL                | none                                                      |
-| Fort              | +1                                                        |
-| Ref               | +2                                                        |
-| Will              | +3                                                        |
-| AP                | 0                                                         |
-| Rep               | +0                                                        |
-| Str               | 3                                                         |
-| Dex               | 12                                                        |
-| Con               | —                                                         |
-| Int               | —                                                         |
-| Wis               | 10                                                        |
-| Cha               | 1                                                         |
+| CR | 2 |
+| Size/Type | Medium undead (swarm of Fine undead) |
+| HD | 3d12 |
+| hp | 19 |
+| Mas | — |
+| Init | +1 |
+| Spd | 20 ft. |
+| Defense | 13 |
+| Touch | 11 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +1 Dex, +2 natural |
+| BAB | +1 |
+| Grap | — |
+| Atk | swarm (2d4, swarm) |
+| Full Atk | swarm (2d4, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, undead, immunities, distraction, darkvision 60 ft. |
+| AL | none |
+| Fort | +1 |
+| Ref | +2 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 3 |
+| Dex | 12 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** None.
 
@@ -388,37 +388,37 @@ light at all.
 
 ## West Nile Mosquito Swarm
 
-| Stat              | Value                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                                                    |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                                 |
-| HD                | 1d8                                                                                  |
-| hp                | 4                                                                                    |
-| Mas               | 10                                                                                   |
-| Init              | +4                                                                                   |
-| Spd               | fly 20 ft. (perfect)                                                                 |
-| Defense           | 14                                                                                   |
-| Touch             | 14                                                                                   |
-| Flat-Footed       | 10                                                                                   |
-| Defense Breakdown | +4 Dex                                                                               |
-| BAB               | +0                                                                                   |
-| Grap              | —                                                                                    |
-| Atk               | swarm (1d4 plus disease, swarm)                                                      |
-| Full Atk          | swarm (1d4 plus disease, swarm)                                                      |
-| FS                | 5 ft. by 5 ft.                                                                       |
-| Reach             | 0 ft.                                                                                |
-| SQ                | swarm, vermin, distraction, disease, resistance to massive damage, darkvision 60 ft. |
-| Fort              | +2                                                                                   |
-| Ref               | +4                                                                                   |
-| Will              | +1                                                                                   |
-| AP                | 0                                                                                    |
-| Rep               | +0                                                                                   |
-| Str               | 1                                                                                    |
-| Dex               | 18                                                                                   |
-| Con               | 10                                                                                   |
-| Int               | —                                                                                    |
-| Wis               | 12                                                                                   |
-| Cha               | 2                                                                                    |
+| CR | 1 |
+| Size/Type | Medium vermin (swarm of Fine vermin) |
+| HD | 1d8 |
+| hp | 4 |
+| Mas | 10 |
+| Init | +4 |
+| Spd | fly 20 ft. (perfect) |
+| Defense | 14 |
+| Touch | 14 |
+| Flat-Footed | 10 |
+| Defense Breakdown | +4 Dex |
+| BAB | +0 |
+| Grap | — |
+| Atk | swarm (1d4 plus disease, swarm) |
+| Full Atk | swarm (1d4 plus disease, swarm) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 0 ft. |
+| SQ | swarm, vermin, distraction, disease, resistance to massive damage, darkvision 60 ft. |
+| Fort | +2 |
+| Ref | +4 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 18 |
+| Con | 10 |
+| Int | — |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills**: Listen +6, Spot +6.
 

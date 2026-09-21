@@ -14,11 +14,11 @@ as shown on the table below:
 | Item’s Nature | FX Modifier |
 |---|---|
 | Single-use item | — |
-| Continuous effect or bonus <sup>1</sup> | +3 |
+| Continuous effect or bonus ¹ | +3 |
 | Limited number of uses per day | +2 |
 | Limited number of charges | +1 |
 
-1 See Limit on FX Items Worn. A continuous effect item that does not take up one of these limited spaces has a +4 FX modifier (instead of +3).
+¹ See Limit on FX Items Worn. A continuous effect item that does not take up one of these limited spaces has a +4 FX modifier (instead of +3).
 
 Examples of wondrous items include the following.
 

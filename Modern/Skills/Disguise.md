@@ -28,9 +28,9 @@ much the character is attempting to change his or her appearance.
 | Minor details only | +5 |
 | Appropriate uniform or costume | +2 |
 | Disguised as different sex | –2 |
-| Disguised as different age category | –2 <sup>1</sup> |
+| Disguised as different age category | –2 ¹ |
 
-1 Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).
+¹ Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).
 
 If the character is impersonating a particular individual, those who
 know what that person looks like automatically get to make Spot checks.

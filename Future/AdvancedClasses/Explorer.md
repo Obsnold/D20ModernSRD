@@ -47,18 +47,18 @@ nonhumans).
 
 **Table: The Explorer**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st         | +0                | +1        | +1       | +1        | Explorer lore, survivalist  | +1            | +0               |
-| 2nd         | +1                | +2        | +2       | +2        | Resolve, skilled searcher   | +1            | +0               |
-| 3rd         | +2                | +2        | +2       | +2        | Bonus feat                  | +2            | +1               |
-| 4th         | +3                | +2        | +2       | +2        | Trap sense (+1)             | +2            | +1               |
-| 5th         | +3                | +3        | +3       | +3        | Extra step                  | +3            | +1               |
-| 6th         | +4                | +3        | +3       | +3        | Bonus feat                  | +3            | +2               |
-| 7th         | +5                | +4        | +4       | +4        | Trap sense (+2)             | +4            | +2               |
-| 8th         | +6                | +4        | +4       | +4        | Explorer’s evasion          | +4            | +2               |
-| 9th         | +6                | +4        | +4       | +4        | Bonus feat                  | +5            | +3               |
-| 10th        | +7                | +5        | +5       | +5        | Extra step, trap sense (+3) | +5            | +3               |
+| 1st | +0 | +1 | +1 | +1 | Explorer lore, survivalist | +1 | +0 |
+| 2nd | +1 | +2 | +2 | +2 | Resolve, skilled searcher | +1 | +0 |
+| 3rd | +2 | +2 | +2 | +2 | Bonus feat | +2 | +1 |
+| 4th | +3 | +2 | +2 | +2 | Trap sense (+1) | +2 | +1 |
+| 5th | +3 | +3 | +3 | +3 | Extra step | +3 | +1 |
+| 6th | +4 | +3 | +3 | +3 | Bonus feat | +3 | +2 |
+| 7th | +5 | +4 | +4 | +4 | Trap sense (+2) | +4 | +2 |
+| 8th | +6 | +4 | +4 | +4 | Explorer’s evasion | +4 | +2 |
+| 9th | +6 | +4 | +4 | +4 | Bonus feat | +5 | +3 |
+| 10th | +7 | +5 | +5 | +5 | Extra step, trap sense (+3) | +5 | +3 |
 
 ## Class Features
 
@@ -80,11 +80,11 @@ not take 10 or take 20 on this check.
 
 **Table: Explorer Lore**
 
-| DC | Type of Knowledge                                                                                                                                                  | Examples                                                                                                                                                                       |
+| DC | Type of Knowledge | Examples |
 |---|---|---|
-| 10 | Common, known by at least a substantial minority of the local population.                                                                                          | A local official’s hobbies and interests; common legends or rumors about a powerful place of mystery.                                                                          |
-| 20 | Uncommon but available, known by only a few people in the area.                                                                                                    | The coordinates of an known but uncharted world; legends or rumors about a powerful psionic artifact.                                                                          |
-| 25 | Obscure, known by few, hard to come by.                                                                                                                            | The customs of a documented alien species; the true homeworld of an ancient royal dynasty.                                                                                     |
+| 10 | Common, known by at least a substantial minority of the local population. | A local official’s hobbies and interests; common legends or rumors about a powerful place of mystery. |
+| 20 | Uncommon but available, known by only a few people in the area. | The coordinates of an known but uncharted world; legends or rumors about a powerful psionic artifact. |
+| 25 | Obscure, known by few, hard to come by. | The customs of a documented alien species; the true homeworld of an ancient royal dynasty. |
 | 30 | Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don’t understand the knowledge’s significance. | The most likely location of a long-lost pharaoh’s tomb; the history of a powerful artifact and its creator; the likely coordinates of a fabled but as-yet-undiscovered planet. |
 
 **Survivalist**

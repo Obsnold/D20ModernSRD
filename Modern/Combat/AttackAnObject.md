@@ -74,7 +74,7 @@ Object Hardness and Hit Points).
 | High quality | 5 | 10 | 20 |
 | High security | 10 | 120 | 35 |
 | Ultrahigh security | 20 | 150 | 40 |
-| **Manufactured objects<sup>1</sup>** | | | |
+| **Manufactured objects¹** | | | |
 | Fine | 0 | 1 | 10 |
 | Diminutive | 0 | 1 | 10 |
 | Tiny | 1 | 2 | 10 |

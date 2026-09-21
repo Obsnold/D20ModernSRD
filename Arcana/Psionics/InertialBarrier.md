@@ -1,17 +1,17 @@
 # Inertial Barrier
 
-| Stat               | Value                                |
+| Stat | Value |
 |---|---|
-| Key Ability        | Constitution                         |
-| Level              | Telepath 4                           |
-| Display            | Audible, Mental                      |
-| Manifestation Time | Attack action                        |
-| Range              | Touch                                |
-| Target             | Creature touched                     |
-| Duration           | 10 minutes/level or until discharged |
-| Saving Throw       | Will negates (harmless)              |
-| Power Resistance   | Yes (harmless)                       |
-| Power Point Cost   | 7                                    |
+| Key Ability | Constitution |
+| Level | Telepath 4 |
+| Display | Audible, Mental |
+| Manifestation Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | 10 minutes/level or until discharged |
+| Saving Throw | Will negates (harmless) |
+| Power Resistance | Yes (harmless) |
+| Power Point Cost | 7 |
 
 You create a psychokinetic barrier around the subject that resists
 blows, cuts, stabs, and slashes, as well as providing some protection

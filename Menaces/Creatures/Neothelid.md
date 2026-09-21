@@ -55,39 +55,39 @@ out. A Gargantuan neothelid’s gizzard can hold 2 Large, 8 Medium-size,
 
 ## Neothelid
 
-| Stat              | Value                                                                                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 18                                                                                                                               |
-| Size              | Gargantuan                                                                                                                       |
-| Type              | aberration                                                                                                                       |
-| HD                | 25d8+200                                                                                                                         |
-| hp                | 312                                                                                                                              |
-| Mas               | 27                                                                                                                               |
-| Init              | +2                                                                                                                               |
-| Spd               | 20 ft.                                                                                                                           |
-| Defense           | 19                                                                                                                               |
-| Touch             | 4                                                                                                                                |
-| Flat-Footed       | 19                                                                                                                               |
-| Defense Breakdown | –4 size, –2 Dex, +15 natural                                                                                                     |
-| BAB               | +18                                                                                                                              |
-| Grap              | +40                                                                                                                              |
-| Atk               | +25 melee (2d6+10, tentacle rake)                                                                                                |
-| Full Atk          | +25 melee (2d6+10, 4 tentacle rakes)                                                                                             |
-| FS                | 20 ft. by 20 ft. (coiled)                                                                                                        |
-| Reach             | 20 ft.                                                                                                                           |
-| SQ                | blindsight 500 ft., breath weapon (DC 30), damage reduction 15/+2, improved grab, power resistance 25, *psionics,* swallow whole |
-| AL                | evil                                                                                                                             |
-| Fort              | +16                                                                                                                              |
-| Ref               | +6                                                                                                                               |
-| Will              | +16                                                                                                                              |
-| AP                | 0                                                                                                                                |
-| Rep               | +0                                                                                                                               |
-| Str               | 30                                                                                                                               |
-| Dex               | 7                                                                                                                                |
-| Con               | 27                                                                                                                               |
-| Int               | 16                                                                                                                               |
-| Wis               | 15                                                                                                                               |
-| Cha               | 9                                                                                                                                |
+| CR | 18 |
+| Size | Gargantuan |
+| Type | aberration |
+| HD | 25d8+200 |
+| hp | 312 |
+| Mas | 27 |
+| Init | +2 |
+| Spd | 20 ft. |
+| Defense | 19 |
+| Touch | 4 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –4 size, –2 Dex, +15 natural |
+| BAB | +18 |
+| Grap | +40 |
+| Atk | +25 melee (2d6+10, tentacle rake) |
+| Full Atk | +25 melee (2d6+10, 4 tentacle rakes) |
+| FS | 20 ft. by 20 ft. (coiled) |
+| Reach | 20 ft. |
+| SQ | blindsight 500 ft., breath weapon (DC 30), damage reduction 15/+2, improved grab, power resistance 25, *psionics,* swallow whole |
+| AL | evil |
+| Fort | +16 |
+| Ref | +6 |
+| Will | +16 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 30 |
+| Dex | 7 |
+| Con | 27 |
+| Int | 16 |
+| Wis | 15 |
+| Cha | 9 |
 
 **Skills:** Climb +38, Listen +30, Swim +35.
 

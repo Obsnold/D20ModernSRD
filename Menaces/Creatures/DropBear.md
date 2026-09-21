@@ -18,39 +18,39 @@ it can make a full attack even if it has already taken a move action.
 
 ## Drop Bear
 
-| Stat              | Value                                                |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                    |
-| Size              | Medium-size                                          |
-| Type              | animal                                               |
-| HD                | 2d8+4                                                |
-| hp                | 13                                                   |
-| Mas               | 14                                                   |
-| Init              | +2                                                   |
-| Spd               | 30 ft., climb 20 ft.                                 |
-| Defense           | 14                                                   |
-| Touch             | 12                                                   |
-| Flat-Footed       | 12                                                   |
-| Defense Breakdown | +2 Dex, +2 natural                                   |
-| BAB               | +1                                                   |
-| Grap              | +4                                                   |
-| Atk               | +4 melee (1d6+4, bite)                               |
-| Full Atk          | +4 melee (1d6+4, bite) and –1 melee (1d4+2, 2 claws) |
-| FS                | 5 ft. by 5 ft.                                       |
-| Reach             | 5 ft.                                                |
-| SQ                | low-light vision, scent, stealthy pounce             |
-| AL                | none                                                 |
-| Fort              | +5                                                   |
-| Ref               | +5                                                   |
-| Will              | +1                                                   |
-| AP                | 0                                                    |
-| Rep               | +0                                                   |
-| Str               | 16                                                   |
-| Dex               | 14                                                   |
-| Con               | 14                                                   |
-| Int               | 3                                                    |
-| Wis               | 13                                                   |
-| Cha               | 6                                                    |
+| CR | 1 |
+| Size | Medium-size |
+| Type | animal |
+| HD | 2d8+4 |
+| hp | 13 |
+| Mas | 14 |
+| Init | +2 |
+| Spd | 30 ft., climb 20 ft. |
+| Defense | 14 |
+| Touch | 12 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 Dex, +2 natural |
+| BAB | +1 |
+| Grap | +4 |
+| Atk | +4 melee (1d6+4, bite) |
+| Full Atk | +4 melee (1d6+4, bite) and –1 melee (1d4+2, 2 claws) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | low-light vision, scent, stealthy pounce |
+| AL | none |
+| Fort | +5 |
+| Ref | +5 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 16 |
+| Dex | 14 |
+| Con | 14 |
+| Int | 3 |
+| Wis | 13 |
+| Cha | 6 |
 
 **Skills:** Balance +5, Climb +6, Hide +5, Move Silently +5, Spot +3.
 

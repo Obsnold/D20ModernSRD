@@ -1,17 +1,17 @@
 # Wire Walk
 
-| Stat             | Value                                                                                  |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                                                            |
-| Subschool        | Teleporting                                                                            |
-| Level            | Arcane 4                                                                               |
-| Components       | V                                                                                      |
-| Casting Time     | Attack action                                                                          |
-| Range            | Personal and touch                                                                     |
-| Target           | You and touched objects or other touched willing creatures weighing up to 25 lb./level |
-| Duration         | Instantaneous                                                                          |
-| Saving Throw     | None and Will negates (object)                                                         |
-| Spell Resistance | No and yes (object)                                                                    |
+| School | Conjuration |
+| Subschool | Teleporting |
+| Level | Arcane 4 |
+| Components | V |
+| Casting Time | Attack action |
+| Range | Personal and touch |
+| Target | You and touched objects or other touched willing creatures weighing up to 25 lb./level |
+| Duration | Instantaneous |
+| Saving Throw | None and Will negates (object) |
+| Spell Resistance | No and yes (object) |
 
 You and any other objects or creatures targeted by the spell teleport
 instantly to the location of a telephone you call. The telephone must be

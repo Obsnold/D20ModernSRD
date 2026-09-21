@@ -42,39 +42,39 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 
 ## Giant Anaconda
 
-| Stat              | Value                                                                     |
+| Stat | Value |
 |---|---|
-| CR                | 9                                                                         |
-| Size              | Huge                                                                      |
-| Type              | animal                                                                    |
-| HD                | 12d8+60                                                                   |
-| hp                | 114                                                                       |
-| Mas               | 21                                                                        |
-| Init              | +1                                                                        |
-| Spd               | 20 ft., climb 20 ft., swim 40 ft.                                         |
-| Defense           | 16                                                                        |
-| Touch             | 9                                                                         |
-| Flat-Footed       | 15                                                                        |
-| Defense Breakdown | –2 size, +1 Dex, +7 natural                                               |
-| BAB               | +9                                                                        |
-| Grap              | +28                                                                       |
-| Atk               | +18 melee (1d6+11, tail slap)                                             |
-| Full Atk          | +18 melee (1d6+11, tail slap) and +13 melee (2d6+5, bite)                 |
-| FS                | 15 ft. by 15 ft.                                                          |
-| Reach             | 10 ft                                                                     |
-| SQ                | constrict (1d6+16), improved grab, low-light vision, scent, swallow whole |
-| AL                | none                                                                      |
-| Fort              | +13                                                                       |
-| Ref               | +9                                                                        |
-| Will              | +5                                                                        |
-| AP                | 0                                                                         |
-| Rep               | +0                                                                        |
-| Str               | 32                                                                        |
-| Dex               | 13                                                                        |
-| Con               | 21                                                                        |
-| Int               | 1                                                                         |
-| Wis               | 12                                                                        |
-| Cha               | 2                                                                         |
+| CR | 9 |
+| Size | Huge |
+| Type | animal |
+| HD | 12d8+60 |
+| hp | 114 |
+| Mas | 21 |
+| Init | +1 |
+| Spd | 20 ft., climb 20 ft., swim 40 ft. |
+| Defense | 16 |
+| Touch | 9 |
+| Flat-Footed | 15 |
+| Defense Breakdown | –2 size, +1 Dex, +7 natural |
+| BAB | +9 |
+| Grap | +28 |
+| Atk | +18 melee (1d6+11, tail slap) |
+| Full Atk | +18 melee (1d6+11, tail slap) and +13 melee (2d6+5, bite) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft |
+| SQ | constrict (1d6+16), improved grab, low-light vision, scent, swallow whole |
+| AL | none |
+| Fort | +13 |
+| Ref | +9 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 32 |
+| Dex | 13 |
+| Con | 21 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +9, Climb +19, Hide +12, Listen +5, Spot +5, Swim
 +19.
@@ -85,39 +85,39 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 
 ## Advanced Giant Anaconda
 
-| Stat              | Value                                                                     |
+| Stat | Value |
 |---|---|
-| CR                | 15                                                                        |
-| Size              | Gargantuan                                                                |
-| Type              | animal                                                                    |
-| HD                | 30d8+210                                                                  |
-| hp                | 345                                                                       |
-| Mas               | 25                                                                        |
-| Init              | +1                                                                        |
-| Spd               | 20 ft., climb 20 ft., swim 40 ft.                                         |
-| Defense           | 18                                                                        |
-| Touch             | 7                                                                         |
-| Flat-Footed       | 17                                                                        |
-| Defense Breakdown | –4 size, +1 Dex, +11 natural                                              |
-| BAB               | +22                                                                       |
-| Grap              | +49                                                                       |
-| Atk               | +33 melee (1d8+15, tail slap)                                             |
-| Full Atk          | +33 melee (1d8+15, tail slap) and +28 melee (2d8+7, bite)                 |
-| FS                | 20 ft. by 20 ft.                                                          |
-| Reach             | 15 ft                                                                     |
-| SQ                | constrict (1d8+22), improved grab, low-light vision, scent, swallow whole |
-| AL                | none                                                                      |
-| Fort              | +24                                                                       |
-| Ref               | +18                                                                       |
-| Will              | +11                                                                       |
-| AP                | 0                                                                         |
-| Rep               | +0                                                                        |
-| Str               | 40                                                                        |
-| Dex               | 13                                                                        |
-| Con               | 25                                                                        |
-| Int               | 1                                                                         |
-| Wis               | 12                                                                        |
-| Cha               | 2                                                                         |
+| CR | 15 |
+| Size | Gargantuan |
+| Type | animal |
+| HD | 30d8+210 |
+| hp | 345 |
+| Mas | 25 |
+| Init | +1 |
+| Spd | 20 ft., climb 20 ft., swim 40 ft. |
+| Defense | 18 |
+| Touch | 7 |
+| Flat-Footed | 17 |
+| Defense Breakdown | –4 size, +1 Dex, +11 natural |
+| BAB | +22 |
+| Grap | +49 |
+| Atk | +33 melee (1d8+15, tail slap) |
+| Full Atk | +33 melee (1d8+15, tail slap) and +28 melee (2d8+7, bite) |
+| FS | 20 ft. by 20 ft. |
+| Reach | 15 ft |
+| SQ | constrict (1d8+22), improved grab, low-light vision, scent, swallow whole |
+| AL | none |
+| Fort | +24 |
+| Ref | +18 |
+| Will | +11 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 40 |
+| Dex | 13 |
+| Con | 25 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +9, Climb +23, Hide +8, Listen +5, Spot +5,
 

@@ -30,8 +30,8 @@ the character hearing nothing.
 | 0 | People talking |
 | 5 | A person in medium armor walking at a slow pace, trying not to make noise |
 | 10 | An unarmored person walking at a slow pace, trying not to make any noise |
-| 15 | A 1st-level Fast hero sneaking up on someone <sup>1</sup> |
-| 20 | A tiger stalking prey <sup>1</sup> |
+| 15 | A 1st-level Fast hero sneaking up on someone ¹ |
+| 20 | A tiger stalking prey ¹ |
 | 30 | A bird flying through the air |
 | +5 | Through a door |
 | +15 | Through a solid wall |

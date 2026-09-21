@@ -28,39 +28,39 @@ checks.
 
 ## Hoop Snake
 
-| Stat              | Value                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                     |
-| Size              | Medium-size                                           |
-| Type              | animal                                                |
-| HD                | 3d8+3                                                 |
-| hp                | 16                                                    |
-| Mas               | 13                                                    |
-| Init              | +5                                                    |
-| Spd               | 40 ft.                                                |
-| Defense           | 16                                                    |
-| Touch             | 14                                                    |
-| Flat-Footed       | 12                                                    |
-| Defense Breakdown | +4 Dex, +2 natural                                    |
-| BAB               | +2                                                    |
-| Grap              | +5                                                    |
-| Atk               | +5 melee (1d6+3 plus poison, bite)                    |
-| Full Atk          | +5 melee (1d6+3 plus poison, 2 bites)                 |
-| FS                | 5 ft. by 5 ft. (coiled)                               |
-| Reach             | 5 ft.                                                 |
-| SQ                | constrict 1d6+3, improved grab, poison (DC 12), scent |
-| AL                | none                                                  |
-| Fort              | +4                                                    |
-| Ref               | +8                                                    |
-| Will              | +2                                                    |
-| AP                | 0                                                     |
-| Rep               | +0                                                    |
-| Str               | 17                                                    |
-| Dex               | 20                                                    |
-| Con               | 13                                                    |
-| Int               | 2                                                     |
-| Wis               | 12                                                    |
-| Cha               | 2                                                     |
+| CR | 2 |
+| Size | Medium-size |
+| Type | animal |
+| HD | 3d8+3 |
+| hp | 16 |
+| Mas | 13 |
+| Init | +5 |
+| Spd | 40 ft. |
+| Defense | 16 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +4 Dex, +2 natural |
+| BAB | +2 |
+| Grap | +5 |
+| Atk | +5 melee (1d6+3 plus poison, bite) |
+| Full Atk | +5 melee (1d6+3 plus poison, 2 bites) |
+| FS | 5 ft. by 5 ft. (coiled) |
+| Reach | 5 ft. |
+| SQ | constrict 1d6+3, improved grab, poison (DC 12), scent |
+| AL | none |
+| Fort | +4 |
+| Ref | +8 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 20 |
+| Con | 13 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +7, Climb +8, Hide +8, Listen +4, Spot +4.
 
@@ -70,39 +70,39 @@ checks.
 
 ## Advanced Hoop Snake
 
-| Stat              | Value                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                     |
-| Size              | Large                                                 |
-| Type              | animal                                                |
-| HD                | 7d8+21                                                |
-| hp                | 52                                                    |
-| Mas               | 17                                                    |
-| Init              | +4                                                    |
-| Spd               | 40 ft.                                                |
-| Defense           | 17                                                    |
-| Touch             | 13                                                    |
-| Flat-Footed       | 13                                                    |
-| Defense Breakdown | –1 size, +4 Dex, +4 natural                           |
-| BAB               | +5                                                    |
-| Grap              | +16                                                   |
-| Atk               | +11 melee (1d8+7 plus poison, bite)                   |
-| Full Atk          | +11 melee (1d8+7 plus poison, 2 bites)                |
-| FS                | 10 ft. by 10 ft. (coiled)                             |
-| Reach             | 10 ft.                                                |
-| SQ                | constrict 1d6+7, improved grab, poison (DC 16), scent |
-| AL                | none                                                  |
-| Fort              | +8                                                    |
-| Ref               | +9                                                    |
-| Will              | +3                                                    |
-| AP                | 0                                                     |
-| Rep               | +0                                                    |
-| Str               | 25                                                    |
-| Dex               | 18                                                    |
-| Con               | 17                                                    |
-| Int               | 2                                                     |
-| Wis               | 12                                                    |
-| Cha               | 2                                                     |
+| CR | 4 |
+| Size | Large |
+| Type | animal |
+| HD | 7d8+21 |
+| hp | 52 |
+| Mas | 17 |
+| Init | +4 |
+| Spd | 40 ft. |
+| Defense | 17 |
+| Touch | 13 |
+| Flat-Footed | 13 |
+| Defense Breakdown | –1 size, +4 Dex, +4 natural |
+| BAB | +5 |
+| Grap | +16 |
+| Atk | +11 melee (1d8+7 plus poison, bite) |
+| Full Atk | +11 melee (1d8+7 plus poison, 2 bites) |
+| FS | 10 ft. by 10 ft. (coiled) |
+| Reach | 10 ft. |
+| SQ | constrict 1d6+7, improved grab, poison (DC 16), scent |
+| AL | none |
+| Fort | +8 |
+| Ref | +9 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 25 |
+| Dex | 18 |
+| Con | 17 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +6, Climb +12, Hide +3, Listen +4, Spot +4.
 

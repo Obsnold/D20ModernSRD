@@ -1,12 +1,12 @@
 # Seed: Foresee
 
-| Stat                       | Value                    |
+| Stat | Value |
 |---|---|
-| School                     | Divination               |
-| Knowledge (arcane lore) DC | 32                       |
-| Range                      | Personal                 |
-| Target                     | You                      |
-| Duration                   | Instantaneous (see text) |
+| School | Divination |
+| Knowledge (arcane lore) DC | 32 |
+| Range | Personal |
+| Target | You |
+| Duration | Instantaneous (see text) |
 
 You can foretell the immediate future, or gain information about
 specific questions.

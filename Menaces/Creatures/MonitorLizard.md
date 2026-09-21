@@ -18,39 +18,39 @@ checks improves to +8.
 
 ## Monitor Lizard
 
-| Stat              | Value                  |
+| Stat | Value |
 |---|---|
-| CR                | 3                      |
-| Size              | Medium-size            |
-| Type              | animal                 |
-| HD                | 3d8+9                  |
-| hp                | 22                     |
-| Mas               | 17                     |
-| Init              | +2                     |
-| Spd               | 30 ft., swim 30 ft.    |
-| Defense           | 15                     |
-| Touch             | 12                     |
-| Flat-Footed       | 13                     |
-| Defense Breakdown | +2 Dex, +3 natural     |
-| BAB               | +2                     |
-| Grap              | +5                     |
-| Atk               | +5 melee (1d8+4, bite) |
-| Full Atk          | +5 melee (1d8+4, bite) |
-| FS                | 5 ft. by 5 ft.         |
-| Reach             | 5 ft.                  |
-| SQ                | Poison, poison spray   |
-| AL                | none                   |
-| Fort              | +6                     |
-| Ref               | +5                     |
-| Will              | +2                     |
-| AP                | 0                      |
-| Rep               | +0                     |
-| Str               | 17                     |
-| Dex               | 15                     |
-| Con               | 17                     |
-| Int               | 2                      |
-| Wis               | 13                     |
-| Cha               | 2                      |
+| CR | 3 |
+| Size | Medium-size |
+| Type | animal |
+| HD | 3d8+9 |
+| hp | 22 |
+| Mas | 17 |
+| Init | +2 |
+| Spd | 30 ft., swim 30 ft. |
+| Defense | 15 |
+| Touch | 12 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +2 Dex, +3 natural |
+| BAB | +2 |
+| Grap | +5 |
+| Atk | +5 melee (1d8+4, bite) |
+| Full Atk | +5 melee (1d8+4, bite) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | Poison, poison spray |
+| AL | none |
+| Fort | +6 |
+| Ref | +5 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 15 |
+| Con | 17 |
+| Int | 2 |
+| Wis | 13 |
+| Cha | 2 |
 
 **Skills:** Climb +9, Hide +7 (+11 in overgrown or forested areas),
 Listen +4, Move Silently +6, Spot +4.

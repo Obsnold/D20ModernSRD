@@ -1,15 +1,15 @@
 # Fate of One
 
-| Stat               | Value          |
+| Stat | Value |
 |---|---|
-| Key Ability        | Wisdom         |
-| Level              | Telepath 4     |
-| Display            | Mental, Visual |
-| Manifestation Time | See text       |
-| Range              | Personal       |
-| Target             | You            |
-| Duration           | Instantaneous  |
-| Power Point Cost   | 7              |
+| Key Ability | Wisdom |
+| Level | Telepath 4 |
+| Display | Mental, Visual |
+| Manifestation Time | See text |
+| Range | Personal |
+| Target | You |
+| Duration | Instantaneous |
+| Power Point Cost | 7 |
 
 Your limited omniscience allows you to reroll a saving throw, attack
 roll, or skill check, and use the better of the two rolls for your

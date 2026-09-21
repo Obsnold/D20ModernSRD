@@ -33,9 +33,9 @@ penalty on the attack roll when firing at an adjacent target.
 | Beretta M3P (12-gauge shotgun) | 2d8 | 20 | Ballistic | 30 ft. | S | 5 box | Large | 9 lb. | 16 | Lic (+1) |
 | Browning BPS (10-gauge shotgun) | 2d10 | 20 | Ballistic | 30 ft. | Single | 5 int. | Large | 11 lb. | 16 | Lic (+1) |
 | HK G3 (7.62mm assault rifle) | 2d10 | 20 | Ballistic | 90 ft. | S, A | 20 box | Large | 11 lb. | 19 | Res (+2) |
-| HK MP5<sup>1</sup>(9mm submachine gun) | 2d6 | 20 | Ballistic | 50 ft. | S, A | 30 box | Large | 7 lb. | 20 | Res (+2) |
+| HK MP5¹(9mm submachine gun) | 2d6 | 20 | Ballistic | 50 ft. | S, A | 30 box | Large | 7 lb. | 20 | Res (+2) |
 | HK MP5K (9mm submachine gun) | 2d6 | 20 | Ballistic | 40 ft. | S, A | 15 box | Med | 5 lb. | 19 | Res (+2) |
-| HK PSG1<sup>1</sup>(7.62mm sniper rifle) | 2d10 | 20 | Ballistic | 90 ft. | S | 5 box | Large | 16 lb. | 22 | Lic (+1) |
+| HK PSG1¹(7.62mm sniper rifle) | 2d10 | 20 | Ballistic | 90 ft. | S | 5 box | Large | 16 lb. | 22 | Lic (+1) |
 | M16A2 (5.56mm assault rifle) | 2d8 | 20 | Ballistic | 80 ft. | S, A | 30 box | Large | 8 lb. | 16 | Res (+2) |
 | M4 Carbine (5.56mm assault rifle) | 2d8 | 20 | Ballistic | 60 ft. | S, A | 30 box | Large | 7 lb. | 16 | Res (+2) |
 | M-60 (medium machine gun) | 2d10 | 20 | Ballistic | 100 ft. | A | Linked | Huge | 22 lb. | 21 | Mil (+3) |

@@ -51,39 +51,39 @@ Magical Heritage.
 
 ## Gnome
 
-| Stat              | Value                                                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 1/2                                                                                                                                      |
-| Size              | Small                                                                                                                                    |
-| Type              | humanoid (Shadowkind)                                                                                                                    |
-| HD                | 1d8+1                                                                                                                                    |
-| hp                | 5                                                                                                                                        |
-| Mas               | 12                                                                                                                                       |
-| Init              | +0                                                                                                                                       |
-| Spd               | 20 ft.                                                                                                                                   |
-| Defense           | 11                                                                                                                                       |
-| Touch             | 11                                                                                                                                       |
-| Flat-Footed       | 11                                                                                                                                       |
-| Defense Breakdown | +1 size                                                                                                                                  |
-| BAB               | +0                                                                                                                                       |
-| Grap              | –5                                                                                                                                       |
-| Atk               | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d3 electricity plus paralysis, stun gun) or +1 ranged (blindness, pepper spray) |
-| Full Atk          | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d3 electricity plus stun, stun gun) or +1 ranged (blindness, pepper spray)      |
-| FS                | 5 ft. by 5 ft.                                                                                                                           |
-| Reach             | 5 ft.                                                                                                                                    |
-| SQ                | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision                                                   |
-| AL                | varies                                                                                                                                   |
-| Fort              | +1                                                                                                                                       |
-| Ref               | +2                                                                                                                                       |
-| Will              | +0                                                                                                                                       |
-| AP                | 0                                                                                                                                        |
-| Rep               | +0                                                                                                                                       |
-| Str               | 8                                                                                                                                        |
-| Dex               | 11                                                                                                                                       |
-| Con               | 12                                                                                                                                       |
-| Int               | 11                                                                                                                                       |
-| Wis               | 10                                                                                                                                       |
-| Cha               | 11                                                                                                                                       |
+| CR | 1/2 |
+| Size | Small |
+| Type | humanoid (Shadowkind) |
+| HD | 1d8+1 |
+| hp | 5 |
+| Mas | 12 |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 11 |
+| Touch | 11 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 size |
+| BAB | +0 |
+| Grap | –5 |
+| Atk | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d3 electricity plus paralysis, stun gun) or +1 ranged (blindness, pepper spray) |
+| Full Atk | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d3 electricity plus stun, stun gun) or +1 ranged (blindness, pepper spray) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision |
+| AL | varies |
+| Fort | +1 |
+| Ref | +2 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 8 |
+| Dex | 11 |
+| Con | 12 |
+| Int | 11 |
+| Wis | 10 |
+| Cha | 11 |
 
 **Skills:** Computer Use +1, Craft (pharmaceutical) +3,
 Hide +4, Knowledge (technology) +1, Listen +3, Read/Write Gnome, Speak
@@ -102,39 +102,39 @@ casual clothes, cell phone, PDA.
 
 ## Gnome Smart Hero 3/Shadowjack 3
 
-| Stat              | Value                                                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 6                                                                                                                                        |
-| Size              | Small                                                                                                                                    |
-| Type              | humanoid (Shadowkind)                                                                                                                    |
-| HD                | 3d6+6 plus 3d6+6                                                                                                                         |
-| hp                | 38                                                                                                                                       |
-| Mas               | 12                                                                                                                                       |
-| Init              | +0                                                                                                                                       |
-| Spd               | 20 ft.                                                                                                                                   |
-| Defense           | 16                                                                                                                                       |
-| Touch             | 16                                                                                                                                       |
-| Flat-Footed       | 14                                                                                                                                       |
-| Defense Breakdown | +1 size, +2 Dex, +3 class                                                                                                                |
-| BAB               | +2                                                                                                                                       |
-| Grap              | –3                                                                                                                                       |
-| Atk               | +2 melee (1d3–1 nonlethal, unarmed strike) or +2 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (blindness, pepper spray) |
-| Full Atk          | +2 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus stun, stun gun) or +5 ranged (blindness, pepper spray)      |
-| FS                | 5 ft. by 5 ft.                                                                                                                           |
-| Reach             | 5 ft.                                                                                                                                    |
-| SQ                | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision, read/write code, online presence                 |
-| AL                | varies                                                                                                                                   |
-| Fort              | +4                                                                                                                                       |
-| Ref               | +4                                                                                                                                       |
-| Will              | +4                                                                                                                                       |
-| AP                | 3                                                                                                                                        |
-| Rep               | +5                                                                                                                                       |
-| Str               | 8                                                                                                                                        |
-| Dex               | 15                                                                                                                                       |
-| Con               | 14                                                                                                                                       |
-| Int               | 15                                                                                                                                       |
-| Wis               | 8                                                                                                                                        |
-| Cha               | 13                                                                                                                                       |
+| CR | 6 |
+| Size | Small |
+| Type | humanoid (Shadowkind) |
+| HD | 3d6+6 plus 3d6+6 |
+| hp | 38 |
+| Mas | 12 |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 16 |
+| Touch | 16 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +1 size, +2 Dex, +3 class |
+| BAB | +2 |
+| Grap | –3 |
+| Atk | +2 melee (1d3–1 nonlethal, unarmed strike) or +2 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (blindness, pepper spray) |
+| Full Atk | +2 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus stun, stun gun) or +5 ranged (blindness, pepper spray) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | special combat bonuses, illusion mastery, *speak with animals* 1/day, low-light vision, read/write code, online presence |
+| AL | varies |
+| Fort | +4 |
+| Ref | +4 |
+| Will | +4 |
+| AP | 3 |
+| Rep | +5 |
+| Str | 8 |
+| Dex | 15 |
+| Con | 14 |
+| Int | 15 |
+| Wis | 8 |
+| Cha | 13 |
 
 **Skills:** Computer Use +8, Craft (electronic) +8,
 Craft (pharmaceutical) +6, Decipher Script +8, Disable Device +8,

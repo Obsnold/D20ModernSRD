@@ -1,16 +1,16 @@
 # Gaseous Form
 
-| Stat             | Value                              |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                      |
-| Level            | Arcane 3                           |
-| Components       | S, M                               |
-| Casting Time     | Attack action                      |
-| Range            | Touch                              |
-| Target           | Willing corporeal creature touched |
-| Duration         | 1 minute/level (D)                 |
-| Saving Throw     | None                               |
-| Spell Resistance | No                                 |
+| School | Transmutation |
+| Level | Arcane 3 |
+| Components | S, M |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Willing corporeal creature touched |
+| Duration | 1 minute/level (D) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The subject and all her gear become insubstantial, misty (or smoky), and
 translucent. The subject gains damage reduction 10/+1. Her material

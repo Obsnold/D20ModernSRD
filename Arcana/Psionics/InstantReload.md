@@ -1,17 +1,17 @@
 # Instant Reload
 
-| Stat               | Value                             |
+| Stat | Value |
 |---|---|
-| Key Ability        | Dexterity                         |
-| Level              | Psionic Agent 3                   |
-| Display            | Audible, Material                 |
-| Manifestation Time | Attack action                     |
-| Range              | Touch                             |
-| Target             | One ranged weapon with ammunition |
-| Duration           | 1 hour/level                      |
-| Saving Throw       | None                              |
-| Power Resistance   | No                                |
-| Power Point Cost   | 5                                 |
+| Key Ability | Dexterity |
+| Level | Psionic Agent 3 |
+| Display | Audible, Material |
+| Manifestation Time | Attack action |
+| Range | Touch |
+| Target | One ranged weapon with ammunition |
+| Duration | 1 hour/level |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 5 |
 
 You can reload your weapon as an attack action, calling the ammunition
 from another location in the same manner as *call weaponry*. The

@@ -1,17 +1,17 @@
 # White Noise
 
-| Stat               | Value                     |
+| Stat | Value |
 |---|---|
-| Key Ability        | Constitution              |
-| Level              | Battle Mind 1, Telepath 1 |
-| Display            | None                      |
-| Manifestation Time | Attack action             |
-| Range              | Personal                  |
-| Area               | 5-ft.- radius/level       |
-| Duration           | 1 minute/level            |
-| Saving Throw       | None                      |
-| Power Resistance   | No                        |
-| Power Point Cost   | 1                         |
+| Key Ability | Constitution |
+| Level | Battle Mind 1, Telepath 1 |
+| Display | None |
+| Manifestation Time | Attack action |
+| Range | Personal |
+| Area | 5-ft.- radius/level |
+| Duration | 1 minute/level |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 1 |
 
 You surround yourself with a bubble of low-level electromagnetic
 radiation, not enough to be detected by normal individuals but

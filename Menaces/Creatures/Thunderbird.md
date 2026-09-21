@@ -36,39 +36,39 @@ damage.
 
 ## Thunderbird (Chick)
 
-| Stat              | Value                                                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                                                                              |
-| Size              | Medium-size                                                                                                    |
-| Type              | magical beast                                                                                                  |
-| HD                | 5d10+5                                                                                                         |
-| hp                | 32                                                                                                             |
-| Mas               | 12                                                                                                             |
-| Init              | +2                                                                                                             |
-| Spd               | 20 ft., 50 ft. (average)                                                                                       |
-| Defense           | 21                                                                                                             |
-| Touch             | 12                                                                                                             |
-| Flat-Footed       | 19                                                                                                             |
-| Defense Breakdown | +2 Dex, +9 natural                                                                                             |
-| BAB               | +5                                                                                                             |
-| Grap              | +5                                                                                                             |
-| Atk               | +6 melee (1d6, bite)                                                                                           |
-| Full Atk          | +6 melee (1d6, bite) and +1 melee (1d4, 2 claws)                                                               |
-| FS                | 5 ft. by 5 ft.                                                                                                 |
-| Reach             | 5 ft.                                                                                                          |
-| SQ                | breath weapon (2d10; DC 13), darkvision 60 ft., fear aura (DC 13), improved grab, immunities, low-light vision |
-| AL                | chaos                                                                                                          |
-| Fort              | +5                                                                                                             |
-| Ref               | +6                                                                                                             |
-| Will              | +2                                                                                                             |
-| AP                | 0                                                                                                              |
-| Rep               | +0                                                                                                             |
-| Str               | 10                                                                                                             |
-| Dex               | 14                                                                                                             |
-| Con               | 12                                                                                                             |
-| Int               | 8                                                                                                              |
-| Wis               | 13                                                                                                             |
-| Cha               | 12                                                                                                             |
+| CR | 3 |
+| Size | Medium-size |
+| Type | magical beast |
+| HD | 5d10+5 |
+| hp | 32 |
+| Mas | 12 |
+| Init | +2 |
+| Spd | 20 ft., 50 ft. (average) |
+| Defense | 21 |
+| Touch | 12 |
+| Flat-Footed | 19 |
+| Defense Breakdown | +2 Dex, +9 natural |
+| BAB | +5 |
+| Grap | +5 |
+| Atk | +6 melee (1d6, bite) |
+| Full Atk | +6 melee (1d6, bite) and +1 melee (1d4, 2 claws) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | breath weapon (2d10; DC 13), darkvision 60 ft., fear aura (DC 13), improved grab, immunities, low-light vision |
+| AL | chaos |
+| Fort | +5 |
+| Ref | +6 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 14 |
+| Con | 12 |
+| Int | 8 |
+| Wis | 13 |
+| Cha | 12 |
 
 **Skills**: Hide +6, Intimidate +5, Listen +5, Move Silently +6, Speak
 Auran, Spot +5.
@@ -79,39 +79,39 @@ Auran, Spot +5.
 
 ## Thunderbird (Adult)
 
-| Stat              | Value                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 14                                                                                                            |
-| Size              | Huge                                                                                                          |
-| Type              | magical beast                                                                                                 |
-| HD                | 16d10+80                                                                                                      |
-| hp                | 168                                                                                                           |
-| Mas               | 20                                                                                                            |
-| Init              | +0                                                                                                            |
-| Spd               | 30 ft., fly 100 ft. (average)                                                                                 |
-| Defense           | 22                                                                                                            |
-| Touch             | 8                                                                                                             |
-| Flat-Footed       | 22                                                                                                            |
-| Defense Breakdown | –2 size, +14 natural                                                                                          |
-| BAB               | +16                                                                                                           |
-| Grap              | +32                                                                                                           |
-| Atk               | +23 melee (2d6+8, bite)                                                                                       |
-| Full Atk          | +23 melee (2d6+8, bite) and +21 melee (2d4+4, 2 claws)                                                        |
-| FS                | 15 ft. by 15 ft.                                                                                              |
-| Reach             | 10 ft.                                                                                                        |
-| SQ                | breath weapon (8d10; DC 23), darkvision 60 ft., fear aura (DC 20), improved grab, immunities, lowlight vision |
-| AL                | chaos                                                                                                         |
-| Fort              | +15                                                                                                           |
-| Ref               | +10                                                                                                           |
-| Will              | +8                                                                                                            |
-| AP                | 0                                                                                                             |
-| Rep               | +0                                                                                                            |
-| Str               | 26                                                                                                            |
-| Dex               | 10                                                                                                            |
-| Con               | 20                                                                                                            |
-| Int               | 12                                                                                                            |
-| Wis               | 16                                                                                                            |
-| Cha               | 14                                                                                                            |
+| CR | 14 |
+| Size | Huge |
+| Type | magical beast |
+| HD | 16d10+80 |
+| hp | 168 |
+| Mas | 20 |
+| Init | +0 |
+| Spd | 30 ft., fly 100 ft. (average) |
+| Defense | 22 |
+| Touch | 8 |
+| Flat-Footed | 22 |
+| Defense Breakdown | –2 size, +14 natural |
+| BAB | +16 |
+| Grap | +32 |
+| Atk | +23 melee (2d6+8, bite) |
+| Full Atk | +23 melee (2d6+8, bite) and +21 melee (2d4+4, 2 claws) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | breath weapon (8d10; DC 23), darkvision 60 ft., fear aura (DC 20), improved grab, immunities, lowlight vision |
+| AL | chaos |
+| Fort | +15 |
+| Ref | +10 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 26 |
+| Dex | 10 |
+| Con | 20 |
+| Int | 12 |
+| Wis | 16 |
+| Cha | 14 |
 
 **Skills**: Hide –2, Intimidate +10, Listen +12, Move Silently +6, Speak
 Auran, Speak Language (any one), Spot +12.

@@ -30,39 +30,39 @@ higher, to Climb checks.
 
 ## Snake, Cobra
 
-| Stat              | Value                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                |
-| Size              | Medium-size                                                      |
-| Type              | animal                                                           |
-| HD                | 3d8                                                              |
-| hp                | 13                                                               |
-| Mas               | 11                                                               |
-| Init              | +3                                                               |
-| Spd               | 20 ft. (30 ft. for the black mamba), climb 5 ft.                 |
-| Defense           | 14                                                               |
-| Touch             | 12                                                               |
-| Flat-Footed       | 11                                                               |
-| Defense Breakdown | –1 size, +3 Dex, +2 natural                                      |
-| BAB               | +2                                                               |
-| Grap              | +2                                                               |
-| Atk               | +5 melee (1d4 plus poison, bite)                                 |
-| Full Atk          | +5 melee (1d4 plus poison, bite)                                 |
-| FS                | 5 ft. by 5 ft. (coiled)                                          |
-| Reach             | 5 ft.                                                            |
-| SQ                | poison (DC 11), poison spray (DC 11; spitting cobra only), scent |
-| AL                | none                                                             |
-| Fort              | +3                                                               |
-| Ref               | +6                                                               |
-| Will              | +2                                                               |
-| AP                | 0                                                                |
-| Rep               | +0                                                               |
-| Str               | 10                                                               |
-| Dex               | 17                                                               |
-| Con               | 11                                                               |
-| Int               | 1                                                                |
-| Wis               | 12                                                               |
-| Cha               | 2                                                                |
+| CR | 2 |
+| Size | Medium-size |
+| Type | animal |
+| HD | 3d8 |
+| hp | 13 |
+| Mas | 11 |
+| Init | +3 |
+| Spd | 20 ft. (30 ft. for the black mamba), climb 5 ft. |
+| Defense | 14 |
+| Touch | 12 |
+| Flat-Footed | 11 |
+| Defense Breakdown | –1 size, +3 Dex, +2 natural |
+| BAB | +2 |
+| Grap | +2 |
+| Atk | +5 melee (1d4 plus poison, bite) |
+| Full Atk | +5 melee (1d4 plus poison, bite) |
+| FS | 5 ft. by 5 ft. (coiled) |
+| Reach | 5 ft. |
+| SQ | poison (DC 11), poison spray (DC 11; spitting cobra only), scent |
+| AL | none |
+| Fort | +3 |
+| Ref | +6 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 17 |
+| Con | 11 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Climb +11, Hide +10, Listen +9, Move Silently +11, Spot +9.
 

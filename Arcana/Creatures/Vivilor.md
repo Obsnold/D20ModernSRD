@@ -26,38 +26,38 @@ weapons in combat.
 
 ## 1st-level Vivilor
 
-| Stat              | Value                          |
+| Stat | Value |
 |---|---|
-| CR                | 1/3                            |
-| Size              | Small                          |
-| Type              | outsider                       |
-| HD                | 1d8                            |
-| hp                | 4                              |
-| Init              | +1                             |
-| Spd               | 40 ft.                         |
-| Defense           | 13                             |
-| Touch             | 12                             |
-| Flat-Footed       | 12                             |
-| Defense Breakdown | +1 size, +1 Dex, +1 natural    |
-| BAB               | +1                             |
-| Grap              | –3                             |
-| Atk               | +2 melee (1d4, slam)           |
-| Full Atk          | +2 melee (1d4, slam)           |
-| FS                | 5 ft. by 5 ft.                 |
-| Reach             | 5 ft.                          |
-| SQ                | one choice from Vivilor Menu A |
-| AL                | summoner                       |
-| Fort              | +2                             |
-| Ref               | +3                             |
-| Will              | +3                             |
-| AP                | 0                              |
-| Rep               | +0                             |
-| Str               | 11                             |
-| Dex               | 13                             |
-| Con               | 11                             |
-| Int               | 7                              |
-| Wis               | 12                             |
-| Cha               | 6                              |
+| CR | 1/3 |
+| Size | Small |
+| Type | outsider |
+| HD | 1d8 |
+| hp | 4 |
+| Init | +1 |
+| Spd | 40 ft. |
+| Defense | 13 |
+| Touch | 12 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +1 size, +1 Dex, +1 natural |
+| BAB | +1 |
+| Grap | –3 |
+| Atk | +2 melee (1d4, slam) |
+| Full Atk | +2 melee (1d4, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | one choice from Vivilor Menu A |
+| AL | summoner |
+| Fort | +2 |
+| Ref | +3 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 11 |
+| Dex | 13 |
+| Con | 11 |
+| Int | 7 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Hide +5, Listen +6, Spot +6.
 
@@ -67,37 +67,37 @@ weapons in combat.
 
 ## 2nd-level Vivilor
 
-| Stat              | Value                           |
+| Stat | Value |
 |---|---|
-| CR                | 1                               |
-| Size/Type         | Medium outsider                 |
-| HD                | 2d8+2                           |
-| hp                | 11                              |
-| Init              | +0                              |
-| Spd               | 40 ft.                          |
-| Defense           | 14                              |
-| Touch             | 10                              |
-| Flat-Footed       | 14                              |
-| Defense Breakdown | +4 natural                      |
-| BAB               | +2                              |
-| Grap              | +3                              |
-| Atk               | +3 melee (1d6+1, slam)          |
-| Full Atk          | +3 melee (1d6+1, slam)          |
-| FS                | 5 ft. by 5 ft.                  |
-| Reach             | 5 ft.                           |
-| SQ                | two choices from Vivilor Menu A |
-| AL                | summoner                        |
-| Fort              | +4                              |
-| Ref               | +3                              |
-| Will              | +4                              |
-| AP                | 0                               |
-| Rep               | +0                              |
-| Str               | 13                              |
-| Dex               | 11                              |
-| Con               | 13                              |
-| Int               | 7                               |
-| Wis               | 12                              |
-| Cha               | 6                               |
+| CR | 1 |
+| Size/Type | Medium outsider |
+| HD | 2d8+2 |
+| hp | 11 |
+| Init | +0 |
+| Spd | 40 ft. |
+| Defense | 14 |
+| Touch | 10 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +4 natural |
+| BAB | +2 |
+| Grap | +3 |
+| Atk | +3 melee (1d6+1, slam) |
+| Full Atk | +3 melee (1d6+1, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | two choices from Vivilor Menu A |
+| AL | summoner |
+| Fort | +4 |
+| Ref | +3 |
+| Will | +4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 13 |
+| Dex | 11 |
+| Con | 13 |
+| Int | 7 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Climb +5, Jump +5, Listen +7, Spot +7.
 
@@ -107,37 +107,37 @@ weapons in combat.
 
 ## 3rd-level Vivilor
 
-| Stat              | Value                             |
+| Stat | Value |
 |---|---|
-| CR                | 2                                 |
-| Size/Type         | Medium outsider                   |
-| HD                | 3d8+4                             |
-| hp                | 17                                |
-| Init              | +0                                |
-| Spd               | 40 ft.                            |
-| Defense           | 17                                |
-| Touch             | 10                                |
-| Flat-Footed       | 17                                |
-| Defense Breakdown | +7 natural                        |
-| BAB               | +3                                |
-| Grap              | +4                                |
-| Atk               | +4 melee (1d6+1, slam)            |
-| Full Atk          | +4 melee (1d6+1, slam)            |
-| FS                | 5 ft. by 5 ft.                    |
-| Reach             | 5 ft.                             |
-| SQ                | three choices from Vivilor Menu A |
-| AL                | summoner                          |
-| Fort              | +4                                |
-| Ref               | +3                                |
-| Will              | +4                                |
-| AP                | 0                                 |
-| Rep               | +0                                |
-| Str               | 13                                |
-| Dex               | 11                                |
-| Con               | 13                                |
-| Int               | 7                                 |
-| Wis               | 12                                |
-| Cha               | 6                                 |
+| CR | 2 |
+| Size/Type | Medium outsider |
+| HD | 3d8+4 |
+| hp | 17 |
+| Init | +0 |
+| Spd | 40 ft. |
+| Defense | 17 |
+| Touch | 10 |
+| Flat-Footed | 17 |
+| Defense Breakdown | +7 natural |
+| BAB | +3 |
+| Grap | +4 |
+| Atk | +4 melee (1d6+1, slam) |
+| Full Atk | +4 melee (1d6+1, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | three choices from Vivilor Menu A |
+| AL | summoner |
+| Fort | +4 |
+| Ref | +3 |
+| Will | +4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 13 |
+| Dex | 11 |
+| Con | 13 |
+| Int | 7 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Climb +7, Jump +7, Listen +8, Spot +8.
 
@@ -147,38 +147,38 @@ weapons in combat.
 
 ## 4th-level Vivilor
 
-| Stat              | Value                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                     |
-| Size              | Large                                                 |
-| Type              | outsider                                              |
-| HD                | 5d8+15                                                |
-| hp                | 37                                                    |
-| Init              | –1                                                    |
-| Spd               | 50 ft.                                                |
-| Defense           | 18                                                    |
-| Touch             | 8                                                     |
-| Flat-Footed       | 18                                                    |
-| Defense Breakdown | –1 size, –1 Dex, +10 natural                          |
-| BAB               | +5                                                    |
-| Grap              | +14                                                   |
-| Atk               | +9 melee (1d8+7, slam)                                |
-| Full Atk          | +9 melee (1d8+7, slam)                                |
-| FS                | 10 ft. by 10 ft.                                      |
-| Reach             | 10 ft.                                                |
-| SQ                | one choice from Vivilor Menu B, damage reduction 5/+1 |
-| AL                | summoner                                              |
-| Fort              | +7                                                    |
-| Ref               | +3                                                    |
-| Will              | +7                                                    |
-| AP                | 0                                                     |
-| Rep               | +0                                                    |
-| Str               | 21                                                    |
-| Dex               | 9                                                     |
-| Con               | 17                                                    |
-| Int               | 7                                                     |
-| Wis               | 12                                                    |
-| Cha               | 6                                                     |
+| CR | 4 |
+| Size | Large |
+| Type | outsider |
+| HD | 5d8+15 |
+| hp | 37 |
+| Init | –1 |
+| Spd | 50 ft. |
+| Defense | 18 |
+| Touch | 8 |
+| Flat-Footed | 18 |
+| Defense Breakdown | –1 size, –1 Dex, +10 natural |
+| BAB | +5 |
+| Grap | +14 |
+| Atk | +9 melee (1d8+7, slam) |
+| Full Atk | +9 melee (1d8+7, slam) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | one choice from Vivilor Menu B, damage reduction 5/+1 |
+| AL | summoner |
+| Fort | +7 |
+| Ref | +3 |
+| Will | +7 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 21 |
+| Dex | 9 |
+| Con | 17 |
+| Int | 7 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Climb +13, Hide –5, Jump +13, Listen +12,
 Spot +12.
@@ -190,38 +190,38 @@ Will.
 
 ## 5th-level Vivilor
 
-| Stat              | Value                                                  |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                      |
-| Size              | Large                                                  |
-| Type              | outsider                                               |
-| HD                | 7d8+21                                                 |
-| hp                | 52                                                     |
-| Init              | –1                                                     |
-| Spd               | 50 ft.                                                 |
-| Defense           | 21                                                     |
-| Touch             | 8                                                      |
-| Flat-Footed       | 21                                                     |
-| Defense Breakdown | –1 size, –1 Dex, +13 natural                           |
-| BAB               | +7/+2                                                  |
-| Grap              | +16                                                    |
-| Atk               | +11 melee (1d8+7, slam)                                |
-| Full Atk          | +11/+6 melee (1d8+7, slam)                             |
-| FS                | 10 ft. by 10 ft.                                       |
-| Reach             | 10 ft.                                                 |
-| SQ                | two choices from Vivilor Menu B, damage reduction 5/+1 |
-| AL                | summoner                                               |
-| Fort              | +8                                                     |
-| Ref               | +4                                                     |
-| Will              | +8                                                     |
-| AP                | 0                                                      |
-| Rep               | +0                                                     |
-| Str               | 21                                                     |
-| Dex               | 9                                                      |
-| Con               | 17                                                     |
-| Int               | 7                                                      |
-| Wis               | 12                                                     |
-| Cha               | 6                                                      |
+| CR | 5 |
+| Size | Large |
+| Type | outsider |
+| HD | 7d8+21 |
+| hp | 52 |
+| Init | –1 |
+| Spd | 50 ft. |
+| Defense | 21 |
+| Touch | 8 |
+| Flat-Footed | 21 |
+| Defense Breakdown | –1 size, –1 Dex, +13 natural |
+| BAB | +7/+2 |
+| Grap | +16 |
+| Atk | +11 melee (1d8+7, slam) |
+| Full Atk | +11/+6 melee (1d8+7, slam) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | two choices from Vivilor Menu B, damage reduction 5/+1 |
+| AL | summoner |
+| Fort | +8 |
+| Ref | +4 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 21 |
+| Dex | 9 |
+| Con | 17 |
+| Int | 7 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Climb +16, Hide –5, Jump +16, Listen +15,
 Spot +15.

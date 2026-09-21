@@ -159,20 +159,20 @@ modified by the form of locomotion selected.
 | Diminutive | 15 |
 | Tiny | 12 |
 | **Components** | DC Modifier |
-| **Frame Shape and Locomotion<sup>1</sup>** | |
+| **Frame Shape and Locomotion¹** | |
 | Bipedal | +4 |
 | Quadruped | +3 |
 | Treads | +2 |
 | Wheels | +1 |
-| **External Components <sup>2</sup>** | |
-| Manipulators <sup>3</sup> | +3 |
+| **External Components ²** | |
+| Manipulators ³ | +3 |
 | Audio/visual sensor | +2 |
-| **Remote Range <sup>1</sup>** | |
+| **Remote Range ¹** | |
 | Remote control link, 100 feet | +1 |
 | Remote control link, 200 feet | +3 |
 | Remote control link, 300 feet | +5 |
 
-1 Select only one of the options in this category.
+¹ Select only one of the options in this category.
 2 Select one or more of the options in this category.
 3 Necessary for a robot built to use any skill except Listen or Spot.
 

@@ -40,36 +40,36 @@ do for free.
 
 **Table: Starship Actions**
 
-| Attack Actions                     | Attack of Opportunity?<sup>2</sup>             |
+| Attack Actions | Attack of Opportunity?² |
 |---|---|
-| Aid another                        | No                                             |
-| Attack (ranged)                    | No                                             |
-| Attack an object                   | No                                             |
-| Escape a grappling ship            | No                                             |
-| Feint (see Bluff skill)            | No                                             |
-| Grapple another ship<sup>1</sup>   | Yes                                            |
-| Total defense                      | No                                             |
-| **Move Actions**                   |** Attack of Opportunity?<sup>2</sup>**         |
-| Damage control                     | No                                             |
-| Move at tactical speed             | No                                             |
-| Operate sensors                    | No                                             |
-| Ram<sup>3</sup>                    | Yes                                            |
-| Sending/jamming a transmission     | No                                             |
-| Start/complete a full-round action | Varies                                         |
-| **Full-Round Actions**             |** Attack of Opportunity?<sup>2</sup>**         |
-| Jump to cruising speed             | Yes                                            |
-| Surge forward                      | Yes                                            |
-| Withdraw                           | No                                             |
-| **Free Actions**                   | **Attack of Opportunity?<sup>2</sup>**         |
-| Communicate via comm system        | No                                             |
-| Turn                               | No                                             |
-| **Special Initiative**             | **Actions Attack of Opportunity?<sup>2</sup>** |
-| Delay                              | No                                             |
-| Ready                              | No                                             |
-| **No Action**                      | **Attack of Opportunity?<sup>2</sup>**         |
-| 500-foot shift                     | No                                             |
-| Avoid hazard                       | No                                             |
+| Aid another | No |
+| Attack (ranged) | No |
+| Attack an object | No |
+| Escape a grappling ship | No |
+| Feint (see Bluff skill) | No |
+| Grapple another ship¹ | Yes |
+| Total defense | No |
+| **Move Actions** |** Attack of Opportunity?²** |
+| Damage control | No |
+| Move at tactical speed | No |
+| Operate sensors | No |
+| Ram³ | Yes |
+| Sending/jamming a transmission | No |
+| Start/complete a full-round action | Varies |
+| **Full-Round Actions** |** Attack of Opportunity?²** |
+| Jump to cruising speed | Yes |
+| Surge forward | Yes |
+| Withdraw | No |
+| **Free Actions** | **Attack of Opportunity?²** |
+| Communicate via comm system | No |
+| Turn | No |
+| **Special Initiative** | **Actions Attack of Opportunity?²** |
+| Delay | No |
+| Ready | No |
+| **No Action** | **Attack of Opportunity?²** |
+| 500-foot shift | No |
+| Avoid hazard | No |
 
-1 Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.
+¹ Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.
 2 Only starships armed with point-defense systems can make attacks of opportunity.
 3 Ramming is considered part of a move action.

@@ -1,14 +1,14 @@
 # Speak with Animals
 
-| Stat         | Value           |
+| Stat | Value |
 |---|---|
-| School       | Divination      |
-| Level        | Divine 2        |
-| Components   | V, S            |
-| Casting Time | Attack action   |
-| Range        | Personal        |
-| Target       | You             |
-| Duration     | 1 minute/ level |
+| School | Divination |
+| Level | Divine 2 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Personal |
+| Target | You |
+| Duration | 1 minute/ level |
 
 You can comprehend and communicate with animals. You are able to ask
 questions of and receive answers from animals, although the spell

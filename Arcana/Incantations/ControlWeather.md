@@ -1,29 +1,29 @@
 # Control Weather
 
-| Stat             | Value                                      |
+| Stat | Value |
 |---|---|
-| School           | Evocation                                  |
-| Skill Check      | Knowledge (arcane lore) DC 34, 6 successes |
-| Failure          | Two consecutive failed skill checks        |
-| Components       | V, S, SC                                   |
-| Casting Time     | 60 minutes (minimum)                       |
-| Range            | Two miles                                  |
-| Area             | Two-mile-radius circle, centered on you    |
-| Duration         | 24 hours (D)                               |
-| Saving Throw     | None                                       |
-| Spell Resistance | No                                         |
+| School | Evocation |
+| Skill Check | Knowledge (arcane lore) DC 34, 6 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, SC |
+| Casting Time | 60 minutes (minimum) |
+| Range | Two miles |
+| Area | Two-mile-radius circle, centered on you |
+| Duration | 24 hours (D) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You change the weather in the local area. It takes 10 minutes for the
 effects to manifest after the incantation is completed. The current,
 natural weather conditions are determined by the GM. You can call forth
 weather appropriate to the climate and season of the area you are in.
 
-| Season      | Possible Weather                                     |
+| Season | Possible Weather |
 |---|---|
-| Spring      | Tornado, thunderstorm, sleet storm, or hot weather   |
-| Summer      | Torrential rain, heat wave, or hailstorm             |
-| Autumn      | Hot or cold weather, fog, or sleet                   |
-| Winter      | Frigid cold, blizzard, or thaw                       |
+| Spring | Tornado, thunderstorm, sleet storm, or hot weather |
+| Summer | Torrential rain, heat wave, or hailstorm |
+| Autumn | Hot or cold weather, fog, or sleet |
+| Winter | Frigid cold, blizzard, or thaw |
 | Late winter | Hurricane-force winds or early spring (coastal area) |
 
 You control the general tendencies of the weather, such as the direction

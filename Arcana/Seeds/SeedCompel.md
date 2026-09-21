@@ -1,16 +1,16 @@
 # Seed: Compel
 
-| Stat                       | Value                              |
+| Stat | Value |
 |---|---|
-| School                     | Enchantment                        |
-| Subschool                  | Compulsion                         |
-| Descriptors                | Mind-Affecting, Language-Dependent |
-| Knowledge (arcane lore) DC | 30                                 |
-| Range                      | Close                              |
-| Target                     | One living creature                |
-| Duration                   | Hours (D)                          |
-| Saving Throw               | Will negates                       |
-| Spell Resistance           | Yes                                |
+| School | Enchantment |
+| Subschool | Compulsion |
+| Descriptors | Mind-Affecting, Language-Dependent |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Close |
+| Target | One living creature |
+| Duration | Hours (D) |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 You compel a target to follow a specified course of activity.
 

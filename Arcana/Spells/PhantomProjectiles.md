@@ -1,16 +1,16 @@
 # Phantom Projectiles
 
-| Stat             | Value                                                                                  |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                                                          |
-| Level            | Arcane 5                                                                               |
-| Components       | V, S, M                                                                                |
-| Casting Time     | Attack action                                                                          |
-| Range            | Touch                                                                                  |
-| Target           | 50 projectiles, all of which must be in contact with each other at the time of casting |
-| Duration         | 1 hour/level                                                                           |
-| Saving Throw     | Will negates (harmless, object)                                                        |
-| Spell Resistance | Yes (harmless, object)                                                                 |
+| School | Transmutation |
+| Level | Arcane 5 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | 50 projectiles, all of which must be in contact with each other at the time of casting |
+| Duration | 1 hour/level |
+| Saving Throw | Will negates (harmless, object) |
+| Spell Resistance | Yes (harmless, object) |
 
 You turn ammunition (such as arrows, bolts, bullets, and shuriken) into
 incorporeal projectiles that damage only their intended targets.

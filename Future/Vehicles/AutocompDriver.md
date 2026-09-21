@@ -19,8 +19,8 @@ Table: Driver Autocomps for details.
 
 | Driver Autocomp | Drive or Pilot Check Modifier | Purchase DC |
 |---|---|---|
-| Roadlord AI-DA  | +0                            | 12          |
-| Pegasus AI-200  | +2                            | 15          |
-| Dervish AI-400  | +4                            | 18          |
-| Twister AI-800  | +8                            | 21          |
-| Zephyr AI-1200  | +12                           | 24          |
+| Roadlord AI-DA | +0 | 12 |
+| Pegasus AI-200 | +2 | 15 |
+| Dervish AI-400 | +4 | 18 |
+| Twister AI-800 | +8 | 21 |
+| Zephyr AI-1200 | +12 | 24 |

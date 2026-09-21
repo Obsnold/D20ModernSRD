@@ -95,12 +95,12 @@ limits and purchase DCs.
 
 | Robot’s Frame Size | Maximum Weight Limit | Purchase DC |
 |---|---|---|
-| Small              | 10 lb.               | 6           |
-| Medium             | 20 lb.               | 8           |
-| Large              | 40 lb.               | 10          |
-| Huge               | 120 lb.              | 13          |
-| Gargantuan         | 360 lb.              | 17          |
-| Colossal           | 1,000 lb.            | 22          |
+| Small | 10 lb. | 6 |
+| Medium | 20 lb. | 8 |
+| Large | 40 lb. | 10 |
+| Huge | 120 lb. | 13 |
+| Gargantuan | 360 lb. | 17 |
+| Colossal | 1,000 lb. | 22 |
 
 ## Loading Mechanism (pl 5)
 
@@ -208,14 +208,14 @@ the ammunition.
 
 **Table: Robot Weapon Mounts**
 
-| Robot’s Frame Size   | Maximum Weapon Mounts | Purchase DC |
+| Robot’s Frame Size | Maximum Weapon Mounts | Purchase DC |
 |---|---|---|
-| Diminutive or Tiny   | 1                     | 4           |
-| Small or Medium-size | 2                     | 6           |
-| Large                | 3                     | 8           |
-| Huge                 | 4                     | 10          |
-| Gargantuan           | 5                     | 12          |
-| Colossal             | 6                     | 14          |
+| Diminutive or Tiny | 1 | 4 |
+| Small or Medium-size | 2 | 6 |
+| Large | 3 | 8 |
+| Huge | 4 | 10 |
+| Gargantuan | 5 | 12 |
+| Colossal | 6 | 14 |
 
 ## Integrated Videophone (pl 6)
 
@@ -273,17 +273,17 @@ size.
 
 **Table: Robot Self-Destruct Systems**
 
-| Robot Size  | Collateral Damage | Purchase DC |
+| Robot Size | Collateral Damage | Purchase DC |
 |---|---|---|
-| Colossal    | 12d6              | 27          |
-| Gargantuan  | 9d6               | 24          |
-| Huge        | 6d6               | 21          |
-| Large       | 4d6               | 19          |
-| Medium-size | 2d6               | 17          |
-| Small       | 1d6               | 16          |
-| Tiny        | —                 | 15          |
-| Diminutive  | —                 | 15          |
-| Fine        | —                 | 15          |
+| Colossal | 12d6 | 27 |
+| Gargantuan | 9d6 | 24 |
+| Huge | 6d6 | 21 |
+| Large | 4d6 | 19 |
+| Medium-size | 2d6 | 17 |
+| Small | 1d6 | 16 |
+| Tiny | — | 15 |
+| Diminutive | — | 15 |
+| Fine | — | 15 |
 
 ## Survivor Array (pl 6)
 

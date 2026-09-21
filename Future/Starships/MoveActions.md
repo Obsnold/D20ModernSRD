@@ -50,15 +50,15 @@ objects.
 
 **Table: Collision Damage**
 
-| Size of Smaller Ship or Object | Collision Damage<sup>1</sup> |
+| Size of Smaller Ship or Object | Collision Damage¹ |
 |---|---|
-| Colossal                       | 12d6×10                      |
-| Gargantuan                     | 6d6×10                       |
-| Huge                           | 3d6×10                       |
-| Large                          | 1d6×10                       |
-| Medium-size or smaller         | —                            |
+| Colossal | 12d6×10 |
+| Gargantuan | 6d6×10 |
+| Huge | 3d6×10 |
+| Large | 1d6×10 |
+| Medium-size or smaller | — |
 
-1 Damage is applied to the ramming starship and its target.
+¹ Damage is applied to the ramming starship and its target.
 
 ## Sending/jamming a Transmission
 

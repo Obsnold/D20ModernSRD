@@ -1,18 +1,18 @@
 # Subjugate Outsider
 
-| Stat             | Value                                             |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                       |
-| Subschool        | Calling                                           |
-| Skill Check      | Knowledge (arcane lore) DC 33, 6 successes        |
-| Failure          | Two consecutive failed skill checks               |
-| Components       | V, S, M, SC, B                                    |
-| Casting Time     | 6 hours (minimum)                                 |
-| Range            | 55 ft.                                            |
-| Target           | One outsider of up to CR 6 (see text)             |
-| Duration         | Instantaneous (see text)                          |
-| Saving Throw     | Will negates (DC 16 + caster’s Charisma modifier) |
-| Spell Resistance | Yes                                               |
+| School | Conjuration |
+| Subschool | Calling |
+| Skill Check | Knowledge (arcane lore) DC 33, 6 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, SC, B |
+| Casting Time | 6 hours (minimum) |
+| Range | 55 ft. |
+| Target | One outsider of up to CR 6 (see text) |
+| Duration | Instantaneous (see text) |
+| Saving Throw | Will negates (DC 16 + caster’s Charisma modifier) |
+| Spell Resistance | Yes |
 
 Casting this incantation attempts a dangerous act: to lure a creature
 from another dimension or plane to a specifically prepared trap. The

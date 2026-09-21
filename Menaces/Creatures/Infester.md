@@ -63,39 +63,39 @@ Fortitude saves to negate the effects of massive damage.
 
 ## Infester (grub)
 
-| Stat              | Value                                                                                        |
+| Stat | Value |
 |---|---|
-| CR                | 1/10                                                                                         |
-| Size              | Fine                                                                                         |
-| Type              | vermin                                                                                       |
-| HD                | 1/16 d8                                                                                      |
-| hp                | 1                                                                                            |
-| Mas               | 11                                                                                           |
-| Init              | +3                                                                                           |
-| Spd               | 30 ft.                                                                                       |
-| Defense           | 24                                                                                           |
-| Touch             | 18                                                                                           |
-| Flat-Footed       | 16                                                                                           |
-| Defense Breakdown | +8 size, +6 Dex                                                                              |
-| BAB               | +0                                                                                           |
-| Grap              | –21                                                                                          |
-| Atk               | +3 melee (1, bite)                                                                           |
-| Full Atk          | +3 melee (1, bite)                                                                           |
-| FS                | 6 in. by 6 in.                                                                               |
-| Reach             | 0 ft.                                                                                        |
-| SQ                | anesthetic bite, attach, blindsight 60 ft., boost host, host protection, infestation, vermin |
-| AL                | none                                                                                         |
-| Fort              | +2                                                                                           |
-| Ref               | +6                                                                                           |
-| Will              | +0                                                                                           |
-| AP                | 0                                                                                            |
-| Rep               | +0                                                                                           |
-| Str               | 1                                                                                            |
-| Dex               | 23                                                                                           |
-| Con               | 11                                                                                           |
-| Int               | 1                                                                                            |
-| Wis               | 10                                                                                           |
-| Cha               | 5                                                                                            |
+| CR | 1/10 |
+| Size | Fine |
+| Type | vermin |
+| HD | 1/16 d8 |
+| hp | 1 |
+| Mas | 11 |
+| Init | +3 |
+| Spd | 30 ft. |
+| Defense | 24 |
+| Touch | 18 |
+| Flat-Footed | 16 |
+| Defense Breakdown | +8 size, +6 Dex |
+| BAB | +0 |
+| Grap | –21 |
+| Atk | +3 melee (1, bite) |
+| Full Atk | +3 melee (1, bite) |
+| FS | 6 in. by 6 in. |
+| Reach | 0 ft. |
+| SQ | anesthetic bite, attach, blindsight 60 ft., boost host, host protection, infestation, vermin |
+| AL | none |
+| Fort | +2 |
+| Ref | +6 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 23 |
+| Con | 11 |
+| Int | 1 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Hide +24, Move Silently +8, Spot +6.
 
@@ -105,39 +105,39 @@ Fortitude saves to negate the effects of massive damage.
 
 ## Infester (adult)
 
-| Stat              | Value                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                                   |
-| Size              | Tiny                                                                |
-| Type              | vermin                                                              |
-| HD                | 1d8+3                                                               |
-| hp                | 7                                                                   |
-| Mas               | 13                                                                  |
-| Init              | +3                                                                  |
-| Spd               | 30 ft.                                                              |
-| Defense           | 15                                                                  |
-| Touch             | 14                                                                  |
-| Flat-Footed       | 12                                                                  |
-| Defense Breakdown | +1 size, +3 Dex, +1 natural                                         |
-| BAB               | +0                                                                  |
-| Grap              | –9                                                                  |
-| Atk               | +0 melee (1d3–2, bite)                                              |
-| Full Atk          | +0 melee (1d3–1, bite)                                              |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                              |
-| Reach             | 0 ft.                                                               |
-| SQ                | blindsight 60 ft., boost host, host protection, infestation, vermin |
-| AL                | none                                                                |
-| Fort              | +3                                                                  |
-| Ref               | +3                                                                  |
-| Will              | +0                                                                  |
-| AP                | 0                                                                   |
-| Rep               | +0                                                                  |
-| Str               | 6                                                                   |
-| Dex               | 16                                                                  |
-| Con               | 13                                                                  |
-| Int               | 1                                                                   |
-| Wis               | 10                                                                  |
-| Cha               | 5                                                                   |
+| CR | 1 |
+| Size | Tiny |
+| Type | vermin |
+| HD | 1d8+3 |
+| hp | 7 |
+| Mas | 13 |
+| Init | +3 |
+| Spd | 30 ft. |
+| Defense | 15 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +1 size, +3 Dex, +1 natural |
+| BAB | +0 |
+| Grap | –9 |
+| Atk | +0 melee (1d3–2, bite) |
+| Full Atk | +0 melee (1d3–1, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | blindsight 60 ft., boost host, host protection, infestation, vermin |
+| AL | none |
+| Fort | +3 |
+| Ref | +3 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 6 |
+| Dex | 16 |
+| Con | 13 |
+| Int | 1 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Hide +14, Move Silently +6, Spot +6.
 

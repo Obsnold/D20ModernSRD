@@ -9,25 +9,25 @@ special in that they do not require a feat to be used effectively.
 
 **Table: Ranged Weapons**
 
-| Nonfirearms (feat needed listed in parentheses) |            |          |                 |                     |                  |              |          |            |                 |                 |
+| Nonfirearms (feat needed listed in parentheses) | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Weapon**                                      | **Damage** | Critical |** Damage Type** |** Range Increment** |** Rate of Fire** |** Magazine** |** Size** |** Weight** |** Purchase DC** |** Restriction** |
-| Air pistol (simple)*                            | 1d2        | 20       | Piercing        | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 7               | —               |
-| Air rifle (simple)*                             | 1d2        | 20       | Piercing        | 50 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 8               | —               |
-| Blowgun (simple)*                               | 1          | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 4               | —               |
-| Bolas (archaic)*                                |*           | —        | *               | 10 ft.              | 1                | —            | Small    | 2 lb.      | 3               | —               |
-| Crossbow, grapple-firing (archaic)*             | 1d3        |*         | Piercing        | 120 ft.             | 1                | 1 Int.       | Med.     | 12 lb.     | 12              | —               |
-| Crossbow, hand (archaic)                        | 1d4        | 19–20    | Piercing        | 30 ft.              | 1                | 1 Int.       | Tiny     | 3 lb.      | 11              | —               |
-| Crossbow, repeating (exotic)                    | 1d8        | 19–20    | Piercing        | 80 ft.              | 1                | 5 Int.       | Med.     | 16 lb.     | 13              | —               |
-| Flare gun (simple)*                             | 1d8        | 20       | Fire            | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 11              | —               |
-| Net (archaic)*                                  |*           | —        | *               | 10 ft.*             | 1                | —            | Med.     | 10 lb.     | 6               | —               |
-| Net launcher (grenade launcher)                 | *          | —        | —               | 10 ft.              | 1                | 1 Int.       | Large    | 20 lb.     | 15              | Lic (+1)        |
-| Paint ball gun (simple)                         | —          | 20*      |*                | 30 ft.              | Semi             | 40 Int.      | Small    | 2 lb.      | 8               |                 |
-| Sling (archaic)                                 | 1d4        | 20       | Ballistic       | 50 ft.              | 1                | —            | Small    | —          | 3               | —               |
-| Slingshot (simple)                              | 1d3        | 20       | Ballistic       | 50 ft.              | 1                | —            | Tiny     | 1 lb.      | 4               | —               |
-| Speargun (simple)*                              | 2d6        | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 10              | —               |
-| Super watergun (no feat required)*              |*           | *        |*                | 10 ft.              | 1                | 5 Int.       | Med.     | 2 lb.      | 4               | —               |
-| Water cannon (simple)*                          |*           | —        | *               | 10 ft.              |*                 | 20 Int.      | Huge     | 50 lb.     | 19              | Lic (+1)        |
+| **Weapon** | **Damage** | Critical |** Damage Type** |** Range Increment** |** Rate of Fire** |** Magazine** |** Size** |** Weight** |** Purchase DC** |** Restriction** |
+| Air pistol (simple)* | 1d2 | 20 | Piercing | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 7 | — |
+| Air rifle (simple)* | 1d2 | 20 | Piercing | 50 ft. | 1 | 1 Int. | Large | 5 lb. | 8 | — |
+| Blowgun (simple)* | 1 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Small | 2 lb. | 4 | — |
+| Bolas (archaic)* |* | — | * | 10 ft. | 1 | — | Small | 2 lb. | 3 | — |
+| Crossbow, grapple-firing (archaic)* | 1d3 |* | Piercing | 120 ft. | 1 | 1 Int. | Med. | 12 lb. | 12 | — |
+| Crossbow, hand (archaic) | 1d4 | 19–20 | Piercing | 30 ft. | 1 | 1 Int. | Tiny | 3 lb. | 11 | — |
+| Crossbow, repeating (exotic) | 1d8 | 19–20 | Piercing | 80 ft. | 1 | 5 Int. | Med. | 16 lb. | 13 | — |
+| Flare gun (simple)* | 1d8 | 20 | Fire | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 11 | — |
+| Net (archaic)* |* | — | * | 10 ft.* | 1 | — | Med. | 10 lb. | 6 | — |
+| Net launcher (grenade launcher) | * | — | — | 10 ft. | 1 | 1 Int. | Large | 20 lb. | 15 | Lic (+1) |
+| Paint ball gun (simple) | — | 20* |* | 30 ft. | Semi | 40 Int. | Small | 2 lb. | 8 | |
+| Sling (archaic) | 1d4 | 20 | Ballistic | 50 ft. | 1 | — | Small | — | 3 | — |
+| Slingshot (simple) | 1d3 | 20 | Ballistic | 50 ft. | 1 | — | Tiny | 1 lb. | 4 | — |
+| Speargun (simple)* | 2d6 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Large | 5 lb. | 10 | — |
+| Super watergun (no feat required)* |* | * |* | 10 ft. | 1 | 5 Int. | Med. | 2 lb. | 4 | — |
+| Water cannon (simple)* |* | — | * | 10 ft. |* | 20 Int. | Huge | 50 lb. | 19 | Lic (+1) |
 
 See weapon description for more information.
 
@@ -273,20 +273,20 @@ during an adventure.
 
 **Table: Ammunition**
 
-| Ammunition Type        | Purchase DC Modifier | Restriction |
+| Ammunition Type | Purchase DC Modifier | Restriction |
 |---|---|---|
-| Armor Piercing         | +3                   | Res (+2)    |
-| Beanbag                | +2                   | Res (+2)    |
-| Birdshot               | –1                   | Lic (+1)    |
-| Flechette              | +4                   | Mil (+3)    |
-| Frangible              | +2                   | Res (+2)    |
-| High Explosive         | +5                   | Mil (+3)    |
-| Rubber Round           | +1                   | Res (+2)    |
-| Silver                 | +6                   | —           |
-| Subsonic               | +4                   | Mil (+3)    |
-| Tracer                 | +1                   | Mil (+3)    |
-| Tranquilizer           | 7*                   | Res (+2)    |
-| White Phosphorous (WP) | +5                   | Mil (+3)    |
+| Armor Piercing | +3 | Res (+2) |
+| Beanbag | +2 | Res (+2) |
+| Birdshot | –1 | Lic (+1) |
+| Flechette | +4 | Mil (+3) |
+| Frangible | +2 | Res (+2) |
+| High Explosive | +5 | Mil (+3) |
+| Rubber Round | +1 | Res (+2) |
+| Silver | +6 | — |
+| Subsonic | +4 | Mil (+3) |
+| Tracer | +1 | Mil (+3) |
+| Tranquilizer | 7* | Res (+2) |
+| White Phosphorous (WP) | +5 | Mil (+3) |
 
 This is the regular purchase DC, not modifier.
 
@@ -385,59 +385,59 @@ the Exotic Melee Weapons feat).
 
 **Table: Melee Weapons**
 
-| Weapon                   | Damage  | Critical | Damage Type           | Range Increment | Size  | Weight | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|
-| **Simple Weapons**       |         |          |                       |                 |       |        |             |             |
-| Club, spiked             | 1d8     | 20       | Bludgeoning, Piercing | —               | Med.  | 8 lb.  | 5           | —           |
-| Dagger, punching         | 1d4     | 20/x3    | Piercing              | —               | Tiny  | 2 lb.  | 5           | —           |
-| Gauntlet                 | *       |*         | Bludgeoning           | —               | *     | 2 lb.  | 5           | —           |
-| Gauntlet, spiked         | 1d4     | 20       | Piercing              | —               | Tiny  | 2 lb.  | 6           | —           |
-| Ketch-all pole*          | 1d4*    | 20       | Bludgeoning           | —               | Large | 8 lb.  | 11          | —           |
-| Mace, heavy              | 1d8     | 20       | Bludgeoning           | —               | Med.  | 8 lb.  | 5           | —           |
-| Mace, light              | 1d6     | 20       | Bludgeoning           | —               | Small | 6 lb.  | 4           | —           |
-| Quarterstaff*‡           | 1d6/1d6 | 20       | Bludgeoning           | —               | Large | 4 lb.  | 3           | —           |
-| Shortspear               | 1d8     | 20/x3    | Piercing              | 20 ft.          | Large | 5 lb.  | 5           | —           |
-| Sickle                   | 1d6     | 20       | Slashing              | —               | Small | 3 lb.  | 3           | —           |
-| **Archaic Weapons**      |         |          |                       |                 |       |        |             |             |
-| Battleaxe                | 1d8     | 20/x3    | Slashing              | —               | Med.  | 7 lb.  | 11          | —           |
-| Cutlass*                 | 1d6     | 19–20    | Piercing, Slashing    | —               | Small | 3 lb.  | 11          | —           |
-| Falchion                 | 2d4     | 18–20    | Slashing              | —               | Large | 16 lb. | 12          | —           |
-| Flail, heavy*            | 1d10    | 19–20    | Bludgeoning           | —               | Large | 20 lb. | 8           | —           |
-| Flail, light*            | 1d8     | 20       | Bludgeoning           | —               | Med.  | 5 lb.  | 7           | —           |
-| Glaive†                  | 1d10    | 20/x3    | Slashing              | —               | Large | 15 lb. | 9           | —           |
-| Greataxe                 | 1d12    | 20/x3    | Slashing              | —               | Large | 20 lb. | 12          | —           |
-| Greatclub                | 1d10    | 20       | Bludgeoning           | —               | Large | 10 lb. | 6           | —           |
-| Greatsword               | 2d6     | 19–20    | Slashing              | —               | Large | 15 lb. | 13          | —           |
-| Guisarme*†               | 2d4     | 20/x3    | Slashing              | —               | Large | 15 lb. | 9           | —           |
-| Halberd*†                | 1d10    | 20/x3    | Piercing, Slashing    | —               | Large | 15 lb. | 10          | —           |
-| Lance, heavy             | 1d8     | 20/x3    | Piercing              | —               | Med.  | 10 lb. | 7           | —           |
-| Lance, light             | 1d6     | 20/x3    | Piercing              | —               | Small | 5 lb.  | 6           | —           |
-| Maul                     | 1d10    | 20/x3    | Bludgeoning           | —               | Large | 20 lb. | 10          | —           |
-| Naginata†                | 1d10    | 20/x3    | Slashing              | —               | Large | 15 lb. | 13          | —           |
-| Pick                     | 1d4     | 20/x4    | Piercing              | —               | Small | 4 lb.  | 6           | —           |
-| Pickaxe                  | 1d6     | 20/x4    | Piercing              | —               | Med.  | 6 lb.  | 7           | —           |
-| Ranseur†                 | 2d4     | 20/x3    | Piercing              | —               | Large | 15 lb. | 9           | —           |
-| Saber*                   | 1d8     | 19–20    | Slashing, Piercing    | —               | Med.  | 4 lb.  | 11          | —           |
-| Scimitar                 | 1d6     | 18–20    | Slashing              | —               | Med.  | 4 lb.  | 12          | —           |
-| Scythe                   | 2d4     | 20/x4    | Piercing, Slashing    | —               | Large | 12 lb. | 7           | —           |
-| Sword, short             | 1d6     | 19–20    | Piercing              | —               | Small | 3 lb.  | 10          | —           |
-| Trident                  | 1d8     | 20       | Piercing              | 10 ft.          | Med.  | 5 lb.  | 7           | —           |
-| Wakizashi                | 1d6     | 19–20    | Slashing              | —               | Small | 3 lb.  | 11          | —           |
-| Warhammer                | 1d8     | 20/x3    | Bludgeoning           | —               | Med.  | 8 lb.  | 9           | —           |
-| **Exotic Melee Weapons** |         |          |                       |                 |       |        |             |             |
-| Axe, orc double*‡        | 1d8/1d8 | 20/x3    | Slashing              | —               | Large | 25 lb. | 15          | —           |
-| Flail, dire*‡            | 1d8/1d8 | 20       | Bludgeoning           | —               | Large | 20 lb. | 15          | —           |
-| Hammer, gnome hooked*‡   | 1d6/1d4 | x3/x4*   | Bludgeoning, Piercing | —               | Med.  | 6 lb.  | 15          | —           |
-| Khopesh*                 | 1d8     | 19–20    | Slashing              | —               | Med.  | 12 lb. | 11          | —           |
-| Nekode*                  | 1d4     | 20       | Piercing              | —               | Tiny  | 2 lb.  | 8           | —           |
-| Ninja-to*                | 1d6     | 19–20    | Slashing              | —               | Small | 3 lb.  | 10          | —           |
-| Scourge*                 | 1d8     | 20       | Slashing              | —               | Med.  | 2 lb.  | 6           | —           |
-| Shikomi-zue              | 1d8     | 20/x3    | Piercing              | —               | Large | 5 lb.  | 12          | —           |
-| Sword, bastard*          | 1d10    | 19–20    | Slashing              | —               | Med.  | 10 lb. | 15          | —           |
-| Sword, two-bladed*‡      | 1d8/1d8 | 19–20    | Slashing              | —               | Large | 15 lb. | 16          | —           |
-| Urgosh, dwarven*‡        | 1d8/1d6 | 20/x3    | Slashing, Piercing    | —               | Large | 15 lb. | 15          | —           |
-| Waraxe, dwarven*         | 1d10    | 20/x3    | Slashing              | —               | Med.  | 15 lb. | 15          | —           |
-| War fan*                 | 1d6     | 20/x3    | Slashing              | —               | Small | 3 lb.  | 12          | —           |
+| **Simple Weapons** | | | | | | | | |
+| Club, spiked | 1d8 | 20 | Bludgeoning, Piercing | — | Med. | 8 lb. | 5 | — |
+| Dagger, punching | 1d4 | 20/x3 | Piercing | — | Tiny | 2 lb. | 5 | — |
+| Gauntlet | * |* | Bludgeoning | — | * | 2 lb. | 5 | — |
+| Gauntlet, spiked | 1d4 | 20 | Piercing | — | Tiny | 2 lb. | 6 | — |
+| Ketch-all pole* | 1d4* | 20 | Bludgeoning | — | Large | 8 lb. | 11 | — |
+| Mace, heavy | 1d8 | 20 | Bludgeoning | — | Med. | 8 lb. | 5 | — |
+| Mace, light | 1d6 | 20 | Bludgeoning | — | Small | 6 lb. | 4 | — |
+| Quarterstaff*‡ | 1d6/1d6 | 20 | Bludgeoning | — | Large | 4 lb. | 3 | — |
+| Shortspear | 1d8 | 20/x3 | Piercing | 20 ft. | Large | 5 lb. | 5 | — |
+| Sickle | 1d6 | 20 | Slashing | — | Small | 3 lb. | 3 | — |
+| **Archaic Weapons** | | | | | | | | |
+| Battleaxe | 1d8 | 20/x3 | Slashing | — | Med. | 7 lb. | 11 | — |
+| Cutlass* | 1d6 | 19–20 | Piercing, Slashing | — | Small | 3 lb. | 11 | — |
+| Falchion | 2d4 | 18–20 | Slashing | — | Large | 16 lb. | 12 | — |
+| Flail, heavy* | 1d10 | 19–20 | Bludgeoning | — | Large | 20 lb. | 8 | — |
+| Flail, light* | 1d8 | 20 | Bludgeoning | — | Med. | 5 lb. | 7 | — |
+| Glaive† | 1d10 | 20/x3 | Slashing | — | Large | 15 lb. | 9 | — |
+| Greataxe | 1d12 | 20/x3 | Slashing | — | Large | 20 lb. | 12 | — |
+| Greatclub | 1d10 | 20 | Bludgeoning | — | Large | 10 lb. | 6 | — |
+| Greatsword | 2d6 | 19–20 | Slashing | — | Large | 15 lb. | 13 | — |
+| Guisarme*† | 2d4 | 20/x3 | Slashing | — | Large | 15 lb. | 9 | — |
+| Halberd*† | 1d10 | 20/x3 | Piercing, Slashing | — | Large | 15 lb. | 10 | — |
+| Lance, heavy | 1d8 | 20/x3 | Piercing | — | Med. | 10 lb. | 7 | — |
+| Lance, light | 1d6 | 20/x3 | Piercing | — | Small | 5 lb. | 6 | — |
+| Maul | 1d10 | 20/x3 | Bludgeoning | — | Large | 20 lb. | 10 | — |
+| Naginata† | 1d10 | 20/x3 | Slashing | — | Large | 15 lb. | 13 | — |
+| Pick | 1d4 | 20/x4 | Piercing | — | Small | 4 lb. | 6 | — |
+| Pickaxe | 1d6 | 20/x4 | Piercing | — | Med. | 6 lb. | 7 | — |
+| Ranseur† | 2d4 | 20/x3 | Piercing | — | Large | 15 lb. | 9 | — |
+| Saber* | 1d8 | 19–20 | Slashing, Piercing | — | Med. | 4 lb. | 11 | — |
+| Scimitar | 1d6 | 18–20 | Slashing | — | Med. | 4 lb. | 12 | — |
+| Scythe | 2d4 | 20/x4 | Piercing, Slashing | — | Large | 12 lb. | 7 | — |
+| Sword, short | 1d6 | 19–20 | Piercing | — | Small | 3 lb. | 10 | — |
+| Trident | 1d8 | 20 | Piercing | 10 ft. | Med. | 5 lb. | 7 | — |
+| Wakizashi | 1d6 | 19–20 | Slashing | — | Small | 3 lb. | 11 | — |
+| Warhammer | 1d8 | 20/x3 | Bludgeoning | — | Med. | 8 lb. | 9 | — |
+| **Exotic Melee Weapons** | | | | | | | | |
+| Axe, orc double*‡ | 1d8/1d8 | 20/x3 | Slashing | — | Large | 25 lb. | 15 | — |
+| Flail, dire*‡ | 1d8/1d8 | 20 | Bludgeoning | — | Large | 20 lb. | 15 | — |
+| Hammer, gnome hooked*‡ | 1d6/1d4 | x3/x4* | Bludgeoning, Piercing | — | Med. | 6 lb. | 15 | — |
+| Khopesh* | 1d8 | 19–20 | Slashing | — | Med. | 12 lb. | 11 | — |
+| Nekode* | 1d4 | 20 | Piercing | — | Tiny | 2 lb. | 8 | — |
+| Ninja-to* | 1d6 | 19–20 | Slashing | — | Small | 3 lb. | 10 | — |
+| Scourge* | 1d8 | 20 | Slashing | — | Med. | 2 lb. | 6 | — |
+| Shikomi-zue | 1d8 | 20/x3 | Piercing | — | Large | 5 lb. | 12 | — |
+| Sword, bastard* | 1d10 | 19–20 | Slashing | — | Med. | 10 lb. | 15 | — |
+| Sword, two-bladed*‡ | 1d8/1d8 | 19–20 | Slashing | — | Large | 15 lb. | 16 | — |
+| Urgosh, dwarven*‡ | 1d8/1d6 | 20/x3 | Slashing, Piercing | — | Large | 15 lb. | 15 | — |
+| Waraxe, dwarven* | 1d10 | 20/x3 | Slashing | — | Med. | 15 lb. | 15 | — |
+| War fan* | 1d6 | 20/x3 | Slashing | — | Small | 3 lb. | 12 | — |
 
 See the description of this weapon for special rules. *†*Reach weapon.* ‡*Double weapon.
 

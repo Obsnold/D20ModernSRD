@@ -32,39 +32,39 @@ Demolition and Disable Device skill checks.
 
 ## Gremlin
 
-| Stat              | Value                                                                                      |
+| Stat | Value |
 |---|---|
-| CR                | 1/6                                                                                        |
-| Size              | Diminutive                                                                                 |
-| Type              | fey                                                                                        |
-| HD                | 1/8d6–1                                                                                    |
-| hp                | 1                                                                                          |
-| Mas               | 9                                                                                          |
-| Init              | +4                                                                                         |
-| Spd               | 5 ft., fly 30 ft. (good)                                                                   |
-| Defense           | 18                                                                                         |
-| Touch             | 18                                                                                         |
-| Flat-Footed       | 14                                                                                         |
-| Defense Breakdown | +4 size, +4 Dex                                                                            |
-| BAB               | +0                                                                                         |
-| Grap              | –17                                                                                        |
-| Atk               | –1 melee (1, claw or tiny wrench)                                                          |
-| Full Atk          | –1 melee (1, claw or tiny wrench) or +8 ranged                                             |
-| FS                | 1 ft. by 1 ft.                                                                             |
-| Reach             | 0 ft.                                                                                      |
-| SQ                | disassemble device, mystic aid, spell-like abilities, low-light vision, jury-rigged repair |
-| AL                | none                                                                                       |
-| Fort              | –1                                                                                         |
-| Ref               | +4                                                                                         |
-| Will              | +4                                                                                         |
-| AP                | 0                                                                                          |
-| Rep               | +0                                                                                         |
-| Str               | 1                                                                                          |
-| Dex               | 18                                                                                         |
-| Con               | 9                                                                                          |
-| Int               | 14                                                                                         |
-| Wis               | 14                                                                                         |
-| Cha               | 10                                                                                         |
+| CR | 1/6 |
+| Size | Diminutive |
+| Type | fey |
+| HD | 1/8d6–1 |
+| hp | 1 |
+| Mas | 9 |
+| Init | +4 |
+| Spd | 5 ft., fly 30 ft. (good) |
+| Defense | 18 |
+| Touch | 18 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +4 size, +4 Dex |
+| BAB | +0 |
+| Grap | –17 |
+| Atk | –1 melee (1, claw or tiny wrench) |
+| Full Atk | –1 melee (1, claw or tiny wrench) or +8 ranged |
+| FS | 1 ft. by 1 ft. |
+| Reach | 0 ft. |
+| SQ | disassemble device, mystic aid, spell-like abilities, low-light vision, jury-rigged repair |
+| AL | none |
+| Fort | –1 |
+| Ref | +4 |
+| Will | +4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 1 |
+| Dex | 18 |
+| Con | 9 |
+| Int | 14 |
+| Wis | 14 |
+| Cha | 10 |
 
 **Skills**: Computer Use +6, Craft (electronic) +6,
 Craft (mechanical) +6, Disable Device +12, Demolitions +10, Escape

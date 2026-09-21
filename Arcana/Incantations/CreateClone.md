@@ -1,17 +1,17 @@
 # Create Clone
 
-| Stat             | Value                                                                                                |
+| Stat | Value |
 |---|---|
-| School           | Necromancy                                                                                           |
-| Skill Check      | Knowledge (arcane lore) DC 32, 7 successes, and Knowledge (earth and life sciences) DC 32, 1 success |
-| Failure          | Two consecutive failed skill checks                                                                  |
-| Components       | V, S, M, F, XP                                                                                       |
-| Casting Time     | 8 hours (minimum) and see text                                                                       |
-| Range            | Touch                                                                                                |
-| Effect           | One clone                                                                                            |
-| Duration         | Instantaneous                                                                                        |
-| Saving Throw     | None                                                                                                 |
-| Spell Resistance | No                                                                                                   |
+| School | Necromancy |
+| Skill Check | Knowledge (arcane lore) DC 32, 7 successes, and Knowledge (earth and life sciences) DC 32, 1 success |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, F, XP |
+| Casting Time | 8 hours (minimum) and see text |
+| Range | Touch |
+| Effect | One clone |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 This incantation makes an inert duplicate of a creature. If the original
 individual has been slain, the original’s soul transfers to the clone,

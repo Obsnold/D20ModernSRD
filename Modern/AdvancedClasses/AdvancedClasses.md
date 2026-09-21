@@ -11,7 +11,7 @@ the prerequisites of the class, regardless of what basic classes they
 have gained levels in. The associations between basic classes and
 advanced classes are summarized on the following table.
 
-| Basic Class1 | Advanced Class |
+| Basic Class¹ | Advanced Class |
 |---|---|
 | Strong | [Soldier](Soldier.md); [Martial Artist](MartialArtist.md) |
 | Fast | [Gunslinger](GunSlinger.md); [Infiltrator](Infiltrator.md) |
@@ -20,7 +20,7 @@ advanced classes are summarized on the following table.
 | Dedicated | [Field Medic](FieldMedic.md); [Investigator](Investigator.md), [Acolyte](Acolyte.md) |
 | Charismatic | [Personality](Personality.md); [Negotiator](Negotiator.md) |
 
-1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
+¹ The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
 
 The Gamemaster may add advanced classes specifically suited to his or
 her campaign. Conversely, the GM can decide that certain advanced

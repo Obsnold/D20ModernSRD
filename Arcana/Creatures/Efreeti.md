@@ -70,37 +70,37 @@ normal sight, and efreet can function with no light at all.
 
 ## Efreeti
 
-| Stat              | Value                                                                                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                                                                     |
-| Size              | Large                                                                                                                 |
-| Type              | outsider                                                                                                              |
-| HD                | 10d8+20                                                                                                               |
-| hp                | 65                                                                                                                    |
-| Mas               | 14                                                                                                                    |
-| Init              | +7 (+3 Dex, +4 Improved Initiative)                                                                                   |
-| Spd               | 30 ft., fly 20 ft. (perfect)                                                                                          |
-| Defense           | 18                                                                                                                    |
-| Touch             | 12                                                                                                                    |
-| Flat-Footed       | 15                                                                                                                    |
-| Defense Breakdown | –1 size, +3 Dex, +6 natural                                                                                           |
-| BAB               | +10                                                                                                                   |
-| Grap              | +20                                                                                                                   |
-| Atk               | +15 melee (1d8+9 plus 1d6 fire, slam)                                                                                 |
-| Full Atk          | +15/+10 melee (1d8+9 plus 1d6 fire, slam)                                                                             |
-| FS                | 10 ft. by 10 ft.                                                                                                      |
-| Reach             | 10 ft.                                                                                                                |
-| SQ                | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, telepathy, darkvision 60 ft. |
-| AL                | evil, law                                                                                                             |
-| Fort              | +9                                                                                                                    |
-| Ref               | +10                                                                                                                   |
-| Will              | +9                                                                                                                    |
-| Str               | 23                                                                                                                    |
-| Dex               | 17                                                                                                                    |
-| Con               | 14                                                                                                                    |
-| Int               | 12                                                                                                                    |
-| Wis               | 15                                                                                                                    |
-| Cha               | 15                                                                                                                    |
+| CR | 8 |
+| Size | Large |
+| Type | outsider |
+| HD | 10d8+20 |
+| hp | 65 |
+| Mas | 14 |
+| Init | +7 (+3 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 20 ft. (perfect) |
+| Defense | 18 |
+| Touch | 12 |
+| Flat-Footed | 15 |
+| Defense Breakdown | –1 size, +3 Dex, +6 natural |
+| BAB | +10 |
+| Grap | +20 |
+| Atk | +15 melee (1d8+9 plus 1d6 fire, slam) |
+| Full Atk | +15/+10 melee (1d8+9 plus 1d6 fire, slam) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, telepathy, darkvision 60 ft. |
+| AL | evil, law |
+| Fort | +9 |
+| Ref | +10 |
+| Will | +9 |
+| Str | 23 |
+| Dex | 17 |
+| Con | 14 |
+| Int | 12 |
+| Wis | 15 |
+| Cha | 15 |
 
 **Skills:** Bluff +12, Concentration +12, Craft (any
 one) +8, Escape Artist +11, Intimidate +13, Listen +12, Move Silently
@@ -118,39 +118,39 @@ as character class.
 
 ## Efreeti Archaic Weaponsmaster 5 (Efreeti Noble)
 
-| Stat              | Value                                                                                                                                                                                                       |
+| Stat | Value |
 |---|---|
-| CR                | 13                                                                                                                                                                                                          |
-| Size              | Large                                                                                                                                                                                                       |
-| Type              | outsider                                                                                                                                                                                                    |
-| HD                | 10d8+20 plus 5d10+10                                                                                                                                                                                        |
-| hp                | 112                                                                                                                                                                                                         |
-| Mas               | 14                                                                                                                                                                                                          |
-| Init              | +7 (+3 Dex, +4 Improved Initiative)                                                                                                                                                                         |
-| Spd               | 30 ft., fly 20 ft. (perfect)                                                                                                                                                                                |
-| Defense           | 21                                                                                                                                                                                                          |
-| Touch             | 15                                                                                                                                                                                                          |
-| Flat-Footed       | 18                                                                                                                                                                                                          |
-| Defense Breakdown | –1 size, +3 Dex, +6 natural, +3 class                                                                                                                                                                       |
-| BAB               | +13                                                                                                                                                                                                         |
-| Grap              | +23                                                                                                                                                                                                         |
-| Atk               | +19 melee (1d8+9 plus 1d6 fire, slam) or +20 melee (2d6+12/ 18–20 plus 1d6 fire, Huge falchion)                                                                                                             |
-| Full Atk          | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +20/+15/+10 melee (2d6+12/18–20 plus 1d6 fire, Huge falchion)                                                                                               |
-| FS                | 10 ft. by 10 ft.                                                                                                                                                                                            |
-| Reach             | 10 ft.                                                                                                                                                                                                      |
-| SQ                | heat, spell-like abilities, *polymorph* (self only), *grant wishes,* immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
-| AL                | evil, law                                                                                                                                                                                                   |
-| Fort              | +13                                                                                                                                                                                                         |
-| Ref               | +11                                                                                                                                                                                                         |
-| Will              | +10                                                                                                                                                                                                         |
-| AP                | 2                                                                                                                                                                                                           |
-| Rep               | +2                                                                                                                                                                                                          |
-| Str               | 24                                                                                                                                                                                                          |
-| Dex               | 17                                                                                                                                                                                                          |
-| Con               | 14                                                                                                                                                                                                          |
-| Int               | 12                                                                                                                                                                                                          |
-| Wis               | 15                                                                                                                                                                                                          |
-| Cha               | 15                                                                                                                                                                                                          |
+| CR | 13 |
+| Size | Large |
+| Type | outsider |
+| HD | 10d8+20 plus 5d10+10 |
+| hp | 112 |
+| Mas | 14 |
+| Init | +7 (+3 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 20 ft. (perfect) |
+| Defense | 21 |
+| Touch | 15 |
+| Flat-Footed | 18 |
+| Defense Breakdown | –1 size, +3 Dex, +6 natural, +3 class |
+| BAB | +13 |
+| Grap | +23 |
+| Atk | +19 melee (1d8+9 plus 1d6 fire, slam) or +20 melee (2d6+12/ 18–20 plus 1d6 fire, Huge falchion) |
+| Full Atk | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +20/+15/+10 melee (2d6+12/18–20 plus 1d6 fire, Huge falchion) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | heat, spell-like abilities, *polymorph* (self only), *grant wishes,* immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
+| AL | evil, law |
+| Fort | +13 |
+| Ref | +11 |
+| Will | +10 |
+| AP | 2 |
+| Rep | +2 |
+| Str | 24 |
+| Dex | 17 |
+| Con | 14 |
+| Int | 12 |
+| Wis | 15 |
+| Cha | 15 |
 
 **Skills:** Bluff +12, Concentration +12, Craft (any
 one) +8, Escape Artist +7, Intimidate +13, Knowledge (history) +6,

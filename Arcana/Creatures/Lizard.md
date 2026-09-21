@@ -23,39 +23,39 @@ Finesse (bite).
 
 ## Lizard
 
-| Stat              | Value                  |
+| Stat | Value |
 |---|---|
-| CR                | 1/6                    |
-| Size              | Tiny                   |
-| Type              | animal                 |
-| HD                | 1/2 d8                 |
-| hp                | 2                      |
-| Mas               | 10                     |
-| Init              | +2                     |
-| Spd               | 20 ft., climb 20 ft.   |
-| Defense           | 14                     |
-| Touch             | 14                     |
-| Flat-Footed       | 12                     |
-| Defense Breakdown | +2 size, +2 Dex        |
-| BAB               | +0                     |
-| Grap              | –12                    |
-| Atk               | +4 melee (1d3–4, bite) |
-| Full Atk          | +4 melee (1d3–4, bite) |
-| FS                | 2 1/2 ft. by 2 1/2 ft. |
-| Reach             | 0 ft.                  |
-| SQ                | low-light vision       |
-| AL                | none                   |
-| Fort              | +2                     |
-| Ref               | +4                     |
-| Will              | +1                     |
-| AP                | 0                      |
-| Rep               | +0                     |
-| Str               | 3                      |
-| Dex               | 15                     |
-| Con               | 10                     |
-| Int               | 2                      |
-| Wis               | 12                     |
-| Cha               | 2                      |
+| CR | 1/6 |
+| Size | Tiny |
+| Type | animal |
+| HD | 1/2 d8 |
+| hp | 2 |
+| Mas | 10 |
+| Init | +2 |
+| Spd | 20 ft., climb 20 ft. |
+| Defense | 14 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 size, +2 Dex |
+| BAB | +0 |
+| Grap | –12 |
+| Atk | +4 melee (1d3–4, bite) |
+| Full Atk | +4 melee (1d3–4, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | low-light vision |
+| AL | none |
+| Fort | +2 |
+| Ref | +4 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 3 |
+| Dex | 15 |
+| Con | 10 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +10, Climb +6, Hide +14 (+18 in
 wooded or overgrown areas), Listen +5, Move Silently +6, Spot +5.
@@ -66,38 +66,38 @@ wooded or overgrown areas), Listen +5, Move Silently +6, Spot +5.
 
 ## Giant Lizard
 
-| Stat              | Value                             |
+| Stat | Value |
 |---|---|
-| CR                | 2                                 |
-| Size/Type         | Medium animal                     |
-| HD                | 3d8+9                             |
-| hp                | 22                                |
-| Mas               | 17                                |
-| Init              | +2                                |
-| Spd               | 30 ft., climb 30 ft., swim 30 ft. |
-| Defense           | 15                                |
-| Touch             | 12                                |
-| Flat-Footed       | 13                                |
-| Defense Breakdown | +2 Dex, +3 natural                |
-| BAB               | +2                                |
-| Grap              | +5                                |
-| Atk               | +5 melee (1d8+4, bite)            |
-| Full Atk          | +5 melee (1d8+4, bite)            |
-| FS                | 5 ft. by 5 ft.                    |
-| Reach             | 5 ft.                             |
-| SQ                | Poison, low-light vision          |
-| AL                | none                              |
-| Fort              | +6                                |
-| Ref               | +5                                |
-| Will              | +2                                |
-| AP                | 0                                 |
-| Rep               | +0                                |
-| Str               | 17                                |
-| Dex               | 15                                |
-| Con               | 17                                |
-| Int               | 2                                 |
-| Wis               | 12                                |
-| Cha               | 2                                 |
+| CR | 2 |
+| Size/Type | Medium animal |
+| HD | 3d8+9 |
+| hp | 22 |
+| Mas | 17 |
+| Init | +2 |
+| Spd | 30 ft., climb 30 ft., swim 30 ft. |
+| Defense | 15 |
+| Touch | 12 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +2 Dex, +3 natural |
+| BAB | +2 |
+| Grap | +5 |
+| Atk | +5 melee (1d8+4, bite) |
+| Full Atk | +5 melee (1d8+4, bite) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | Poison, low-light vision |
+| AL | none |
+| Fort | +6 |
+| Ref | +5 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 15 |
+| Con | 17 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 2 |
 
 **Skills:** Balance +10, Climb +13, Hide +6 (+10 in
 wooded or overgrown areas), Listen +5, Move Silently +6, Spot +5, Swim

@@ -41,18 +41,18 @@ nonhumans).
 
 **Table: The Engineer**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                        | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st         | +0                | +1        | +1       | +0        | Builder, improve kit (+1)                      | +0            | +0               |
-| 2nd         | +1                | +2        | +2       | +0        | Quick craft, superior repair                   | +1            | +0               |
-| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                                     | +1            | +1               |
-| 4th         | +3                | +2        | +2       | +1        | Improve kit (+2), reconfigure weapon, sabotage | +1            | +1               |
-| 5th         | +3                | +3        | +3       | +1        | Craft XP reserve, quick craft                  | +2            | +1               |
-| 6th         | +4                | +3        | +3       | +2        | Bonus feat, craft XP reserve                   | +2            | +2               |
-| 7th         | +5                | +4        | +4       | +2        | Craft XP reserve, improve kit (+3), quick fix  | +2            | +2               |
-| 8th         | +6                | +4        | +4       | +2        | Craft XP reserve, weapon upgrade               | +3            | +2               |
-| 9th         | +6                | +4        | +4       | +3        | Bonus feat, craft XP reserve                   | +3            | +3               |
-| 10th        | +7                | +5        | +5       | +3        | Craft XP reserve, unflustered                  | +3            | +3               |
+| 1st | +0 | +1 | +1 | +0 | Builder, improve kit (+1) | +0 | +0 |
+| 2nd | +1 | +2 | +2 | +0 | Quick craft, superior repair | +1 | +0 |
+| 3rd | +2 | +2 | +2 | +1 | Bonus feat | +1 | +1 |
+| 4th | +3 | +2 | +2 | +1 | Improve kit (+2), reconfigure weapon, sabotage | +1 | +1 |
+| 5th | +3 | +3 | +3 | +1 | Craft XP reserve, quick craft | +2 | +1 |
+| 6th | +4 | +3 | +3 | +2 | Bonus feat, craft XP reserve | +2 | +2 |
+| 7th | +5 | +4 | +4 | +2 | Craft XP reserve, improve kit (+3), quick fix | +2 | +2 |
+| 8th | +6 | +4 | +4 | +2 | Craft XP reserve, weapon upgrade | +3 | +2 |
+| 9th | +6 | +4 | +4 | +3 | Bonus feat, craft XP reserve | +3 | +3 |
+| 10th | +7 | +5 | +5 | +3 | Craft XP reserve, unflustered | +3 | +3 |
 
 ## Class Features
 
@@ -118,12 +118,12 @@ cybernetic attachment.
 
 **Table: Superior Repair**
 
-| Repair Check Result | Damage Repaired            |
+| Repair Check Result | Damage Repaired |
 |---|---|
-| Less than 20        | None                       |
-| 20–29               | 2d6 + Engineer class level |
-| 30–39               | 3d6 + Engineer class level |
-| 40+                 | 4d6 + Engineer class level |
+| Less than 20 | None |
+| 20–29 | 2d6 + Engineer class level |
+| 30–39 | 3d6 + Engineer class level |
+| 40+ | 4d6 + Engineer class level |
 
 **Bonus Feats**
 
@@ -235,17 +235,17 @@ weapons, as well as weapon systems aboard vehicles, mecha, or starships.
 
 **Table: Weapon Upgrade**
 
-| Handheld/Robot Weapon Upgrade                    | DC     |
+| Handheld/Robot Weapon Upgrade | DC |
 |---|---|
-| Weapon also dazes target for 1 round             | 25     |
-| Weapon also knocks target prone                  | 30     |
-| Weapon leaves target shaken for 1d4 rounds       | 35     |
-| Weapon also stuns target for 1d4 rounds          | 40     |
-| **Vehicle/Mecha/Starship Weapon Upgrade**        | **DC** |
-| Weapon deals an extra two dice of damage         | 25     |
-| Weapon ignores 5 points of target’s hardness/DR  | 30     |
-| Weapon’s critical hit multiplier increases by 1  | 35     |
-| Weapon ignores 10 points of target’s hardness/DR | 40     |
+| Weapon also dazes target for 1 round | 25 |
+| Weapon also knocks target prone | 30 |
+| Weapon leaves target shaken for 1d4 rounds | 35 |
+| Weapon also stuns target for 1d4 rounds | 40 |
+| **Vehicle/Mecha/Starship Weapon Upgrade** | **DC** |
+| Weapon deals an extra two dice of damage | 25 |
+| Weapon ignores 5 points of target’s hardness/DR | 30 |
+| Weapon’s critical hit multiplier increases by 1 | 35 |
+| Weapon ignores 10 points of target’s hardness/DR | 40 |
 
 The Engineer must spend 1 hour tinkering with the weapon, after which he
 must succeed at a Craft (mechanical) check. The DC varies depending on

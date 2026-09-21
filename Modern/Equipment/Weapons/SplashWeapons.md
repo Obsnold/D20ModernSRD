@@ -8,12 +8,12 @@ improvised explosives.
 
 **Table: Splash Weapons**
 
-| **Weapon** |** Direct Hit Damage** |** Splash Damage** |** Critical<sup>2</sup>** |** Damage Type** |** Reflex DC** |** Range Increment** |** Size** |** Weight** |** Purchase DC** | Restriction |
+| **Weapon** |** Direct Hit Damage** |** Splash Damage** |** Critical²** |** Damage Type** |** Reflex DC** |** Range Increment** |** Size** |** Weight** |** Purchase DC** | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Acid, mild | 1d6 | 1 | 20 | Acid | — | 10 ft. | Tiny | 1 lb. | 6 | — |
-| Molotov cocktail<sup>1</sup> | 1d6 | 1 | 20 | Fire | — | 10 ft. | Small | 1 lb. | 3 | — |
+| Molotov cocktail¹ | 1d6 | 1 | 20 | Fire | — | 10 ft. | Small | 1 lb. | 3 | — |
 
-1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
+¹ This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
 2 Threat range applies to direct hits only; splash damage does not threaten a critical hit.
 
 ## Acid, Mild

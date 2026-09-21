@@ -109,23 +109,23 @@ The range is limited only by the range of the sensors.
 
 **Table: Transport Booth Purchase DC Modifiers**
 
-| Transport Booth’s Purchase DC         | Communication System Modifier |  |
+| Transport Booth’s Purchase DC | Communication System Modifier | |
 |---|---|---|
-| **Progress Level 5: Information Age** |                               |  |
-| Radio Transceiver                     | +0                            |  |
-| **Progress Level 6: Fusion Age**      |                               |  |
-| Laser Transceiver                     | +3                            |  |
-| **Progress Level 7: Gravity Ag**e     |                               |  |
-| Mass Transceiver                      | +5                            |  |
-| **Progress Level 8: Energy Age**      |                               |  |
-| Drive Transceiver                     | +8                            |  |
-| **Progress Level 9: Matter Age**      |                               |  |
-| Ansible                               | +13                           |  |
+| **Progress Level 5: Information Age** | | |
+| Radio Transceiver | +0 | |
+| **Progress Level 6: Fusion Age** | | |
+| Laser Transceiver | +3 | |
+| **Progress Level 7: Gravity Ag**e | | |
+| Mass Transceiver | +5 | |
+| **Progress Level 8: Energy Age** | | |
+| Drive Transceiver | +8 | |
+| **Progress Level 9: Matter Age** | | |
+| Ansible | +13 | |
 
 **Table: Check DCs For Transport Disks**
 
-| Distance       | Navigate Check DC | Computer Use DC |
+| Distance | Navigate Check DC | Computer Use DC |
 |---|---|---|
-| Planetary      | 15                | 20              |
-| Interplanetary | 20                | 25              |
-| Interstellar   | 25                | 30              |
+| Planetary | 15 | 20 |
+| Interplanetary | 20 | 25 |
+| Interstellar | 25 | 30 |

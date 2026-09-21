@@ -49,11 +49,11 @@ acid of the same type or a less potent type.
 | | | Craft DCs | | |
 |---|---|---|---|---|
 | Type of Acid | Purchase DC | Acid | Base | Time |
-| Mild (1d6/1d10) <sup>1</sup> | 8 | 15 | 10 | 1 min. |
+| Mild (1d6/1d10) ¹ | 8 | 15 | 10 | 1 min. |
 | Potent (2d6/2d10) | 12 | 20 | 15 | 30 min. |
 | Concentrated (3d6/3d10) | 16 | 30 | 20 | 1 hr. |
 
-1 The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.
+¹ The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.
 
 **Explosives:** Building an explosive from scratch is dangerous. If the
 Craft (chemical) check fails, the raw materials are wasted. If the check
@@ -67,14 +67,14 @@ detonator. Connecting a fuse or detonator requires a Demolitions check.
 
 | Type of Scratch-Built Explosive | Purchase DC | Craft DC | Reflex DC (save for half damage) | Time |
 |---|---|---|---|---|
-| Improvised (1d6/5 feet) <sup>1</sup> | 6 | 10 | 10 | 1 round |
+| Improvised (1d6/5 feet) ¹ | 6 | 10 | 10 | 1 round |
 | Simple (2d6/5 feet) | 12 | 15 | 12 | 10 min. |
 | Moderate (4d6/10 feet) | 16 | 20 | 12 | 1 hr. |
 | Complex (6d6/15 feet) | 20 | 25 | 15 | 3 hr. |
 | Powerful (8d6/20 feet) | 25 | 30 | 15 | 12 hr. |
 | Devastating (10d6/25 feet) | 30 | 35 | 18 | 24 hr. |
 
-1 The figures in parentheses are typical damage/burst radius for each type of explosive.
+¹ The figures in parentheses are typical damage/burst radius for each type of explosive.
 
 Scratch built explosives deal concussion damage.
 
@@ -126,7 +126,7 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 | Blue vitriol | Injury | 12 | 1d2 Con | 1d2 Con | 3 | Res (+2) | 9 | 1 hr. |
 | Blue-ringed octopus venom | Injury | 15 | 1d4 Con | 1d4 Con | 14 | Lic (+1) | n/a | n/a |
 | Chloral hydrate | Ingested | 18 | 1d6 Dex | Unconsciousness 1d3 hours | 12 | Res (+2) | 28 | 8 hr. |
-| Chloroform<sup>1</sup> | Inhaled | 17 | Unconsciousness 1d3 hours | — | 9 | Res (+2) | 24 | 4 hr. |
+| Chloroform¹ | Inhaled | 17 | Unconsciousness 1d3 hours | — | 9 | Res (+2) | 24 | 4 hr. |
 | Curare (plant) | Injury | 18 | 2d4 Dex | 2d4 Wis | 15 | Res (+2) | n/a | n/a |
 | Cyanide | Injury | 16 | 1d6 Con | 2d6 Con | 15 | Mil (+3) | 31 | 15 hr. |
 | Cyanogen | Inhaled | 19 | 1d4 Dex | 2d4 Con | 12 | Mil (+3) | 28 | 8 hr. |
@@ -145,7 +145,7 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 | Tear gas | Inhaled | 15 | Nauseated 1d6 rounds | — | 9 | Res (+2) | 21 | 4 hr. |
 | VX nerve gas | Inhaled | 22 | 1d6 Con | 2d6 Con | 21 | Illegal (+4) | 42 | 48 hr. |
 
-1 Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin.
+¹ Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin.
 n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question.
 
 **Special:** A character without a chemical kit takes a –4 penalty on

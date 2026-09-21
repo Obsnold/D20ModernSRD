@@ -20,59 +20,59 @@ General Equipment).
 
 **Table: General Equipment**
 
-| Item                               | Weight  | Purchase DC | Restriction |
+| Item | Weight | Purchase DC | Restriction |
 |---|---|---|---|
-| ***Clothing***                     |         |             |             |
-| **Clothing outfit**                |         |             |             |
-| Business                           | 3 lb.   | 12          | —           |
-| Double-sided                       | *       | +1*         | —           |
-| Stealth                            | 2 lb.   | 9           | —           |
-| ***Surveillance Gear***            |         |             |             |
-| Bug sweeper                        | 4.5 lb. | 21          | —           |
-| **Fiber optic camera**             |         |             |             |
-| 3-foot cable w/monitor             | 3.5 lb. | 17          | —           |
-| 6-foot cable w/monitor             | 4.5 lb. | 18          | —           |
-| 9-foot cable w/monitor             | 5.5 lb. | 19          | —           |
-| **Microphone**                     |         |             |             |
-| Contact                            | 1 lb.   | 12          | —           |
-| Laser                              | 3.5 lb. | 18          | —           |
-| Parabolic                          | 4.5 lb. | 14          | —           |
-| Pick-up                            | .5 lb.  | 12          | —           |
-| Shotgun                            | 3.5 lb. | 14          | —           |
-| **Microtransmitter**               |         |             |             |
-| Average quality                    | —       | 11          | —           |
-| Good quality                       | —       | 12          | —           |
-| Amazing quality                    | —       | 14          | —           |
-| Police scanner                     | 2 lb.   | 11          | —           |
-| **Video shades**                   |         |             |             |
-| Black and white                    | —       | 23          | —           |
-| Color                              | —       | 24          | —           |
-| ***Professional Equipment***       |         |             |             |
-| Breaking and entering kit          | 50 lb   | 20          | Ill (+4)    |
-| Capture kit                        | 57 lb.  | 21          | Res (+2)    |
-| Chemistry kit                      | 15 lb.  | 13          | Licensed    |
-| Concertina wire (20 ft.)           | 15 lb.  | 11          |             |
-| Fiend hunter’s kit                 | 40 lb.  | 21          | Res (+2)    |
-| Forced entry kit                   | 135 lb. | 21          | Res (+2)    |
-| Generator, portable                | 125 lb. | 19          | —           |
-| Glasscutter, circular              | 5 lb.   | 13          | Res (+2)    |
-| Headset, microphone                | —       | 13          | —           |
-| Headset w/light                    | —       | 14          | —           |
-| Headset w/camera                   | 1 lb.   | 16          | —           |
-| Hydraulic compressor               | 50 lb.  | 13          | —           |
-| Holy water (flask)                 | 1 lb.   | 15          | —           |
-| Jaws of life                       | 40 lb.  | 18          | Res (+2)    |
-| Liquid metal embrittlement sprayer | 50 lb.  | 18          | Res (+2)    |
-| Marbles, bag of                    | .5 lb.  | 3           | —           |
-| Ram, portable                      | 35 lb.  | 12          | Res (+2)    |
-| Road flare (3)                     | 1.5 lb. | 3           | —           |
-| Vampire slayer’s kit               | 20 lb.  | 16          | Res (+2)    |
-| Winch, portable                    | 15 lb.  | 16          | —           |
-| ***Sports Equipment***             |         |             |             |
-| In-line skates                     | 5 lb.   | 11          | —           |
-| Skateboard                         | 3 lb.   | 7           | —           |
-| Skis and poles                     | 10 lb.  | 19          | —           |
-| Snowboard                          | 8 lb.   | 16          | —           |
+| ***Clothing*** | | | |
+| **Clothing outfit** | | | |
+| Business | 3 lb. | 12 | — |
+| Double-sided | * | +1* | — |
+| Stealth | 2 lb. | 9 | — |
+| ***Surveillance Gear*** | | | |
+| Bug sweeper | 4.5 lb. | 21 | — |
+| **Fiber optic camera** | | | |
+| 3-foot cable w/monitor | 3.5 lb. | 17 | — |
+| 6-foot cable w/monitor | 4.5 lb. | 18 | — |
+| 9-foot cable w/monitor | 5.5 lb. | 19 | — |
+| **Microphone** | | | |
+| Contact | 1 lb. | 12 | — |
+| Laser | 3.5 lb. | 18 | — |
+| Parabolic | 4.5 lb. | 14 | — |
+| Pick-up | .5 lb. | 12 | — |
+| Shotgun | 3.5 lb. | 14 | — |
+| **Microtransmitter** | | | |
+| Average quality | — | 11 | — |
+| Good quality | — | 12 | — |
+| Amazing quality | — | 14 | — |
+| Police scanner | 2 lb. | 11 | — |
+| **Video shades** | | | |
+| Black and white | — | 23 | — |
+| Color | — | 24 | — |
+| ***Professional Equipment*** | | | |
+| Breaking and entering kit | 50 lb | 20 | Ill (+4) |
+| Capture kit | 57 lb. | 21 | Res (+2) |
+| Chemistry kit | 15 lb. | 13 | Licensed |
+| Concertina wire (20 ft.) | 15 lb. | 11 | |
+| Fiend hunter’s kit | 40 lb. | 21 | Res (+2) |
+| Forced entry kit | 135 lb. | 21 | Res (+2) |
+| Generator, portable | 125 lb. | 19 | — |
+| Glasscutter, circular | 5 lb. | 13 | Res (+2) |
+| Headset, microphone | — | 13 | — |
+| Headset w/light | — | 14 | — |
+| Headset w/camera | 1 lb. | 16 | — |
+| Hydraulic compressor | 50 lb. | 13 | — |
+| Holy water (flask) | 1 lb. | 15 | — |
+| Jaws of life | 40 lb. | 18 | Res (+2) |
+| Liquid metal embrittlement sprayer | 50 lb. | 18 | Res (+2) |
+| Marbles, bag of | .5 lb. | 3 | — |
+| Ram, portable | 35 lb. | 12 | Res (+2) |
+| Road flare (3) | 1.5 lb. | 3 | — |
+| Vampire slayer’s kit | 20 lb. | 16 | Res (+2) |
+| Winch, portable | 15 lb. | 16 | — |
+| ***Sports Equipment*** | | | |
+| In-line skates | 5 lb. | 11 | — |
+| Skateboard | 3 lb. | 7 | — |
+| Skis and poles | 10 lb. | 19 | — |
+| Snowboard | 8 lb. | 16 | — |
 
 See item description for more information.
 

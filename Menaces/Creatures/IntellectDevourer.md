@@ -50,39 +50,39 @@ creature.
 
 ## Intellect Devourer
 
-| Stat              | Value                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                                                        |
-| Size              | Small                                                                                                    |
-| Type              | aberration                                                                                               |
-| HD                | 6d8+12                                                                                                   |
-| hp                | 39                                                                                                       |
-| Mas               | 15                                                                                                       |
-| Init              | +8                                                                                                       |
-| Spd               | 40 ft.                                                                                                   |
-| Defense           | 17                                                                                                       |
-| Touch             | 15                                                                                                       |
-| Flat-Footed       | 13                                                                                                       |
-| Defense Breakdown | +1 size, +4 Dex, +2 natural                                                                              |
-| BAB               | +4                                                                                                       |
-| Grap              | +1                                                                                                       |
-| Atk               | +6 melee (1d3+1, claw)                                                                                   |
-| Full Atk          | +6 melee (1d3+1, claw) or +9 ranged                                                                      |
-| FS                | 5 ft. by 5 ft.                                                                                           |
-| Reach             | 5 ft.                                                                                                    |
-| SQ                | *body thief,* damage reduction 10/+1, electricity resistance 15, fire immunity, *invisibility, psionics* |
-| AL                | chaos, evil                                                                                              |
-| Fort              | +4                                                                                                       |
-| Ref               | +6                                                                                                       |
-| Will              | +6                                                                                                       |
-| AP                | 0                                                                                                        |
-| Rep               | +0                                                                                                       |
-| Str               | 13                                                                                                       |
-| Dex               | 19                                                                                                       |
-| Con               | 15                                                                                                       |
-| Int               | 12                                                                                                       |
-| Wis               | 12                                                                                                       |
-| Cha               | 10                                                                                                       |
+| CR | 8 |
+| Size | Small |
+| Type | aberration |
+| HD | 6d8+12 |
+| hp | 39 |
+| Mas | 15 |
+| Init | +8 |
+| Spd | 40 ft. |
+| Defense | 17 |
+| Touch | 15 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +1 size, +4 Dex, +2 natural |
+| BAB | +4 |
+| Grap | +1 |
+| Atk | +6 melee (1d3+1, claw) |
+| Full Atk | +6 melee (1d3+1, claw) or +9 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | *body thief,* damage reduction 10/+1, electricity resistance 15, fire immunity, *invisibility, psionics* |
+| AL | chaos, evil |
+| Fort | +4 |
+| Ref | +6 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 13 |
+| Dex | 19 |
+| Con | 15 |
+| Int | 12 |
+| Wis | 12 |
+| Cha | 10 |
 
 **Skills:** Climb +10, Jump +9, Listen +8, Perform (act) +6 (+11 when
 trying to pass off the possessed body as the original creature), Spot

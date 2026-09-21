@@ -20,38 +20,38 @@ Finesse (bite) and Weapon Finesse (claw).
 
 ## Eagle
 
-| Stat              | Value                                        |
+| Stat | Value |
 |---|---|
-| CR                | 1                                            |
-| Size              | Small                                        |
-| Type              | animal                                       |
-| HD                | 1d8+1                                        |
-| hp                | 5                                            |
-| Mas               | 12                                           |
-| Init              | +2                                           |
-| Spd               | 10 ft., fly 80 ft. (average)                 |
-| Defense           | 14                                           |
-| Touch             | 13                                           |
-| Flat-Footed       | 12                                           |
-| Defense Breakdown | +1 size, +2 Dex, +1 natural                  |
-| BAB               | +0                                           |
-| Grap              | –4                                           |
-| Atk               | +3 melee (1d3, claw)                         |
-| Full Atk          | +3 melee (1d3, 2 claws), –2 melee (1d4 bite) |
-| FS                | 5 ft. by 5 ft.                               |
-| Reach             | 5 ft.                                        |
-| SQ                | low-light vision                             |
-| Fort              | +3                                           |
-| Ref               | +4                                           |
-| Will              | +2                                           |
-| AP                | 0                                            |
-| Rep               | +0                                           |
-| Str               | 10                                           |
-| Dex               | 15                                           |
-| Con               | 12                                           |
-| Int               | 2                                            |
-| Wis               | 14                                           |
-| Cha               | 6                                            |
+| CR | 1 |
+| Size | Small |
+| Type | animal |
+| HD | 1d8+1 |
+| hp | 5 |
+| Mas | 12 |
+| Init | +2 |
+| Spd | 10 ft., fly 80 ft. (average) |
+| Defense | 14 |
+| Touch | 13 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +1 size, +2 Dex, +1 natural |
+| BAB | +0 |
+| Grap | –4 |
+| Atk | +3 melee (1d3, claw) |
+| Full Atk | +3 melee (1d3, 2 claws), –2 melee (1d4 bite) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | low-light vision |
+| Fort | +3 |
+| Ref | +4 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 15 |
+| Con | 12 |
+| Int | 2 |
+| Wis | 14 |
+| Cha | 6 |
 
 **Skills:** Hide +6, Listen +7, Spot +7 (+15 during
 daylight).

@@ -30,39 +30,39 @@ Hide checks made in snowy conditions.
 
 ## Yeti
 
-| Stat              | Value                                                     |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                         |
-| Size              | Large                                                     |
-| Type              | monstrous humanoid (cold)                                 |
-| HD                | 4d8+4                                                     |
-| hp                | 22                                                        |
-| Mas               | 12                                                        |
-| Init              | +1                                                        |
-| Spd               | 40 ft.                                                    |
-| Defense           | 14                                                        |
-| Touch             | 10                                                        |
-| Flat-Footed       | 13                                                        |
-| Defense Breakdown | –1 size, +1 Dex, +4 natural                               |
-| BAB               | +4                                                        |
-| Grap              | +12                                                       |
-| Atk               | +7 melee (1d6+4, claw)                                    |
-| Full Atk          | +7 melee (1d6+4, 2 claws)                                 |
-| FS                | 10 ft. by 10 ft.                                          |
-| Reach             | 10 ft.                                                    |
-| SQ                | cold subtype, constrict, darkvision 60 ft., improved grab |
-| AL                | none                                                      |
-| Fort              | +2                                                        |
-| Ref               | +5                                                        |
-| Will              | +5                                                        |
-| AP                | 0                                                         |
-| Rep               | +0                                                        |
-| Str               | 18                                                        |
-| Dex               | 13                                                        |
-| Con               | 12                                                        |
-| Int               | 9                                                         |
-| Wis               | 12                                                        |
-| Cha               | 11                                                        |
+| CR | 3 |
+| Size | Large |
+| Type | monstrous humanoid (cold) |
+| HD | 4d8+4 |
+| hp | 22 |
+| Mas | 12 |
+| Init | +1 |
+| Spd | 40 ft. |
+| Defense | 14 |
+| Touch | 10 |
+| Flat-Footed | 13 |
+| Defense Breakdown | –1 size, +1 Dex, +4 natural |
+| BAB | +4 |
+| Grap | +12 |
+| Atk | +7 melee (1d6+4, claw) |
+| Full Atk | +7 melee (1d6+4, 2 claws) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | cold subtype, constrict, darkvision 60 ft., improved grab |
+| AL | none |
+| Fort | +2 |
+| Ref | +5 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 18 |
+| Dex | 13 |
+| Con | 12 |
+| Int | 9 |
+| Wis | 12 |
+| Cha | 11 |
 
 **Skills:** Climb +10, Hide +2 (+17 in snowy conditions), Move Silently
 +6, Speak Giant, Survival +7.
@@ -73,39 +73,39 @@ Hide checks made in snowy conditions.
 
 ## Abominable Snowman (Advanced Yeti)
 
-| Stat              | Value                                                     |
+| Stat | Value |
 |---|---|
-| CR                | 6                                                         |
-| Size              | Huge                                                      |
-| Type              | monstrous humanoid (cold)                                 |
-| HD                | 12d8+36                                                   |
-| hp                | 90                                                        |
-| Mas               | 16                                                        |
-| Init              | +0                                                        |
-| Spd               | 40 ft.                                                    |
-| Defense           | 15                                                        |
-| Touch             | 8                                                         |
-| Flat-Footed       | 15                                                        |
-| Defense Breakdown | –2 size, +7 natural                                       |
-| BAB               | +12                                                       |
-| Grap              | +28                                                       |
-| Atk               | +18 melee (2d4+8, claw)                                   |
-| Full Atk          | +18 melee (2d4+8, 2 claws)                                |
-| FS                | 15 ft. by 15 ft.                                          |
-| Reach             | 10 ft.                                                    |
-| SQ                | cold subtype, constrict, darkvision 60 ft., improved grab |
-| AL                | any                                                       |
-| Fort              | +7                                                        |
-| Ref               | +8                                                        |
-| Will              | +9                                                        |
-| AP                | 0                                                         |
-| Rep               | +0                                                        |
-| Str               | 26                                                        |
-| Dex               | 11                                                        |
-| Con               | 16                                                        |
-| Int               | 9                                                         |
-| Wis               | 12                                                        |
-| Cha               | 11                                                        |
+| CR | 6 |
+| Size | Huge |
+| Type | monstrous humanoid (cold) |
+| HD | 12d8+36 |
+| hp | 90 |
+| Mas | 16 |
+| Init | +0 |
+| Spd | 40 ft. |
+| Defense | 15 |
+| Touch | 8 |
+| Flat-Footed | 15 |
+| Defense Breakdown | –2 size, +7 natural |
+| BAB | +12 |
+| Grap | +28 |
+| Atk | +18 melee (2d4+8, claw) |
+| Full Atk | +18 melee (2d4+8, 2 claws) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | cold subtype, constrict, darkvision 60 ft., improved grab |
+| AL | any |
+| Fort | +7 |
+| Ref | +8 |
+| Will | +9 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 26 |
+| Dex | 11 |
+| Con | 16 |
+| Int | 9 |
+| Wis | 12 |
+| Cha | 11 |
 
 **Skills:** Climb +14, Hide +3 (+18 in snowy conditions), Move Silently
 +10, Speak Giant, Survival +12.

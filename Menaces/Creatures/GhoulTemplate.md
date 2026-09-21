@@ -20,17 +20,17 @@ attacks, use the base damage values in the table below. Otherwise, use
 the values below or the base creature’s base damage, whichever is
 greater.
 
-| Size        | Bite Damage | Claw Damage |
+| Size | Bite Damage | Claw Damage |
 |---|---|---|
-| Fine        | 1           | —           |
-| Diminutive  | 1d2         | —           |
-| Tiny        | 1d3         | 1           |
-| Small       | 1d4         | 1d2         |
-| Medium-size | 1d6         | 1d3         |
-| Large       | 1d8         | 1d4         |
-| Huge        | 2d6         | 1d6         |
-| Gargantuan  | 2d8         | 2d4         |
-| Colossal    | 4d6         | 2d6         |
+| Fine | 1 | — |
+| Diminutive | 1d2 | — |
+| Tiny | 1d3 | 1 |
+| Small | 1d4 | 1d2 |
+| Medium-size | 1d6 | 1d3 |
+| Large | 1d8 | 1d4 |
+| Huge | 2d6 | 1d6 |
+| Gargantuan | 2d8 | 2d4 |
+| Colossal | 4d6 | 2d6 |
 
 **Special Qualities:** A ghoul retains all the special qualities of the
 base creature and gains the additional special qualities described
@@ -90,39 +90,39 @@ character.
 
 ## Ghoul (Human Strong Ordinary 1/Tough Ordinary 1)
 
-| Stat              | Value                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                                              |
-| Size              | Medium-size                                                                    |
-| Type              | undead                                                                         |
-| HD                | 2d12                                                                           |
-| hp                | 13                                                                             |
-| Mas               | —                                                                              |
-| Init              | +2                                                                             |
-| Spd               | 30 ft.                                                                         |
-| Defense           | 14                                                                             |
-| Touch             | 12                                                                             |
-| Flat-Footed       | 12                                                                             |
-| Defense Breakdown | +2 Dex, +2 natural                                                             |
-| BAB               | +1                                                                             |
-| Grap              | +4                                                                             |
-| Atk               | +4 melee (1d3+3, claw)                                                         |
-| Full Atk          | +4 melee (1d3+3, 2 claws) and +2 melee (1d6+1 plus disease, bite) or +3 ranged |
-| FS                | 5 ft. by 5 ft.                                                                 |
-| Reach             | 5 ft.                                                                          |
-| SQ                | create spawn, darkvision 60 ft., disease, scent, undead                        |
-| AL                | chaos, evil                                                                    |
-| Fort              | +4                                                                             |
-| Ref               | +2                                                                             |
-| Will              | +0                                                                             |
-| AP                | 0                                                                              |
-| Rep               | +0                                                                             |
-| Str               | 16                                                                             |
-| Dex               | 14                                                                             |
-| Con               | —                                                                              |
-| Int               | 13                                                                             |
-| Wis               | 10                                                                             |
-| Cha               | 8                                                                              |
+| CR | 3 |
+| Size | Medium-size |
+| Type | undead |
+| HD | 2d12 |
+| hp | 13 |
+| Mas | — |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 14 |
+| Touch | 12 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 Dex, +2 natural |
+| BAB | +1 |
+| Grap | +4 |
+| Atk | +4 melee (1d3+3, claw) |
+| Full Atk | +4 melee (1d3+3, 2 claws) and +2 melee (1d6+1 plus disease, bite) or +3 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | create spawn, darkvision 60 ft., disease, scent, undead |
+| AL | chaos, evil |
+| Fort | +4 |
+| Ref | +2 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 16 |
+| Dex | 14 |
+| Con | — |
+| Int | 13 |
+| Wis | 10 |
+| Cha | 8 |
 
 **Occupation:** Blue collar (class skills: Drive, Intimidate)
 

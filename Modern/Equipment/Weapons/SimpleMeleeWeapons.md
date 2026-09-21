@@ -14,11 +14,11 @@ done nevertheless.
 | Metal baton | 1d6 | 19–20 | Bludgeoning | — | Med | 2 lb. | 8 | — |
 | Pistol whip | 1d4 | 20 | Bludgeoning | — | Small | — | — | — |
 | Rifle butt | 1d6 | 20 | Bludgeoning | — | Large | — | — | — |
-| Sap | 1d6<sup>1</sup> | 20 | Bludgeoning | — | Small | 3 lb. | 2 | — |
-| Stun gun\*\*<sup>1</sup>\*\* | 1d3 | 20 | Electricity | — | Tiny | 1 lb. | 5 | — |
-| Tonfa\*\*<sup>1</sup>\*\* | 1d4 | 20 | Bludgeoning | — | Med | 2 lb. | 6 | — |
+| Sap | 1d6¹ | 20 | Bludgeoning | — | Small | 3 lb. | 2 | — |
+| Stun gun\*\*¹\*\* | 1d3 | 20 | Electricity | — | Tiny | 1 lb. | 5 | — |
+| Tonfa\*\*¹\*\* | 1d4 | 20 | Bludgeoning | — | Med | 2 lb. | 6 | — |
 
-1<sup> </sup>See the description of this weapon for special rules.
+¹ See the description of this weapon for special rules.
 
 ## Brass Knuckles
 

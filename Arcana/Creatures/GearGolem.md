@@ -54,39 +54,39 @@ normal sight, and gear golems can function with no light at all.
 
 ## Gear Golem
 
-| Stat              | Value                                                                             |
+| Stat | Value |
 |---|---|
-| CR                | 11                                                                                |
-| Size              | Large                                                                             |
-| Type              | construct                                                                         |
-| ??                | HD18d10+20                                                                        |
-| hp                | 119                                                                               |
-| Mas               | —                                                                                 |
-| Init              | –1                                                                                |
-| Spd               | 20 ft. (can’t run)                                                                |
-| Defense           | 30                                                                                |
-| Touch             | 8                                                                                 |
-| Flat-Footed       | 30                                                                                |
-| Defense Breakdown | –1 Dex, –1 size, +22 natural                                                      |
-| BAB               | +13                                                                               |
-| Grap              | +23                                                                               |
-| Atk               | +18 melee (1d8+9, slam)                                                           |
-| Full Atk          | +18 melee (1d8+6, 2 slams)                                                        |
-| FS                | 10 ft. by 10 ft.                                                                  |
-| Reach             | 10 ft.                                                                            |
-| SQ                | construct, improved grab, gear grind, detonate, magic immunity, darkvision 60 ft. |
-| AL                | none or master                                                                    |
-| Fort              | +6                                                                                |
-| Ref               | +5                                                                                |
-| Will              | +6                                                                                |
-| AP                | 0                                                                                 |
-| Rep               | +0                                                                                |
-| Str               | 23                                                                                |
-| Dex               | 9                                                                                 |
-| Con               | —                                                                                 |
-| Int               | —                                                                                 |
-| Wis               | 11                                                                                |
-| Cha               | 1                                                                                 |
+| CR | 11 |
+| Size | Large |
+| Type | construct |
+| ?? | HD18d10+20 |
+| hp | 119 |
+| Mas | — |
+| Init | –1 |
+| Spd | 20 ft. (can’t run) |
+| Defense | 30 |
+| Touch | 8 |
+| Flat-Footed | 30 |
+| Defense Breakdown | –1 Dex, –1 size, +22 natural |
+| BAB | +13 |
+| Grap | +23 |
+| Atk | +18 melee (1d8+9, slam) |
+| Full Atk | +18 melee (1d8+6, 2 slams) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | construct, improved grab, gear grind, detonate, magic immunity, darkvision 60 ft. |
+| AL | none or master |
+| Fort | +6 |
+| Ref | +5 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 23 |
+| Dex | 9 |
+| Con | — |
+| Int | — |
+| Wis | 11 |
+| Cha | 1 |
 
 **Skills:** Hide –5.
 
@@ -97,39 +97,39 @@ normal sight, and gear golems can function with no light at all.
 
 ## Advanced Gear Golem
 
-| Stat              | Value                                                                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 13                                                                                                               |
-| Size              | Huge                                                                                                             |
-| Type              | construct                                                                                                        |
-| HD                | 25d10+40                                                                                                         |
-| hp                | 177                                                                                                              |
-| Mas               | —                                                                                                                |
-| Init              | –2                                                                                                               |
-| Spd               | 30 ft. (can’t run)                                                                                               |
-| Defense           | 31                                                                                                               |
-| Touch             | 6                                                                                                                |
-| Flat-Footed       | 31                                                                                                               |
-| Defense Breakdown | –2 Dex, –2 size, +25 natural                                                                                     |
-| BAB               | +17                                                                                                              |
-| Grap              | +35                                                                                                              |
-| Atk               | +25 melee (2d6+15, slam)                                                                                         |
-| Full Atk          | +25 melee (2d6+10, 2 slams)                                                                                      |
-| FS                | 15 ft. by 15 ft.                                                                                                 |
-| Reach             | 10 ft.                                                                                                           |
-| SQ                | construct, improved grab, gear grind, detonate (30- foot-radius burst; DC 22), magic immunity, darkvision 60 ft. |
-| AL                | none or master                                                                                                   |
-| Fort              | +8                                                                                                               |
-| Ref               | +6                                                                                                               |
-| Will              | +8                                                                                                               |
-| AP                | 0                                                                                                                |
-| Rep               | +0                                                                                                               |
-| Str               | 31                                                                                                               |
-| Dex               | 7                                                                                                                |
-| Con               | —                                                                                                                |
-| Int               | —                                                                                                                |
-| Wis               | 11                                                                                                               |
-| Cha               | 1                                                                                                                |
+| CR | 13 |
+| Size | Huge |
+| Type | construct |
+| HD | 25d10+40 |
+| hp | 177 |
+| Mas | — |
+| Init | –2 |
+| Spd | 30 ft. (can’t run) |
+| Defense | 31 |
+| Touch | 6 |
+| Flat-Footed | 31 |
+| Defense Breakdown | –2 Dex, –2 size, +25 natural |
+| BAB | +17 |
+| Grap | +35 |
+| Atk | +25 melee (2d6+15, slam) |
+| Full Atk | +25 melee (2d6+10, 2 slams) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | construct, improved grab, gear grind, detonate (30- foot-radius burst; DC 22), magic immunity, darkvision 60 ft. |
+| AL | none or master |
+| Fort | +8 |
+| Ref | +6 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 31 |
+| Dex | 7 |
+| Con | — |
+| Int | — |
+| Wis | 11 |
+| Cha | 1 |
 
 **Skills:** Hide –10.
 

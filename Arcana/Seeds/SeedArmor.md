@@ -1,15 +1,15 @@
 # Seed: Armor
 
-| Stat                       | Value                   |
+| Stat | Value |
 |---|---|
-| School                     | Conjuration             |
-| Subschool                  | Creation                |
-| Knowledge (arcane lore) DC | 30                      |
-| Range                      | Touch                   |
-| Target                     | Creature touched        |
-| Duration                   | Hours (D)               |
-| Saving Throw               | Will negates (harmless) |
-| Spell Resistance           | Yes (harmless)          |
+| School | Conjuration |
+| Subschool | Creation |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Hours (D) |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 You grant a creature additional armor, providing a +4 bonus to Defense.
 The bonus is either an equipment bonus or a natural armor bonus,

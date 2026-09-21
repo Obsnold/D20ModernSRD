@@ -88,39 +88,39 @@ beyond (New FX Equipment, below).
 
 ## Dimensional Horror
 
-| Stat              | Value                                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                                   |
-| Size              | Large                                                                               |
-| Type              | outsider                                                                            |
-| HD                | 6d8+18                                                                              |
-| hp                | 45                                                                                  |
-| Mas               | 16                                                                                  |
-| Init              | +2                                                                                  |
-| Spd               | 40 ft.                                                                              |
-| Defense           | 18                                                                                  |
-| Touch             | 11                                                                                  |
-| Flat-Footed       | 16                                                                                  |
-| Defense Breakdown | –1 size, +2 Dex, +7 natural                                                         |
-| BAB               | +6                                                                                  |
-| Grap              | +16                                                                                 |
-| Atk               | +11 melee (1d6+9, claw)                                                             |
-| Full Atk          | +11 melee (1d6+6, 2 claws) and +9 melee (1d8+3, 2 bites)                            |
-| FS                | 10 ft. by 10 ft.                                                                    |
-| Reach             | 10 ft                                                                               |
-| SQ                | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 15) |
-| AL                | none                                                                                |
-| Fort              | +8                                                                                  |
-| Ref               | +7                                                                                  |
-| Will              | +7                                                                                  |
-| AP                | 0                                                                                   |
-| Rep               | +0                                                                                  |
-| Str               | 22                                                                                  |
-| Dex               | 15                                                                                  |
-| Con               | 16                                                                                  |
-| Int               | 9                                                                                   |
-| Wis               | 15                                                                                  |
-| Cha               | 14                                                                                  |
+| CR | 7 |
+| Size | Large |
+| Type | outsider |
+| HD | 6d8+18 |
+| hp | 45 |
+| Mas | 16 |
+| Init | +2 |
+| Spd | 40 ft. |
+| Defense | 18 |
+| Touch | 11 |
+| Flat-Footed | 16 |
+| Defense Breakdown | –1 size, +2 Dex, +7 natural |
+| BAB | +6 |
+| Grap | +16 |
+| Atk | +11 melee (1d6+9, claw) |
+| Full Atk | +11 melee (1d6+6, 2 claws) and +9 melee (1d8+3, 2 bites) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft |
+| SQ | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 15) |
+| AL | none |
+| Fort | +8 |
+| Ref | +7 |
+| Will | +7 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 22 |
+| Dex | 15 |
+| Con | 16 |
+| Int | 9 |
+| Wis | 15 |
+| Cha | 14 |
 
 **Skills:** Listen +11, Navigate +4, Search +5, Sense Motive +6,
 
@@ -132,39 +132,39 @@ Spot +11, Survival +11.
 
 ## Advanced Dimensional Horror
 
-| Stat              | Value                                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 13                                                                                  |
-| Size              | Gargantuan                                                                          |
-| Type              | outsider                                                                            |
-| HD                | 14d8+98                                                                             |
-| hp                | 161                                                                                 |
-| Mas               | 24                                                                                  |
-| Init              | +1                                                                                  |
-| Spd               | 40 ft.                                                                              |
-| Defense           | 21                                                                                  |
-| Touch             | 7                                                                                   |
-| Flat-Footed       | 20                                                                                  |
-| Defense Breakdown | -4 size, +1 Dex, +14 natural                                                        |
-| BAB               | +14                                                                                 |
-| Grap              | +39                                                                                 |
-| Atk               | +23 melee (2d6+19, claw)                                                            |
-| Full Atk          | +23 melee (2d6+13, 2 claws) and +21 melee (2d8+6, 2 bites)                          |
-| FS                | 20 ft. by 20 ft.                                                                    |
-| Reach             | 15 ft                                                                               |
-| SQ                | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 19) |
-| AL                | none                                                                                |
-| Fort              | +16                                                                                 |
-| Ref               | +10                                                                                 |
-| Will              | +11                                                                                 |
-| AP                | 0                                                                                   |
-| Rep               | +0                                                                                  |
-| Str               | 36                                                                                  |
-| Dex               | 13                                                                                  |
-| Con               | 24                                                                                  |
-| Int               | 9                                                                                   |
-| Wis               | 15                                                                                  |
-| Cha               | 14                                                                                  |
+| CR | 13 |
+| Size | Gargantuan |
+| Type | outsider |
+| HD | 14d8+98 |
+| hp | 161 |
+| Mas | 24 |
+| Init | +1 |
+| Spd | 40 ft. |
+| Defense | 21 |
+| Touch | 7 |
+| Flat-Footed | 20 |
+| Defense Breakdown | -4 size, +1 Dex, +14 natural |
+| BAB | +14 |
+| Grap | +39 |
+| Atk | +23 melee (2d6+19, claw) |
+| Full Atk | +23 melee (2d6+13, 2 claws) and +21 melee (2d8+6, 2 bites) |
+| FS | 20 ft. by 20 ft. |
+| Reach | 15 ft |
+| SQ | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 19) |
+| AL | none |
+| Fort | +16 |
+| Ref | +10 |
+| Will | +11 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 36 |
+| Dex | 13 |
+| Con | 24 |
+| Int | 9 |
+| Wis | 15 |
+| Cha | 14 |
 
 **Skills:** Listen +19, Navigate +16, Search +15, Sense Motive +16, Spot
 +19, Survival +19.

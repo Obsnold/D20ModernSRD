@@ -50,39 +50,39 @@ Reflex save (DC 15) to halve the damage.
 
 ## Cat Folk
 
-| Stat              | Value                                                                           |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                               |
-| Size              | Medium-size                                                                     |
-| Type              | monstrous humanoid                                                              |
-| HD                | 2d8–2                                                                           |
-| hp                | 7                                                                               |
-| Mas               | 9                                                                               |
-| Init              | +7                                                                              |
-| Spd               | 30 ft.                                                                          |
-| Defense           | 14                                                                              |
-| Touch             | 13                                                                              |
-| Flat-Footed       | 11                                                                              |
-| Defense Breakdown | +3 Dex, +1 natural                                                              |
-| BAB               | +2                                                                              |
-| Grap              | +2                                                                              |
-| Atk               | +2 melee (1d4+1, 2 claws)                                                       |
-| Full Atk          | +2 melee (1d4+1, 2 claws) or +6 ranged (2d6, Glock 17)                          |
-| FS                | 5 ft. by 5 ft.                                                                  |
-| Reach             | 5 ft.                                                                           |
-| SQ                | alternate form, claws, feline aversion (DC 14), mesmerizing gaze (DC 14), scent |
-| AL                | evil                                                                            |
-| Fort              | –1                                                                              |
-| Ref               | +6                                                                              |
-| Will              | +5                                                                              |
-| AP                | 0                                                                               |
-| Rep               | +0                                                                              |
-| Str               | 10                                                                              |
-| Dex               | 16                                                                              |
-| Con               | 9                                                                               |
-| Int               | 12                                                                              |
-| Wis               | 14                                                                              |
-| Cha               | 16                                                                              |
+| CR | 2 |
+| Size | Medium-size |
+| Type | monstrous humanoid |
+| HD | 2d8–2 |
+| hp | 7 |
+| Mas | 9 |
+| Init | +7 |
+| Spd | 30 ft. |
+| Defense | 14 |
+| Touch | 13 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +3 Dex, +1 natural |
+| BAB | +2 |
+| Grap | +2 |
+| Atk | +2 melee (1d4+1, 2 claws) |
+| Full Atk | +2 melee (1d4+1, 2 claws) or +6 ranged (2d6, Glock 17) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | alternate form, claws, feline aversion (DC 14), mesmerizing gaze (DC 14), scent |
+| AL | evil |
+| Fort | –1 |
+| Ref | +6 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 16 |
+| Con | 9 |
+| Int | 12 |
+| Wis | 14 |
+| Cha | 16 |
 
 **Skills**: Balance +8, Hide +8, Listen +7, Read/Write Cat Folk,
 Read/Write English, Speak Cat Folk, Speak English, Spot +7, Tumble +7.
@@ -97,38 +97,38 @@ concealed carry holster, formal outfit.
 
 ## Cat Folk Fast Hero 1/Charismatic Hero 2
 
-| Stat              | Value                                                                           |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                                               |
-| Size/Type         | Mediumsize monstrous humanoid                                                   |
-| HD                | 2d8–2 plus 1d6–2 plus 2d6–2                                                     |
-| hp                | 15                                                                              |
-| Mas               | 9                                                                               |
-| Init              | +7                                                                              |
-| Spd               | 30 ft.                                                                          |
-| Defense           | 19                                                                              |
-| Touch             | 18                                                                              |
-| Flat-Footed       | 16                                                                              |
-| Defense Breakdown | +3 Dex, +1 natural, +5 class                                                    |
-| BAB               | +3                                                                              |
-| Grap              | +3                                                                              |
-| Atk               | +3 melee (1d4+1, claws)                                                         |
-| Full Atk          | +3 melee (1d4+1, claws) or +7 ranged (2d6, Glock 17)                            |
-| FS                | 5 ft. by 5 ft.                                                                  |
-| Reach             | 5 ft.                                                                           |
-| SQ                | alternate form, claws, feline aversion (DC 15), mesmerizing gaze (DC 15), scent |
-| AL                | evil                                                                            |
-| Fort              | +1                                                                              |
-| Ref               | +10                                                                             |
-| Will              | +5                                                                              |
-| AP                | 1                                                                               |
-| Rep               | +2                                                                              |
-| Str               | 10                                                                              |
-| Dex               | 16                                                                              |
-| Con               | 9                                                                               |
-| Int               | 12                                                                              |
-| Wis               | 14                                                                              |
-| Cha               | 16                                                                              |
+| CR | 5 |
+| Size/Type | Mediumsize monstrous humanoid |
+| HD | 2d8–2 plus 1d6–2 plus 2d6–2 |
+| hp | 15 |
+| Mas | 9 |
+| Init | +7 |
+| Spd | 30 ft. |
+| Defense | 19 |
+| Touch | 18 |
+| Flat-Footed | 16 |
+| Defense Breakdown | +3 Dex, +1 natural, +5 class |
+| BAB | +3 |
+| Grap | +3 |
+| Atk | +3 melee (1d4+1, claws) |
+| Full Atk | +3 melee (1d4+1, claws) or +7 ranged (2d6, Glock 17) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | alternate form, claws, feline aversion (DC 15), mesmerizing gaze (DC 15), scent |
+| AL | evil |
+| Fort | +1 |
+| Ref | +10 |
+| Will | +5 |
+| AP | 1 |
+| Rep | +2 |
+| Str | 10 |
+| Dex | 16 |
+| Con | 9 |
+| Int | 12 |
+| Wis | 14 |
+| Cha | 16 |
 
 **Skills**: Balance +10, Bluff +6, Disguise +8, Gather Information +7,
 Hide +11, Knowledge (behavioral science) +5, Knowledge (streetwise) +5,

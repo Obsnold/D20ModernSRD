@@ -40,13 +40,13 @@ All Jump DCs covered here assume that the character can move at least 20
 feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
-| <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>Long Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
+| Long Jump Distance | DC¹ | Long Jump Distance | DC¹ |
 |---|---|---|---|
 | 5 feet | 5 | 20 feet | 20 |
 | 10 feet | 10 | 25 feet | 25 |
 | 15 feet | 15 | 30 feet | 30 |
 
-1 Requires a 20-foot move. Without a 20-foot move, double the DC.
+¹ Requires a 20-foot move. Without a 20-foot move, double the DC.
 
 If the character fails the check by less than 5, he or she doesn’t clear
 the distance, but can make a Reflex save (DC 15) to grab the far edge of
@@ -63,14 +63,14 @@ All Jump DCs covered here assume that the character can move at least 20
 feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
-| <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> | <sup>High Jump Distance</sup> | <sup>DC</sup><sup>1</sup> |
+| High Jump Distance | DC¹ | High Jump Distance | DC¹ |
 |---|---|---|---|
 | 1 foot | 4 | 5 feet | 20 |
 | 2 feet | 8 | 6 feet | 24 |
 | 3 feet | 12 | 7 feet | 28 |
 | 4 feet | 16 | 8 feet | 32 |
 
-1 Requires a 20-foot move. Without a running start, double the DC.
+¹ Requires a 20-foot move. Without a running start, double the DC.
 
 If the character succeeds on the check, he or she can reach the height.
 The character grasps the object he or she was trying to reach. If the

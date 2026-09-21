@@ -1,18 +1,18 @@
 # Telempathic Projection
 
-| Stat               | Value                           |
+| Stat | Value |
 |---|---|
-| Key Ability        | Charisma                        |
-| Descriptors        | Mind-Affecting                  |
-| Level              | Telepath 0                      |
-| Display            | Visual                          |
-| Manifestation Time | Attack action                   |
-| Range              | Medium (100 ft. + 10 ft./level) |
-| Area               | One living creature             |
-| Duration           | 1 minute/level                  |
-| Saving Throw       | Will negates                    |
-| Power Resistance   | Yes                             |
-| Power Point Cost   | 1                               |
+| Key Ability | Charisma |
+| Descriptors | Mind-Affecting |
+| Level | Telepath 0 |
+| Display | Visual |
+| Manifestation Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Area | One living creature |
+| Duration | 1 minute/level |
+| Saving Throw | Will negates |
+| Power Resistance | Yes |
+| Power Point Cost | 1 |
 
 You can alter the subject’s mood. An affected creature feels the new
 emotion, but *telempathic projection* cannot radically change its

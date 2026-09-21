@@ -9,17 +9,17 @@ operative skill.
 
 **Table: Military Vehicles**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC    | Restriction |
+| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |                |             |
-| Appel-Siems Gyrocopter            | 1    | 0    | F     | –3   | –2       | 360 (36)  | 8       | 5    | 23         | L    | 38             | Mil (+3)    |
-| EU2A1 Mendez APC                  | 3    | 8    | M     | –1   | –1       | 95 (9)    | 6       | 15   | 56         | G    | 42<sup>1</sup> | Mil (+3)    |
-| UN-500 Turtledove                 | 3    | 12   | L     | –3   | –2       | 360 (36)  | 6       | 10   | 46         | G    | 48             | Mil (+3)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |                |             |
-| IS-2000 Ifrit APC                 | 4    | 11   | L     | –3   | –3       | 100 (10)  | 6       | 15   | 58         | G    | 46<sup>1</sup> | Mil (+3)    |
-| M-300 Hovertank                   | 4    | 0    | M     | –4   | –3       | 120 (12)  | 6       | 20   | 62         | G    | 50<sup>1</sup> | Mil (+3)    |
+| **Progress Level 6: Fusion Age** | | | | | | | | | | | | |
+| Appel-Siems Gyrocopter | 1 | 0 | F | –3 | –2 | 360 (36) | 8 | 5 | 23 | L | 38 | Mil (+3) |
+| EU2A1 Mendez APC | 3 | 8 | M | –1 | –1 | 95 (9) | 6 | 15 | 56 | G | 42¹ | Mil (+3) |
+| UN-500 Turtledove | 3 | 12 | L | –3 | –2 | 360 (36) | 6 | 10 | 46 | G | 48 | Mil (+3) |
+| **Progress Level 7: Gravity Age** | | | | | | | | | | | | |
+| IS-2000 Ifrit APC | 4 | 11 | L | –3 | –3 | 100 (10) | 6 | 15 | 58 | G | 46¹ | Mil (+3) |
+| M-300 Hovertank | 4 | 0 | M | –4 | –3 | 120 (12) | 6 | 20 | 62 | G | 50¹ | Mil (+3) |
 
-1 The vehicle’s purchase DC does not include its mounted weapons.
+¹ The vehicle’s purchase DC does not include its mounted weapons.
 
 ## Appel-Siems Gyrocopter (pl 6)
 
@@ -82,9 +82,9 @@ Cavalcade chaingun are presented in Table: M-300 Hovertank Weapons.
 
 **Table: M-300 Hovertank Weapons**
 
-| Weapon                            | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age**  |        |          |             |                 |              |          |      |         |             |             |
-| T-95 Cavalcade chain gun          | 7d6    | 20       | Ballistic   | 60 feet         | S, A         | Linked   | Huge | 185 lb. | 21          | Mil (+3)    |
-| **Progress Level 7: Gravity Age** |        |          |             |                 |              |          |      |         |             |             |
-| M-300 Rhino mass cannon           | 8d12   | 20       | Ballistic   | 100 feet        | S            | —        | Huge | 450 lb. | 29          | Mil (+3)    |
+| **Progress Level 6: Fusion Age** | | | | | | | | | | |
+| T-95 Cavalcade chain gun | 7d6 | 20 | Ballistic | 60 feet | S, A | Linked | Huge | 185 lb. | 21 | Mil (+3) |
+| **Progress Level 7: Gravity Age** | | | | | | | | | | |
+| M-300 Rhino mass cannon | 8d12 | 20 | Ballistic | 100 feet | S | — | Huge | 450 lb. | 29 | Mil (+3) |

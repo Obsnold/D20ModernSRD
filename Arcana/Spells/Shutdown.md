@@ -1,16 +1,16 @@
 # Shutdown
 
-| Stat             | Value                                                |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                        |
-| Level            | Arcane 3, Divine 3                                   |
-| Components       | V, M/DF                                              |
-| Casting Time     | Attack action                                        |
-| Range            | Close (25 ft. + 5 ft./2 levels)                      |
-| Area             | 15-ft.-radius emanation centered on a point in space |
-| Duration         | 1 minute/level                                       |
-| Saving Throw     | None                                                 |
-| Spell Resistance | No                                                   |
+| School | Transmutation |
+| Level | Arcane 3, Divine 3 |
+| Components | V, M/DF |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Area | 15-ft.-radius emanation centered on a point in space |
+| Duration | 1 minute/level |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 All electrical devices within the spell’s area—lights, computers, cell
 phones, digital watches, and so forth—do not function for the duration

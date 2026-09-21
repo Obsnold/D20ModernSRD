@@ -1,16 +1,16 @@
 # Trace Purge
 
-| Stat             | Value                                                |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                        |
-| Level            | Arcane 1, Divine 1                                   |
-| Components       | V, S, M/DF                                           |
-| Casting Time     | Attack action                                        |
-| Range            | Close (25 ft. + 5 ft./2 levels)                      |
-| Area             | 15-ft.-radius emanation centered on a point in space |
-| Duration         | Instantaneous                                        |
-| Saving Throw     | None                                                 |
-| Spell Resistance | No                                                   |
+| School | Transmutation |
+| Level | Arcane 1, Divine 1 |
+| Components | V, S, M/DF |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Area | 15-ft.-radius emanation centered on a point in space |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 When you cast this spell, you touch one creature (yourself or someone
 else). The spell eliminates all physical evidence left by that person’s

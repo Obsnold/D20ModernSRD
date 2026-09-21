@@ -1,17 +1,17 @@
 # Polymorph
 
-| Stat             | Value                                                                                                |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                                                                        |
-| Skill Check      | Knowledge (arcane lore) DC 31, 5 successes, and Knowledge (earth and life sciences) DC 31, 1 success |
-| Failure          | Two consecutive failed skill checks                                                                  |
-| Components       | V, S, M, F                                                                                           |
-| Casting Time     | 60 minutes (minimum)                                                                                 |
-| Range            | Touch                                                                                                |
-| Target           | Willing creature touched                                                                             |
-| Duration         | 12 minutes                                                                                           |
-| Saving Throw     | Fortitude negates                                                                                    |
-| Spell Resistance | Yes                                                                                                  |
+| School | Transmutation |
+| Skill Check | Knowledge (arcane lore) DC 31, 5 successes, and Knowledge (earth and life sciences) DC 31, 1 success |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, F |
+| Casting Time | 60 minutes (minimum) |
+| Range | Touch |
+| Target | Willing creature touched |
+| Duration | 12 minutes |
+| Saving Throw | Fortitude negates |
+| Spell Resistance | Yes |
 
 The *polymorph* incantation gives a creature another form that you
 designate, which must be within one size category of the subject’s

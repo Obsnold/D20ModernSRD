@@ -51,16 +51,16 @@ avoiding meteoroids.
 
 **Table: Meteoroid Encounters**
 
-| d% Roll | Meteoroid Size | Collision Damage<sup>1</sup> | Computer Use Check DC | Pilot Check DC | Defense | Hardness | Hit Points |
+| d% Roll | Meteoroid Size | Collision Damage¹ | Computer Use Check DC | Pilot Check DC | Defense | Hardness | Hit Points |
 |---|---|---|---|---|---|---|---|
-| 01–75   | No meteoroid   | —                            | —                     | —              | —       | —        | —          |
-| 76–80   | Diminutive     | 1d6                          | 35                    | 5              | 9       | 8        | 15         |
-| 81–85   | Tiny           | 2d6                          | 30                    | 10             | 7       | 8        | 30         |
-| 86–88   | Small          | 3d6                          | 25                    | 15             | 6       | 8        | 90         |
-| 89–91   | Medium-size    | 4d6                          | 20                    | 20             | 5       | 8        | 225        |
-| 92–94   | Large          | 1d6x5                        | 15                    | 25             | 4       | 8        | 1,125      |
-| 95–97   | Huge           | 3d6x5                        | 10                    | 30             | 3       | 8        | 4,500      |
-| 98–99   | Gargantuan     | 6d6x5                        | 5                     | 35             | 1       | 8        | 9,000      |
-| 100     | Colossal       | 12d6x5                       | 0                     | 40             | –3      | 8        | 36,000     |
+| 01–75 | No meteoroid | — | — | — | — | — | — |
+| 76–80 | Diminutive | 1d6 | 35 | 5 | 9 | 8 | 15 |
+| 81–85 | Tiny | 2d6 | 30 | 10 | 7 | 8 | 30 |
+| 86–88 | Small | 3d6 | 25 | 15 | 6 | 8 | 90 |
+| 89–91 | Medium-size | 4d6 | 20 | 20 | 5 | 8 | 225 |
+| 92–94 | Large | 1d6x5 | 15 | 25 | 4 | 8 | 1,125 |
+| 95–97 | Huge | 3d6x5 | 10 | 30 | 3 | 8 | 4,500 |
+| 98–99 | Gargantuan | 6d6x5 | 5 | 35 | 1 | 8 | 9,000 |
+| 100 | Colossal | 12d6x5 | 0 | 40 | –3 | 8 | 36,000 |
 
-1 Both the meteoroid and the object it strikes take damage from the collision.
+¹ Both the meteoroid and the object it strikes take damage from the collision.

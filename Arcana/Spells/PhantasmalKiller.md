@@ -1,17 +1,17 @@
 # Phantasmal Killer
 
-| Stat             | Value                                                       |
+| Stat | Value |
 |---|---|
-| School           | Illusion                                                    |
-| Descriptors      | Fear, Mind-Affecting                                        |
-| Level            | Arcane 4                                                    |
-| Components       | V, S                                                        |
-| Casting Time     | Attack action                                               |
-| Range            | Medium (100 ft. + 10 ft./level)                             |
-| Target           | One living creature                                         |
-| Duration         | Instantaneous                                               |
-| Saving Throw     | Will disbelief (if interacted with), then Fortitude partial |
-| Spell Resistance | Yes                                                         |
+| School | Illusion |
+| Descriptors | Fear, Mind-Affecting |
+| Level | Arcane 4 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target | One living creature |
+| Duration | Instantaneous |
+| Saving Throw | Will disbelief (if interacted with), then Fortitude partial |
+| Spell Resistance | Yes |
 
 You create the phantasmal image of the most fearsome creature imaginable
 to the subject simply by forming the fears of the subject’s subconscious

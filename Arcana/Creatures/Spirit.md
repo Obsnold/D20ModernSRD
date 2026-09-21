@@ -89,38 +89,38 @@ resist.
 
 ## Animating Spirit (Poltergeist)
 
-| Stat              | Value                                                                                                                                       |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                                                                                           |
-| Size/Type         | Medium undead                                                                                                                               |
-| HD                | 1d12                                                                                                                                        |
-| hp                | 6                                                                                                                                           |
-| Mas               | —                                                                                                                                           |
-| Init              | +4 (Improved Initiative)                                                                                                                    |
-| Spd               | 30 ft., fly 30 ft. (good)                                                                                                                   |
-| Defense           | 11                                                                                                                                          |
-| Touch             | 11                                                                                                                                          |
-| Flat-Footed       | 11                                                                                                                                          |
-| Defense Breakdown | +1 deflection                                                                                                                               |
-| BAB               | +0                                                                                                                                          |
-| Grap              | —                                                                                                                                           |
-| Atk               | +0 melee touch (1d6, corrupting touch)                                                                                                      |
-| Full Atk          | +0 melee touch (1d6, corrupting touch)                                                                                                      |
-| FS                | 5 ft. by 5 ft.                                                                                                                              |
-| Reach             | 5 ft.                                                                                                                                       |
-| SQ                | undead, incorporeal, corrupting touch, telekinesis (DC 15), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
-| AL                | none or varies                                                                                                                              |
-| Fort              | +0                                                                                                                                          |
-| Ref               | +0                                                                                                                                          |
-| Will              | +2                                                                                                                                          |
-| AP                | 0                                                                                                                                           |
-| Rep               | +0                                                                                                                                          |
-| Str               | —                                                                                                                                           |
-| Dex               | 11                                                                                                                                          |
-| Con               | —                                                                                                                                           |
-| Int               | 11                                                                                                                                          |
-| Wis               | 11                                                                                                                                          |
-| Cha               | 10                                                                                                                                          |
+| CR | 2 |
+| Size/Type | Medium undead |
+| HD | 1d12 |
+| hp | 6 |
+| Mas | — |
+| Init | +4 (Improved Initiative) |
+| Spd | 30 ft., fly 30 ft. (good) |
+| Defense | 11 |
+| Touch | 11 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 deflection |
+| BAB | +0 |
+| Grap | — |
+| Atk | +0 melee touch (1d6, corrupting touch) |
+| Full Atk | +0 melee touch (1d6, corrupting touch) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, incorporeal, corrupting touch, telekinesis (DC 15), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
+| AL | none or varies |
+| Fort | +0 |
+| Ref | +0 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 11 |
+| Con | — |
+| Int | 11 |
+| Wis | 11 |
+| Cha | 10 |
 
 **Skills:** Bluff +4, Diplomacy +4, Hide +12, Intimidate
 +5, Listen +12, Read/Write Language (any one), Search +12, Sense Motive
@@ -144,38 +144,38 @@ by the same spirit’s horrific appearance for one day.
 
 ## Frightful Spirit (Apparition)
 
-| Stat              | Value                                                                                                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                                                                                                                   |
-| Size/Type         | Medium undead                                                                                                                                       |
-| HD                | 2d12                                                                                                                                                |
-| hp                | 13                                                                                                                                                  |
-| Mas               | —                                                                                                                                                   |
-| Init              | +5 (+1 Dex, +4 Improved Initiative)                                                                                                                 |
-| Spd               | 30 ft., fly 30 ft. (good)                                                                                                                           |
-| Defense           | 12                                                                                                                                                  |
-| Touch             | 12                                                                                                                                                  |
-| Flat-Footed       | 11                                                                                                                                                  |
-| Defense Breakdown | +1 Dex, +1 deflection                                                                                                                               |
-| BAB               | +0                                                                                                                                                  |
-| Grap              | —                                                                                                                                                   |
-| Atk               | +1 melee touch (1d6, corrupting touch)                                                                                                              |
-| Full Atk          | +1 melee touch (1d6, corrupting touch)                                                                                                              |
-| FS                | 5 ft. by 5 ft.                                                                                                                                      |
-| Reach             | 5 ft.                                                                                                                                               |
-| SQ                | undead, incorporeal, corrupting touch, horrific appearance (DC 12), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
-| AL                | none or varies                                                                                                                                      |
-| Fort              | +0                                                                                                                                                  |
-| Ref               | +1                                                                                                                                                  |
-| Will              | +4                                                                                                                                                  |
-| AP                | 0                                                                                                                                                   |
-| Rep               | +0                                                                                                                                                  |
-| Str               | —                                                                                                                                                   |
-| Dex               | 12                                                                                                                                                  |
-| Con               | —                                                                                                                                                   |
-| Int               | 12                                                                                                                                                  |
-| Wis               | 12                                                                                                                                                  |
-| Cha               | 11                                                                                                                                                  |
+| CR | 3 |
+| Size/Type | Medium undead |
+| HD | 2d12 |
+| hp | 13 |
+| Mas | — |
+| Init | +5 (+1 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 30 ft. (good) |
+| Defense | 12 |
+| Touch | 12 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 Dex, +1 deflection |
+| BAB | +0 |
+| Grap | — |
+| Atk | +1 melee touch (1d6, corrupting touch) |
+| Full Atk | +1 melee touch (1d6, corrupting touch) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, incorporeal, corrupting touch, horrific appearance (DC 12), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
+| AL | none or varies |
+| Fort | +0 |
+| Ref | +1 |
+| Will | +4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 12 |
+| Con | — |
+| Int | 12 |
+| Wis | 12 |
+| Cha | 11 |
 
 **Skills:** Bluff +4, Diplomacy +4, Hide +14, Intimidate
 +5, Listen +14, Search +14, Sense Motive +6, Spot +14.
@@ -199,38 +199,38 @@ affected by the same spirit’s moan for one day.
 
 ## Groaning Spirit
 
-| Stat              | Value                                                                                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                                                                                                              |
-| Size/Type         | Medium undead                                                                                                                                  |
-| HD                | 3d12                                                                                                                                           |
-| hp                | 19                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +5 (+1 Dex, +4 Improved Initiative)                                                                                                            |
-| Spd               | 30 ft., fly 30 ft. (good)                                                                                                                      |
-| Defense           | 12                                                                                                                                             |
-| Touch             | 12                                                                                                                                             |
-| Flat-Footed       | 11                                                                                                                                             |
-| Defense Breakdown | +1 Dex, +1 deflection                                                                                                                          |
-| BAB               | +1                                                                                                                                             |
-| Grap              | —                                                                                                                                              |
-| Atk               | +2 melee touch (1d6, corrupting touch)                                                                                                         |
-| Full Atk          | +2 melee touch (1d6, corrupting touch)                                                                                                         |
-| FS                | 5 ft. by 5 ft.                                                                                                                                 |
-| Reach             | 5 ft.                                                                                                                                          |
-| SQ                | undead, incorporeal, corrupting touch, frightful moan (DC 14), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
-| AL                | none or varies                                                                                                                                 |
-| Fort              | +1                                                                                                                                             |
-| Ref               | +2                                                                                                                                             |
-| Will              | +4                                                                                                                                             |
-| AP                | 0                                                                                                                                              |
-| Rep               | +0                                                                                                                                             |
-| Str               | —                                                                                                                                              |
-| Dex               | 13                                                                                                                                             |
-| Con               | —                                                                                                                                              |
-| Int               | 13                                                                                                                                             |
-| Wis               | 13                                                                                                                                             |
-| Cha               | 12                                                                                                                                             |
+| CR | 4 |
+| Size/Type | Medium undead |
+| HD | 3d12 |
+| hp | 19 |
+| Mas | — |
+| Init | +5 (+1 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 30 ft. (good) |
+| Defense | 12 |
+| Touch | 12 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 Dex, +1 deflection |
+| BAB | +1 |
+| Grap | — |
+| Atk | +2 melee touch (1d6, corrupting touch) |
+| Full Atk | +2 melee touch (1d6, corrupting touch) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, incorporeal, corrupting touch, frightful moan (DC 14), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
+| AL | none or varies |
+| Fort | +1 |
+| Ref | +2 |
+| Will | +4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 13 |
+| Con | — |
+| Int | 13 |
+| Wis | 13 |
+| Cha | 12 |
 
 **Skills:** Bluff +6, Diplomacy +6, Hide +14, Intimidate
 +7, Listen +15, Search +14, Sense Motive +6, Spot +15.
@@ -278,37 +278,37 @@ its body (whether or not the massive damage Fortitude save succeeds).
 
 ## Possessing Spirit
 
-| Stat              | Value                                                                                                                                      |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                                                                                                          |
-| Size/Type         | Medium undead                                                                                                                              |
-| HD                | 5d12                                                                                                                                       |
-| hp                | 32                                                                                                                                         |
-| Mas               | —                                                                                                                                          |
-| Init              | +6 (+2 Dex, +4 Improved Initiative)                                                                                                        |
-| Spd               | 30 ft., fly 30 ft. (good)                                                                                                                  |
-| Defense           | 14                                                                                                                                         |
-| Touch             | 14                                                                                                                                         |
-| Flat-Footed       | 12                                                                                                                                         |
-| Defense Breakdown | +2 Dex, +2 deflection                                                                                                                      |
-| BAB               | +2                                                                                                                                         |
-| Grap              | —                                                                                                                                          |
-| Atk               | +4 melee touch (1d6, corrupting touch), Full Atk +4 melee touch (1d6, corrupting touch)                                                    |
-| FS                | 5 ft. by 5 ft.                                                                                                                             |
-| Reach             | 5 ft.                                                                                                                                      |
-| SQ                | undead, incorporeal, corrupting touch, possession (DC 17), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
-| AL                | none or varies                                                                                                                             |
-| Fort              | +1                                                                                                                                         |
-| Ref               | +3                                                                                                                                         |
-| Will              | +6                                                                                                                                         |
-| AP                | 0                                                                                                                                          |
-| Rep               | +0                                                                                                                                         |
-| Str               | —                                                                                                                                          |
-| Dex               | 15                                                                                                                                         |
-| Con               | —                                                                                                                                          |
-| Int               | 15                                                                                                                                         |
-| Wis               | 15                                                                                                                                         |
-| Cha               | 14                                                                                                                                         |
+| CR | 5 |
+| Size/Type | Medium undead |
+| HD | 5d12 |
+| hp | 32 |
+| Mas | — |
+| Init | +6 (+2 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 30 ft. (good) |
+| Defense | 14 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 Dex, +2 deflection |
+| BAB | +2 |
+| Grap | — |
+| Atk | +4 melee touch (1d6, corrupting touch), Full Atk +4 melee touch (1d6, corrupting touch) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, incorporeal, corrupting touch, possession (DC 17), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
+| AL | none or varies |
+| Fort | +1 |
+| Ref | +3 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 15 |
+| Con | — |
+| Int | 15 |
+| Wis | 15 |
+| Cha | 14 |
 
 **Skills:** Bluff +8, Diplomacy +8, Hide +17, Intimidate
 +9, Listen +17, Search +17, Sense Motive +8, Spot +17.
@@ -332,38 +332,38 @@ free-willed weakening spirit 24 hours later.
 
 ## Weakening Spirit
 
-| Stat              | Value                                                                                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 6                                                                                                                                              |
-| Size/Type         | Medium undead                                                                                                                                  |
-| HD                | 4d12                                                                                                                                           |
-| hp                | 26                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +6 (+2 Dex, +4 Improved Initiative)                                                                                                            |
-| Spd               | 30 ft., fly 30 ft. (good)                                                                                                                      |
-| Defense           | 13                                                                                                                                             |
-| Touch             | 13                                                                                                                                             |
-| Flat-Footed       | 11                                                                                                                                             |
-| Defense Breakdown | +2 Dex, +1 deflection                                                                                                                          |
-| BAB               | +1                                                                                                                                             |
-| Grap              | —                                                                                                                                              |
-| Atk               | +3 melee (1d6 plus 1d4 Str drain, corrupting touch)                                                                                            |
-| Full Atk          | +2 melee (1d6 plus 1d4 Str drain, corrupting touch)                                                                                            |
-| FS                | 5 ft. by 5 ft.                                                                                                                                 |
-| Reach             | 5 ft.                                                                                                                                          |
-| SQ                | undead, incorporeal, corrupting touch, draining touch (DC 15), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
-| AL                | none or varies                                                                                                                                 |
-| Fort              | +1                                                                                                                                             |
-| Ref               | +3                                                                                                                                             |
-| Will              | +6                                                                                                                                             |
-| AP                | 0                                                                                                                                              |
-| Rep               | +0                                                                                                                                             |
-| Str               | —                                                                                                                                              |
-| Dex               | 14                                                                                                                                             |
-| Con               | —                                                                                                                                              |
-| Int               | 14                                                                                                                                             |
-| Wis               | 14                                                                                                                                             |
-| Cha               | 13                                                                                                                                             |
+| CR | 6 |
+| Size/Type | Medium undead |
+| HD | 4d12 |
+| hp | 26 |
+| Mas | — |
+| Init | +6 (+2 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 30 ft. (good) |
+| Defense | 13 |
+| Touch | 13 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +2 Dex, +1 deflection |
+| BAB | +1 |
+| Grap | — |
+| Atk | +3 melee (1d6 plus 1d4 Str drain, corrupting touch) |
+| Full Atk | +2 melee (1d6 plus 1d4 Str drain, corrupting touch) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | undead, incorporeal, corrupting touch, draining touch (DC 15), invisibility, rejuvenation, +4 turn resistance, imprisonment, darkvision 60 ft. |
+| AL | none or varies |
+| Fort | +1 |
+| Ref | +3 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 14 |
+| Con | — |
+| Int | 14 |
+| Wis | 14 |
+| Cha | 13 |
 
 **Skills:** Bluff +7, Diplomacy +7, Hide +16, Intimidate
 +7, Listen +16, Search +16, Sense Motive +8, Spot +16.

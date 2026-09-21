@@ -19,39 +19,39 @@ be replaced or repaired (Repair DC 15).
 
 ## Zap
 
-| Stat              | Value                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 1/4                                                                            |
-| Size              | Fine                                                                           |
-| Type              | elemental (air)                                                                |
-| HD                | 1/4 d8                                                                         |
-| hp                | 1                                                                              |
-| Mas               | —                                                                              |
-| Init              | +4                                                                             |
-| Spd               | 10 ft., fly 30 ft. (perfect)                                                   |
-| Defense           | 22                                                                             |
-| Touch             | 22                                                                             |
-| Flat-Footed       | 18                                                                             |
-| Defense Breakdown | +8 size, +4 Dex                                                                |
-| BAB               | +0                                                                             |
-| Grap              | —                                                                              |
-| Atk               | +4 melee touch (1 electricity, shock touch)                                    |
-| Full Atk          | +4 melee touch (1 electricity, shock touch)                                    |
-| FS                | 6 in. by 6 in.                                                                 |
-| Reach             | 0 ft.                                                                          |
-| SQ                | darkvision 60 ft., electricity immunity, elemental, shock touch, short circuit |
-| AL                | chaos                                                                          |
-| Fort              | +0                                                                             |
-| Ref               | +6                                                                             |
-| Will              | +1                                                                             |
-| AP                | 0                                                                              |
-| Rep               | +0                                                                             |
-| Str               | 2                                                                              |
-| Dex               | 19                                                                             |
-| Con               | 10                                                                             |
-| Int               | 5                                                                              |
-| Wis               | 12                                                                             |
-| Cha               | 6                                                                              |
+| CR | 1/4 |
+| Size | Fine |
+| Type | elemental (air) |
+| HD | 1/4 d8 |
+| hp | 1 |
+| Mas | — |
+| Init | +4 |
+| Spd | 10 ft., fly 30 ft. (perfect) |
+| Defense | 22 |
+| Touch | 22 |
+| Flat-Footed | 18 |
+| Defense Breakdown | +8 size, +4 Dex |
+| BAB | +0 |
+| Grap | — |
+| Atk | +4 melee touch (1 electricity, shock touch) |
+| Full Atk | +4 melee touch (1 electricity, shock touch) |
+| FS | 6 in. by 6 in. |
+| Reach | 0 ft. |
+| SQ | darkvision 60 ft., electricity immunity, elemental, shock touch, short circuit |
+| AL | chaos |
+| Fort | +0 |
+| Ref | +6 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 2 |
+| Dex | 19 |
+| Con | 10 |
+| Int | 5 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Hide +24, Listen +3, Spot +5.
 

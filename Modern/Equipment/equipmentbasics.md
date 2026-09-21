@@ -51,14 +51,14 @@ circumstances.
 
 **Table: Restricted Objects**
 
-| Registration Rating | License or Fee Purchase DC | Black Market Purchase DC <sup>1</sup> | Time Required |
+| Registration Rating | License or Fee Purchase DC | Black Market Purchase DC ¹ | Time Required |
 |---|---|---|---|
 | Licensed | 10 | +1 | 1 day |
 | Restricted | 15 | +2 | 2 days |
 | Military | 20 | +3 | 3 days |
 | Illegal | 25 | +4 | 4 days |
 
-1 Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.
+¹ Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.
 
 ## Purchasing a License
 

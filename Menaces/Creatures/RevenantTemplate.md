@@ -126,39 +126,39 @@ have these feats. A human revenant keeps the extra feat it gained as a
 
 ## Revenant Police Officer (Human Strong Ordinary 1/ Dedicated Ordinary 1)
 
-| Stat              | Value                                                                                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                                                                                                                    |
-| Size              | Medium-size                                                                                                                                          |
-| Type              | undead                                                                                                                                               |
-| HD                | 2d12                                                                                                                                                 |
-| hp                | 11                                                                                                                                                   |
-| Mas               | —                                                                                                                                                    |
-| Init              | +8                                                                                                                                                   |
-| Spd               | 35 ft.                                                                                                                                               |
-| Defense           | 24                                                                                                                                                   |
-| Touch             | 16                                                                                                                                                   |
-| Flat-Footed       | 20                                                                                                                                                   |
-| Defense Breakdown | +4 Dex, +2 class, +4 natural, +4 concealable vest                                                                                                    |
-| BAB               | +1                                                                                                                                                   |
-| Grap              | +5                                                                                                                                                   |
-| Atk               | +5 melee (1d3+4 nonlethal, unarmed strike) or +5 melee (1d4+4, tonfa) or +5 ranged (2d6, Beretta 92F) or +5 ranged (2d8, Beretta M3P)                |
-| Full Atk          | +5 melee (1d3+4 nonlethal, unarmed strike) or +5 melee (1d4+4, tonfa) or +5 ranged (2d6, Beretta 92F) or +5 ranged (2d8, Beretta M3P)                |
-| FS                | 5 ft. by 5 ft.                                                                                                                                       |
-| Reach             | 5 ft.                                                                                                                                                |
-| SQ                | darkvision 60 ft., revenant regeneration, special vulnerability (bludgeoning), turn resistance, undead, vulnerability (criminal’s sawed-off shotgun) |
-| AL                | any                                                                                                                                                  |
-| Fort              | +2                                                                                                                                                   |
-| Ref               | +6                                                                                                                                                   |
-| Will              | +3                                                                                                                                                   |
-| AP                | 0                                                                                                                                                    |
-| Rep               | +1                                                                                                                                                   |
-| Str               | 19                                                                                                                                                   |
-| Dex               | 18                                                                                                                                                   |
-| Con               | —                                                                                                                                                    |
-| Int               | 10                                                                                                                                                   |
-| Wis               | 14                                                                                                                                                   |
-| Cha               | 12                                                                                                                                                   |
+| CR | 3 |
+| Size | Medium-size |
+| Type | undead |
+| HD | 2d12 |
+| hp | 11 |
+| Mas | — |
+| Init | +8 |
+| Spd | 35 ft. |
+| Defense | 24 |
+| Touch | 16 |
+| Flat-Footed | 20 |
+| Defense Breakdown | +4 Dex, +2 class, +4 natural, +4 concealable vest |
+| BAB | +1 |
+| Grap | +5 |
+| Atk | +5 melee (1d3+4 nonlethal, unarmed strike) or +5 melee (1d4+4, tonfa) or +5 ranged (2d6, Beretta 92F) or +5 ranged (2d8, Beretta M3P) |
+| Full Atk | +5 melee (1d3+4 nonlethal, unarmed strike) or +5 melee (1d4+4, tonfa) or +5 ranged (2d6, Beretta 92F) or +5 ranged (2d8, Beretta M3P) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | darkvision 60 ft., revenant regeneration, special vulnerability (bludgeoning), turn resistance, undead, vulnerability (criminal’s sawed-off shotgun) |
+| AL | any |
+| Fort | +2 |
+| Ref | +6 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +1 |
+| Str | 19 |
+| Dex | 18 |
+| Con | — |
+| Int | 10 |
+| Wis | 14 |
+| Cha | 12 |
 
 **Occupation:** Law enforcement (class skills: Drive, Intimidate).
 

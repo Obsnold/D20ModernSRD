@@ -29,7 +29,7 @@ in their entries).
 
 **Table: Humanoids**
 
-| Size | Str | Dex | Con | Minimum HD | Slam<sup>1</sup> | Bite | Claw | Gore |
+| Size | Str | Dex | Con | Minimum HD | Slam¹ | Bite | Claw | Gore |
 |---|---|---|---|---|---|---|---|---|
 | Medium-size | 10–15 | 10–13 | 10–11 | 1d8 | 1d3 | 1d4 | 1d4 | 1d6 |
 | Small | 6–11 | 12–15 | 8–9 | 1/2 d8 | 1d2 | 1d3 | 1d3 | 1d4 |
@@ -37,4 +37,4 @@ in their entries).
 | Diminutive | 1 | 16–19 | 8–9 | 1/8 d8 | — | 1 | 1 | 1d2 |
 | Fine | 1 | 18–21 | 8–9 | 1/16 d8 | — | — | — | 1 |
 
-1<sup> </sup>Unarmed attacks qualify as slam attacks that deal nonlethal damage.
+¹ Unarmed attacks qualify as slam attacks that deal nonlethal damage.

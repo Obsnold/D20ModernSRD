@@ -1,8 +1,4 @@
-# MODERN
-
-The core d20 Modern rules: creating and advancing a hero, resolving
-actions and combat, the gear heroes carry, the FX abilities some of them
-wield, and the creatures they face.
+# D20 MODERN
 
 ## The Basics
 

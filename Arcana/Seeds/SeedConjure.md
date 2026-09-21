@@ -1,15 +1,15 @@
 # Seed: Conjure
 
-| Stat                       | Value                                                         |
+| Stat | Value |
 |---|---|
-| School                     | Conjuration                                                   |
-| Subschool                  | Creation                                                      |
-| Knowledge (arcane lore) DC | 30                                                            |
-| Range                      | 0 ft.                                                         |
-| Effect                     | Unattended, nonmagical object of nonliving matter, 20 cu. ft. |
-| Duration                   | Hours                                                         |
-| Saving Throw               | None                                                          |
-| Spell Resistance           | No                                                            |
+| School | Conjuration |
+| Subschool | Creation |
+| Knowledge (arcane lore) DC | 30 |
+| Range | 0 ft. |
+| Effect | Unattended, nonmagical object of nonliving matter, 20 cu. ft. |
+| Duration | Hours |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You create a nonmagical, unattended object of up to 20 cubic feet. You
 must succeed at an appropriate skill check to make a complex item, such

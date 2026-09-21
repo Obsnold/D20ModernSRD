@@ -1,17 +1,17 @@
 # Shatter
 
-| Stat             | Value                                                                |
+| Stat | Value |
 |---|---|
-| School           | Evocation                                                            |
-| Descriptors      | Sonic/Concussion                                                     |
-| Level            | Divine 2                                                             |
-| Components       | V, S, F                                                              |
-| Casting Time     | Attack action                                                        |
-| Range            | Close (25 ft. + 5 ft./2 levels)                                      |
-| Area or Target   | 5-ft.-radius spread; or one solid object or one crystalline creature |
-| Duration         | Instantaneous                                                        |
-| Saving Throw     | Will negates (object) or Fortitude half (see text)                   |
-| Spell Resistance | Yes (object)                                                         |
+| School | Evocation |
+| Descriptors | Sonic/Concussion |
+| Level | Divine 2 |
+| Components | V, S, F |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Area or Target | 5-ft.-radius spread; or one solid object or one crystalline creature |
+| Duration | Instantaneous |
+| Saving Throw | Will negates (object) or Fortitude half (see text) |
+| Spell Resistance | Yes (object) |
 
 *Shatter* creates a loud, ringing noise that shatters brittle,
 nonmagical objects; sunders a single solid, nonmagical object; or

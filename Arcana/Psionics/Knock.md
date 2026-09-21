@@ -1,17 +1,17 @@
 # Knock
 
-| Stat               | Value                                                          |
+| Stat | Value |
 |---|---|
-| Key Ability        | Dexterity                                                      |
-| Level              | Telepath 2                                                     |
-| Display            | Material                                                       |
-| Manifestation Time | Attack action                                                  |
-| Range              | Medium (100 ft. + 10 ft./level)                                |
-| Target             | One door, box, or chest with an area of up to 10 sq. ft./level |
-| Duration           | Instantaneous (see text)                                       |
-| Saving Throw       | None                                                           |
-| Power Resistance   | No                                                             |
-| Power Point Cost   | 3                                                              |
+| Key Ability | Dexterity |
+| Level | Telepath 2 |
+| Display | Material |
+| Manifestation Time | Attack action |
+| Range | Medium (100 ft. + 10 ft./level) |
+| Target | One door, box, or chest with an area of up to 10 sq. ft./level |
+| Duration | Instantaneous (see text) |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 3 |
 
 The *knock* power opens stuck, barred, locked, or mechanically or
 electronically sealed doors, as well at those with hidden mechanisms. It

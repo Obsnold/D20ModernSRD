@@ -22,15 +22,15 @@ construct immunities, including immunity to critical hits.
 
 **Table: Biomorph Robot Frames (Pl 5)**
 
-|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+| | | | | ——— Base Ability Scores ——— | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str                         |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
-| Colossal       | 48                   | 32d10             | 120                  | 46                          | 6       | —       | —       | 10      | 1       | 64d10/+3 per HD                           |
-| Gargantuan     | 40                   | 16d10             | 80                   | 38                          | 6       | —       | —       | 10      | 1       | 31d10/+3 per HD                           |
-| Huge           | 32                   | 8d10              | 40                   | 30                          | 6       | —       | —       | 10      | 1       | 15d10/+2 per HD                           |
-| Large          | 28                   | 2d10              | 20                   | 22                          | 8       | —       | —       | 10      | 1       | 7d10/+1 per HD                            |
-| Medium-size    | 24                   | 1d10              | 10                   | 14                          | 10      | —       | —       | 10      | 1       | —                                         |
-| Small          | 20                   | 1/2d10            | 5                    | 10                          | 12      | —       | —       | 10      | 1       | —                                         |
-| Tiny           | 16                   | 1/4d10            | —                    | 6                           | 14      | —       | —       | 10      | 1       | —                                         |
-| Diminutive     | 12                   | 1/8d10            | —                    | 4                           | 16      | —       | —       | 10      | 1       | —                                         |
-| Fine           | 8                    | 1/16d10           | —                    | 1                           | 18      | —       | —       | 10      | 1       | —                                         |
+| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal | 48 | 32d10 | 120 | 46 | 6 | — | — | 10 | 1 | 64d10/+3 per HD |
+| Gargantuan | 40 | 16d10 | 80 | 38 | 6 | — | — | 10 | 1 | 31d10/+3 per HD |
+| Huge | 32 | 8d10 | 40 | 30 | 6 | — | — | 10 | 1 | 15d10/+2 per HD |
+| Large | 28 | 2d10 | 20 | 22 | 8 | — | — | 10 | 1 | 7d10/+1 per HD |
+| Medium-size | 24 | 1d10 | 10 | 14 | 10 | — | — | 10 | 1 | — |
+| Small | 20 | 1/2d10 | 5 | 10 | 12 | — | — | 10 | 1 | — |
+| Tiny | 16 | 1/4d10 | — | 6 | 14 | — | — | 10 | 1 | — |
+| Diminutive | 12 | 1/8d10 | — | 4 | 16 | — | — | 10 | 1 | — |
+| Fine | 8 | 1/16d10 | — | 1 | 18 | — | — | 10 | 1 | — |

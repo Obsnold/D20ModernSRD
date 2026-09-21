@@ -31,39 +31,39 @@ Small, 32 Tiny, or 128 Diminutive or smaller opponents.
 
 ## Tyrannosaur
 
-| Stat              | Value                               |
+| Stat | Value |
 |---|---|
-| CR                | 11                                  |
-| Size              | Huge                                |
-| Type              | animal                              |
-| HD                | 20d8+80                             |
-| hp                | 170                                 |
-| Mas               | 19                                  |
-| Init              | +1                                  |
-| Spd               | 40 ft.                              |
-| Defense           | 14                                  |
-| Touch             | 9                                   |
-| Flat-Footed       | 13                                  |
-| Defense Breakdown | –2 size, +1 Dex, +5 natural         |
-| BAB               | +15                                 |
-| Grap              | +32                                 |
-| Atk               | +22 melee (4d6+13, bite)            |
-| Full Atk          | +22 melee (4d6+13, bite)            |
-| FS                | 10 ft. by 10 ft.                    |
-| Reach             | 15 ft.                              |
-| SQ                | improved grab, scent, swallow whole |
-| AL                | none                                |
-| Fort              | +16                                 |
-| Ref               | +13                                 |
-| Will              | +8                                  |
-| AP                | 0                                   |
-| Rep               | +0                                  |
-| Str               | 28                                  |
-| Dex               | 12                                  |
-| Con               | 19                                  |
-| Int               | 2                                   |
-| Wis               | 15                                  |
-| Cha               | 10                                  |
+| CR | 11 |
+| Size | Huge |
+| Type | animal |
+| HD | 20d8+80 |
+| hp | 170 |
+| Mas | 19 |
+| Init | +1 |
+| Spd | 40 ft. |
+| Defense | 14 |
+| Touch | 9 |
+| Flat-Footed | 13 |
+| Defense Breakdown | –2 size, +1 Dex, +5 natural |
+| BAB | +15 |
+| Grap | +32 |
+| Atk | +22 melee (4d6+13, bite) |
+| Full Atk | +22 melee (4d6+13, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 15 ft. |
+| SQ | improved grab, scent, swallow whole |
+| AL | none |
+| Fort | +16 |
+| Ref | +13 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 28 |
+| Dex | 12 |
+| Con | 19 |
+| Int | 2 |
+| Wis | 15 |
+| Cha | 10 |
 
 **Skills:** Listen +11, Spot +11.
 

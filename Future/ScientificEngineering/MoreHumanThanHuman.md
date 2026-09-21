@@ -23,12 +23,12 @@ linked to the genetic modification being attempted (at which point he
 permanently gains that special quality). Every time a save fails, the
 subject suffers 2 points of Constitution damage.
 
-| Type of Special Quality    | Fort Save DC | Number of Successes |
+| Type of Special Quality | Fort Save DC | Number of Successes |
 |---|---|---|
-| +1 to one ability score    | 15           | 10                  |
-| Extraordinary ability (Ex) | 15           | 15                  |
-| Supernatural ability (Su)  | 20           | 25                  |
-| Spell-like ability (Sp)    | 20           | 50                  |
+| +1 to one ability score | 15 | 10 |
+| Extraordinary ability (Ex) | 15 | 15 |
+| Supernatural ability (Su) | 20 | 25 |
+| Spell-like ability (Sp) | 20 | 50 |
 
 During therapy, the ability remains latent, so the patient receives no
 benefits from the intended manipulation. Immediately upon completing the

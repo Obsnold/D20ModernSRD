@@ -110,37 +110,37 @@ rail gun’s length, leaving the barrel at an extremely high velocity.
 
 **Table: Progress Level 7 Ranged Weapons**
 
-| Weapon<sup>1</sup>                                                                     | Damage         | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Concussion rifle                                                                       | 2d10 + special | 20       | Concussion  | 20 feet         | S            | —        | Large  | 6 lb.  | 22          | Lic (+1)    |
-| Gravity snare                                                                          | Special        | —        | —           | 30 feet         | S            | —        | Large  | 7 lb.  | 17          | Lic (+1)    |
-| Plasma pistol                                                                          | 2d10           | 20       | Fire        | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+2)    |
-| Plasma rifle                                                                           | 3d10           | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
-| Rail gun                                                                               | 3d12           | 20       | Ballistic   | 100 feet        | S            | 20 box   | Large  | 18 lb. | 24          | Mil (+3)    |
-| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** |                |          |             |                 |              |          |        |        |             |             |
+| Concussion rifle | 2d10 + special | 20 | Concussion | 20 feet | S | — | Large | 6 lb. | 22 | Lic (+1) |
+| Gravity snare | Special | — | — | 30 feet | S | — | Large | 7 lb. | 17 | Lic (+1) |
+| Plasma pistol | 2d10 | 20 | Fire | 40 feet | S | 50 box | Medium | 3 lb. | 17 | Lic (+2) |
+| Plasma rifle | 3d10 | 20 | Fire | 80 feet | S, A | 50 box | Large | 8 lb. | 19 | Res (+2) |
+| Rail gun | 3d12 | 20 | Ballistic | 100 feet | S | 20 box | Large | 18 lb. | 24 | Mil (+3) |
+| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** | | | | | | | | | | |
 
 **Table: Progress Level 7 Melee Weapons**
 
-| Weapon<sup>1</sup>                                                                  | Damage | Critical | Damage Type            | Range Increment | Size   | Weight | Purchase DC | Restriction |  |  |
+| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Concussion rod                                                                      | 2d8    | 20       | Bludgeoning/Concussion | —               | Medium | 3 lb.  | 17          | —           |  |  |
-| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** |        |          |                        |                 |        |        |             |             |  |  |
+| Concussion rod | 2d8 | 20 | Bludgeoning/Concussion | — | Medium | 3 lb. | 17 | — | | |
+| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** | | | | | | | | | | |
 
 **Table: Progress Level 7 Ammunition Types**
 
-| Ammunition (Quantity) | Damage Type    | Purchase DC | Restriction |  |  |  |  |  |  |  |
+| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Deflecting (20)       | Ballistic      | 12          | Lic (+1)    |  |  |  |  |  |  |  |
-| Plasma-coated (20)    | Ballistic/Fire | 13          | Res (+2)    |  |  |  |  |  |  |  |
-| Rail gun shards (20)  | Ballistic      | 10          | —           |  |  |  |  |  |  |  |
-| Seeker (20)           | Ballistic      | 15          | Res (+2)    |  |  |  |  |  |  |  |
+| Deflecting (20) | Ballistic | 12 | Lic (+1) | | | | | | | |
+| Plasma-coated (20) | Ballistic/Fire | 13 | Res (+2) | | | | | | | |
+| Rail gun shards (20) | Ballistic | 10 | — | | | | | | | |
+| Seeker (20) | Ballistic | 15 | Res (+2) | | | | | | | |
 
 **Table: Progress Level 7 Explosives And Splash Weapons**
 
-| Weapon             | Damage              | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size  | Weight | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Grenade, dissolver | 2d6                 | —        | Acid        | 5 ft.        | 15        | 10 ft.          | Small | 2 lb.  | 14          | Res (+2)    |
-| Grenade, gravitic  | 6d6                 | —        | Bludgeoning | 10 ft.       | 15        | 10 ft.          | Tiny  | 1 lb.  | 20          | Mil (+3)    |
-| Grenade, stun      | Special<sup>1</sup> | —        | —           | 10 ft.       | 18        | 10 ft.          | Tiny  | 1 lb.  | 17          | Mil (+3)    |
+| Grenade, dissolver | 2d6 | — | Acid | 5 ft. | 15 | 10 ft. | Small | 2 lb. | 14 | Res (+2) |
+| Grenade, gravitic | 6d6 | — | Bludgeoning | 10 ft. | 15 | 10 ft. | Tiny | 1 lb. | 20 | Mil (+3) |
+| Grenade, stun | Special¹ | — | — | 10 ft. | 18 | 10 ft. | Tiny | 1 lb. | 17 | Mil (+3) |
 
-1 See the weapon description for details.
+¹ See the weapon description for details.

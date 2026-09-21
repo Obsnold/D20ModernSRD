@@ -138,40 +138,40 @@ using solvaway chemical or some other spray solvent.
 
 **Table: Progress Level 6 Ranged Weapons**
 
-| Weapon<sup>1</sup>                                                                     | Damage             | Critical | Damage Type        | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Laser pistol                                                                           | 2d8                | 20       | Fire               | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+1)    |
-| Laser rifle                                                                            | 3d8                | 20       | Fire               | 80 feet         | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
-| Laser sniper rifle                                                                     | 3d8                | 20       | Fire               | 120 feet        | S            | 50 box   | Large  | 14 lb. | 21          | Res (+2)    |
-| Mini-grenade launcher                                                                  | Varies<sup>2</sup> | 20       | Varies<sup>2</sup> | 70 feet         | Single       | 1 int.   | Medium | 4 lb.  | 20          | Mil (+3)    |
-| Mini-rocket launcher                                                                   | Varies<sup>2</sup> | 20       | Varies<sup>2</sup> | 150 feet        | Single       | 1 int.   | Medium | 5 lb.  | 23          | Mil (+3)    |
-| Tangler gun                                                                            | Special            | —        | —                  | 20 feet         | S, A         | 20 box   | Large  | 8 lb.  | 16          | Lic (+1)    |
-| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** |                    |          |                    |                 |              |          |        |        |             |             |
-| **2 Damage and damage type varies depending on the ammunition.**                       |                    |          |                    |                 |              |          |        |        |             |             |
+| Laser pistol | 2d8 | 20 | Fire | 40 feet | S | 50 box | Medium | 3 lb. | 17 | Lic (+1) |
+| Laser rifle | 3d8 | 20 | Fire | 80 feet | S, A | 50 box | Large | 8 lb. | 19 | Res (+2) |
+| Laser sniper rifle | 3d8 | 20 | Fire | 120 feet | S | 50 box | Large | 14 lb. | 21 | Res (+2) |
+| Mini-grenade launcher | Varies² | 20 | Varies² | 70 feet | Single | 1 int. | Medium | 4 lb. | 20 | Mil (+3) |
+| Mini-rocket launcher | Varies² | 20 | Varies² | 150 feet | Single | 1 int. | Medium | 5 lb. | 23 | Mil (+3) |
+| Tangler gun | Special | — | — | 20 feet | S, A | 20 box | Large | 8 lb. | 16 | Lic (+1) |
+| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** | | | | | | | | | | |
+| **2 Damage and damage type varies depending on the ammunition.** | | | | | | | | | | |
 
 **Table: Progress Level 6 Melee Weapons**
 
-| Weapon<sup>1</sup>                                                                  | Damage        | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |  |  |
+| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| High frequency sword                                                                | 2d6           | 19–20    | Slashing    | —               | Large  | 2 lb.  | 15          | —           |  |  |
-| Stun baton                                                                          | 1d6 + special | 20       | Bludgeoning | —               | Medium | 1 lb.  | 16          | —           |  |  |
-| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** |               |          |             |                 |        |        |             |             |  |  |
+| High frequency sword | 2d6 | 19–20 | Slashing | — | Large | 2 lb. | 15 | — | | |
+| Stun baton | 1d6 + special | 20 | Bludgeoning | — | Medium | 1 lb. | 16 | — | | |
+| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** | | | | | | | | | | |
 
 **Table: Progress Level 6 Ammunition Types**
 
-| Ammunition (Quantity)                                                                                                                                 | Damage Type         | Purchase DC | Restriction |  |  |  |  |  |  |  |
+| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Bio-agent (20)                                                                                                                                        | Ballistic           | 14          | Mil (+3)    |  |  |  |  |  |  |  |
-| Power pack (50)                                                                                                                                       | Special<sup>1</sup> | 8           | —           |  |  |  |  |  |  |  |
-| **1 A power pack powers any ranged weapon that deals energy damage (such as a laser pistol). A power pack does not change the weapon’s damage type.** |                     |             |             |  |  |  |  |  |  |  |
+| Bio-agent (20) | Ballistic | 14 | Mil (+3) | | | | | | | |
+| Power pack (50) | Special¹ | 8 | — | | | | | | | |
+| **1 A power pack powers any ranged weapon that deals energy damage (such as a laser pistol). A power pack does not change the weapon’s damage type.** | | | | | | | | | | |
 
 **Table: Progress Level 6 Explosives And Splash Weapons**
 
-| Weapon              | Damage              | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size  | Weight | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Grenade, concussion | 4d6 nonlethal       | —        | Concussion  | 15 ft.       | 15        | 10 ft.          | Tiny  | 1 lb.  | 15          | Mil (+3)    |
-| Grenade, EMP        | Special<sup>1</sup> | —        | Electricity | 20 ft.       | 15        | 10 ft.          | Small | 2 lb.  | 16          | Mil (+3)    |
-| Grenade, fireflush  | 3d6                 | —        | Fire        | 10 ft.       | 15        | 10 ft.          | Small | 2 lb.  | 18          | Res (+2)    |
-| Grenade, tangler    | Special<sup>1</sup> | —        | —           | 5 ft.        | 12        | 10 ft.          | Tiny  | 1 lb.  | 14          | Lic (+1)    |
+| Grenade, concussion | 4d6 nonlethal | — | Concussion | 15 ft. | 15 | 10 ft. | Tiny | 1 lb. | 15 | Mil (+3) |
+| Grenade, EMP | Special¹ | — | Electricity | 20 ft. | 15 | 10 ft. | Small | 2 lb. | 16 | Mil (+3) |
+| Grenade, fireflush | 3d6 | — | Fire | 10 ft. | 15 | 10 ft. | Small | 2 lb. | 18 | Res (+2) |
+| Grenade, tangler | Special¹ | — | — | 5 ft. | 12 | 10 ft. | Tiny | 1 lb. | 14 | Lic (+1) |
 
-1 See the weapon description for details.
+¹ See the weapon description for details.

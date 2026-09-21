@@ -1,16 +1,16 @@
 # D20 MODERN SRD
 
-The d20 Modern System Reference Document, split into per-topic files.
+The d20 Modern System Reference Document.
 
 ## Core Rules
 
 - [Modern](Modern/modern.md)
 
-## Campaign Settings
+## Additional Books
 
-- [Arcana](Arcana/arcana.md) — urban fantasy: shadowkind, magic and the creatures behind the veil
-- [Future](Future/future.md) — science fiction: progress levels, mecha, starships and beyond
-- [Menaces](Menaces/menaces.md) — cryptids, aliens and conspiracy threats
+- [Arcana](Arcana/arcana.md)
+- [Future](Future/future.md)
+- [Menaces](Menaces/menaces.md)
 
 ## Licence
 

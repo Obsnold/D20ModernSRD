@@ -1,14 +1,14 @@
 # Seed: Banish
 
-| Stat                       | Value                                                                                   |
+| Stat | Value |
 |---|---|
-| School                     | Abjuration                                                                              |
-| Knowledge (arcane lore) DC | 34                                                                                      |
-| Range                      | Close                                                                                   |
-| Targets                    | One or more summoned or called creatures, no two of which can be more than 30 ft. apart |
-| Duration                   | Instantaneous                                                                           |
-| Saving Throw               | Will negates                                                                            |
-| Spell Resistance           | Yes                                                                                     |
+| School | Abjuration |
+| Knowledge (arcane lore) DC | 34 |
+| Range | Close |
+| Targets | One or more summoned or called creatures, no two of which can be more than 30 ft. apart |
+| Duration | Instantaneous |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 You force summoned or called creatures back to where they came from. You
 can banish up to 14 HD of such creatures. For each additional Hit Die of

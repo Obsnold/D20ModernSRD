@@ -40,39 +40,39 @@ undead.
 
 ## Skin Feaster
 
-| Stat              | Value                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 3                                                                |
-| Size              | Medium-size                                                      |
-| Type              | undead                                                           |
-| HD                | 4d12                                                             |
-| hp                | 26                                                               |
-| Mas               | —                                                                |
-| Init              | +3                                                               |
-| Spd               | 30 ft.                                                           |
-| Defense           | 16                                                               |
-| Touch             | 13                                                               |
-| Flat-Footed       | 13                                                               |
-| Defense Breakdown | +3 Dex, +3 natural                                               |
-| BAB               | +2                                                               |
-| Grap              | +2                                                               |
-| Atk               | +2 melee (1d4, claw)                                             |
-| Full Atk          | +2 melee (1d4, claw) or +5 ranged                                |
-| FS                | 5 ft. by 5 ft.                                                   |
-| Reach             | 5 ft.                                                            |
-| SQ                | flesh weakness, necrotizing touch (DC 13), skin regrowth, undead |
-| AL                | evil                                                             |
-| Fort              | +1                                                               |
-| Ref               | +4                                                               |
-| Will              | +6                                                               |
-| AP                | 0                                                                |
-| Rep               | +0                                                               |
-| Str               | 10                                                               |
-| Dex               | 16                                                               |
-| Con               | —                                                                |
-| Int               | 6                                                                |
-| Wis               | 15                                                               |
-| Cha               | 12                                                               |
+| CR | 3 |
+| Size | Medium-size |
+| Type | undead |
+| HD | 4d12 |
+| hp | 26 |
+| Mas | — |
+| Init | +3 |
+| Spd | 30 ft. |
+| Defense | 16 |
+| Touch | 13 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +3 Dex, +3 natural |
+| BAB | +2 |
+| Grap | +2 |
+| Atk | +2 melee (1d4, claw) |
+| Full Atk | +2 melee (1d4, claw) or +5 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | flesh weakness, necrotizing touch (DC 13), skin regrowth, undead |
+| AL | evil |
+| Fort | +1 |
+| Ref | +4 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 16 |
+| Con | — |
+| Int | 6 |
+| Wis | 15 |
+| Cha | 12 |
 
 **Skills:** Climb +6, Jump +6, Listen +8, Read/Write Language (any one),
 Speak Language (any one), Spot +8.
@@ -83,39 +83,39 @@ Speak Language (any one), Spot +8.
 
 ## Advanced Skin Feaster
 
-| Stat              | Value                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                                |
-| Size              | Large                                                            |
-| Type              | undead                                                           |
-| HD                | 9d12                                                             |
-| hp                | 58                                                               |
-| Mas               | —                                                                |
-| Init              | +2                                                               |
-| Spd               | 30 ft.                                                           |
-| Defense           | 16                                                               |
-| Touch             | 11                                                               |
-| Flat-Footed       | 14                                                               |
-| Defense Breakdown | –1 size, +2 Dex, +5 natural                                      |
-| BAB               | +4                                                               |
-| Grap              | +12                                                              |
-| Atk               | +7 melee (1d6+6, claw)                                           |
-| Full Atk          | +7 melee (1d6+6, claw) or +5 ranged                              |
-| FS                | 10 ft. by 10 ft.                                                 |
-| Reach             | 10 ft.                                                           |
-| SQ                | flesh weakness, necrotizing touch (DC 15), skin regrowth, undead |
-| AL                | evil                                                             |
-| Fort              | +3                                                               |
-| Ref               | +5                                                               |
-| Will              | +8                                                               |
-| AP                | 0                                                                |
-| Rep               | +0                                                               |
-| Str               | 18                                                               |
-| Dex               | 14                                                               |
-| Con               | —                                                                |
-| Int               | 6                                                                |
-| Wis               | 15                                                               |
-| Cha               | 12                                                               |
+| CR | 5 |
+| Size | Large |
+| Type | undead |
+| HD | 9d12 |
+| hp | 58 |
+| Mas | — |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 16 |
+| Touch | 11 |
+| Flat-Footed | 14 |
+| Defense Breakdown | –1 size, +2 Dex, +5 natural |
+| BAB | +4 |
+| Grap | +12 |
+| Atk | +7 melee (1d6+6, claw) |
+| Full Atk | +7 melee (1d6+6, claw) or +5 ranged |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | flesh weakness, necrotizing touch (DC 15), skin regrowth, undead |
+| AL | evil |
+| Fort | +3 |
+| Ref | +5 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 18 |
+| Dex | 14 |
+| Con | — |
+| Int | 6 |
+| Wis | 15 |
+| Cha | 12 |
 
 **Skills:** Climb +9, Jump +9, Listen +10, Read/Write (any one), Speak
 (any one), Spot +10.

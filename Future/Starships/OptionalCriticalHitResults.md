@@ -8,20 +8,20 @@ determine the effects of the critical hit on the target.
 
 **Table: Optional Critical Hit Results**
 
-| d% Roll | Effect(s)                                        |
+| d% Roll | Effect(s) |
 |---|---|
-| 01–35   | Normal critical hit                              |
-| 36–50   | Normal critical hit, crew casualties             |
-| 51–55   | Severe critical hit, artificial gravity disabled |
-| 56–60   | Severe critical hit, crew casualties             |
-| 61–65   | Damaged system: comm system                      |
-| 66–70   | Damaged system: defense system                   |
-| 71–75   | Damaged system: engines                          |
-| 76–80   | Damaged system: sensors                          |
-| 81–85   | Damaged system: targeting system                 |
-| 86–90   | Damaged system: weapon                           |
-| 91–95   | Destroyed defensive system                       |
-| 96–100  | Destroyed weapon                                 |
+| 01–35 | Normal critical hit |
+| 36–50 | Normal critical hit, crew casualties |
+| 51–55 | Severe critical hit, artificial gravity disabled |
+| 56–60 | Severe critical hit, crew casualties |
+| 61–65 | Damaged system: comm system |
+| 66–70 | Damaged system: defense system |
+| 71–75 | Damaged system: engines |
+| 76–80 | Damaged system: sensors |
+| 81–85 | Damaged system: targeting system |
+| 86–90 | Damaged system: weapon |
+| 91–95 | Destroyed defensive system |
+| 96–100 | Destroyed weapon |
 
 **Normal Critical Hit:** Roll critical hit damage normally.
 

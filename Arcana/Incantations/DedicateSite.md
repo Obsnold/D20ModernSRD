@@ -1,18 +1,18 @@
 # Dedicate Site
 
-| Stat             | Value                                                                       |
+| Stat | Value |
 |---|---|
-| School           | Evocation                                                                   |
-| Descriptors      | Good                                                                        |
-| Skill Check      | Knowledge (arcane lore) DC 35, 5 successes, and Spellcraft DC 35, 1 success |
-| Failure          | Two consecutive failed skill checks                                         |
-| Components       | V, S, M, SC, B                                                              |
-| Casting Time     | 6 hours (minimum)                                                           |
-| Range            | Touch                                                                       |
-| Area             | 120-ft.- radius emanation centered on touched point                         |
-| Duration         | One year                                                                    |
-| Saving Throw     | See text                                                                    |
-| Spell Resistance | See text                                                                    |
+| School | Evocation |
+| Descriptors | Good |
+| Skill Check | Knowledge (arcane lore) DC 35, 5 successes, and Spellcraft DC 35, 1 success |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, SC, B |
+| Casting Time | 6 hours (minimum) |
+| Range | Touch |
+| Area | 120-ft.- radius emanation centered on touched point |
+| Duration | One year |
+| Saving Throw | See text |
+| Spell Resistance | See text |
 
 *Dedicate site* makes a particular place, building, or structure
 particularly attuned to a specific allegiance. This has two major

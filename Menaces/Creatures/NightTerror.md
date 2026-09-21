@@ -54,39 +54,39 @@ effect.
 
 ## Night Terror
 
-| Stat              | Value                                                                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                                                                                    |
-| Size              | Medium-size                                                                                                                          |
-| Type              | fey                                                                                                                                  |
-| HD                | 3d6                                                                                                                                  |
-| hp                | 10                                                                                                                                   |
-| Mas               | 10                                                                                                                                   |
-| Init              | +5                                                                                                                                   |
-| Spd               | 30 ft., fly 30 ft. (average)                                                                                                         |
-| Defense           | 12                                                                                                                                   |
-| Touch             | 11                                                                                                                                   |
-| Flat-Footed       | 11                                                                                                                                   |
-| Defense Breakdown | +1 Dex, +1 natural                                                                                                                   |
-| BAB               | +1                                                                                                                                   |
-| Grap              | +2                                                                                                                                   |
-| Atk               | +2 melee (1d4+1, claw) or +2 melee (1d6+1/19–20, cleaver)                                                                            |
-| Full Atk          | +2 melee (1d4+1, 2 claws) or +2 melee (1d6+1/19–20, cleaver) or +2 ranged                                                            |
-| FS                | 5 ft. by 5 ft.                                                                                                                       |
-| Reach             | 5 ft.                                                                                                                                |
-| SQ                | chosen victim, fear aura (DC 14), immune to fear, low-light vision, selective invisibility, terrify (DC 14), vulnerability (any one) |
-| AL                | evil                                                                                                                                 |
-| Fort              | +1                                                                                                                                   |
-| Ref               | +2                                                                                                                                   |
-| Will              | +6                                                                                                                                   |
-| AP                | 0                                                                                                                                    |
-| Rep               | +3                                                                                                                                   |
-| Str               | 13                                                                                                                                   |
-| Dex               | 13                                                                                                                                   |
-| Con               | 10                                                                                                                                   |
-| Int               | 12                                                                                                                                   |
-| Wis               | 16                                                                                                                                   |
-| Cha               | 17                                                                                                                                   |
+| CR | 2 |
+| Size | Medium-size |
+| Type | fey |
+| HD | 3d6 |
+| hp | 10 |
+| Mas | 10 |
+| Init | +5 |
+| Spd | 30 ft., fly 30 ft. (average) |
+| Defense | 12 |
+| Touch | 11 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 Dex, +1 natural |
+| BAB | +1 |
+| Grap | +2 |
+| Atk | +2 melee (1d4+1, claw) or +2 melee (1d6+1/19–20, cleaver) |
+| Full Atk | +2 melee (1d4+1, 2 claws) or +2 melee (1d6+1/19–20, cleaver) or +2 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | chosen victim, fear aura (DC 14), immune to fear, low-light vision, selective invisibility, terrify (DC 14), vulnerability (any one) |
+| AL | evil |
+| Fort | +1 |
+| Ref | +2 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +3 |
+| Str | 13 |
+| Dex | 13 |
+| Con | 10 |
+| Int | 12 |
+| Wis | 16 |
+| Cha | 17 |
 
 **Skills:** Bluff +6, Climb +3, Disguise +5, Escape Artist +2, Hide +4,
 Intimidate +13, Knowledge (behavioral science) +6, Listen +6, Move
@@ -100,39 +100,39 @@ Silently +5, Search +3, Sense Motive +13, Spot +6.
 
 ## Night Terror Dedicated Hero 2/Charismatic Hero 3
 
-| Stat              | Value                                                                                                                                             |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                                                                                                 |
-| Size              | Medium-size                                                                                                                                       |
-| Type              | fey                                                                                                                                               |
-| HD                | 3d6 plus 2d6 plus 2d6                                                                                                                             |
-| hp                | 24                                                                                                                                                |
-| Mas               | 10                                                                                                                                                |
-| Init              | +5                                                                                                                                                |
-| Spd               | 30 ft., fly 30 ft. (average)                                                                                                                      |
-| Defense           | 15                                                                                                                                                |
-| Touch             | 14                                                                                                                                                |
-| Flat-Footed       | 14                                                                                                                                                |
-| Defense Breakdown | +1 Dex, +3 class, +1 natural                                                                                                                      |
-| BAB               | +3                                                                                                                                                |
-| Grap              | +4                                                                                                                                                |
-| Atk               | +4 melee (1d4+1, claw) or +4 melee (1d6+1/19–20, cleaver)                                                                                         |
-| Full Atk          | +4 melee (1d4+1, 2 claws) or +4 melee (1d6+1/19–20, cleaver) or +4 ranged (2d6, Colt M1911)                                                       |
-| FS                | 5 ft. by 5 ft.                                                                                                                                    |
-| Reach             | 5 ft.                                                                                                                                             |
-| SQ                | chosen victim, fear aura (DC 17), immune to fear, low-light vision, selective invisibility, terrify (DC 17), vulnerability (laughter of children) |
-| AL                | evil                                                                                                                                              |
-| Fort              | +5                                                                                                                                                |
-| Ref               | +4                                                                                                                                                |
-| Will              | +9                                                                                                                                                |
-| AP                | 2                                                                                                                                                 |
-| Rep               | +6                                                                                                                                                |
-| Str               | 13                                                                                                                                                |
-| Dex               | 13                                                                                                                                                |
-| Con               | 10                                                                                                                                                |
-| Int               | 12                                                                                                                                                |
-| Wis               | 16                                                                                                                                                |
-| Cha               | 18                                                                                                                                                |
+| CR | 7 |
+| Size | Medium-size |
+| Type | fey |
+| HD | 3d6 plus 2d6 plus 2d6 |
+| hp | 24 |
+| Mas | 10 |
+| Init | +5 |
+| Spd | 30 ft., fly 30 ft. (average) |
+| Defense | 15 |
+| Touch | 14 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +1 Dex, +3 class, +1 natural |
+| BAB | +3 |
+| Grap | +4 |
+| Atk | +4 melee (1d4+1, claw) or +4 melee (1d6+1/19–20, cleaver) |
+| Full Atk | +4 melee (1d4+1, 2 claws) or +4 melee (1d6+1/19–20, cleaver) or +4 ranged (2d6, Colt M1911) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | chosen victim, fear aura (DC 17), immune to fear, low-light vision, selective invisibility, terrify (DC 17), vulnerability (laughter of children) |
+| AL | evil |
+| Fort | +5 |
+| Ref | +4 |
+| Will | +9 |
+| AP | 2 |
+| Rep | +6 |
+| Str | 13 |
+| Dex | 13 |
+| Con | 10 |
+| Int | 12 |
+| Wis | 16 |
+| Cha | 18 |
 
 **Skills:** Bluff +10, Climb +3, Disguise +9, Escape Artist +2, Hide +4,
 Intimidate +17, Knowledge (behavioral science) +12, Knowledge (popular

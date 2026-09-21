@@ -14,10 +14,10 @@ attack.
 
 | Mecha Size | Damage |
 |---|---|
-| Large      | 2d6    |
-| Huge       | 2d8    |
-| Gargantuan | 4d6    |
-| Colossal   | 4d8    |
+| Large | 2d6 |
+| Huge | 2d8 |
+| Gargantuan | 4d6 |
+| Colossal | 4d8 |
 
 A crush attack deals bludgeoning damage and affects as many creatures as
 can fit under your mecha’s body. Each creature in the affected area must

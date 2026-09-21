@@ -6,12 +6,12 @@ motorcycles is Drive.
 
 **Table: Civilian Motorcycles**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
+| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
-| Harris-Musselman dirt bike        | 1    | 0    | F     | +0   | +1       | 180 (18)  | 10      | 5    | 19         | M    | 24          | Lic (+1)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| Stradtler Valkyrie                | 1    | 1    | F     | –2   | +1       | 295 (29)  | 9       | 5    | 24         | L    | 28          | Lic (+1)    |
+| **Progress Level 6: Fusion Age** | | | | | | | | | | | | |
+| Harris-Musselman dirt bike | 1 | 0 | F | +0 | +1 | 180 (18) | 10 | 5 | 19 | M | 24 | Lic (+1) |
+| **Progress Level 7: Gravity Age** | | | | | | | | | | | | |
+| Stradtler Valkyrie | 1 | 1 | F | –2 | +1 | 295 (29) | 9 | 5 | 24 | L | 28 | Lic (+1) |
 
 ## Harris-Musselman Dirt Bike (pl 6)
 

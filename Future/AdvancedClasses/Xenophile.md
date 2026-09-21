@@ -43,18 +43,18 @@ nonhumans).
 
 **Table: The Xenophile**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                               | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st         | +0                | +1        | +0       | +2        | Xenolore, xenotype (1st)              | +0            | +0               |
-| 2nd         | +1                | +2        | +0       | +3        | Xenoresistance (+1)                   | +1            | +1               |
-| 3rd         | +2                | +2        | +1       | +3        | Bonus feat                            | +1            | +1               |
-| 4th         | +3                | +2        | +1       | +4        | Xenotype (2nd)                        | +1            | +1               |
-| 5th         | +3                | +3        | +1       | +4        | Xenodefense (+1), xenoresistance (+2) | +2            | +2               |
-| 6th         | +4                | +3        | +2       | +5        | Bonus feat                            | +2            | +2               |
-| 7th         | +5                | +4        | +2       | +5        | Xenotype (3rd)                        | +2            | +2               |
-| 8th         | +6                | +4        | +2       | +6        | Xenoresistance (+3)                   | +3            | +3               |
-| 9th         | +6                | +4        | +3       | +6        | Bonus feat                            | +3            | +3               |
-| 10th        | +7                | +5        | +3       | +7        | Xenodefense (+2), xenotype (4th)      | +3            | +3               |
+| 1st | +0 | +1 | +0 | +2 | Xenolore, xenotype (1st) | +0 | +0 |
+| 2nd | +1 | +2 | +0 | +3 | Xenoresistance (+1) | +1 | +1 |
+| 3rd | +2 | +2 | +1 | +3 | Bonus feat | +1 | +1 |
+| 4th | +3 | +2 | +1 | +4 | Xenotype (2nd) | +1 | +1 |
+| 5th | +3 | +3 | +1 | +4 | Xenodefense (+1), xenoresistance (+2) | +2 | +2 |
+| 6th | +4 | +3 | +2 | +5 | Bonus feat | +2 | +2 |
+| 7th | +5 | +4 | +2 | +5 | Xenotype (3rd) | +2 | +2 |
+| 8th | +6 | +4 | +2 | +6 | Xenoresistance (+3) | +3 | +3 |
+| 9th | +6 | +4 | +3 | +6 | Bonus feat | +3 | +3 |
+| 10th | +7 | +5 | +3 | +7 | Xenodefense (+2), xenotype (4th) | +3 | +3 |
 
 ## Class Features
 
@@ -106,25 +106,25 @@ as a xenotype must also specify a particular species.
 
 **Table: Xenotypes**
 
-| Selected Xenotype    | Special Prerequisite                         |
+| Selected Xenotype | Special Prerequisite |
 |---|---|
-| Aberration           | Knowledge (earth and life sciences) 12 ranks |
-| Animal               | None                                         |
-| Construct            | Knowledge (technology) 9 ranks               |
-| Dragon               | Knowledge (earth and life sciences) 9 ranks  |
-| Elemental            | Knowledge (earth and life sciences) 9 ranks  |
-| Fey                  | Knowledge (arcane lore) 6 ranks              |
-| Giant                | None                                         |
-| Humanoid<sup>1</sup> | None                                         |
-| Magical beast        | Knowledge (arcane lore) 9 ranks              |
-| Monstrous humanoid   | Knowledge (earth and life sciences) 9 ranks  |
-| Ooze                 | Knowledge (earth and life sciences) 9 ranks  |
-| Outsider             | Knowledge (theology and philosophy) 9 ranks  |
-| Plant                | None                                         |
-| Undead               | Knowledge (theology and philosophy) 6 ranks  |
-| Vermin               | None                                         |
+| Aberration | Knowledge (earth and life sciences) 12 ranks |
+| Animal | None |
+| Construct | Knowledge (technology) 9 ranks |
+| Dragon | Knowledge (earth and life sciences) 9 ranks |
+| Elemental | Knowledge (earth and life sciences) 9 ranks |
+| Fey | Knowledge (arcane lore) 6 ranks |
+| Giant | None |
+| Humanoid¹ | None |
+| Magical beast | Knowledge (arcane lore) 9 ranks |
+| Monstrous humanoid | Knowledge (earth and life sciences) 9 ranks |
+| Ooze | Knowledge (earth and life sciences) 9 ranks |
+| Outsider | Knowledge (theology and philosophy) 9 ranks |
+| Plant | None |
+| Undead | Knowledge (theology and philosophy) 6 ranks |
+| Vermin | None |
 
-1 Choose a specific humanoid species.
+¹ Choose a specific humanoid species.
 
 **Xenoresistance**
 

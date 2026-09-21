@@ -28,7 +28,7 @@ before the same initiative count that they began on.
 
 **Table: Actions in Combat**
 
-| Attack Actions | Attack of Opportunity<sup>1</sup> |
+| Attack Actions | Attack of Opportunity¹ |
 |---|---|
 | Attack (melee) | No |
 | Attack (ranged) | Yes |
@@ -40,17 +40,17 @@ before the same initiative count that they began on.
 | Ready (triggers an attack action) | No |
 | Make a dying character stable | Yes |
 | Attack a weapon | Yes |
-| Attack an object | Maybe<sup>2</sup> |
+| Attack an object | Maybe² |
 | Total defense | No |
 | Use a skill that takes an attack action | Usually |
 | Start/complete full-round action | Varies |
-| **Move Actions** |** Attack of Opportunity<sup>1</sup>** |
+| **Move Actions** |** Attack of Opportunity¹** |
 | Move your speed | Yes |
 | Use a piece of equipment | No |
 | Climb (one-quarter speed) | No |
 | Climb, accelerated (one-half speed) | No |
 | Crawl | No |
-| Draw a weapon<sup>3</sup> | No |
+| Draw a weapon³ | No |
 | Holster a weapon | Yes |
 | Move a heavy object | Yes |
 | Open a door | No |
@@ -60,7 +60,7 @@ before the same initiative count that they began on.
 | Stand up from prone, sitting, or kneeling | Yes |
 | Swim | No |
 | Use a skill that takes a move action | Usually |
-| **Full-Round Actions** |** Attack of Opportunity<sup>1</sup>** |
+| **Full-Round Actions** |** Attack of Opportunity¹** |
 | Bull rush (charge) | No |
 | Charge | No |
 | Coup de grace | Yes |
@@ -71,21 +71,21 @@ before the same initiative count that they began on.
 | Extinguish flames | No |
 | Use a skill that takes a full round | Usually |
 | Reload a firearm with an internal magazine | Yes |
-| *Free Actions* |* Attack of Opportunity*\*<sup>1</sup>\* |
+| *Free Actions* |* Attack of Opportunity*\*¹\* |
 | Drop an object | No |
 | Drop to prone, sitting, or kneeling | No |
 | Speak | No |
-| Action Type Varies | **Attack of Opportunity<sup>1</sup>** |
-| Disarm<sup>4</sup> | Yes |
-| Grapple<sup>4</sup> | Yes |
+| Action Type Varies | **Attack of Opportunity¹** |
+| Disarm⁴ | Yes |
+| Grapple⁴ | Yes |
 | Load a weapon | Yes |
-| Trip an opponent<sup>4</sup> | No (Yes if unarmed) |
-| Use a feat<sup>5</sup> | Varies |
-| **No Action** |** Attack of Opportunity<sup>1</sup>** |
+| Trip an opponent⁴ | No (Yes if unarmed) |
+| Use a feat⁵ | Varies |
+| **No Action** |** Attack of Opportunity¹** |
 | Delay | No |
 | 5-foot step | No |
 
-1 Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
+¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
 2 If the object is being held, carried, or worn by a creature, yes. If not, no.
 3 If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.
 4 These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.

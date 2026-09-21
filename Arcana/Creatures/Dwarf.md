@@ -51,37 +51,37 @@ waraxes as archaic weapons instead of exotic weapons.
 
 ## Dwarf
 
-| Stat        | Value                                                                               |
+| Stat | Value |
 |---|---|
-| CR          | 1/2                                                                                 |
-| Size/Type   | Medium humanoid (Shadowkind)                                                        |
-| HD          | 1d8+1                                                                               |
-| hp          | 5                                                                                   |
-| Mas         | 13                                                                                  |
-| Init        | +0                                                                                  |
-| Spd         | 20 ft.                                                                              |
-| Defense     | 10                                                                                  |
-| Touch       | 10                                                                                  |
-| Flat-Footed | 10                                                                                  |
-| BAB         | +0                                                                                  |
-| Grap        | +0                                                                                  |
-| Atk         | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/x4, pickaxe)              |
-| Full Atk    | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/x4, pickaxe) or +0 ranged |
-| FS          | 5 ft. by 5 ft.                                                                      |
-| Reach       | 5 ft.                                                                               |
-| SQ          | special combat bonuses, stability, darkvision 60 ft.                                |
-| AL          | varies                                                                              |
-| Fort        | +3                                                                                  |
-| Ref         | +0                                                                                  |
-| Will        | +0                                                                                  |
-| AP          | 0                                                                                   |
-| Rep         | +0                                                                                  |
-| Str         | 11                                                                                  |
-| Dex         | 10                                                                                  |
-| Con         | 13                                                                                  |
-| Int         | 11                                                                                  |
-| Wis         | 10                                                                                  |
-| Cha         | 8                                                                                   |
+| CR | 1/2 |
+| Size/Type | Medium humanoid (Shadowkind) |
+| HD | 1d8+1 |
+| hp | 5 |
+| Mas | 13 |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 10 |
+| Touch | 10 |
+| Flat-Footed | 10 |
+| BAB | +0 |
+| Grap | +0 |
+| Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/x4, pickaxe) |
+| Full Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/x4, pickaxe) or +0 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | special combat bonuses, stability, darkvision 60 ft. |
+| AL | varies |
+| Fort | +3 |
+| Ref | +0 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 11 |
+| Dex | 10 |
+| Con | 13 |
+| Int | 11 |
+| Wis | 10 |
+| Cha | 8 |
 
 **Skills:** Craft (mechanical) +5, Craft (structural)
 +4, Listen +2, Read/Write Dwarven, Repair +3, Speak Dwarven, Spot
@@ -97,38 +97,38 @@ multipurpose tool.
 
 ## Dwarf Dedicated Hero 1/Tough Hero 1
 
-| Stat              | Value                                                                                                       |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                                                           |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                |
-| HD                | 1d6+3 plus 1d10+3 plus 1 (robust)                                                                           |
-| hp                | 18                                                                                                          |
-| Mas               | 17                                                                                                          |
-| Init              | –1                                                                                                          |
-| Spd               | 20 ft.                                                                                                      |
-| Defense           | 12                                                                                                          |
-| Touch             | 11                                                                                                          |
-| Flat-Footed       | 12                                                                                                          |
-| Defense Breakdown | –1 Dex, +2 class, +1 leather jacket                                                                         |
-| BAB               | +0                                                                                                          |
-| Grap              | +1                                                                                                          |
-| Atk               | +1 melee (1d3+1, brass knuckles) or +0 melee (1d10+1/x3, dwarven waraxe)                                    |
-| Full Atk          | +1 melee (1d3+1, brass knuckles) or +1 melee (1d10+1/x3, dwarven waraxe) or –1 ranged (2d6, dynamite stick) |
-| FS                | 5 ft. by 5 ft.                                                                                              |
-| Reach             | 5 ft.                                                                                                       |
-| SQ                | special combat bonuses, stability, darkvision 60 ft.                                                        |
-| AL                | varies                                                                                                      |
-| Fort              | +5                                                                                                          |
-| Ref               | –1                                                                                                          |
-| Will              | +3                                                                                                          |
-| AP                | 1                                                                                                           |
-| Rep               | +0                                                                                                          |
-| Str               | 12                                                                                                          |
-| Dex               | 8                                                                                                           |
-| Con               | 17                                                                                                          |
-| Int               | 13                                                                                                          |
-| Wis               | 14                                                                                                          |
-| Cha               | 8                                                                                                           |
+| CR | 2 |
+| Size/Type | Medium humanoid (Shadowkind) |
+| HD | 1d6+3 plus 1d10+3 plus 1 (robust) |
+| hp | 18 |
+| Mas | 17 |
+| Init | –1 |
+| Spd | 20 ft. |
+| Defense | 12 |
+| Touch | 11 |
+| Flat-Footed | 12 |
+| Defense Breakdown | –1 Dex, +2 class, +1 leather jacket |
+| BAB | +0 |
+| Grap | +1 |
+| Atk | +1 melee (1d3+1, brass knuckles) or +0 melee (1d10+1/x3, dwarven waraxe) |
+| Full Atk | +1 melee (1d3+1, brass knuckles) or +1 melee (1d10+1/x3, dwarven waraxe) or –1 ranged (2d6, dynamite stick) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | special combat bonuses, stability, darkvision 60 ft. |
+| AL | varies |
+| Fort | +5 |
+| Ref | –1 |
+| Will | +3 |
+| AP | 1 |
+| Rep | +0 |
+| Str | 12 |
+| Dex | 8 |
+| Con | 17 |
+| Int | 13 |
+| Wis | 14 |
+| Cha | 8 |
 
 **Skills:** Craft (mechanical) +6, Craft (structural)
 +6, Drive +1, Knowledge (art) +3, Knowledge (current events) +3, Listen

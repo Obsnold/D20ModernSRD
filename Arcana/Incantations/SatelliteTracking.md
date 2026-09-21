@@ -1,17 +1,17 @@
 # Satellite Tracking
 
-| Stat             | Value                                                                           |
+| Stat | Value |
 |---|---|
-| School           | Divination                                                                      |
-| Skill Check      | Knowledge (arcane lore) DC 34, 6 successes, and Computer Use DC 34, 2 successes |
-| Failure          | Two consecutive failed skill checks                                             |
-| Components       | V, S, F                                                                         |
-| Casting Time     | 80 minutes (minimum)                                                            |
-| Range            | Unlimited                                                                       |
-| Target           | One living creature or object                                                   |
-| Duration         | Instantaneous                                                                   |
-| Saving Throw     | None                                                                            |
-| Spell Resistance | No                                                                              |
+| School | Divination |
+| Skill Check | Knowledge (arcane lore) DC 34, 6 successes, and Computer Use DC 34, 2 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, F |
+| Casting Time | 80 minutes (minimum) |
+| Range | Unlimited |
+| Target | One living creature or object |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 A *satellite tracking* incantation is among the most powerful means of
 locating creatures or objects. You learn the exact location of a single

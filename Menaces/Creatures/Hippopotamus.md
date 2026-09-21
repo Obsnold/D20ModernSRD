@@ -14,39 +14,39 @@ species bonus on Swim checks.
 
 ## Hippopotamus
 
-| Stat              | Value                       |
+| Stat | Value |
 |---|---|
-| CR                | 6                           |
-| Size              | Large                       |
-| Type              | animal                      |
-| HD                | 8d8+40                      |
-| hp                | 76                          |
-| Mas               | 20                          |
-| Init              | –1                          |
-| Spd               | 20 ft., swim 20 ft.         |
-| Defense           | 14                          |
-| Touch             | 8                           |
-| Flat-Footed       | 14                          |
+| CR | 6 |
+| Size | Large |
+| Type | animal |
+| HD | 8d8+40 |
+| hp | 76 |
+| Mas | 20 |
+| Init | –1 |
+| Spd | 20 ft., swim 20 ft. |
+| Defense | 14 |
+| Touch | 8 |
+| Flat-Footed | 14 |
 | Defense Breakdown | –1 size, –1 Dex, +6 natural |
-| BAB               | +6                          |
-| Grap              | +17                         |
-| Atk               | +12 melee (2d6+10, bite)    |
-| Full Atk          | +12 melee (2d6+10, bite)    |
-| FS                | 10 ft. by 10 ft.            |
-| Reach             | 5 ft.                       |
-| SQ                | hold breath, scent          |
-| AL                | none                        |
-| Fort              | +11                         |
-| Ref               | +5                          |
-| Will              | +3                          |
-| AP                | 0                           |
-| Rep               | +0                          |
-| Str               | 24                          |
-| Dex               | 9                           |
-| Con               | 20                          |
-| Int               | 2                           |
-| Wis               | 12                          |
-| Cha               | 3                           |
+| BAB | +6 |
+| Grap | +17 |
+| Atk | +12 melee (2d6+10, bite) |
+| Full Atk | +12 melee (2d6+10, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 5 ft. |
+| SQ | hold breath, scent |
+| AL | none |
+| Fort | +11 |
+| Ref | +5 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 24 |
+| Dex | 9 |
+| Con | 20 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 3 |
 
 **Skills:** Listen +7, Swim +11.
 

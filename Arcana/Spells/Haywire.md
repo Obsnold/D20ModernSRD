@@ -1,16 +1,16 @@
 # Haywire
 
-| Stat             | Value                             |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                     |
-| Level            | Arcane 0, Divine 0                |
-| Components       | V, S, M                           |
-| Casting Time     | Attack action                     |
-| Range            | Close (25 ft. + 5 ft./2 levels)   |
-| Target           | One object of up to 100 lb./level |
-| Duration         | 1 minute/level                    |
-| Saving Throw     | Will negates (object)             |
-| Spell Resistance | Yes (object)                      |
+| School | Transmutation |
+| Level | Arcane 0, Divine 0 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One object of up to 100 lb./level |
+| Duration | 1 minute/level |
+| Saving Throw | Will negates (object) |
+| Spell Resistance | Yes (object) |
 
 The *haywire* spell causes a single device to behave randomly and
 erratically, defying any attempts to bring it under control. Cash

@@ -45,39 +45,39 @@ action.
 
 ## Demonic Machine
 
-| Stat              | Value                                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 5                                                                                   |
-| Size              | Large                                                                               |
-| Type              | construct                                                                           |
-| HD                | 5d10+15                                                                             |
-| hp                | 42                                                                                  |
-| Mas               | —                                                                                   |
-| Init              | +3                                                                                  |
-| Spd               | 30 ft.                                                                              |
-| Defense           | 13                                                                                  |
-| Touch             | 8                                                                                   |
-| Flat-Footed       | 13                                                                                  |
-| Defense Breakdown | –1 size, –1 Dex, +5 natural                                                         |
-| BAB               | +3                                                                                  |
-| Grap              | +12                                                                                 |
-| Atk               | +7 melee (1d6+5, claw)                                                              |
-| Full Atk          | +7 melee (1d6+5, 2 claws)                                                           |
-| FS                | 10 ft. by 10 ft.                                                                    |
-| Reach             | 5 ft.                                                                               |
-| SQ                | construct, damage reduction 10/+1, improved grab, grind (2d6+5), machine possession |
-| AL                | evil                                                                                |
-| Fort              | +1                                                                                  |
-| Ref               | +0                                                                                  |
-| Will              | +1                                                                                  |
-| AP                | 0                                                                                   |
-| Rep               | +0                                                                                  |
-| Str               | 20                                                                                  |
-| Dex               | 8                                                                                   |
-| Con               | —                                                                                   |
-| Int               | 10                                                                                  |
-| Wis               | 10                                                                                  |
-| Cha               | 5                                                                                   |
+| CR | 5 |
+| Size | Large |
+| Type | construct |
+| HD | 5d10+15 |
+| hp | 42 |
+| Mas | — |
+| Init | +3 |
+| Spd | 30 ft. |
+| Defense | 13 |
+| Touch | 8 |
+| Flat-Footed | 13 |
+| Defense Breakdown | –1 size, –1 Dex, +5 natural |
+| BAB | +3 |
+| Grap | +12 |
+| Atk | +7 melee (1d6+5, claw) |
+| Full Atk | +7 melee (1d6+5, 2 claws) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 5 ft. |
+| SQ | construct, damage reduction 10/+1, improved grab, grind (2d6+5), machine possession |
+| AL | evil |
+| Fort | +1 |
+| Ref | +0 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 20 |
+| Dex | 8 |
+| Con | — |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Bluff +5, Listen +10, Sense Motive +8, Spot +10.
 
@@ -87,40 +87,40 @@ action.
 
 ## Advanced Demonic Machine (industrial shredder)
 
-| Stat              | Value                                                               |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                   |
-| Size              | Huge                                                                |
-| Type              | construct                                                           |
-| HD                | 8d10+20                                                             |
-| hp                | 64                                                                  |
-| Mas               | —                                                                   |
-| Init              | +1                                                                  |
-| Spd               | 30 ft.                                                              |
-| Defense           | 14                                                                  |
-| Touch             | 6                                                                   |
-| Flat-Footed       | 14                                                                  |
-| Defense Breakdown | –2 size, –2 Dex, +8 natural                                         |
-| BAB               | +6                                                                  |
-| Grap              | +23                                                                 |
-| Atk               | +13 melee (2d4+9, claw)                                             |
-| Full Atk          | +13 melee (2d4+9, 2 claws)                                          |
-| FS                | 15 ft. by 15 ft.                                                    |
-| Reach             | 10 ft.                                                              |
-| SA                | improved grab, grind (4d4+9)                                        |
-| SQ                | construct, damage reduction 10/+1, improved grab, grind, possession |
-| AL                | evil                                                                |
-| Fort              | +2                                                                  |
-| Ref               | +0                                                                  |
-| Will              | +2                                                                  |
-| AP                | 0                                                                   |
-| Rep               | +0                                                                  |
-| Str               | 28                                                                  |
-| Dex               | 6                                                                   |
-| Con               | —                                                                   |
-| Int               | 10                                                                  |
-| Wis               | 10                                                                  |
-| Cha               | 5                                                                   |
+| CR | 8 |
+| Size | Huge |
+| Type | construct |
+| HD | 8d10+20 |
+| hp | 64 |
+| Mas | — |
+| Init | +1 |
+| Spd | 30 ft. |
+| Defense | 14 |
+| Touch | 6 |
+| Flat-Footed | 14 |
+| Defense Breakdown | –2 size, –2 Dex, +8 natural |
+| BAB | +6 |
+| Grap | +23 |
+| Atk | +13 melee (2d4+9, claw) |
+| Full Atk | +13 melee (2d4+9, 2 claws) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SA | improved grab, grind (4d4+9) |
+| SQ | construct, damage reduction 10/+1, improved grab, grind, possession |
+| AL | evil |
+| Fort | +2 |
+| Ref | +0 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 28 |
+| Dex | 6 |
+| Con | — |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Bluff +11, Listen +16, Sense Motive +14, Spot +16.
 

@@ -58,49 +58,49 @@ wielder’s actions.
 To determine the personality of a particular *Nakamura blade,* roll on
 the following chart.
 
-| d20   | Personality  |
+| d20 | Personality |
 |---|---|
-| 1     | Bloodthirsty |
-| 2–3   | Violent      |
-| 4–6   | Angry        |
-| 7–10  | Impatient    |
-| 11–14 | Patient      |
-| 15–17 | Soothing     |
-| 18–19 | Insightful   |
-| 20    | Peace loving |
+| 1 | Bloodthirsty |
+| 2–3 | Violent |
+| 4–6 | Angry |
+| 7–10 | Impatient |
+| 11–14 | Patient |
+| 15–17 | Soothing |
+| 18–19 | Insightful |
+| 20 | Peace loving |
 
 Some *Nakamura blades* are more deadly than others, but all give immense
 power to the people who wield them. To determine the abilities of a
 particular *Nakamura blade,* roll once on each of the following charts.
 
-| d6     | Enhancement Bonus                                             |
+| d6 | Enhancement Bonus |
 |---|---|
-| 1–3    | +1                                                            |
-| 4–5    | +2                                                            |
-| 6      | +3                                                            |
-| **d%** |** Special Ability**                                           |
-| 01–05  | Item can Sense Motive (10 ranks)                              |
-| 06–10  | Wielder has free use of Combat Reflexes                       |
-| 11–15  | Wielder has free use of Blind-Fight                           |
-| 16–20  | Wielder has free use of Improved Initiative                   |
-| 21–25  | Wielder has free use of Dodge                                 |
-| 26–30  | Wielder has free use of Mobility                              |
-| 31–35  | *Detect magical aura* at will                                 |
-| 36–40  | *Detect psionics* at will                                     |
-| 41–45  | Wielder gains the evasion ability                             |
-| 46–50  | Wielder can *see invisible* at will                           |
-| 51–55  | *Cure light wounds* (1d8+5) on wielder 1/day                  |
-| 56–60  | *Feather fall* on wielder 1/day                               |
-| 61–65  | Wielder does not need to sleep                                |
-| 66–70  | Wielder does not need to breathe                              |
-| 71–75  | *Spider climb* for 20 minutes on wielder 1/day                |
-| 76–80  | *Charm person* (DC 11) on contact 3/day                       |
-| 81–85  | *Shield* on wielder 3/day                                     |
-| 86–88  | *Invisibility* (wielder only, up to 30 minutes per use) 3/day |
-| 89–91  | *Fly* (30 minutes per use) 2/day                              |
-| 92–94  | *Heal*                                                        |
-| 95–97  | *True seeing* at will                                         |
-| 98–00  | *Passwall* 3/day                                              |
+| 1–3 | +1 |
+| 4–5 | +2 |
+| 6 | +3 |
+| **d%** |** Special Ability** |
+| 01–05 | Item can Sense Motive (10 ranks) |
+| 06–10 | Wielder has free use of Combat Reflexes |
+| 11–15 | Wielder has free use of Blind-Fight |
+| 16–20 | Wielder has free use of Improved Initiative |
+| 21–25 | Wielder has free use of Dodge |
+| 26–30 | Wielder has free use of Mobility |
+| 31–35 | *Detect magical aura* at will |
+| 36–40 | *Detect psionics* at will |
+| 41–45 | Wielder gains the evasion ability |
+| 46–50 | Wielder can *see invisible* at will |
+| 51–55 | *Cure light wounds* (1d8+5) on wielder 1/day |
+| 56–60 | *Feather fall* on wielder 1/day |
+| 61–65 | Wielder does not need to sleep |
+| 66–70 | Wielder does not need to breathe |
+| 71–75 | *Spider climb* for 20 minutes on wielder 1/day |
+| 76–80 | *Charm person* (DC 11) on contact 3/day |
+| 81–85 | *Shield* on wielder 3/day |
+| 86–88 | *Invisibility* (wielder only, up to 30 minutes per use) 3/day |
+| 89–91 | *Fly* (30 minutes per use) 2/day |
+| 92–94 | *Heal* |
+| 95–97 | *True seeing* at will |
+| 98–00 | *Passwall* 3/day |
 
 *Type:* Weapon (magic); *Caster Level:* 10th; *Purchase DC:* 45\*;
 *Weight:* 6 lb.

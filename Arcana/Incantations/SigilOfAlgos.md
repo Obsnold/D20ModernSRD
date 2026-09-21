@@ -1,19 +1,19 @@
 # Sigil of Algos
 
-| Stat             | Value                                             |
+| Stat | Value |
 |---|---|
-| School           | Enchantment                                       |
-| Subschool        | Compulsion                                        |
-| Descriptors      | Mind-Affecting                                    |
-| Skill Check      | Knowledge (arcane lore) DC 32, 6 successes        |
-| Failure          | Two consecutive failed skill checks               |
-| Components       | V, S, M, XP                                       |
-| Casting Time     | 60 minutes (minimum)                              |
-| Range            | Touch                                             |
-| Effect           | 60 ft. burst centered on magic rune (see text)    |
-| Duration         | 12 minutes (and see text)                         |
-| Saving Throw     | Will negates (DC 16 + caster’s Charisma modifier) |
-| Spell Resistance | Yes                                               |
+| School | Enchantment |
+| Subschool | Compulsion |
+| Descriptors | Mind-Affecting |
+| Skill Check | Knowledge (arcane lore) DC 32, 6 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, XP |
+| Casting Time | 60 minutes (minimum) |
+| Range | Touch |
+| Effect | 60 ft. burst centered on magic rune (see text) |
+| Duration | 12 minutes (and see text) |
+| Saving Throw | Will negates (DC 16 + caster’s Charisma modifier) |
+| Spell Resistance | Yes |
 
 This incantation, named after the Greek god of pain, allows you to
 scribe a potent rune of power upon a surface. When triggered, the *sigil

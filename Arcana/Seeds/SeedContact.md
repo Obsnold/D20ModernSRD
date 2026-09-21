@@ -1,14 +1,14 @@
 # Seed: Contact
 
-| Stat                       | Value              |
+| Stat | Value |
 |---|---|
-| School                     | Divination         |
-| Knowledge (arcane lore) DC | 30                 |
-| Range                      | See text           |
-| Targets                    | One other creature |
-| Duration                   | Hours              |
-| Saving Throw               | None               |
-| Spell Resistance           | No                 |
+| School | Divination |
+| Knowledge (arcane lore) DC | 30 |
+| Range | See text |
+| Targets | One other creature |
+| Duration | Hours |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You forge a telepathic bond with a particular creature with whom you are
 familiar (or can currently see directly or through magical means) and

@@ -15,12 +15,12 @@ A vehicular magic item’s purchase price is 20 + the item’s caster
 level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
-| Item’s Nature                  | FX Modifier |
+| Item’s Nature | FX Modifier |
 |---|---|
-| Single-use item                | —           |
-| Continuous effect or bonus     | +3          |
-| Limited number of uses per day | +2          |
-| Limited number of charges      | +1          |
+| Single-use item | — |
+| Continuous effect or bonus | +3 |
+| Limited number of uses per day | +2 |
+| Limited number of charges | +1 |
 
 Limits for FX Items on Vehicles
 

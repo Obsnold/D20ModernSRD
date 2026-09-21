@@ -1,15 +1,15 @@
 # Seed: Heal
 
-| Stat                       | Value                    |
+| Stat | Value |
 |---|---|
-| School                     | Conjuration              |
-| Subschool                  | Healing                  |
-| Knowledge (arcane lore) DC | 32                       |
-| Range                      | Touch                    |
-| Target                     | Creature touched         |
-| Duration                   | Instantaneous            |
-| Saving Throw               | Yes (harmless; see text) |
-| Spell Resistance           | Yes (harmless)           |
+| School | Conjuration |
+| Subschool | Healing |
+| Knowledge (arcane lore) DC | 32 |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Instantaneous |
+| Saving Throw | Yes (harmless; see text) |
+| Spell Resistance | Yes (harmless) |
 
 Incantations developed with the *heal* seed channel positive energy into
 a creature to wipe away disease and injury. Such an incantation

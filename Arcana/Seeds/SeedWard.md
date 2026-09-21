@@ -1,14 +1,14 @@
 # Seed: Ward
 
-| Stat                       | Value                                                                                                   |
+| Stat | Value |
 |---|---|
-| School                     | Abjuration                                                                                              |
-| Knowledge (arcane lore) DC | 30                                                                                                      |
-| Range                      | Touch                                                                                                   |
-| Target                     | Creature or object of 1,000 lbs. or less touched; or 10-ft.-radius spherical emanation, centered on you |
-| Duration                   | Hours (D)                                                                                               |
-| Saving Throw               | None                                                                                                    |
-| Spell Resistance           | Yes                                                                                                     |
+| School | Abjuration |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Touch |
+| Target | Creature or object of 1,000 lbs. or less touched; or 10-ft.-radius spherical emanation, centered on you |
+| Duration | Hours (D) |
+| Saving Throw | None |
+| Spell Resistance | Yes |
 
 You can grant a creature protection from damage of a specified type. You
 can protect a creature from standard damage or from energy damage. You

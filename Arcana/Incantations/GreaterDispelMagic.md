@@ -1,17 +1,17 @@
 # Greater Dispel Magic
 
-| Stat             | Value                                                                         |
+| Stat | Value |
 |---|---|
-| School           | Abjuration                                                                    |
-| Skill Check      | Knowledge (arcane lore) DC 31, 4 successes, and Spellcraft DC 31, 2 successes |
-| Failure          | Two consecutive failed skill checks                                           |
-| Components       | V, S, M, B                                                                    |
-| Casting Time     | 60 minutes (minimum)                                                          |
-| Range            | 220 ft.                                                                       |
-| Target           | One spellcaster, creature, or object; or 30-ft.-radius burst                  |
-| Duration         | Instantaneous                                                                 |
-| Saving Throw     | None                                                                          |
-| Spell Resistance | No                                                                            |
+| School | Abjuration |
+| Skill Check | Knowledge (arcane lore) DC 31, 4 successes, and Spellcraft DC 31, 2 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, B |
+| Casting Time | 60 minutes (minimum) |
+| Range | 220 ft. |
+| Target | One spellcaster, creature, or object; or 30-ft.-radius burst |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 As the *dispel magic* spell, except that the bonus on the dispel check
 is +15, not the caster level. Additionally, *greater dispel magic* has a

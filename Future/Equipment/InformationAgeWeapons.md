@@ -87,22 +87,22 @@ the user.
 
 **Table: Progress Level 5 Ranged Weapons**
 
-| Weapon<sup>1</sup>                                                                     | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight  | Purchase DC | Restriction |
+| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Falcon .45                                                                             | 2d6    | 20       | Ballistic   | 40 feet         | S, A         | 20 box   | Medium | 2.5 lb. | 18          | Lic (+1)    |
-| OICW assault rifle                                                                     | 2d8    | 20       | Ballistic   | 70 feet         | S            | 30 box   | Large  | 18 lb.  | 26          | Mil (+3)    |
-| TacMil sniper rifle                                                                    | 2d10   | 20       | Ballistic   | 120 feet        | S            | 15 box   | Large  | 14 lb.  | 21          | Res (+2)    |
-| Twin thunder machine gun                                                               | 2d10   | 20       | Ballistic   | 100 feet        | A            | Linked   | Huge   | 42 lb.  | 22          | Mil (+3)    |
-| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** |        |          |             |                 |              |          |        |         |             |             |
+| Falcon .45 | 2d6 | 20 | Ballistic | 40 feet | S, A | 20 box | Medium | 2.5 lb. | 18 | Lic (+1) |
+| OICW assault rifle | 2d8 | 20 | Ballistic | 70 feet | S | 30 box | Large | 18 lb. | 26 | Mil (+3) |
+| TacMil sniper rifle | 2d10 | 20 | Ballistic | 120 feet | S | 15 box | Large | 14 lb. | 21 | Res (+2) |
+| Twin thunder machine gun | 2d10 | 20 | Ballistic | 100 feet | A | Linked | Huge | 42 lb. | 22 | Mil (+3) |
+| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** | | | | | | | | | | |
 
 **Table: Progress Level 5 Explosives And Splash Weapons**
 
-| Weapon               | Damage                                 | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
+| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Grenade, shrapnel    | 5d6                                    | —        | Slashing    | 20 ft.          | 15           | 10 ft.   | Tiny | 1 lb.  | 18          | Mil (+3)    |
-| Grenade, sonic pulse | 3d6 nonlethal plus special<sup>1</sup> | —        | Sonic       | 15 ft.          | 12           | 10 ft.   | Tiny | 1 lb.  | 15          | Res (+2)    |
+| Grenade, shrapnel | 5d6 | — | Slashing | 20 ft. | 15 | 10 ft. | Tiny | 1 lb. | 18 | Mil (+3) |
+| Grenade, sonic pulse | 3d6 nonlethal plus special¹ | — | Sonic | 15 ft. | 12 | 10 ft. | Tiny | 1 lb. | 15 | Res (+2) |
 
-1 See the weapon description for details.
+¹ See the weapon description for details.
 
 ## Grenades, Missiles, and Mines
 

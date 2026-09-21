@@ -1,17 +1,17 @@
 # Recharge
 
-| Stat             | Value                                |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                          |
-| Subschool        | Healing                              |
-| Level            | Divine 3                             |
-| Components       | V, S, F                              |
-| Casting Time     | Attack action                        |
-| Range            | Touch                                |
-| Target           | Creature touched                     |
-| Duration         | Instantaneous and special (see text) |
-| Saving Throw     | Will negates (harmless)              |
-| Spell Resistance | Yes (harmless)                       |
+| School | Conjuration |
+| Subschool | Healing |
+| Level | Divine 3 |
+| Components | V, S, F |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Instantaneous and special (see text) |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 By converting electrical energy into eldritch power, you can recover
 quickly from debilitating physical effects. However, you must draw

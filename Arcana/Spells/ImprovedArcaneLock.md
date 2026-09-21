@@ -1,12 +1,12 @@
 # Improved Arcane Lock
 
-| Stat     | Value                                                                   |
+| Stat | Value |
 |---|---|
-| School   | Abjuration                                                              |
-| Level    | Arcane 3                                                                |
-| Range    | Long (400 ft. + 40 ft./level)                                           |
-| Target   | One door, cabinet, chest, or portal/level, up to 30 sq. ft./ level each |
-| Duration | 1 hour/level                                                            |
+| School | Abjuration |
+| Level | Arcane 3 |
+| Range | Long (400 ft. + 40 ft./level) |
+| Target | One door, cabinet, chest, or portal/level, up to 30 sq. ft./ level each |
+| Duration | 1 hour/level |
 
 As *arcane lock,* except as described above. Additionally, *improved
 arcane lock *closes all targeted doors or containers if they’re open

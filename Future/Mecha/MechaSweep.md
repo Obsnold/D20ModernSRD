@@ -17,10 +17,10 @@ for the attack.
 
 | Mecha Size | Damage |
 |---|---|
-| Large      | 1d6    |
-| Huge       | 1d8    |
-| Gargantuan | 2d6    |
-| Colossal   | 2d8    |
+| Large | 1d6 |
+| Huge | 1d8 |
+| Gargantuan | 2d6 |
+| Colossal | 2d8 |
 
 Though it can deal significant damage, this form of attack is awkward
 and unbalancing. You take a –2 penalty to your mecha’s Defense and on

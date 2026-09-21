@@ -8,20 +8,20 @@ captured ordnance.
 A Scourge installed with the standard equipment package (see below) has
 a purchase DC of 49.
 
-| Stat              | Value                     |
+| Stat | Value |
 |---|---|
-| Size              | Huge (–2 size)            |
-| Bonus Hit Points  | 200                       |
-| Superstructure    | Vanadium                  |
-| Hardness          | 20                        |
-| Armor             | Duralloy                  |
-| Bonus to Defense  | +8                        |
-| Armor Penalty     | –8                        |
-| Reach             | 10 ft.                    |
-| Strength Bonus    | +16                       |
-| Dexterity Penalty | —                         |
-| Speed             | 30 ft., fly 90 ft. (poor) |
-| Base Purchase DC  | 48                        |
+| Size | Huge (–2 size) |
+| Bonus Hit Points | 200 |
+| Superstructure | Vanadium |
+| Hardness | 20 |
+| Armor | Duralloy |
+| Bonus to Defense | +8 |
+| Armor Penalty | –8 |
+| Reach | 10 ft. |
+| Strength Bonus | +16 |
+| Dexterity Penalty | — |
+| Speed | 30 ft., fly 90 ft. (poor) |
+| Base Purchase DC | 48 |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), Enigma sensor suite (visor), Typhoon 240

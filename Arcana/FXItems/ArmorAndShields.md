@@ -98,8 +98,8 @@ damage reduction of a specific type:
 
 | Damage Reduction | Purchase DC Modifier |
 |---|---|
-| 5/+1             | +1                   |
-| 10/+1            | +2                   |
+| 5/+1 | +1 |
+| 10/+1 | +2 |
 
 **Electricity Resistance:** A suit of armor or a shield with
 
@@ -125,9 +125,9 @@ rolled normally:
 
 | Fortification Type | Chance for Normal Damage | Purchase DC Modifier |
 |---|---|---|
-| Light              | 25%                      | +1                   |
-| Moderate           | 75%                      | +2                   |
-| Heavy              | 100%                     | +3                   |
+| Light | 25% | +1 |
+| Moderate | 75% | +2 |
+| Heavy | 100% | +3 |
 
 **Ghost Touch:** This armor or shield seems almost translucent. Both its
 enhancement bonus and its armor bonus count against the attacks of
@@ -180,9 +180,9 @@ wearer spell resistance while the armor is worn.
 
 | Spell Resistance | Purchase DC Modifier |
 |---|---|
-| 15               | +1                   |
-| 19               | +2                   |
-| 23               | +3                   |
+| 15 | +1 |
+| 19 | +2 |
+| 23 | +3 |
 
 **Sponsorship:** This suit of armor or a shield is emblazoned with
 corporate logos, emblems, and advertisements. The armor gains no special

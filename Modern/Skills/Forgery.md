@@ -48,8 +48,8 @@ as given in the table below.
 | Type of document unknown to examiner | –4 |
 | Type of document somewhat known to examiner | –2 |
 | Type of document well known to examiner | +0 |
-| Document is put through additional tests <sup>1</sup> | +4 |
-| Examiner only casually reviews the document <sup>1</sup> | –2 |
+| Document is put through additional tests ¹ | +4 |
+| Examiner only casually reviews the document ¹ | –2 |
 
 1Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
 

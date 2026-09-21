@@ -1,17 +1,17 @@
 # Feather Fall
 
-| Stat               | Value                                                                                                        |
+| Stat | Value |
 |---|---|
-| Key Ability        | Dexterity                                                                                                    |
-| Level              | Psionic Agent 1                                                                                              |
-| Display            | Audible                                                                                                      |
-| Manifestation Time | See text                                                                                                     |
-| Range              | Close (25 ft. + 5 ft./2 levels)                                                                              |
-| Targets            | Any free-falling objects or creatures in a 10-ft. radius whose weight does not total more than 300 lb./level |
-| Duration           | Until landing or 1 round/level                                                                               |
-| Saving Throw       | Will negates (object)                                                                                        |
-| Power Resistance   | Yes (object)                                                                                                 |
-| Power Point Cost   | 1                                                                                                            |
+| Key Ability | Dexterity |
+| Level | Psionic Agent 1 |
+| Display | Audible |
+| Manifestation Time | See text |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Targets | Any free-falling objects or creatures in a 10-ft. radius whose weight does not total more than 300 lb./level |
+| Duration | Until landing or 1 round/level |
+| Saving Throw | Will negates (object) |
+| Power Resistance | Yes (object) |
+| Power Point Cost | 1 |
 
 The targeted creatures or objects affected fall slowly. The rate of fall
 is instantly changed to a mere 60 feet per round (equivalent to the end

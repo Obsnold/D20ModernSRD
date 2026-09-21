@@ -76,39 +76,39 @@ Listen and Spot checks.
 
 ## Vrock
 
-| Stat              | Value                                                                                                                                                                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 9                                                                                                                                                                                                                                                                             |
-| Size              | Large                                                                                                                                                                                                                                                                         |
-| Type              | outsider                                                                                                                                                                                                                                                                      |
-| HD                | 8d8+24                                                                                                                                                                                                                                                                        |
-| hp                | 60                                                                                                                                                                                                                                                                            |
-| Mas               | 17                                                                                                                                                                                                                                                                            |
-| Init              | +2                                                                                                                                                                                                                                                                            |
-| Spd               | 30 ft., fly 50 ft. (average)                                                                                                                                                                                                                                                  |
-| Defense           | 25                                                                                                                                                                                                                                                                            |
-| Touch             | 11                                                                                                                                                                                                                                                                            |
-| Flat-Footed       | 23                                                                                                                                                                                                                                                                            |
-| Defense Breakdown | –1 size, +2 Dex, +14 natural                                                                                                                                                                                                                                                  |
-| BAB               | +8                                                                                                                                                                                                                                                                            |
-| Grap              | +16                                                                                                                                                                                                                                                                           |
-| Atk               | +11 melee (1d8+4, claw)                                                                                                                                                                                                                                                       |
-| Full Atk          | +11 melee (1d8+4, 2 claws), +9 melee (1d6+2, bite), +9 melee (1d4+2, 2 talons)                                                                                                                                                                                                |
-| FS                | 10 ft. by 10 ft.                                                                                                                                                                                                                                                              |
-| Reach             | 10 ft.                                                                                                                                                                                                                                                                        |
-| SQ                | spores, stunning screech (DC 17), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 20, telepathy, darkvision 60 ft. |
-| AL                | chaos, evil                                                                                                                                                                                                                                                                   |
-| Fort              | +9                                                                                                                                                                                                                                                                            |
-| Ref               | +8                                                                                                                                                                                                                                                                            |
-| Will              | +8                                                                                                                                                                                                                                                                            |
-| AP                | 0                                                                                                                                                                                                                                                                             |
-| Rep               | +0                                                                                                                                                                                                                                                                            |
-| Str               | 19                                                                                                                                                                                                                                                                            |
-| Dex               | 15                                                                                                                                                                                                                                                                            |
-| Con               | 17                                                                                                                                                                                                                                                                            |
-| Int               | 14                                                                                                                                                                                                                                                                            |
-| Wis               | 14                                                                                                                                                                                                                                                                            |
-| Cha               | 12                                                                                                                                                                                                                                                                            |
+| CR | 9 |
+| Size | Large |
+| Type | outsider |
+| HD | 8d8+24 |
+| hp | 60 |
+| Mas | 17 |
+| Init | +2 |
+| Spd | 30 ft., fly 50 ft. (average) |
+| Defense | 25 |
+| Touch | 11 |
+| Flat-Footed | 23 |
+| Defense Breakdown | –1 size, +2 Dex, +14 natural |
+| BAB | +8 |
+| Grap | +16 |
+| Atk | +11 melee (1d8+4, claw) |
+| Full Atk | +11 melee (1d8+4, 2 claws), +9 melee (1d6+2, bite), +9 melee (1d4+2, 2 talons) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | spores, stunning screech (DC 17), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 20, telepathy, darkvision 60 ft. |
+| AL | chaos, evil |
+| Fort | +9 |
+| Ref | +8 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 19 |
+| Dex | 15 |
+| Con | 17 |
+| Int | 14 |
+| Wis | 14 |
+| Cha | 12 |
 
 **Skills:** Concentration +14, Hide +9, Knowledge (any
 one) +12, Listen +13, Move Silently +13, Search +13, Sense Motive +13,
@@ -123,39 +123,39 @@ Power Attack.
 
 ## Advanced Vrock (Vrock Lord)
 
-| Stat              | Value                                                                                                                                                                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 15                                                                                                                                                                                                                                                                            |
-| Size              | Huge                                                                                                                                                                                                                                                                          |
-| Type              | outsider                                                                                                                                                                                                                                                                      |
-| HD                | 24d8+120                                                                                                                                                                                                                                                                      |
-| hp                | 228                                                                                                                                                                                                                                                                           |
-| Mas               | 21                                                                                                                                                                                                                                                                            |
-| Init              | +1                                                                                                                                                                                                                                                                            |
-| Spd               | 30 ft., fly 50 ft. (average)                                                                                                                                                                                                                                                  |
-| Defense           | 26                                                                                                                                                                                                                                                                            |
-| Touch             | 9                                                                                                                                                                                                                                                                             |
-| Flat-Footed       | 25                                                                                                                                                                                                                                                                            |
-| Defense Breakdown | –2 size, +1 Dex, +17 natural                                                                                                                                                                                                                                                  |
-| BAB               | +24                                                                                                                                                                                                                                                                           |
-| Grap              | +40                                                                                                                                                                                                                                                                           |
-| Atk               | +30 melee (2d6+8/19–20, claw)                                                                                                                                                                                                                                                 |
-| Full Atk          | +30 melee (2d6+8/19–20, 2 claws), +25 melee (1d8+4/19–20, bite), +25 melee (1d6+4, 2 talons)                                                                                                                                                                                  |
-| FS                | 15 ft. by 15 ft.                                                                                                                                                                                                                                                              |
-| Reach             | 10 ft.                                                                                                                                                                                                                                                                        |
-| SQ                | spores, stunning screech (DC 27), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 36, telepathy, darkvision 60 ft. |
-| AL                | chaos, evil                                                                                                                                                                                                                                                                   |
-| Fort              | +18                                                                                                                                                                                                                                                                           |
-| Ref               | +14                                                                                                                                                                                                                                                                           |
-| Will              | +15                                                                                                                                                                                                                                                                           |
-| AP                | 0                                                                                                                                                                                                                                                                             |
-| Rep               | +0                                                                                                                                                                                                                                                                            |
-| Str               | 27                                                                                                                                                                                                                                                                            |
-| Dex               | 13                                                                                                                                                                                                                                                                            |
-| Con               | 21                                                                                                                                                                                                                                                                            |
-| Int               | 18                                                                                                                                                                                                                                                                            |
-| Wis               | 14                                                                                                                                                                                                                                                                            |
-| Cha               | 16                                                                                                                                                                                                                                                                            |
+| CR | 15 |
+| Size | Huge |
+| Type | outsider |
+| HD | 24d8+120 |
+| hp | 228 |
+| Mas | 21 |
+| Init | +1 |
+| Spd | 30 ft., fly 50 ft. (average) |
+| Defense | 26 |
+| Touch | 9 |
+| Flat-Footed | 25 |
+| Defense Breakdown | –2 size, +1 Dex, +17 natural |
+| BAB | +24 |
+| Grap | +40 |
+| Atk | +30 melee (2d6+8/19–20, claw) |
+| Full Atk | +30 melee (2d6+8/19–20, 2 claws), +25 melee (1d8+4/19–20, bite), +25 melee (1d6+4, 2 talons) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | spores, stunning screech (DC 27), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 36, telepathy, darkvision 60 ft. |
+| AL | chaos, evil |
+| Fort | +18 |
+| Ref | +14 |
+| Will | +15 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 27 |
+| Dex | 13 |
+| Con | 21 |
+| Int | 18 |
+| Wis | 14 |
+| Cha | 16 |
 
 **Skills:** Bluff +27, Concentration +29, Hide +17,
 Intimidate +27, Knowledge (any one) +28, Listen +26, Move Silently +25,

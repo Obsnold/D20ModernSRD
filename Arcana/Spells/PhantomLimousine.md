@@ -1,17 +1,17 @@
 # Phantom Limousine
 
-| Stat             | Value                    |
+| Stat | Value |
 |---|---|
-| School           | Conjuration              |
-| Subschool        | Creation                 |
-| Level            | Arcane 5                 |
-| Components       | V, S, F                  |
-| Casting Time     | 1 minute                 |
-| Range            | 0 ft.                    |
-| Effect           | One quasi-real limousine |
-| Duration         | 1 hour/level (D)         |
-| Saving Throw     | None                     |
-| Spell Resistance | No                       |
+| School | Conjuration |
+| Subschool | Creation |
+| Level | Arcane 5 |
+| Components | V, S, F |
+| Casting Time | 1 minute |
+| Range | 0 ft. |
+| Effect | One quasi-real limousine |
+| Duration | 1 hour/level (D) |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You conjure forth a quasi-real limousine that seats eight Medium
 characters (two in the front and six in a comfortable passenger area),

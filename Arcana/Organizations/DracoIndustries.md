@@ -107,39 +107,39 @@ dresses in the finest clothing and bits of flashy gold jewelry.
 
 ## Franz Draco
 
-| Stat              | Value                                                                                                                                                                    |
+| Stat | Value |
 |---|---|
-| ??                | Male Efreeti Smart Hero 3/Charismatic Hero 4                                                                                                                             |
-| Size/Type         | CR 15                                                                                                                                                                    |
-| ??                | Large outsider (fire)                                                                                                                                                    |
-| HD                | 10d8+20 plus 3d6+6 plus 4d6+8                                                                                                                                            |
-| hp                | 128                                                                                                                                                                      |
-| Mas               | 17                                                                                                                                                                       |
-| Init              | +7 (+3 Dex, +4 Improved Initiative)                                                                                                                                      |
-| Spd               | 30 ft., fly 20 ft. (perfect)                                                                                                                                             |
-| Defense           | 26                                                                                                                                                                       |
-| Touch             | 14                                                                                                                                                                       |
-| Flat-Footed       | 23                                                                                                                                                                       |
-| Defense Breakdown | –1 size, +3 Dex, +6 natural, +2 class, +6 *+3 undercover vest*                                                                                                           |
-| BAB               | +13                                                                                                                                                                      |
-| Grap              | +23                                                                                                                                                                      |
-| Atk               | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6,* +2 fiery blast Uzi*)                       |
-| Full Atk          | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6,* +2 fiery blast Uzi*) |
-| FS                | 10 ft. by 10 ft.                                                                                                                                                         |
-| Reach             | 10 ft.                                                                                                                                                                   |
-| SQ                | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, *grant wishes*, telepathy, darkvision 60 ft.                                    |
-| AL                | Draco Industries, evil, law                                                                                                                                              |
-| Fort              | +12                                                                                                                                                                      |
-| Ref               | +13                                                                                                                                                                      |
-| Will              | +12                                                                                                                                                                      |
-| AP                | 3                                                                                                                                                                        |
-| Rep               | +7                                                                                                                                                                       |
-| Str               | 23                                                                                                                                                                       |
-| Dex               | 17                                                                                                                                                                       |
-| Con               | 14                                                                                                                                                                       |
-| Int               | 18                                                                                                                                                                       |
-| Wis               | 15                                                                                                                                                                       |
-| Cha               | 20                                                                                                                                                                       |
+| ?? | Male Efreeti Smart Hero 3/Charismatic Hero 4 |
+| Size/Type | CR 15 |
+| ?? | Large outsider (fire) |
+| HD | 10d8+20 plus 3d6+6 plus 4d6+8 |
+| hp | 128 |
+| Mas | 17 |
+| Init | +7 (+3 Dex, +4 Improved Initiative) |
+| Spd | 30 ft., fly 20 ft. (perfect) |
+| Defense | 26 |
+| Touch | 14 |
+| Flat-Footed | 23 |
+| Defense Breakdown | –1 size, +3 Dex, +6 natural, +2 class, +6 *+3 undercover vest* |
+| BAB | +13 |
+| Grap | +23 |
+| Atk | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6,* +2 fiery blast Uzi*) |
+| Full Atk | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6,* +2 fiery blast Uzi*) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, *grant wishes*, telepathy, darkvision 60 ft. |
+| AL | Draco Industries, evil, law |
+| Fort | +12 |
+| Ref | +13 |
+| Will | +12 |
+| AP | 3 |
+| Rep | +7 |
+| Str | 23 |
+| Dex | 17 |
+| Con | 14 |
+| Int | 18 |
+| Wis | 15 |
+| Cha | 20 |
 
 **Skills:** Bluff +16, Computer Use +8, Concentration +12, Craft
 (writing) +8, Decipher Script +8, Diplomacy +13, Escape Artist +11,
@@ -200,38 +200,38 @@ sunglasses (even at night).
 
 ## Sasha
 
-| Stat              | Value                                                                                       |
+| Stat | Value |
 |---|---|
-| ??                | Female Medusa Charismatic Hero 4: CR 11                                                     |
-| Size/Type         | Medium monstrous humanoid                                                                   |
-| HD                | 6d8+6 plus 4d6+4                                                                            |
-| hp                | 42                                                                                          |
-| Mas               | 12                                                                                          |
-| Init              | +2                                                                                          |
-| Spd               | 30 ft.                                                                                      |
-| Defense           | 16                                                                                          |
-| Touch             | 13                                                                                          |
-| Flat-Footed       | 14                                                                                          |
-| Defense Breakdown | +2 Dex, +1 class, +3 natural                                                                |
-| BAB               | +7                                                                                          |
-| Grap              | +7                                                                                          |
-| Atk               | +7/+2 melee (1d4, knife)                                                                    |
-| Full Atk          | +7 melee (1d4, knife), +4 melee (1d4 plus poison, snakes), or +11/+6 ranged (2d6, Glock 17) |
-| FS                | 5 ft. by 5 ft.                                                                              |
-| Reach             | 5 ft.                                                                                       |
-| SQ                | darkvision 60 ft., gaze, poison                                                             |
-| AL                | Franz Draco, Evil                                                                           |
-| Fort              | +5                                                                                          |
-| Ref               | +9                                                                                          |
-| Will              | +7                                                                                          |
-| AP                | 6                                                                                           |
-| Rep               | +3                                                                                          |
-| Str               | 10                                                                                          |
-| Dex               | 15                                                                                          |
-| Con               | 12                                                                                          |
-| Int               | 12                                                                                          |
-| Wis               | 13                                                                                          |
-| Cha               | 17                                                                                          |
+| ?? | Female Medusa Charismatic Hero 4: CR 11 |
+| Size/Type | Medium monstrous humanoid |
+| HD | 6d8+6 plus 4d6+4 |
+| hp | 42 |
+| Mas | 12 |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 16 |
+| Touch | 13 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +2 Dex, +1 class, +3 natural |
+| BAB | +7 |
+| Grap | +7 |
+| Atk | +7/+2 melee (1d4, knife) |
+| Full Atk | +7 melee (1d4, knife), +4 melee (1d4 plus poison, snakes), or +11/+6 ranged (2d6, Glock 17) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | darkvision 60 ft., gaze, poison |
+| AL | Franz Draco, Evil |
+| Fort | +5 |
+| Ref | +9 |
+| Will | +7 |
+| AP | 6 |
+| Rep | +3 |
+| Str | 10 |
+| Dex | 15 |
+| Con | 12 |
+| Int | 12 |
+| Wis | 13 |
+| Cha | 17 |
 
 **Skills:** Bluff +15, Diplomacy +7, Disguise +15, Gather Information
 +9, Intimidate +9, Knowledge (streetwise) +5, Move Silently +9,

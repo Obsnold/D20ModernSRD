@@ -51,9 +51,9 @@ additional languages equal to their Intelligence bonus.
 | Roll d% | Immunity | Roll d% | Resistance | Roll d% | Damage Reduction |
 |---|---|---|---|---|---|
 | 01–06 | Acid damage | 01–21 | None (do not roll again) | 01–33 | None (do not roll again) |
-| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type1 |
-| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type1 |
-| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type1 |
+| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type¹ |
+| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type¹ |
+| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type¹ |
 | 25–30 | Fire damage | 37–39 | Cold resistance 20 | 64–72 | 5/+1 |
 | 31–36 | Ballistic damage | 40–45 | Sonic/concussion resistance 10 | 73–81 | 10/+1 |
 | 37–42 | Bludgeoning damage | 46–48 | Sonic/concussion resistance 20 | 82–84 | 15/+1 |
@@ -67,38 +67,38 @@ additional languages equal to their Intelligence bonus.
 
 ## Gotthammer (Avenging Angel)
 
-| Stat              | Value                                                                                                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 15                                                                                                                                                                                       |
-| Size/Type         | Medium outsider                                                                                                                                                                          |
-| HD                | 14d8+70                                                                                                                                                                                  |
-| hp                | 133                                                                                                                                                                                      |
-| Mas               | 20                                                                                                                                                                                       |
-| Init              | +4 (Improved Initiative)                                                                                                                                                                 |
-| Spd               | 30 ft., fly 60 ft. (perfect)                                                                                                                                                             |
-| Defense           | 27                                                                                                                                                                                       |
-| Touch             | 10                                                                                                                                                                                       |
-| Flat-Footed       | 27                                                                                                                                                                                       |
-| Defense Breakdown | +17 natural                                                                                                                                                                              |
-| BAB               | +14                                                                                                                                                                                      |
-| Grap              | +18                                                                                                                                                                                      |
-| Atk               | +21 melee (2d6+9/19–20, *+3 greatsword*)                                                                                                                                                 |
-| Full Atk          | +21/+16/+11 melee (2d6+7/19–20, *+3 greatsword*) or +14/+9/+4 ranged                                                                                                                     |
-| FS                | 5 ft. by 5 ft.                                                                                                                                                                           |
-| Reach             | 5 ft.                                                                                                                                                                                    |
-| SQ                | acid and fire resistance 10, aura of menace, call/dismiss weapon, damage reduction 10/+1, greater incarnation, imbue weapon, immune to ballistic damage and poison, keen vision, tongues |
-| AL                | good, law                                                                                                                                                                                |
-| Fort              | +14                                                                                                                                                                                      |
-| Ref               | +9                                                                                                                                                                                       |
-| Will              | +12                                                                                                                                                                                      |
-| AP                | 0                                                                                                                                                                                        |
-| Rep               | +0                                                                                                                                                                                       |
-| Str               | 18                                                                                                                                                                                       |
-| Dex               | 11                                                                                                                                                                                       |
-| Con               | 20                                                                                                                                                                                       |
-| Int               | 11                                                                                                                                                                                       |
-| Wis               | 16                                                                                                                                                                                       |
-| Cha               | 18                                                                                                                                                                                       |
+| CR | 15 |
+| Size/Type | Medium outsider |
+| HD | 14d8+70 |
+| hp | 133 |
+| Mas | 20 |
+| Init | +4 (Improved Initiative) |
+| Spd | 30 ft., fly 60 ft. (perfect) |
+| Defense | 27 |
+| Touch | 10 |
+| Flat-Footed | 27 |
+| Defense Breakdown | +17 natural |
+| BAB | +14 |
+| Grap | +18 |
+| Atk | +21 melee (2d6+9/19–20, *+3 greatsword*) |
+| Full Atk | +21/+16/+11 melee (2d6+7/19–20, *+3 greatsword*) or +14/+9/+4 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | acid and fire resistance 10, aura of menace, call/dismiss weapon, damage reduction 10/+1, greater incarnation, imbue weapon, immune to ballistic damage and poison, keen vision, tongues |
+| AL | good, law |
+| Fort | +14 |
+| Ref | +9 |
+| Will | +12 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 18 |
+| Dex | 11 |
+| Con | 20 |
+| Int | 11 |
+| Wis | 16 |
+| Cha | 18 |
 
 **Skills**: Escape Artist +14, Hide +14, Intimidate +18,
 Knowledge (theology and philosophy) +14, Listen +17, Move Silently +14,

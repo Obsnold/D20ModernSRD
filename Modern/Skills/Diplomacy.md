@@ -44,19 +44,22 @@ checks.
 Diplomacy is at least a full-round action. The GM may
 determine that some negotiations require a longer period of time.
 
-| Attitude | Means | Possible Actions | | | |
+| Attitude | Means | Possible Actions |
+|---|---|---|
+| Hostile | Will take risks to hurt or avoid you | Attack, interfere, berate, flee |
+| Unfriendly | Wishes you ill | Mislead, gossip, avoid, watch suspiciously, insult |
+| Indifferent | Doesn’t much care | Act as socially expected |
+| Friendly | Wishes you well | Chat, advise, offer limited help, advocate |
+| Helpful | Will take risks to help you | Protect, back up, heal, aid |
+
+**Table: New Attitude**
+
+| Initial Attitude | Hostile | Unfriendly | Indifferent | Friendly | Helpful |
 |---|---|---|---|---|---|
-| Hostile | Will take risks to hurt or avoid you | Attack, interfere, berate, flee | | | |
-| Unfriendly | Wishes you ill | Mislead, gossip, avoid, watch suspiciously, insult | | | |
-| Indifferent | Doesn’t much care | Act as socially expected | | | |
-| Friendly | Wishes you well | Chat, advise, offer limited help, advocate | | | |
-| Helpful | Will take risks to help you | Protect, back up, heal, aid | | | |
-| **Initial Attitude** |** <sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup> New Attitude </sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup><sup>—</sup>** | | | | |
-| | **Hostile** |** Unf.** |** Indif.** |** Friendly** |** Helpful** |
-| **Hostile** | 19 or less | 20 | 25 | 35 | 45 |
-| **Unfriendly** | 4 or less | 5 | 15 | 25 | 35 |
-| **Indifferent** | — | 0 or less | 1 | 15 | 25 |
-| **Friendly** | — | — | 0 or less | 1 | 15 |
+| Hostile | 19 or less | 20 | 25 | 35 | 45 |
+| Unfriendly | 4 or less | 5 | 15 | 25 | 35 |
+| Indifferent | — | 0 or less | 1 | 15 | 25 |
+| Friendly | — | — | 0 or less | 1 | 15 |
 
 ## Bribery and Diplomacy
 

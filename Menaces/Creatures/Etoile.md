@@ -90,39 +90,39 @@ their human agents to act as interpreters.
 
 ## Etoile
 
-| Stat              | Value                                                                                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 2                                                                                                                                              |
-| Size              | Tiny                                                                                                                                           |
-| Type              | elemental (air, earth)                                                                                                                         |
-| HD                | 3d8+3                                                                                                                                          |
-| hp                | 16                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +3                                                                                                                                             |
-| Spd               | fly 40 ft. (perfect)                                                                                                                           |
-| Defense           | 23                                                                                                                                             |
-| Touch             | 15                                                                                                                                             |
-| Flat-Footed       | 20                                                                                                                                             |
-| Defense Breakdown | +2 size, +3 Dex, +8 natural                                                                                                                    |
-| BAB               | +2                                                                                                                                             |
-| Grap              | –8                                                                                                                                             |
-| Atk               | +7 melee (1d3–2 plus 1d6 electricity, pincer)                                                                                                  |
-| Full Atk          | +7 melee (1d3–2 plus 1d6 electricity, 3 pincers)                                                                                               |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                         |
-| Reach             | 5 ft                                                                                                                                           |
-| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 16), telepathy |
-| AL                | etoile, evil                                                                                                                                   |
-| Fort              | +4                                                                                                                                             |
-| Ref               | +6                                                                                                                                             |
-| Will              | +2                                                                                                                                             |
-| AP                | 0                                                                                                                                              |
-| Rep               | +0                                                                                                                                             |
-| Str               | 7                                                                                                                                              |
-| Dex               | 16                                                                                                                                             |
-| Con               | 12                                                                                                                                             |
-| Int               | 20                                                                                                                                             |
-| Wis               | 13                                                                                                                                             |
-| Cha               | 11                                                                                                                                             |
+| CR | 2 |
+| Size | Tiny |
+| Type | elemental (air, earth) |
+| HD | 3d8+3 |
+| hp | 16 |
+| Mas | — |
+| Init | +3 |
+| Spd | fly 40 ft. (perfect) |
+| Defense | 23 |
+| Touch | 15 |
+| Flat-Footed | 20 |
+| Defense Breakdown | +2 size, +3 Dex, +8 natural |
+| BAB | +2 |
+| Grap | –8 |
+| Atk | +7 melee (1d3–2 plus 1d6 electricity, pincer) |
+| Full Atk | +7 melee (1d3–2 plus 1d6 electricity, 3 pincers) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 5 ft |
+| SQ | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 16), telepathy |
+| AL | etoile, evil |
+| Fort | +4 |
+| Ref | +6 |
+| Will | +2 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 7 |
+| Dex | 16 |
+| Con | 12 |
+| Int | 20 |
+| Wis | 13 |
+| Cha | 11 |
 
 **Skills:** Computer Use +13, Craft (electrical) +13, Craft (mechanical)
 +13, Demolitions +9, Disable Device +13, Knowledge (technology) +11;
@@ -135,39 +135,39 @@ Repair +13, Treat Injury +7.
 
 ## Etoile Techie 5
 
-| Stat              | Value                                                                                                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                                                                                              |
-| Size              | Tiny                                                                                                                                           |
-| Type              | elemental (air, earth)                                                                                                                         |
-| HD                | 3d8+3 plus 5d6+5                                                                                                                               |
-| hp                | 38                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +3                                                                                                                                             |
-| Spd               | fly 40 ft. (perfect)                                                                                                                           |
-| Defense           | 26                                                                                                                                             |
-| Touch             | 18                                                                                                                                             |
-| Flat-Footed       | 23                                                                                                                                             |
-| Defense Breakdown | +2 size, +3 Dex, +8 natural, +3 class                                                                                                          |
-| BAB               | +4                                                                                                                                             |
-| Grap              | –5                                                                                                                                             |
-| Atk               | +9 melee (1d3–1 plus 1d6 electricity, pincer)                                                                                                  |
-| Full Atk          | +9 melee (1d3–1 plus 1d6 electricity, 3 pincers)                                                                                               |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                         |
-| Reach             | 5 ft                                                                                                                                           |
-| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 19), telepathy |
-| AL                | etoile, evil                                                                                                                                   |
-| Fort              | +7                                                                                                                                             |
-| Ref               | +7                                                                                                                                             |
-| Will              | +3                                                                                                                                             |
-| AP                | 2                                                                                                                                              |
-| Rep               | +2                                                                                                                                             |
-| Str               | 8                                                                                                                                              |
-| Dex               | 16                                                                                                                                             |
-| Con               | 12                                                                                                                                             |
-| Int               | 20                                                                                                                                             |
-| Wis               | 13                                                                                                                                             |
-| Cha               | 11                                                                                                                                             |
+| CR | 7 |
+| Size | Tiny |
+| Type | elemental (air, earth) |
+| HD | 3d8+3 plus 5d6+5 |
+| hp | 38 |
+| Mas | — |
+| Init | +3 |
+| Spd | fly 40 ft. (perfect) |
+| Defense | 26 |
+| Touch | 18 |
+| Flat-Footed | 23 |
+| Defense Breakdown | +2 size, +3 Dex, +8 natural, +3 class |
+| BAB | +4 |
+| Grap | –5 |
+| Atk | +9 melee (1d3–1 plus 1d6 electricity, pincer) |
+| Full Atk | +9 melee (1d3–1 plus 1d6 electricity, 3 pincers) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 5 ft |
+| SQ | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 19), telepathy |
+| AL | etoile, evil |
+| Fort | +7 |
+| Ref | +7 |
+| Will | +3 |
+| AP | 2 |
+| Rep | +2 |
+| Str | 8 |
+| Dex | 16 |
+| Con | 12 |
+| Int | 20 |
+| Wis | 13 |
+| Cha | 11 |
 
 **Skills:** Computer Use +18, Craft (electrical) +18, Craft (mechanical)
 +18, Demolitions +14, Disable Device +18, Knowledge (earth and life

@@ -1,17 +1,17 @@
 # Faerie Fire
 
-| Stat             | Value                                             |
+| Stat | Value |
 |---|---|
-| School           | Evocation                                         |
-| Descriptors      | Light                                             |
-| Level            | Divine 1                                          |
-| Components       | V, S, DF                                          |
-| Casting Time     | Attack action                                     |
-| Range            | Long (400 ft. + 40 ft./level)                     |
-| Area             | Creatures and objects within a 5-ft.-radius burst |
-| Duration         | 1 minute/level (D)                                |
-| Saving Throw     | None                                              |
-| Spell Resistance | Yes                                               |
+| School | Evocation |
+| Descriptors | Light |
+| Level | Divine 1 |
+| Components | V, S, DF |
+| Casting Time | Attack action |
+| Range | Long (400 ft. + 40 ft./level) |
+| Area | Creatures and objects within a 5-ft.-radius burst |
+| Duration | 1 minute/level (D) |
+| Saving Throw | None |
+| Spell Resistance | Yes |
 
 A pale glow surrounds and outlines the subjects. Outlined subjects shed
 light as candles. Outlined creatures do not benefit from the concealment

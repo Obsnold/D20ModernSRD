@@ -1,16 +1,16 @@
 # Seed: Afflict
 
-| Stat                       | Value                |
+| Stat | Value |
 |---|---|
-| School                     | Enchantment          |
-| Subschool                  | Compulsion           |
-| Descriptors                | Fear, Mind-Affecting |
-| Knowledge (arcane lore) DC | 30                   |
-| Range                      | Close                |
-| Target                     | One living creature  |
-| Duration                   | Minutes              |
-| Saving Throw               | Will negates         |
-| Spell Resistance           | Yes                  |
+| School | Enchantment |
+| Subschool | Compulsion |
+| Descriptors | Fear, Mind-Affecting |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Close |
+| Target | One living creature |
+| Duration | Minutes |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 You afflict the target with a –2 morale penalty on attack rolls, checks,
 and saving throws. For each additional –1 penalty assessed on either the

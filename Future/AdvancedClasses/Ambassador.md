@@ -49,18 +49,18 @@ nonhumans).
 
 **Table: The Ambassador**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special             | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st         | +0                | +0        | +0       | +2        | Diplomatic immunity | +1            | +1               |
-| 2nd         | +1                | +0        | +0       | +3        | Open arms           | +1            | +1               |
-| 3rd         | +2                | +1        | +1       | +3        | Bonus feat          | +2            | +1               |
-| 4th         | +3                | +1        | +1       | +4        | Information access  | +2            | +2               |
-| 5th         | +3                | +1        | +1       | +4        | Stipend             | +3            | +2               |
-| 6th         | +4                | +2        | +2       | +5        | Bonus feat          | +3            | +2               |
-| 7th         | +5                | +2        | +2       | +5        | Restricted access   | +4            | +3               |
-| 8th         | +6                | +2        | +2       | +6        | Stipend             | +4            | +3               |
-| 9th         | +6                | +3        | +3       | +6        | Bonus feat          | +5            | +3               |
-| 10th        | +7                | +3        | +3       | +7        | Select consuls      | +5            | +4               |
+| 1st | +0 | +0 | +0 | +2 | Diplomatic immunity | +1 | +1 |
+| 2nd | +1 | +0 | +0 | +3 | Open arms | +1 | +1 |
+| 3rd | +2 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
+| 4th | +3 | +1 | +1 | +4 | Information access | +2 | +2 |
+| 5th | +3 | +1 | +1 | +4 | Stipend | +3 | +2 |
+| 6th | +4 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
+| 7th | +5 | +2 | +2 | +5 | Restricted access | +4 | +3 |
+| 8th | +6 | +2 | +2 | +6 | Stipend | +4 | +3 |
+| 9th | +6 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
+| 10th | +7 | +3 | +3 | +7 | Select consuls | +5 | +4 |
 
 ## Class Features
 
@@ -86,13 +86,13 @@ likely to be recalled or terminated by those she has sworn to represent.
 
 **Table: Diplomatic Immunity**
 
-| Severity of Crime | Examples                                                                                                                                                                                  | DC | Effect of Successful Diplomacy Check                                         |
+| Severity of Crime | Examples | DC | Effect of Successful Diplomacy Check |
 |---|---|---|---|
-| Class 5           | Disturbing the peace, public intoxication, noninjurious traffic violation                                                                                                                 | 15 | –2 penalty on subsequent Diplomacy checks in that area                       |
-| Class 4           | Possession of controlled substance, injurious traffic violation, operating business without a license, operating a vehicle or starship without a license, assault without a deadly weapon | 20 | –5 penalty on subsequent Diplomacy a checks in that area                     |
-| Class 3           | Attempted bribery of a public official, robbery or grand theft, aiding and abetting a known felon, assault with a deadly weapon, possession of a concealed weapon                         | 25 | –10 penalty on subsequent Diplomacy checks in the area                       |
-| Class 2           | Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances                                                                         | 30 | Deportation within 2d6 hours                                                 |
-| Class 1           | Conspiracy against the government, murder of a public official, sabotage of public utilities                                                                                              | 35 | Detention pending the diplomatic action by character’s affiliated government |
+| Class 5 | Disturbing the peace, public intoxication, noninjurious traffic violation | 15 | –2 penalty on subsequent Diplomacy checks in that area |
+| Class 4 | Possession of controlled substance, injurious traffic violation, operating business without a license, operating a vehicle or starship without a license, assault without a deadly weapon | 20 | –5 penalty on subsequent Diplomacy a checks in that area |
+| Class 3 | Attempted bribery of a public official, robbery or grand theft, aiding and abetting a known felon, assault with a deadly weapon, possession of a concealed weapon | 25 | –10 penalty on subsequent Diplomacy checks in the area |
+| Class 2 | Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances | 30 | Deportation within 2d6 hours |
+| Class 1 | Conspiracy against the government, murder of a public official, sabotage of public utilities | 35 | Detention pending the diplomatic action by character’s affiliated government |
 
 **Open Arms**
 

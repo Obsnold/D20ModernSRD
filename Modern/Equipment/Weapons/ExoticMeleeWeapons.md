@@ -10,15 +10,15 @@ penalty.
 
 | Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|
-| Chain\*\*<sup>1</sup>\*\* | 1d6/1d6 | 20 | Bludgeoning | — | Large | 5 lb. | 5 | — |
+| Chain\*\*¹\*\* | 1d6/1d6 | 20 | Bludgeoning | — | Large | 5 lb. | 5 | — |
 | Chain saw | 3d6 | 20 | Slashing | — | Large | 10 lb. | 9 | — |
 | Kama | 1d6 | 20 | Slashing | — | Small | 2 lb. | 5 | — |
 | Katana | 2d6 | 19–20 | Slashing | — | Large | 6 lb. | 12 | — |
 | Kukri | 1d4 | 18–20 | Slashing | — | Small | 1 lb. | 5 | — |
 | Nunchaku | 1d6 | 20 | Bludgeoning | — | Small | 2 lb. | 3 | — |
-| Three-section staff\*\*<sup>1</sup>\*\*<sup> </sup> | 1d10/1d10 | 20 | Bludgeoning | — | Large | 3 lb. | 4 | — |
+| Three-section staff\*\*¹\*\* | 1d10/1d10 | 20 | Bludgeoning | — | Large | 3 lb. | 4 | — |
 
-1<sup> </sup>See the description of this weapon for special rules.
+¹ See the description of this weapon for special rules.
 
 ## Chain
 

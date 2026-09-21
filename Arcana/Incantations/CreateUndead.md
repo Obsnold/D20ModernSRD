@@ -1,18 +1,18 @@
 # Create Undead
 
-| Stat             | Value                                      |
+| Stat | Value |
 |---|---|
-| School           | Necromancy                                 |
-| Descriptors      | Evil                                       |
-| Skill Check      | Knowledge (arcane lore) DC 31, 7 successes |
-| Failure          | Two consecutive failed skill checks        |
-| Components       | V, S, M, XP                                |
-| Casting Time     | 7 hours (minimum)                          |
-| Range            | Touch                                      |
-| Target           | One corpse or skeleton                     |
-| Duration         | Instantaneous                              |
-| Saving Throw     | None                                       |
-| Spell Resistance | No                                         |
+| School | Necromancy |
+| Descriptors | Evil |
+| Skill Check | Knowledge (arcane lore) DC 31, 7 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, XP |
+| Casting Time | 7 hours (minimum) |
+| Range | Touch |
+| Target | One corpse or skeleton |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 Much more potent than the *animate dead* spell, this evil incantation
 allows you to create a powerful undead creature from the creature’s dead

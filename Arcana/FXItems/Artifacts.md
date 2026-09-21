@@ -62,12 +62,12 @@ For the purposes of reward values, an artifact’s purchase DC is 30 + its
 FX modifier. The FX modifier depends on the item’s nature, as shown
 below:
 
-| Artifact Effects                                                                | FX Modifier |
+| Artifact Effects | FX Modifier |
 |---|---|
-| Each single-use effect                                                          | —           |
-| Each continuous effect, permanent effect, or +3 enhancement bonus               | +10         |
-| Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7          |
-| Each effect with a limited number of charges, or each +1 enhancement bonus      | +5          |
+| Each single-use effect | — |
+| Each continuous effect, permanent effect, or +3 enhancement bonus | +10 |
+| Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7 |
+| Each effect with a limited number of charges, or each +1 enhancement bonus | +5 |
 
 Sample Artifacts
 

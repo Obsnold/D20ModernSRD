@@ -1,18 +1,18 @@
 # Signal Feed
 
-| Stat               | Value                          |
+| Stat | Value |
 |---|---|
-| Key Ability        | Charisma                       |
-| Descriptors        | Mind-Affecting                 |
-| Level              | Telepath 5                     |
-| Display            | Visual                         |
-| Manifestation Time | Attack action                  |
-| Range              | Close (25 ft. +5 ft./2 levels) |
-| Target             | One communication device.      |
-| Duration           | 1 round/level                  |
-| Saving Throw       | Will negates                   |
-| Power Resistance   | Yes                            |
-| Power Point Cost   | 9                              |
+| Key Ability | Charisma |
+| Descriptors | Mind-Affecting |
+| Level | Telepath 5 |
+| Display | Visual |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. +5 ft./2 levels) |
+| Target | One communication device. |
+| Duration | 1 round/level |
+| Saving Throw | Will negates |
+| Power Resistance | Yes |
+| Power Point Cost | 9 |
 
 You can create false images or sounds on an electronic device. The spell
 affects those that are watching or listening the device at the time of

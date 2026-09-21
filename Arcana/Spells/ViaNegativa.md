@@ -1,16 +1,16 @@
 # Via Negativa
 
-| Stat             | Value              |
+| Stat | Value |
 |---|---|
-| School           | Necromancy         |
-| Level            | Arcane 4, Divine 4 |
-| Components       | S, F/DF            |
-| Casting Time     | Attack action      |
-| Range            | Touch              |
-| Target           | Creature touched   |
-| Duration         | 1 round/level      |
-| Saving Throw     | Fortitude half     |
-| Spell Resistance | Yes                |
+| School | Necromancy |
+| Level | Arcane 4, Divine 4 |
+| Components | S, F/DF |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | 1 round/level |
+| Saving Throw | Fortitude half |
+| Spell Resistance | Yes |
 
 When you cast the *via negativa* spell, your right hand is covered with
 crackling black energy that causes intense pain to any living creature

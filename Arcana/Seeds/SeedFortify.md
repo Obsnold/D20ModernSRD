@@ -1,14 +1,14 @@
 # Seed: Fortify
 
-| Stat                       | Value                   |
+| Stat | Value |
 |---|---|
-| School                     | Transmutation           |
-| Knowledge (arcane lore) DC | 30                      |
-| Range                      | Touch                   |
-| Target                     | Creature touched        |
-| Duration                   | Hours                   |
-| Saving Throw               | Will negates (harmless) |
-| Spell Resistance           | Yes (harmless)          |
+| School | Transmutation |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | Hours |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 Incantations using the *fortify* seed grant a +1 enhancement bonus to
 whichever one of the following you choose:

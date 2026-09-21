@@ -1,11 +1,11 @@
 # Magic Circle
 
-| Stat         | Value      |
+| Stat | Value |
 |---|---|
-| School       | Abjuration |
-| Level        | Divine 3   |
-| Components   | V, S, DF   |
-| Casting Time |            |
+| School | Abjuration |
+| Level | Divine 3 |
+| Components | V, S, DF |
+| Casting Time | |
 
 Attack action; **Range:** Touch;** Area:** 10-ft.-radius emanation from
 touched creature; **Duration:** 10 minutes/level;** Saving Throw:** Will

@@ -6,14 +6,14 @@ except as noted below. The operative skill for trucks is Drive.
 
 **Table: Civilian Trucks**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
+| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
-| Cretan Motors “Hecaton”           | 1    | 4    | H     | –1   | –1       | 190 (19)  | 6       | 5    | 39         | G    | 31          | Lic (+1)    |
-| Cretan Motors Kentaur             | 1    | 3    | L     | –1   | +0       | 210 (21)  | 8       | 5    | 36         | H    | 30          | Lic (+1)    |
-| Gaia Motor Company Virgo          | 1    | 6    | M     | –2   | –2       | 215 (21)  | 8       | 5    | 35         | H    | 29          | Lic (+1)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| Zhang Motors XRL (SUV)            | 1    | 3    | L     | –2   | –1       | 245 (24)  | 8       | 5    | 40         | H    | 32          | Lic (+1)    |
+| **Progress Level 6: Fusion Age** | | | | | | | | | | | | |
+| Cretan Motors “Hecaton” | 1 | 4 | H | –1 | –1 | 190 (19) | 6 | 5 | 39 | G | 31 | Lic (+1) |
+| Cretan Motors Kentaur | 1 | 3 | L | –1 | +0 | 210 (21) | 8 | 5 | 36 | H | 30 | Lic (+1) |
+| Gaia Motor Company Virgo | 1 | 6 | M | –2 | –2 | 215 (21) | 8 | 5 | 35 | H | 29 | Lic (+1) |
+| **Progress Level 7: Gravity Age** | | | | | | | | | | | | |
+| Zhang Motors XRL (SUV) | 1 | 3 | L | –2 | –1 | 245 (24) | 8 | 5 | 40 | H | 32 | Lic (+1) |
 
 ## Cretan Motors “hecaton” (pl 6)
 

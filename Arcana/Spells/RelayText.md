@@ -1,16 +1,16 @@
 # Relay Text
 
-| Stat             | Value                                                           |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                                   |
-| Level            | Arcane 2                                                        |
-| Components       | V, S                                                            |
-| Casting Time     | Attack action                                                   |
-| Range            | Unlimited                                                       |
-| Effect           | A text message reaches an electronic device of someone you know |
-| Duration         | Instantaneous                                                   |
-| Saving Throw     | None                                                            |
-| Spell Resistance | No                                                              |
+| School | Transmutation |
+| Level | Arcane 2 |
+| Components | V, S |
+| Casting Time | Attack action |
+| Range | Unlimited |
+| Effect | A text message reaches an electronic device of someone you know |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You cause a text message of up to 25 words to appear on the screen of an
 electronic device capable of receiving such messages, such as a cell

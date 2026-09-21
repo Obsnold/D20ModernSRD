@@ -39,38 +39,38 @@ that leaves and reenters the area must make another save.
 
 ## Sewer Sludge
 
-| Stat        | Value                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR          | 5                                                                                                        |
-| Size        | Medium-size                                                                                              |
-| Type        | ooze                                                                                                     |
-| HD          | 4d10+14                                                                                                  |
-| hp          | 36                                                                                                       |
-| Mas         | —                                                                                                        |
-| Init        | +0                                                                                                       |
-| Spd         | 20 ft.                                                                                                   |
-| Defense     | 10                                                                                                       |
-| Touch       | 10                                                                                                       |
-| Flat-Footed | 10                                                                                                       |
-| BAB         | +3                                                                                                       |
-| Grap        | +4                                                                                                       |
-| Atk         | +4 melee (1d6+1 plus disease, slam)                                                                      |
-| Full Atk    | +4 melee (1d6+1 plus disease, slam)                                                                      |
-| FS          | 5 ft. by 5 ft.                                                                                           |
-| Reach       | 5 ft.                                                                                                    |
-| SQ          | blindsight 30 ft., disease, camouflage, constrict 1d6+1, immunities, improved grab, ooze, stench (DC 13) |
-| AL          | none                                                                                                     |
-| Fort        | +2                                                                                                       |
-| Ref         | +1                                                                                                       |
-| Will        | –4                                                                                                       |
-| AP          | 0                                                                                                        |
-| Rep         | +0                                                                                                       |
-| Str         | 13                                                                                                       |
-| Dex         | 10                                                                                                       |
-| Con         | 13                                                                                                       |
-| Int         | —                                                                                                        |
-| Wis         | 1                                                                                                        |
-| Cha         | 1                                                                                                        |
+| CR | 5 |
+| Size | Medium-size |
+| Type | ooze |
+| HD | 4d10+14 |
+| hp | 36 |
+| Mas | — |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 10 |
+| Touch | 10 |
+| Flat-Footed | 10 |
+| BAB | +3 |
+| Grap | +4 |
+| Atk | +4 melee (1d6+1 plus disease, slam) |
+| Full Atk | +4 melee (1d6+1 plus disease, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | blindsight 30 ft., disease, camouflage, constrict 1d6+1, immunities, improved grab, ooze, stench (DC 13) |
+| AL | none |
+| Fort | +2 |
+| Ref | +1 |
+| Will | –4 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 13 |
+| Dex | 10 |
+| Con | 13 |
+| Int | — |
+| Wis | 1 |
+| Cha | 1 |
 
 **Skills:** None.
 
@@ -80,39 +80,39 @@ that leaves and reenters the area must make another save.
 
 ## Advanced Sewer Sludge
 
-| Stat              | Value                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                                                        |
-| Size              | Large                                                                                                    |
-| Type              | ooze                                                                                                     |
-| HD                | 8d10+39                                                                                                  |
-| hp                | 83                                                                                                       |
-| Mas               | —                                                                                                        |
-| Init              | +0                                                                                                       |
-| Spd               | 20 ft.                                                                                                   |
-| Defense           | 10                                                                                                       |
-| Touch             | 8                                                                                                        |
-| Flat-Footed       | 10                                                                                                       |
-| Defense Breakdown | –1 size, –1 Dex, +2 natural                                                                              |
-| BAB               | +6                                                                                                       |
-| Grap              | +15                                                                                                      |
-| Atk               | +10 melee (1d8+7 plus disease, slam)                                                                     |
-| Full Atk          | +10/+5 melee (1d8+7 plus disease, slam)                                                                  |
-| FS                | 10 ft. by 10 ft.                                                                                         |
-| Reach             | 10 ft.                                                                                                   |
-| SQ                | blindsight 30 ft., disease, camouflage, constrict 1d6+1, immunities, improved grab, ooze, stench (DC 17) |
-| AL                | none                                                                                                     |
-| Fort              | +5                                                                                                       |
-| Ref               | +1                                                                                                       |
-| Will              | –3                                                                                                       |
-| AP                | 0                                                                                                        |
-| Rep               | +0                                                                                                       |
-| Str               | 21                                                                                                       |
-| Dex               | 8                                                                                                        |
-| Con               | 17                                                                                                       |
-| Int               | —                                                                                                        |
-| Wis               | 1                                                                                                        |
-| Cha               | 1                                                                                                        |
+| CR | 7 |
+| Size | Large |
+| Type | ooze |
+| HD | 8d10+39 |
+| hp | 83 |
+| Mas | — |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 10 |
+| Touch | 8 |
+| Flat-Footed | 10 |
+| Defense Breakdown | –1 size, –1 Dex, +2 natural |
+| BAB | +6 |
+| Grap | +15 |
+| Atk | +10 melee (1d8+7 plus disease, slam) |
+| Full Atk | +10/+5 melee (1d8+7 plus disease, slam) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | blindsight 30 ft., disease, camouflage, constrict 1d6+1, immunities, improved grab, ooze, stench (DC 17) |
+| AL | none |
+| Fort | +5 |
+| Ref | +1 |
+| Will | –3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 21 |
+| Dex | 8 |
+| Con | 17 |
+| Int | — |
+| Wis | 1 |
+| Cha | 1 |
 
 **Skills:** None.
 

@@ -64,13 +64,13 @@ characters must pay the usual market price for the item, or the provider
 requires a higher than normal price (or perhaps some special service) in
 exchange for the item.
 
-| Roll | Result                             |
+| Roll | Result |
 |---|---|
-| 2    | Item unavailable                   |
-| 3–5  | 1 dose of item available           |
-| 6–8  | 1d3 doses of item available        |
-| 9–11 | 1d6 doses of item available        |
-| 12   | unlimited supply of item available |
+| 2 | Item unavailable |
+| 3–5 | 1 dose of item available |
+| 6–8 | 1d3 doses of item available |
+| 9–11 | 1d6 doses of item available |
+| 12 | unlimited supply of item available |
 
 ## Black Feather
 
@@ -111,39 +111,39 @@ throwing knives.
 
 ## Black Feather
 
-| Stat              | Value                                                                                                                                                             |
+| Stat | Value |
 |---|---|
-| ??                | Female Elf                                                                                                                                                        |
-| Size/Type         | Tough 2/Fast 3/Charismatic 3/Wildlord 6                                                                                                                           |
-| ??                | CR 14                                                                                                                                                             |
-| ??                | Medium humanoid (elf, Shadowkind)                                                                                                                                 |
-| HD                | 2d10 plus 3d8 plus 3d6 plus 6d8                                                                                                                                   |
-| hp                | 66                                                                                                                                                                |
-| Mas               | 10                                                                                                                                                                |
-| Init              | +4                                                                                                                                                                |
-| Spd               | 30 ft.                                                                                                                                                            |
-| Defense           | 26                                                                                                                                                                |
-| Touch             | 25                                                                                                                                                                |
-| Flat-Footed       | 22                                                                                                                                                                |
-| Defense Breakdown | +4 Dex, +11 class, +1 *ghostshirt*                                                                                                                                |
-| BAB               | +8                                                                                                                                                                |
-| Grap              | +8                                                                                                                                                                |
-| Atk               | +8 melee (1d3 nonlethal, unarmed strike) or +8 melee (1d4, knife) or +12 ranged (1d4, knife)                                                                      |
-| Full Atk          | +8/+3 melee (1d3 nonlethal, unarmed strike), or +8/+3 melee (1d4, knife), or +12/+7 ranged (1d4, knife), or +15/+10 ranged (1d8+3, *+2 longbow* with *+1 arrows*) |
-| FS                | 5 ft. by 5 ft.                                                                                                                                                    |
-| Reach             | 5 ft.                                                                                                                                                             |
-| SQ                | Elf traits                                                                                                                                                        |
-| AL                | Nature, Whitetooth, The Black Feathers                                                                                                                            |
-| Fort              | +7                                                                                                                                                                |
-| Ref               | +10                                                                                                                                                               |
-| Will              | +7                                                                                                                                                                |
-| AP                | 13, Rep +7                                                                                                                                                        |
-| Str               | 11                                                                                                                                                                |
-| Dex               | 19                                                                                                                                                                |
-| Con               | 12                                                                                                                                                                |
-| Int               | 13                                                                                                                                                                |
-| Wis               | 16                                                                                                                                                                |
-| Cha               | 17                                                                                                                                                                |
+| ?? | Female Elf |
+| Size/Type | Tough 2/Fast 3/Charismatic 3/Wildlord 6 |
+| ?? | CR 14 |
+| ?? | Medium humanoid (elf, Shadowkind) |
+| HD | 2d10 plus 3d8 plus 3d6 plus 6d8 |
+| hp | 66 |
+| Mas | 10 |
+| Init | +4 |
+| Spd | 30 ft. |
+| Defense | 26 |
+| Touch | 25 |
+| Flat-Footed | 22 |
+| Defense Breakdown | +4 Dex, +11 class, +1 *ghostshirt* |
+| BAB | +8 |
+| Grap | +8 |
+| Atk | +8 melee (1d3 nonlethal, unarmed strike) or +8 melee (1d4, knife) or +12 ranged (1d4, knife) |
+| Full Atk | +8/+3 melee (1d3 nonlethal, unarmed strike), or +8/+3 melee (1d4, knife), or +12/+7 ranged (1d4, knife), or +15/+10 ranged (1d8+3, *+2 longbow* with *+1 arrows*) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | Elf traits |
+| AL | Nature, Whitetooth, The Black Feathers |
+| Fort | +7 |
+| Ref | +10 |
+| Will | +7 |
+| AP | 13, Rep +7 |
+| Str | 11 |
+| Dex | 19 |
+| Con | 12 |
+| Int | 13 |
+| Wis | 16 |
+| Cha | 17 |
 
 **Skills**: Climb +3, Handle Animal +17, Hide +16, Intimidate +7,
 Knowledge (earth and life sciences) +6, Knowledge (behavioral sciences)
@@ -176,37 +176,37 @@ fanatically loyal to his master and will defend her to the death.
 
 ## Whitetooth
 
-| Stat              | Value                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 6                                                             |
-| Size/Type         | Medium animal                                                 |
-| HD                | 7d8+14                                                        |
-| hp                | 55                                                            |
-| Mas               | 15                                                            |
-| Init              | +4                                                            |
-| Spd               | 40 ft., 20 ft. climb                                          |
-| Defense           | 20                                                            |
-| Touch             | 20                                                            |
-| Flat-Footed       | 15                                                            |
-| Defense Breakdown | +5 Dex, +5 natural                                            |
-| BAB               | +2                                                            |
-| Grap              | +5                                                            |
-| Atk               | +6 melee (1d3+1, claws)                                       |
-| Full Atk          | +6 melee (1d6+3, bite), +1 melee (1d3+1, claws), or +4 ranged |
-| FS                | 5 ft. by 5 ft.                                                |
-| Reach             | 5 ft.                                                         |
-| SQ                | Improved grab, low-light vision, rake, scent                  |
-| AL                | Black Feather                                                 |
-| Fort              | +5                                                            |
-| Ref               | +7                                                            |
-| Will              | +2                                                            |
-| AP                | 0, Rep +0                                                     |
-| Str               | 18                                                            |
-| Dex               | 21                                                            |
-| Con               | 15                                                            |
-| Int               | 2                                                             |
-| Wis               | 12                                                            |
-| Cha               | 6                                                             |
+| CR | 6 |
+| Size/Type | Medium animal |
+| HD | 7d8+14 |
+| hp | 55 |
+| Mas | 15 |
+| Init | +4 |
+| Spd | 40 ft., 20 ft. climb |
+| Defense | 20 |
+| Touch | 20 |
+| Flat-Footed | 15 |
+| Defense Breakdown | +5 Dex, +5 natural |
+| BAB | +2 |
+| Grap | +5 |
+| Atk | +6 melee (1d3+1, claws) |
+| Full Atk | +6 melee (1d6+3, bite), +1 melee (1d3+1, claws), or +4 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | Improved grab, low-light vision, rake, scent |
+| AL | Black Feather |
+| Fort | +5 |
+| Ref | +7 |
+| Will | +2 |
+| AP | 0, Rep +0 |
+| Str | 18 |
+| Dex | 21 |
+| Con | 15 |
+| Int | 2 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills**: Balance +12, Climb +11, Hide +9, Listen +6, Move Silently
 +9, Spot +6.

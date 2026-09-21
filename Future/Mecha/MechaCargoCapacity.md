@@ -11,7 +11,7 @@ fit inside one of these internal compartments.
 
 | Mecha Size | Cargo Capacity | Maximum Object Size |
 |---|---|---|
-| Colossal   | 1,250 lb.      | Huge                |
-| Gargantuan | 500 lb.        | Large               |
-| Huge       | 250 lb.        | Medium-size         |
-| Large      | 50 lb.         | Small               |
+| Colossal | 1,250 lb. | Huge |
+| Gargantuan | 500 lb. | Large |
+| Huge | 250 lb. | Medium-size |
+| Large | 50 lb. | Small |

@@ -1,16 +1,16 @@
 # Synchronicity
 
-| Stat             | Value                   |
+| Stat | Value |
 |---|---|
-| School           | Abjuration              |
-| Level            | Arcane 5, Divine 5      |
-| Components       | V, S, F/DF              |
-| Casting Time     | Attack action           |
-| Range            | Touch                   |
-| Target           | Creature touched        |
-| Duration         | 10 minutes/level        |
-| Saving Throw     | Will negates (harmless) |
-| Spell Resistance | Yes (harmless)          |
+| School | Abjuration |
+| Level | Arcane 5, Divine 5 |
+| Components | V, S, F/DF |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature touched |
+| Duration | 10 minutes/level |
+| Saving Throw | Will negates (harmless) |
+| Spell Resistance | Yes (harmless) |
 
 The *synchronicity* spell subtly rearranges reality so that the subject
 isn’t inconvenienced by the minor delays in modern life. For the subject

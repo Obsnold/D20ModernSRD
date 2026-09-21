@@ -96,39 +96,39 @@ destroyed as well.
 
 ## Biochemical Homunculus
 
-| Stat              | Value                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                                    |
-| Size              | Tiny                                                                 |
-| Type              | construct (incorporeal)                                              |
-| HD                | 2d10                                                                 |
-| hp                | 11                                                                   |
-| Mas               | —                                                                    |
-| Init              | +2                                                                   |
-| Spd               | 20 ft., fly 50 ft. (good)                                            |
-| Defense           | 15                                                                   |
-| Touch             | 15                                                                   |
-| Flat-Footed       | 13                                                                   |
-| Defense Breakdown | +2 size, +2 Dex, +1 deflection                                       |
-| BAB               | +1                                                                   |
-| Grap              | —                                                                    |
-| Atk               | +5 melee (1d2, bite)                                                 |
-| Full Atk          | +5 melee (1d2, bite)                                                 |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                               |
-| Reach             | 0 ft.                                                                |
-| SQ                | construct, repairable, incorporeal, darkvision 60 ft., creature meld |
-| AL                | master                                                               |
-| Fort              | +0                                                                   |
-| Ref               | +2                                                                   |
-| Will              | +1                                                                   |
-| AP                | 0                                                                    |
-| Rep               | +0                                                                   |
-| Str               | —                                                                    |
-| Dex               | 15                                                                   |
-| Con               | —                                                                    |
-| Int               | 10                                                                   |
-| Ability           | Wis12                                                                |
-| Cha               | 7                                                                    |
+| CR | 1 |
+| Size | Tiny |
+| Type | construct (incorporeal) |
+| HD | 2d10 |
+| hp | 11 |
+| Mas | — |
+| Init | +2 |
+| Spd | 20 ft., fly 50 ft. (good) |
+| Defense | 15 |
+| Touch | 15 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +2 size, +2 Dex, +1 deflection |
+| BAB | +1 |
+| Grap | — |
+| Atk | +5 melee (1d2, bite) |
+| Full Atk | +5 melee (1d2, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | construct, repairable, incorporeal, darkvision 60 ft., creature meld |
+| AL | master |
+| Fort | +0 |
+| Ref | +2 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | — |
+| Dex | 15 |
+| Con | — |
+| Int | 10 |
+| Ability | Wis12 |
+| Cha | 7 |
 
 **Skills:** Hide +10.
 
@@ -158,39 +158,39 @@ Dexterity bonus to Defense while connected to a device.
 
 ## Digital Homunculus
 
-| Stat              | Value                                                          |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                              |
-| Size              | Tiny                                                           |
-| Type              | construct                                                      |
-| HD                | 2d10                                                           |
-| hp                | 11                                                             |
-| Mas               | —                                                              |
-| Init              | +2                                                             |
-| Spd               | 20 ft., fly 50 ft. (good)                                      |
-| Defense           | 16                                                             |
-| Touch             | 14                                                             |
-| Flat-Footed       | 14                                                             |
-| Defense Breakdown | +2 size, +2 Dex, +2 natural                                    |
-| BAB               | +1                                                             |
-| Grap              | –9                                                             |
-| Atk               | +1 melee (1d4–2, bite)                                         |
-| Full Atk          | +1 melee (1d4–2, bite)                                         |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                         |
-| Reach             | 0 ft.                                                          |
-| SQ                | construct, repairable, darkvision 60 ft., electronic interface |
-| AL                | master                                                         |
-| Fort              | +0                                                             |
-| Ref               | +2                                                             |
-| Will              | +1                                                             |
-| AP                | 0                                                              |
-| Rep               | +0                                                             |
-| Str               | 7                                                              |
-| Dex               | 15                                                             |
-| Con               | —                                                              |
-| Int               | 10                                                             |
-| Ability           | Wis12                                                          |
-| Cha               | 7                                                              |
+| CR | 1 |
+| Size | Tiny |
+| Type | construct |
+| HD | 2d10 |
+| hp | 11 |
+| Mas | — |
+| Init | +2 |
+| Spd | 20 ft., fly 50 ft. (good) |
+| Defense | 16 |
+| Touch | 14 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +2 size, +2 Dex, +2 natural |
+| BAB | +1 |
+| Grap | –9 |
+| Atk | +1 melee (1d4–2, bite) |
+| Full Atk | +1 melee (1d4–2, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | construct, repairable, darkvision 60 ft., electronic interface |
+| AL | master |
+| Fort | +0 |
+| Ref | +2 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 7 |
+| Dex | 15 |
+| Con | — |
+| Int | 10 |
+| Ability | Wis12 |
+| Cha | 7 |
 
 **Skills:** Hide +10.
 
@@ -218,39 +218,39 @@ homunculus has at least 1 hit point.
 
 ## Flesh Homunculus
 
-| Stat              | Value                                                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                                                     |
-| Size              | Tiny                                                                                  |
-| Type              | construct                                                                             |
-| HD                | 2d10                                                                                  |
-| hp                | 11                                                                                    |
-| Mas               | —                                                                                     |
-| Init              | +2                                                                                    |
-| Spd               | 20 ft., fly 50 ft. (good)                                                             |
-| Defense           | 14                                                                                    |
-| Touch             | 14                                                                                    |
-| Flat-Footed       | 12                                                                                    |
-| Defense Breakdown | +2 size, +2 Dex                                                                       |
-| BAB               | +1                                                                                    |
-| Grap              | –9                                                                                    |
-| Atk               | +1 melee (1d3–2, bite)                                                                |
-| Full Atk          | +1 melee (1d3–2, bite)                                                                |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                |
-| Reach             | 0 ft.                                                                                 |
-| SQ                | construct, repairable, darkvision 60 ft., poison, damage reduction 5/+1, fast healing |
-| AL                | master                                                                                |
-| Fort              | +0                                                                                    |
-| Ref               | +2                                                                                    |
-| Will              | +1                                                                                    |
-| AP                | 0                                                                                     |
-| Rep               | +0                                                                                    |
-| Str               | 7                                                                                     |
-| Dex               | 14                                                                                    |
-| Con               | —                                                                                     |
-| Int               | 10                                                                                    |
-| Ability           | Wis12                                                                                 |
-| Cha               | 7                                                                                     |
+| CR | 1 |
+| Size | Tiny |
+| Type | construct |
+| HD | 2d10 |
+| hp | 11 |
+| Mas | — |
+| Init | +2 |
+| Spd | 20 ft., fly 50 ft. (good) |
+| Defense | 14 |
+| Touch | 14 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 size, +2 Dex |
+| BAB | +1 |
+| Grap | –9 |
+| Atk | +1 melee (1d3–2, bite) |
+| Full Atk | +1 melee (1d3–2, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | construct, repairable, darkvision 60 ft., poison, damage reduction 5/+1, fast healing |
+| AL | master |
+| Fort | +0 |
+| Ref | +2 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 7 |
+| Dex | 14 |
+| Con | — |
+| Int | 10 |
+| Ability | Wis12 |
+| Cha | 7 |
 
 **Skills:** Hide +10.
 
@@ -285,39 +285,39 @@ attempt to repair itself or aid another’s attempts to repair it.
 
 ## Mechanical Homunculus
 
-| Stat              | Value                                                           |
+| Stat | Value |
 |---|---|
-| CR                | 1                                                               |
-| Size              | Tiny                                                            |
-| Type              | construct                                                       |
-| HD                | 2d10                                                            |
-| hp                | 11                                                              |
-| Mas               | —                                                               |
-| Init              | +2                                                              |
-| Spd               | 10 ft., fly 30 ft. (average)                                    |
-| Defense           | 15                                                              |
-| Touch             | 14                                                              |
-| Flat-Footed       | 13                                                              |
-| Defense Breakdown | +2 size, +2 Dex, +1 natural                                     |
-| BAB               | +1                                                              |
-| Grap              | –8                                                              |
-| Atk               | +2 melee (1d3–1 plus 1d6 acid, bite)                            |
-| Full Atk          | +2 melee (1d3–1 plus 1d6 acid, bite)                            |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                          |
-| Reach             | 0 ft.                                                           |
-| SQ                | construct, repairable, darkvision 120 ft., acid spittle, skills |
-| AL                | master                                                          |
-| Fort              | +0                                                              |
-| Ref               | +2                                                              |
-| Will              | +1                                                              |
-| AP                | 0                                                               |
-| Rep               | +0                                                              |
-| Str               | 8                                                               |
-| Dex               | 14                                                              |
-| Con               | —                                                               |
-| Int               | 10                                                              |
-| Ability           | Wis12                                                           |
-| Cha               | 7                                                               |
+| CR | 1 |
+| Size | Tiny |
+| Type | construct |
+| HD | 2d10 |
+| hp | 11 |
+| Mas | — |
+| Init | +2 |
+| Spd | 10 ft., fly 30 ft. (average) |
+| Defense | 15 |
+| Touch | 14 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +2 size, +2 Dex, +1 natural |
+| BAB | +1 |
+| Grap | –8 |
+| Atk | +2 melee (1d3–1 plus 1d6 acid, bite) |
+| Full Atk | +2 melee (1d3–1 plus 1d6 acid, bite) |
+| FS | 2 1/2 ft. by 2 1/2 ft. |
+| Reach | 0 ft. |
+| SQ | construct, repairable, darkvision 120 ft., acid spittle, skills |
+| AL | master |
+| Fort | +0 |
+| Ref | +2 |
+| Will | +1 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 8 |
+| Dex | 14 |
+| Con | — |
+| Int | 10 |
+| Ability | Wis12 |
+| Cha | 7 |
 
 **Skills:** Disable Device +3, Hide +10, Listen +3,
 Repair +4, Speak Language (any one), Spot +3.

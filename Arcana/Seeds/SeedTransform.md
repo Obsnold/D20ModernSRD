@@ -1,14 +1,14 @@
 # Seed: Transform
 
-| Stat                       | Value                                        |
+| Stat | Value |
 |---|---|
-| School                     | Transmutation                                |
-| Knowledge (arcane lore) DC | 32                                           |
-| Range                      | Close                                        |
-| Target                     | One creature or inanimate, nonmagical object |
-| Duration                   | Hours                                        |
-| Saving Throw               | Fortitude negates (and see text)             |
-| Spell Resistance           | Yes                                          |
+| School | Transmutation |
+| Knowledge (arcane lore) DC | 32 |
+| Range | Close |
+| Target | One creature or inanimate, nonmagical object |
+| Duration | Hours |
+| Saving Throw | Fortitude negates (and see text) |
+| Spell Resistance | Yes |
 
 Incantations using the *transform* seed change the subject into another
 form of creature or object. The new form can range in size from

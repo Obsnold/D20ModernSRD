@@ -1,17 +1,17 @@
 # Instant Connectivity
 
-| Stat             | Value                                                            |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                                      |
-| Subschool        | Teleporting                                                      |
-| Level            | Arcane 5                                                         |
-| Components       | V, S, F                                                          |
-| Casting Time     | Attack action                                                    |
-| Range            | Touch (see text)                                                 |
-| Target           | Creature touched, or up to eight willing creatures joining hands |
-| Duration         | Instantaneous                                                    |
-| Saving Throw     | Will negates                                                     |
-| Spell Resistance | Yes                                                              |
+| School | Conjuration |
+| Subschool | Teleporting |
+| Level | Arcane 5 |
+| Components | V, S, F |
+| Casting Time | Attack action |
+| Range | Touch (see text) |
+| Target | Creature touched, or up to eight willing creatures joining hands |
+| Duration | Instantaneous |
+| Saving Throw | Will negates |
+| Spell Resistance | Yes |
 
 *Instant connectivity* can only be cast through a computer network (see
 the Casting Spells through Email sidebar). With the aid of instant

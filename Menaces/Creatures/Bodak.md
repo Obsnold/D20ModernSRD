@@ -37,39 +37,39 @@ of the sun deals 1 point of damage to the creature.
 
 ## Bodak
 
-| Stat              | Value                                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 10                                                                                                                                            |
-| Size              | Small                                                                                                                                         |
-| Type              | undead                                                                                                                                        |
-| HD                | 9d12                                                                                                                                          |
-| hp                | 58                                                                                                                                            |
-| Mas               | —                                                                                                                                             |
-| Init              | +6                                                                                                                                            |
-| Spd               | 20 ft.                                                                                                                                        |
-| Defense           | 16                                                                                                                                            |
-| Touch             | 13                                                                                                                                            |
-| Flat-Footed       | 14                                                                                                                                            |
-| Defense Breakdown | +1 size, +2 Dex, +3 natural                                                                                                                   |
-| BAB               | +4                                                                                                                                            |
-| Grap              | +1                                                                                                                                            |
-| Atk               | +7 melee (1d4+1, slam)                                                                                                                        |
-| Full Atk          | +7 melee (1d4+1, slam)                                                                                                                        |
-| FS                | 5 ft. by 5 ft.                                                                                                                                |
-| Reach             | 5 ft.                                                                                                                                         |
-| SQ                | acid and fire resistance 20, damage reduction 15/silver, death gaze (DC 15), electricity immunity, flashbacks, sunlight vulnerability, undead |
-| AL                | evil                                                                                                                                          |
-| Fort              | +3                                                                                                                                            |
-| Ref               | +5                                                                                                                                            |
-| Will              | +7                                                                                                                                            |
-| AP                | 0                                                                                                                                             |
-| Rep               | +0                                                                                                                                            |
-| Str               | 13                                                                                                                                            |
-| Dex               | 15                                                                                                                                            |
-| Con               | —                                                                                                                                             |
-| Int               | 6                                                                                                                                             |
-| Wis               | 12                                                                                                                                            |
-| Cha               | 12                                                                                                                                            |
+| CR | 10 |
+| Size | Small |
+| Type | undead |
+| HD | 9d12 |
+| hp | 58 |
+| Mas | — |
+| Init | +6 |
+| Spd | 20 ft. |
+| Defense | 16 |
+| Touch | 13 |
+| Flat-Footed | 14 |
+| Defense Breakdown | +1 size, +2 Dex, +3 natural |
+| BAB | +4 |
+| Grap | +1 |
+| Atk | +7 melee (1d4+1, slam) |
+| Full Atk | +7 melee (1d4+1, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | acid and fire resistance 20, damage reduction 15/silver, death gaze (DC 15), electricity immunity, flashbacks, sunlight vulnerability, undead |
+| AL | evil |
+| Fort | +3 |
+| Ref | +5 |
+| Will | +7 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 13 |
+| Dex | 15 |
+| Con | — |
+| Int | 6 |
+| Wis | 12 |
+| Cha | 12 |
 
 **Skills:** Hide +11, Listen +9, Move Silently +11, Spot +9.
 
@@ -79,39 +79,39 @@ of the sun deals 1 point of damage to the creature.
 
 ## Advanced Bodak
 
-| Stat              | Value                                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 11                                                                                                                                            |
-| Size              | Medium-size                                                                                                                                   |
-| Type              | undead                                                                                                                                        |
-| HD                | 12d12                                                                                                                                         |
-| hp                | 78                                                                                                                                            |
-| Mas               | —                                                                                                                                             |
-| Init              | +6                                                                                                                                            |
-| Spd               | 20 ft.                                                                                                                                        |
-| Defense           | 14                                                                                                                                            |
-| Touch             | 11                                                                                                                                            |
-| Flat-Footed       | 13                                                                                                                                            |
-| Defense Breakdown | +1 Dex, +3 natural                                                                                                                            |
-| BAB               | +6                                                                                                                                            |
-| Grap              | +9                                                                                                                                            |
-| Atk               | +9 melee (1d6+3, slam)                                                                                                                        |
-| Full Atk          | +9 melee (1d6+3, slam) or +7 ranged                                                                                                           |
-| FS                | 5 ft. by 5 ft.                                                                                                                                |
-| Reach             | 5 ft.                                                                                                                                         |
-| SQ                | acid and fire resistance 20, damage reduction 15/silver, death gaze (DC 17), electricity immunity, flashbacks, sunlight vulnerability, undead |
-| AL                | evil                                                                                                                                          |
-| Fort              | +4                                                                                                                                            |
-| Ref               | +5                                                                                                                                            |
-| Will              | +9                                                                                                                                            |
-| AP                | 0                                                                                                                                             |
-| Rep               | +0                                                                                                                                            |
-| Str               | 17                                                                                                                                            |
-| Dex               | 13                                                                                                                                            |
-| Con               | —                                                                                                                                             |
-| Int               | 6                                                                                                                                             |
-| Wis               | 12                                                                                                                                            |
-| Cha               | 12                                                                                                                                            |
+| CR | 11 |
+| Size | Medium-size |
+| Type | undead |
+| HD | 12d12 |
+| hp | 78 |
+| Mas | — |
+| Init | +6 |
+| Spd | 20 ft. |
+| Defense | 14 |
+| Touch | 11 |
+| Flat-Footed | 13 |
+| Defense Breakdown | +1 Dex, +3 natural |
+| BAB | +6 |
+| Grap | +9 |
+| Atk | +9 melee (1d6+3, slam) |
+| Full Atk | +9 melee (1d6+3, slam) or +7 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | acid and fire resistance 20, damage reduction 15/silver, death gaze (DC 17), electricity immunity, flashbacks, sunlight vulnerability, undead |
+| AL | evil |
+| Fort | +4 |
+| Ref | +5 |
+| Will | +9 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 13 |
+| Con | — |
+| Int | 6 |
+| Wis | 12 |
+| Cha | 12 |
 
 **Skills:** Hide +12, Listen +11, Move Silently +12, Spot +11.
 

@@ -29,39 +29,39 @@ Hide checks when in its lair, due to its natural coloration.
 
 ## Otyugh
 
-| Stat              | Value                                                                   |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                                       |
-| Size              | Large                                                                   |
-| Type              | aberration                                                              |
-| HD                | 6d8+18                                                                  |
-| hp                | 45                                                                      |
-| Mas               | 17                                                                      |
-| Init              | +1                                                                      |
-| Spd               | 20 ft.                                                                  |
-| Defense           | 18                                                                      |
-| Touch             | 10                                                                      |
-| Flat-Footed       | 17                                                                      |
-| Defense Breakdown | –1 size, +1 Dex, +8 natural                                             |
-| BAB               | +4                                                                      |
-| Grap              | +12                                                                     |
-| Atk               | +7 melee (1d6+6, tentacle rake)                                         |
-| Full Atk          | +7 melee (1d6+4, 2 tentacle rakes), +2 melee (2d6+2 plus disease, bite) |
-| FS                | 10 ft. by 10 ft.                                                        |
-| Reach             | 10 ft. (15 ft. with tentacles)                                          |
-| SQ                | darkvision 60 ft., improved grab, constrict 1d6+4, disease              |
-| AL                | none                                                                    |
-| Fort              | +5                                                                      |
-| Ref               | +3                                                                      |
-| Will              | +6                                                                      |
-| AP                | 0                                                                       |
-| Rep               | +0                                                                      |
-| Str               | 18                                                                      |
-| Dex               | 12                                                                      |
-| Con               | 17                                                                      |
-| Int               | 5                                                                       |
-| Wis               | 12                                                                      |
-| Cha               | 6                                                                       |
+| CR | 4 |
+| Size | Large |
+| Type | aberration |
+| HD | 6d8+18 |
+| hp | 45 |
+| Mas | 17 |
+| Init | +1 |
+| Spd | 20 ft. |
+| Defense | 18 |
+| Touch | 10 |
+| Flat-Footed | 17 |
+| Defense Breakdown | –1 size, +1 Dex, +8 natural |
+| BAB | +4 |
+| Grap | +12 |
+| Atk | +7 melee (1d6+6, tentacle rake) |
+| Full Atk | +7 melee (1d6+4, 2 tentacle rakes), +2 melee (2d6+2 plus disease, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. (15 ft. with tentacles) |
+| SQ | darkvision 60 ft., improved grab, constrict 1d6+4, disease |
+| AL | none |
+| Fort | +5 |
+| Ref | +3 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 18 |
+| Dex | 12 |
+| Con | 17 |
+| Int | 5 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Hide +5 (+13 in lair), Listen +9, Speak
 Language (any one), Spot +9.
@@ -72,39 +72,39 @@ Language (any one), Spot +9.
 
 ## Advanced Otyugh
 
-| Stat              | Value                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                        |
-| Size              | Huge                                                                     |
-| Type              | aberration                                                               |
-| HD                | 12d8+60                                                                  |
-| hp                | 114                                                                      |
-| Mas               | 24                                                                       |
-| Init              | +0                                                                       |
-| Spd               | 20 ft.                                                                   |
-| Defense           | 19                                                                       |
-| Touch             | 8                                                                        |
-| Flat-Footed       | 19                                                                       |
-| Defense Breakdown | –2 size, +11 natural                                                     |
-| BAB               | +8                                                                       |
-| Grap              | +24                                                                      |
-| Atk               | +14 melee (2d4+12, tentacle rake)                                        |
-| Full Atk          | +14 melee (2d4+8, 2 tentacle rakes), +9 melee (2d8+4 plus disease, bite) |
-| FS                | 15 ft. by 15 ft.                                                         |
-| Reach             | 15 ft. (20 ft. with tentacles)                                           |
-| SQ                | darkvision 60 ft., improved grab, constrict 2d4+8, disease               |
-| AL                | none                                                                     |
-| Fort              | +9                                                                       |
-| Ref               | +4                                                                       |
-| Will              | +9                                                                       |
-| AP                | 0                                                                        |
-| Rep               | +0                                                                       |
-| Str               | 26                                                                       |
-| Dex               | 10                                                                       |
-| Con               | 21                                                                       |
-| Int               | 5                                                                        |
-| Wis               | 12                                                                       |
-| Cha               | 6                                                                        |
+| CR | 7 |
+| Size | Huge |
+| Type | aberration |
+| HD | 12d8+60 |
+| hp | 114 |
+| Mas | 24 |
+| Init | +0 |
+| Spd | 20 ft. |
+| Defense | 19 |
+| Touch | 8 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –2 size, +11 natural |
+| BAB | +8 |
+| Grap | +24 |
+| Atk | +14 melee (2d4+12, tentacle rake) |
+| Full Atk | +14 melee (2d4+8, 2 tentacle rakes), +9 melee (2d8+4 plus disease, bite) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 15 ft. (20 ft. with tentacles) |
+| SQ | darkvision 60 ft., improved grab, constrict 2d4+8, disease |
+| AL | none |
+| Fort | +9 |
+| Ref | +4 |
+| Will | +9 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 26 |
+| Dex | 10 |
+| Con | 21 |
+| Int | 5 |
+| Wis | 12 |
+| Cha | 6 |
 
 **Skills:** Hide +0 (+8 in lair), Listen +15, Speak
 Language (any one), Spot +15.

@@ -1,16 +1,16 @@
 # Nondetection
 
-| Stat             | Value                           |
+| Stat | Value |
 |---|---|
-| School           | Abjuration                      |
-| Level            | Arcane 3                        |
-| Components       | V, S, M                         |
-| Casting Time     | Attack action                   |
-| Range            | Touch                           |
-| Target           | Creature or object touched      |
-| Duration         | 1 hour/level                    |
-| Saving Throw     | Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless, object)          |
+| School | Abjuration |
+| Level | Arcane 3 |
+| Components | V, S, M |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | Creature or object touched |
+| Duration | 1 hour/level |
+| Saving Throw | Will negates (harmless, object) |
+| Spell Resistance | Yes (harmless, object) |
 
 The warded creature or object becomes difficult to detect by divination
 and detection spells, such as *scrying*.* Nondetection *also prevents

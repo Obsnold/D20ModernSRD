@@ -1,16 +1,16 @@
 # Magic Bullets
 
-| Stat             | Value                                                                              |
+| Stat | Value |
 |---|---|
-| School           | Transmutation                                                                      |
-| Level            | Arcane 4, Divine 4                                                                 |
-| Components       | V, S, F                                                                            |
-| Casting Time     | Attack action                                                                      |
-| Range            | Touch                                                                              |
-| Target           | 50 bullets, all of which must be in contact with each other at the time of casting |
-| Duration         | 1 hour/level                                                                       |
-| Saving Throw     | Will negates (harmless, object)                                                    |
-| Spell Resistance | Yes (harmless, object)                                                             |
+| School | Transmutation |
+| Level | Arcane 4, Divine 4 |
+| Components | V, S, F |
+| Casting Time | Attack action |
+| Range | Touch |
+| Target | 50 bullets, all of which must be in contact with each other at the time of casting |
+| Duration | 1 hour/level |
+| Saving Throw | Will negates (harmless, object) |
+| Spell Resistance | Yes (harmless, object) |
 
 You enhance up to 50 individual bullets of the same caliber or a single
 magazine of up to 50 rounds with the power of a 1stlevel spell you
@@ -27,9 +27,9 @@ impart their magical effect. This spell can be used to create one type
 of bullet (as noted in the chart below), or others at the GM’s
 discretion.
 
-| Magic Bullet Type          | Other Spell Known      | Effect                                                                                                                                                                   |
+| Magic Bullet Type | Other Spell Known | Effect |
 |---|---|---|
-| Curing bullet (divine)     | *Cure light wounds*    | Bullet deals no damage and instead cures 1d8+5 points of damage.                                                                                                         |
-| Inflicting bullet (divine) | *Inflict light wounds* | Creature damaged by pain bullet must succeed at a Will save (DC 14) or take an additional 1d8+5 points of damage.                                                        |
-| Knock-out bullet (arcane)  | *Sleep*                | Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immne to this effect.    |
-| Panic bullet (arcane)      | *Cause fear*           | Creature damaged by terror bullet must succeed at a Will save (DC 14) or be panicked (–2 morale penalty on attack rolls, weapon damage rolls, and saves) for 1d4 rounds. |
+| Curing bullet (divine) | *Cure light wounds* | Bullet deals no damage and instead cures 1d8+5 points of damage. |
+| Inflicting bullet (divine) | *Inflict light wounds* | Creature damaged by pain bullet must succeed at a Will save (DC 14) or take an additional 1d8+5 points of damage. |
+| Knock-out bullet (arcane) | *Sleep* | Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immne to this effect. |
+| Panic bullet (arcane) | *Cause fear* | Creature damaged by terror bullet must succeed at a Will save (DC 14) or be panicked (–2 morale penalty on attack rolls, weapon damage rolls, and saves) for 1d4 rounds. |

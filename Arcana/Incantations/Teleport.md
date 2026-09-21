@@ -1,18 +1,18 @@
 # Teleport
 
-| Stat             | Value                                                                                      |
+| Stat | Value |
 |---|---|
-| School           | Conjuration                                                                                |
-| Subschool        | Teleporting                                                                                |
-| Skill Check      | Knowledge (arcane lore) DC 31, 5 successes, and Navigate DC 31, 1 success                  |
-| Failure          | Two consecutive failed skill checks                                                        |
-| Components       | V, S, SC, B                                                                                |
-| Casting Time     | 60 minutes (minimum)                                                                       |
-| Range            | Personal and Touch                                                                         |
-| Target           | You, up to six touched willing creatures, and touched objects weighing up to 500 lb./level |
-| Duration         | Instantaneous                                                                              |
-| Saving Throw     | None                                                                                       |
-| Spell Resistance | No                                                                                         |
+| School | Conjuration |
+| Subschool | Teleporting |
+| Skill Check | Knowledge (arcane lore) DC 31, 5 successes, and Navigate DC 31, 1 success |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, SC, B |
+| Casting Time | 60 minutes (minimum) |
+| Range | Personal and Touch |
+| Target | You, up to six touched willing creatures, and touched objects weighing up to 500 lb./level |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 This incantation instantly transports you to a designated destination up
 to 1,000 miles away. You can bring along up to 500 pounds of touched

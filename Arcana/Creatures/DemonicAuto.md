@@ -54,39 +54,39 @@ all.
 
 ## Demonic Auto
 
-| Stat              | Value                                                                                                                                                                 |
+| Stat | Value |
 |---|---|
-| CR                | 13                                                                                                                                                                    |
-| Size              | Huge                                                                                                                                                                  |
-| Type              | construct                                                                                                                                                             |
-| HD                | 15d10+40                                                                                                                                                              |
-| hp                | 102                                                                                                                                                                   |
-| Mas               | —                                                                                                                                                                     |
-| Init              | +1                                                                                                                                                                    |
-| Spd               | 400 ft. (320 squares as vehicle)                                                                                                                                      |
-| Defense           | 24                                                                                                                                                                    |
-| Touch             | 9                                                                                                                                                                     |
-| Flat-Footed       | 23                                                                                                                                                                    |
-| Defense Breakdown | –2 size, +1 Dex, +15 natural                                                                                                                                          |
-| BAB               | +11                                                                                                                                                                   |
-| Grap              | —                                                                                                                                                                     |
-| Atk               | +15 melee (1d6+9, slam)                                                                                                                                               |
-| Full Atk          | +15/+10/+5 melee (1d6+6, slam)                                                                                                                                        |
-| FS                | 10 ft. by 15 ft.                                                                                                                                                      |
-| Reach             | 5 ft.                                                                                                                                                                 |
-| SQ                | construct, outsider traits, damage reduction 20/+1, vehicle movement, no limbs, trample (2d6+9 alley speed or 4d6+9 at higher speeds), repairable, darkvision 120 ft. |
-| AL                | chaos, evil                                                                                                                                                           |
-| Fort              | +5                                                                                                                                                                    |
-| Ref               | +6                                                                                                                                                                    |
-| Will              | +5                                                                                                                                                                    |
-| AP                | 0                                                                                                                                                                     |
-| Rep               | +0                                                                                                                                                                    |
-| Str               | 23                                                                                                                                                                    |
-| Dex               | 13                                                                                                                                                                    |
-| Con               | —                                                                                                                                                                     |
-| Int               | 10                                                                                                                                                                    |
-| Wis               | 10                                                                                                                                                                    |
-| Cha               | 5                                                                                                                                                                     |
+| CR | 13 |
+| Size | Huge |
+| Type | construct |
+| HD | 15d10+40 |
+| hp | 102 |
+| Mas | — |
+| Init | +1 |
+| Spd | 400 ft. (320 squares as vehicle) |
+| Defense | 24 |
+| Touch | 9 |
+| Flat-Footed | 23 |
+| Defense Breakdown | –2 size, +1 Dex, +15 natural |
+| BAB | +11 |
+| Grap | — |
+| Atk | +15 melee (1d6+9, slam) |
+| Full Atk | +15/+10/+5 melee (1d6+6, slam) |
+| FS | 10 ft. by 15 ft. |
+| Reach | 5 ft. |
+| SQ | construct, outsider traits, damage reduction 20/+1, vehicle movement, no limbs, trample (2d6+9 alley speed or 4d6+9 at higher speeds), repairable, darkvision 120 ft. |
+| AL | chaos, evil |
+| Fort | +5 |
+| Ref | +6 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 23 |
+| Dex | 13 |
+| Con | — |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Bluff +15, Drive +21, Hide +3, Navigate +18,
 Repair +10, Sense Motive +18, Spot +18.
@@ -101,39 +101,39 @@ Vehicle Expert.
 
 ## Advanced Demonic Auto (Semi Truck)
 
-| Stat              | Value                                                                                                                                                                             |
+| Stat | Value |
 |---|---|
-| CR                | 16                                                                                                                                                                                |
-| Size              | Gargantuan                                                                                                                                                                        |
-| Type              | construct                                                                                                                                                                         |
-| HD                | 26d10+80                                                                                                                                                                          |
-| hp                | 223                                                                                                                                                                               |
-| Mas               | —                                                                                                                                                                                 |
-| Init              | +1                                                                                                                                                                                |
-| Spd               | 400 ft. (320 squares as vehicle)                                                                                                                                                  |
-| Defense           | 26                                                                                                                                                                                |
-| Touch             | 7                                                                                                                                                                                 |
-| Flat-Footed       | 25                                                                                                                                                                                |
-| Defense Breakdown | –4 size, +1 Dex, +19 natural                                                                                                                                                      |
-| BAB               | +18                                                                                                                                                                               |
-| Grap              | —                                                                                                                                                                                 |
-| Atk               | +25 melee (1d8+15, slam)                                                                                                                                                          |
-| Full Atk          | +25/+20/+15/+10 melee (1d8+10, slam)                                                                                                                                              |
-| FS                | 10 ft. by 30 ft.                                                                                                                                                                  |
-| Reach             | 5 ft.                                                                                                                                                                             |
-| SQ                | construct, outsider traits, damage reduction 20/+1, vehicle movement, no limbs, trample (DC 33; 2d8+15 at alley speed or 4d8+15 at higher speeds), repairable, darkvision 120 ft. |
-| AL                | chaos, evil                                                                                                                                                                       |
-| Fort              | +10                                                                                                                                                                               |
-| Ref               | +9                                                                                                                                                                                |
-| Will              | +10                                                                                                                                                                               |
-| AP                | 0                                                                                                                                                                                 |
-| Rep               | +0                                                                                                                                                                                |
-| Str               | 31                                                                                                                                                                                |
-| Dex               | 13                                                                                                                                                                                |
-| Con               | —                                                                                                                                                                                 |
-| Int               | 10                                                                                                                                                                                |
-| Wis               | 10                                                                                                                                                                                |
-| Cha               | 5                                                                                                                                                                                 |
+| CR | 16 |
+| Size | Gargantuan |
+| Type | construct |
+| HD | 26d10+80 |
+| hp | 223 |
+| Mas | — |
+| Init | +1 |
+| Spd | 400 ft. (320 squares as vehicle) |
+| Defense | 26 |
+| Touch | 7 |
+| Flat-Footed | 25 |
+| Defense Breakdown | –4 size, +1 Dex, +19 natural |
+| BAB | +18 |
+| Grap | — |
+| Atk | +25 melee (1d8+15, slam) |
+| Full Atk | +25/+20/+15/+10 melee (1d8+10, slam) |
+| FS | 10 ft. by 30 ft. |
+| Reach | 5 ft. |
+| SQ | construct, outsider traits, damage reduction 20/+1, vehicle movement, no limbs, trample (DC 33; 2d8+15 at alley speed or 4d8+15 at higher speeds), repairable, darkvision 120 ft. |
+| AL | chaos, evil |
+| Fort | +10 |
+| Ref | +9 |
+| Will | +10 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 31 |
+| Dex | 13 |
+| Con | — |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 5 |
 
 **Skills:** Bluff +22, Drive +32, Hide +10, Intimidate
 +19, Navigate +25, Repair +25, Sense Motive +25, Spot +29.

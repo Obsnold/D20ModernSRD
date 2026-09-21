@@ -1,12 +1,12 @@
 # Seed: Reflect
 
-| Stat                       | Value                      |
+| Stat | Value |
 |---|---|
-| School                     | Abjuration                 |
-| Knowledge (arcane lore) DC | 32                         |
-| Range                      | Personal                   |
-| Target                     | You                        |
-| Duration                   | Until expended or 12 hours |
+| School | Abjuration |
+| Knowledge (arcane lore) DC | 32 |
+| Range | Personal |
+| Target | You |
+| Duration | Until expended or 12 hours |
 
 Attacks targeted against you rebound on the original attacker. Each use
 of the *reflect* seed in an incantation is effective against one type of

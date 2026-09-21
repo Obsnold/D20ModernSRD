@@ -1,17 +1,17 @@
 # Freedom of Movement
 
-| Stat               | Value                   |
+| Stat | Value |
 |---|---|
-| Key Ability        | Dexterity               |
-| Level              | Psionic Agent 4         |
-| Display            | Audible                 |
-| Manifestation Time | Attack action           |
-| Range              | Personal or touch       |
-| Target             | You or creature touched |
-| Duration           | 10 minutes/level        |
-| Saving Throw       | None                    |
-| Power Resistance   | No or Yes (harmless)    |
-| Power Point Cost   | 7                       |
+| Key Ability | Dexterity |
+| Level | Psionic Agent 4 |
+| Display | Audible |
+| Manifestation Time | Attack action |
+| Range | Personal or touch |
+| Target | You or creature touched |
+| Duration | 10 minutes/level |
+| Saving Throw | None |
+| Power Resistance | No or Yes (harmless) |
+| Power Point Cost | 7 |
 
 This power enables you or the creature you touch to move and attack
 normally for the duration of the power, even under the influence of

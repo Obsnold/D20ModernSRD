@@ -1,15 +1,15 @@
 # Seed: Slay
 
-| Stat                       | Value               |
+| Stat | Value |
 |---|---|
-| School                     | Necromancy          |
-| Descriptors                | Death               |
-| Knowledge (arcane lore) DC | 34                  |
-| Range                      | Medium              |
-| Target                     | One living creature |
-| Duration                   | Instantaneous       |
-| Saving Throw               | Fortitude partial   |
-| Spell Resistance           | Yes                 |
+| School | Necromancy |
+| Descriptors | Death |
+| Knowledge (arcane lore) DC | 34 |
+| Range | Medium |
+| Target | One living creature |
+| Duration | Instantaneous |
+| Saving Throw | Fortitude partial |
+| Spell Resistance | Yes |
 
 An incantation developed using the *slay* seed snuffs out the life force
 of a living creature, killing it instantly. The *slay* seed kills a

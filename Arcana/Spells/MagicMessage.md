@@ -1,16 +1,16 @@
 # Magic Message
 
-| Stat             | Value                           |
+| Stat | Value |
 |---|---|
-| School           | Illusion                        |
-| Level            | Arcane 2                        |
-| Components       | V, S, M                         |
-| Casting Time     | Fullround action                |
-| Range            | Close (25 ft. + 5 ft./2 levels) |
-| Target           | One object (see text)           |
-| Duration         | Permanent until discharged      |
-| Saving Throw     | Will negates (object)           |
-| Spell Resistance | Yes (object)                    |
+| School | Illusion |
+| Level | Arcane 2 |
+| Components | V, S, M |
+| Casting Time | Fullround action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One object (see text) |
+| Duration | Permanent until discharged |
+| Saving Throw | Will negates (object) |
+| Spell Resistance | Yes (object) |
 
 This spell imbues a modern device such as a television, radio, computer
 monitor, or news ticker with a message you set that’s delivered when a

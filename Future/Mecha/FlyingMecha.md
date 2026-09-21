@@ -55,17 +55,17 @@ distance.
 
 **Table: Flight Maneuverability**
 
-| Maneuver              | Perfect | Good       | Average    | Poor      | Clumsy     |
+| Maneuver | Perfect | Good | Average | Poor | Clumsy |
 |---|---|---|---|---|---|
-| Minimum forward speed | None    | None       | Half       | Half      | Half       |
-| Hover                 | Yes     | Yes        | No         | No        | No         |
-| Fly backward          | Yes     | Yes        | No         | No        | No         |
-| Reverse               | Free    | –5 ft.     | —          | —         | —          |
-| Turn                  | Any     | 90˚/5 ft.  | 45˚/5 ft.  | 45˚/5 ft. | 45˚/10 ft. |
-| Turn in place         | Any     | +90˚/5 ft. | +45˚/5 ft. | No        | No         |
-| Maximum turn          | Any     | Any        | 90˚        | 45˚       | 45˚        |
-| Up angle              | Any     | Any        | 60˚        | 45˚       | 45˚        |
-| Up speed              | Full    | Half       | Half       | Half      | Half       |
-| Down angle            | Any     | Any        | Any        | 45˚       | 45˚        |
-| Down speed            | Double  | Double     | Double     | Double    | Double     |
-| Between down and up   | 0 ft.   | 0 ft.      | 5 ft.      | 10 ft.    | 20 ft.     |
+| Minimum forward speed | None | None | Half | Half | Half |
+| Hover | Yes | Yes | No | No | No |
+| Fly backward | Yes | Yes | No | No | No |
+| Reverse | Free | –5 ft. | — | — | — |
+| Turn | Any | 90˚/5 ft. | 45˚/5 ft. | 45˚/5 ft. | 45˚/10 ft. |
+| Turn in place | Any | +90˚/5 ft. | +45˚/5 ft. | No | No |
+| Maximum turn | Any | Any | 90˚ | 45˚ | 45˚ |
+| Up angle | Any | Any | 60˚ | 45˚ | 45˚ |
+| Up speed | Full | Half | Half | Half | Half |
+| Down angle | Any | Any | Any | 45˚ | 45˚ |
+| Down speed | Double | Double | Double | Double | Double |
+| Between down and up | 0 ft. | 0 ft. | 5 ft. | 10 ft. | 20 ft. |

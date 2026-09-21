@@ -8,18 +8,18 @@ desirable.
 
 **Table: Mecha Critical Hits**
 
-| d%     | Roll Effect(s)                                 |
+| d% | Roll Effect(s) |
 |---|---|
-| 01–15  | Normal damage, crew dazed                      |
-| 16–35  | Normal critical hit, crew dazed                |
-| 36–45  | Normal critical hit, mecha knocked prone       |
-| 46–50  | Severe critical hit, crew dazed, mecha stunned |
-| 51–55  | Severe critical hit, mecha knocked prone       |
-| 56–60  | Crew hit (normal damage)                       |
-| 61–70  | Normal damage, equipment damaged               |
-| 71–80  | Normal damage, equipment destroyed             |
-| 81–90  | Normal critical hit, slot damaged              |
-| 91–100 | Normal critical hit, slot destroyed            |
+| 01–15 | Normal damage, crew dazed |
+| 16–35 | Normal critical hit, crew dazed |
+| 36–45 | Normal critical hit, mecha knocked prone |
+| 46–50 | Severe critical hit, crew dazed, mecha stunned |
+| 51–55 | Severe critical hit, mecha knocked prone |
+| 56–60 | Crew hit (normal damage) |
+| 61–70 | Normal damage, equipment damaged |
+| 71–80 | Normal damage, equipment destroyed |
+| 81–90 | Normal critical hit, slot damaged |
+| 91–100 | Normal critical hit, slot destroyed |
 
 **Normal Damage:** The attack deals normal damage (do not apply critical
 hit multipliers).

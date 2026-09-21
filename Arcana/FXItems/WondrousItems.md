@@ -78,12 +78,12 @@ into the backpack, it weighs a fixed amount. This weight, and the limits
 in weight and volume of the backpack’s contents, depend on the
 backpack’s type, as shown below.
 
-| Pack Type       | Weight | Weight Limit of Contents | Volume Limit of Contents | Purchase DC |
+| Pack Type | Weight | Weight Limit of Contents | Volume Limit of Contents | Purchase DC |
 |---|---|---|---|---|
-| Light backpack  | 2 lb.  | 250 lb.                  | 30 cu. ft.               | 34          |
-| Medium backpack | 5 lb.  | 500 lb.                  | 70 cu. ft.               | 36          |
-| Heavy backpack  | 8 lb.  | 1,000 lb.                | 150 cu. ft.              | 38          |
-| Jumbo backpack  | 20 lb. | 1,500 lb.                | 250 cu. ft.              | 41          |
+| Light backpack | 2 lb. | 250 lb. | 30 cu. ft. | 34 |
+| Medium backpack | 5 lb. | 500 lb. | 70 cu. ft. | 36 |
+| Heavy backpack | 8 lb. | 1,000 lb. | 150 cu. ft. | 38 |
+| Jumbo backpack | 20 lb. | 1,500 lb. | 250 cu. ft. | 41 |
 
 If the backpack is overloaded, or if sharp objects pierce it (from
 inside or outside), the bag ruptures and is ruined. All contents are
@@ -549,21 +549,21 @@ item, as indicated below. A newly created *trench coat of useful items
 In addition, the trench coat has 2d6+4 other items, determined by
 rolling on the table below.
 
-| d%    | Result                                                                                      |
+| d% | Result |
 |---|---|
-| 01–08 | Bundle of cash (increase Wealth bonus by +2)                                                |
-| 09–15 | Loaded flare gun (with 3 extra rounds)                                                      |
-| 16–22 | Gas mask (with an extra filter canister)                                                    |
-| 23–30 | Night vision goggles                                                                        |
-| 31–44 | 24-foot-long metal ladder                                                                   |
-| 45–51 | Diamondback X-20 mountain bike                                                              |
-| 52–59 | Steel handcuffs                                                                             |
-| 60–68 | Portable generator (with full tank of gas)                                                  |
-| 69–75 | Fire exitinguisher                                                                          |
-| 76–83 | Small bag of jewels (increase Wealth bonus by +4)                                           |
+| 01–08 | Bundle of cash (increase Wealth bonus by +2) |
+| 09–15 | Loaded flare gun (with 3 extra rounds) |
+| 16–22 | Gas mask (with an extra filter canister) |
+| 23–30 | Night vision goggles |
+| 31–44 | 24-foot-long metal ladder |
+| 45–51 | Diamondback X-20 mountain bike |
+| 52–59 | Steel handcuffs |
+| 60–68 | Portable generator (with full tank of gas) |
+| 69–75 | Fire exitinguisher |
+| 76–83 | Small bag of jewels (increase Wealth bonus by +4) |
 | 84–90 | Cell phone (connects to any cellular network and works for 8 hours before becoming useless) |
-| 91–96 | First aid kit                                                                               |
-| 97–00 | Roll twice more, ignoring results of 97–00                                                  |
+| 91–96 | First aid kit |
+| 97–00 | Roll twice more, ignoring results of 97–00 |
 
 *Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:* 35;
 *Weight:* 1 lb.

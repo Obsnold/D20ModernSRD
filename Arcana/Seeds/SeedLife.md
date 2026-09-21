@@ -1,15 +1,15 @@
 # Seed: Life
 
-| Stat                       | Value                 |
+| Stat | Value |
 |---|---|
-| School                     | Conjuration           |
-| Subschool                  | Healing               |
-| Knowledge (arcane lore) DC | 33                    |
-| Range                      | Touch                 |
-| Target                     | Dead creature touched |
-| Duration                   | Instantaneous         |
-| Saving Throw               | None (see text)       |
-| Spell Resistance           | Yes (harmless)        |
+| School | Conjuration |
+| Subschool | Healing |
+| Knowledge (arcane lore) DC | 33 |
+| Range | Touch |
+| Target | Dead creature touched |
+| Duration | Instantaneous |
+| Saving Throw | None (see text) |
+| Spell Resistance | Yes (harmless) |
 
 An incantation developed with the *life* seed will restore life and
 complete vigor to any deceased creature. The condition of the remains is

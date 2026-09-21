@@ -1,14 +1,14 @@
 # Seed: Dispel
 
-| Stat                       | Value                  |
+| Stat | Value |
 |---|---|
-| School                     | Abjuration             |
-| Knowledge (arcane lore) DC | 30                     |
-| Range                      | Medium                 |
-| Target                     | One creature or object |
-| Duration                   | Instantaneous          |
-| Saving Throw               | None                   |
-| Spell Resistance           | No                     |
+| School | Abjuration |
+| Knowledge (arcane lore) DC | 30 |
+| Range | Medium |
+| Target | One creature or object |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 You can end ongoing spells and incantations that have been cast on a
 creature or object, temporarily suppress the magical abilities of a

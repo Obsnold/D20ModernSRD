@@ -27,14 +27,14 @@ below.)
 
 **Table: Crew Quality**
 
-| Crew Quality | Skill Check Modifier<sup>1</sup> | Pilot’s Class Bonus to Defense | Pilot’s Dexterity Modifier | Gunner’s Modifier to Attack Bonus | Starship’s Base Purchase DC |
+| Crew Quality | Skill Check Modifier¹ | Pilot’s Class Bonus to Defense | Pilot’s Dexterity Modifier | Gunner’s Modifier to Attack Bonus | Starship’s Base Purchase DC |
 |---|---|---|---|---|---|
-| Untrained    | +0                               | +1                             | +0                         | –4                                | –4                          |
-| Trained      | +4                               | +3                             | +2                         | +2                                | 0                           |
-| Expert       | +8                               | +5                             | +4                         | +4                                | +4                          |
-| Ace          | +12                              | +7                             | +6                         | +8/+3                             | +8                          |
+| Untrained | +0 | +1 | +0 | –4 | –4 |
+| Trained | +4 | +3 | +2 | +2 | 0 |
+| Expert | +8 | +5 | +4 | +4 | +4 |
+| Ace | +12 | +7 | +6 | +8/+3 | +8 |
 
-1 This includes Pilot checks.
+¹ This includes Pilot checks.
 
 ## Crew Improvement
 
@@ -50,7 +50,7 @@ minimum amount of ship-to-ship combat experience.
 
 | Crew Quality | Length of Tour of Duty | Starship Battles Survived |
 |---|---|---|
-| Untrained    | 0–5 months             | 0                         |
-| Trained      | 6–11 months            | 0–3                       |
-| Expert       | 12–35 months           | 4–11                      |
-| Ace          | 3 years or more        | 12+                       |
+| Untrained | 0–5 months | 0 |
+| Trained | 6–11 months | 0–3 |
+| Expert | 12–35 months | 4–11 |
+| Ace | 3 years or more | 12+ |

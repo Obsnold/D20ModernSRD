@@ -63,39 +63,39 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 
 ## Chemical Golem
 
-| Stat              | Value                                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 10                                                                                                   |
-| Size              | Large                                                                                                |
-| Type              | construct                                                                                            |
-| HD                | 9d10                                                                                                 |
-| hp                | 49                                                                                                   |
-| Mas               | —                                                                                                    |
-| Init              | –1                                                                                                   |
-| Spd               | 20 ft (can’t run)                                                                                    |
-| Defense           | 20                                                                                                   |
-| Touch             | 8                                                                                                    |
-| Flat-Footed       | 19                                                                                                   |
-| Defense Breakdown | –1 size, –1 Dex, +10 natural                                                                         |
-| BAB               | +11                                                                                                  |
-| Grap              | +15                                                                                                  |
-| Atk               | +11 melee (2d8+6, slam)                                                                              |
-| Full Atk          | +11 melee (2d8+6, 2 slams) or +10 ranged                                                             |
-| FS                | 5 ft. by 5 ft.                                                                                       |
-| Reach             | 10 ft.                                                                                               |
-| SQ                | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |
-| AL                | creator                                                                                              |
-| Fort              | +3                                                                                                   |
-| Ref               | +2                                                                                                   |
-| Will              | +3                                                                                                   |
-| AP                | 0                                                                                                    |
-| Rep               | +0                                                                                                   |
-| Str               | 23                                                                                                   |
-| Dex               | 9                                                                                                    |
-| Con               | —                                                                                                    |
-| Int               | —                                                                                                    |
-| Wis               | 10                                                                                                   |
-| Cha               | 1                                                                                                    |
+| CR | 10 |
+| Size | Large |
+| Type | construct |
+| HD | 9d10 |
+| hp | 49 |
+| Mas | — |
+| Init | –1 |
+| Spd | 20 ft (can’t run) |
+| Defense | 20 |
+| Touch | 8 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –1 size, –1 Dex, +10 natural |
+| BAB | +11 |
+| Grap | +15 |
+| Atk | +11 melee (2d8+6, slam) |
+| Full Atk | +11 melee (2d8+6, 2 slams) or +10 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 10 ft. |
+| SQ | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |
+| AL | creator |
+| Fort | +3 |
+| Ref | +2 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 23 |
+| Dex | 9 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** None.
 
@@ -105,39 +105,39 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 
 ## Advanced Chemical Golem
 
-| Stat              | Value                                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 13                                                                                                   |
-| Size              | Huge                                                                                                 |
-| Type              | construct                                                                                            |
-| HD                | 19d10                                                                                                |
-| hp                | 104                                                                                                  |
-| Mas               | —                                                                                                    |
-| Init              | –2                                                                                                   |
-| Spd               | 20 ft (can’t run)                                                                                    |
-| Defense           | 23                                                                                                   |
-| Touch             | 8                                                                                                    |
-| Flat-Footed       | 18                                                                                                   |
-| Defense Breakdown | –2 size, –2 Dex, +13 natural                                                                         |
-| BAB               | +11                                                                                                  |
-| Grap              | +15                                                                                                  |
-| Atk               | +11 melee (2d8+6, slam)                                                                              |
-| Full Atk          | +11 melee (2d8+6, 2 slams) or +10 ranged                                                             |
-| FS                | 5 ft. by 5 ft.                                                                                       |
-| Reach             | 10 ft.                                                                                               |
-| SQ                | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |
-| AL                | creator                                                                                              |
-| Fort              | +6                                                                                                   |
-| Ref               | +4                                                                                                   |
-| Will              | +6                                                                                                   |
-| AP                | 0                                                                                                    |
-| Rep               | +0                                                                                                   |
-| Str               | 31                                                                                                   |
-| Dex               | 7                                                                                                    |
-| Con               | —                                                                                                    |
-| Int               | —                                                                                                    |
-| Wis               | 10                                                                                                   |
-| Cha               | 1                                                                                                    |
+| CR | 13 |
+| Size | Huge |
+| Type | construct |
+| HD | 19d10 |
+| hp | 104 |
+| Mas | — |
+| Init | –2 |
+| Spd | 20 ft (can’t run) |
+| Defense | 23 |
+| Touch | 8 |
+| Flat-Footed | 18 |
+| Defense Breakdown | –2 size, –2 Dex, +13 natural |
+| BAB | +11 |
+| Grap | +15 |
+| Atk | +11 melee (2d8+6, slam) |
+| Full Atk | +11 melee (2d8+6, 2 slams) or +10 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 10 ft. |
+| SQ | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |
+| AL | creator |
+| Fort | +6 |
+| Ref | +4 |
+| Will | +6 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 31 |
+| Dex | 7 |
+| Con | — |
+| Int | — |
+| Wis | 10 |
+| Cha | 1 |
 
 **Skills:** None.
 

@@ -1,17 +1,17 @@
 # Mindwipe
 
-| Stat               | Value                           |
+| Stat | Value |
 |---|---|
-| Key Ability        | Charisma                        |
-| Level              | Telepath 4                      |
-| Display            | Audible, Material, Visual       |
-| Manifestation Time | Attack action                   |
-| Range              | Close (25 ft. + 5 ft./2 levels) |
-| Target             | One living creature             |
-| Duration           | Instantaneous                   |
-| Saving Throw       | Fortitude negates               |
-| Power Resistance   | Yes                             |
-| Power Point Cost   | 7                               |
+| Key Ability | Charisma |
+| Level | Telepath 4 |
+| Display | Audible, Material, Visual |
+| Manifestation Time | Attack action |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Target | One living creature |
+| Duration | Instantaneous |
+| Saving Throw | Fortitude negates |
+| Power Resistance | Yes |
+| Power Point Cost | 7 |
 
 You partially wipe your victim’s mind of past experiences, bestowing one
 negative level per two manifester levels (maximum five negative levels).

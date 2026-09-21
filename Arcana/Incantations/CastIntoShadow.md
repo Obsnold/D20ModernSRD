@@ -1,17 +1,17 @@
 # Cast into Shadow
 
-| Stat             | Value                                                                |
+| Stat | Value |
 |---|---|
-| School           | Abjuration                                                           |
-| Skill Check      | Knowledge (arcane lore) DC 33, 6 successes (see text)                |
-| Failure          | Two consecutive failed skill checks                                  |
-| Components       | V, S, M, XP, B                                                       |
-| Casting Time     | 1 hour (minimum)                                                     |
-| Range            | 55 ft.                                                               |
-| Target           | One or more outsiders, no two of which can be more than 30 ft. apart |
-| Duration         | Permanent                                                            |
-| Saving Throw     | Fortitude negates (DC 17 + caster’s Cha modifier) and see text       |
-| Spell Resistance | Yes                                                                  |
+| School | Abjuration |
+| Skill Check | Knowledge (arcane lore) DC 33, 6 successes (see text) |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, M, XP, B |
+| Casting Time | 1 hour (minimum) |
+| Range | 55 ft. |
+| Target | One or more outsiders, no two of which can be more than 30 ft. apart |
+| Duration | Permanent |
+| Saving Throw | Fortitude negates (DC 17 + caster’s Cha modifier) and see text |
+| Spell Resistance | Yes |
 
 The *cast into Shadow* incantation enables you to force outsiders
 (usually, but not always, fiends) away from the world you know, trapping

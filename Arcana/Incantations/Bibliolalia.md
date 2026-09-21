@@ -1,17 +1,17 @@
 # Bibliolalia
 
-| Stat             | Value                                      |
+| Stat | Value |
 |---|---|
-| School           | Divination                                 |
-| Skill Check      | Knowledge (arcane lore) DC 33, 6 successes |
-| Failure          | Two consecutive failed skill checks        |
-| Components       | V, S, F, XP                                |
-| Casting Time     | 60 minutes (minimum)                       |
-| Range            | Personal                                   |
-| Target           | You                                        |
-| Duration         | Instantaneous                              |
-| Saving Throw     | None                                       |
-| Spell Resistance | No                                         |
+| School | Divination |
+| Skill Check | Knowledge (arcane lore) DC 33, 6 successes |
+| Failure | Two consecutive failed skill checks |
+| Components | V, S, F, XP |
+| Casting Time | 60 minutes (minimum) |
+| Range | Personal |
+| Target | You |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | No |
 
 The *bibliolalia* incantation puts you in an oracular trance as you pore
 through books in a library. At the incantation’s conclusion, you uncover

@@ -46,7 +46,7 @@ cannot follow tracks using Search.
 | Condition | DC Modifier |
 |---|---|
 | Every three targets in the group being tracked | –1 |
-| **Size of targets being tracked: <sup>1</sup>** | |
+| **Size of targets being tracked: ¹** | |
 | Fine | +8 |
 | Diminutive | +4 |
 | Tiny | +2 |
@@ -65,5 +65,5 @@ cannot follow tracks using Search.
 | Fog or precipitation | +3 |
 | Tracked target hides trail (and moves at half speed) | +5 |
 
-1 For a group of mixed sizes, apply only the modifier for the largest size category represented.
+¹ For a group of mixed sizes, apply only the modifier for the largest size category represented.
 2 Apply only the largest modifier from this category.

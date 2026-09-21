@@ -57,39 +57,39 @@ expelled.
 
 ## Satanic Ichor
 
-| Stat              | Value                                                                                |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                                                    |
-| Size              | Small                                                                                |
-| Type              | ooze                                                                                 |
-| HD                | 2d10+10                                                                              |
-| hp                | 21                                                                                   |
-| Mas               | —                                                                                    |
-| Init              | +0                                                                                   |
-| Spd               | 10 ft., climb 10 ft., fly 20 ft. (average)                                           |
-| Defense           | 11                                                                                   |
-| Touch             | 11                                                                                   |
-| Flat-Footed       | 11                                                                                   |
-| Defense Breakdown | +1 size                                                                              |
-| BAB               | +1                                                                                   |
-| Grap              | +0                                                                                   |
-| Atk               | +1 melee touch (1d4–1 plus special, slam)                                            |
-| Full Atk          | +1 melee touch (1d4–1 plus special, slam)                                            |
-| FS                | 5 ft. by 5 ft.                                                                       |
-| Reach             | 5 ft.                                                                                |
-| SQ                | blindsight 120 ft., corrupt the mind, immunities, traits, telepathy, vessel of flesh |
-| AL                | evil                                                                                 |
-| Fort              | +0                                                                                   |
-| Ref               | +0                                                                                   |
-| Will              | +3                                                                                   |
-| AP                | 0                                                                                    |
-| Rep               | +0                                                                                   |
-| Str               | 9                                                                                    |
-| Dex               | 11                                                                                   |
-| Con               | 11                                                                                   |
-| Int               | 18                                                                                   |
-| Wis               | 17                                                                                   |
-| Cha               | 18                                                                                   |
+| CR | 4 |
+| Size | Small |
+| Type | ooze |
+| HD | 2d10+10 |
+| hp | 21 |
+| Mas | — |
+| Init | +0 |
+| Spd | 10 ft., climb 10 ft., fly 20 ft. (average) |
+| Defense | 11 |
+| Touch | 11 |
+| Flat-Footed | 11 |
+| Defense Breakdown | +1 size |
+| BAB | +1 |
+| Grap | +0 |
+| Atk | +1 melee touch (1d4–1 plus special, slam) |
+| Full Atk | +1 melee touch (1d4–1 plus special, slam) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | blindsight 120 ft., corrupt the mind, immunities, traits, telepathy, vessel of flesh |
+| AL | evil |
+| Fort | +0 |
+| Ref | +0 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 9 |
+| Dex | 11 |
+| Con | 11 |
+| Int | 18 |
+| Wis | 17 |
+| Cha | 18 |
 
 **Skills:** None.
 
@@ -99,38 +99,38 @@ expelled.
 
 ## Advanced Satanic Ichor
 
-| Stat              | Value                                                                                              |
+| Stat | Value |
 |---|---|
-| CR                | 10                                                                                                 |
-| Size              | Medium-size                                                                                        |
-| Type              | ooze                                                                                               |
-| HD                | 8d10+36                                                                                            |
-| hp                | 80                                                                                                 |
-| Mas               | —                                                                                                  |
-| Init              | +0                                                                                                 |
-| Spd               | 10 ft., climb 10 ft., fly 20 ft. (average)                                                         |
-| Defense           | 11                                                                                                 |
-| Touch             | 9                                                                                                  |
-| Flat-Footed       | 11                                                                                                 |
-| Defense Breakdown | –1 Dex, +2 natural                                                                                 |
-| BAB               | +6                                                                                                 |
-| Grap              | +9                                                                                                 |
-| Atk               | +9 melee touch (1d6+4 plus special, slam)                                                          |
-| Full Atk          | +9/+4 melee touch (1d6+4 plus special, slam)                                                       |
-| FS                | 10 ft. by 10 ft.                                                                                   |
-| Reach             | 10 ft.                                                                                             |
-| SQ                | blindsight 120 ft., corrupt the mind (DC 18), immunities, ooze, telepathy, vessel of flesh (DC 18) |
-| AL                | evil                                                                                               |
-| Fort              | +4                                                                                                 |
-| Ref               | +1                                                                                                 |
-| Will              | +5                                                                                                 |
-| AP                | 0                                                                                                  |
-| Rep               | +0                                                                                                 |
-| Str               | 17                                                                                                 |
-| Dex               | 9                                                                                                  |
-| Con               | 15                                                                                                 |
-| Int               | 18                                                                                                 |
-| Wis               | 17                                                                                                 |
-| Cha               | 18. **Skills:** None                                                                               |
+| CR | 10 |
+| Size | Medium-size |
+| Type | ooze |
+| HD | 8d10+36 |
+| hp | 80 |
+| Mas | — |
+| Init | +0 |
+| Spd | 10 ft., climb 10 ft., fly 20 ft. (average) |
+| Defense | 11 |
+| Touch | 9 |
+| Flat-Footed | 11 |
+| Defense Breakdown | –1 Dex, +2 natural |
+| BAB | +6 |
+| Grap | +9 |
+| Atk | +9 melee touch (1d6+4 plus special, slam) |
+| Full Atk | +9/+4 melee touch (1d6+4 plus special, slam) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | blindsight 120 ft., corrupt the mind (DC 18), immunities, ooze, telepathy, vessel of flesh (DC 18) |
+| AL | evil |
+| Fort | +4 |
+| Ref | +1 |
+| Will | +5 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 17 |
+| Dex | 9 |
+| Con | 15 |
+| Int | 18 |
+| Wis | 17 |
+| Cha | 18. **Skills:** None |
 
 **Feats:** None.

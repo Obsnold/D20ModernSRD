@@ -56,9 +56,9 @@ write these languages.
 | Roll d% | Immunity | Roll d% | Resistance | Roll d% | Damage Reduction |
 |---|---|---|---|---|---|
 | 01–06 | Acid damage | 01–21 | None (do not roll again) | 01–33 | None (do not roll again) |
-| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type <sup>1</sup> |
-| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type<sup>1</sup> |
-| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type<sup>1</sup> |
+| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type ¹ |
+| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type¹ |
+| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type¹ |
 | 25–30 | Fire damage | 37–39 | Cold resistance 20 | 64–72 | 5/+1 |
 | 31–36 | Ballistic damage | 40–45 | Sonic/concussion resistance 10 | 73–81 | 10/+1 |
 | 37–42 | Bludgeoning damage | 46–48 | Sonic/concussion resistance 20 | 82–84 | 15/+1 |
@@ -68,7 +68,7 @@ write these languages.
 | 61–66 | Radiation damage | 64–66 | Fire resistance 20 | 94–98 | 15/+2 |
 | 67–100 | Choose one, and roll again | 67–100 | Choose one, and roll again | 99–100 | 20/+2 |
 
-1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
+¹ Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
 
 ## Festergog (Vomit Fiend)
 

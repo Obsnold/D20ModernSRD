@@ -142,38 +142,38 @@ first 10 points of fire damage dealt by any single attack.
 
 ## Dreamghast (Sidhe)
 
-| Stat              | Value                                                                                                                                                            |
+| Stat | Value |
 |---|---|
-| CR                | 7                                                                                                                                                                |
-| Size/Type         | Medium fey                                                                                                                                                       |
-| HD                | 10d6+10                                                                                                                                                          |
-| hp                | 45                                                                                                                                                               |
-| Mas               | 16                                                                                                                                                               |
-| Init              | +2                                                                                                                                                               |
-| Spd               | 30 ft.                                                                                                                                                           |
-| Defense           | 17                                                                                                                                                               |
-| Touch             | 12                                                                                                                                                               |
-| Flat-Footed       | 15                                                                                                                                                               |
-| Defense Breakdown | +2 Dex, +5 natural                                                                                                                                               |
-| BAB               | +5                                                                                                                                                               |
-| Grap              | +6                                                                                                                                                               |
-| Atk               | +6 melee (1d6+1/19–20, machete) or +6 ranged                                                                                                                     |
-| Full Atk          | +4 melee (1d6+1/19–20, machete), +0 melee (1d6/19–20, 3 machetes) or +6 ranged                                                                                   |
-| FS                | 5 ft. by 5 ft.                                                                                                                                                   |
-| Reach             | 5 ft.                                                                                                                                                            |
-| SQ                | fascinate, *change self,* despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
-| AL                | chaos, evil                                                                                                                                                      |
-| Fort              | +4                                                                                                                                                               |
-| Ref               | +5                                                                                                                                                               |
-| Will              | +8                                                                                                                                                               |
-| AP                | 0                                                                                                                                                                |
-| Rep               | +0                                                                                                                                                               |
-| Str               | 12                                                                                                                                                               |
-| Dex               | 14                                                                                                                                                               |
-| Con               | 13                                                                                                                                                               |
-| Int               | 11                                                                                                                                                               |
-| Wis               | 13                                                                                                                                                               |
-| Cha               | 20                                                                                                                                                               |
+| CR | 7 |
+| Size/Type | Medium fey |
+| HD | 10d6+10 |
+| hp | 45 |
+| Mas | 16 |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 17 |
+| Touch | 12 |
+| Flat-Footed | 15 |
+| Defense Breakdown | +2 Dex, +5 natural |
+| BAB | +5 |
+| Grap | +6 |
+| Atk | +6 melee (1d6+1/19–20, machete) or +6 ranged |
+| Full Atk | +4 melee (1d6+1/19–20, machete), +0 melee (1d6/19–20, 3 machetes) or +6 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | fascinate, *change self,* despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
+| AL | chaos, evil |
+| Fort | +4 |
+| Ref | +5 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 12 |
+| Dex | 14 |
+| Con | 13 |
+| Int | 11 |
+| Wis | 13 |
+| Cha | 20 |
 
 **Skills:** Concentration +14, Intimidate +18, Listen
 +13, Spot +14.
@@ -219,38 +219,38 @@ Hide, Listen, Move Silently, Perform, and Spot checks.
 
 ## Faun (Sidhe)
 
-| Stat              | Value                                                                                                    |
+| Stat | Value |
 |---|---|
-| CR                | 4                                                                                                        |
-| Size/Type         | Medium fey                                                                                               |
-| HD                | 5d6                                                                                                      |
-| hp                | 17                                                                                                       |
-| Mas               | 11                                                                                                       |
-| Init              | +2                                                                                                       |
-| Spd               | 30 ft.                                                                                                   |
-| Defense           | 14                                                                                                       |
-| Touch             | 12                                                                                                       |
-| Flat-Footed       | 12                                                                                                       |
-| Defense Breakdown | +2 Dex, +2 natural                                                                                       |
-| BAB               | +2                                                                                                       |
-| Grap              | +2                                                                                                       |
-| Atk               | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                 |
-| Full Atk          | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                 |
-| FS                | 5 ft. by 5 ft.                                                                                           |
-| Reach             | 5 ft.                                                                                                    |
-| SA                | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, lowlight vision* |
-| ??                | *AL chaos                                                                                                |
-| Fort              | +3                                                                                                       |
-| Ref               | +3                                                                                                       |
-| Will              | +3                                                                                                       |
-| AP                | 0                                                                                                        |
-| Rep               | +0                                                                                                       |
-| Str               | 10                                                                                                       |
-| Dex               | 15                                                                                                       |
-| Con               | 11                                                                                                       |
-| Int               | 10                                                                                                       |
-| Wis               | 9                                                                                                        |
-| Cha               | 14                                                                                                       |
+| CR | 4 |
+| Size/Type | Medium fey |
+| HD | 5d6 |
+| hp | 17 |
+| Mas | 11 |
+| Init | +2 |
+| Spd | 30 ft. |
+| Defense | 14 |
+| Touch | 12 |
+| Flat-Footed | 12 |
+| Defense Breakdown | +2 Dex, +2 natural |
+| BAB | +2 |
+| Grap | +2 |
+| Atk | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python) |
+| Full Atk | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python) |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SA | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, lowlight vision* |
+| ?? | *AL chaos |
+| Fort | +3 |
+| Ref | +3 |
+| Will | +3 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 10 |
+| Dex | 15 |
+| Con | 11 |
+| Int | 10 |
+| Wis | 9 |
+| Cha | 14 |
 
 **Skills:** Bluff +10, Disguise +12, Hide +14, Listen
 +3, Move Silently +12, Perform (sing) +14, Perform (any one) +14, Spot

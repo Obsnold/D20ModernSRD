@@ -1,17 +1,17 @@
 # Ubiquitous Vision
 
-| Stat               | Value              |
+| Stat | Value |
 |---|---|
-| Key Ability        | Wisdom             |
-| Level              | Psionic Agent 3    |
-| Display            | Visual             |
-| Manifestation Time | Attack action      |
-| Range              | Personal           |
-| Target             | You                |
-| Duration           | 2 rounds/level (D) |
-| Saving Throw       | None               |
-| Power Resistance   | No                 |
-| Power Point Cost   | 5                  |
+| Key Ability | Wisdom |
+| Level | Psionic Agent 3 |
+| Display | Visual |
+| Manifestation Time | Attack action |
+| Range | Personal |
+| Target | You |
+| Duration | 2 rounds/level (D) |
+| Saving Throw | None |
+| Power Resistance | No |
+| Power Point Cost | 5 |
 
 You have “eyes in the back of your head,” and in the sides and top as
 well (though only in effect, not literally). In effect, you have a

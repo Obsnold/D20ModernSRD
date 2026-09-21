@@ -37,39 +37,39 @@ Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
 
 ## Megalodon
 
-| Stat              | Value                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 11                                                                            |
-| Size              | Gargantuan                                                                    |
-| Type              | animal                                                                        |
-| HD                | 24d8+168                                                                      |
-| hp                | 264                                                                           |
-| Mas               | 24                                                                            |
-| Init              | +2                                                                            |
-| Spd               | swim 120 ft.                                                                  |
-| Defense           | 20                                                                            |
-| Touch             | 8                                                                             |
-| Flat-Footed       | 18                                                                            |
-| Defense Breakdown | –4 size, +2 Dex, +12 natural                                                  |
-| BAB               | +18                                                                           |
-| Grap              | +36                                                                           |
-| Atk               | +24 melee (4d6+10, bite)                                                      |
-| Full Atk          | +24/+19/+14/+9 melee (4d6+10, bite)                                           |
-| FS                | 20 ft. by 40 ft.                                                              |
-| Reach             | 10 ft.                                                                        |
-| SQ                | darkvision 60 ft., improved grab, keen scent, low-light vision, swallow whole |
-| AL                | none                                                                          |
-| Fort              | +21                                                                           |
-| Ref               | +16                                                                           |
-| Will              | +9                                                                            |
-| AP                | 0                                                                             |
-| Rep               | +0                                                                            |
-| Str               | 31                                                                            |
-| Dex               | 15                                                                            |
-| Con               | 24                                                                            |
-| Int               | 1                                                                             |
-| Wis               | 12                                                                            |
-| Cha               | 10                                                                            |
+| CR | 11 |
+| Size | Gargantuan |
+| Type | animal |
+| HD | 24d8+168 |
+| hp | 264 |
+| Mas | 24 |
+| Init | +2 |
+| Spd | swim 120 ft. |
+| Defense | 20 |
+| Touch | 8 |
+| Flat-Footed | 18 |
+| Defense Breakdown | –4 size, +2 Dex, +12 natural |
+| BAB | +18 |
+| Grap | +36 |
+| Atk | +24 melee (4d6+10, bite) |
+| Full Atk | +24/+19/+14/+9 melee (4d6+10, bite) |
+| FS | 20 ft. by 40 ft. |
+| Reach | 10 ft. |
+| SQ | darkvision 60 ft., improved grab, keen scent, low-light vision, swallow whole |
+| AL | none |
+| Fort | +21 |
+| Ref | +16 |
+| Will | +9 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 31 |
+| Dex | 15 |
+| Con | 24 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 10 |
 
 **Skills:** Hide –10, Listen +6, Spot +6, Swim +15.
 
@@ -79,39 +79,39 @@ Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
 
 ## Advanced Megalodon
 
-| Stat              | Value                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 17                                                                            |
-| Size              | Colossal                                                                      |
-| Type              | animal                                                                        |
-| HD                | 49d8+441                                                                      |
-| hp                | 637                                                                           |
-| Mas               | 28                                                                            |
-| Init              | +2                                                                            |
-| Spd               | swim 120 ft.                                                                  |
-| Defense           | 21                                                                            |
-| Touch             | 4                                                                             |
-| Flat-Footed       | 19                                                                            |
-| Defense Breakdown | –8 size, +2 Dex, +17 natural                                                  |
-| BAB               | +43                                                                           |
-| Grap              | +74                                                                           |
-| Atk               | +58 melee (5d6+15, bite)                                                      |
-| Full Atk          | +58/+53/+48/+43 melee (5d6+15, bite)                                          |
-| FS                | 30 ft. by 50 ft.                                                              |
-| Reach             | 10 ft.                                                                        |
-| SQ                | darkvision 60 ft., improved grab, keen scent, low-light vision, swallow whole |
-| AL                | none                                                                          |
-| Fort              | +35                                                                           |
-| Ref               | +16                                                                           |
-| Will              | +9                                                                            |
-| AP                | 0                                                                             |
-| Rep               | +0                                                                            |
-| Str               | 39                                                                            |
-| Dex               | 15                                                                            |
-| Con               | 28                                                                            |
-| Int               | 1                                                                             |
-| Wis               | 12                                                                            |
-| Cha               | 10                                                                            |
+| CR | 17 |
+| Size | Colossal |
+| Type | animal |
+| HD | 49d8+441 |
+| hp | 637 |
+| Mas | 28 |
+| Init | +2 |
+| Spd | swim 120 ft. |
+| Defense | 21 |
+| Touch | 4 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –8 size, +2 Dex, +17 natural |
+| BAB | +43 |
+| Grap | +74 |
+| Atk | +58 melee (5d6+15, bite) |
+| Full Atk | +58/+53/+48/+43 melee (5d6+15, bite) |
+| FS | 30 ft. by 50 ft. |
+| Reach | 10 ft. |
+| SQ | darkvision 60 ft., improved grab, keen scent, low-light vision, swallow whole |
+| AL | none |
+| Fort | +35 |
+| Ref | +16 |
+| Will | +9 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 39 |
+| Dex | 15 |
+| Con | 28 |
+| Int | 1 |
+| Wis | 12 |
+| Cha | 10 |
 
 **Skills:** Hide –10, Listen +6, Spot +6, Swim +20.
 

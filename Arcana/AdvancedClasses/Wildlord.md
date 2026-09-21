@@ -40,18 +40,18 @@ sciences), Move Silently (Dex), Navigate (Int), Pilot (Dex), Profession
 
 **Table: The Wildlord**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st   | +0                | +2        | +0       | +2        | Animal empathy                  | +1            | +1               |
-| 2nd   | +1                | +3        | +0       | +3        | Track, animal companion         | +1            | +1               |
-| 3rd   | +2                | +3        | +1       | +3        | Bonus feat, fast climb          | +2            | +1               |
-| 4th   | +3                | +4        | +1       | +4        | Resist venom, call companion    | +2            | +2               |
-| 5th   | +3                | +4        | +1       | +4        | Skill mastery                   | +3            | +2               |
-| 6th   | +4                | +5        | +2       | +5        | Bonus feat                      | +3            | +2               |
-| 7th   | +5                | +5        | +2       | +5        | Expert in your field            | +4            | +3               |
-| 8th   | +6                | +6        | +2       | +6        | Command/rebuke animals          | +4            | +3               |
-| 9th   | +6                | +6        | +3       | +6        | Bonus feat, transform companion | +5            | +3               |
-| 10th  | +7                | +7        | +3       | +7        | Command/rebuke magical beasts   | +5            | +4               |
+| 1st | +0 | +2 | +0 | +2 | Animal empathy | +1 | +1 |
+| 2nd | +1 | +3 | +0 | +3 | Track, animal companion | +1 | +1 |
+| 3rd | +2 | +3 | +1 | +3 | Bonus feat, fast climb | +2 | +1 |
+| 4th | +3 | +4 | +1 | +4 | Resist venom, call companion | +2 | +2 |
+| 5th | +3 | +4 | +1 | +4 | Skill mastery | +3 | +2 |
+| 6th | +4 | +5 | +2 | +5 | Bonus feat | +3 | +2 |
+| 7th | +5 | +5 | +2 | +5 | Expert in your field | +4 | +3 |
+| 8th | +6 | +6 | +2 | +6 | Command/rebuke animals | +4 | +3 |
+| 9th | +6 | +6 | +3 | +6 | Bonus feat, transform companion | +5 | +3 |
+| 10th | +7 | +7 | +3 | +7 | Command/rebuke magical beasts | +5 | +4 |
 
 ## Class Features
 
@@ -180,15 +180,15 @@ ability to turn, command, or rebuke undead for the Acolyte*.*
 As the Wildlord grows in power and ability, so too does the power of her
 animal companion.
 
-| Class Level | Bonus HD | Natural Armor | Str/DexAdj. | Special            |
+| Class Level | Bonus HD | Natural Armor | Str/DexAdj. | Special |
 |---|---|---|---|---|
-| 2-3         | +0       | 0             | +0          | Link, share spells |
-| 4–5         | +2       | 2             | +1          | Evasion            |
-| 6           | +4       | 4             | +2          | Devotion           |
-| 7           | +6       | 6             | +3          | Multiattack        |
-| 8           | +8       | 8             | +4          |                    |
-| 9           | +10      | 10            | +5          | Improved evasion   |
-| 10          | +12      | 12            | +6          |                    |
+| 2-3 | +0 | 0 | +0 | Link, share spells |
+| 4–5 | +2 | 2 | +1 | Evasion |
+| 6 | +4 | 4 | +2 | Devotion |
+| 7 | +6 | 6 | +3 | Multiattack |
+| 8 | +8 | 8 | +4 | |
+| 9 | +10 | 10 | +5 | Improved evasion |
+| 10 | +12 | 12 | +6 | |
 
 *Class Level:* The level of the Wildlord.
 

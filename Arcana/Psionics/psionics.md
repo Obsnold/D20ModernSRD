@@ -50,18 +50,18 @@ Listen (Wis), Move Silently (Dex), Profession (Wis), Read/Write Language
 
 **Table:The Psionic Agent**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
-| 1st   | +0                | +0        | +2       | +0        | Psionic skills, psionic powers       | +1            | +0               |
-| 2nd   | +1                | +0        | +3       | +0        | Psionic Focus, psionic powers        | +2            | +0               |
-| 3rd   | +2                | +1        | +3       | +1        | Bonus feat, psionic powers           | +2            | +0               |
-| 4th   | +3                | +1        | +4       | +1        | Draw power, psionic powers           | +3            | +0               |
-| 5th   | +3                | +1        | +4       | +1        | Charged shot, psionic powers         | +4            | +1               |
-| 6th   | +4                | +2        | +5       | +2        | Bonus feat, psionic powers           | +4            | +1               |
-| 7th   | +5                | +2        | +5       | +2        | Combat Manifestation, psionic powers | +5            | +1               |
-| 8th   | +6                | +2        | +6       | +2        | Power penetration, psionic powers    | +6            | +1               |
-| 9th   | +6                | +3        | +6       | +3        | Bonus feat, psionic powers           | +7            | +2               |
-| 10th  | +7                | +3        | +7       | +3        | Deadly Aim, psionic powers           | +7            | +2               |
+| 1st | +0 | +0 | +2 | +0 | Psionic skills, psionic powers | +1 | +0 |
+| 2nd | +1 | +0 | +3 | +0 | Psionic Focus, psionic powers | +2 | +0 |
+| 3rd | +2 | +1 | +3 | +1 | Bonus feat, psionic powers | +2 | +0 |
+| 4th | +3 | +1 | +4 | +1 | Draw power, psionic powers | +3 | +0 |
+| 5th | +3 | +1 | +4 | +1 | Charged shot, psionic powers | +4 | +1 |
+| 6th | +4 | +2 | +5 | +2 | Bonus feat, psionic powers | +4 | +1 |
+| 7th | +5 | +2 | +5 | +2 | Combat Manifestation, psionic powers | +5 | +1 |
+| 8th | +6 | +2 | +6 | +2 | Power penetration, psionic powers | +6 | +1 |
+| 9th | +6 | +3 | +6 | +3 | Bonus feat, psionic powers | +7 | +2 |
+| 10th | +7 | +3 | +7 | +3 | Deadly Aim, psionic powers | +7 | +2 |
 
 Class Features
 
@@ -92,19 +92,19 @@ indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Psionic Agent’s key ability modifier.
 
-| Psionic Agent Level | Pts/Day | Powers Discovered by Level |       |       |       |       |
+| Psionic Agent Level | Pts/Day | Powers Discovered by Level | | | | |
 |---|---|---|---|---|---|---|
-|                     |         | **0**                      |** 1** |** 2** |** 3** |** 4** |
-| 1                   | 2       | 2                          | —     | —     | —     | —     |
-| 2                   | 3       | 3                          | —     | —     | —     | —     |
-| 3                   | 4       | 3                          | 1     | —     | —     | —     |
-| 4                   | 5       | 3                          | 2     | —     | —     | —     |
-| 5                   | 8       | 3                          | 3     | 1     | —     | —     |
-| 6                   | 11      | 3                          | 3     | 2     | —     | —     |
-| 7                   | 16      | 3                          | 3     | 2     | 1     | —     |
-| 8                   | 21      | 3                          | 3     | 3     | 1     | —     |
-| 9                   | 26      | 3                          | 3     | 3     | 2     | —     |
-| 10                  | 33      | 3                          | 3     | 3     | 2     | 1     |
+| | | **0** |** 1** |** 2** |** 3** |** 4** |
+| 1 | 2 | 2 | — | — | — | — |
+| 2 | 3 | 3 | — | — | — | — |
+| 3 | 4 | 3 | 1 | — | — | — |
+| 4 | 5 | 3 | 2 | — | — | — |
+| 5 | 8 | 3 | 3 | 1 | — | — |
+| 6 | 11 | 3 | 3 | 2 | — | — |
+| 7 | 16 | 3 | 3 | 2 | 1 | — |
+| 8 | 21 | 3 | 3 | 3 | 1 | — |
+| 9 | 26 | 3 | 3 | 3 | 2 | — |
+| 10 | 33 | 3 | 3 | 3 | 2 | 1 |
 
 A Psionic Agent can manifest a certain number of powers per day based on
 her available power points. (0-level powers have a special cost.) She

@@ -61,39 +61,39 @@ enemies, sniff out hidden foes, and track by sense of smell.
 
 ## Rogue Tulpa
 
-| Stat              | Value                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 8                                                                                                                             |
-| Size              | Large                                                                                                                         |
-| Type              | monstrous humanoid                                                                                                            |
-| HD                | 6d8+30                                                                                                                        |
-| hp                | 57                                                                                                                            |
-| Mas               | 21                                                                                                                            |
-| Init              | +5                                                                                                                            |
-| Spd               | 30 ft.                                                                                                                        |
-| Defense           | 18                                                                                                                            |
-| Touch             | 10                                                                                                                            |
-| Flat-Footed       | 17                                                                                                                            |
-| Defense Breakdown | –1 size, +1 Dex, +8 natural                                                                                                   |
-| BAB               | +6                                                                                                                            |
-| Grap              | +16                                                                                                                           |
-| Atk               | +11 melee (1d6+6, claw)                                                                                                       |
-| Full Atk          | +11 melee (1d6+6, 2 claws) and +6 melee (1d6+3 plus 1d4 Int, bite)                                                            |
-| FS                | 10 ft. by 10 ft.                                                                                                              |
-| Reach             | 10 ft.                                                                                                                        |
-| SQ                | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
-| AL                | chaos, evil                                                                                                                   |
-| Fort              | +7                                                                                                                            |
-| Ref               | +6                                                                                                                            |
-| Will              | +8                                                                                                                            |
-| AP                | 0                                                                                                                             |
-| Rep               | +0                                                                                                                            |
-| Str               | 23                                                                                                                            |
-| Dex               | 12                                                                                                                            |
-| Con               | 21                                                                                                                            |
-| Int               | 10                                                                                                                            |
-| Wis               | 16                                                                                                                            |
-| Cha               | 6                                                                                                                             |
+| CR | 8 |
+| Size | Large |
+| Type | monstrous humanoid |
+| HD | 6d8+30 |
+| hp | 57 |
+| Mas | 21 |
+| Init | +5 |
+| Spd | 30 ft. |
+| Defense | 18 |
+| Touch | 10 |
+| Flat-Footed | 17 |
+| Defense Breakdown | –1 size, +1 Dex, +8 natural |
+| BAB | +6 |
+| Grap | +16 |
+| Atk | +11 melee (1d6+6, claw) |
+| Full Atk | +11 melee (1d6+6, 2 claws) and +6 melee (1d6+3 plus 1d4 Int, bite) |
+| FS | 10 ft. by 10 ft. |
+| Reach | 10 ft. |
+| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
+| AL | chaos, evil |
+| Fort | +7 |
+| Ref | +6 |
+| Will | +8 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 23 |
+| Dex | 12 |
+| Con | 21 |
+| Int | 10 |
+| Wis | 16 |
+| Cha | 6 |
 
 **Skills:** Listen +14, Move Silently +3, Read/Write Navajo, Search +8,
 Speak Navajo, Spot +14.
@@ -104,39 +104,39 @@ Speak Navajo, Spot +14.
 
 ## Advanced Rogue Tulpa
 
-| Stat              | Value                                                                                                                         |
+| Stat | Value |
 |---|---|
-| CR                | 10                                                                                                                            |
-| Size              | Huge                                                                                                                          |
-| Type              | monstrous humanoid                                                                                                            |
-| HD                | 13d8+91                                                                                                                       |
-| hp                | 149                                                                                                                           |
-| Mas               | 25                                                                                                                            |
-| Init              | +5                                                                                                                            |
-| Spd               | 30 ft.                                                                                                                        |
-| Defense           | 19                                                                                                                            |
-| Touch             | 8                                                                                                                             |
-| Flat-Footed       | 19                                                                                                                            |
-| Defense Breakdown | –2 size, +11 natural                                                                                                          |
-| BAB               | +13                                                                                                                           |
-| Grap              | +31                                                                                                                           |
-| Atk               | +21 melee (2d4+10, claw)                                                                                                      |
-| Full Atk          | +21 melee (2d4+10, 2 claws) and +6 melee (1d8+5 plus 1d4 Int, bite)                                                           |
-| FS                | 15 ft. by 15 ft.                                                                                                              |
-| Reach             | 10 ft.                                                                                                                        |
-| SQ                | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
-| AL                | chaos, evil                                                                                                                   |
-| Fort              | +11                                                                                                                           |
-| Ref               | +8                                                                                                                            |
-| Will              | +11                                                                                                                           |
-| AP                | 0                                                                                                                             |
-| Rep               | +0                                                                                                                            |
-| Str               | 31                                                                                                                            |
-| Dex               | 10                                                                                                                            |
-| Con               | 25                                                                                                                            |
-| Int               | 10                                                                                                                            |
-| Wis               | 16                                                                                                                            |
-| Cha               | 6                                                                                                                             |
+| CR | 10 |
+| Size | Huge |
+| Type | monstrous humanoid |
+| HD | 13d8+91 |
+| hp | 149 |
+| Mas | 25 |
+| Init | +5 |
+| Spd | 30 ft. |
+| Defense | 19 |
+| Touch | 8 |
+| Flat-Footed | 19 |
+| Defense Breakdown | –2 size, +11 natural |
+| BAB | +13 |
+| Grap | +31 |
+| Atk | +21 melee (2d4+10, claw) |
+| Full Atk | +21 melee (2d4+10, 2 claws) and +6 melee (1d8+5 plus 1d4 Int, bite) |
+| FS | 15 ft. by 15 ft. |
+| Reach | 10 ft. |
+| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
+| AL | chaos, evil |
+| Fort | +11 |
+| Ref | +8 |
+| Will | +11 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 31 |
+| Dex | 10 |
+| Con | 25 |
+| Int | 10 |
+| Wis | 16 |
+| Cha | 6 |
 
 **Skills:** Listen +16, Move Silently +10, Read/Write Navajo, Search
 +11, Speak Navajo, Spot +16.

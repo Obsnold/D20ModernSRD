@@ -13,37 +13,37 @@ period of a few hours or days.
 
 ## “Nuyu” Replacement Robot
 
-| Stat        | Value                                                                                                 |
+| Stat | Value |
 |---|---|
-| CR          | 1                                                                                                     |
-| Size        | Medium-size                                                                                           |
-| Type        | construct                                                                                             |
-| HD          | 1d10+10                                                                                               |
-| hp          | 15                                                                                                    |
-| Mas         | —                                                                                                     |
-| Init        | +2 (+2 equipment)                                                                                     |
-| Spd         | 30 ft.                                                                                                |
-| Defense     | 10                                                                                                    |
-| Touch       | 10                                                                                                    |
-| Flat-Footed | 10                                                                                                    |
-| BAB         | +0                                                                                                    |
-| ??          | Grp +1                                                                                                |
-| Atk         | +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged                                             |
-| FS          | 5 ft. by 5 ft.                                                                                        |
-| Reach       | 5 ft.                                                                                                 |
-| SQ          | construct traits, critical systems, darkvision 120 ft., doubled range increments, lifelike appearance |
-| AL          | varies                                                                                                |
-| Fort        | +0                                                                                                    |
-| Ref         | +0                                                                                                    |
-| Will        | +0                                                                                                    |
-| AP          | 0                                                                                                     |
-| Rep         | +0                                                                                                    |
-| Str         | 12                                                                                                    |
-| Dex         | 11                                                                                                    |
-| Con         | —                                                                                                     |
-| Int         | 10                                                                                                    |
-| Wis         | 10                                                                                                    |
-| Cha         | 12                                                                                                    |
+| CR | 1 |
+| Size | Medium-size |
+| Type | construct |
+| HD | 1d10+10 |
+| hp | 15 |
+| Mas | — |
+| Init | +2 (+2 equipment) |
+| Spd | 30 ft. |
+| Defense | 10 |
+| Touch | 10 |
+| Flat-Footed | 10 |
+| BAB | +0 |
+| ?? | Grp +1 |
+| Atk | +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged |
+| FS | 5 ft. by 5 ft. |
+| Reach | 5 ft. |
+| SQ | construct traits, critical systems, darkvision 120 ft., doubled range increments, lifelike appearance |
+| AL | varies |
+| Fort | +0 |
+| Ref | +0 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 12 |
+| Dex | 11 |
+| Con | — |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 12 |
 
 **Skills:** Bluff +5, Computer Use +4, Diplomacy +5, Disable Device +4,
 Disguise +5, Drive +4, Gather Information +5, Hide +4, Knowledge

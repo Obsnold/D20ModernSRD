@@ -21,39 +21,39 @@ Fortitude saves to negate the effects of massive damage.
 
 ## Scorpion
 
-| Stat              | Value                                                             |
+| Stat | Value |
 |---|---|
-| CR                | 1/4                                                               |
-| Size              | Fine                                                              |
-| Type              | vermin                                                            |
-| HD                | 1/4 d8                                                            |
-| hp                | 2                                                                 |
-| Mas               | 4                                                                 |
-| Init              | +0                                                                |
-| Spd               | 10 ft.                                                            |
-| Defense           | 20                                                                |
-| Touch             | 18                                                                |
-| Flat-Footed       | 20                                                                |
-| Defense Breakdown | +8 size, +2 natural                                               |
-| BAB               | +0                                                                |
-| Grap              | –20                                                               |
-| Atk               | +8 melee (1d2–4, claw)                                            |
-| Full Atk          | +8 melee (1d2–4, 2 claws) and +3 melee (1d2–4 plus poison, sting) |
-| FS                | 6 in. by 6 in.                                                    |
-| Reach             | 0 ft.                                                             |
-| SQ                | darkvision 30 ft., improved grab, poison, vermin                  |
-| AL                | none                                                              |
-| Fort              | –1                                                                |
-| Ref               | +0                                                                |
-| Will              | +0                                                                |
-| AP                | 0                                                                 |
-| Rep               | +0                                                                |
-| Str               | 2                                                                 |
-| Dex               | 10                                                                |
-| Con               | 4                                                                 |
-| Int               | —                                                                 |
-| Wis               | 10                                                                |
-| Cha               | 2                                                                 |
+| CR | 1/4 |
+| Size | Fine |
+| Type | vermin |
+| HD | 1/4 d8 |
+| hp | 2 |
+| Mas | 4 |
+| Init | +0 |
+| Spd | 10 ft. |
+| Defense | 20 |
+| Touch | 18 |
+| Flat-Footed | 20 |
+| Defense Breakdown | +8 size, +2 natural |
+| BAB | +0 |
+| Grap | –20 |
+| Atk | +8 melee (1d2–4, claw) |
+| Full Atk | +8 melee (1d2–4, 2 claws) and +3 melee (1d2–4 plus poison, sting) |
+| FS | 6 in. by 6 in. |
+| Reach | 0 ft. |
+| SQ | darkvision 30 ft., improved grab, poison, vermin |
+| AL | none |
+| Fort | –1 |
+| Ref | +0 |
+| Will | +0 |
+| AP | 0 |
+| Rep | +0 |
+| Str | 2 |
+| Dex | 10 |
+| Con | 4 |
+| Int | — |
+| Wis | 10 |
+| Cha | 2 |
 
 **Skills:** Climb +4, Hide +15, Spot +7.
 
