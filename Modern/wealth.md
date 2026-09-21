@@ -152,7 +152,7 @@ cases, the benefit translates into a Wealth award.
 To sell something, a character first needs to determine its sale value.
 Assuming the object is undamaged and in working condition, the sale
 value is equal to the object’s purchase DC (as if purchased new) minus
-3\.
+3.
 
 Selling an object can provide an increase to a character’s Wealth bonus.
 The increase is the same amount as the Wealth bonus loss the character
