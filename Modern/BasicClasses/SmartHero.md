@@ -1,18 +1,5 @@
 # THE SMART HERO
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Talent | +0 | +1 |
-| 2nd | +1 | +0 | +0 | +2 | Bonus feat | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +2 | Talent | +1 | +1 |
-| 4th | +2 | +1 | +1 | +2 | Bonus feat | +1 | +2 |
-| 5th | +2 | +1 | +1 | +3 | Talent | +2 | +2 |
-| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
-| 7th | +3 | +2 | +2 | +4 | Talent | +2 | +3 |
-| 8th | +4 | +2 | +2 | +4 | Bonus feat | +3 | +3 |
-| 9th | +4 | +3 | +3 | +4 | Talent | +3 | +3 |
-| 10th | +5 | +3 | +3 | +5 | Bonus feat | +3 | +4 |
-
 ## Ability
 
 Intelligence
@@ -77,6 +64,21 @@ class skills to choose from.
 
 In addition to the two feats all characters get at 1st level, a Smart
 hero begins play with the Simple Weapons Proficiency feat.
+
+## Class Table
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Talent | +0 | +1 |
+| 2nd | +1 | +0 | +0 | +2 | Bonus feat | +1 | +1 |
+| 3rd | +1 | +1 | +1 | +2 | Talent | +1 | +1 |
+| 4th | +2 | +1 | +1 | +2 | Bonus feat | +1 | +2 |
+| 5th | +2 | +1 | +1 | +3 | Talent | +2 | +2 |
+| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
+| 7th | +3 | +2 | +2 | +4 | Talent | +2 | +3 |
+| 8th | +4 | +2 | +2 | +4 | Bonus feat | +3 | +3 |
+| 9th | +4 | +3 | +3 | +4 | Talent | +3 | +3 |
+| 10th | +5 | +3 | +3 | +5 | Bonus feat | +3 | +4 |
 
 ## Class Features
 

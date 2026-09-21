@@ -1,18 +1,5 @@
 # THE FAST HERO
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +0 | Talent | +3 | +0 |
-| 2nd | +1 | +0 | +2 | +0 | Bonus feat | +4 | +0 |
-| 3rd | +2 | +1 | +2 | +1 | Talent | +4 | +1 |
-| 4th | +3 | +1 | +2 | +1 | Bonus feat | +5 | +1 |
-| 5th | +3 | +1 | +3 | +1 | Talent | +5 | +1 |
-| 6th | +4 | +2 | +3 | +2 | Bonus feat | +6 | +2 |
-| 7th | +5 | +2 | +4 | +2 | Talent | +6 | +2 |
-| 8th | +6/+1 | +2 | +4 | +2 | Bonus feat | +7 | +2 |
-| 9th | +6/+1 | +3 | +4 | +3 | Talent | +7 | +3 |
-| 10th | +7/+2 | +3 | +5 | +3 | Bonus feat | +8 | +3 |
-
 ## Ability
 
 Dexterity
@@ -60,6 +47,21 @@ additional class skills to choose from.
 
 In addition to the two feats all characters get at 1st level, a Fast
 hero begins play with the Simple Weapons Proficiency feat.
+
+## Class Table
+
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +0 | Talent | +3 | +0 |
+| 2nd | +1 | +0 | +2 | +0 | Bonus feat | +4 | +0 |
+| 3rd | +2 | +1 | +2 | +1 | Talent | +4 | +1 |
+| 4th | +3 | +1 | +2 | +1 | Bonus feat | +5 | +1 |
+| 5th | +3 | +1 | +3 | +1 | Talent | +5 | +1 |
+| 6th | +4 | +2 | +3 | +2 | Bonus feat | +6 | +2 |
+| 7th | +5 | +2 | +4 | +2 | Talent | +6 | +2 |
+| 8th | +6/+1 | +2 | +4 | +2 | Bonus feat | +7 | +2 |
+| 9th | +6/+1 | +3 | +4 | +3 | Talent | +7 | +3 |
+| 10th | +7/+2 | +3 | +5 | +3 | Bonus feat | +8 | +3 |
 
 ## Class Features
 
