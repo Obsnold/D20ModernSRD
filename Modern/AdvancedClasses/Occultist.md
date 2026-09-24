@@ -3,19 +3,6 @@
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
-| 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
-| 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +1 |
-| 4th | +2 | +1 | +1 | +2 | Shadow contact | +1 | +1 |
-| 5th | +2 | +1 | +1 | +3 | Bind Shadow creature | +2 | +1 |
-| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
-| 7th | +3 | +2 | +2 | +4 | Arcane research (items) | +2 | +2 |
-| 8th | +4 | +2 | +2 | +4 | Bind Shadow creature | +3 | +2 |
-| 9th | +4 | +3 | +3 | +4 | Bonus feat | +3 | +3 |
-| 10th | +5 | +3 | +3 | +5 | Banish | +3 | +3 |
-
 ## Requirements
 
 To qualify to become an Occultist, a character must fulfill the
@@ -59,6 +46,20 @@ The Occultist’s class skills are as follows.
 - Use Magic Device (Cha)
 
 **Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
+| 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
+| 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +1 |
+| 4th | +2 | +1 | +1 | +2 | Shadow contact | +1 | +1 |
+| 5th | +2 | +1 | +1 | +3 | Bind Shadow creature | +2 | +1 |
+| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
+| 7th | +3 | +2 | +2 | +4 | Arcane research (items) | +2 | +2 |
+| 8th | +4 | +2 | +2 | +4 | Bind Shadow creature | +3 | +2 |
+| 9th | +4 | +3 | +3 | +4 | Bonus feat | +3 | +3 |
+| 10th | +5 | +3 | +3 | +5 | Banish | +3 | +3 |
 
 ## Class Features
 

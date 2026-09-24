@@ -3,19 +3,6 @@
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Arcane skills, arcane spells, summon familiar | +1 | +1 |
-| 2nd | +1 | +0 | +0 | +3 | Scribe scroll, arcane spells | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat, arcane spells, brew potion | +2 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Scribe tattoo, arcane spells | +2 | +2 |
-| 5th | +2 | +1 | +1 | +4 | Spell mastery, arcane spells | +3 | +2 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat, arcane spells | +3 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Combat casting, arcane spells | +4 | +3 |
-| 8th | +4 | +2 | +2 | +6 | Spell mastery, arcane spells | +4 | +3 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat, arcane spells | +5 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Maximize spell, arcane spells | +5 | +4 |
-
 ## Requirements
 
 To qualify to become a Mage, a character must fulfill the following
@@ -61,6 +48,20 @@ The Mage’s class skills are as follows.
 - Spellcraft (Int)
 
 **Skill Points at Each Level:** 7 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +2 | Arcane skills, arcane spells, summon familiar | +1 | +1 |
+| 2nd | +1 | +0 | +0 | +3 | Scribe scroll, arcane spells | +1 | +1 |
+| 3rd | +1 | +1 | +1 | +3 | Bonus feat, arcane spells, brew potion | +2 | +1 |
+| 4th | +2 | +1 | +1 | +4 | Scribe tattoo, arcane spells | +2 | +2 |
+| 5th | +2 | +1 | +1 | +4 | Spell mastery, arcane spells | +3 | +2 |
+| 6th | +3 | +2 | +2 | +5 | Bonus feat, arcane spells | +3 | +2 |
+| 7th | +3 | +2 | +2 | +5 | Combat casting, arcane spells | +4 | +3 |
+| 8th | +4 | +2 | +2 | +6 | Spell mastery, arcane spells | +4 | +3 |
+| 9th | +4 | +3 | +3 | +6 | Bonus feat, arcane spells | +5 | +3 |
+| 10th | +5 | +3 | +3 | +7 | Maximize spell, arcane spells | +5 | +4 |
 
 ## Class Features
 
@@ -141,9 +142,9 @@ according to his Mage class level. In addition, the Mage receives bonus
 spells based on his Intelligence score. Determine the Mage’s total
 number of spells per day by consulting the two tables below.
 
-| Mage Level | ———— Spells per Day by Spell Level ———— | | | | | |
+Spells per Day by Spell Level:
+| Mage Level | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
-| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 1st | 3 | 1 | — | — | — | — |
 | 2nd | 4 | 2 | — | — | — | — |
 | 3rd | 4 | 2 | 1 | — | — | — |
@@ -154,8 +155,10 @@ number of spells per day by consulting the two tables below.
 | 8th | 4 | 4 | 3 | 3 | 2 | — |
 | 9th | 4 | 4 | 4 | 3 | 2 | 1 |
 | 10th | 4 | 4 | 4 | 3 | 3 | 2 |
-| **Int Score** |** ———— Bonus Spells by Spell Level ————** | | | | | |
-| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
+
+Bonus Spells by Spell Level:
+| Int Score | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|---|
 | 12–13 | — | 1 | — | — | — | — |
 | 14–15 | — | 1 | 1 | — | — | — |
 | 16–17 | — | 1 | 1 | 1 | — | — |

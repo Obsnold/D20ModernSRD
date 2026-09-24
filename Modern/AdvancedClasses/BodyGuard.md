@@ -1,18 +1,5 @@
 # BODYGUARD
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +1 | +2 | +0 | Harm’s way | +1 | +0 |
-| 2nd | +1 | +2 | +3 | +0 | Combat sense +1 | +1 | +0 |
-| 3rd | +2 | +2 | +3 | +1 | Bonus feat | +2 | +1 |
-| 4th | +3 | +2 | +4 | +1 | Sudden action | +2 | +1 |
-| 5th | +3 | +3 | +4 | +1 | Improved charge | +3 | +1 |
-| 6th | +4 | +3 | +5 | +2 | Bonus feat | +3 | +2 |
-| 7th | +5 | +4 | +5 | +2 | Defensive strike | +4 | +2 |
-| 8th | +6 | +4 | +6 | +2 | Combat sense +2 | +4 | +2 |
-| 9th | +6 | +4 | +6 | +3 | Bonus feat | +5 | +3 |
-| 10th | +7 | +5 | +7 | +3 | Blanket protection | +5 | +3 |
-
 ## Requirements
 
 To qualify to become a Bodyguard, a character must fulfill the following
@@ -56,6 +43,21 @@ The Bodyguard’s class skills (and the key ability for each skill) are:
 - Spot (Wis)
 
 **Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +2 | +0 | Harm’s way | +1 | +0 |
+| 2nd | +1 | +2 | +3 | +0 | Combat sense +1 | +1 | +0 |
+| 3rd | +2 | +2 | +3 | +1 | Bonus feat | +2 | +1 |
+| 4th | +3 | +2 | +4 | +1 | Sudden action | +2 | +1 |
+| 5th | +3 | +3 | +4 | +1 | Improved charge | +3 | +1 |
+| 6th | +4 | +3 | +5 | +2 | Bonus feat | +3 | +2 |
+| 7th | +5 | +4 | +5 | +2 | Defensive strike | +4 | +2 |
+| 8th | +6 | +4 | +6 | +2 | Combat sense +2 | +4 | +2 |
+| 9th | +6 | +4 | +6 | +3 | Bonus feat | +5 | +3 |
+| 10th | +7 | +5 | +7 | +3 | Blanket protection | +5 | +3 |
+
 
 ## Class Features
 

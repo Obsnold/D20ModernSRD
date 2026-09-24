@@ -1,18 +1,5 @@
 # SHADOW SLAYER
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |
-| 2nd | +2 | +2 | +2 | +2 | Shadow immunity | +1 | +0 |
-| 3rd | +3 | +2 | +2 | +2 | Bonus feat | +2 | +0 |
-| 4th | +4 | +2 | +2 | +2 | Slayer weapon | +2 | +0 |
-| 5th | +5 | +3 | +3 | +3 | Shadow enemy | +3 | +1 |
-| 6th | +6 | +3 | +3 | +3 | Bonus feat | +3 | +1 |
-| 7th | +7 | +4 | +4 | +4 | Shadow enemy | +4 | +1 |
-| 8th | +8 | +4 | +4 | +4 | Fast healing | +4 | +1 |
-| 9th | +9 | +4 | +4 | +4 | Bonus feat | +5 | +2 |
-| 10th | +10 | +5 | +5 | +5 | Word of slaying | +5 | +2 |
-
 ## Requirements
 
 To qualify to become a Shadow Slayer, a character must fulfill the
@@ -55,6 +42,20 @@ The Shadow Slayer’s class skills are as follows.
 - Tumble (Dex)
 
 **Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |
+| 2nd | +2 | +2 | +2 | +2 | Shadow immunity | +1 | +0 |
+| 3rd | +3 | +2 | +2 | +2 | Bonus feat | +2 | +0 |
+| 4th | +4 | +2 | +2 | +2 | Slayer weapon | +2 | +0 |
+| 5th | +5 | +3 | +3 | +3 | Shadow enemy | +3 | +1 |
+| 6th | +6 | +3 | +3 | +3 | Bonus feat | +3 | +1 |
+| 7th | +7 | +4 | +4 | +4 | Shadow enemy | +4 | +1 |
+| 8th | +8 | +4 | +4 | +4 | Fast healing | +4 | +1 |
+| 9th | +9 | +4 | +4 | +4 | Bonus feat | +5 | +2 |
+| 10th | +10 | +5 | +5 | +5 | Word of slaying | +5 | +2 |
 
 ## Class Features
 

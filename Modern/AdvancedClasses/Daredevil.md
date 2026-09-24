@@ -1,18 +1,5 @@
 # DAREDEVIL
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +2 | +0 | +0 | Fearless | +1 | +0 |
-| 2nd | +1 | +3 | +0 | +0 | Nip-up | +2 | +0 |
-| 3rd | +1 | +3 | +1 | +1 | Bonus feat | +2 | +1 |
-| 4th | +2 | +4 | +1 | +1 | Action boost | +3 | +1 |
-| 5th | +2 | +4 | +1 | +1 | Adrenaline rush (one ability score) | +4 | +1 |
-| 6th | +3 | +5 | +2 | +2 | Bonus feat | +4 | +2 |
-| 7th | +3 | +5 | +2 | +2 | Delay damage | +5 | +2 |
-| 8th | +4 | +6 | +2 | +2 | Adrenaline rush (two ability scores) | +6 | +2 |
-| 9th | +4 | +6 | +3 | +3 | Bonus feat | +6 | +3 |
-| 10th | +5 | +7 | +3 | +3 | Damage threshold | +7 | +3 |
-
 ## Requirements
 
 To qualify to become a Daredevil, a character must fulfill the following
@@ -58,6 +45,20 @@ The Daredevil’s class skills (and the key ability for each skill) are:
 - Tumble (Dex)
 
 **Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +2 | +0 | +0 | Fearless | +1 | +0 |
+| 2nd | +1 | +3 | +0 | +0 | Nip-up | +2 | +0 |
+| 3rd | +1 | +3 | +1 | +1 | Bonus feat | +2 | +1 |
+| 4th | +2 | +4 | +1 | +1 | Action boost | +3 | +1 |
+| 5th | +2 | +4 | +1 | +1 | Adrenaline rush (one ability score) | +4 | +1 |
+| 6th | +3 | +5 | +2 | +2 | Bonus feat | +4 | +2 |
+| 7th | +3 | +5 | +2 | +2 | Delay damage | +5 | +2 |
+| 8th | +4 | +6 | +2 | +2 | Adrenaline rush (two ability scores) | +6 | +2 |
+| 9th | +4 | +6 | +3 | +3 | Bonus feat | +6 | +3 |
+| 10th | +5 | +7 | +3 | +3 | Damage threshold | +7 | +3 |
 
 ## Class Features
 

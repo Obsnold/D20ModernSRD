@@ -3,18 +3,6 @@
 The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are possible.
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |
-| 2nd | +1 | +0 | +0 | +3 | Trigger power, psionic powers | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat, psionic powers | +1 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Power crystal, psionic powers | +1 | +2 |
-| 5th | +2 | +1 | +1 | +4 | Trigger power, psionic powers | +2 | +2 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat, psionic powers | +2 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Combat manifestation, psionic powers | +2 | +3 |
-| 8th | +4 | +2 | +2 | +6 | Trigger power, psionic powers | +3 | +3 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat, psionic powers | +3 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Maximize power, psionic powers | +3 | +4 |
 
 ## Requirements
 
@@ -57,6 +45,20 @@ The Telepath’s class skills are as follows.
 - Speak Language (none)
 
 **Skill Points at Each Level:** 5 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |
+| 2nd | +1 | +0 | +0 | +3 | Trigger power, psionic powers | +1 | +1 |
+| 3rd | +1 | +1 | +1 | +3 | Bonus feat, psionic powers | +1 | +1 |
+| 4th | +2 | +1 | +1 | +4 | Power crystal, psionic powers | +1 | +2 |
+| 5th | +2 | +1 | +1 | +4 | Trigger power, psionic powers | +2 | +2 |
+| 6th | +3 | +2 | +2 | +5 | Bonus feat, psionic powers | +2 | +2 |
+| 7th | +3 | +2 | +2 | +5 | Combat manifestation, psionic powers | +2 | +3 |
+| 8th | +4 | +2 | +2 | +6 | Trigger power, psionic powers | +3 | +3 |
+| 9th | +4 | +3 | +3 | +6 | Bonus feat, psionic powers | +3 | +3 |
+| 10th | +5 | +3 | +3 | +7 | Maximize power, psionic powers | +3 | +4 |
 
 ## Class Features
 
@@ -184,9 +186,9 @@ indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Telepath’s key ability modifier.
 
-| Telepath Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | | |
+Powers Discovered by Level:
+| Telepath Level | Pts/Day | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|---|
-| | | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
 | 1st | 2 | 3 | 1 | — | — | — | — |
 | 2nd | 3 | 3 | 2 | — | — | — | — |
 | 3rd | 4 | 3 | 3 | — | — | — | — |

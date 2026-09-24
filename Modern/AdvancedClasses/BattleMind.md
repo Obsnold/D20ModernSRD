@@ -1,18 +1,5 @@
 # BATTLE MIND
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +2 | +0 | +0 | Psionic skills, psionic powers | +1 | +0 |
-| 2nd | +1 | +3 | +0 | +0 | Psi-blade, imprint tattoo, psionic powers | +2 | +0 |
-| 3rd | +2 | +3 | +1 | +1 | Bonus feat, psionic powers | +2 | +0 |
-| 4th | +3 | +4 | +1 | +1 | Psychic shield, psionic powers | +3 | +0 |
-| 5th | +3 | +4 | +1 | +1 | Combat manifestation, psionic powers | +4 | +1 |
-| 6th | +4 | +5 | +2 | +2 | Bonus feat, psionic powers | +4 | +1 |
-| 7th | +5 | +5 | +2 | +2 | Improved psi-blade, psionic powers | +5 | +1 |
-| 8th | +6 | +6 | +2 | +2 | Improved psychic shield, psionic powers | +6 | +1 |
-| 9th | +6 | +6 | +3 | +3 | Bonus feat, psionic powers | +6 | +2 |
-| 10th | +7 | +7 | +3 | +3 | Ultimate psi-blade, psionic powers | +7 | +2 |
-
 ## Requirements
 
 To qualify to become a Battle Mind, a character must fulfill the
@@ -55,6 +42,20 @@ The Battle Mind’s class skills are as follows.
 - Swim (Str)
 
 **Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +2 | +0 | +0 | Psionic skills, psionic powers | +1 | +0 |
+| 2nd | +1 | +3 | +0 | +0 | Psi-blade, imprint tattoo, psionic powers | +2 | +0 |
+| 3rd | +2 | +3 | +1 | +1 | Bonus feat, psionic powers | +2 | +0 |
+| 4th | +3 | +4 | +1 | +1 | Psychic shield, psionic powers | +3 | +0 |
+| 5th | +3 | +4 | +1 | +1 | Combat manifestation, psionic powers | +4 | +1 |
+| 6th | +4 | +5 | +2 | +2 | Bonus feat, psionic powers | +4 | +1 |
+| 7th | +5 | +5 | +2 | +2 | Improved psi-blade, psionic powers | +5 | +1 |
+| 8th | +6 | +6 | +2 | +2 | Improved psychic shield, psionic powers | +6 | +1 |
+| 9th | +6 | +6 | +3 | +3 | Bonus feat, psionic powers | +6 | +2 |
+| 10th | +7 | +7 | +3 | +3 | Ultimate psi-blade, psionic powers | +7 | +2 |
 
 ## Class Features
 
@@ -164,9 +165,9 @@ latent powers, as indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Battle Mind’s key ability modifier.
 
-| Battle Mind Level | Pts/Day | ———— Powers Discovered by Level ———— | | | | |
+Powers Discovered by Level:
+| Battle Mind Level | Pts/Day | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|---|
-| | | **0** |** 1** |** 2** |** 3** |** 4** |
 | 1st | 2 | 2 | — | — | — | — |
 | 2nd | 3 | 3 | — | — | — | — |
 | 3rd | 4 | 3 | 1 | — | — | — |

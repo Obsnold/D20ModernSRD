@@ -38,9 +38,6 @@ determines whether a character is eligible to gain a level in an
 advanced class.
 
 ## Advanced Class Descriptions
-
-- [Acolyte](Acolyte.md)
-- [Battle Mind](BattleMind.md)
 - [Bodyguard](BodyGuard.md)
 - [Daredevil](Daredevil.md)
 - [Field Medic](FieldMedic.md)
@@ -48,12 +45,16 @@ advanced class.
 - [Gunslinger](GunSlinger.md)
 - [Infiltrator](Infiltrator.md)
 - [Investigator](Investigator.md)
-- [Mage](Mage.md)
 - [Martial Artist](MartialArtist.md)
 - [Negotiator](Negotiator.md)
-- [Occultist](Occultist.md)
 - [Personality](Personality.md)
-- [Shadow Slayer](ShadowSlayer.md)
 - [Soldier](Soldier.md)
 - [Techie](Techie.md)
+
+## FX Advanced Class Descriptions
+- [Acolyte](Acolyte.md)
+- [Battle Mind](BattleMind.md)
+- [Mage](Mage.md)
+- [Occultist](Occultist.md)
+- [Shadow Slayer](ShadowSlayer.md)
 - [Telepath](Telepath.md)

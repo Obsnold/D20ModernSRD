@@ -1,18 +1,5 @@
 # TECHIE
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
-| 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Build robot | +2 | +1 |
-| 5th | +2 | +1 | +1 | +4 | Mastercraft | +3 | +1 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Jury-rig +4 | +4 | +2 |
-| 8th | +4 | +2 | +2 | +6 | Mastercraft | +4 | +2 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Mastercraft | +5 | +3 |
-
 ## Requirements
 
 To qualify to become a Techie, a character must fulfill the following
@@ -54,6 +41,20 @@ The Techie’s class skills (and the key ability for each skill) are:
 - Spot (Wis)
 
 **Skill Points at Each Level:** 7 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
+| 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
+| 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
+| 4th | +2 | +1 | +1 | +4 | Build robot | +2 | +1 |
+| 5th | +2 | +1 | +1 | +4 | Mastercraft | +3 | +1 |
+| 6th | +3 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
+| 7th | +3 | +2 | +2 | +5 | Jury-rig +4 | +4 | +2 |
+| 8th | +4 | +2 | +2 | +6 | Mastercraft | +4 | +2 |
+| 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
+| 10th | +5 | +3 | +3 | +7 | Mastercraft | +5 | +3 |
 
 ## Class Features
 
@@ -172,9 +173,9 @@ modified by the form of locomotion selected.
 | Remote control link, 200 feet | +3 |
 | Remote control link, 300 feet | +5 |
 
-¹ Select only one of the options in this category.
-2 Select one or more of the options in this category.
-3 Necessary for a robot built to use any skill except Listen or Spot.
+¹ Select only one of the options in this category.  
+² Select one or more of the options in this category.  
+³ Necessary for a robot built to use any skill except Listen or Spot.
 
 Select a frame size and form, add manipulators and sensors as necessary,
 and choose a type of remote control link. Add all the modifiers to

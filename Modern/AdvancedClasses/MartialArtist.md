@@ -1,18 +1,5 @@
 # MARTIAL ARTIST
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
-| 2nd | +2 | +0 | +3 | +0 | Flying kick | +2 | +0 |
-| 3rd | +3 | +1 | +3 | +1 | Bonus feat | +2 | +0 |
-| 4th | +4 | +1 | +4 | +1 | Living weapon 1d8 | +3 | +0 |
-| 5th | +5 | +1 | +4 | +1 | Iron fist (one attack) | +4 | +1 |
-| 6th | +6 | +2 | +5 | +2 | Bonus feat | +4 | +1 |
-| 7th | +7 | +2 | +5 | +2 | Flurry of blows | +5 | +1 |
-| 8th | +8 | +2 | +6 | +2 | Living weapon 1d10 | +6 | +1 |
-| 9th | +9 | +3 | +6 | +3 | Bonus feat | +6 | +2 |
-| 10th | +10 | +3 | +7 | +3 | Iron fist (all attacks) | +7 | +2 |
-
 ## Requirements
 
 To qualify to become a Martial Artist, a character must fulfill the
@@ -56,6 +43,20 @@ are:
 - Tumble (Dex)
 
 **Skill Points at Each Level:** 3 + Int modifier.
+
+## Class Table
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+|---|---|---|---|---|---|---|---|
+| 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
+| 2nd | +2 | +0 | +3 | +0 | Flying kick | +2 | +0 |
+| 3rd | +3 | +1 | +3 | +1 | Bonus feat | +2 | +0 |
+| 4th | +4 | +1 | +4 | +1 | Living weapon 1d8 | +3 | +0 |
+| 5th | +5 | +1 | +4 | +1 | Iron fist (one attack) | +4 | +1 |
+| 6th | +6 | +2 | +5 | +2 | Bonus feat | +4 | +1 |
+| 7th | +7 | +2 | +5 | +2 | Flurry of blows | +5 | +1 |
+| 8th | +8 | +2 | +6 | +2 | Living weapon 1d10 | +6 | +1 |
+| 9th | +9 | +3 | +6 | +3 | Bonus feat | +6 | +2 |
+| 10th | +10 | +3 | +7 | +3 | Iron fist (all attacks) | +7 | +2 |
 
 ## Class Features
 
