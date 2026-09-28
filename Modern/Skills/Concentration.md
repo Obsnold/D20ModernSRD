@@ -71,5 +71,5 @@ of another action (when attempted actively).
 | Weather is a high wind carrying blinding rain or sleet | 5 |
 | Weather is wind-driven hail, dust, or debris | 10 |
 
-¹ Such as an activity that requires more than a single full-round action. Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).
-2 Such as from catching on fire.
+¹ Such as an activity that requires more than a single full-round action. Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).  
+² Such as from catching on fire.

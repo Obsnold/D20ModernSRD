@@ -51,7 +51,7 @@ as given in the table below.
 | Document is put through additional tests ¹ | +4 |
 | Examiner only casually reviews the document ¹ | –2 |
 
-1Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
+¹ Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
 
 A document that contradicts procedure, orders, or previous knowledge, or
 one that requires the examiner to relinquish a possession or a piece of

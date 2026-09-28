@@ -23,7 +23,7 @@ the character failed the check.
 A successful Listen check when there isn’t anything to hear results in
 the character hearing nothing.
 
-| DC | Sound |
+| DC | Example Sound |
 |---|---|
 | –20 | Gunfire |
 | –10 | A melee battle |
@@ -35,8 +35,10 @@ the character hearing nothing.
 | 30 | A bird flying through the air |
 | +5 | Through a door |
 | +15 | Through a solid wall |
-| **1 This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.** | |
+¹ This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.
+
 | Condition | Check Penalty |
+|---|---|
 | Per 10 feet of distance | –1 |
 | Listener distracted | –5 |
 

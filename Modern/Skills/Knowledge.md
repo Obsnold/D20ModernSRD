@@ -91,7 +91,7 @@ check. Without actual training, a character only knows common knowledge
 about a given subject.
 
 A character can take 10 when making a Knowledge check, but can’t take
-20\.
+20.
 
 A character with the Educated feat gets a +2 bonus on any two types of
 Knowledge checks.

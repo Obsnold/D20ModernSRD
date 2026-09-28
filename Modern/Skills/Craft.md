@@ -42,20 +42,21 @@ Wealth check is required to use the skill).
 This skill allows a character to mix chemicals to create acids, bases,
 explosives, and poisonous substances.
 
-**Acids and Bases:** Acids are corrosives substances. Bases neutralize
+### Acids and Bases
+Acids are corrosives substances. Bases neutralize
 acids but do not deal damage. A base of a certain type counteracts an
 acid of the same type or a less potent type.
 
-| | | Craft DCs | | |
-|---|---|---|---|---|
 | Type of Acid | Purchase DC | Acid | Base | Time |
+|---|---|---|---|---|
 | Mild (1d6/1d10) ¹ | 8 | 15 | 10 | 1 min. |
 | Potent (2d6/2d10) | 12 | 20 | 15 | 30 min. |
 | Concentrated (3d6/3d10) | 16 | 30 | 20 | 1 hr. |
 
 ¹ The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.
 
-**Explosives:** Building an explosive from scratch is dangerous. If the
+### Explosives
+Building an explosive from scratch is dangerous. If the
 Craft (chemical) check fails, the raw materials are wasted. If the check
 fails by 5 or more, the explosive compound detonates as it is being
 made, dealing half of its intended damage to the builder and anyone else
@@ -78,7 +79,8 @@ detonator. Connecting a fuse or detonator requires a Demolitions check.
 
 Scratch built explosives deal concussion damage.
 
-**Poisonous Substances**: Solid poisons are usually ingested. Liquid
+### Poisonous Substances
+Solid poisons are usually ingested. Liquid
 poisons are most effective when injected directly into the bloodstream.
 Gaseous poisons must be inhaled to be effective. The table below
 summarizes the characteristics of various poisons.
@@ -148,7 +150,8 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 ¹ Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin.
 n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question.
 
-**Special:** A character without a chemical kit takes a –4 penalty on
+### Special
+A character without a chemical kit takes a –4 penalty on
 Craft (chemical) checks.
 
 A character with the Builder feat gets a +2 bonus on all Craft
@@ -178,7 +181,8 @@ compared to current technology.
 | Complex (cell phone) | 16 | 25 | 24 hr. |
 | Advanced (computer) | 22 | 30 | 60 hr. |
 
-**Special:** A character without an electrical tool kit takes a –4
+### Special
+A character without an electrical tool kit takes a –4
 penalty on Craft (electronic) checks.
 
 A character with the Builder feat gets a +2 bonus on all Craft
@@ -206,7 +210,8 @@ to current technology.
 | Complex (automobile engine, 9mm autoloader handgun) | 16 | 25 | 24 hr. |
 | Advanced (jet engine) | 20 | 30 | 60 hr. |
 
-**Special:** A character without a mechanical tool kit takes a –4
+### Special
+A character without a mechanical tool kit takes a –4
 penalty on Craft (mechanical) checks.
 
 A character with the Builder feat gets a +2 bonus on all Craft
@@ -236,7 +241,8 @@ resist it.
 | 19–22 | 15 | 25 | 6 hr. |
 | 23 or higher | 20 | 30 | 12 hr. |
 
-**Special:** A character without a pharmacist kit takes a –4 penalty on
+### Special
+A character without a pharmacist kit takes a –4 penalty on
 Craft (pharmaceutical) checks.
 
 A character with the Medical Expert feat gets a +2 bonus on all Craft
@@ -267,7 +273,8 @@ of structure he or she wants to construct; then the Gamemaster decides
 if the structure is simple, moderate, complex, or advanced in scope and
 difficulty.
 
-**Special:** A character without a mechanical tool kit takes a –4
+### Special
+A character without a mechanical tool kit takes a –4
 penalty on Craft (structural) checks.
 
 A character with the Builder feat gets a +2 bonus on all Craft
@@ -305,7 +312,8 @@ Creating a work of visual art requires at least a full-round action, but
 usually takes an hour, a day, or more, depending on the scope of the
 project.
 
-**Special:** A character with the Creative feat gets a +2 bonus on all
+### Special
+A character with the Creative feat gets a +2 bonus on all
 Craft (visual art) checks.
 
 ## Craft (writing)
@@ -336,5 +344,6 @@ No Wealth check is necessary to use this Craft skill.
 Creating a work of writing requires at least 1 hour, but usually takes a
 day, a week, or more, depending on the scope of the project.
 
-**Special:** A character with the Creative feat gets a +2 bonus on all
+### Special
+A character with the Creative feat gets a +2 bonus on all
 Craft (writing) checks.

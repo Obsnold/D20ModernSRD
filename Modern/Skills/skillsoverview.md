@@ -127,7 +127,7 @@ though, such as the ability modifier for the skill’s key ability.
 
 Some skills can be used only if the character is trained in the skill.
 
-Favorable and Unfavorable Conditions
+## Favorable and Unfavorable Conditions
 
 Some situations may make a skill easier or harder to use, resulting in a
 bonus or penalty to the skill modifier or a change to the skill check’s
@@ -136,21 +136,21 @@ DC.
 The GM can alter the odds of success in four ways to take into account
 exceptional circumstances:
 
-1\. Give the skill user a +2 circumstance bonus to represent conditions
+1. Give the skill user a +2 circumstance bonus to represent conditions
 that improve performance, such as having the perfect tool for the job,
 getting help from another character, or working under conditions that
 are significantly better than normal.
 
-2\. Give the skill user a –2 circumstance penalty to represent
+2. Give the skill user a –2 circumstance penalty to represent
 conditions that hamper performance, such as being forced to use
 improvised tools or possessing misleading information.
 
-3\. Reduce the DC by 2 to represent circumstances that make the task
+3. Reduce the DC by 2 to represent circumstances that make the task
 easier, such as having a friendly audience when making a Perform check
 or searching for information on an extremely well documented topic with
 a Computer Use check.
 
-4\. Increase the DC by 2 to represent circumstances that make the task
+4. Increase the DC by 2 to represent circumstances that make the task
 harder, such as making a Perform check in front of a hostile audience or
 searching for information on a very poorly documented topic with a
 Computer Use check.
@@ -208,7 +208,7 @@ Distractions and threats make it impossible for a character to take 10.
 A character also can’t take 10 when using a skill untrained, though the
 GM may allow exceptions for truly routine activities.
 
-Taking 20
+## Taking 20
 
 When a character has plenty of time, is faced with no threats or
 distractions, and the skill being attempted carries no penalty for
@@ -243,7 +243,7 @@ and the GM must agree that the two skills can complement each other in
 the given situation. In such cases, the character receives a +2 synergy
 bonus on the skill check.
 
-Ability Checks
+## Ability Checks
 
 Sometimes a character tries to do something to which no specific skill
 applies. In these cases, the character makes an ability check: Roll 1d20
