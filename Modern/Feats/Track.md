@@ -59,11 +59,11 @@ cannot follow tracks using Search.
 | Every 24 hours since the trail was made | +1 |
 | Every hour of rain since the trail was made | +1 |
 | Fresh snow cover since the trail was made | +10 |
-| **Poor visibility: <sub>2</sub>** | |
+| **Poor visibility: ²** | |
 | Overcast or moonless night | +6 |
 | Moonlight | +3 |
 | Fog or precipitation | +3 |
 | Tracked target hides trail (and moves at half speed) | +5 |
 
-¹ For a group of mixed sizes, apply only the modifier for the largest size category represented.
-2 Apply only the largest modifier from this category.
+¹ For a group of mixed sizes, apply only the modifier for the largest size category represented.  
+² Apply only the largest modifier from this category.
