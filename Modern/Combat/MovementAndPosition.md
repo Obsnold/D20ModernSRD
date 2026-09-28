@@ -32,7 +32,7 @@ is sometimes called base speed.
 Encumbrance: A character encumbered by carrying a large amount of gear
 or a fallen comrade may move slower than normal.
 
-\*Movement in Combat: \*Generally, a character can move his or her speed
+**Movement in Combat:** Generally, a character can move his or her speed
 as a move action. If a character uses his or her attack action as a move
 action, the character can move again (for a total movement of up to
 twice the character’s normal speed). If the character spends the entire
@@ -40,7 +40,7 @@ round to run all out, he or she can move up to four times his or her
 normal speed. If a character does something that requires a full round,
 he or she can only take a 5-foot step.
 
-*Movement in Darkness:* If a character moves when he or she can’t see,
+**Movement in Darkness:** If a character moves when he or she can’t see,
 such as in total darkness, his or her speed is limited to one-half
 normal. The Blind-Fight feat reduces this penalty.
 
@@ -49,10 +49,10 @@ normal. The Blind-Fight feat reduces this penalty.
 Sometimes a character can pass through an area occupied by another
 character or creature.
 
-Friendly Character: A character can move through a square occupied by a
+**Friendly Character:** A character can move through a square occupied by a
 friendly character.
 
-Unfriendly Character: There are two ways to move through a square
+**Unfriendly Character:** There are two ways to move through a square
 occupied by a resisting enemy. The character can attempt an overrun. Or
 the character can attempt to tumble through a square occupied by an
 enemy (if the character has ranks in the Tumble skill; see the skill
@@ -61,7 +61,7 @@ description).
 A character can move through a square occupied by an unfriendly
 character who doesn’t resist as if the character was friendly.
 
-Square Occupied by Creature Three Sizes Larger or Smaller: Any creature
+**Square Occupied by Creature Three Sizes Larger or Smaller:** Any creature
 can move through a square occupied by a creature three size categories
 larger or three categories smaller than it is.
 

@@ -19,7 +19,7 @@ check result, the combatants who are tied go in order of total
 initiative modifier (including Dexterity modifier and Improved
 Initiative bonus, if applicable). If there is still a tie, roll a die.
 
-*Flat-Footed:* At the start of a battle, before the character has had a
+**Flat-Footed:** At the start of a battle, before the character has had a
 chance to act (specifically, before the character’s first turn in the
 initiative order), the character is flat-footed. A character can’t use
 his or her Dexterity bonus to Defense or make attacks of opportunity

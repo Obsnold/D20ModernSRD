@@ -27,10 +27,11 @@ as guides.
 | Defender helpless (such as paralyzed, sleeping, or bound) | +0² | +0² |
 | Defender has cover | —–— See Cover —–— | |
 | Defender concealed or invisible | — See Concealment — | |
-| **1 Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.** | | |
-| **2 The defender loses any Dexterity bonus to Defense.** | | |
-| **3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.** | | |
-| **4 Treat the defender’s Dexterity as 0 (–5 modifier).** | | |
+
+¹ Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.
+² The defender loses any Dexterity bonus to Defense.
+³ Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.
+⁴ Treat the defender’s Dexterity as 0 (–5 modifier).
 
 **Table: Attack Roll Modifiers**
 
@@ -38,12 +39,12 @@ as guides.
 |---|---|---|
 | Attacker flanking defender¹ | +2 | — |
 | Attacker on higher ground | +1 | +0 |
-| Attacker prone | –4 | –2 |
+| Attacker prone | –4 | –2² |
 | Attacker invisible | +2³ | +2³ |
 
 ¹ A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
-2 Some ranged weapons can’t be used while the attacker is prone.
-3 The defender loses any Dexterity bonus to Defense.
+² Some ranged weapons can’t be used while the attacker is prone.
+³ The defender loses any Dexterity bonus to Defense.
 
 ## Cover
 
@@ -130,7 +131,7 @@ the point of view of the attacker.
 Concealment gives the subject of a successful attack a chance that the
 attacker missed because of the concealment. If the attacker hits, the
 defender must make a miss chance percentile roll to avoid being struck.
-(Actually, it doesn’t matter who makes the roll or whether it’s rolled
+Actually, it doesn’t matter who makes the roll or whether it’s rolled
 before or after the attack roll. When multiple concealment conditions
 apply to a defender, use the one that would produce the highest miss
 chance. Do not add the miss chances together.

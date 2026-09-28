@@ -43,7 +43,7 @@ Large or larger in size. Conversely, a creature of Small or smaller size
 is at a disadvantage because of its size when grappling. Instead of
 using a creature’s size modifier on a grapple check (as would be done
 for a melee or ranged attack roll), use the appropriate grapple modifier
-from Table: Grapple **Modifiers.**
+from **Table: Grapple Modifiers.**
 
 **Table: Grapple Modifiers**
 
@@ -67,17 +67,17 @@ melee attack. If the character gets multiple attacks in a round, he or
 she can attempt to start a grapple multiple times (at successively lower
 base attack bonuses). Follow these steps.
 
-1\. Attack of Opportunity: A character provokes an attack of opportunity
+**1. Attack of Opportunity:** A character provokes an attack of opportunity
 from the target he or she is trying to grapple. If the attack of
 opportunity deals the character damage, the character fails to start the
 grapple. If the attack of opportunity misses or otherwise fails to deal
 damage, proceed to step 2.
 
-2\. Grab: The character makes a melee touch attack to grab the target.
+**2. Grab:** The character makes a melee touch attack to grab the target.
 If the character fails to hit the target, the character fails to start
 the grapple. If the character succeeds, proceed to step 3.
 
-3\. Hold: Make an opposed grapple check. (This is a free action.) If the
+**3. Hold:** Make an opposed grapple check. (This is a free action.) If the
 character succeeds, the character has started the grapple, and deals
 damage to the target as if with an unarmed strike.
 
@@ -87,7 +87,7 @@ more size categories larger than the character is (but the character can
 still make an attempt to grab such a target, if that’s all he or she
 wants to do).
 
-4\. Maintain the Grapple: To maintain the grapple for later rounds, the
+**4. Maintain the Grapple:** To maintain the grapple for later rounds, the
 character must move into the target’s square. (This movement is free and
 doesn’t count as part of the character’s movement for the round
 movement.) Moving, as normal, provokes attacks of opportunity from
@@ -103,15 +103,15 @@ grapple again, the character must begin at step 1.
 While a character is grappling, his or her ability to attack others and
 defend him or herself is limited.
 
-\*No Threatened Squares: \*A character doesn’t threaten any squares while
+**No Threatened Squares:** A character doesn’t threaten any squares while
 grappling.
 
-*No Dexterity Bonus:* A character loses his or her Dexterity bonus to
+**No Dexterity Bonus:** A character loses his or her Dexterity bonus to
 Defense (if the character has one) against opponents the character isn’t
 grappling. (The character can still use it against opponents he or she
 is grappling.)
 
-*No Movement:* A character cannot move while held in a grapple.
+**No Movement:** A character cannot move while held in a grapple.
 
 ## If the Character is Grappling
 
@@ -124,10 +124,10 @@ available, using his or her successively lower attack bonus for each
 roll.) The character is limited to these options only; he or she cannot
 take any other actions.
 
-*Damage the Opponent:* Make an opposed grapple check; if the character
+**Damage the Opponent:** Make an opposed grapple check; if the character
 succeeds, he or she deals damage as with an unarmed strike.
 
-*Pin:* Make an opposed grapple check; if the character succeeds, he or
+**Pin:** Make an opposed grapple check; if the character succeeds, he or
 she holds the opponent immobile for 1 round. The opponent takes a –4
 penalty to Defense against all attacks from other people (but not from
 the character); however, the opponent is not considered helpless.
@@ -138,7 +138,7 @@ damage or pin a second opponent while holding a pin on the first.
 A pinned character can’t take any action except to attempt to escape
 from the pin.
 
-*Escape from Grapple:* Make an opposed grapple check. If the character
+**Escape from Grapple:** Make an opposed grapple check. If the character
 succeeds, he or she can escape the grapple. If more than one opponent is
 grappling the character, the grapple check result has to beat all their
 check results to escape. (Opponents don’t have to try to hold a
@@ -152,7 +152,7 @@ if the character gets multiple attacks.
 If the character has not used his or her move action for the round, the
 character may do so after escaping the grapple.
 
-\*Escape from Pin: \*Make an opposed grapple check. If the character
+**Escape from Pin:** Make an opposed grapple check. If the character
 succeeds, he or she can escape from being pinned. (Opponents don’t have
 to try to keep the character pinned if they don’t want to.) The
 character is still being grappled, however.
@@ -162,14 +162,14 @@ the opponent’s grapple check to escape from the pin. This is an attack
 action that the character may only attempt once per round, even if the
 character gets multiple attacks.
 
-*Break Another’s Pin:* Make an opposed grapple check; if the character
+**Break Another’s Pin:** Make an opposed grapple check; if the character
 succeeds, he or she can break the hold that an opponent has over an
 ally.
 
-*Draw a Light Weapon:* A character can draw a light weapon as a move
+**Draw a Light Weapon:** A character can draw a light weapon as a move
 action.
 
-*Attack with a Light Weapon:* A character can attack with a light weapon
+**Attack with a Light Weapon:** A character can attack with a light weapon
 while grappling (but not while pinned or pinning). A character can’t
 attack with two weapons while grappling.
 

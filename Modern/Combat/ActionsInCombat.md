@@ -44,7 +44,9 @@ before the same initiative count that they began on.
 | Total defense | No |
 | Use a skill that takes an attack action | Usually |
 | Start/complete full-round action | Varies |
-| **Move Actions** |** Attack of Opportunity¹** |
+
+| Move Actions | Attack of Opportunity¹ |
+|---|---|
 | Move your speed | Yes |
 | Use a piece of equipment | No |
 | Climb (one-quarter speed) | No |
@@ -60,7 +62,9 @@ before the same initiative count that they began on.
 | Stand up from prone, sitting, or kneeling | Yes |
 | Swim | No |
 | Use a skill that takes a move action | Usually |
-| **Full-Round Actions** |** Attack of Opportunity¹** |
+
+| Full-Round Actions | Attack of Opportunity¹ |
+|---|---|
 | Bull rush (charge) | No |
 | Charge | No |
 | Coup de grace | Yes |
@@ -71,7 +75,9 @@ before the same initiative count that they began on.
 | Extinguish flames | No |
 | Use a skill that takes a full round | Usually |
 | Reload a firearm with an internal magazine | Yes |
-| *Free Actions* |* Attack of Opportunity*\*¹\* |
+
+| Free Actions | Attack of Opportunity¹ |
+|---|---|
 | Drop an object | No |
 | Drop to prone, sitting, or kneeling | No |
 | Speak | No |
@@ -81,15 +87,17 @@ before the same initiative count that they began on.
 | Load a weapon | Yes |
 | Trip an opponent⁴ | No (Yes if unarmed) |
 | Use a feat⁵ | Varies |
-| **No Action** |** Attack of Opportunity¹** |
+
+| No Action | Attack of Opportunity¹ |
+|---|---|
 | Delay | No |
 | 5-foot step | No |
 
-¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
-2 If the object is being held, carried, or worn by a creature, yes. If not, no.
-3 If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.
-4 These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.
-5The description of a feat defines its effect.
+¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.  
+² If the object is being held, carried, or worn by a creature, yes. If not, no.  
+³ If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.  
+⁴ These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.  
+⁵ The description of a feat defines its effect.  
 
 ## Action Types
 
@@ -172,13 +180,13 @@ nonlethal damage. Unarmed strikes count as light melee weapons (for
 purposes of two-weapon attack penalties and so on). The following
 exceptions to normal melee rules apply to unarmed attacks.
 
-Attacks of Opportunity: Making an unarmed attack against an armed
+**Attacks of Opportunity:** Making an unarmed attack against an armed
 opponent provokes an attack of opportunity from the character attacked.
 The attack of opportunity comes before the character’s attack. An
 unarmed attack does not provoke attacks of opportunity from other foes,
 nor does it provoke an attack of opportunity from an unarmed foe.
 
-“Armed” Unarmed Attacks: Sometimes a character or creature attacks
+**“Armed” Unarmed Attacks:** Sometimes a character or creature attacks
 unarmed but the attack still counts as armed. A creature with claws,
 fangs, and similar natural physical weapons, for example, counts as
 armed. Being armed counts for both offense and defense—not only does a
@@ -187,7 +195,7 @@ foe, but a character provokes an attack of opportunity from that
 creature if the character makes an unarmed attack against it. The Combat
 Martial Arts feat makes a character’s unarmed attacks count as armed.
 
-\*Unarmed Strike Damage: \*An unarmed strike from a Medium-size character
+**Unarmed Strike Damage:** An unarmed strike from a Medium-size character
 deals 1d3 points (plus the character’s Strength modifier, as normal) of
 nonlethal damage.
 
@@ -209,7 +217,7 @@ A character capable of making more than one ranged attack per round must
 use the full attack action (see Full-Round Actions, below) in order to
 make more than one attack.
 
-*Shooting or Throwing into a Melee:* If a character shoots or throws a
+**Shooting or Throwing into a Melee:** If a character shoots or throws a
 ranged weapon at a target that is engaged in melee with an ally, the
 character takes a –4 penalty on his or her attack roll because the
 character has to aim carefully to avoid hitting the ally. Two characters
@@ -224,7 +232,7 @@ engaged in melee with an ally.
 Because of the weapon’s unwieldy shape and size, an attacker using a
 longarm takes a –4 penalty on attacks against adjacent opponents.
 
-*Fighting Defensively:* A character can choose to fight defensively
+**Fighting Defensively:** A character can choose to fight defensively
 while making a ranged attack. If the character does so, he or she takes
 a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to
 Defense in the same round.
@@ -352,22 +360,22 @@ or she can’t use his or her move action to move any distance, but the
 character could still draw or put away a weapon, for instance (see Move
 Actions, above).
 
-*Fighting Defensively:* A character can choose to fight defensively when
+**Fighting Defensively:** A character can choose to fight defensively when
 taking a full attack action. If the character does so, he or she takes a
 –4 penalty on all attacks in a round to gain a +2 dodge bonus to Defense
 in the same round.
 
-Attacking with Two Weapons: If the character wields a second weapon in
+**Attacking with Two Weapons:** If the character wields a second weapon in
 his or her off hand, the character can get one extra attack per round
 with that weapon. Fighting in this way is very difficult, however—the
 character takes a –6 penalty on the regular attack or attacks with his
 or her primary hand and a –10 penalty on the attack with his or her off
 hand. A character can reduce these penalties in two ways.
 
-1\. If the off-hand weapon is light, the penalties are reduced by 2
+1. If the off-hand weapon is light, the penalties are reduced by 2
 each. (An unarmed strike is always considered light.)
 
-2\. The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
+2. The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
 and the off-hand penalty by 6.
 
 Table: Two-Weapon Fighting Penalties summarizes the interaction of all

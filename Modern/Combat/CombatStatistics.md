@@ -192,22 +192,22 @@ Modifiers.
 
 Other factors can add to a character’s Defense.
 
-*Feats:* Some feats give a bonus to a character’s Defense.
+**Feats:** Some feats give a bonus to a character’s Defense.
 
-*Natural Armor:* Some creatures have natural armor, which usually
+**Natural Armor:** Some creatures have natural armor, which usually
 consists of scales, fur, or layers of thick muscle.
 
-*Dodge Bonuses:* Some other Defense bonuses represent actively avoiding
+**Dodge Bonuses:** Some other Defense bonuses represent actively avoiding
 blows. These bonuses are called dodge bonuses. Any situation that denies
 a character his or her Dexterity bonus also denies his or her dodge
 bonuses. Unlike most sorts of bonuses, dodge bonuses stack with each
 other.
 
-*Magical Effects:* Some campaigns may include magic. Some magical
+**Magical Effects:** Some campaigns may include magic. Some magical
 effects offer enhancement bonuses to armor (making it more effective) or
 deflection bonuses that ward off attacks.
 
-*Touch Attacks*
+## Touch Attacks
 
 Some attacks disregard armor. In these cases, the attacker makes a touch
 attack roll (either a ranged touch attack roll or a melee touch attack
@@ -261,17 +261,17 @@ The Difficulty Class for a save is determined by the attack itself.
 
 The three different kinds of saving throws are:
 
-*Fortitude:* These saves measure a character’s ability to stand up to
+**Fortitude:** These saves measure a character’s ability to stand up to
 massive physical punishment or attacks against his or her vitality and
 health such as poison and paralysis. Apply a character’s Constitution
 modifier to his or her Fortitude saving throws.
 
-*Reflex:* These saves test a character’s ability to dodge massive
+**Reflex:** These saves test a character’s ability to dodge massive
 attacks such as explosions or car wrecks. (Often, when damage is
 inevitable, a character gets to make a Reflex save to take only half
 damage.) Apply the character’s Dexterity modifier to his or her Reflex
 saving throws.
 
-*Will:* These saves reflect a character’s resistance to mental influence
+**Will:** These saves reflect a character’s resistance to mental influence
 and domination as well as to many magical effects. Apply the character’s
 Wisdom modifier to his or her Will saving throws.

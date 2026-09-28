@@ -94,21 +94,21 @@ Object Hardness and Hit Points).
 | Handcuffs | 10 | 10 | 30 |
 | Metal bars | 10 | 15 | 30 |
 
-1Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
+¹ Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
 
-*Energy Attacks:* Acid and sonic/concussive attacks deal normal damage
+**Energy Attacks:** Acid and sonic/concussive attacks deal normal damage
 to most objects. Electricity and fire attacks deal half damage to most
 objects; divide the damage by 2 before applying the hardness. Cold
 attacks deal one-quarter damage to most objects; divide the damage by 4
 before applying the hardness.
 
-\*Ineffective Weapons: \*The GM may determine that certain weapons just
+**Ineffective Weapons:** The GM may determine that certain weapons just
 can’t deal damage effectively to certain objects.
 
-*Immunities:* Objects are immune to nonlethal damage and to critical
+**Immunities:** Objects are immune to nonlethal damage and to critical
 hits.
 
-*Saving Throws:* Unattended objects never make saving throws. They are
+**Saving Throws:** Unattended objects never make saving throws. They are
 considered to have failed their saving throws. An object attended by a
 character (being grasped, touched, or worn) receives a saving throw just
 as if the character herself were making the saving throw.
