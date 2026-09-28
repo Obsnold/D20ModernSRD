@@ -46,7 +46,7 @@ penalty on the attack roll when firing at an adjacent target.
 | Uzi (9mm submachine gun) | 2d6 | 20 | Ballistic | 40 ft. | S, A | 20 box | Large | 8 lb. | 18 | Res (+2) |
 | Winchester 94 (.444 hunting rifle) | 2d10 | 20 | Ballistic | 90 ft. | S | 6 int. | Large | 7 lb. | 15 | Lic (+1) |
 
-1This mastercraft weapon grants a +1 bonus on attack rolls.
+¹ This mastercraft weapon grants a +1 bonus on attack rolls.
 
 ## AKM/AK-47
 

@@ -42,22 +42,22 @@ Connecting a detonator to an explosive requires a Demolitions check (DC
 Failure by 10 or more means the explosive goes off as the detonator is
 being installed.
 
-*Blasting Cap:* This is a detonator without a built-in controller. It
+**Blasting Cap:** This is a detonator without a built-in controller. It
 can be wired into any electrical device, such as a light switch or a
 car’s ignition switch, with a Demolitions check (DC 10). When the
 electrical device is activated, the detonator goes off.
 
-*Radio Control:* This device consists of two parts: the detonator itself
+**Radio Control:** This device consists of two parts: the detonator itself
 and the activation device. The activation device is an electronic item
 about the size of a deck of cards, with an antenna, a safety, and an
 activation switch. When the switch is toggled, the activation device
 sends a signal to the detonator by radio, setting it off. It has a range
 of 500 feet.
 
-*Timed:* This is an electronic timer connected to the detonator. Like an
+**Timed:** This is an electronic timer connected to the detonator. Like an
 alarm clock, it can be set to go off at a particular time.
 
-\*Wired: \*This is the simplest form of detonator. The blasting cap
+**Wired:** This is the simplest form of detonator. The blasting cap
 connects by a wire to an activation device, usually a small pistol-grip
 device that the user squeezes. The detonator comes with 100 feet of
 wire, but longer lengths can be spliced in with a Demolitions check (DC
@@ -68,10 +68,10 @@ wire, but longer lengths can be spliced in with a Demolitions check (DC
 Holsters are generally available for all Medium-size or smaller
 firearms.
 
-*Hip:* This holster holds the weapon in an easily accessed—and easily
+**Hip:** This holster holds the weapon in an easily accessed—and easily
 seen—location.
 
-\*Concealed Carry: \*A concealed carry holster is designed to help keep a
+**Concealed Carry:** A concealed carry holster is designed to help keep a
 weapon out of sight (see Concealed Weapons and Objects). In most cases,
 this is a shoulder holster (the weapon fits under the wearer’s armpit,
 presumably beneath a jacket). Small or Tiny weapons can be carried in
@@ -97,13 +97,13 @@ A scope is a sighting device that makes it easier to hit targets at long
 range. However, although a scope magnifies the image of the target, it
 has a very limited field of view, making it difficult to use.
 
-*Standard:* A standard scope increases the range increment for a ranged
+**Standard:** A standard scope increases the range increment for a ranged
 weapon by one-half (multiply by 1.5). However, to use a scope a
 character must spend an attack action acquiring his or her target. If
 the character changes targets or otherwise lose sight of the target, he
 or she must reacquire the target to gain the benefit of the scope.
 
-\*Electro-Optical: \*An electro-optical scope functions the same as a
+**Electro-Optical:** An electro-optical scope functions the same as a
 standard scope in normal light. In darkness, however, the user sees
 through it as if he or she had the darkvision ability granted by night
 vision goggles.

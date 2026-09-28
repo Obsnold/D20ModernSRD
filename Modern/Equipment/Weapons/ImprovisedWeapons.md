@@ -29,7 +29,7 @@ Increase the range increment for creatures of Large size or larger as
 follows: Large 15 feet, Huge 30 feet, Gargantuan 60 feet, Colossal 120
 feet.
 
-Damage: Improvised weapons deal lethal damage based on their size,
+**Damage:** Improvised weapons deal lethal damage based on their size,
 although the GM may adjust the damage of an object that is especially
 light or heavy for its size. The wielder’s Strength modifier applies
 only to damage from Tiny or larger improvised weapons; do not apply the

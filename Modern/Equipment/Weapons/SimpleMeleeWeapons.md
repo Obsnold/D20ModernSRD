@@ -15,8 +15,8 @@ done nevertheless.
 | Pistol whip | 1d4 | 20 | Bludgeoning | — | Small | — | — | — |
 | Rifle butt | 1d6 | 20 | Bludgeoning | — | Large | — | — | — |
 | Sap | 1d6¹ | 20 | Bludgeoning | — | Small | 3 lb. | 2 | — |
-| Stun gun\*\*¹\*\* | 1d3 | 20 | Electricity | — | Tiny | 1 lb. | 5 | — |
-| Tonfa\*\*¹\*\* | 1d4 | 20 | Bludgeoning | — | Med | 2 lb. | 6 | — |
+| Stun gun¹ | 1d3 | 20 | Electricity | — | Tiny | 1 lb. | 5 | — |
+| Tonfa¹ | 1d4 | 20 | Bludgeoning | — | Med | 2 lb. | 6 | — |
 
 ¹ See the description of this weapon for special rules.
 

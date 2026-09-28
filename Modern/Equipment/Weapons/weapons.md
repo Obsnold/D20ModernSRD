@@ -44,7 +44,7 @@ forms of internal mechanisms, have varying rates of fire. The three
 possible rates of fire for handguns, longarms, and heavy weapons are
 single shot, semiautomatic, and automatic.
 
-*Single Shot:*\*\* \*\*A weapon with the single shot rate of fire requires
+**Single Shot:** A weapon with the single shot rate of fire requires
 the user to manually operate the action (the mechanism that feeds and
 cocks the weapon) between each shot. Pump shotguns and bolt-action
 rifles are examples of firearms with single shot rates of fire. A weapon
@@ -52,14 +52,14 @@ with the single shot rate of fire can fire only one shot per attack,
 even if the user has a feat or other ability that normally allow more
 than one shot per attack.
 
-*Semiautomatic (S):* Most firearms have the semiautomatic rate of fire.
+**Semiautomatic (S):** Most firearms have the semiautomatic rate of fire.
 These firearms feed and cock themselves with each shot. A semiautomatic
 weapon fires one shot per attack (effectively acting as a single shot
 weapon), but some feats allow characters armed with semiautomatic
 weapons to fire shots in rapid successions, getting in more than one
 shot per attack.
 
-*Automatic (A):* Automatic weapons fire a burst or stream of shots with
+**Automatic (A):** Automatic weapons fire a burst or stream of shots with
 a single squeeze of the trigger. Only weapons with the automatic rate of
 fire can be set on autofire or be used with feats that take advantage of
 automatic fire.
@@ -75,10 +75,10 @@ reason the entry does not also have a number. Weapons with a dash in
 this column have no magazines; they are generally thrown weapons, or
 weapons (such as bows) that are loaded as part of the firing process.
 
-*Box:* A box magazine is any type of magazine that can be removed and
+**Box:** A box magazine is any type of magazine that can be removed and
 reloaded separately from the weapon.
 
-*Cylinder:* A revolver keeps its ammunition in a cylinder, which is part
+**Cylinder:** A revolver keeps its ammunition in a cylinder, which is part
 of the weapon and serves as the firing chamber for each round as well.
 Unlike box magazines, cylinders can’t be removed, and they must be
 reloaded by hand. However, most revolvers can be used with a speed
@@ -86,11 +86,11 @@ loader. Using a speed loader is much like inserting a box magazine into
 a weapon. Without a speed loader, a firearm with a cylinder magazine
 must be loaded by hand.
 
-*Internal:* Some weapons keep their ammunition in an internal space,
+**Internal:** Some weapons keep their ammunition in an internal space,
 which must be loaded by hand. This is the case with most shotguns, as
 well as some rifles.
 
-*Linked:* Some machine guns use linked ammunition. The bullets are
+**Linked:** Some machine guns use linked ammunition. The bullets are
 chained together with small metal clips, forming a belt. Typically, a
 belt holds 50 bullets; any number of belts can be clipped together. In
 military units, as the gunner fires, an assistant clips new ammunition

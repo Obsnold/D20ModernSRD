@@ -3,20 +3,9 @@
 Many explosives require detonators, which are described in Weapon
 Accessories.
 
-**40mm Fragmentation Grenade**
-
-This small explosive device must be fired from a 40mm grenade launcher,
-such as the M79. It sprays shrapnel in all directions when it explodes.
-
-The 40mm fragmentation grenade has a minimum range of 40 feet. If fired
-against a target closer than 40 feet away, it does not arm and will not
-explode.
-
-The purchase DC given is for a box of 6 grenades.
-
 **Table: Grenades and Explosives**
 
-| **Weapon** |** Damage** |** Critical** |** Damage Type** |** Burst Radius** |** Reflex DC** |** Range Increment** |** Size** |** Weight** |** Purchase DC** |** Restriction** |
+| Weapon | Damage | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 40mm fragmentation grenade | 3d6 | — | Slashing | 10 ft. | 15 | — | Tiny | 1 lb. | 16 | Mil (+3) |
 | C4/Semtex | 4d6 | — | Concussion | 10 ft. | 18 | — | Small | 1 lb. | 12 | Mil (+3) |
@@ -27,6 +16,17 @@ The purchase DC given is for a box of 6 grenades.
 | Tear gas grenade | See text | — | — | See text | — | 10 ft. | Small | 2 lb. | 12 | Res (+2) |
 | Thermite grenade | 6d6 | — | Fire | 5 ft. | 12 | 10 ft. | Small | 2 lb. | 17 | Mil (+3) |
 | White phosphorus grenade | 2d6 | — | Fire | 20 ft. | 12 | 10 ft. | Small | 2 lb. | 15 | Mil (+3) |
+
+## 40mm Fragmentation Grenade
+
+This small explosive device must be fired from a 40mm grenade launcher,
+such as the M79. It sprays shrapnel in all directions when it explodes.
+
+The 40mm fragmentation grenade has a minimum range of 40 feet. If fired
+against a target closer than 40 feet away, it does not arm and will not
+explode.
+
+The purchase DC given is for a box of 6 grenades.
 
 ## C4/Semtex
 
@@ -119,7 +119,7 @@ purple. As such, they can be used as signal devices.
 
 The purchase DC given is for a box of 6 grenades.
 
-**Tear Gas Grenade**
+## Tear Gas Grenade
 
 Military and police forces use these weapons to disperse crowds and
 smoke out hostage takers. On the round that it is thrown, a tear gas
@@ -130,7 +130,7 @@ rounds, though a moderate wind (11+ mph) disperses the smoke in 4 rounds
 and a strong wind (21+ mph) disperses it in 1 round.
 
 A character caught in a cloud of tear gas must make a Fortitude save (DC
-15\) or be nauseated. This effect lasts as long as the character is in
+15) or be nauseated. This effect lasts as long as the character is in
 the cloud and for 1d6 rounds after he or she leaves the cloud. Those who
 succeed at their saves but remain in the cloud must continue to save
 each round. A gas mask renders the target immune to the effects. A wet
@@ -139,7 +139,7 @@ Fortitude save.
 
 The purchase DC given is for a box of 6 grenades.
 
-**Thermite Grenade**
+## Thermite Grenade
 
 Thermite does not technically explode. Instead, it creates intense heat
 meant to burn or melt through an object upon which the grenade is set.

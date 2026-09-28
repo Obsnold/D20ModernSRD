@@ -39,25 +39,25 @@ ongoing subscription costs.
 Still cameras let a character capture a record of what he or she has
 seen.
 
-\*35mm: \*The best choice for the professional photographer, this camera
+**35mm:** The best choice for the professional photographer, this camera
 can accept different lenses and takes the highest-quality picture. A
 camera is needed to use the photography aspect of the Craft (visual art)
 skill. The film used in a camera must be developed.
 
-*Digital:* A digital camera uses no film; instead, its pictures are
+**Digital:** A digital camera uses no film; instead, its pictures are
 simply downloaded to a computer as image files. No film developing is
 necessary.
 
-*Disposable:* A 35mm camera with film built in can be purchased from
+**Disposable:** A 35mm camera with film built in can be purchased from
 vending machines, tourist traps, drugstores, and hundreds of other
 places. Once the film is used, the entire camera is turned in to have
 the film developed.
 
-*Film:* The medium upon which photographs are stored, film comes in a
+**Film:** The medium upon which photographs are stored, film comes in a
 variety of sizes and speeds. The purchase DC represents the cost of a
 roll of 24 exposures of high-speed (ASA 400) film.
 
-*Film Developing:* In most areas, drugstores and photo shops provide
+**Film Developing:** In most areas, drugstores and photo shops provide
 1-hour service; in others, it takes 24 hours. In really remote areas,
 film may have to be sent away for developing, taking a week or longer.
 The purchase DC represents the cost of getting two prints of each shot
@@ -77,13 +77,13 @@ mouse, a monitor, speakers, a CD-ROM drive, a dial-up modem, and the
 latest processor. A character needs a computer to make Computer Use
 checks and to make Research checks involving the Internet.
 
-\*Desktop: \*Bulky but powerful, these machines are common on desks
+**Desktop:** Bulky but powerful, these machines are common on desks
 everywhere.
 
-*Notebook:* Slim, lightweight, and portable, notebook computers have
+**Notebook:** Slim, lightweight, and portable, notebook computers have
 most of the functions available on desktop computers.
 
-*Upgrade:* A character can upgrade a desktop or notebook computer’s
+**Upgrade:** A character can upgrade a desktop or notebook computer’s
 processor to provide a +1 equipment bonus on Computer Use checks.
 Increase the purchase DC of a desktop by +1 or a notebook by +2 to
 purchase an upgrade.
@@ -107,12 +107,12 @@ Internet but without the speed of broadband or the flexibility of
 cellular. A dial-up modem uses a standard telephone line; while it’s
 connected, that telephone line can’t be used for another purpose.
 
-\*Broadband: \*Cable modems and DSL services bring high-speed Internet
+**Broadband:** Cable modems and DSL services bring high-speed Internet
 access into the homes of millions. A broadband modem gives a character
 on-demand, high-speed access to data, allowing Computer Use and Research
 checks involving the Internet to be made in half the normal time.
 
-*Cellular:* A cellular modem allows a character to connect her notebook
+**Cellular:** A cellular modem allows a character to connect her notebook
 computer to the Internet anywhere he or she can use a cell phone.
 However, access speed is slow, and any Computer Use or Research check
 involving the Internet takes half again the normal time (multiply by
@@ -155,11 +155,11 @@ from hard copy into a computer in digital form.
 This hand-held radio transceiver communicates with any similar device
 operating on the same frequency and within range.
 
-Basic: This dime-store variety has only a few channels. Anyone else
+**Basic:** This dime-store variety has only a few channels. Anyone else
 using a similar walkie-talkie within range can listen in on the
 character’s conversations. It has a range of 2 miles.
 
-Professional: This high-end civilian model allows a character to program
+**Professional:** This high-end civilian model allows a character to program
 in twenty different frequencies from thousands of choices—making it
 likely that the character can find a frequency that’s not being used by
 anyone else within range. The device can be used with or without a

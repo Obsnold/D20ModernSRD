@@ -45,24 +45,24 @@ part: pants or skirt, shirt, undergarments, appropriate shoes or boots,
 socks or stockings, and any necessary belt or suspenders. The clothes a
 character wears does not count against the weight limit for encumbrance.
 
-*Business:* A business outfit generally includes a jacket or blazer, and
+**Business:** A business outfit generally includes a jacket or blazer, and
 it tends to look sharp and well groomed without being overly formal.
 
-\*Casual: \*Casual clothes range from cut-off jeans and a T-shirt to
+**Casual:** Casual clothes range from cut-off jeans and a T-shirt to
 neatly pressed khakis and a hand-knit sweater.
 
-*Formal:* From a little black dress to a fully appointed tuxedo, formal
+**Formal:** From a little black dress to a fully appointed tuxedo, formal
 clothes are appropriate for “black tie” occasions. Special designer
 creations can have purchase DCs much higher than shown on the table.
 
-*Fatigues:* Called “battle dress uniforms” (or BDUs) in the United
+**Fatigues:** Called “battle dress uniforms” (or BDUs) in the United
 States Army, these are worn by hardened veterans and wannabes alike.
 They’re rugged, comfortable, and provide lots of pockets. They are also
 printed in camouflage patterns: woodland, desert, winter (primarily
 white), urban (gray patterned), and black are available. When worn in an
 appropriate setting, fatigues grant a +2 bonus on Hide checks.
 
-*Uniform:* From the cable guy to a senior Air Force officer, people on
+**Uniform:** From the cable guy to a senior Air Force officer, people on
 the job tend to wear uniforms—making such clothing an essential part of
 some disguises, since a uniform inclines people to trust the wearer.
 
@@ -74,7 +74,7 @@ camouflaging elements can easily be added. A figure under a ghillie suit
 is nearly impossible to discern.
 
 A character wearing a ghillie suit with appropriate coloration gains a
-+10 bonus on Hide checks. (The suit’s coloration can be changed with a
++10 bonus on Hide checks. The suit’s coloration can be changed with a
 move action. However, the bulky suit imposes a penalty of –4 on all
 Dexterity checks, Dexterity-based skill checks (except Hide), and melee
 attack rolls.
@@ -86,26 +86,26 @@ provide additional concealment for things a character is carrying (they
 often qualify as loose or bulky clothing; see Concealed Weapons and
 Objects).
 
-*Coat:* An outer garment worn on the upper body. Its length and style
+**Coat:** An outer garment worn on the upper body. Its length and style
 vary according to fashion and use.
 
-*Fatigue Jacket:* A lightweight outer garment fashioned after the
+**Fatigue Jacket:** A lightweight outer garment fashioned after the
 fatigue uniforms worn by military personnel when performing their
 standard duties.
 
-*Overcoat:* A warm coat worn over a suit jacket or indoor clothing.
+**Overcoat:** A warm coat worn over a suit jacket or indoor clothing.
 
-*Parka:* This winter coat grants the wearer a +2 equipment bonus on
+**Parka:** This winter coat grants the wearer a +2 equipment bonus on
 Fortitude saves made to resist the effects of cold weather.
 
-*Photojournalist’s Vest:* Made of cotton with mesh panels to keep the
+**Photojournalist’s Vest:** Made of cotton with mesh panels to keep the
 wearer cool, the photojournalist’s vest has numerous obvious—and
 hidden—pockets. It counts as loose and bulky clothing when used to
 conceal Small or smaller weapons, and also grants the “specially
 modified to conceal object” bonus when used to conceal Tiny or smaller
 objects. See Concealed Weapons and Objects.
 
-*Windbreaker:* This is a lightweight jacket made of wind-resistant
+**Windbreaker:** This is a lightweight jacket made of wind-resistant
 material.
 
 ## Tool Belt

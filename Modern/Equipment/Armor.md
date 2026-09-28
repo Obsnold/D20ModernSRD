@@ -88,31 +88,31 @@ armor on the black market.
 | Plate mail | Archaic | +8 | +3 | +1 | –6 | 20 | 50 lb. | 23 | — |
 | Forced entry unit | Tactical | +9 | +3 | +0 | –8 | 20 | 20 lb. | 19 | Lic (+1) |
 
-Light Armor
+## Light Armor
 
 For the character who doesn’t want to be bogged down by more cumbersome
 armor types, a leather garment or some sort of concealable armor is just
 the ticket.
 
-## Leather Jacket
+### Leather Jacket
 
 This armor is represented by a heavy leather biker’s jacket. A number of
 other impromptu armors, such as a football pads and a baseball catcher’s
 pads, offer similar protection and game statistics.
 
-## Leather Armor
+### Leather Armor
 
 This archaic armor consists of a breastplate made of thick, lacquered
 leather, along with softer leather coverings for other parts of the
 body.
 
-## Light Undercover Shirt
+### Light Undercover Shirt
 
 Designed for deep undercover work in which it’s critical that the wearer
 not appear to be armed or armored, this garment consists of a T-shirt
 with a band of light protective material sewn in around the lower torso.
 
-## Pull-Up Pouch Vest
+### Pull-Up Pouch Vest
 
 This garment, consisting of a torso apron of light protective material
 held up by a loop around the neck, can be stored in an innocuous fanny
@@ -120,7 +120,7 @@ pack. Deploying the apron is a move action. This garment provides no
 equipment bonus (and has no armor penalty or maximum Dexterity bonus)
 when undeployed.
 
-## Undercover Vest
+### Undercover Vest
 
 Covering a larger area of the torso, this vest provides better
 protection than the light undercover shirt—but it’s also more easily
@@ -128,13 +128,13 @@ noticed. It’s best used when the armor should remain unseen but the
 wearer doesn’t expect to face much scrutiny, granting a +2 bonus on Spot
 checks to notice the armor.
 
-Medium Armor
+## Medium Armor
 
 Most medium armor (except for the archaic chainmail shirt) is not
 terribly heavy, but nonetheless provides a significant amount of
 protection—at the expense of some speed.
 
-## Concealable Vest
+### Concealable Vest
 
 Standard issue in many police forces, this vest provides maximum
 protection in a garment that can be worn all day long under regular
@@ -142,44 +142,44 @@ clothing. While it may go unnoticed by a quick glance, it is usually
 visible to anyone looking closely for it, granting a +4 bonus on Spot
 checks to notice the armor.
 
-## Chainmail Shirt
+### Chainmail Shirt
 
 This medieval-era armor is a long shirt made of interlocking metal
 rings, with a layer of padding underneath. It’s heavy, making it
 uncomfortable to wear for long periods of time.
 
-## Light-Duty Vest
+### Light-Duty Vest
 
 A lightweight tactical vest designed for extended use by riot police and
 forces on alert for potential attack, this armor sacrifices a degree of
 protection for a modicum of comfort—at least compared to other tactical
 body armors.
 
-## Tactical Vest
+### Tactical Vest
 
 The standard body armor for police tactical units, this vest provides
 full-torso protection in the toughest flexible protective materials
 available.
 
-Heavy Armor
+## Heavy Armor
 
 For the best protection money can buy, go with heavy armor, but watch
 out for the armor penalty.
 
-## Plate Mail
+### Plate Mail
 
 This medieval-era armor consists of metal plates that cover the entire
 body. It’s heavy and cumbersome compared to most modern armor, but it
 does provide a great deal of protection.
 
-## Special Response Vest
+### Special Response Vest
 
 Built like the tactical vest, but incorporating groin and neck
 protection as well as a ceramic plate over the chest, this armor
 provides additional protection in battles against heavily armed
 opponents.
 
-## Forced Entry Unit
+### Forced Entry Unit
 
 The most powerful protection available is built into this suit, which
 consists of a heavy torso jacket with ceramic plates over the chest and

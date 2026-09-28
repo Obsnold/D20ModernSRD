@@ -51,16 +51,16 @@ purpose of determining carrying capacity.
 Binoculars are useful for watching opponents, wild game, and sporting
 events from a long distance.
 
-*Standard:* Standard binoculars reduce the range penalty for Spot checks
+**Standard:** Standard binoculars reduce the range penalty for Spot checks
 to –1 for every 50 feet (instead of –1 for every 10 feet). Using
 binoculars for Spot checks takes five times as long as making the check
 unaided.
 
-*Rangefinding:* In addition to the benefit of standard binoculars,
+**Rangefinding:** In addition to the benefit of standard binoculars,
 rangefinding binoculars include a digital readout that indicates the
 exact distance to the object on which they are focused.
 
-*Electro-Optical:* Electro-optical binoculars function the same as
+**Electro-Optical:** Electro-optical binoculars function the same as
 standard binoculars in normal light. In darkness, however, users looking
 through them see as if they had the darkvision ability granted by night
 vision goggles.
@@ -104,13 +104,13 @@ covered here are professional, heavy-duty models, rugged enough to
 withstand the rigors of modern adventuring. Flashlights negate penalties
 for darkness within their illuminated areas.
 
-*Penlight:* This small flashlight can be carried on a key ring. It
+**Penlight:** This small flashlight can be carried on a key ring. It
 projects a beam of light 10 feet long and 5 feet wide at its end.
 
-*Standard:* This heavy metal flashlight projects a beam 30 feet long and
+**Standard:** This heavy metal flashlight projects a beam 30 feet long and
 15 feet across at its end.
 
-*Battery Flood:* Practically a handheld spotlight, this item projects a
+**Battery Flood:** Practically a handheld spotlight, this item projects a
 bright beam 100 feet long and 50 feet across at its end.
 
 ## Gas Mask
@@ -135,12 +135,12 @@ While a compass or GPS receiver can help characters find their way
 through the wilderness, a map can tell a character where he or she is
 going and what to expect when he or she gets there.
 
-*Road Atlas:* Road atlases are available for the entire United States,
+**Road Atlas:** Road atlases are available for the entire United States,
 showing all major roads in each state. They can also be purchased for
 most major metropolitan areas, detailing every street in the entire
 region.
 
-*Tactical Map:* A tactical map covers a small area—usually a few miles
+**Tactical Map:** A tactical map covers a small area—usually a few miles
 on a side—in exacting detail. Generally, every building is represented,
 along with all roads, trails, and areas of vegetation. Tactical maps are
 not available for all areas, and, though inexpensive, they generally

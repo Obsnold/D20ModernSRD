@@ -10,10 +10,10 @@ weapon.
 | Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
 |---|---|---|---|---|---|---|---|---|---|---|
 | M2HB (heavy machine gun) | 2d12 | 20 | Ballistic | 110 ft. | A | Linked | Huge | 75 lb. | 22 | Mil (+3) |
-| M72A3 LAW (rocket launcher) | 10d6² | — | — | 150 ft. | 1 | 1 int. | Large | 5 lb. | 15 | Mil (+3) |
-| M79 (grenade launcher) | Varies² | — | — | 70 ft. | 1 | 1 int. | Large | 7 lb. | 14 | Mil (+3) |
+| M72A3 LAW (rocket launcher) | 10d6¹ | — | — | 150 ft. | 1 | 1 int. | Large | 5 lb. | 15 | Mil (+3) |
+| M79 (grenade launcher) | Varies¹ | — | — | 70 ft. | 1 | 1 int. | Large | 7 lb. | 14 | Mil (+3) |
 
-² This weapon does special damage. See the weapon description.
+¹ This weapon does special damage. See the weapon description.
 
 ## M2HB
 

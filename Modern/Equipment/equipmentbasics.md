@@ -31,22 +31,22 @@ object. A license or fee is a separate item, purchased in addition to
 (and usually before) the object to which it applies. The four levels of
 restriction are as follows.
 
-Licensed: The owner must obtain a license to own or operate the object
+**Licensed:** The owner must obtain a license to own or operate the object
 legally. Generally, the license is not expensive, and obtaining it has
 few if any additional legal requirements.
 
-Restricted: Only specially qualified individuals or organizations are
+**Restricted:** Only specially qualified individuals or organizations are
 technically allowed to own the object. However, the real obstacles to
 ownership are time and money; anyone with sufficient patience and cash
 can eventually acquire the necessary license.
 
-Military: The object is sold primarily to legitimate police and military
+**Military:** The object is sold primarily to legitimate police and military
 organizations. A military rating is essentially the same as restricted
 (see above), except that manufacturers and dealers are generally under
 tight government scrutiny and are therefore especially wary of selling
 to private individuals.
 
-Illegal: The object is illegal in all but specific, highly regulated
+**Illegal:** The object is illegal in all but specific, highly regulated
 circumstances.
 
 **Table: Restricted Objects**
@@ -173,7 +173,7 @@ character concealing an object before he or she heads out into public
 can usually take 10 unless he or she is rushed, trying to conceal it
 when others might see, or under other unusual constraints. Sleight of
 Hand can be used untrained in this instance, but the character must take
-10\.
+10.
 
 ### Size and Concealment
 

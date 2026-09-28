@@ -1,9 +1,5 @@
 # EQUIPMENT
 
-Heroes need equipment: the weapons, armor, vehicles, and general gear
-that let them take on the challenges of a modern adventure. This section
-covers what a character can buy, what it costs, and what it does.
-
 ## Using Equipment
 
 - [Equipment Basics](equipmentbasics.md)

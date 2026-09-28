@@ -8,7 +8,7 @@ optimally. Without the use of these items, often referred to as kits,
 skill checks made with these skills are at a –4 penalty. Skills and the
 kits they are associated with are listed below. See the descriptions of
 the kits for additional details. Note that kits should be restocked
-periodically (purchase DC 5 less than the original purchase DC.
+periodically purchase DC 5 less than the original purchase DC.
 
 Note that some skills, by their nature, require a piece of equipment to
 utilize.
@@ -142,10 +142,10 @@ This collection of hand tools and small parts typically includes a
 variety of pliers, drivers, cutting devices, fasteners, power tools, and
 leads and wires.
 
-*Basic:* This small kit allows a character to make Repair checks to
+**Basic:** This small kit allows a character to make Repair checks to
 electrical or electronic devices without penalty.
 
-*Deluxe:* This kit consists of a number of specialized diagnostic and
+**Deluxe:** This kit consists of a number of specialized diagnostic and
 repair tools as well as thousands of spare parts. It grants a +2
 equipment bonus on Repair checks for electrical or electronic devices
 and allows a character to make Craft (electronic) checks without
@@ -160,11 +160,11 @@ gathering and storing of evidence for use by such a lab. Without an
 evidence kit, a character receives a –4 penalty to use the collect
 evidence option of the Investigate skill.
 
-*Basic:* A basic evidence kit includes clean containers, labels, gloves,
+**Basic:** A basic evidence kit includes clean containers, labels, gloves,
 tweezers, swabs, and other items to gather bits of physical evidence and
 prevent them from becoming contaminated.
 
-*Deluxe:* A deluxe kit includes all the materials in a basic kit, plus
+**Deluxe:** A deluxe kit includes all the materials in a basic kit, plus
 supplies for analyzing narcotic substances at the scene and for
 gathering more esoteric forms of physical evidence such as casts and
 molds of footprints or vehicle tracks, as well as chemical residues and
@@ -257,10 +257,10 @@ This collection of hand tools and small parts typically includes a
 variety of pliers, drivers, cutting devices, fasteners, and even power
 tools.
 
-*Basic:* This kit, which fits in a portable toolbox, allows a character
+**Basic:** This kit, which fits in a portable toolbox, allows a character
 to make Repair checks for mechanical devices without penalty.
 
-*Deluxe:* This kit fills a good-sized shop cabinet. It includes a broad
+**Deluxe:** This kit fills a good-sized shop cabinet. It includes a broad
 variety of specialized hand tools and a selection of high-quality power
 tools. It grants a +2 equipment bonus on Repair checks for mechanical
 devices and allows a character to make Craft (mechanical) or Craft
@@ -320,7 +320,7 @@ penalty). Wheeled vehicles passing over the strip are automatically
 hit—although vehicles equipped with puncture-resistant tires are not
 affected.
 
-**Surgery Kit**
+## Surgery Kit
 
 About the size of a small backpack, this kit contains the instruments
 needed for rudimentary emergency field surgery. A surgery kit is used

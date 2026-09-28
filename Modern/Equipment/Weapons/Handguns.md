@@ -48,7 +48,7 @@ Ranged weapons that use box magazines come with one full magazine.
 | TEC-9 (9mm machine pistol) | 2d6 | 20 | Ballistic | 40 ft. | S or A | 32 box | Med | 4 lb. | 14 | Res (+2) |
 | Walther PPK (.32 autoloader) | 2d4 | 20 | Ballistic | 30 ft. | S | 7 box | Small | 1 lb. | 15 | Lic (+1) |
 
-1This mastercraft weapon grants a +1 bonus on attack rolls.
+¹ This mastercraft weapon grants a +1 bonus on attack rolls.
 
 ## Beretta 92F
 

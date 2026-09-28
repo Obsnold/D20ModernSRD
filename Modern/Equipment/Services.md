@@ -62,13 +62,13 @@ the court. If not, increase the purchase DC by as much as 5. Whatever
 the base purchase DC, a successful Diplomacy check (DC 15) by the
 suspect reduces the purchase DC by 2.
 
-*Property Crime:* The crime involved only the destruction of property;
+**Property Crime:** The crime involved only the destruction of property;
 no one was attacked or seriously hurt as part of the crime.
 
-*Assault Crime:* The crime involved an attack intended to capture, kill,
+**Assault Crime:** The crime involved an attack intended to capture, kill,
 or seriously injure the victim.
 
-*Death Crime:* Someone died as a result of the crime.
+**Death Crime:** Someone died as a result of the crime.
 
 ## Medical Services
 
@@ -81,14 +81,14 @@ for more information on the medical services described below.
 In a hospital setting, the necessary treat Injury checks are always
 successful. The purchase DC is per check.
 
-*Long-Term Care:* The purchase DC represents treatment for regaining hit
+**Long-Term Care:** The purchase DC represents treatment for regaining hit
 points or ability score points more quickly than normal on a given day.
 
-*Restore Hit Points:* The purchase DC represents treatment for hit point
+**Restore Hit Points:** The purchase DC represents treatment for hit point
 damage from wounds or injuries on a given day.
 
-\*Surgery: \*The purchase DC represents the cost of a single surgical
+**Surgery:** The purchase DC represents the cost of a single surgical
 procedure.
 
-*Poison/Disease:* The purchase DC represents one application of
+**Poison/Disease:** The purchase DC represents one application of
 treatment for a poison or disease.
