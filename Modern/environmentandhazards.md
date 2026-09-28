@@ -13,9 +13,9 @@ light source illuminates and how long it lasts.
 | Candle | 5 feet | 12 hours |
 | Torch | 20 feet | 2 hours |
 | Halogen lantern | 40 feet | 24 hours |
-| Flashlight | 20 feet\* | 6 hours |
+| Flashlight | 20 feet¹ | 6 hours |
 
-\*Creates a beam 30 feet long and 5 feet high.
+¹ Creates a beam 30 feet long and 5 feet high.
 
 ## Heat and Cold
 
@@ -191,7 +191,7 @@ A character has a 5% chance (roll of 1 on 1d20) to expose him or herself
 to a poison whenever the character applies it to a weapon or otherwise
 readies it for use. Additionally, a character who rolls a 1 on an attack
 roll with a poisoned weapon must succeed at a Reflex saving throw (DC
-15\) or accidentally poison him or herself with the weapon.
+15) or accidentally poison him or herself with the weapon.
 
 ### Poison Immunity
 
@@ -238,15 +238,15 @@ damage is taken each day the saving throw fails.
 
 | Disease | Type | Incubation Period | Initial Damage | Secondary Damage |
 |---|---|---|---|---|
-| Anthrax | Inhaled/Injury DC 16 | 1d2 days | 1 Con | 1d4 Con\* |
+| Anthrax | Inhaled/Injury DC 16 | 1d2 days | 1 Con | 1d4 Con¹ |
 | Small pox | Inhaled/Contact DC 15 | 2d4 days | 1 Str and 1 Con | 1d2 Str and 1d2 Con |
 | Pneumonia | Inhaled DC 12 | 1d4 days | 1 Str | 1d3 Str and 1d3 Con |
-| Hantavirus | Injury DC 14 | 1 day | 1d2 Str | 1d2 Str\* and 1d2 Con\* |
-| Necrotizing faciitis | Contact DC 13 | 1d6 days | 1 Con | 1d3 Con\* |
-| West Nile virus | Injury DC 12 | 1d4 days | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con\* |
+| Hantavirus | Injury DC 14 | 1 day | 1d2 Str | 1d2 Str¹ and 1d2 Con¹ |
+| Necrotizing faciitis | Contact DC 13 | 1d6 days | 1 Con | 1d3 Con¹ |
+| West Nile virus | Injury DC 12 | 1d4 days | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con¹ |
 | Salmonellosis | Ingested DC 13 | 1 day | 1 Str and 1 Dex | 1 Str and 1d3 Dex |
 
-\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
+¹ If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
 
 ## Acid
 
@@ -255,13 +255,13 @@ varies depending on the acid’s strength, as noted on Table: Acid Damage.
 
 **Table: Acid Damage**
 
-| Acid Strength | Splash Attack\* | Total Immersion\* |
+| Acid Strength | Splash Attack¹ | Total Immersion¹ |
 |---|---|---|
 | Mild | 1d6 | 1d10 |
 | Potent | 2d6 | 2d10 |
 | Concentrated | 3d6 | 3d10 |
 
-\*Damage per round of exposure.
+¹ Damage per round of exposure.
 
 Acid damage from an attack reduces hit points. A character fully
 immersed in acid takes potentially more damage per round of exposure

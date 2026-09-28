@@ -86,7 +86,7 @@ the character dies or becomes stable naturally or with help (see below).
 
 When a character’s current hit points drop to –10 or lower, he or she is
 dead. A character can also die if his or her Constitution is reduced to
-0\.
+0.
 
 ## Stable Characters and Recovery
 

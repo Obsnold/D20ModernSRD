@@ -6,20 +6,21 @@ represents a range of possible movement (see Table: Vehicle Speeds and
 Modifiers). Each round, a vehicle moves according to its current speed
 category.
 
-**Table: Vehicle Speeds and Modifiers**
+**Table: Vehicle Speeds and Modifiers Character**
 
-| Speed Category | Character Scale | Chase Scale | Defense Modifier | Check/Roll Modifier | | |
+|  | Character Scale | Chase Scale | | |
+
+| Speed Category | Character Scale Movement¹ | Character Scale Turn Number² | Chase Scale Movement¹ | Chase Scale Turn Number² | Defense Modifier | Check/Roll Modifier |
 |---|---|---|---|---|---|---|
-| | **Movement¹** |** Turn Number²** |** Movement¹** |** Turn Number²** | | |
 | Stationary³ | 0 | — | 0 | — | +0 | — |
 | Alley speed | 1–20 | 1 | 1–2 | 1 | +0 | +0 |
 | Street speed | 21–50 | 2 | 3–5 | 1 | +1 | –1 |
 | Highway speed | 51–150 | 4 | 6–15 | 2 | +2 | –2 |
 | All-out | 151+ | 8 | 16+ | 2 | +4 | –4 |
 
-¹ The number of squares a vehicle can move at this speed.
-2 The number of squares a vehicle must move at this speed before making a turn.
-3 A stationary vehicle cannot move or maneuver.
+¹ The number of squares a vehicle can move at this speed.  
+² The number of squares a vehicle must move at this speed before making a turn.  
+³ A stationary vehicle cannot move or maneuver.  
 
 ## Declaring Speed
 
