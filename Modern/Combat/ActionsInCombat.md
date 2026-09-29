@@ -93,11 +93,11 @@ before the same initiative count that they began on.
 | Delay | No |
 | 5-foot step | No |
 
-¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.  
-² If the object is being held, carried, or worn by a creature, yes. If not, no.  
-³ If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.  
-⁴ These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.  
-⁵ The description of a feat defines its effect.  
+¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
+² If the object is being held, carried, or worn by a creature, yes. If not, no.
+³ If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.
+⁴ These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.
+⁵ The description of a feat defines its effect.
 
 ## Action Types
 

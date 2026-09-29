@@ -62,10 +62,10 @@ character’s Wealth bonus decreases.
 
 A newly created 1st-level character’s Wealth bonus is +0 plus:
 
- - Wealth provided by the character’s starting occupation.
- - Bonus from the Windfall feat, if taken.
- - 2d4 die roll.
- - +1 for having 1 to 4 ranks in the Profession skill.
+- Wealth provided by the character’s starting occupation.
+- Bonus from the Windfall feat, if taken.
+- 2d4 die roll.
+- +1 for having 1 to 4 ranks in the Profession skill.
 
 ## Shopping and Time
 

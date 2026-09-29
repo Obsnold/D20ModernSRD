@@ -180,8 +180,8 @@ modified by the form of locomotion selected.
 | Remote control link, 200 feet | +3 |
 | Remote control link, 300 feet | +5 |
 
-¹ Select only one of the options in this category.  
-² Select one or more of the options in this category.  
+¹ Select only one of the options in this category.
+² Select one or more of the options in this category.
 ³ Necessary for a robot built to use any skill except Listen or Spot.
 
 Select a frame size and form, add manipulators and sensors as necessary,
