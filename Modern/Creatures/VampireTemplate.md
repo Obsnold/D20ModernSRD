@@ -207,14 +207,14 @@ character.
 | Wis | 10 |
 | Cha | 20 |
 
-**Skills:** Bluff +17\*, Diplomacy +9\*, Disguise +9, Drive +8, Gather
-Information +9\*, Hide +18, Intimidate +9\*, Knowledge (art) +6,
+**Skills:** Bluff +17¹, Diplomacy +9¹, Disguise +9, Drive +8, Gather
+Information +9¹, Hide +18, Intimidate +9¹, Knowledge (art) +6,
 Knowledge (current events) +7, Knowledge (popular culture) +7, Perform
-(stringed instruments) +9\*, Listen +10, Move Silently +18, Read/Write
+(stringed instruments) +9¹, Listen +10, Move Silently +18, Read/Write
 Language (any two), Search +10, Sense Motive +8, Speak Language (any
 two), Spot +10.
 
-\*The vampire gains a +3 bonus on these Charisma-based skill checks when
+¹ The vampire gains a +3 bonus on these Charisma-based skill checks when
 influencing members of its chosen gender (see Charm).
 
 **Feats:** Alertness, Combat Reflexes, Dodge, Exotic Melee Weapon

@@ -16,9 +16,7 @@ classes.
 
 - [Creature Overview](creatureoverview.md)
 - [Creature Types](Types/creaturetypes.md)
-- [Creature Weaknesses](CreatureWeaknesses.md)
 - [Researching Creatures](ResearchingCreatures.md)
-- [Source Effects](SourceEffects.md)
 
 ## Creature Descriptions
 

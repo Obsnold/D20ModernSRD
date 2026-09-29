@@ -95,11 +95,11 @@ revolver), 50 rounds of .357 ammunition, hip holster, casual clothes.
 | Wis | 10 |
 | Cha | 9 |
 
-**Skills:** Climb +2\*, Drive +3, Escape Artist +3\*, Hide +5\*,
-Knowledge (streetwise) +2, Listen +3, Move Silently +8\*, Read/Write
-Goblin, Speak Goblin, Spot +3, Tumble +3\*.
+**Skills:** Climb +2¹, Drive +3, Escape Artist +3¹, Hide +5¹,
+Knowledge (streetwise) +2, Listen +3, Move Silently +8¹, Read/Write
+Goblin, Speak Goblin, Spot +3, Tumble +3¹.
 
-\*Includes the –2 armor penalty for wearing an undercover vest.
+¹ Includes the –2 armor penalty for wearing an undercover vest.
 
 **Feats:** Alertness, Armor Proficiency (light), Personal Firearms
 Proficiency, Point Blank Shot, Simple Weapons Proficiency.

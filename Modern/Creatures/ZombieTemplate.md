@@ -5,7 +5,7 @@ Zombies do not speak, but they understand the orders of their creators.
 ## Template Traits
 
 “Zombie” is a template that can be added to any corporeal creature other
-than an undead (referred to hereafter as the base creature. It uses all
+than an undead (referred to hereafter as the base creature). It uses all
 the base creature’s statistics and special abilities except as noted
 here.
 

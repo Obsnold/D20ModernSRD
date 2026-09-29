@@ -36,7 +36,7 @@ means within 60 feet. The puppeteer confers blindsight upon its host.
 saving throw bonuses if they’re better than its own. Effects that target
 vermin can’t affect a puppeteer riding a humanoid host.
 
-Immunities: Puppeteers are immune to mind-influencing effects. This
+**Immunities:** Puppeteers are immune to mind-influencing effects. This
 ability is conferred upon the puppeteer’s host as well.
 
 **Resistance to Massive Damage (Ex):** Puppeteers gain a +5 species
@@ -112,9 +112,9 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 | Reach | 5 ft. |
 | SQ | blindsight 60 ft., immune to mind-influencing effects, resistance to massive damage |
 | AL | puppeteer |
-| Fort | +3\* |
-| Ref | +4\* |
-| Will | +0\* |
+| Fort | +3¹ |
+| Ref | +4¹ |
+| Will | +0¹ |
 | AP | 0 |
 | Rep | +3 |
 | Str | 8 |
@@ -124,7 +124,7 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 | Wis | 9 |
 | Cha | 14 |
 
-\*While attached to its host, the puppeteer’s saving throw bonuses are
+¹ While attached to its host, the puppeteer’s saving throw bonuses are
 as follows: Fort +2, Ref +7, Will +4.
 
 **Occupation:** White collar (bonus class Skills: Computer Use and
@@ -132,10 +132,10 @@ Knowledge [business]).
 
 **Skills:** Bluff +10, Computer Use +4, Diplomacy +12, Disguise +6,
 Gather Information +12, Intimidate +10, Knowledge (business) +8,
-Knowledge (current events) +8, Listen +3\*\*, Read/Write English (or
-other language), Speak English (or other language), Spot +3\*\*.
+Knowledge (current events) +8, Listen +3¹, Read/Write English (or
+other language), Speak English (or other language), Spot +3¹.
 
-\*\*Skill bonus conferred by puppeteer.
+¹ Skill bonus conferred by puppeteer.
 
 **Feats:** Personal Firearms Proficiency, Point Blank Shot, Simple
 Weapons Proficiency, Trustworthy.

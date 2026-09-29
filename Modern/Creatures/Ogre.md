@@ -88,10 +88,10 @@ or one other language.
 | Wis | 10 |
 | Cha | 7 |
 
-**Skills:** Climb +2\*, Concentration +9, Listen +2, Speak Giant, Spot
+**Skills:** Climb +2¹, Concentration +9, Listen +2, Speak Giant, Spot
 +3.
 
-\*Includes armor check penalty for undercover vest.
+¹ Includes armor check penalty for undercover vest.
 
 **Feats:** Armor Proficiency (light), Brawl, Knockout Punch, Personal
 Firearms Proficiency, Power Attack, Simple Weapons Proficiency, Weapon

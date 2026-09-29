@@ -49,7 +49,7 @@ points. A creature’s entry gives the creature’s average hit points.
 
 When a creature takes damage from a single attack equal to or greater
 than its current Constitution, it must succeed on a Fortitude save (DC
-15\) or immediately drop to –1 hit points. If the damage would reduce the
+15) or immediately drop to –1 hit points. If the damage would reduce the
 creature to –1 hit points or fewer anyway, the massive damage threshold
 does not apply, and the creature does not need to make a Fortitude save.
 
@@ -75,11 +75,11 @@ If the creature has other modes of movement, these are given after the
 main entry. Unless noted otherwise, modes of movement are natural (not
 magical).
 
-Burrow: The creature can tunnel through dirt, but not through rock
+**Burrow:** The creature can tunnel through dirt, but not through rock
 unless the descriptive text says otherwise. Creatures cannot run while
 burrowing.
 
-Climb: A creature with a climb speed has the Climb skill at no cost and
+**Climb:** A creature with a climb speed has the Climb skill at no cost and
 gains a +8 species bonus on Climb checks. The creature must make a Climb
 check to climb any wall or slope with a DC greater than 0, but it always
 can choose to take 10, even if rushed or threatened while climbing. The
@@ -91,27 +91,27 @@ creature retains its Dexterity bonus to Defense (if any) while climbing,
 and opponents get no special bonus on their attack rolls against the
 climbing creature.
 
-Fly: The creature can fly at the given speed if carrying no more than a
+**Fly:** The creature can fly at the given speed if carrying no more than a
 medium load. All fly speeds include a parenthetical note indicating
 maneuverability:
 
-Perfect: The creature can perform almost any aerial maneuver it wishes.
+**Perfect:** The creature can perform almost any aerial maneuver it wishes.
 
-Good: The creature is agile in the air, but cannot change direction as
+**Good:** The creature is agile in the air, but cannot change direction as
 readily as one with perfect maneuverability.
 
-Average: The creature can fly as adroitly as a small bird.
+**Average:** The creature can fly as adroitly as a small bird.
 
-Poor: The creature flies as well as a very large bird.
+**Poor:** The creature flies as well as a very large bird.
 
-Clumsy: The creature can barely fly at all.
+**Clumsy:** The creature can barely fly at all.
 
 Creatures that fly can make dive attacks. A dive attack works just like
 a charge, but the diving creature must move a minimum of 30 feet. It can
 make only claw attacks, but these deal double damage. Creatures can use
 the run action while flying, provided they fly in a straight line.
 
-Swim: A creature with a swim speed can move through water at the given
+**Swim:** A creature with a swim speed can move through water at the given
 speed without making Swim checks. It gains a +8 species bonus on any
 Swim check to perform some special action or avoid a hazard. The
 creature always can choose to take 10, even if distracted or endangered
@@ -174,18 +174,18 @@ creatures deal double damage on critical hits.
 Natural weapons have types just as other weapons do. The most common
 types are summarized below.
 
-Bite: The creature attacks with its mouth, dealing piercing damage.
+**Bite:** The creature attacks with its mouth, dealing piercing damage.
 
-Claw or Rake: The creature rips with a sharp appendage, dealing slashing
+**Claw or Rake:** The creature rips with a sharp appendage, dealing slashing
 damage.
 
-Gore: The creature spears the opponent with an antler, horn, or similar
+**Gore:** The creature spears the opponent with an antler, horn, or similar
 appendage, dealing piercing damage.
 
-Slap or Slam: The creature batters opponents with an appendage, dealing
+**Slap or Slam:** The creature batters opponents with an appendage, dealing
 bludgeoning damage.
 
-Sting: The creature stabs with a stinger, dealing piercing damage.
+**Sting:** The creature stabs with a stinger, dealing piercing damage.
 Stings are usually poisoned.
 
 ## Manufactured Weapons
@@ -255,11 +255,11 @@ them.
 Many creatures have unusual abilities. A special quality can be
 extraordinary (Ex), spell-like (Sp), or supernatural (Su).
 
-Extraordinary: Extraordinary abilities are nonmagical and are not
+**Extraordinary:** Extraordinary abilities are nonmagical and are not
 subject to anything that disrupts magic. Using an extraordinary ability
 is a free action unless noted otherwise.
 
-Spell-Like: Spell-like abilities are magical and work just like spells,
+**Spell-Like:** Spell-like abilities are magical and work just like spells,
 though they have no verbal, somatic, material, focus, or XP components.
 They are subject to spell resistance.
 
@@ -281,7 +281,7 @@ The saving throw (if any) for a spell-like ability is 10 + the level of
 the spell the ability resembles or duplicates + the creature’s Charisma
 modifier.
 
-Supernatural: Supernatural abilities are magical but are not subject to
+**Supernatural:** Supernatural abilities are magical but are not subject to
 spell resistance. Using a supernatural ability is an attack action
 unless noted otherwise. Supernatural abilities may have a use limit or
 be usable at will, just like spell-like abilities. However, supernatural
@@ -325,50 +325,50 @@ Creatures have the same six ability scores as characters: Strength
 (Str), Dexterity (Dex), Constitution (Con), Intelligence (Int), Wisdom
 (Wis), Charisma (Cha). Exceptions are noted below.
 
-Strength: Quadrupeds can carry heavier loads than bipedal characters.
+**Strength:** Quadrupeds can carry heavier loads than bipedal characters.
 See Carrying Capacity.
 
-Intelligence: A creature can speak all the languages mentioned in its
+**Intelligence:** A creature can speak all the languages mentioned in its
 descriptive text. Any creature with an Intelligence score of 3 or higher
 understands at least one language.
 
-Nonabilities: Some creatures lack certain ability scores. These
+**Nonabilities:** Some creatures lack certain ability scores. These
 creatures do not have an ability score of 0—they lack the ability
 altogether. The modifier for a nonability is +0. Other effects of
 nonabilities are as follows.
 
-Strength: Any creature that can physically manipulate other objects has
+**Strength:** Any creature that can physically manipulate other objects has
 at least 1 point of Strength. A creature with no Strength score can’t
 exert force, usually because it has no physical body or because it is
 immobile. The creature automatically fails Strength checks. If the
 creature can attack, it applies its Dexterity modifier to its base
 attack bonus instead of a Strength modifier.
 
-Dexterity: Any creature that can move has at least 1 point of Dexterity.
+**Dexterity:** Any creature that can move has at least 1 point of Dexterity.
 A creature with no Dexterity score can’t move. If it can act (such as by
 casting spells), the creature applies its Intelligence modifier instead
 of its Dexterity modifier to initiative checks. The creature fails all
 Reflex saves and Dexterity checks.
 
-Constitution: Any living creature has at least 1 point of Constitution.
+**Constitution:** Any living creature has at least 1 point of Constitution.
 A creature with no Constitution has no body or no metabolism. It is
 immune to any effect that requires a Fortitude save unless the effect
 works on objects or is harmless. The creature is also immune to ability
 damage, ability drain, and energy drain, and it always fails
 Constitution checks.
 
-Intelligence: Any creature that can think, learn, or remember has at
+**Intelligence:** Any creature that can think, learn, or remember has at
 least 1 point of Intelligence. A creature with no Intelligence score is
 an automaton, operating on simple instincts or programmed instructions.
 It is immune to all mind-affecting effects and automatically fails
 Intelligence checks.
 
-Wisdom: Any creature that can perceive its environment in any fashion
+**Wisdom:** Any creature that can perceive its environment in any fashion
 has at least 1 point of Wisdom. Anything with no Wisdom score is an
 object, not a creature. Anything without a Wisdom score also has no
 Charisma score.
 
-Charisma: Any creature capable of telling the difference between itself
+**Charisma:** Any creature capable of telling the difference between itself
 and things that are not itself has at least 1 point of Charisma.
 Anything with no Charisma score is an object, not a creature. Anything
 without a Charisma score also has no Wisdom score.
@@ -382,7 +382,7 @@ in the descriptive text). All listed skills were purchased as class
 skills unless the creature acquires a character class (see Advancement,
 below).
 
-Automatic Languages: Some creatures read, write, or speak unique
+**Automatic Languages:** Some creatures read, write, or speak unique
 languages that heroes don’t know anything about. The GM determines
 whether a hero is capable of learning one of these unique languages and
 the method by which that language can be learned.
@@ -451,8 +451,8 @@ Abilities and Natural Armor.
 Creature Type, a creature may gain additional skill points and feats
 depending on its type.
 
-Table: Adjustments to Physical Abilities and Natural Armor
-| Old Size 1 | New Size | Str | Dex | Con | Natural Armor Improvement |
+**Table: Adjustments to Physical Abilities and Natural Armor**
+| Old Size ¹ | New Size | Str | Dex | Con | Natural Armor Improvement |
 |---|---|---|---|---|---|
 | Fine | Diminutive | — | –2 | — | — |
 | Diminutive | Tiny | +2 | –2 | — | — |
@@ -463,9 +463,9 @@ Table: Adjustments to Physical Abilities and Natural Armor
 | Huge | Gargantuan | +8 | — | +4 | +4 |
 | Gargantuan | Colossal | +8 | — | +4 | +5 |
 
-1 Repeat the adjustment if the creature moves up more than one size category.
+¹ Repeat the adjustment if the creature moves up more than one size category.
 
-Table: Bonus Skill Points and Feats by Creature Type
+**Table: Bonus Skill Points and Feats by Creature Type**
 | Type | Bonus Skill Points | Bonus Feats |
 |---|---|---|
 | Aberration | +2 per extra HD | +1 per 4 extra HD |
@@ -476,7 +476,7 @@ Table: Bonus Skill Points and Feats by Creature Type
 | Fey | +2 per extra HD | +1 per 4 extra HD |
 | Giant | +2 per extra HD | +1 per 4 extra HD |
 | Humanoid | +1 per extra HD | +1 per 4 extra HD |
-| Magical beast | +1 per extra HD 1 | +1 per 4 extra HD |
+| Magical beast | +1 per extra HD ¹ | +1 per 4 extra HD |
 | Monstrous humanoid | +2 per extra HD | +1 per 4 extra HD |
 | Ooze | — | — |
 | Outsider | 8 + Int modifier per 4 extra HD | +1 per extra HD |
@@ -484,7 +484,7 @@ Table: Bonus Skill Points and Feats by Creature Type
 | Undead | +2 per extra HD | +1 per 4 extra HD |
 | Vermin | — | — |
 
-1 Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.
+¹ Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.
 
 ## Acquiring a Character Class
 
@@ -511,7 +511,7 @@ Creatures that advance by character class gain special talents and
 abilities, which are noted here.
 
 Table: Skill Points per Class Level for Nonhumans
-| Basic Class | Skill Points per Level 1 |
+| Basic Class | Skill Points per Level ¹ |
 |---|---|
 | Strong | 2 + Int modifier |
 | Fast | 4 + Int modifier |
@@ -540,6 +540,6 @@ Table: Skill Points per Class Level for Nonhumans
 | Telepath | 4+ Int modifier |
 | Battle Mind | 2+ Int modifier |
 
-1 Humanoids with 1 or fewer Hit Dice advance as human
+¹ Humanoids with 1 or fewer Hit Dice advance as human
 characters do. At 1st level, multiply the number of skill points per
 level by 4.

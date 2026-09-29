@@ -6,7 +6,7 @@
 the opponent’s body and tears the flesh. This attack automatically deals
 an additional 2d6+9 points of damage.
 
-Regeneration (Ex): A troll regenerates 5 points of damage each round but
+**Regeneration (Ex):** A troll regenerates 5 points of damage each round but
 cannot regenerate acid or fire damage. If a troll loses a limb or body
 part, the lost portion regrows in 3d6 minutes. The creature can reattach
 the severed member instantly by holding it to the stump.
