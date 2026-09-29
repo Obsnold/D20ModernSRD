@@ -45,6 +45,7 @@ The Bodyguard’s class skills (and the key ability for each skill) are:
 **Skill Points at Each Level:** 3 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +2 | +0 | Harm’s way | +1 | +0 |
@@ -57,7 +58,6 @@ The Bodyguard’s class skills (and the key ability for each skill) are:
 | 8th | +6 | +4 | +6 | +2 | Combat sense +2 | +4 | +2 |
 | 9th | +6 | +4 | +6 | +3 | Bonus feat | +5 | +3 |
 | 10th | +7 | +5 | +7 | +3 | Blanket protection | +5 | +3 |
-
 
 ## Class Features
 

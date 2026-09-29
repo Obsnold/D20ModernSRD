@@ -48,6 +48,7 @@ are:
 **Skill Points at Each Level:** 7 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +1 | +0 | Smart defense | +0 | +0 |

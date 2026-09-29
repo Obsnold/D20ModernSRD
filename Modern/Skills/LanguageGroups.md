@@ -54,6 +54,6 @@ Serbo-Croatian, Slovak, Ukrainian.
 
 **Ugric:** Hungarian (aka Magyar).
 
-*This is an ancient language. In the modern world it is spoken only by
+\*This is an ancient language. In the modern world it is spoken only by
 scholars, or in some cases by small populations in isolated corners of
 the world.

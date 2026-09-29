@@ -46,6 +46,7 @@ The Field Medic’s class skills (and the key ability for each skill) are:
 **Skill Points at Each Level:** 5 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +2 | +0 | +1 | Medical specialist +1 | +1 | +1 |

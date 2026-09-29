@@ -44,6 +44,7 @@ The Shadow Slayer’s class skills are as follows.
 **Skill Points at Each Level:** 3 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |

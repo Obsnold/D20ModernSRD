@@ -44,7 +44,6 @@ proximity to the creature (if not touching the creature) to affect it.
 GMs may roll randomly on the table, choose a source that suits the
 creature, or devise their own.
 
-
 ## Source Effects
 
 After determining a creature’s source of weakness, the GM needs to

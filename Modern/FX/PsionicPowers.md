@@ -1,4 +1,4 @@
-## Psionic Powers
+# Psionic Powers
 
 A psionic power is a one-time psionic effect manifested by a psionic
 character or creature. Psionic powers require power points to use,

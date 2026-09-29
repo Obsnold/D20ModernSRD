@@ -48,6 +48,7 @@ The Infiltrator’s class skills (and the key ability for each skill) are:
 **Skill Points at Each Level:** 7 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +2 | +0 | Sweep | +1 | +1 |

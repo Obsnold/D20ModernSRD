@@ -38,6 +38,7 @@ determines whether a character is eligible to gain a level in an
 advanced class.
 
 ## Advanced Class Descriptions
+
 - [Bodyguard](BodyGuard.md)
 - [Daredevil](Daredevil.md)
 - [Field Medic](FieldMedic.md)
@@ -52,6 +53,7 @@ advanced class.
 - [Techie](Techie.md)
 
 ## FX Advanced Class Descriptions
+
 - [Acolyte](Acolyte.md)
 - [Battle Mind](BattleMind.md)
 - [Mage](Mage.md)

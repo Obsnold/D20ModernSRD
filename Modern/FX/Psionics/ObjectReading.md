@@ -25,7 +25,7 @@ studies a particular object.
 
 **4th Round:** Last owner’s primary allegiance (if any).
 
-**5th Round:* How last owner gained and lost the object.
+**5th Round:** How last owner gained and lost the object.
 
 **6th+ Round:** Previous-to-last owner’s gender, and so on.
 

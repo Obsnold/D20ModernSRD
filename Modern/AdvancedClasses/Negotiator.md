@@ -44,7 +44,8 @@ The Negotiator’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Features
+## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +2 | Conceal motive | +0 | +1 |
@@ -57,7 +58,6 @@ The Negotiator’s class skills (and the key ability for each skill) are:
 | 8th | +6 | +4 | +2 | +6 | Sow distrust | +3 | +3 |
 | 9th | +6 | +4 | +3 | +6 | Bonus feat | +3 | +3 |
 | 10th | +7 | +5 | +3 | +7 | Talk down all opponents | +3 | +4 |
-
 
 ## Class Features
 

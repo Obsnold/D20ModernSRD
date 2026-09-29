@@ -3,7 +3,6 @@
 The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are possible.
 
-
 ## Requirements
 
 To qualify to become a Telepath, a character must fulfill the following
@@ -47,6 +46,7 @@ The Telepath’s class skills are as follows.
 **Skill Points at Each Level:** 5 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |

@@ -45,6 +45,7 @@ are:
 **Skill Points at Each Level:** 3 + Int modifier.
 
 ## Class Table
+
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
 | 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
