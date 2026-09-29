@@ -9,16 +9,20 @@ following criteria.
 
 **Skills:** Investigate 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Investigator advanced class.
+
+### Hit Die
 
 1d6
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the Investigator
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Investigator’s class skills (and the key ability for each skill)
 are:
@@ -46,7 +50,9 @@ are:
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Investigator**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

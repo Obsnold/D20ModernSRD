@@ -30,18 +30,22 @@ An Acolyte needs her holy symbol in order to cast certain divine spells.
 It is also necessary for the Acolyte to be able to turn or rebuke undead
 (see below).
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Acolyte advanced class.
+
+### Hit Die
 
 The Acolyte gains 1d8 hit points per level. The character’s Constitution
 modifier applies.
 
-## Action Points
+### Action Points
 
 The Acolyte gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
-## Class Skills
+### Class Skills
 
 The Acolyte’s class skills are as follows.
 
@@ -63,7 +67,9 @@ The Acolyte’s class skills are as follows.
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Acolyte**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

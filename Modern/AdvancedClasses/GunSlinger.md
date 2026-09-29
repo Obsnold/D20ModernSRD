@@ -11,16 +11,20 @@ following criteria.
 
 **Feat:** Personal Firearms Proficiency.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Gunslinger advanced class.
+
+### Hit Die
 
 1d10
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the gunslinger
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Gunslinger’s class skills (and the key ability for each skill) are:
 
@@ -45,7 +49,9 @@ The Gunslinger’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Gunslinger**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

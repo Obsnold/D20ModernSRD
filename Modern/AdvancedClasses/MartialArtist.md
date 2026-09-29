@@ -11,16 +11,20 @@ following criteria.
 
 **Feats:** Combat Martial Arts, Defensive Martial Arts.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Martial Artist advanced class.
+
+### Hit Die
 
 1d8
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the martial
 artist attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Martial Artist’s class skills (and the key ability for each skill)
 are:
@@ -44,7 +48,9 @@ are:
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Martial Artist**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

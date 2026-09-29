@@ -8,16 +8,20 @@ criteria.
 **Skills:** Computer Use 6 ranks, either Craft (electronic) 6 ranks or
 Craft (mechanical) 6 ranks, and Disable Device 6 ranks.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Techie advanced class.
+
+### Hit Die
 
 1d6
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the Techie
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Techie’s class skills (and the key ability for each skill) are:
 
@@ -42,7 +46,9 @@ The Techie’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Techie**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

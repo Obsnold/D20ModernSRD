@@ -13,18 +13,22 @@ ranks.
 
 **Feat:** Wild Talent.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Telepath advanced class.
+
+### Hit Die
 
 The Telepath gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-## Action Points
+### Action Points
 
 The Telepath gains a number of action points equal to 6 + one-half his
 character level, rounded down, every time he attains a new level in this
 class.
 
-## Class Skills
+### Class Skills
 
 The Telepath’s class skills are as follows.
 
@@ -45,7 +49,9 @@ The Telepath’s class skills are as follows.
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Telepath**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

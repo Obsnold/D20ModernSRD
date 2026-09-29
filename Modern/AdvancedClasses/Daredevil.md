@@ -11,16 +11,20 @@ criteria.
 
 **Feat:** Endurance.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Daredevil advanced class.
+
+### Hit Die
 
 1d10
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time he or she attains
 a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Daredevil’s class skills (and the key ability for each skill) are:
 
@@ -46,7 +50,9 @@ The Daredevil’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Daredevil**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

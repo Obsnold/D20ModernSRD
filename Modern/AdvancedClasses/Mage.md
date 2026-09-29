@@ -11,18 +11,22 @@ criteria.
 **Skills:** Craft (chemical) 6 ranks, Decipher Script 6 ranks, Knowledge
 (arcane lore) 6 ranks, Research 6 ranks.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Mage advanced class.
+
+### Hit Die
 
 The Mage gains 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-## Action Points
+### Action Points
 
 The Mage gains a number of action points equal to 6 + one-half his
 character level, rounded down, every time he attains a new level in this
 class.
 
-## Class Skills
+### Class Skills
 
 The Mage’s class skills are as follows.
 
@@ -49,7 +53,9 @@ The Mage’s class skills are as follows.
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Mage**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

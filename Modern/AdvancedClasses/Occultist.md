@@ -13,18 +13,22 @@ Research 6 ranks.
 
 **Feats:** Educated, Studious.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Occultist advanced class.
+
+### Hit Die
 
 The Occultist gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-## Action Points
+### Action Points
 
 The Occultist gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
-## Class Skills
+### Class Skills
 
 The Occultist’s class skills are as follows.
 
@@ -47,7 +51,9 @@ The Occultist’s class skills are as follows.
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Occultist**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

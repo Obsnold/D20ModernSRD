@@ -9,18 +9,22 @@ following criteria.
 
 **Feats:** Archaic Weapons Proficiency.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Shadow Slayer advanced class.
+
+### Hit Die
 
 The Shadow Slayer gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-## Action Points
+### Action Points
 
 The Shadow Slayer gains a number of action points equal to 6 + one-half
 his character level, rounded down, every time he attains a new level in
 this class.
 
-## Class Skills
+### Class Skills
 
 The Shadow Slayer’s class skills are as follows.
 
@@ -43,7 +47,9 @@ The Shadow Slayer’s class skills are as follows.
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Shadow Slayer**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

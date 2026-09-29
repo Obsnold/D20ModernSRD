@@ -9,16 +9,20 @@ following criteria.
 
 **Skills:** Hide 6 ranks, Move Silently 6 ranks.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Infiltrator advanced class.
+
+### Hit Die
 
 1d8
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the infiltrator
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Infiltrator’s class skills (and the key ability for each skill) are:
 
@@ -47,7 +51,9 @@ The Infiltrator’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Infiltrator**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

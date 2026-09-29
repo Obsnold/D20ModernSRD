@@ -9,16 +9,20 @@ following criteria.
 plus 6 ranks in Knowledge (earth and life sciences), Knowledge (physical
 sciences), or Knowledge (technology), plus 6 ranks in Research.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Field Scientist advanced class.
+
+### Hit Die
 
 1d8
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the Field
 Scientist attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Field Scientist’s class skills (and the key ability for each skill)
 are:
@@ -47,7 +51,9 @@ are:
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Field Scientist**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

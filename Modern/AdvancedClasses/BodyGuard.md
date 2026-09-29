@@ -11,16 +11,20 @@ criteria.
 
 **Feat:** Personal Firearms Proficiency.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Bodyguard advanced class.
+
+### Hit Die
 
 1d12
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the Bodyguard
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Bodyguard’s class skills (and the key ability for each skill) are:
 
@@ -44,7 +48,9 @@ The Bodyguard’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Bodyguard**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

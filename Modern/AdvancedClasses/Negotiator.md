@@ -9,16 +9,20 @@ following criteria.
 
 **Feat:** Alertness.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Negotiator advanced class.
+
+### Hit Die
 
 1d8
 
-## Action Points
+### Action Points
 
 6 + one-half character level, rounded down, every time the Negotiator
 attains a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Negotiator’s class skills (and the key ability for each skill) are:
 
@@ -44,7 +48,9 @@ The Negotiator’s class skills (and the key ability for each skill) are:
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Negotiator**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|

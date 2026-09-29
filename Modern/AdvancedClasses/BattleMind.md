@@ -11,18 +11,22 @@ following criteria.
 
 **Feat:** Wild Talent.
 
-## Hit Die
+## Class Information
+
+The following information pertains to the Battle Mind advanced class.
+
+### Hit Die
 
 The Battle Mind gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-## Action Points
+### Action Points
 
 The Battle Mind gains a number of action points equal to 6 + one-half
 her character level, rounded down, every time she attains a new level in
 this class.
 
-## Class Skills
+### Class Skills
 
 The Battle Mind’s class skills are as follows.
 
@@ -43,7 +47,9 @@ The Battle Mind’s class skills are as follows.
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-## Class Table
+### Class Table
+
+**Table: The Battle Mind**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
