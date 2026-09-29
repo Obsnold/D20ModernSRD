@@ -33,13 +33,13 @@ uncontrolled (the caster chooses which creatures are released). Any
 undead the character commands (if the character has the ability to
 command or rebuke undead) do not count toward the limit.
 
-Skeletons: A skeleton can be created only from a mostly intact corpse or
+**Skeletons:** A skeleton can be created only from a mostly intact corpse or
 skeleton; the corpse must have bones. If a skeleton is made from a
 corpse, the flesh falls off the bones. The statistics for a skeleton
 depend on its size; they do not depend on what abilities the creature
 may have had while alive.
 
-Zombies: A zombie can be created only from a mostly intact corpse; the
+**Zombies:** A zombie can be created only from a mostly intact corpse; the
 creature must have a true anatomy. The statistics for a zombie depend on
 its size, not on what abilities the creature may have had while alive.
 

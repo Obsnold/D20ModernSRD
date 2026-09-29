@@ -1,16 +1,18 @@
 # FX ABILITIES
 
-FX abilities cover magic and psionics: the spells a Mage or Acolyte
-casts, the powers a Telepath or Battle Mind manifests, and the magic and
-psionic items that carry those effects.
-
-## Using FX Abilities
-
-- [FX Basics](fxbasics.md)
+Arcane spells, divine spells, and psionic powers are all representative
+of abilities beyond the scope of most ordinary individuals, and are
+called as a group FX abilities. FX abilities are features of a few
+advanced classes, and are not available to basic classes. FX abilities
+have a number of similarities to each other as well as obvious
+differences.
 
 ## Spells
 
-- [Spells](Spells/spells.md)
+- [Spells Overview](SpellsOverview.md)
+- [Arcane Spells](ArcaneSpells.md)
+- [Divine Spells](DivineSpells.md)
+- [Spell list](Spells/spells.md)
 
 ## Psionic Powers
 

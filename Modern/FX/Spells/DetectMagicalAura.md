@@ -15,12 +15,12 @@
 The caster can detect magical auras. The amount of information revealed
 depends on how long the caster studies a particular area or subject.
 
-1st Round: Presence or absence of magical auras.
+**1st Round:** Presence or absence of magical auras.
 
-2nd Round: Number of different magical auras and the strength of the
+**2nd Round:** Number of different magical auras and the strength of the
 strongest aura.
 
-3rd Round: The strength and location of each aura.
+**3rd Round:** The strength and location of each aura.
 
 Magical areas, multiple types of magic, or strong local magical
 emanations may confuse or conceal weaker auras.

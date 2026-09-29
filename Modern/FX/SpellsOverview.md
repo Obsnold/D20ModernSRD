@@ -1,13 +1,4 @@
-# FX BASICS
-
-Arcane spells, divine spells, and psionic powers are all representative
-of abilities beyond the scope of most ordinary individuals, and are
-called as a group FX abilities. FX abilities are features of a few
-advanced classes, and are not available to basic classes. FX abilities
-have a number of similarities to each other as well as obvious
-differences.
-
-## Spells
+# Spells Overview
 
 A spell is a one-time magical effect. Magic is used by individuals with
 magical power, which include spellcasters and creatures with spells and
@@ -30,6 +21,27 @@ effects often are too, but the magic itself is not.
 
 Each spellcasting advanced class learns and casts spells differently.
 See the class description for more details.
+
+## Notes
+
+**Hit Dice:** The term “Hit Dice” is used synonymously with “character
+levels” for effects that affect a number of Hit Dice of creatures. A
+creature with only Hit Dice from its species, not from any classes it
+may have, has a character level equal to its Hit Dice. A creature with
+class levels is considered to have Hit Dice equal to the total of its
+Hit Dice and its class levels.
+
+**Caster Level:** A spell’s power often depends on caster level, which
+is the caster’s level in the appropriate spellcasting class. Creatures
+with no classes have a caster level equal to their Hit Dice unless
+otherwise specified.
+
+**Creatures and Characters:** “Creatures” and “characters” are used
+synonymously in the spell descriptions.
+
+**List Format:** Spells in the following lists are presented in order of
+spell level (from lowest to highest) and alphabetized within each level
+group. A brief description of the spell’s effect is provided.
 
 ## Casting a Spell
 
@@ -160,7 +172,7 @@ some substance that the caster must have on hand. It is expended and
 disappears when the spell is cast. Preparing these materials is a free
 action. The purchase DCs for expensive material components are included
 in the spell descriptions; if no value is given, assume a purchase DC of
-2\.
+2.
 
 **Focus (F):** A focus is similar to a material component, except that
 it is not expended when the spell is cast.
@@ -204,14 +216,14 @@ Concentration skill).
 A character retains his or her Dexterity bonus to Defense while casting
 a spell.
 
-Attacks of Opportunity: Generally, if a character attempts to cast a
+**Attacks of Opportunity:** Generally, if a character attempts to cast a
 spell, he or she provokes attacks of opportunity from threatening
 enemies. Table: FX Actions in Combat specifies whether a certain
 activity provokes attacks of opportunity (AoO). If a character takes
 damage from an attack of opportunity, he or she must make a
 Concentration check or lose the spell he or she was trying to cast.
 
-Casting on the Defensive: A character may attempt to cast a spell while
+**Casting on the Defensive:** A character may attempt to cast a spell while
 on the defensive. This option means casting the spell while paying
 attention to threats and avoiding blows. In this case, the character are
 no more vulnerable to attack than he or she would be if the character
@@ -236,14 +248,19 @@ spell is lost..
 | Use supernatural ability | No |
 | Use extraordinary ability | No |
 | Use touch spell on self | No |
+
 | Move Actions | AoO? |
+|---|---|
 | Direct or redirect an active spell or power | No |
+
 | Full-Round Actions | AoO? |
+|---|---|
 | Cast a spell (full-round action casting time) | Yes |
-| **Manifest a power** | |
-| (full-round action manifestation time) | Yes |
+| Manifest a power(full-round action manifestation time) | Yes |
 | Use touch spell on up to six friends | Yes |
+
 | Free Actions | AoO? |
+|---|---|
 | Cease concentration on a spell or power | No |
 | Prepare spell components to cast a spell | No |
 | Make Spellcraft check on counterspell attempt | No |
@@ -621,196 +638,3 @@ to conform, the effort fails and the spell is wasted.
 Spells also fail if the caster’s concentration is broken. Arcane spells
 (but not divine spells) might fail if the character is wearing armor
 while casting a spell that has a somatic component.
-
-## Arcane Spells
-
-Arcane spells involve the direct manipulation of mystic energies. These
-manipulations require natural talent and long study. Compared to divine
-spells, arcane spells are more likely to produce dramatic results, such
-as flight, explosions, or transformations.
-
-## Preparing Arcane Spells
-
-The rules for which spells, and how many spells, an arcane spellcaster
-can cast are given in the class description. The class description also
-includes information on how the character prepares spells each day.
-
-## Arcane Magical Writings
-
-To decipher an arcane magical writing, a character must make a
-successful Spellcraft check (DC 20 + the spell’s level). If the check
-fails, the character cannot attempt to read that particular spell until
-the next day. A read magic spell automatically deciphers a magical
-writing without a skill check. If the person who created the magical
-writing is on hand to help the reader, success is also automatic.
-
-Once a character deciphers a particular magical writing, he or she does
-not need to decipher it again. Deciphering a magical writing allows the
-reader to identify the spell and gives some idea of its effects (as
-explained in the spell description). If the magical writing was a scroll
-and the reader can cast arcane spells, he or she can attempt to use the
-scroll.
-
-## Divine Spells
-
-Unlike arcane spells, divine spells draw power from the strength of the
-spellcaster’s beliefs. Divine spells tend to be less flashy,
-destructive, and disruptive than arcane spells. What they do that arcane
-spells don’t do is heal.
-
-## Preparing Divine Spells
-
-The rules for which spells, and how many spells, a divine spellcaster
-can cast are given in the class description. The class description also
-includes information on how the character prepares spells each day.
-
-## Divine Magical Writings
-
-Divine spells can be written down and deciphered just as arcane spells
-can (see Arcane Magical Writings, above). Any character with the
-Spellcraft skill can attempt to decipher the divine magical writing and
-identify it. However, only characters who are capable of casting the
-spell in its divine form can cast a divine spell from a scroll. (The
-character does not have to have the spell prepared; he or she only has
-to be capable of preparing and casting it in general.)
-
-## Psionic Powers
-
-A psionic power is a one-time psionic effect manifested by a psionic
-character or creature. Psionic powers require power points to use,
-although naturally psionic creatures can manifest their powers a certain
-number of times per day with no power point cost.
-
-Each psionic power is tied to a specific ability, which is the key
-ability for that psionic power. A psionic character must have a key
-ability score equal to at least 10 + the power’s level to manifest a
-particular power.
-
-Unlike arcane spellcasters, psionic characters don’t have spellbooks and
-they don’t prepare their powers ahead of time. A psionic character’s
-level limits the number of power points available for manifesting
-powers. A psionic character has a set number of powers available that he
-may manifest at will, provided he has sufficient power points to pay for
-the manifestation.
-
-A power manifests when the psionic character pays its power point cost.
-The character pays the cost, and the power manifests immediately.
-
-Psionic powers don’t require special gestures, words, or materials. They
-operate as thoughts made manifest. Most powers do have a noticeable
-display associated with their use, however.
-
-## Manifesting a Power
-
-Psionic advanced classes describe how many powers each class knows by
-level, as well as how many power points they have available each day.
-
-To manifest a power, a character selects one power that he or she knows
-and pays the power point cost.
-
-## Power Points
-
-A power’s cost is determined by its level, as shown below. Every power’s
-cost is also noted in its description for easy reference.
-
-| Power Level | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| Power point cost | 0/1\* | 1 | 3 | 5 | 7 | 9 |
-
-\*A psionic character can manifest any 0-level power he or she knows a
-number of times per day equal to 3 + his or her psionic level;
-additional manifestations cost 1 power point each.
-
-## How to Read a Power Description
-
-In most significant respects, manifesting a psionic power follows the
-same rules as casting a spell. The differences between a power
-description and a spell description are summarized in this section. See
-How to Read a Spell Description, above, for information that is the same
-for both psionic powers and spells.
-
-### Key Ability
-
-The first line beneath the power’s name provides the key ability
-associated with the power. A psionic character must have a score in this
-ability equal to at least 10 + the power’s level in order to manifest
-the power.
-
-### Descriptors
-
-Descriptors are a way of classifying powers that have some common
-characteristic. Descriptors are often useful for knowing which creatures
-are or are not affected by a power. A power’s descriptors (if any)
-appear in brackets on the line containing the key ability. Descriptors
-for powers include compulsion, electricity, fire, language-dependent,
-and mind-affecting.
-
-### Level
-
-The relative strength of a power is indicated by its level. A power’s
-level also indicates whether a particular psionic character is capable
-of using the power, based on the character’s class level and key ability
-score.
-
-### Display
-
-When psionic powers manifest, secondary displays usually accompany the
-primary effect. The psionic display may be auditory (Au), material (Ma),
-mental (Me), olfactory (Ol), or visual (Vi). Each power describes the
-sort of display that accompanies it.
-
-### Manifestation Time
-
-Manifesting a psionic power is either an attack action or a full-round
-action, depending on the power. See the power descriptions for details.
-
-### Range
-
-Each psionic power has a range, as listed in the power description. A
-power’s range is the maximum distance from the psionic character that
-the power’s effect can occur. The range categories are the same as the
-ones used for spells.
-
-### Target, Effect, Area
-
-These terms are defined and used the same as they are for spells.
-
-### Saving Throw
-
-Most harmful powers allow an affected target a saving throw to avoid
-some or all of the effect. Each power lists which saving throw type
-applies. The DC for a saving throw to resist a power is 10 + the power’s
-level + the psionic character’s key ability modifier. The terms used to
-define the various types of saving throws and results are the same as
-for spells.
-
-### Power Resistance
-
-Power resistance is a special defensive ability that protects against
-psionic powers. If a psionic character faces a creature with power
-resistance, he or she must make a level check (1d20 + psionic
-character’s class level) equal to or greater than the creature’s power
-resistance for the power to affect it.
-
-Each power description includes an entry that indicates whether power
-resistance applies to the power (if so, Yes; if not, No). Other details
-are the same as for spell resistance.
-
-### Power Point Cost
-
-All powers of a certain level have the same power point cost. The point
-cost to manifest a particular power is also provided in that power’s
-description.
-
-### Descriptive Text
-
-A power’s descriptive text explains how the power works or what it does.
-
-## Power Failure
-
-If a character tries to manifest a power in conditions where the
-characteristics of the spell (range, area, and so forth) cannot be made
-to conform, the effort fails and the power is wasted.
-
-Powers also fail if the character’s concentration is broken (see the
-Concentration skill).
