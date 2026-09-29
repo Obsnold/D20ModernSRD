@@ -1,12 +1,9 @@
 # ARCANA
 
-Urban Arcana brings magic into the modern world: the shadowkind who
-walk among us, the spellcasters and prestige classes who wield arcane
-power, and the creatures, items and incantations that come with them.
-
 ## Characters
 
 - [Shadowkind](Shadowkind/shadowkind.md)
+- [Languages](Shadowkind/Languages.md)
 - [Advanced and Prestige Classes](AdvancedClasses/arcanaclasses.md)
 - [Starting Occupations](Occupations/occupations.md)
 - [Feats](Feats/feats.md)

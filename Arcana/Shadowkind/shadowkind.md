@@ -10,7 +10,7 @@ Characters who enter our world through Shadow have no way of returning
 home and are forced to adapt to their new environment. Moreover, they
 retain only a few hazy memories of the place from whence they came.
 
-PLAYING A SHADOWKIND
+## PLAYING A SHADOWKIND
 
 Shadowkind characters share several traits, as noted below.
 
@@ -34,7 +34,7 @@ A Shadowkind character is treated as a “creature of Shadow” with regard
 to special abilities, spells, and psionic powers that affect creatures
 of Shadow.
 
-## TABLE: SKILL POINTS/LEVEL FOR SHADOWKIND
+### TABLE: SKILL POINTS/LEVEL FOR SHADOWKIND
 
 | Strong | 2 + Int modifier |
 |---|---|
@@ -78,7 +78,7 @@ of Shadow.
 | Ecclesiarch | 4 + Int modifier |
 | Holy/Unholy Knight | 4 + Int modifier |
 
-## Skill Points Per Level
+### Skill Points Per Level
 
 Shadowkind characters do not gain as many skill points as a human
 character of the same class. Shadowkind characters get 4 fewer skill
@@ -131,7 +131,7 @@ characters do. In addition to one or more local languages, they may know
 one or more languages of Shadow (taught to them by their parents and
 elders).
 
-SHADOWKIND SPECIES
+### SHADOWKIND SPECIES
 
 Each Shadowkind entry consists of a description of the species,
 including appearance and general disposition. It also provides insight
@@ -166,7 +166,7 @@ the species. Shadowkind may learn additional languages, following the
 rules presented under the Speak Language and Read/Write Language skill
 descriptions.
 
-SMALL CHARACTERS
+### SMALL CHARACTERS
 
 Small characters (such as gnomes, goblins, and halflings) gain a +1 size
 bonus to Defense, a +1 size bonus on attack rolls, and a +4 size bonus
@@ -186,6 +186,26 @@ Armor for Small characters can be chopped down from extant protective
 outfits. It costs the same as Medium armor and weighs half as much. A
 Medium or larger creature cannot wear armor sized for a Small character.
 
+## Large Characters
+
+Large characters take a –1 size penalty to Defense, a –1 size penalty on
+attack rolls, and a –4 size penalty on Hide checks. Large characters
+gain a +4 bonus on grapple checks.
+
+Large characters’ lifting and carrying limits are twice of those of
+Medium characters.
+
+Large characters generally move as fast as Medium characters.
+
+Large characters may use larger weapons than Medium characters. A Large
+character may wield a weapon of Large size in one hand and a Huge weapon
+in two hands. A Large character treats a weapon of Medium or smaller as
+a light weapon.
+
+Armor for Large creatures must be custom-made and weighs twice as much
+as Medium armor of similar type. Increase the purchase DC of Large armor
+by +2.
+
 ## Shadowkind Species
 
 - [Dwarf](Dwarf.md)
@@ -197,6 +217,39 @@ Medium or larger creature cannot wear armor sized for a Small character.
 - [Halfling](Halfling.md)
 - [Orc](Orc.md)
 - [Shadowkind Human](ShadowkindHuman.md)
+
+## MORE POWERFUL SHADOWKIND
+
+### LEVEL ADJUSTMENT AND CHALLENGE RATING
+
+Particularly powerful Shadowkind species have a Level Adjustment, which
+reflects how much more powerful these species are compared to “baseline”
+species (such as elves, dwarves, and humans). When you add this Level
+Adjustment to a character’s total class levels (or character level), the
+result is a character’s Challenge Rating (CR). The formula for
+determining a character’s Challenge Rating (CR) is as follows: **CR =
+Character Level + Level Adjustment**
+
+CR is used to determine a character’s relative power compared to other
+characters.
+
+A character’s CR is never used to determine how or when a character
+gains new skills and feats, nor does it have any effect on talents,
+spells, and abilities that use character levels. However, a character’s
+CR *is* used to determine how many experience points the character needs
+to advance in level (see Experience, below).
+
+## EXPERIENCE
+
+Characters with a Level Adjustment of +1 or higher do not begin play
+with 0 XP, as humans and other “baseline” characters do. As
+representatives of more powerful Shadowkind species, they are assumed to
+have amassed XP before taking their first class level. Powerful
+Shadowkind use their CR instead of level when determining the experience
+they start with and the amount needed to gain a level.
+
+## Powerful Species
+
 - [Aasimar](Aasimar.md)
 - [Bugbear](Bugbear.md)
 - [Dragonblooded Human](DragonbloodedHuman.md)
