@@ -17,12 +17,12 @@ The manifester detects surface thoughts. The amount of information
 revealed depends on how long the manifester studies a particular area or
 subject.
 
-1st Round: Presence or absence of thoughts (from conscious creatures
+**1st Round:** Presence or absence of thoughts (from conscious creatures
 with Intelligence scores of 1 or higher).
 
-2nd Round: Number of thinking minds and the mental strength of each.
+**2nd Round:** Number of thinking minds and the mental strength of each.
 
-3rd Round: Surface thoughts of any mind in the area. A target’s Will
+**3rd Round:** Surface thoughts of any mind in the area. A target’s Will
 save prevents the manifester from reading its thoughts, and the
 manifester must manifest detect thoughts again to have another chance.
 Creatures of animal intelligence have simple, instinctual thoughts that

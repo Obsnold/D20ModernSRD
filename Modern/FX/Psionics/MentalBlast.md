@@ -6,7 +6,7 @@
 | Level | Telepath 3 |
 | Display | Visual |
 | Manifestation Time | Attack action |
-| Range | 60 ft.) |
+| Range | 60 ft. |
 | Target | One living creature |
 | Duration | Instantaneous |
 | Saving Throw | Will negates |

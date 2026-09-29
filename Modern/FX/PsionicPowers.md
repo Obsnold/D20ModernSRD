@@ -41,7 +41,7 @@ cost is also noted in its description for easy reference.
 |---|---|---|---|---|---|---|
 | Power point cost | 0/1¹ | 1 | 3 | 5 | 7 | 9 |
 
-¹A psionic character can manifest any 0-level power he or she knows a
+¹ A psionic character can manifest any 0-level power he or she knows a
 number of times per day equal to 3 + his or her psionic level;
 additional manifestations cost 1 power point each.
 

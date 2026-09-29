@@ -16,7 +16,10 @@ differences.
 
 ## Psionic Powers
 
-- [Psionics](Psionics/psionics.md)
+- [Psionics Overview](PsionicPowers.md)
+- [Telepath Powers](TelepathPowers.md)
+- [Battle Mind Powers](BattleMindPowers.md)
+- [Power List](PowerList.md)
 
 ## FX Items
 

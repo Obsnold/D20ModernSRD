@@ -16,12 +16,12 @@
 The manifester detects psionic auras. The amount of information revealed
 depends on how long the manifester studies a particular area or subject.
 
-1st Round: Presence or absence of psionic auras.
+**1st Round:** Presence or absence of psionic auras.
 
-2nd Round: Number of different psionic auras and the strength of the
+**2nd Round:** Number of different psionic auras and the strength of the
 strongest aura.
 
-3rd Round: The strength and location of each aura. If the items or
+**3rd Round:** The strength and location of each aura. If the items or
 creatures bearing the auras are in line of sight, the manifester can
 make Psicraft checks to determine the discipline involved in each. (Make
 one check per aura; DC 15 + power level, or 15 + half manifester level

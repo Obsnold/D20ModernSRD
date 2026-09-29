@@ -17,17 +17,17 @@ This power provides information about an object’s previous owner. The
 amount of information revealed depends on how long the manifester
 studies a particular object.
 
-1st Round: Last owner’s gender.
+**1st Round:** Last owner’s gender.
 
-2nd Round: Last owner’s age.
+**2nd Round:** Last owner’s age.
 
-3rd Round: Last owner’s appearance.
+**3rd Round:** Last owner’s appearance.
 
-4th Round: Last owner’s primary allegiance (if any).
+**4th Round:** Last owner’s primary allegiance (if any).
 
-5th Round: How last owner gained and lost the object.
+**5th Round:* How last owner gained and lost the object.
 
-6th+ Round: Previous-to-last owner’s gender, and so on.
+**6th+ Round:** Previous-to-last owner’s gender, and so on.
 
 An object without any previous owners reveals no information. A
 manifester can continue to run down the list of previous owners and
