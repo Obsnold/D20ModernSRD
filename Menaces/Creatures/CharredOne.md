@@ -42,39 +42,39 @@ undead.
 
 ## Charred One
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size | Medium-size |
-| Type | undead (fire, incorporeal) |
-| HD | 5d12 |
-| hp | 32 |
-| Mas | — |
-| Init | +1 |
-| Spd | fly 30 ft. |
-| Defense | 12 |
-| Touch | 12 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +1 Dex, +1 deflection |
-| BAB | +2 |
-| Grap | — |
-| Atk | +4 melee (2d10 fire, incorporeal touch) |
-| Full Atk | +4 melee (2d10 fire, incorporeal touch) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 60 ft., fire subtype, heat (DC 13), incorporeal subtype, locate killer, undead |
-| AL | chaos, evil |
-| Fort | +1 |
-| Ref | +4 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | — |
-| Dex | 13 |
-| Con | — |
-| Int | 6 |
-| Wis | 17 |
-| Cha | 13 |
+| Stat              | Value                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                         |
+| Size              | Medium-size                                                                               |
+| Type              | undead (fire, incorporeal)                                                                |
+| HD                | 5d12                                                                                      |
+| hp                | 32                                                                                        |
+| Mas               | —                                                                                         |
+| Init              | +1                                                                                        |
+| Spd               | fly 30 ft.                                                                                |
+| Defense           | 12                                                                                        |
+| Touch             | 12                                                                                        |
+| Flat-Footed       | 11                                                                                        |
+| Defense Breakdown | +1 Dex, +1 deflection                                                                     |
+| BAB               | +2                                                                                        |
+| Grap              | —                                                                                         |
+| Atk               | +4 melee (2d10 fire, incorporeal touch)                                                   |
+| Full Atk          | +4 melee (2d10 fire, incorporeal touch)                                                   |
+| FS                | 5 ft. by 5 ft.                                                                            |
+| Reach             | 5 ft.                                                                                     |
+| SQ                | darkvision 60 ft., fire subtype, heat (DC 13), incorporeal subtype, locate killer, undead |
+| AL                | chaos, evil                                                                               |
+| Fort              | +1                                                                                        |
+| Ref               | +4                                                                                        |
+| Will              | +7                                                                                        |
+| AP                | 0                                                                                         |
+| Rep               | +0                                                                                        |
+| Str               | —                                                                                         |
+| Dex               | 13                                                                                        |
+| Con               | —                                                                                         |
+| Int               | 6                                                                                         |
+| Wis               | 17                                                                                        |
+| Cha               | 13                                                                                        |
 
 **Skills:** Hide +6, Intimidate +6, Listen +11, Read/Write Language (any
 one), Speak Language (any one), Spot +11.
@@ -85,33 +85,33 @@ one), Speak Language (any one), Spot +11.
 
 ## Advanced Charred One
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Medium-size |
-| Type | undead (fire, incorporeal) |
-| HD | 11d12 |
-| hp | 71 |
-| Mas | — |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 12 |
-| Touch | 12 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +1 Dex, +1 deflection |
-| BAB | +5 |
-| Grap | — |
-| Atk | +7 melee (2d10 fire, incorporeal touch) |
-| Full Atk | +7 melee (2d10 fire, incorporeal touch) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 60 ft., fire subtype, heat (DC 15), incorporeal subtype, locate killer, undead |
-| AL | chaos, evil |
-| Fort | +3 |
-| Ref | +6 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 Str —, Dex 13, Con —, Int 6, Wis 17, Cha 13 |
+| Stat              | Value                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| CR                | 5                                                                                         |
+| Size              | Medium-size                                                                               |
+| Type              | undead (fire, incorporeal)                                                                |
+| HD                | 11d12                                                                                     |
+| hp                | 71                                                                                        |
+| Mas               | —                                                                                         |
+| Init              | +1                                                                                        |
+| Spd               | 30 ft.                                                                                    |
+| Defense           | 12                                                                                        |
+| Touch             | 12                                                                                        |
+| Flat-Footed       | 11                                                                                        |
+| Defense Breakdown | +1 Dex, +1 deflection                                                                     |
+| BAB               | +5                                                                                        |
+| Grap              | —                                                                                         |
+| Atk               | +7 melee (2d10 fire, incorporeal touch)                                                   |
+| Full Atk          | +7 melee (2d10 fire, incorporeal touch)                                                   |
+| FS                | 5 ft. by 5 ft.                                                                            |
+| Reach             | 5 ft.                                                                                     |
+| SQ                | darkvision 60 ft., fire subtype, heat (DC 15), incorporeal subtype, locate killer, undead |
+| AL                | chaos, evil                                                                               |
+| Fort              | +3                                                                                        |
+| Ref               | +6                                                                                        |
+| Will              | +12                                                                                       |
+| AP                | 0                                                                                         |
+| Rep               | +0 Str —, Dex 13, Con —, Int 6, Wis 17, Cha 13                                            |
 
 **Skills:** Hide +10, Intimidate +10, Listen +13, Read/Write Language
 (any one), Speak Language (any one), Spot +13.

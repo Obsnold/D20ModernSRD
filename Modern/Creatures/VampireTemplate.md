@@ -173,39 +173,39 @@ character.
 
 ## Vampire (Human Fast Hero 2/Charismatic Hero 3)
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Medium-size |
-| Type | undead |
-| HD | 5d12 |
-| hp | 32 |
-| Mas | — |
-| Init | +8 |
-| Spd | 30 ft. |
-| Defense | 25 |
-| Touch | 19 |
-| Flat-Footed | 21 |
-| Defense Breakdown | +4 Dex, +5 class, +6 natural |
-| BAB | +2 |
-| Grap | +6 |
-| Atk | +6 melee (1d6+4, slam) |
-| Full Atk | +6 melee (1d6+4, slam) +7 melee (2d6/19–20, mastercraft katana), or +6 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | blood drain, create spawn, domination (DC 17), energy drain, alternate form, children of the night, damage reduction 15/+1, fast healing 5, gaseous form, cold and electricity resistance 20, spider climb, +4 turn resistance, darkvision 60 ft., weaknesses |
-| AL | evil, chaos, master |
-| Fort | +2 |
-| Ref | +10 |
-| Will | +3 |
-| AP | 2 |
-| Rep | +5 |
-| Str | 19 |
-| Dex | 18 |
-| Con | — |
-| Int | 14 |
-| Wis | 10 |
-| Cha | 20 |
+| Stat              | Value                                                                                                                                                                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 7                                                                                                                                                                                                                                                             |
+| Size              | Medium-size                                                                                                                                                                                                                                                   |
+| Type              | undead                                                                                                                                                                                                                                                        |
+| HD                | 5d12                                                                                                                                                                                                                                                          |
+| hp                | 32                                                                                                                                                                                                                                                            |
+| Mas               | —                                                                                                                                                                                                                                                             |
+| Init              | +8                                                                                                                                                                                                                                                            |
+| Spd               | 30 ft.                                                                                                                                                                                                                                                        |
+| Defense           | 25                                                                                                                                                                                                                                                            |
+| Touch             | 19                                                                                                                                                                                                                                                            |
+| Flat-Footed       | 21                                                                                                                                                                                                                                                            |
+| Defense Breakdown | +4 Dex, +5 class, +6 natural                                                                                                                                                                                                                                  |
+| BAB               | +2                                                                                                                                                                                                                                                            |
+| Grap              | +6                                                                                                                                                                                                                                                            |
+| Atk               | +6 melee (1d6+4, slam)                                                                                                                                                                                                                                        |
+| Full Atk          | +6 melee (1d6+4, slam) +7 melee (2d6/19–20, mastercraft katana), or +6 ranged                                                                                                                                                                                 |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                                                                                                |
+| Reach             | 5 ft.                                                                                                                                                                                                                                                         |
+| SQ                | blood drain, create spawn, domination (DC 17), energy drain, alternate form, children of the night, damage reduction 15/+1, fast healing 5, gaseous form, cold and electricity resistance 20, spider climb, +4 turn resistance, darkvision 60 ft., weaknesses |
+| AL                | evil, chaos, master                                                                                                                                                                                                                                           |
+| Fort              | +2                                                                                                                                                                                                                                                            |
+| Ref               | +10                                                                                                                                                                                                                                                           |
+| Will              | +3                                                                                                                                                                                                                                                            |
+| AP                | 2                                                                                                                                                                                                                                                             |
+| Rep               | +5                                                                                                                                                                                                                                                            |
+| Str               | 19                                                                                                                                                                                                                                                            |
+| Dex               | 18                                                                                                                                                                                                                                                            |
+| Con               | —                                                                                                                                                                                                                                                             |
+| Int               | 14                                                                                                                                                                                                                                                            |
+| Wis               | 10                                                                                                                                                                                                                                                            |
+| Cha               | 20                                                                                                                                                                                                                                                            |
 
 **Skills:** Bluff +17¹, Diplomacy +9¹, Disguise +9, Drive +8, Gather
 Information +9¹, Hide +18, Intimidate +9¹, Knowledge (art) +6,

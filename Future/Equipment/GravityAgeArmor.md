@@ -30,10 +30,10 @@ ship-to-ship combat.
 
 **Table: Progress Level 7 Armor**
 
-| Armor | Type | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|
-| **Medium Armor** | | | | | | | | | |
-| Medium combat armor | Tactical | +4 | +2 | +4 | –2 | 20 ft./15 ft. | 8 lb. | 14 | Lic (+1) |
-| Silent suit | Concealable | +1 | +1 | +8 | –0 | 30 ft./20 ft. | 1 lb. | 18 | — |
-| **Powered Armor** | | | | | | | | | |
-| Space combat suit | Tactical | +9 | +3 | +1 | –7 | 15 ft./10 ft. | 40 lb. | 17 | Lic (+1) |
+| Armor               | Type        | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
+| ------------------- | ----------- | --------------- | -------------- | ------------- | ------------- | --------------------- | ------ | ----------- | ----------- |
+| **Medium Armor**    |             |                 |                |               |               |                       |        |             |             |
+| Medium combat armor | Tactical    | +4              | +2             | +4            | –2            | 20 ft./15 ft.         | 8 lb.  | 14          | Lic (+1)    |
+| Silent suit         | Concealable | +1              | +1             | +8            | –0            | 30 ft./20 ft.         | 1 lb.  | 18          | —           |
+| **Powered Armor**   |             |                 |                |               |               |                       |        |             |             |
+| Space combat suit   | Tactical    | +9              | +3             | +1            | –7            | 15 ft./10 ft.         | 40 lb. | 17          | Lic (+1)    |

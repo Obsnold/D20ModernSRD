@@ -1,19 +1,19 @@
 # Quartz Compulsion
 
-| Stat | Value |
-|---|---|
-| School | Enchantment |
-| Subschool | Compulsion |
-| Descriptors | Mind-Affecting, Language-Dependent |
-| Skill Check | Knowledge (arcane lore) DC 33, 6 successes, and Intimidate DC 33, 2 successes |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, F, B |
-| Casting Time | 80 minutes (minimum) |
-| Range | Unlimited |
-| Target | One creature with fewer Hit Dice that you |
-| Duration | 16 hours (see text) |
-| Saving Throw | Will partial (DC 18 + caster’s Cha modifier) |
-| Spell Resistance | Yes |
+| Stat             | Value                                                                         |
+| ---------------- | ----------------------------------------------------------------------------- |
+| School           | Enchantment                                                                   |
+| Subschool        | Compulsion                                                                    |
+| Descriptors      | Mind-Affecting, Language-Dependent                                            |
+| Skill Check      | Knowledge (arcane lore) DC 33, 6 successes, and Intimidate DC 33, 2 successes |
+| Failure          | Two consecutive failed skill checks                                           |
+| Components       | V, S, F, B                                                                    |
+| Casting Time     | 80 minutes (minimum)                                                          |
+| Range            | Unlimited                                                                     |
+| Target           | One creature with fewer Hit Dice that you                                     |
+| Duration         | 16 hours (see text)                                                           |
+| Saving Throw     | Will partial (DC 18 + caster’s Cha modifier)                                  |
+| Spell Resistance | Yes                                                                           |
 
 The *quartz compulsion* incantation lets you telepathically contact the
 subject by gazing through a quartz shard, regardless of where the

@@ -20,12 +20,12 @@ Examples of tattoos include the following.
 
 ## Tattoo of Body Adjustment
 
-| Stat | Value |
-|---|---|
-| Type | Tattoo (psionic) |
-| Manifester Level | 3rd |
-| Purchase DC | 20 |
-| Weight | —. |
+| Stat             | Value            |
+| ---------------- | ---------------- |
+| Type             | Tattoo (psionic) |
+| Manifester Level | 3rd              |
+| Purchase DC      | 20               |
+| Weight           | —.               |
 
 This tattoo has one of three effects, which
 the bearer chooses at the time of activation:
@@ -39,12 +39,12 @@ Instantly heal 2 points of temporary ability damage.
 
 ## Tattoo of Natural Armor
 
-| Stat | Value |
-|---|---|
-| Type | Tattoo (psionic) |
-| Manifester Level | 7th |
-| Purchase DC | 26 |
-| Weight | —. |
+| Stat             | Value            |
+| ---------------- | ---------------- |
+| Type             | Tattoo (psionic) |
+| Manifester Level | 7th              |
+| Purchase DC      | 26               |
+| Weight           | —.               |
 
 This tattoo, when activated, covers the
 bearer’s skin in hard ridges that provide a +4 natural armor bonus to
@@ -52,12 +52,12 @@ Defense. The effect lasts 7 minutes.
 
 ## Tattoo of Spider Climb
 
-| Stat | Value |
-|---|---|
-| Type | Tattoo (magic) |
-| Caster Level | 3rd |
-| Purchase DC | 19 |
-| Weight | —. |
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Tattoo (magic) |
+| Caster Level | 3rd            |
+| Purchase DC  | 19             |
+| Weight       | —.             |
 
 The bearer can climb and travel on vertical
 surfaces and ceilings for 30 minutes. The bearer gains a climb speed of

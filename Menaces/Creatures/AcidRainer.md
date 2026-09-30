@@ -29,39 +29,39 @@ checks and a +4 species bonus on Move Silently checks.
 
 ## Acid Rainer
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Huge |
-| Type | elemental (air) |
-| HD | 8d8+40 |
-| hp | 76 |
-| Mas | — |
-| Init | –2 |
-| Spd | 5 ft., fly 40 ft. (average) |
-| Defense | 10 |
-| Touch | 6 |
-| Flat-Footed | 10 |
-| Defense Breakdown | –2 size, –2 Dex, +4 natural |
-| BAB | +6 |
-| Grap | +19 |
-| Atk | +9 melee (1d4+5 plus 1d6 acid, tentacle) |
-| Full Atk | +9 melee (1d4+5 plus 1d6 acid, 6 tentacles) or +2 ranged |
-| FS | 15 ft. by 15 ft. |
-| Reach | 20 ft. with tentacles |
-| SQ | acid resistance 10, acid spray (DC 19), acid touch, darkvision 60 ft., elemental, improved grab |
-| AL | none |
-| Fort | +7 |
-| Ref | +4 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 20 |
-| Dex | 7 |
-| Con | 20 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                                           |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| CR                | 8                                                                                               |
+| Size              | Huge                                                                                            |
+| Type              | elemental (air)                                                                                 |
+| HD                | 8d8+40                                                                                          |
+| hp                | 76                                                                                              |
+| Mas               | —                                                                                               |
+| Init              | –2                                                                                              |
+| Spd               | 5 ft., fly 40 ft. (average)                                                                     |
+| Defense           | 10                                                                                              |
+| Touch             | 6                                                                                               |
+| Flat-Footed       | 10                                                                                              |
+| Defense Breakdown | –2 size, –2 Dex, +4 natural                                                                     |
+| BAB               | +6                                                                                              |
+| Grap              | +19                                                                                             |
+| Atk               | +9 melee (1d4+5 plus 1d6 acid, tentacle)                                                        |
+| Full Atk          | +9 melee (1d4+5 plus 1d6 acid, 6 tentacles) or +2 ranged                                        |
+| FS                | 15 ft. by 15 ft.                                                                                |
+| Reach             | 20 ft. with tentacles                                                                           |
+| SQ                | acid resistance 10, acid spray (DC 19), acid touch, darkvision 60 ft., elemental, improved grab |
+| AL                | none                                                                                            |
+| Fort              | +7                                                                                              |
+| Ref               | +4                                                                                              |
+| Will              | +2                                                                                              |
+| AP                | 0                                                                                               |
+| Rep               | +0                                                                                              |
+| Str               | 20                                                                                              |
+| Dex               | 7                                                                                               |
+| Con               | 20                                                                                              |
+| Int               | 6                                                                                               |
+| Wis               | 11                                                                                              |
+| Cha               | 11                                                                                              |
 
 **Skills:** Hide +6, Listen +6, Move Silently +8, Spot +6.
 
@@ -72,39 +72,39 @@ checks and a +4 species bonus on Move Silently checks.
 
 ## Advanced Acid Rainer
 
-| Stat | Value |
-|---|---|
-| CR | 11 |
-| Size | Gargantuan |
-| Type | elemental (air) |
-| HD | 20d8+140 |
-| hp | 230 |
-| Mas | — |
-| Init | –2 |
-| Spd | 5 ft., fly 40 ft. (average) |
-| Defense | 12 |
-| Touch | 4 |
-| Flat-Footed | 12 |
-| Defense Breakdown | –4 size, –2 Dex, +8 natural |
-| BAB | +15 |
-| Grap | +36 |
-| Atk | +20 melee (1d8+9 plus 1d6 acid, tentacle) |
-| Full Atk | +20 melee (1d8+9 plus 1d6 acid, 6 tentacles) or +9 ranged |
-| FS | 20 ft. by 20 ft. |
-| Reach | 25 ft. with tentacles |
-| SQ | acid resistance 10, acid spray (DC 27), acid touch, darkvision 60 ft., elemental, improved grab |
-| AL | none |
-| Fort | +13 |
-| Ref | +12 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 28 |
-| Dex | 7 |
-| Con | 24 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                                           |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| CR                | 11                                                                                              |
+| Size              | Gargantuan                                                                                      |
+| Type              | elemental (air)                                                                                 |
+| HD                | 20d8+140                                                                                        |
+| hp                | 230                                                                                             |
+| Mas               | —                                                                                               |
+| Init              | –2                                                                                              |
+| Spd               | 5 ft., fly 40 ft. (average)                                                                     |
+| Defense           | 12                                                                                              |
+| Touch             | 4                                                                                               |
+| Flat-Footed       | 12                                                                                              |
+| Defense Breakdown | –4 size, –2 Dex, +8 natural                                                                     |
+| BAB               | +15                                                                                             |
+| Grap              | +36                                                                                             |
+| Atk               | +20 melee (1d8+9 plus 1d6 acid, tentacle)                                                       |
+| Full Atk          | +20 melee (1d8+9 plus 1d6 acid, 6 tentacles) or +9 ranged                                       |
+| FS                | 20 ft. by 20 ft.                                                                                |
+| Reach             | 25 ft. with tentacles                                                                           |
+| SQ                | acid resistance 10, acid spray (DC 27), acid touch, darkvision 60 ft., elemental, improved grab |
+| AL                | none                                                                                            |
+| Fort              | +13                                                                                             |
+| Ref               | +12                                                                                             |
+| Will              | +6                                                                                              |
+| AP                | 0                                                                                               |
+| Rep               | +0                                                                                              |
+| Str               | 28                                                                                              |
+| Dex               | 7                                                                                               |
+| Con               | 24                                                                                              |
+| Int               | 6                                                                                               |
+| Wis               | 11                                                                                              |
+| Cha               | 11                                                                                              |
 
 **Skills:** Hide +11, Listen +12, Move Silently +16, Spot +12.
 

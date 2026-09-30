@@ -1,17 +1,17 @@
 # Magic Missile
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Force |
-| Level | Mage 1 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Targets | Up to five creatures, no two of which can be more than 15 ft. apart |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | Yes |
+| Stat             | Value                                                               |
+| ---------------- | ------------------------------------------------------------------- |
+| School           | Evocation                                                           |
+| Descriptors      | Force                                                               |
+| Level            | Mage 1                                                              |
+| Components       | V, S                                                                |
+| Casting Time     | Attack action                                                       |
+| Range            | Medium (100 ft. + 10 ft./level)                                     |
+| Targets          | Up to five creatures, no two of which can be more than 15 ft. apart |
+| Duration         | Instantaneous                                                       |
+| Saving Throw     | None                                                                |
+| Spell Resistance | Yes                                                                 |
 
 A missile of magical energy shoots from the caster and unerringly
 strikes its target, dealing 1d4+1 points of damage.

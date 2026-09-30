@@ -7,11 +7,11 @@ finds deviant or abhorrent. Outcasts lurk on the fringes of
 civilization. Some strive for acceptance, while others are trapped by
 their own feelings of resentment, self-loathing, or hopelessness.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

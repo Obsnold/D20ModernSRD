@@ -1,16 +1,16 @@
 # Clean
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Level | Arcane 1, Divine 1 |
-| Components | V, S, M |
-| Casting Time | Full-round action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Target | One creature, object of up to 1,000 lb./level, or room of up to 100 square feet/level |
-| Duration | Instantaneous |
-| Saving Throw | Fortitude negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| School           | Transmutation                                                                         |
+| Level            | Arcane 1, Divine 1                                                                    |
+| Components       | V, S, M                                                                               |
+| Casting Time     | Full-round action                                                                     |
+| Range            | Close (25 ft. + 5 ft./2 levels)                                                       |
+| Target           | One creature, object of up to 1,000 lb./level, or room of up to 100 square feet/level |
+| Duration         | Instantaneous                                                                         |
+| Saving Throw     | Fortitude negates (harmless)                                                          |
+| Spell Resistance | Yes (harmless)                                                                        |
 
 The *clean* spell completely eliminates grime, dirt, and bacterial
 

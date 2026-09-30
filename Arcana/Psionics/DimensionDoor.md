@@ -1,16 +1,16 @@
 # Dimension Door
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dexterity |
-| Descriptors | Teleportation |
-| Level | Psionic Agent 4 |
-| Display | Visual |
-| Manifestation Time | Attack action |
-| Range | Long (400 ft. + 40 ft./level) |
-| Target | You and touched objects or other touched willing creatures (see text) |
-| Duration | Instantaneous |
-| Power Point Cost | 7 |
+| Stat               | Value                                                                 |
+| ------------------ | --------------------------------------------------------------------- |
+| Key Ability        | Dexterity                                                             |
+| Descriptors        | Teleportation                                                         |
+| Level              | Psionic Agent 4                                                       |
+| Display            | Visual                                                                |
+| Manifestation Time | Attack action                                                         |
+| Range              | Long (400 ft. + 40 ft./level)                                         |
+| Target             | You and touched objects or other touched willing creatures (see text) |
+| Duration           | Instantaneous                                                         |
+| Power Point Cost   | 7                                                                     |
 
 You instantly transfer yourself from your current location to any other
 spot within range. You always arrive at exactly the spot desired—whether

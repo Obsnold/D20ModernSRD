@@ -1,17 +1,17 @@
 # Secret Pocket
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Level | Arcane 3, Divine 3 |
-| Components | V, S, M/DF |
-| Casting Time | Attack action |
-| Range | Object touched |
-| Target | One pocket on a garment |
-| Duration | 1 hour/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| School           | Conjuration             |
+| Subschool        | Summoning               |
+| Level            | Arcane 3, Divine 3      |
+| Components       | V, S, M/DF              |
+| Casting Time     | Attack action           |
+| Range            | Object touched          |
+| Target           | One pocket on a garment |
+| Duration         | 1 hour/level            |
+| Saving Throw     | None                    |
+| Spell Resistance | No                      |
 
 The *secret pocket* spell creates an extradimensional space that only
 you can reach through a pocket in the target garment. The *secret pocket*

@@ -1,14 +1,14 @@
 # Seed: Conceal
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Knowledge (arcane lore) DC | 30 |
-| Range | Personal or touch |
-| Target | You or a creature or object up to 2,000 lb. |
-| Duration | Minutes |
-| Saving Throw | None or Will negates (harmless, object) |
-| Spell Resistance | No or Yes (harmless, object) |
+| Stat                       | Value                                       |
+| -------------------------- | ------------------------------------------- |
+| School                     | Illusion                                    |
+| Knowledge (arcane lore) DC | 30                                          |
+| Range                      | Personal or touch                           |
+| Target                     | You or a creature or object up to 2,000 lb. |
+| Duration                   | Minutes                                     |
+| Saving Throw               | None or Will negates (harmless, object)     |
+| Spell Resistance           | No or Yes (harmless, object)                |
 
 You can conceal a creature or object touched from sight, even from
 darkvision. If the target is a creature carrying gear, the gear

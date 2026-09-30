@@ -12,14 +12,14 @@ the creature is unique or has traits unlike other members of its
 species. The type of information gleaned in this amount of time depends
 on the hero’s Research check result, as shown below.
 
-| Type of Information | Research Check DC |
-|---|---|
-| **Type Traits** | |
-| Reveals a creature’s type and any traits common to that type. | 15 |
-| **Species Traits** | |
-| Reveals a specific creature’s Species Traits. | 20 |
-| **Unique Traits** | |
-| Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25 |
+| Type of Information                                                           | Research Check DC |
+| ----------------------------------------------------------------------------- | ----------------- |
+| **Type Traits**                                                               |                   |
+| Reveals a creature’s type and any traits common to that type.                 | 15                |
+| **Species Traits**                                                            |                   |
+| Reveals a specific creature’s Species Traits.                                 | 20                |
+| **Unique Traits**                                                             |                   |
+| Reveals the unique attributes and weaknesses (if any) of a specific creature. | 25                |
 
 ## Creature Weaknesses
 
@@ -55,11 +55,11 @@ resist the source of weakness; the DC of the save varies depending on
 the source’s strength:
 
 | Strength of Source | Save DC |
-|---|---|
-| Easily resistible | 10 |
-| Moderate | 15 |
-| Strong | 20 |
-| Overpowering | 25 |
+| ------------------ | ------- |
+| Easily resistible  | 10      |
+| Moderate           | 15      |
+| Strong             | 20      |
+| Overpowering       | 25      |
 
 Creatures usually react to a source of weakness in one of six ways:
 
@@ -180,42 +180,42 @@ susceptible to source-induced harm.
 
 **Table: Sources of Weakness**
 
-| d% | Source | d% | Source |
-|---|---|---|---|
-| 01 | Alcohol or moonshine | 49 | Lilac-scented candles |
-| 02 | Amber | 50 | Mathematical equations |
-| 03 | Animated cartoons | 51 | Morphine |
-| 04 | Archways | 52–53 | Nerve gas |
-| 05–06 | Bells or chimes | 54 | Nitrous oxide (laughing gas) |
-| 07 | Books written by William Blake | 55 | Novocaine |
-| 08 | Bunnies | 56–57 | Number “8” |
-| 09–10 | Cancerous organs | 58 | Pearls |
-| 11 | Carbonated soft drinks | 59 | Penicillin |
-| 12–13 | Cats | 60 | Photo flashes |
-| 14 | Chrome | 61–62 | Plastic or vinyl |
-| 15–16 | Classical music | 63–64 | Played violin or electric guitar |
-| 17 | Clocks | 65 | Playgrounds |
-| 18 | Clowns | 66–67 | Plutonium |
-| 19 | Cocaine | 68 | Poppies |
-| 20–21 | Country music | 69 | Pulsing strobe lights |
-| 22–23 | Crosses or crucifixes | 70–71 | Radiation |
-| 24 | Crows | 72 | Radio waves |
-| 25 | Dogs | 73 | Rubber |
-| 26 | Elvis Presley memorabilia | 74 | Running water |
-| 27 | Fast cars | 75–76 | Silver |
-| 28 | Fast foods | 77 | Sodium benzoate (food preservative) |
-| 29–30 | Fluorescent lights | 78–79 | Sodium chloride (salt) |
-| 31 | Games of chance | 80–81 | Specific phrase or word |
-| 32 | Gold or iron pyrite (fool’s gold) | 82 | Specific song |
-| 33 | Grave dirt | 83 | Spoken Latin |
-| 34–35 | Heavy metal music | 84 | Stuffed animals |
-| 36–37 | Holy symbols | 85 | Sumerian or Egyptian hieroglyphs |
-| 38–39 | Holy water | 86–87 | Sunlight |
-| 40 | Hospitals | 88–89 | The Bible |
-| 41 | Ice cream | 90 | Tinfoil |
-| 42 | Insecticide (DDT) | 91–92 | Toxic waste |
-| 43 | Jack o’-lanterns | 93–94 | Triangles |
-| 44 | Keys | 95 | Television infomercials |
-| 45–46 | Laughter of children | 96 | Television static |
-| 47 | Laundry detergent | 97–98 | White rice |
-| 48 | Lavender | 99–100 | X-rays |
+| d%    | Source                            | d%     | Source                              |
+| ----- | --------------------------------- | ------ | ----------------------------------- |
+| 01    | Alcohol or moonshine              | 49     | Lilac-scented candles               |
+| 02    | Amber                             | 50     | Mathematical equations              |
+| 03    | Animated cartoons                 | 51     | Morphine                            |
+| 04    | Archways                          | 52–53  | Nerve gas                           |
+| 05–06 | Bells or chimes                   | 54     | Nitrous oxide (laughing gas)        |
+| 07    | Books written by William Blake    | 55     | Novocaine                           |
+| 08    | Bunnies                           | 56–57  | Number “8”                          |
+| 09–10 | Cancerous organs                  | 58     | Pearls                              |
+| 11    | Carbonated soft drinks            | 59     | Penicillin                          |
+| 12–13 | Cats                              | 60     | Photo flashes                       |
+| 14    | Chrome                            | 61–62  | Plastic or vinyl                    |
+| 15–16 | Classical music                   | 63–64  | Played violin or electric guitar    |
+| 17    | Clocks                            | 65     | Playgrounds                         |
+| 18    | Clowns                            | 66–67  | Plutonium                           |
+| 19    | Cocaine                           | 68     | Poppies                             |
+| 20–21 | Country music                     | 69     | Pulsing strobe lights               |
+| 22–23 | Crosses or crucifixes             | 70–71  | Radiation                           |
+| 24    | Crows                             | 72     | Radio waves                         |
+| 25    | Dogs                              | 73     | Rubber                              |
+| 26    | Elvis Presley memorabilia         | 74     | Running water                       |
+| 27    | Fast cars                         | 75–76  | Silver                              |
+| 28    | Fast foods                        | 77     | Sodium benzoate (food preservative) |
+| 29–30 | Fluorescent lights                | 78–79  | Sodium chloride (salt)              |
+| 31    | Games of chance                   | 80–81  | Specific phrase or word             |
+| 32    | Gold or iron pyrite (fool’s gold) | 82     | Specific song                       |
+| 33    | Grave dirt                        | 83     | Spoken Latin                        |
+| 34–35 | Heavy metal music                 | 84     | Stuffed animals                     |
+| 36–37 | Holy symbols                      | 85     | Sumerian or Egyptian hieroglyphs    |
+| 38–39 | Holy water                        | 86–87  | Sunlight                            |
+| 40    | Hospitals                         | 88–89  | The Bible                           |
+| 41    | Ice cream                         | 90     | Tinfoil                             |
+| 42    | Insecticide (DDT)                 | 91–92  | Toxic waste                         |
+| 43    | Jack o’-lanterns                  | 93–94  | Triangles                           |
+| 44    | Keys                              | 95     | Television infomercials             |
+| 45–46 | Laughter of children              | 96     | Television static                   |
+| 47    | Laundry detergent                 | 97–98  | White rice                          |
+| 48    | Lavender                          | 99–100 | X-rays                              |

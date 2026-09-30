@@ -23,39 +23,39 @@ affected by a *spider climb* spell. This ability is always active.
 
 ## Jynx
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Small |
-| Type | fey |
-| HD | 1d6 |
-| hp | 3 |
-| Mas | 11 |
-| Init | +4 |
-| Spd | 30 ft., fly 150 ft. (perfect) |
-| Defense | 16 |
-| Touch | 15 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +1 size, +4 Dex, +1 natural |
-| BAB | +0 |
-| Grap | –6 |
-| Atk | +5 melee (1d3–2, claw) |
-| Full Atk | +5 melee (1d3–2, 2 claws) or +4 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | electricity immunity, low-light vision, natural invisibility, rending claws, *spider climb* |
-| AL | chaos, evil |
-| Fort | +0 |
-| Ref | +4 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 7 |
-| Dex | 18 |
-| Con | 11 |
-| Int | 15 |
-| Wis | 16 |
-| Cha | 14 |
+| Stat              | Value                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| CR                | 1                                                                                           |
+| Size              | Small                                                                                       |
+| Type              | fey                                                                                         |
+| HD                | 1d6                                                                                         |
+| hp                | 3                                                                                           |
+| Mas               | 11                                                                                          |
+| Init              | +4                                                                                          |
+| Spd               | 30 ft., fly 150 ft. (perfect)                                                               |
+| Defense           | 16                                                                                          |
+| Touch             | 15                                                                                          |
+| Flat-Footed       | 12                                                                                          |
+| Defense Breakdown | +1 size, +4 Dex, +1 natural                                                                 |
+| BAB               | +0                                                                                          |
+| Grap              | –6                                                                                          |
+| Atk               | +5 melee (1d3–2, claw)                                                                      |
+| Full Atk          | +5 melee (1d3–2, 2 claws) or +4 ranged                                                      |
+| FS                | 5 ft. by 5 ft.                                                                              |
+| Reach             | 5 ft.                                                                                       |
+| SQ                | electricity immunity, low-light vision, natural invisibility, rending claws, *spider climb* |
+| AL                | chaos, evil                                                                                 |
+| Fort              | +0                                                                                          |
+| Ref               | +4                                                                                          |
+| Will              | +5                                                                                          |
+| AP                | 0                                                                                           |
+| Rep               | +0                                                                                          |
+| Str               | 7                                                                                           |
+| Dex               | 18                                                                                          |
+| Con               | 11                                                                                          |
+| Int               | 15                                                                                          |
+| Wis               | 16                                                                                          |
+| Cha               | 14                                                                                          |
 
 **Skills:** Balance +8, Climb +2, Disable Device +10, Escape Artist +8,
 Hide +8, Jump +2, Listen +7, Move Silently +8, Pilot +8; Repair +3,
@@ -69,39 +69,39 @@ Search +6, Spot +7.
 
 ## Jynx Fast Hero 3
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Small |
-| Type | fey |
-| HD | 1d6 plus 3d8 |
-| hp | 17 |
-| Mas | 11 |
-| Init | +4 |
-| Spd | 30 ft., fly 150 ft. (perfect) |
-| Defense | 20 |
-| Touch | 19 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +1 size, +4 Dex, +1 natural, +4 class |
-| BAB | +2 |
-| Grap | –4 |
-| Atk | +7 melee (1d3–2, claw) |
-| Full Atk | +7 melee (1d3–2, 2 claws) or +6 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | electricity immunity, low-light vision, natural invisibility, rending claws, *spider climb* |
-| AL | chaos, evil |
-| Fort | +1 |
-| Ref | +6 |
-| Will | +6 |
-| AP | 1 |
-| Rep | +1 |
-| Str | 7 |
-| Dex | 18 |
-| Con | 11 |
-| Int | 15 |
-| Wis | 16 |
-| Cha | 14 |
+| Stat              | Value                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                           |
+| Size              | Small                                                                                       |
+| Type              | fey                                                                                         |
+| HD                | 1d6 plus 3d8                                                                                |
+| hp                | 17                                                                                          |
+| Mas               | 11                                                                                          |
+| Init              | +4                                                                                          |
+| Spd               | 30 ft., fly 150 ft. (perfect)                                                               |
+| Defense           | 20                                                                                          |
+| Touch             | 19                                                                                          |
+| Flat-Footed       | 16                                                                                          |
+| Defense Breakdown | +1 size, +4 Dex, +1 natural, +4 class                                                       |
+| BAB               | +2                                                                                          |
+| Grap              | –4                                                                                          |
+| Atk               | +7 melee (1d3–2, claw)                                                                      |
+| Full Atk          | +7 melee (1d3–2, 2 claws) or +6 ranged                                                      |
+| FS                | 5 ft. by 5 ft.                                                                              |
+| Reach             | 5 ft.                                                                                       |
+| SQ                | electricity immunity, low-light vision, natural invisibility, rending claws, *spider climb* |
+| AL                | chaos, evil                                                                                 |
+| Fort              | +1                                                                                          |
+| Ref               | +6                                                                                          |
+| Will              | +6                                                                                          |
+| AP                | 1                                                                                           |
+| Rep               | +1                                                                                          |
+| Str               | 7                                                                                           |
+| Dex               | 18                                                                                          |
+| Con               | 11                                                                                          |
+| Int               | 15                                                                                          |
+| Wis               | 16                                                                                          |
+| Cha               | 14                                                                                          |
 
 **Occupation:** Adventurer.
 

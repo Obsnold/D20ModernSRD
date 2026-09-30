@@ -52,18 +52,18 @@ The Thrasher’s class skills are as follows:
 
 **Table: The Thrasher**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +2 | +1 | +0 | Tough Defense | +1 | +0 |
-| 2nd | +1 | +3 | +2 | +0 | Ability surge 1/day | +1 | +0 |
-| 3rd | +2 | +3 | +2 | +1 | Bonus feat | +2 | +0 |
-| 4th | +3 | +4 | +2 | +1 | Uncanny dodge X | +2 | +0 |
-| 5th | +3 | +4 | +3 | +1 | Ability surge 2/day | +3 | +1 |
-| 6th | +4 | +5 | +3 | +2 | Bonus feat | +3 | +1 |
-| 7th | +5 | +5 | +3 | +2 | Damage reduction 5/+1 | +4 | +1 |
-| 8th | +6 | +6 | +4 | +2 | Ability surge 3/day | +4 | +1 |
-| 9th | +6 | +6 | +4 | +3 | Bonus feat | +5 | +2 |
-| 10th | +7 | +7 | +5 | +3 | Damage reduction 10/+1 | +5 | +2 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ---------------------- | ------------- | ---------------- |
+| 1st   | +0                | +2        | +1       | +0        | Tough Defense          | +1            | +0               |
+| 2nd   | +1                | +3        | +2       | +0        | Ability surge 1/day    | +1            | +0               |
+| 3rd   | +2                | +3        | +2       | +1        | Bonus feat             | +2            | +0               |
+| 4th   | +3                | +4        | +2       | +1        | Uncanny dodge X        | +2            | +0               |
+| 5th   | +3                | +4        | +3       | +1        | Ability surge 2/day    | +3            | +1               |
+| 6th   | +4                | +5        | +3       | +2        | Bonus feat             | +3            | +1               |
+| 7th   | +5                | +5        | +3       | +2        | Damage reduction 5/+1  | +4            | +1               |
+| 8th   | +6                | +6        | +4       | +2        | Ability surge 3/day    | +4            | +1               |
+| 9th   | +6                | +6        | +4       | +3        | Bonus feat             | +5            | +2               |
+| 10th  | +7                | +7        | +5       | +3        | Damage reduction 10/+1 | +5            | +2               |
 
 ## Class Features
 
@@ -117,7 +117,7 @@ The Thrasher gains the ability of Uncanny Dodge, or increases the
 potency of this ability if he already has it.
 
 If the Thrasher does not have Uncanny Dodge 1 (usually gained as a Fast
-hero), he gains Uncanny Dodge 1**:** He retains his Dexterity bonus to
+hero), he gains Uncanny Dodge 1\*\*:\*\* He retains his Dexterity bonus to
 Defense (if any) regardless of being caught flat-footed or struck by a
 hidden attacker. (He still loses his Dexterity bonus to Defense if he’s
 immobilized.)

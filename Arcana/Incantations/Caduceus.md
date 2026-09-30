@@ -1,18 +1,18 @@
 # Caduceus
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Healing |
-| Skill Check | Knowledge (arcane lore) DC 31, 4 successes, and Treat Injury DC 31, 2 success |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, F |
-| Casting Time | 6 hours (minimum) |
-| Range | Touch |
-| Target | Living creature |
-| Duration | Instantaneous |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                                                                         |
+| ---------------- | ----------------------------------------------------------------------------- |
+| School           | Conjuration                                                                   |
+| Subschool        | Healing                                                                       |
+| Skill Check      | Knowledge (arcane lore) DC 31, 4 successes, and Treat Injury DC 31, 2 success |
+| Failure          | Two consecutive failed skill checks                                           |
+| Components       | V, S, F                                                                       |
+| Casting Time     | 6 hours (minimum)                                                             |
+| Range            | Touch                                                                         |
+| Target           | Living creature                                                               |
+| Duration         | Instantaneous                                                                 |
+| Saving Throw     | Will negates (harmless)                                                       |
+| Spell Resistance | Yes (harmless)                                                                |
 
 *Caduceus* enables you to channel magic into a creature to wipe away
 injury and afflictions. It immediately ends any and all of the following

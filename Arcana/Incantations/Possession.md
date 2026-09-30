@@ -1,17 +1,17 @@
 # Possession
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Skill Check | Knowledge (arcane lore) DC 34, 6 successes |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, M, XP |
-| Casting Time | 60 minutes (minimum) |
-| Range | Touch |
-| Target | One helpless creature of fewer Hit Dice than you |
-| Duration | 12 hours (D) |
-| Saving Throw | Will negates (DC 16 + caster’s Charisma modifier) |
-| Spell Resistance | Yes |
+| Stat             | Value                                             |
+| ---------------- | ------------------------------------------------- |
+| School           | Necromancy                                        |
+| Skill Check      | Knowledge (arcane lore) DC 34, 6 successes        |
+| Failure          | Two consecutive failed skill checks               |
+| Components       | V, S, M, XP                                       |
+| Casting Time     | 60 minutes (minimum)                              |
+| Range            | Touch                                             |
+| Target           | One helpless creature of fewer Hit Dice than you  |
+| Duration         | 12 hours (D)                                      |
+| Saving Throw     | Will negates (DC 16 + caster’s Charisma modifier) |
+| Spell Resistance | Yes                                               |
 
 By casting the *possession* incantation, you place the subject’s soul in
 a receptacle (a gem or large crystal) while your soul inhabits the

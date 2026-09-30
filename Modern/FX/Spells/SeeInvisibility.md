@@ -1,16 +1,16 @@
 # See Invisibility
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Mage 2 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Area | Cone |
-| Duration | 10 minutes/level (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                           |
+| ---------------- | ------------------------------- |
+| School           | Divination                      |
+| Level            | Mage 2                          |
+| Components       | V, S, M                         |
+| Casting Time     | Attack action                   |
+| Range            | Medium (100 ft. + 10 ft./level) |
+| Area             | Cone                            |
+| Duration         | 10 minutes/level (D)            |
+| Saving Throw     | None                            |
+| Spell Resistance | No                              |
 
 The caster sees any objects or beings that are invisible as if they were
 normally visible.

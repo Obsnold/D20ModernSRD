@@ -7,11 +7,11 @@ that they might someday rise to lead their families into the future . .
 . assuming the stars are properly aligned and they do nothing to
 jeopardize their birthright.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 21+ |
-| Reputation Bonus Increase | +1 |
-| Wealth Bonus Increase | +6 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 21+ |
+| Reputation Bonus Increase | +1      |
+| Wealth Bonus Increase     | +6      |
 
 ## Skills
 

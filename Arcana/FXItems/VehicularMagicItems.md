@@ -15,12 +15,12 @@ A vehicular magic item’s purchase price is 20 + the item’s caster
 level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
-| Item’s Nature | FX Modifier |
-|---|---|
-| Single-use item | — |
-| Continuous effect or bonus | +3 |
-| Limited number of uses per day | +2 |
-| Limited number of charges | +1 |
+| Item’s Nature                  | FX Modifier |
+| ------------------------------ | ----------- |
+| Single-use item                | —           |
+| Continuous effect or bonus     | +3          |
+| Limited number of uses per day | +2          |
+| Limited number of charges      | +1          |
 
 ## Limits for FX Items on Vehicles
 
@@ -92,8 +92,8 @@ of the vehicle. Any time the driver of the vehicle uses the bumper to
 ram another vehicle or object, damage to the opposed vehicle is
 increased by one speed and size increment, while damage to the vehicle
 with the *bumper of the ram* is reduced by one speed and one size
-increment. The bumper of the ram’s effects do not apply to sideswipes*.
-*
+increment. The bumper of the ram’s effects do not apply to sideswipes\*.
+\*
 
 *Type:* Wondrous Item (vehicular); *Caster Level:* 9th; *Purchase DC:*
 32; *Weight:* — (factored into the vehicle’s weight).
@@ -188,7 +188,7 @@ Vehicle windows and windshields may shatter if they take sufficient
 damage from the blast. Headlights are also susceptible to the *horn of
 blasting* and should be treated as windows for this purpose.
 
-*Type:*Wondrous Item (vehicular); *Caster Level:* 7th; *Purchase DC:*
+\*Type:\*Wondrous Item (vehicular); *Caster Level:* 7th; *Purchase DC:*
 29; *Weight:* — (factored into the vehicle’s weight).
 
 ## Horn of Dread
@@ -197,7 +197,7 @@ Up to three times per day, this horn can emit a terrifying noise. Anyone
 within 50 feet of the horn’s sound must succeed a Will save (DC 15) or
 be affected by a *cause fear* spell (as if cast by a 5th-level Acolyte).
 
-*Type:*Wondrous Item (vehicular);
+\*Type:\*Wondrous Item (vehicular);
 
 *Caster Level:* 5th; *Purchase DC:* 27; *Weight:* — (factored into the
 vehicle’s weight).
@@ -210,7 +210,7 @@ the set has a hardness of 20.
 If one of the tires is punctured and ruined, the remaining *impervious
 tires* continue to function.
 
-*Type:*Wondrous Item (vehicular); *Caster Level:* 5th; *Purchase DC:* 28
+\*Type:\*Wondrous Item (vehicular); *Caster Level:* 5th; *Purchase DC:* 28
 (per set); *Weight:* — (factored into the vehicle’s weight).
 
 ## Nondescript Paint Job

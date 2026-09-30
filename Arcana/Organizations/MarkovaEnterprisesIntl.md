@@ -72,14 +72,14 @@ Research or Knowledge checks required to find information, anyone using
 the M.E. morgue must make an additional Research check to determine how
 long the search took.
 
-| DC | Time Required |
-|---|---|
+| DC        | Time Required                           |
+| --------- | --------------------------------------- |
 | 9 or less | 1d6 + 6 hours with no information found |
-| 10 –14 | 1d6 + 6 hours |
-| 15 –19 | 1d6 hours |
-| 20 –24 | 3d10 + 30 minutes |
-| 25 –29 | 2d10 + 20 minutes |
-| 30 + | 1d10 + 10 minutes |
+| 10 –14    | 1d6 + 6 hours                           |
+| 15 –19    | 1d6 hours                               |
+| 20 –24    | 3d10 + 30 minutes                       |
+| 25 –29    | 2d10 + 20 minutes                       |
+| 30 +      | 1d10 + 10 minutes                       |
 
 ## Anastasia Markova
 
@@ -122,39 +122,39 @@ sunlight and is never seen out during the day. However, the hip crowd,
 who rarely see daylight themselves, never questions her nocturnal
 lifestyle.
 
-| Stat | Value |
-|---|---|
-| Class | Female Drow, Fast Hero 4/Dedicated Hero 5/Charismatic Hero 9 |
-| CR | 20 |
-| Size/Type | Medium humanoid (Drow, Shadowkind) |
-| HD | 4d8–4 plus 5d6–5 plus 9d6–9 |
-| hp | 69 |
-| Mas | 8 |
-| Init | +7 |
-| Spd | 30 ft. |
-| Defense | 24 |
-| Touch | 24 |
-| Flat-Footed | 21 |
-| Defense Breakdown | +3 Dex, +11 class |
-| BAB | +10 |
-| Grap | +9 |
-| Atk | +9 melee (1d3–1 nonlethal, unarmed strike) |
-| Full Atk | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2, *+2 SITES M9*), or +16/+11 ranged (2d6+2, *+2 MP5*) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | Darkvision 120 ft., light blindness, spell immunities, SR 29 |
-| AL | any |
-| Fort | +7 |
-| Ref | +10 |
-| Will | +15 |
-| AP | 9 |
-| Rep | +10 |
-| Str | 9 |
-| Dex | 17 |
-| Con | 8 |
-| Int | 16 |
-| Wis | 18 |
-| Cha | 20 |
+| Stat              | Value                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Class             | Female Drow, Fast Hero 4/Dedicated Hero 5/Charismatic Hero 9                                                              |
+| CR                | 20                                                                                                                        |
+| Size/Type         | Medium humanoid (Drow, Shadowkind)                                                                                        |
+| HD                | 4d8–4 plus 5d6–5 plus 9d6–9                                                                                               |
+| hp                | 69                                                                                                                        |
+| Mas               | 8                                                                                                                         |
+| Init              | +7                                                                                                                        |
+| Spd               | 30 ft.                                                                                                                    |
+| Defense           | 24                                                                                                                        |
+| Touch             | 24                                                                                                                        |
+| Flat-Footed       | 21                                                                                                                        |
+| Defense Breakdown | +3 Dex, +11 class                                                                                                         |
+| BAB               | +10                                                                                                                       |
+| Grap              | +9                                                                                                                        |
+| Atk               | +9 melee (1d3–1 nonlethal, unarmed strike)                                                                                |
+| Full Atk          | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2, *+2 SITES M9*), or +16/+11 ranged (2d6+2, *+2 MP5*) |
+| FS                | 5 ft. by 5 ft.                                                                                                            |
+| Reach             | 5 ft.                                                                                                                     |
+| SQ                | Darkvision 120 ft., light blindness, spell immunities, SR 29                                                              |
+| AL                | any                                                                                                                       |
+| Fort              | +7                                                                                                                        |
+| Ref               | +10                                                                                                                       |
+| Will              | +15                                                                                                                       |
+| AP                | 9                                                                                                                         |
+| Rep               | +10                                                                                                                       |
+| Str               | 9                                                                                                                         |
+| Dex               | 17                                                                                                                        |
+| Con               | 8                                                                                                                         |
+| Int               | 16                                                                                                                        |
+| Wis               | 18                                                                                                                        |
+| Cha               | 20                                                                                                                        |
 
 **Skills**: Bluff +20, Computer Use +8, Craft (visual arts) +13, Craft
 (writing) +13, Diplomacy +22, Disguise +12, Drive +7, Gamble +13, Gather
@@ -168,7 +168,7 @@ Speak French, Speak English, Speak Spanish, Read/Write Undertongue, Spot
 
 **Feats**: Advanced Firearms, Archaic Weapon Proficiency, Creative,
 Deceptive, Defensive Martial Arts, Educated (Knowledge \[popular
-culture\] and Knowledge \[business\]), Dodge, Elusive Target, Heroic
+culture\] and Knowledge [business]), Dodge, Elusive Target, Heroic
 Surge, Improved Initiative, Iron Will, Personal Firearms Proficiency,
 Point Blank Shot, Precise Shot, Renown, Simple Weapon Proficiency,
 Trustworthy, Unbalance Opponent.

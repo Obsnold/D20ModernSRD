@@ -13,27 +13,27 @@ the cost of future building projects.
 
 **Table: Salvage**
 
-| Salvaged Machine | Time Required | Search Check DC | Wealth Increase |
-|---|---|---|---|
-| **Vehicle** | | | |
-| Huge or smaller | 30 min. | 15 | +1 |
-| Gargantuan | 1 hr. | 20 | +2 |
-| Colossal | 3 hr. | 25 | +3 |
-| **Mecha** | | | |
-| Huge or smaller | 30 min. | 25 | +2 |
-| Gargantuan | 1 hr. | 30 | +4 |
-| Colossal | 3 hr. | 35 | +6 |
-| **Starship** | | | |
-| Huge | 1 hr. | 30 | +3 |
-| Gargantuan | 3 hr. | 35 | +5 |
-| Colossal | 6 hr. | 40 | +8 |
-| **Robot** | | | |
-| Tiny or smaller | 10 min. | 20 | +1 |
-| Small to Large | 30 min. | 25 | +2 |
-| Huge or bigger | 1 hr. | 30 | +3 |
-| **Cybernetic Attachment** | | | |
-| Replacement | 10 min. | 15 | +1 |
-| Enhancement | 30 min. | 20 | +2 |
+| Salvaged Machine          | Time Required | Search Check DC | Wealth Increase |
+| ------------------------- | ------------- | --------------- | --------------- |
+| **Vehicle**               |               |                 |                 |
+| Huge or smaller           | 30 min.       | 15              | +1              |
+| Gargantuan                | 1 hr.         | 20              | +2              |
+| Colossal                  | 3 hr.         | 25              | +3              |
+| **Mecha**                 |               |                 |                 |
+| Huge or smaller           | 30 min.       | 25              | +2              |
+| Gargantuan                | 1 hr.         | 30              | +4              |
+| Colossal                  | 3 hr.         | 35              | +6              |
+| **Starship**              |               |                 |                 |
+| Huge                      | 1 hr.         | 30              | +3              |
+| Gargantuan                | 3 hr.         | 35              | +5              |
+| Colossal                  | 6 hr.         | 40              | +8              |
+| **Robot**                 |               |                 |                 |
+| Tiny or smaller           | 10 min.       | 20              | +1              |
+| Small to Large            | 30 min.       | 25              | +2              |
+| Huge or bigger            | 1 hr.         | 30              | +3              |
+| **Cybernetic Attachment** |               |                 |                 |
+| Replacement               | 10 min.       | 15              | +1              |
+| Enhancement               | 30 min.       | 20              | +2              |
 
 **Special:** A particular vehicle, mecha, starship, robot, or cybernetic
 attachment can be successfully salvaged only once. Any further attempts

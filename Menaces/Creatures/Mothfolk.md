@@ -22,39 +22,39 @@ Listen, and Move Silently checks.
 
 ## Mothfolk
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Large |
-| Type | outsider |
-| HD | 2d8 |
-| hp | 9 |
-| Mas | 10 |
-| Init | +1 |
-| Spd | 30 ft., fly 300 ft. (good) |
-| Defense | 12 |
-| Touch | 11 |
-| Flat-Footed | 11 |
-| Defense Breakdown | –1 size, +1 Dex, +2 natural |
-| BAB | +2 |
-| Grap | +7 |
-| Atk | +2 melee (1d6+1, claw) |
-| Full Atk | +2 melee (1d6+1, 2 claws) or +2 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | darkvision 60 ft., fear aura (DC 11) |
-| AL | mothfolk |
-| Fort | +3 |
-| Ref | +4 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 12 |
-| Dex | 13 |
-| Con | 10 |
-| Int | 10 |
-| Wis | 14 |
-| Cha | 10 |
+| Stat              | Value                                  |
+| ----------------- | -------------------------------------- |
+| CR                | 1                                      |
+| Size              | Large                                  |
+| Type              | outsider                               |
+| HD                | 2d8                                    |
+| hp                | 9                                      |
+| Mas               | 10                                     |
+| Init              | +1                                     |
+| Spd               | 30 ft., fly 300 ft. (good)             |
+| Defense           | 12                                     |
+| Touch             | 11                                     |
+| Flat-Footed       | 11                                     |
+| Defense Breakdown | –1 size, +1 Dex, +2 natural            |
+| BAB               | +2                                     |
+| Grap              | +7                                     |
+| Atk               | +2 melee (1d6+1, claw)                 |
+| Full Atk          | +2 melee (1d6+1, 2 claws) or +2 ranged |
+| FS                | 5 ft. by 5 ft.                         |
+| Reach             | 10 ft.                                 |
+| SQ                | darkvision 60 ft., fear aura (DC 11)   |
+| AL                | mothfolk                               |
+| Fort              | +3                                     |
+| Ref               | +4                                     |
+| Will              | +5                                     |
+| AP                | 0                                      |
+| Rep               | +0                                     |
+| Str               | 12                                     |
+| Dex               | 13                                     |
+| Con               | 10                                     |
+| Int               | 10                                     |
+| Wis               | 14                                     |
+| Cha               | 10                                     |
 
 **Skills:** Balance +7, Climb +7, Hide +5, Listen +8, Move Silently +7,
 Read/Write Mothfolk, Sense Motive +4, Speak Mothfolk, Spot +4.
@@ -67,39 +67,39 @@ Read/Write Mothfolk, Sense Motive +4, Speak Mothfolk, Spot +4.
 
 ## Mothfolk Dedicated Hero 3/Acolyte 3
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Large |
-| Type | outsider |
-| HD | 2d8 plus 3d6 plus 3d8 |
-| hp | 33 |
-| Mas | 10 |
-| Init | +2 |
-| Spd | 30 ft., fly 300 ft. (good) |
-| Defense | 17 |
-| Touch | 15 |
-| Flat-Footed | 15 |
-| Defense Breakdown | –1 size, +2 Dex, +4 class, +2 natural |
-| BAB | +6 |
-| Grap | +11 |
-| Atk | +6 melee (1d6+1, claw) |
-| Full Atk | +6 melee (1d6+1, 2 claws) or +7 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | Darkvision 60 ft., divine spells, fear aura (DC 14), turn undead |
-| AL | mothfolk |
-| Fort | +8 |
-| Ref | +8 |
-| Will | +12 |
-| AP | 3 |
-| Rep | +3 |
-| Str | 12 |
-| Dex | 14 |
-| Con | 10 |
-| Int | 10 |
-| Wis | 15 |
-| Cha | 10 |
+| Stat              | Value                                                            |
+| ----------------- | ---------------------------------------------------------------- |
+| CR                | 7                                                                |
+| Size              | Large                                                            |
+| Type              | outsider                                                         |
+| HD                | 2d8 plus 3d6 plus 3d8                                            |
+| hp                | 33                                                               |
+| Mas               | 10                                                               |
+| Init              | +2                                                               |
+| Spd               | 30 ft., fly 300 ft. (good)                                       |
+| Defense           | 17                                                               |
+| Touch             | 15                                                               |
+| Flat-Footed       | 15                                                               |
+| Defense Breakdown | –1 size, +2 Dex, +4 class, +2 natural                            |
+| BAB               | +6                                                               |
+| Grap              | +11                                                              |
+| Atk               | +6 melee (1d6+1, claw)                                           |
+| Full Atk          | +6 melee (1d6+1, 2 claws) or +7 ranged                           |
+| FS                | 5 ft. by 5 ft.                                                   |
+| Reach             | 10 ft.                                                           |
+| SQ                | Darkvision 60 ft., divine spells, fear aura (DC 14), turn undead |
+| AL                | mothfolk                                                         |
+| Fort              | +8                                                               |
+| Ref               | +8                                                               |
+| Will              | +12                                                              |
+| AP                | 3                                                                |
+| Rep               | +3                                                               |
+| Str               | 12                                                               |
+| Dex               | 14                                                               |
+| Con               | 10                                                               |
+| Int               | 10                                                               |
+| Wis               | 15                                                               |
+| Cha               | 10                                                               |
 
 **Skills:** Balance +7, Climb +7, Concentration +6, Hide +5, Knowledge
 (theology and philosophy) +4, Listen +8, Move Silently +7, Read/Write

@@ -14,17 +14,17 @@ Table: Size and Defense of Objects.
 
 **Table: Size and Defense of Objects**
 
-| Size (Example) | Defense |
-|---|---|
-| Colossal (jetliner) | –3 |
-| Gargantuan (army tank) | 1 |
-| Huge (typical car) | 3 |
-| Large (big door) | 4 |
-| Medium-size (dirt bike) | 5 |
-| Small (chair) | 6 |
-| Tiny (laptop computer) | 7 |
-| Diminutive (paperback book) | 9 |
-| Fine (pencil) | 13 |
+| Size (Example)              | Defense |
+| --------------------------- | ------- |
+| Colossal (jetliner)         | –3      |
+| Gargantuan (army tank)      | 1       |
+| Huge (typical car)          | 3       |
+| Large (big door)            | 4       |
+| Medium-size (dirt bike)     | 5       |
+| Small (chair)               | 6       |
+| Tiny (laptop computer)      | 7       |
+| Diminutive (paperback book) | 9       |
+| Fine (pencil)               | 13      |
 
 If a character uses a full-round action to make an attack against an
 inanimate, immobile object, the character gets an automatic hit with a
@@ -50,49 +50,49 @@ Object Hardness and Hit Points).
 
 **Table: Substance Hardness and Hit Points**
 
-| Substance | Hardness | Hit Points | |
-|---|---|---|---|
-| Paper | 0 | 2/inch of thickness | |
-| Rope | 0 | 2/inch of thickness | |
-| Plastic, soft | 0 | 3/inch of thickness | |
-| Glass | 1 | 1/inch of thickness | |
-| Ceramic | 1 | 2/inch of thickness | |
-| Ice | 0 | 3/inch of thickness | |
-| Plastic, hard | 2 | 5/inch of thickness | |
-| Wood | 5 | 10/inch of thickness | |
-| Aluminum | 6 | 10/inch of thickness | |
-| Concrete | 8 | 15/inch of thickness | |
-| Steel | 10 | 30/inch of thickness | |
+| Substance     | Hardness | Hit Points           |     |
+| ------------- | -------- | -------------------- | --- |
+| Paper         | 0        | 2/inch of thickness  |     |
+| Rope          | 0        | 2/inch of thickness  |     |
+| Plastic, soft | 0        | 3/inch of thickness  |     |
+| Glass         | 1        | 1/inch of thickness  |     |
+| Ceramic       | 1        | 2/inch of thickness  |     |
+| Ice           | 0        | 3/inch of thickness  |     |
+| Plastic, hard | 2        | 5/inch of thickness  |     |
+| Wood          | 5        | 10/inch of thickness |     |
+| Aluminum      | 6        | 10/inch of thickness |     |
+| Concrete      | 8        | 15/inch of thickness |     |
+| Steel         | 10       | 30/inch of thickness |     |
 
 **Table: Object Hardness and Hit Points**
 
-| Object | Hardness | Hit Points | Break DC |
-|---|---|---|---|
-| **Lock** | | | |
-| Cheap | 0 | 1 | 10 |
-| Average | 3 | 5 | 15 |
-| High quality | 5 | 10 | 20 |
-| High security | 10 | 120 | 35 |
-| Ultrahigh security | 20 | 150 | 40 |
-| **Manufactured objects¹** | | | |
-| Fine | 0 | 1 | 10 |
-| Diminutive | 0 | 1 | 10 |
-| Tiny | 1 | 2 | 10 |
-| Small | 3 | 3 | 12 |
-| Medium-size | 5 | 5 | 15 |
-| Large | 5 | 10 | 15 |
-| Huge | 8 | 10 | 20 |
-| Gargantuan | 8 | 20 | 30 |
-| Colossal | 10 | 30 | 50 |
-| Firearm, Medium-size | 5 | 7 | 17 |
-| Rope | 0 | 2 | 23 |
-| Simple wooden door | 5 | 10 | 13 |
-| Strong wooden door | 5 | 20 | 23 |
-| Steel door | 10 | 120 | 35 |
-| Cinderblock wall | 8 | 90 | 35 |
-| Chain | 10 | 5 | 26 |
-| Handcuffs | 10 | 10 | 30 |
-| Metal bars | 10 | 15 | 30 |
+| Object                    | Hardness | Hit Points | Break DC |
+| ------------------------- | -------- | ---------- | -------- |
+| **Lock**                  |          |            |          |
+| Cheap                     | 0        | 1          | 10       |
+| Average                   | 3        | 5          | 15       |
+| High quality              | 5        | 10         | 20       |
+| High security             | 10       | 120        | 35       |
+| Ultrahigh security        | 20       | 150        | 40       |
+| **Manufactured objects¹** |          |            |          |
+| Fine                      | 0        | 1          | 10       |
+| Diminutive                | 0        | 1          | 10       |
+| Tiny                      | 1        | 2          | 10       |
+| Small                     | 3        | 3          | 12       |
+| Medium-size               | 5        | 5          | 15       |
+| Large                     | 5        | 10         | 15       |
+| Huge                      | 8        | 10         | 20       |
+| Gargantuan                | 8        | 20         | 30       |
+| Colossal                  | 10       | 30         | 50       |
+| Firearm, Medium-size      | 5        | 7          | 17       |
+| Rope                      | 0        | 2          | 23       |
+| Simple wooden door        | 5        | 10         | 13       |
+| Strong wooden door        | 5        | 20         | 23       |
+| Steel door                | 10       | 120        | 35       |
+| Cinderblock wall          | 8        | 90         | 35       |
+| Chain                     | 10       | 5          | 26       |
+| Handcuffs                 | 10       | 10         | 30       |
+| Metal bars                | 10       | 15         | 30       |
 
 ¹ Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
 

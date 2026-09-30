@@ -1,15 +1,15 @@
 # Claws of the Bear
 
-| Stat | Value |
-|---|---|
-| Key Ability | Strength |
-| Level | Battle Mind 2 |
-| Display | Visual, Material |
-| Manifestation Time | Attack action |
-| Range | Personal |
-| Target | You |
-| Duration | 1 hour/level |
-| Power Point Cost | 3 |
+| Stat               | Value            |
+| ------------------ | ---------------- |
+| Key Ability        | Strength         |
+| Level              | Battle Mind 2    |
+| Display            | Visual, Material |
+| Manifestation Time | Attack action    |
+| Range              | Personal         |
+| Target             | You              |
+| Duration           | 1 hour/level     |
+| Power Point Cost   | 3                |
 
 This power grants the manifester a claw attack (which does not provoke
 attacks of opportunity) that deals 1d12 points of slashing damage (plus

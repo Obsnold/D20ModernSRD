@@ -1,17 +1,17 @@
 # Fly
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dexterity |
-| Level | Psionic Agent 3 |
-| Display | Visual |
-| Manifestation Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 10 minutes/level |
-| Saving Throw | None |
-| Power Resistance | Yes (harmless) |
-| Power Point Cost | 5 |
+| Stat               | Value            |
+| ------------------ | ---------------- |
+| Key Ability        | Dexterity        |
+| Level              | Psionic Agent 3  |
+| Display            | Visual           |
+| Manifestation Time | Attack action    |
+| Range              | Touch            |
+| Target             | Creature touched |
+| Duration           | 10 minutes/level |
+| Saving Throw       | None             |
+| Power Resistance   | Yes (harmless)   |
+| Power Point Cost   | 5                |
 
 The power’s subject can fly at a speed of 90 feet (60 feet if the
 creature wears medium or heavy armor). The subject can fly up at half

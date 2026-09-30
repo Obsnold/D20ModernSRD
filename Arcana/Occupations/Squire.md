@@ -3,11 +3,11 @@
 Squires serve as assistants to warriors in hopes of learning the skills
 they will need to be warriors themselves one day.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Strength 13 or Dexterity 13 |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value                       |
+| ------------------------- | --------------------------- |
+| Prerequisite              | Strength 13 or Dexterity 13 |
+| Reputation Bonus Increase | —                           |
+| Wealth Bonus Increase     | +1                          |
 
 ## Skills
 

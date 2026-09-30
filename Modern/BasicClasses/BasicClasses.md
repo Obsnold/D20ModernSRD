@@ -107,11 +107,12 @@ his or her mental ability scores increase, as detailed on Table: Aging
 Effects. The effects of each aging step are cumulative.
 
 **Table: Aging Effects**
-| Age Category | Ability Adjustments |
-|---|---|
-| Child (1–11) | –3 to Str and Con; –1 to Dex, Int, Wis, and Cha |
-| Young adult (12–15) | Original scores |
-| Adult (16–39) | Original scores |
-| Middle age (40–59) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
-| Old (60–79) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
-| Venerable (80+) | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+
+| Age Category        | Ability Adjustments                              |
+| ------------------- | ------------------------------------------------ |
+| Child (1–11)        | –3 to Str and Con; –1 to Dex, Int, Wis, and Cha  |
+| Young adult (12–15) | Original scores                                  |
+| Adult (16–39)       | Original scores                                  |
+| Middle age (40–59)  | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+| Old (60–79)         | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |
+| Venerable (80+)     | –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha |

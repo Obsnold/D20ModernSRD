@@ -1,17 +1,17 @@
 # Crawling Carpet
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Level | Divine 4 |
-| Components | V, S, DF |
-| Casting Time | Fullround action |
-| Range | Long (400 ft. + 40 ft./level) |
-| Effect | Carpet of monstrous spiders, scarab beetles, or centipedes filling a 10-ft.-radius spread |
-| Duration | 1 minute/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------- |
+| School           | Conjuration                                                                               |
+| Subschool        | Summoning                                                                                 |
+| Level            | Divine 4                                                                                  |
+| Components       | V, S, DF                                                                                  |
+| Casting Time     | Fullround action                                                                          |
+| Range            | Long (400 ft. + 40 ft./level)                                                             |
+| Effect           | Carpet of monstrous spiders, scarab beetles, or centipedes filling a 10-ft.-radius spread |
+| Duration         | 1 minute/level                                                                            |
+| Saving Throw     | None                                                                                      |
+| Spell Resistance | No                                                                                        |
 
 You summon a number of monstrous insect swarms, each of which attacks
 any creature occupying its square. Each square of the spell’s effect

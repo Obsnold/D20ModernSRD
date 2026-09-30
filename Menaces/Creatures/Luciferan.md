@@ -19,39 +19,39 @@ Intimidate checks.
 
 ## Luciferan
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 2d8+2 |
-| hp | 11 |
-| Mas | 14 |
-| Init | +1 |
-| Spd | 30 ft., fly 40 ft. (average) |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +4 natural |
-| BAB | +2 |
-| Grap | +2 |
-| Atk | +2 melee (1d4, claw) |
-| Full Atk | +2 melee (1d4, 2 claws) or +3 ranged (2d6, Colt Python) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | body glow, darkvision 60 ft., immolation |
-| AL | any |
-| Fort | +5 |
-| Ref | +4 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 13 |
-| Con | 14 |
-| Int | 12 |
-| Wis | 12 |
-| Cha | 14 |
+| Stat              | Value                                                   |
+| ----------------- | ------------------------------------------------------- |
+| CR                | 2                                                       |
+| Size              | Medium-size                                             |
+| Type              | outsider                                                |
+| HD                | 2d8+2                                                   |
+| hp                | 11                                                      |
+| Mas               | 14                                                      |
+| Init              | +1                                                      |
+| Spd               | 30 ft., fly 40 ft. (average)                            |
+| Defense           | 15                                                      |
+| Touch             | 11                                                      |
+| Flat-Footed       | 14                                                      |
+| Defense Breakdown | +1 Dex, +4 natural                                      |
+| BAB               | +2                                                      |
+| Grap              | +2                                                      |
+| Atk               | +2 melee (1d4, claw)                                    |
+| Full Atk          | +2 melee (1d4, 2 claws) or +3 ranged (2d6, Colt Python) |
+| FS                | 5 ft. by 5 ft.                                          |
+| Reach             | 5 ft.                                                   |
+| SQ                | body glow, darkvision 60 ft., immolation                |
+| AL                | any                                                     |
+| Fort              | +5                                                      |
+| Ref               | +4                                                      |
+| Will              | +4                                                      |
+| AP                | 0                                                       |
+| Rep               | +0                                                      |
+| Str               | 10                                                      |
+| Dex               | 13                                                      |
+| Con               | 14                                                      |
+| Int               | 12                                                      |
+| Wis               | 12                                                      |
+| Cha               | 14                                                      |
 
 **Skills:** Bluff +4, Intimidate +4, Knowledge (arcane lore) +6,
 Read/Write Aramaic, Speak Aramaic, Speak English.
@@ -64,39 +64,39 @@ Read/Write Aramaic, Speak Aramaic, Speak English.
 
 ## Luciferan Class Smart Hero 3/Mage 3
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 2d8+2 plus 3d6+6 plus 3d6+6 |
-| hp | 44 |
-| Mas | 14 |
-| Init | +1 |
-| Spd | 30 ft., fly 40 ft. (average) |
-| Defense | 18 |
-| Touch | 14 |
-| Flat-Footed | 17 |
-| Defense Breakdown | +1 Dex, +3 class, +4 natural |
-| BAB | +4 |
-| Grap | +4 |
-| Atk | +4 melee (1d4, claw) |
-| Full Atk | +4 melee (1d4, 2 claws), or +5 ranged (2d6, Colt Python revolver) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | body glow, brew potion, darkvision 60 ft., immolation, scribe scroll, summon familiar |
-| AL | any |
-| Fort | +7 |
-| Ref | +6 |
-| Will | +9 |
-| AP | 3 |
-| Rep | +3 |
-| Str | 10 |
-| Dex | 13 |
-| Con | 14 |
-| Int | 13 |
-| Wis | 12 |
-| Cha | 15 |
+| Stat              | Value                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------- |
+| CR                | 8                                                                                     |
+| Size              | Medium-size                                                                           |
+| Type              | outsider                                                                              |
+| HD                | 2d8+2 plus 3d6+6 plus 3d6+6                                                           |
+| hp                | 44                                                                                    |
+| Mas               | 14                                                                                    |
+| Init              | +1                                                                                    |
+| Spd               | 30 ft., fly 40 ft. (average)                                                          |
+| Defense           | 18                                                                                    |
+| Touch             | 14                                                                                    |
+| Flat-Footed       | 17                                                                                    |
+| Defense Breakdown | +1 Dex, +3 class, +4 natural                                                          |
+| BAB               | +4                                                                                    |
+| Grap              | +4                                                                                    |
+| Atk               | +4 melee (1d4, claw)                                                                  |
+| Full Atk          | +4 melee (1d4, 2 claws), or +5 ranged (2d6, Colt Python revolver)                     |
+| FS                | 5 ft. by 5 ft.                                                                        |
+| Reach             | 5 ft.                                                                                 |
+| SQ                | body glow, brew potion, darkvision 60 ft., immolation, scribe scroll, summon familiar |
+| AL                | any                                                                                   |
+| Fort              | +7                                                                                    |
+| Ref               | +6                                                                                    |
+| Will              | +9                                                                                    |
+| AP                | 3                                                                                     |
+| Rep               | +3                                                                                    |
+| Str               | 10                                                                                    |
+| Dex               | 13                                                                                    |
+| Con               | 14                                                                                    |
+| Int               | 13                                                                                    |
+| Wis               | 12                                                                                    |
+| Cha               | 15                                                                                    |
 
 **Occupation:** Dilettante (bonus class skill: Intimidate).
 

@@ -13,39 +13,39 @@ against prone combatants.
 
 ## Crawling Claw
 
-| Stat | Value |
-|---|---|
-| CR | 1/3 |
-| Size | Diminutive |
-| Type | construct |
-| HD | 1d10 |
-| hp | 5 |
-| Mas | — |
-| Init | +0 |
-| Spd | 20 ft. |
-| Defense | 15 |
-| Touch | 14 |
-| Flat-Footed | 15 |
-| Defense Breakdown | +4 size, +1 natural |
-| BAB | +0 |
-| Grap | –12 |
-| Atk | +4 melee (1, claw) |
-| Full Atk | +4 melee (1, claw) |
-| FS | 1 ft. by 1 ft. |
-| Reach | 0 ft. |
-| SQ | construct, gaze immunity, smite fallen, spell resistance 10 |
-| AL | any |
-| Fort | +0 |
-| Ref | +0 |
-| Will | –3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 10 |
-| Con | — |
-| Int | — |
-| Wis | 5 |
-| Cha | 5 |
+| Stat              | Value                                                       |
+| ----------------- | ----------------------------------------------------------- |
+| CR                | 1/3                                                         |
+| Size              | Diminutive                                                  |
+| Type              | construct                                                   |
+| HD                | 1d10                                                        |
+| hp                | 5                                                           |
+| Mas               | —                                                           |
+| Init              | +0                                                          |
+| Spd               | 20 ft.                                                      |
+| Defense           | 15                                                          |
+| Touch             | 14                                                          |
+| Flat-Footed       | 15                                                          |
+| Defense Breakdown | +4 size, +1 natural                                         |
+| BAB               | +0                                                          |
+| Grap              | –12                                                         |
+| Atk               | +4 melee (1, claw)                                          |
+| Full Atk          | +4 melee (1, claw)                                          |
+| FS                | 1 ft. by 1 ft.                                              |
+| Reach             | 0 ft.                                                       |
+| SQ                | construct, gaze immunity, smite fallen, spell resistance 10 |
+| AL                | any                                                         |
+| Fort              | +0                                                          |
+| Ref               | +0                                                          |
+| Will              | –3                                                          |
+| AP                | 0                                                           |
+| Rep               | +0                                                          |
+| Str               | 10                                                          |
+| Dex               | 10                                                          |
+| Con               | —                                                           |
+| Int               | —                                                           |
+| Wis               | 5                                                           |
+| Cha               | 5                                                           |
 
 **Skills:** None.
 
@@ -55,18 +55,18 @@ against prone combatants.
 
 ## Create Crawling Claw
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Descriptors | Evil |
-| Level | Mage 3 |
-| Components | V, S, M |
-| Casting Time | 1 hour |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Targets | Severed human left hands within a 5-foot-radius circle |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                                                  |
+| ---------------- | ------------------------------------------------------ |
+| School           | Transmutation                                          |
+| Descriptors      | Evil                                                   |
+| Level            | Mage 3                                                 |
+| Components       | V, S, M                                                |
+| Casting Time     | 1 hour                                                 |
+| Range            | Close (25 ft. + 5 ft./2 levels)                        |
+| Targets          | Severed human left hands within a 5-foot-radius circle |
+| Duration         | Instantaneous                                          |
+| Saving Throw     | None                                                   |
+| Spell Resistance | Yes (harmless)                                         |
 
 You create a number of crawling claws up to twice your caster level. The
 hands to be transformed must all be within a 5-foot-radius circle. Once

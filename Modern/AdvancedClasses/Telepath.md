@@ -53,18 +53,18 @@ The Telepath’s class skills are as follows.
 
 **Table: The Telepath**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |
-| 2nd | +1 | +0 | +0 | +3 | Trigger power, psionic powers | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat, psionic powers | +1 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Power crystal, psionic powers | +1 | +2 |
-| 5th | +2 | +1 | +1 | +4 | Trigger power, psionic powers | +2 | +2 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat, psionic powers | +2 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Combat manifestation, psionic powers | +2 | +3 |
-| 8th | +4 | +2 | +2 | +6 | Trigger power, psionic powers | +3 | +3 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat, psionic powers | +3 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Maximize power, psionic powers | +3 | +4 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------------------ | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +2        | Psionic skills, psionic powers       | +0            | +1               |
+| 2nd         | +1                | +0        | +0       | +3        | Trigger power, psionic powers        | +1            | +1               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat, psionic powers           | +1            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Power crystal, psionic powers        | +1            | +2               |
+| 5th         | +2                | +1        | +1       | +4        | Trigger power, psionic powers        | +2            | +2               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat, psionic powers           | +2            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Combat manifestation, psionic powers | +2            | +3               |
+| 8th         | +4                | +2        | +2       | +6        | Trigger power, psionic powers        | +3            | +3               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat, psionic powers           | +3            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Maximize power, psionic powers       | +3            | +4               |
 
 ## Class Features
 
@@ -83,12 +83,12 @@ threats while also gaining a few select benefits.
 
 **Check:** The DC and effect depend on the task you attempt.
 
-| Task | DC |
-|---|---|
-| Resist fear | 15 |
-| Memorize | 15 |
+| Task            | DC          |
+| --------------- | ----------- |
+| Resist fear     | 15          |
+| Memorize        | 15          |
 | Tolerate poison | Poison’s DC |
-| Willpower | 20 |
+| Willpower       | 20          |
 
 **Resist Fear:** In response to a fear effect, you can make an
 Autohypnosis check on your next action even if you’ve been overcome by
@@ -157,12 +157,12 @@ or psionic effects already in place.
 
 **Check:** You can identify psionic powers and effects.
 
-| DC | Task |
-|---|---|
+| DC               | Task                                                                                                                                                |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 15 + power level | Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. |
-| 20 + power level | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again. |
-| 20 + power level | Identify materials created or shaped by psionics. You can’t try again. |
-| 30 or higher | Understand a strange or unique psionic effect. You can’t try again. |
+| 20 + power level | Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again.          |
+| 20 + power level | Identify materials created or shaped by psionics. You can’t try again.                                                                              |
+| 30 or higher     | Understand a strange or unique psionic effect. You can’t try again.                                                                                 |
 
 **Try Again?:** See above.
 
@@ -193,18 +193,19 @@ The DC for saving throws to resist a psionic power is 10 + the power’s
 level + the Telepath’s key ability modifier.
 
 Powers Discovered by Level:
-| Telepath Level | Pts/Day | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|---|
-| 1st | 2 | 3 | 1 | — | — | — | — |
-| 2nd | 3 | 3 | 2 | — | — | — | — |
-| 3rd | 4 | 3 | 3 | — | — | — | — |
-| 4th | 7 | 4 | 3 | 1 | — | — | — |
-| 5th | 10 | 4 | 3 | 2 | — | — | — |
-| 6th | 15 | 4 | 3 | 2 | 1 | — | — |
-| 7th | 20 | 5 | 4 | 3 | 2 | — | — |
-| 8th | 27 | 5 | 4 | 3 | 2 | 1 | — |
-| 9th | 34 | 5 | 4 | 3 | 3 | 2 | — |
-| 10th | 43 | 6 | 4 | 3 | 3 | 2 | 1 |
+
+| Telepath Level | Pts/Day | 0   | 1   | 2   | 3   | 4   | 5   |
+| -------------- | ------- | --- | --- | --- | --- | --- | --- |
+| 1st            | 2       | 3   | 1   | —   | —   | —   | —   |
+| 2nd            | 3       | 3   | 2   | —   | —   | —   | —   |
+| 3rd            | 4       | 3   | 3   | —   | —   | —   | —   |
+| 4th            | 7       | 4   | 3   | 1   | —   | —   | —   |
+| 5th            | 10      | 4   | 3   | 2   | —   | —   | —   |
+| 6th            | 15      | 4   | 3   | 2   | 1   | —   | —   |
+| 7th            | 20      | 5   | 4   | 3   | 2   | —   | —   |
+| 8th            | 27      | 5   | 4   | 3   | 2   | 1   | —   |
+| 9th            | 34      | 5   | 4   | 3   | 3   | 2   | —   |
+| 10th           | 43      | 6   | 4   | 3   | 3   | 2   | 1   |
 
 A Telepath can manifest a certain number of powers per day based on his
 available power points. (0-level powers have a special cost; see FX
@@ -215,13 +216,13 @@ determined by the Telepath’s Charisma score, as shown on the table
 below.
 
 | Cha Score | Bonus Power Points per Day |
-|---|---|
-| 12–13 | 1 |
-| 14–15 | 3 |
-| 16–17 | 5 |
-| 18–19 | 7 |
-| 20–21 | 9 |
-| 22–23 | 11 |
+| --------- | -------------------------- |
+| 12–13     | 1                          |
+| 14–15     | 3                          |
+| 16–17     | 5                          |
+| 18–19     | 7                          |
+| 20–21     | 9                          |
+| 22–23     | 11                         |
 
 ### Trigger Power
 

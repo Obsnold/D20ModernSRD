@@ -130,9 +130,9 @@ Table: Jump Drive Recharge Time.
 **Table: Jump Drive Recharge Time**
 
 | Starship Size | Jump Drive Recharge Time |
-|---|---|
-| Huge | 8 hours |
-| Gargantuan | 2 hours |
-| Colossal | 1 hour |
+| ------------- | ------------------------ |
+| Huge          | 8 hours                  |
+| Gargantuan    | 2 hours                  |
+| Colossal      | 1 hour                   |
 
 **Purchase DC:** 25 + one-half the base purchase DC of the starship.

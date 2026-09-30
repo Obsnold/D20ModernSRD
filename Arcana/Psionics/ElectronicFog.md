@@ -1,17 +1,17 @@
 # Electronic Fog
 
-| Stat | Value |
-|---|---|
-| Key Ability | Constitution |
-| Level | Telepath 2 |
-| Display | None |
-| Manifestation Time | Attack action |
-| Range | Personal |
-| Area | 5-ft.-radius/level |
-| Duration | 1 minute/level |
-| Saving Throw | None |
-| Power Resistance | No |
-| Power Point Cost | 3 |
+| Stat               | Value              |
+| ------------------ | ------------------ |
+| Key Ability        | Constitution       |
+| Level              | Telepath 2         |
+| Display            | None               |
+| Manifestation Time | Attack action      |
+| Range              | Personal           |
+| Area               | 5-ft.-radius/level |
+| Duration           | 1 minute/level     |
+| Saving Throw       | None               |
+| Power Resistance   | No                 |
+| Power Point Cost   | 3                  |
 
 An intensified version of *white noise*, this bubble of low-level
 electromagnetic radiation is still below the detection level of most

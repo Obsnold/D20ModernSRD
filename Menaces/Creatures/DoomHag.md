@@ -33,39 +33,39 @@ bonus on Hide checks at night or in darkness.
 
 ## Doom Hag
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size | Medium-size |
-| Type | undead |
-| HD | 6d12 |
-| hp | 39 |
-| Mas | — |
-| Init | +0 |
-| Spd | fly 30 ft. (perfect) |
-| Defense | 18 |
-| Touch | 10 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +8 natural |
-| BAB | +3 |
-| Grap | +7 |
-| Atk | +8 melee (1d4+4, claw) |
-| Full Atk | +8 melee (1d4+4, 2 claws) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | *confusion* (DC 17), darkvision 60 ft., mimicry, natural invisibility, rend 1d4+6, undead |
-| AL | chaos, evil |
-| Fort | +2 |
-| Ref | +2 |
-| Will | +8 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 18 |
-| Dex | 10 |
-| Con | — |
-| Int | 15 |
-| Wis | 17 |
-| Cha | 16 |
+| Stat              | Value                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                         |
+| Size              | Medium-size                                                                               |
+| Type              | undead                                                                                    |
+| HD                | 6d12                                                                                      |
+| hp                | 39                                                                                        |
+| Mas               | —                                                                                         |
+| Init              | +0                                                                                        |
+| Spd               | fly 30 ft. (perfect)                                                                      |
+| Defense           | 18                                                                                        |
+| Touch             | 10                                                                                        |
+| Flat-Footed       | 18                                                                                        |
+| Defense Breakdown | +8 natural                                                                                |
+| BAB               | +3                                                                                        |
+| Grap              | +7                                                                                        |
+| Atk               | +8 melee (1d4+4, claw)                                                                    |
+| Full Atk          | +8 melee (1d4+4, 2 claws)                                                                 |
+| FS                | 5 ft. by 5 ft.                                                                            |
+| Reach             | 5 ft.                                                                                     |
+| SQ                | *confusion* (DC 17), darkvision 60 ft., mimicry, natural invisibility, rend 1d4+6, undead |
+| AL                | chaos, evil                                                                               |
+| Fort              | +2                                                                                        |
+| Ref               | +2                                                                                        |
+| Will              | +8                                                                                        |
+| AP                | 0                                                                                         |
+| Rep               | +0                                                                                        |
+| Str               | 18                                                                                        |
+| Dex               | 10                                                                                        |
+| Con               | —                                                                                         |
+| Int               | 15                                                                                        |
+| Wis               | 17                                                                                        |
+| Cha               | 16                                                                                        |
 
 **Skills:** Bluff +11, Concentration +8, Hide +8 (+12 at night or in
 darkness), Intimidate +8, Knowledge (arcane lore) +10, Listen +10, Move

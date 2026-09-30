@@ -1,17 +1,17 @@
 # Phantom Chopper
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Level | Arcane 3 |
-| Components | V, S |
-| Casting Time | 10 minutes |
-| Range | 0 ft. |
-| Effect | One quasi-real motorcycle |
-| Duration | 1 hour/level (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                     |
+| ---------------- | ------------------------- |
+| School           | Conjuration               |
+| Subschool        | Creation                  |
+| Level            | Arcane 3                  |
+| Components       | V, S                      |
+| Casting Time     | 10 minutes                |
+| Range            | 0 ft.                     |
+| Effect           | One quasi-real motorcycle |
+| Duration         | 1 hour/level (D)          |
+| Saving Throw     | None                      |
+| Spell Resistance | No                        |
 
 You conjure a quasi-real motorcycle. The motorcycle can be ridden only
 by you or the one person for whom you specifically create the cycle. A

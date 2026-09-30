@@ -21,38 +21,38 @@ Balance checks.
 
 ## Donkey
 
-| Stat | Value |
-|---|---|
-| CR | 1/6 |
-| Size/Type | Medium animal |
-| HD | 2d8+2 |
-| hp | 11 |
-| Mas | 12 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 13 |
-| Touch | 11 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +1 Dex, +2 natural |
-| BAB | +1 |
-| Grap | +1 |
-| Atk | +1 melee (1d3, bite) |
-| Full Atk | +1 melee (1d3, bite) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | low-light vision, scent |
-| AL | none or owner |
-| Fort | +4 |
-| Ref | +4 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 13 |
-| Con | 12 |
-| Int | 1 |
-| Wis | 11 |
-| Cha | 4 |
+| Stat              | Value                   |
+| ----------------- | ----------------------- |
+| CR                | 1/6                     |
+| Size/Type         | Medium animal           |
+| HD                | 2d8+2                   |
+| hp                | 11                      |
+| Mas               | 12                      |
+| Init              | +0                      |
+| Spd               | 30 ft.                  |
+| Defense           | 13                      |
+| Touch             | 11                      |
+| Flat-Footed       | 12                      |
+| Defense Breakdown | +1 Dex, +2 natural      |
+| BAB               | +1                      |
+| Grap              | +1                      |
+| Atk               | +1 melee (1d3, bite)    |
+| Full Atk          | +1 melee (1d3, bite)    |
+| FS                | 5 ft. by 5 ft.          |
+| Reach             | 5 ft.                   |
+| SQ                | low-light vision, scent |
+| AL                | none or owner           |
+| Fort              | +4                      |
+| Ref               | +4                      |
+| Will              | +0                      |
+| AP                | 0                       |
+| Rep               | +0                      |
+| Str               | 10                      |
+| Dex               | 13                      |
+| Con               | 12                      |
+| Int               | 1                       |
+| Wis               | 11                      |
+| Cha               | 4                       |
 
 **Skills**: Balance +3, Listen +5, Spot +5.
 

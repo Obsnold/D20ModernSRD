@@ -1,16 +1,16 @@
 # Spell Immunity
 
-| Stat | Value |
-|---|---|
-| School | Abjuration |
-| Level | Divine 4 |
-| Components | V, S, DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 10 minutes/level |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| School           | Abjuration              |
+| Level            | Divine 4                |
+| Components       | V, S, DF                |
+| Casting Time     | Attack action           |
+| Range            | Touch                   |
+| Target           | Creature touched        |
+| Duration         | 10 minutes/level        |
+| Saving Throw     | Will negates (harmless) |
+| Spell Resistance | Yes (harmless)          |
 
 The warded creature is immune to the effects of one specified spell for
 every four levels you have. The spells must be of 4th level or lower.

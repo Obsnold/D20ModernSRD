@@ -24,38 +24,38 @@ exotic weapons.
 
 ## Orc
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size/Type | Medium humanoid |
-| HD | 1d8 |
-| hp | 4 |
-| Mas | 11 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 14 |
-| Touch | 10 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +4 scale mail |
-| BAB | +0 |
-| Grap | +2 |
-| Atk | +2 melee (1d3+2 nonlethal, unarmed strike) or +2 melee (1d12+3/x3, greataxe) |
-| Full Atk | +2 melee (1d3+2 nonlethal, unarmed strike) or +2 melee (1d12+3/x3, greataxe) or +0 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 60 ft., light sensitivity |
-| AL | varies |
-| Fort | +2 |
-| Ref | +0 |
-| Will | –1 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 10 |
-| Con | 11 |
-| Int | 9 |
-| Wis | 8 |
-| Cha | 8 |
+| Stat              | Value                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| CR                | 1/2                                                                                       |
+| Size/Type         | Medium humanoid                                                                           |
+| HD                | 1d8                                                                                       |
+| hp                | 4                                                                                         |
+| Mas               | 11                                                                                        |
+| Init              | +0                                                                                        |
+| Spd               | 30 ft.                                                                                    |
+| Defense           | 14                                                                                        |
+| Touch             | 10                                                                                        |
+| Flat-Footed       | 14                                                                                        |
+| Defense Breakdown | +4 scale mail                                                                             |
+| BAB               | +0                                                                                        |
+| Grap              | +2                                                                                        |
+| Atk               | +2 melee (1d3+2 nonlethal, unarmed strike) or +2 melee (1d12+3/x3, greataxe)              |
+| Full Atk          | +2 melee (1d3+2 nonlethal, unarmed strike) or +2 melee (1d12+3/x3, greataxe) or +0 ranged |
+| FS                | 5 ft. by 5 ft.                                                                            |
+| Reach             | 5 ft.                                                                                     |
+| SQ                | darkvision 60 ft., light sensitivity                                                      |
+| AL                | varies                                                                                    |
+| Fort              | +2                                                                                        |
+| Ref               | +0                                                                                        |
+| Will              | –1                                                                                        |
+| AP                | 0                                                                                         |
+| Rep               | +0                                                                                        |
+| Str               | 15                                                                                        |
+| Dex               | 10                                                                                        |
+| Con               | 11                                                                                        |
+| Int               | 9                                                                                         |
+| Wis               | 8                                                                                         |
+| Cha               | 8                                                                                         |
 
 **Skills:** Listen +2, Read/Write Orc, Speak Orc, Spot
 +1.
@@ -71,38 +71,38 @@ fatigues, sunglasses (negates light sensitivity).
 
 ## Orc Strong Hero 2/Tough Hero 1
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size/Type | Medium humanoid |
-| HD | 2d8+4 plus 1d10+2 |
-| hp | 24 |
-| Mas | 15 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 18 |
-| Touch | 13 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +3 class, +5 breastplate |
-| BAB | +2 |
-| Grap | +6 |
-| Atk | +7 melee (1d6+5 nonlethal, unarmed strike) or +7 melee (1d12+7/x3, greataxe) |
-| Full Atk | +7 melee (1d6+5 nonlethal, unarmed strike) or +7 melee (1d12+7/x3, greataxe) or +2 ranged (1d8+4, compound bow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 60 ft., light sensitivity |
-| AL | varies |
-| Fort | +5 |
-| Ref | +0 |
-| Will | +0 |
-| AP | 1 |
-| Rep | +2 |
-| Str | 18 |
-| Dex | 10 |
-| Con | 15 |
-| Int | 11 |
-| Wis | 10 |
-| Cha | 6 |
+| Stat              | Value                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                                               |
+| Size/Type         | Medium humanoid                                                                                                 |
+| HD                | 2d8+4 plus 1d10+2                                                                                               |
+| hp                | 24                                                                                                              |
+| Mas               | 15                                                                                                              |
+| Init              | +0                                                                                                              |
+| Spd               | 30 ft.                                                                                                          |
+| Defense           | 18                                                                                                              |
+| Touch             | 13                                                                                                              |
+| Flat-Footed       | 18                                                                                                              |
+| Defense Breakdown | +3 class, +5 breastplate                                                                                        |
+| BAB               | +2                                                                                                              |
+| Grap              | +6                                                                                                              |
+| Atk               | +7 melee (1d6+5 nonlethal, unarmed strike) or +7 melee (1d12+7/x3, greataxe)                                    |
+| Full Atk          | +7 melee (1d6+5 nonlethal, unarmed strike) or +7 melee (1d12+7/x3, greataxe) or +2 ranged (1d8+4, compound bow) |
+| FS                | 5 ft. by 5 ft.                                                                                                  |
+| Reach             | 5 ft.                                                                                                           |
+| SQ                | darkvision 60 ft., light sensitivity                                                                            |
+| AL                | varies                                                                                                          |
+| Fort              | +5                                                                                                              |
+| Ref               | +0                                                                                                              |
+| Will              | +0                                                                                                              |
+| AP                | 1                                                                                                               |
+| Rep               | +2                                                                                                              |
+| Str               | 18                                                                                                              |
+| Dex               | 10                                                                                                              |
+| Con               | 15                                                                                                              |
+| Int               | 11                                                                                                              |
+| Wis               | 10                                                                                                              |
+| Cha               | 6                                                                                                               |
 
 **Skills:** Climb +6, Jump +6, Knowledge (streetwise)
 +3, Read/Write Orc, Repair +2, Speak Language (any one), Speak Orc, Spot

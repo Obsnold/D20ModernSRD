@@ -1,16 +1,16 @@
 # Detect Scrying
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Arcane 4 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | 120 ft. |
-| Area | 120-ft.-radius emanation centered on you |
-| Duration | 24 hours |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                    |
+| ---------------- | ---------------------------------------- |
+| School           | Divination                               |
+| Level            | Arcane 4                                 |
+| Components       | V, S, M                                  |
+| Casting Time     | Attack action                            |
+| Range            | 120 ft.                                  |
+| Area             | 120-ft.-radius emanation centered on you |
+| Duration         | 24 hours                                 |
+| Saving Throw     | None                                     |
+| Spell Resistance | No                                       |
 
 You immediately become aware of any attempt to observe you by means of
 scrying (including the *scrying* spell). The spell’s effect radiates

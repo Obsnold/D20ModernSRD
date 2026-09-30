@@ -33,7 +33,7 @@ throws against poisons, spells, and spell-like abilities.
 notice unusual stonework, new construction, unsafe surfaces, ceilings,
 and the like. A dwarf who merely passes within 10 feet of such
 exceptional construction can, as a free action, make a Search check (DC
-15) as though he were actively searching for such.
+15\) as though he were actively searching for such.
 
 Dwarves are naturally skilled mechanics and engineers. They gain a +2
 species bonus on Craft (mechanical), Craft (structural), and Repair

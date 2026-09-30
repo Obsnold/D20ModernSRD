@@ -1,17 +1,17 @@
 # Command
 
-| Stat | Value |
-|---|---|
-| School | Enchantment |
-| Descriptors | Language-Dependent, Mind-Affecting |
-| Level | Acolyte 1 |
-| Components | V |
-| Casting Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Target | One living creature |
-| Duration | 1 round |
-| Saving Throw | Will negates |
-| Spell Resistance | Yes |
+| Stat             | Value                              |
+| ---------------- | ---------------------------------- |
+| School           | Enchantment                        |
+| Descriptors      | Language-Dependent, Mind-Affecting |
+| Level            | Acolyte 1                          |
+| Components       | V                                  |
+| Casting Time     | Attack action                      |
+| Range            | Close (25 ft. + 5 ft./2 levels)    |
+| Target           | One living creature                |
+| Duration         | 1 round                            |
+| Saving Throw     | Will negates                       |
+| Spell Resistance | Yes                                |
 
 The caster gives the subject a single command, which he or she obeys to
 the best of his or her ability at his or her earliest opportunity. The

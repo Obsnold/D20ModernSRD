@@ -1,17 +1,17 @@
 # Neutralize Poison
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Healing |
-| Level | Acolyte 4 |
-| Components | V, S, M/DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature or object of up to 1 cu. ft./level touched |
-| Duration | 10 minutes/level |
-| Saving Throw | Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless, object) |
+| Stat             | Value                                               |
+| ---------------- | --------------------------------------------------- |
+| School           | Conjuration                                         |
+| Subschool        | Healing                                             |
+| Level            | Acolyte 4                                           |
+| Components       | V, S, M/DF                                          |
+| Casting Time     | Attack action                                       |
+| Range            | Touch                                               |
+| Target           | Creature or object of up to 1 cu. ft./level touched |
+| Duration         | 10 minutes/level                                    |
+| Saving Throw     | Will negates (harmless, object)                     |
+| Spell Resistance | Yes (harmless, object)                              |
 
 The caster detoxifies any sort of venom in the creature or object
 touched. A poisoned creature suffers no additional damage or effects

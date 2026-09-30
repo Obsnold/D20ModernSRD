@@ -1,16 +1,16 @@
 # Wall Walk
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Level | Arcane 3, Divine 4 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 10 minutes/ level |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| School           | Transmutation           |
+| Level            | Arcane 3, Divine 4      |
+| Components       | V, S, M                 |
+| Casting Time     | Attack action           |
+| Range            | Touch                   |
+| Target           | Creature touched        |
+| Duration         | 10 minutes/ level       |
+| Saving Throw     | Will negates (harmless) |
+| Spell Resistance | Yes (harmless)          |
 
 An improved version of the *spider climb* spell, *wall walk* allows for
 faster, easier movement. The subject can travel on vertical surfaces or

@@ -28,38 +28,38 @@ Weapons Proficiency.
 
 ## Elf
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size/Type | Medium humanoid (Shadowkind) |
-| HD | 1d8–1 |
-| hp | 3 |
-| Mas | 8 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 11 |
-| Touch | 11 |
-| Flat-Footed | 10 |
-| Defense Breakdown | +1 Dex |
-| BAB | +0 |
-| Grap | +0 |
-| Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/18–20, sword cane) |
-| Full Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/18–20, sword cane) or +1 ranged (1d8, compound bow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | low-light vision, spell immunities |
-| AL | varies |
-| Fort | –1 |
-| Ref | +3 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 11 |
-| Dex | 13 |
-| Con | 8 |
-| Int | 11 |
-| Wis | 10 |
-| Cha | 10 |
+| Stat              | Value                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| CR                | 1/2                                                                                                           |
+| Size/Type         | Medium humanoid (Shadowkind)                                                                                  |
+| HD                | 1d8–1                                                                                                         |
+| hp                | 3                                                                                                             |
+| Mas               | 8                                                                                                             |
+| Init              | +1                                                                                                            |
+| Spd               | 30 ft.                                                                                                        |
+| Defense           | 11                                                                                                            |
+| Touch             | 11                                                                                                            |
+| Flat-Footed       | 10                                                                                                            |
+| Defense Breakdown | +1 Dex                                                                                                        |
+| BAB               | +0                                                                                                            |
+| Grap              | +0                                                                                                            |
+| Atk               | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/18–20, sword cane)                                  |
+| Full Atk          | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/18–20, sword cane) or +1 ranged (1d8, compound bow) |
+| FS                | 5 ft. by 5 ft.                                                                                                |
+| Reach             | 5 ft.                                                                                                         |
+| SQ                | low-light vision, spell immunities                                                                            |
+| AL                | varies                                                                                                        |
+| Fort              | –1                                                                                                            |
+| Ref               | +3                                                                                                            |
+| Will              | +0                                                                                                            |
+| AP                | 0                                                                                                             |
+| Rep               | +0                                                                                                            |
+| Str               | 11                                                                                                            |
+| Dex               | 13                                                                                                            |
+| Con               | 8                                                                                                             |
+| Int               | 11                                                                                                            |
+| Wis               | 10                                                                                                            |
+| Cha               | 10                                                                                                            |
 
 **Skills:** Hide +3, Listen +2, Move Silently +3,
 Read/Write Elven, Search +2, Speak Elven, Spot +2, Survival +2.
@@ -74,38 +74,38 @@ clothes (in urban areas) or fatigues (in rural areas).
 
 ## Elf Charismatic Hero 4/Arcane Arranger 1
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size/Type | Medium humanoid (Shadowkind) |
-| HD | 4d6 plus 1d6 |
-| hp | 19 |
-| Mas | 10 |
-| Init | +2 |
-| Spd | 30 ft. |
-| Defense | 14 |
-| Touch | 14 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +3 Dex, +1 class |
-| BAB | +2 |
-| Grap | +1 |
-| Atk | +1 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (2d6, SITES M9) |
-| Full Atk | +1 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (2d6, SITES M9) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | low-light vision, spell immunities, word on the street |
-| AL | varies |
-| Fort | +2 |
-| Ref | +5 |
-| Will | +4 |
-| AP | 2 |
-| Rep | +5 |
-| Str | 8 |
-| Dex | 16 |
-| Con | 10 |
-| Int | 14 |
-| Wis | 10 |
-| Cha | 15 |
+| Stat              | Value                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 5                                                                                                                              |
+| Size/Type         | Medium humanoid (Shadowkind)                                                                                                   |
+| HD                | 4d6 plus 1d6                                                                                                                   |
+| hp                | 19                                                                                                                             |
+| Mas               | 10                                                                                                                             |
+| Init              | +2                                                                                                                             |
+| Spd               | 30 ft.                                                                                                                         |
+| Defense           | 14                                                                                                                             |
+| Touch             | 14                                                                                                                             |
+| Flat-Footed       | 11                                                                                                                             |
+| Defense Breakdown | +3 Dex, +1 class                                                                                                               |
+| BAB               | +2                                                                                                                             |
+| Grap              | +1                                                                                                                             |
+| Atk               | +1 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (2d6, SITES M9) |
+| Full Atk          | +1 melee (1d3–1 nonlethal, unarmed strike) or +1 melee (1d3 electricity plus paralysis, stun gun) or +5 ranged (2d6, SITES M9) |
+| FS                | 5 ft. by 5 ft.                                                                                                                 |
+| Reach             | 5 ft.                                                                                                                          |
+| SQ                | low-light vision, spell immunities, word on the street                                                                         |
+| AL                | varies                                                                                                                         |
+| Fort              | +2                                                                                                                             |
+| Ref               | +5                                                                                                                             |
+| Will              | +4                                                                                                                             |
+| AP                | 2                                                                                                                              |
+| Rep               | +5                                                                                                                             |
+| Str               | 8                                                                                                                              |
+| Dex               | 16                                                                                                                             |
+| Con               | 10                                                                                                                             |
+| Int               | 14                                                                                                                             |
+| Wis               | 10                                                                                                                             |
+| Cha               | 15                                                                                                                             |
 
 **Skills:** Bluff +11, Computer Use +4, Diplomacy +9,
 Disguise +11, Gather Information +9, Intimidate +9, Knowledge (arcane

@@ -61,18 +61,18 @@ The Arcane Arranger’s class skills are:
 
 **Table: The Arcane Arranger**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Word on the street | +0 | +2 |
-| 2nd | +1 | +0 | +0 | +2 | False allegiance | +1 | +2 |
-| 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +2 |
-| 4th | +2 | +1 | +1 | +2 | Shadow resources | +1 | +3 |
-| 5th | +2 | +1 | +1 | +3 | Pack rat | +2 | +3 |
-| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +3 |
-| 7th | +3 | +2 | +2 | +4 | Expert in your field | +2 | +4 |
-| 8th | +4 | +2 | +2 | +4 | Up my sleeve | +3 | +4 |
-| 9th | +4 | +3 | +3 | +4 | Bonus feat | +3 | +4 |
-| 10th | +5 | +3 | +3 | +5 | Up my sleeve | +3 | +5 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | -------------------- | ------------- | ---------------- |
+| 1st   | +0                | +0        | +0       | +1        | Word on the street   | +0            | +2               |
+| 2nd   | +1                | +0        | +0       | +2        | False allegiance     | +1            | +2               |
+| 3rd   | +1                | +1        | +1       | +2        | Bonus feat           | +1            | +2               |
+| 4th   | +2                | +1        | +1       | +2        | Shadow resources     | +1            | +3               |
+| 5th   | +2                | +1        | +1       | +3        | Pack rat             | +2            | +3               |
+| 6th   | +3                | +2        | +2       | +3        | Bonus feat           | +2            | +3               |
+| 7th   | +3                | +2        | +2       | +4        | Expert in your field | +2            | +4               |
+| 8th   | +4                | +2        | +2       | +4        | Up my sleeve         | +3            | +4               |
+| 9th   | +4                | +3        | +3       | +4        | Bonus feat           | +3            | +4               |
+| 10th  | +5                | +3        | +3       | +5        | Up my sleeve         | +3            | +5               |
 
 ## Class Features
 
@@ -133,16 +133,16 @@ a level check, adding all Arcane Arranger levels and any levels of
 Charismatic Hero. The difficulty of this task is based on how common the
 required abilities are:
 
-| Requirement | DC |
-|---|---|
-| **Common Skill** (Ride, Pilot, Treat Injury) | DC 10 |
-| **Uncommon Skill** (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural)) | DC 15 |
-| **Rare Skill** (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device) | DC 20 |
-| **Specific Feat** | DC 20 |
-| **Class Feature** (spellcasting, turn undead, psionics) | DC 20 |
-| **Specific Combination** of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25 |
-| Finding someone willing to perform activities secretly or illegally | DC +5 |
-| Finding someone with a specific level of ability | Add desired ranks to DC |
+| Requirement                                                                                                                            | DC                      |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Common Skill** (Ride, Pilot, Treat Injury)                                                                                           | DC 10                   |
+| **Uncommon Skill** (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                   | DC 15                   |
+| **Rare Skill** (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                        | DC 20                   |
+| **Specific Feat**                                                                                                                      | DC 20                   |
+| **Class Feature** (spellcasting, turn undead, psionics)                                                                                | DC 20                   |
+| **Specific Combination** of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25                   |
+| Finding someone willing to perform activities secretly or illegally                                                                    | DC +5                   |
+| Finding someone with a specific level of ability                                                                                       | Add desired ranks to DC |
 
 A successful check indicates that the individual is available, and the
 Arcane Arranger knows about him. It does not guarantee the character

@@ -8,30 +8,30 @@ The mainstay of many spacefaring navies, the battleship is heavily armed
 and armored, although not very maneuverable. Battleships serve as the
 backbone of any battle fleet.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Battleship |
-| Tactical Speed | 3,000 ft. (6 sq.) |
-| Defense | 11 |
-| Length | 1,250 feet |
-| Flat-footed Defense | 7 |
-| Weight | 125,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +3 |
-| Hardness | 30 |
-| Crew | 400 (expert +8) |
-| Hit Dice | 400d20 (8,000 hp) |
-| Passenger Capacity | 200 |
-| Initiative Modifier | +4 |
-| Cargo Capacity | 30,000 tons |
-| Pilot’s Class Bonus | +5 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +4 |
-| Base Purchase DC | 72 |
-| Gunner’s Attack Bonus | +4 |
-| Restriction | Military (+3) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Battleship         |
+| Tactical Speed         | 3,000 ft. (6 sq.)  |
+| Defense                | 11                 |
+| Length                 | 1,250 feet         |
+| Flat-footed Defense    | 7                  |
+| Weight                 | 125,000 tons       |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +3                 |
+| Hardness               | 30                 |
+| Crew                   | 400 (expert +8)    |
+| Hit Dice               | 400d20 (8,000 hp)  |
+| Passenger Capacity     | 200                |
+| Initiative Modifier    | +4                 |
+| Cargo Capacity         | 30,000 tons        |
+| Pilot’s Class Bonus    | +5                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +4                 |
+| Base Purchase DC       | 72                 |
+| Gunner’s Attack Bonus  | +4                 |
+| Restriction            | Military (+3)      |
 
 **Attack:** Battery of 3 heavy neutron guns +1 ranged (10d8/19–20) and 2
 fire-linked nuclear missiles –6 ranged (24d8/19–20) and needle driver –6
@@ -76,30 +76,30 @@ include the ace pilots who fly these fighter craft. (Pilots count
 against the passenger capacity.) A fleet carrier can deploy up to 4
 ultralight craft as a move action.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Fleet carrier |
-| Tactical Speed | 3,000 ft. (6 sq.) |
-| Defense | 11 |
-| Length | 1,400 feet |
-| Flat-footed Defense | 7 |
-| Weight | 140,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +3 |
-| Hardness | 30 |
-| Crew | 320 (expert +8) |
-| Hit Dice | 500d20 (10,000 hp) |
-| Passenger Capacity | 80 |
-| Initiative Modifier | +6 |
-| Cargo Capacity | 40,000 tons |
-| Pilot’s Class Bonus | +5 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +4 |
-| Base Purchase DC | 72 |
-| Gunner’s Attack Bonus | +4 |
-| Restriction | Military (+3) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Fleet carrier      |
+| Tactical Speed         | 3,000 ft. (6 sq.)  |
+| Defense                | 11                 |
+| Length                 | 1,400 feet         |
+| Flat-footed Defense    | 7                  |
+| Weight                 | 140,000 tons       |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +3                 |
+| Hardness               | 30                 |
+| Crew                   | 320 (expert +8)    |
+| Hit Dice               | 500d20 (10,000 hp) |
+| Passenger Capacity     | 80                 |
+| Initiative Modifier    | +6                 |
+| Cargo Capacity         | 40,000 tons        |
+| Pilot’s Class Bonus    | +5                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +4                 |
+| Base Purchase DC       | 72                 |
+| Gunner’s Attack Bonus  | +4                 |
+| Restriction            | Military (+3)      |
 
 **Attack:** Battery of 5 neutron guns +3 ranged (6d8/19–20) and 2
 batteries of 2 CHE missiles –5 ranged (6d12/18–20)
@@ -133,30 +133,30 @@ The heavy transport is designed to move great amounts of specialized
 cargo such as bulk freight, containerized freight, or roll-on/rolloff
 vehicle storage.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Heavy transport |
-| Tactical Speed | 3,000 ft. (6 sq.) |
-| Defense | 7 |
-| Length | 1,320 feet |
-| Flat-footed Defense | 5 |
-| Weight | 120,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +3 |
-| Hardness | 30 |
-| Crew | 24 (trained +4) |
-| Hit Dice | 350d20 (7,000 hp) |
-| Passenger Capacity | 20 |
-| Initiative Modifier | +2 |
-| Cargo Capacity | 60,000 tons |
-| Pilot’s Class Bonus | +3 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +2 |
-| Base Purchase DC | 68 |
-| Gunner’s Attack Bonus | +2 |
-| Restriction | Restricted (+2) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Heavy transport    |
+| Tactical Speed         | 3,000 ft. (6 sq.)  |
+| Defense                | 7                  |
+| Length                 | 1,320 feet         |
+| Flat-footed Defense    | 5                  |
+| Weight                 | 120,000 tons       |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +3                 |
+| Hardness               | 30                 |
+| Crew                   | 24 (trained +4)    |
+| Hit Dice               | 350d20 (7,000 hp)  |
+| Passenger Capacity     | 20                 |
+| Initiative Modifier    | +2                 |
+| Cargo Capacity         | 60,000 tons        |
+| Pilot’s Class Bonus    | +3                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +2                 |
+| Base Purchase DC       | 68                 |
+| Gunner’s Attack Bonus  | +2                 |
+| Restriction            | Restricted (+2)    |
 
 **Attack:** Battery of 3 heavy lasers –1 ranged (8d8/19–20) and battery
 of 3 gauss guns –6 ranged (8d12/19–20); or Battery of 3 gauss guns –1
@@ -190,30 +190,30 @@ quantities of gases or liquids. It can be adapted for other forms of
 cargo storage, but most ships of this size carry water, hydrogen,
 petrochemicals, or oxygen.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Tanker |
-| Tactical Speed | 3,500 ft. (7 sq.) |
-| Defense | 7 |
-| Length | 1,200 feet |
-| Flat-footed Defense | 5 |
-| Weight | 120,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +3 |
-| Hardness | 30 |
-| Crew | 32 (trained +4) |
-| Hit Dice | 250d20 (5,000 hp) |
-| Passenger Capacity | 8 |
-| Initiative Modifier | +2 |
-| Cargo Capacity | 52,000 tons |
-| Pilot’s Class Bonus | +3 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +2 |
-| Base Purchase DC | 64 |
-| Gunner’s Attack Bonus | +2 |
-| Restriction | Restricted (+2) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Tanker             |
+| Tactical Speed         | 3,500 ft. (7 sq.)  |
+| Defense                | 7                  |
+| Length                 | 1,200 feet         |
+| Flat-footed Defense    | 5                  |
+| Weight                 | 120,000 tons       |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +3                 |
+| Hardness               | 30                 |
+| Crew                   | 32 (trained +4)    |
+| Hit Dice               | 250d20 (5,000 hp)  |
+| Passenger Capacity     | 8                  |
+| Initiative Modifier    | +2                 |
+| Cargo Capacity         | 52,000 tons        |
+| Pilot’s Class Bonus    | +3                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +2                 |
+| Base Purchase DC       | 64                 |
+| Gunner’s Attack Bonus  | +2                 |
+| Restriction            | Restricted (+2)    |
 
 **Attack:** 1 battery of 4 heavy lasers +0 ranged (8d8/19–20)
 
@@ -243,30 +243,30 @@ armor in exchange for speed. Its heavy weapons can make short work of
 any smaller vessel, and it can usually outrun anything big enough to
 stand up to it in a fair fight.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Battle Cruiser |
-| Tactical Speed | 4,000 ft. (8 sq.) |
-| Defense | 11 |
-| Length | 1,360 feet |
-| Flat-footed Defense | 7 |
-| Weight | 140,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +5 |
-| Hardness | 30 |
-| Crew | 320 (expert +8) |
-| Hit Dice | 450d20 (9,000 hp) |
-| Passenger Capacity | 160 |
-| Initiative Modifier | +4 |
-| Cargo Capacity | 50,000 tons |
-| Pilot’s Class Bonus | +5 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +4 |
-| Base Purchase DC | 72 |
-| Gunner’s Attack Bonus | +4 |
-| Restriction | Military (+3) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Battle Cruiser     |
+| Tactical Speed         | 4,000 ft. (8 sq.)  |
+| Defense                | 11                 |
+| Length                 | 1,360 feet         |
+| Flat-footed Defense    | 7                  |
+| Weight                 | 140,000 tons       |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +5                 |
+| Hardness               | 30                 |
+| Crew                   | 320 (expert +8)    |
+| Hit Dice               | 450d20 (9,000 hp)  |
+| Passenger Capacity     | 160                |
+| Initiative Modifier    | +4                 |
+| Cargo Capacity         | 50,000 tons        |
+| Pilot’s Class Bonus    | +5                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +4                 |
+| Base Purchase DC       | 72                 |
+| Gunner’s Attack Bonus  | +4                 |
+| Restriction            | Military (+3)      |
 
 **Attack:** 4 fire-linked heavy particle beams +1 ranged (32d8) and 1
 battery of 3 plasma missiles –2 ranged (18d8/18–20)
@@ -301,30 +301,30 @@ This is a full-sized passenger ship. Although any vessel this size can’t
 avoid carrying some cargo, the liner specializes in moving a large
 number of passengers, usually in varying degrees of luxury.
 
-| Stat | Value |
-|---|---|
-| Type | Heavy |
-| Size | Colossal (–8 size) |
-| Subtype | Liner |
-| Tactical Speed | 4,000 ft. (8 sq.) |
-| Defense | 7 |
-| Length | 1,200 feet |
-| Flat-footed Defense | 5 |
-| Weight | 84,000 tons |
-| Autopilot Defense | 7 |
-| Targeting System Bonus | +5 |
-| Hardness | 30 |
-| Crew | 200 (trained +4) |
-| Hit Dice | 250d20 (5,000 hp) |
-| Passenger Capacity | 800 |
-| Initiative Modifier | +2 |
-| Cargo Capacity | 40,000 tons |
-| Pilot’s Class Bonus | +3 |
-| Grapple Modifier | +16 |
-| Pilot’s Dex Modifier | +2 |
-| Base Purchase DC | 68 |
-| Gunner’s Attack Bonus | +2 |
-| Restriction | Restricted (+2) |
+| Stat                   | Value              |
+| ---------------------- | ------------------ |
+| Type                   | Heavy              |
+| Size                   | Colossal (–8 size) |
+| Subtype                | Liner              |
+| Tactical Speed         | 4,000 ft. (8 sq.)  |
+| Defense                | 7                  |
+| Length                 | 1,200 feet         |
+| Flat-footed Defense    | 5                  |
+| Weight                 | 84,000 tons        |
+| Autopilot Defense      | 7                  |
+| Targeting System Bonus | +5                 |
+| Hardness               | 30                 |
+| Crew                   | 200 (trained +4)   |
+| Hit Dice               | 250d20 (5,000 hp)  |
+| Passenger Capacity     | 800                |
+| Initiative Modifier    | +2                 |
+| Cargo Capacity         | 40,000 tons        |
+| Pilot’s Class Bonus    | +3                 |
+| Grapple Modifier       | +16                |
+| Pilot’s Dex Modifier   | +2                 |
+| Base Purchase DC       | 68                 |
+| Gunner’s Attack Bonus  | +2                 |
+| Restriction            | Restricted (+2)    |
 
 **Attack:** Battery of 4 plasma cannons +2 ranged (14d8/19–20)
 

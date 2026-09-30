@@ -1,18 +1,18 @@
 # Body Double
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Skill Check | Knowledge (arcane lore) DC 39, 6 successes (and see text) and Disguise DC 39, 1 success |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, M (see text), XP |
-| Casting Time | 7 hours (minimum) |
-| Range | Touch |
-| Effect | One duplicate creature |
-| Duration | 12 days |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| School           | Conjuration                                                                             |
+| Subschool        | Creation                                                                                |
+| Skill Check      | Knowledge (arcane lore) DC 39, 6 successes (and see text) and Disguise DC 39, 1 success |
+| Failure          | Two consecutive failed skill checks                                                     |
+| Components       | V, S, M (see text), XP                                                                  |
+| Casting Time     | 7 hours (minimum)                                                                       |
+| Range            | Touch                                                                                   |
+| Effect           | One duplicate creature                                                                  |
+| Duration         | 12 days                                                                                 |
+| Saving Throw     | None                                                                                    |
+| Spell Resistance | No                                                                                      |
 
 The *body double* incantation creates a duplicate of any creature formed
 from mystic clay, with alchemical blood and an eldritch life of its own.

@@ -5,11 +5,11 @@ side of the law. This occupation includes con artists, burglars,
 thieves, crime family soldiers, gang members, bank robbers, and other
 types of career criminals.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

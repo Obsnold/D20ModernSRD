@@ -57,18 +57,18 @@ The Mage’s class skills are as follows.
 
 **Table: The Mage**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Arcane skills, arcane spells, summon familiar | +1 | +1 |
-| 2nd | +1 | +0 | +0 | +3 | Scribe scroll, arcane spells | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat, arcane spells, brew potion | +2 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Scribe tattoo, arcane spells | +2 | +2 |
-| 5th | +2 | +1 | +1 | +4 | Spell mastery, arcane spells | +3 | +2 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat, arcane spells | +3 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Combat casting, arcane spells | +4 | +3 |
-| 8th | +4 | +2 | +2 | +6 | Spell mastery, arcane spells | +4 | +3 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat, arcane spells | +5 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Maximize spell, arcane spells | +5 | +4 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                       | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | --------------------------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +2        | Arcane skills, arcane spells, summon familiar | +1            | +1               |
+| 2nd         | +1                | +0        | +0       | +3        | Scribe scroll, arcane spells                  | +1            | +1               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat, arcane spells, brew potion        | +2            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Scribe tattoo, arcane spells                  | +2            | +2               |
+| 5th         | +2                | +1        | +1       | +4        | Spell mastery, arcane spells                  | +3            | +2               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat, arcane spells                     | +3            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Combat casting, arcane spells                 | +4            | +3               |
+| 8th         | +4                | +2        | +2       | +6        | Spell mastery, arcane spells                  | +4            | +3               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat, arcane spells                     | +5            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Maximize spell, arcane spells                 | +5            | +4               |
 
 ## Class Features
 
@@ -128,18 +128,18 @@ description.
 **Time:** Unless otherwise indicated, using the Spellcraft skill is a
 move action.
 
-| DC | Task |
-|---|---|
-| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again. |
-| 15 + spell level | Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft. |
-| 15 + spell level | Prepare a spell from a borrowed spellbook. One try per day. |
+| DC               | Task                                                                                                                                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.                                                                                       |
+| 15 + spell level | Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft.                                                                               |
+| 15 + spell level | Prepare a spell from a borrowed spellbook. One try per day.                                                                                                                                              |
 | 15 + spell level | When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) |
-| 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again. |
-| 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again. |
-| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day. |
-| 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction. |
-| 25 | Identify a potion. This takes 1 minute. |
-| 30 or higher | Understand a strange or unique magical effect. You can’t try again. |
+| 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.                                                               |
+| 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.                                                              |
+| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                   |
+| 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.                                                                                |
+| 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                  |
+| 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                      |
 
 ### Arcane Spells
 
@@ -150,28 +150,30 @@ spells based on his Intelligence score. Determine the Mage’s total
 number of spells per day by consulting the two tables below.
 
 Spells per Day by Spell Level:
-| Mage Level | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| 1st | 3 | 1 | — | — | — | — |
-| 2nd | 4 | 2 | — | — | — | — |
-| 3rd | 4 | 2 | 1 | — | — | — |
-| 4th | 4 | 3 | 2 | — | — | — |
-| 5th | 4 | 3 | 2 | 1 | — | — |
-| 6th | 4 | 3 | 3 | 2 | — | — |
-| 7th | 4 | 4 | 3 | 2 | 1 | — |
-| 8th | 4 | 4 | 3 | 3 | 2 | — |
-| 9th | 4 | 4 | 4 | 3 | 2 | 1 |
-| 10th | 4 | 4 | 4 | 3 | 3 | 2 |
+
+| Mage Level | 0   | 1   | 2   | 3   | 4   | 5   |
+| ---------- | --- | --- | --- | --- | --- | --- |
+| 1st        | 3   | 1   | —   | —   | —   | —   |
+| 2nd        | 4   | 2   | —   | —   | —   | —   |
+| 3rd        | 4   | 2   | 1   | —   | —   | —   |
+| 4th        | 4   | 3   | 2   | —   | —   | —   |
+| 5th        | 4   | 3   | 2   | 1   | —   | —   |
+| 6th        | 4   | 3   | 3   | 2   | —   | —   |
+| 7th        | 4   | 4   | 3   | 2   | 1   | —   |
+| 8th        | 4   | 4   | 3   | 3   | 2   | —   |
+| 9th        | 4   | 4   | 4   | 3   | 2   | 1   |
+| 10th       | 4   | 4   | 4   | 3   | 3   | 2   |
 
 Bonus Spells by Spell Level:
-| Int Score | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| 12–13 | — | 1 | — | — | — | — |
-| 14–15 | — | 1 | 1 | — | — | — |
-| 16–17 | — | 1 | 1 | 1 | — | — |
-| 18–19 | — | 1 | 1 | 1 | 1 | — |
-| 20–21 | — | 2 | 1 | 1 | 1 | 1 |
-| 22–23 | — | 2 | 2 | 1 | 1 | 1 |
+
+| Int Score | 0   | 1   | 2   | 3   | 4   | 5   |
+| --------- | --- | --- | --- | --- | --- | --- |
+| 12–13     | —   | 1   | —   | —   | —   | —   |
+| 14–15     | —   | 1   | 1   | —   | —   | —   |
+| 16–17     | —   | 1   | 1   | 1   | —   | —   |
+| 18–19     | —   | 1   | 1   | 1   | 1   | —   |
+| 20–21     | —   | 2   | 1   | 1   | 1   | 1   |
+| 22–23     | —   | 2   | 2   | 1   | 1   | 1   |
 
 The Mage must prepare spells ahead of time by resting for 8 hours and
 spending 1 hour studying his spellbook. While studying, the Mage decides
@@ -195,10 +197,10 @@ depends on the type of armor being worn and whether the Mage has the
 appropriate Armor Proficiency feat, as shown below.
 
 | Armor Type | Arcane Spell Failure (Proficient) | Arcane Spell Failure (Nonproficient) |
-|---|---|---|
-| Light | 10% | 20% |
-| Medium | 20% | 30% |
-| Heavy | 30% | 40% |
+| ---------- | --------------------------------- | ------------------------------------ |
+| Light      | 10%                               | 20%                                  |
+| Medium     | 20%                               | 30%                                  |
+| Heavy      | 30%                               | 40%                                  |
 
 ### Spellbooks
 
@@ -234,16 +236,16 @@ For all familiar special abilities based on the master’s level count
 only Mage levels. Any levels from classes other than Mage are not
 included in this calculation unless specifically stated otherwise.
 
-| Familiar | Special Benefit |
-|---|---|
-| Bat | Mage gains +3 bonus on Listen checks |
-| Cat | Mage gains +3 bonus on Move Silently checks |
-| Ferret | Mage gains +2 bonus on Reflex saves |
-| Hawk | Mage gains +3 bonus on Spot checks in daylight |
-| Owl | Mage gains +3 bonus on Spot checks in dusk or darkness |
-| Rat | Mage gains +2 bonus on Fortitude saves |
-| Snake (Tiny viper) | Mage gains +3 bonus on Bluff checks |
-| Toad | Mage gains +3 hit points |
+| Familiar           | Special Benefit                                        |
+| ------------------ | ------------------------------------------------------ |
+| Bat                | Mage gains +3 bonus on Listen checks                   |
+| Cat                | Mage gains +3 bonus on Move Silently checks            |
+| Ferret             | Mage gains +2 bonus on Reflex saves                    |
+| Hawk               | Mage gains +3 bonus on Spot checks in daylight         |
+| Owl                | Mage gains +3 bonus on Spot checks in dusk or darkness |
+| Rat                | Mage gains +2 bonus on Fortitude saves                 |
+| Snake (Tiny viper) | Mage gains +3 bonus on Bluff checks                    |
+| Toad               | Mage gains +3 hit points                               |
 
 Depending on what kind of creature the familiar is, the master gains a
 special benefit, as summarized on the above table.

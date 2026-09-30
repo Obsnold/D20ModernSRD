@@ -6,11 +6,11 @@ denomination—their faith is enough. Some novitiates are lay clergy,
 counselors, motivational speakers, social workers, or any other position
 involved with helping people who have lost hope and faith.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Wisdom 10 |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value     |
+| ------------------------- | --------- |
+| Prerequisite              | Wisdom 10 |
+| Reputation Bonus Increase | —         |
+| Wealth Bonus Increase     | +2        |
 
 ## Skills
 

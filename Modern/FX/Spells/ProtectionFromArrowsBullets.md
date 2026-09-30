@@ -1,16 +1,16 @@
 # Protection from Arrows/Bullets
 
-| Stat | Value |
-|---|---|
-| School | Abjuration |
-| Level | Mage 2 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 10 minutes/level or until discharged |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                                |
+| ---------------- | ------------------------------------ |
+| School           | Abjuration                           |
+| Level            | Mage 2                               |
+| Components       | V, S, F                              |
+| Casting Time     | Attack action                        |
+| Range            | Touch                                |
+| Target           | Creature touched                     |
+| Duration         | 10 minutes/level or until discharged |
+| Saving Throw     | Will negates (harmless)              |
+| Spell Resistance | Yes (harmless)                       |
 
 The warded creature gains resistance to ranged weapons that fire arrows,
 bullets, or crossbow bolts. The subject gains damage reduction 10/+1

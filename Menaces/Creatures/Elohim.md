@@ -67,39 +67,39 @@ language that the latter can understand in order to converse.
 
 ## Elohim
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Medium-size |
-| Type | elemental (fire) |
-| HD | 7d8+21 |
-| hp | 52 |
-| Mas | — |
-| Init | +1 |
-| Spd | 30 ft., fly 60 ft. (perfect; fire form only) |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +4 natural) or 17, touch 11, flat-footed 16 (+1 Dex, +4 natural, +2 flame shield |
-| BAB | +5 |
-| Grap | +6 |
-| Atk | +6 melee (2d6+1 plus 3d6 fire, flame sword) or +6 ranged touch (3d6 fire, flame shield) |
-| Full Atk | +6 melee (2d6+1 and 3d6 fire, flame sword) or +6 ranged touch (3d6 fire, flame shield) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | damage reduction 10/+1 (fire form only), darkvision 60 ft., elemental, fear aura (DC 17), fire form (DC 17), fire subtype, flame shield (DC 17), flame sword, telepathy |
-| AL | elohim or any, evil |
-| Fort | +5 |
-| Ref | +6 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 12 |
-| Dex | 13 |
-| Con | 16 |
-| Int | 14 |
-| Wis | 15 |
-| Cha | 19 |
+| Stat              | Value                                                                                                                                                                   |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 8                                                                                                                                                                       |
+| Size              | Medium-size                                                                                                                                                             |
+| Type              | elemental (fire)                                                                                                                                                        |
+| HD                | 7d8+21                                                                                                                                                                  |
+| hp                | 52                                                                                                                                                                      |
+| Mas               | —                                                                                                                                                                       |
+| Init              | +1                                                                                                                                                                      |
+| Spd               | 30 ft., fly 60 ft. (perfect; fire form only)                                                                                                                            |
+| Defense           | 15                                                                                                                                                                      |
+| Touch             | 11                                                                                                                                                                      |
+| Flat-Footed       | 14                                                                                                                                                                      |
+| Defense Breakdown | +1 Dex, +4 natural) or 17, touch 11, flat-footed 16 (+1 Dex, +4 natural, +2 flame shield                                                                                |
+| BAB               | +5                                                                                                                                                                      |
+| Grap              | +6                                                                                                                                                                      |
+| Atk               | +6 melee (2d6+1 plus 3d6 fire, flame sword) or +6 ranged touch (3d6 fire, flame shield)                                                                                 |
+| Full Atk          | +6 melee (2d6+1 and 3d6 fire, flame sword) or +6 ranged touch (3d6 fire, flame shield)                                                                                  |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                          |
+| Reach             | 5 ft.                                                                                                                                                                   |
+| SQ                | damage reduction 10/+1 (fire form only), darkvision 60 ft., elemental, fear aura (DC 17), fire form (DC 17), fire subtype, flame shield (DC 17), flame sword, telepathy |
+| AL                | elohim or any, evil                                                                                                                                                     |
+| Fort              | +5                                                                                                                                                                      |
+| Ref               | +6                                                                                                                                                                      |
+| Will              | +4                                                                                                                                                                      |
+| AP                | 0                                                                                                                                                                       |
+| Rep               | +0                                                                                                                                                                      |
+| Str               | 12                                                                                                                                                                      |
+| Dex               | 13                                                                                                                                                                      |
+| Con               | 16                                                                                                                                                                      |
+| Int               | 14                                                                                                                                                                      |
+| Wis               | 15                                                                                                                                                                      |
+| Cha               | 19                                                                                                                                                                      |
 
 **Skills:** Bluff +10, Diplomacy +10, Gather Information +10, Intimidate
 +10, Investigate +8, Read/Write English, Read/ Write Language (any two),
@@ -112,39 +112,39 @@ Simple Weapons Proficiency.
 
 ## Elohim Charismatic Hero 4
 
-| Stat | Value |
-|---|---|
-| CR | 12 |
-| Size | Medium-size |
-| Type | elemental (fire) |
-| HD | 7d8+21 plus 4d6+12 |
-| hp | 78 |
-| Mas | — |
-| Init | +1 |
-| Spd | 30 ft., fly 60 ft. (perfect; fire form only) |
-| Defense | 17 |
-| Touch | 12 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +1 Dex, +4 natural, +1 class, +1 equipment) or 19, touch 12, flat-footed 18 (+1 Dex, +4 natural, +1 class, +1 equipment, +2 flame shield |
-| BAB | +7 |
-| Grap | +8 |
-| Atk | +8 melee (2d6+2 plus 3d6 fire, flame sword) or +9 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield) |
-| Full Atk | +8/+3 melee (2d6+2 plus 3d6 fire, flame sword) or +9/+4 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | damage reduction 10/+1 (fire form only), darkvision 60 ft., elemental traits, fear aura (DC 20), fire form (DC 20), fire subtype, flame shield (DC 20), flame sword, telepathy |
-| AL | evil, elohim or any |
-| Fort | +7 |
-| Ref | +8 |
-| Will | +5 |
-| AP | 2 |
-| Rep | +5 |
-| Str | 12 |
-| Dex | 13 |
-| Con | 16 |
-| Int | 14 |
-| Wis | 15 |
-| Cha | 20 |
+| Stat              | Value                                                                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 12                                                                                                                                                                             |
+| Size              | Medium-size                                                                                                                                                                    |
+| Type              | elemental (fire)                                                                                                                                                               |
+| HD                | 7d8+21 plus 4d6+12                                                                                                                                                             |
+| hp                | 78                                                                                                                                                                             |
+| Mas               | —                                                                                                                                                                              |
+| Init              | +1                                                                                                                                                                             |
+| Spd               | 30 ft., fly 60 ft. (perfect; fire form only)                                                                                                                                   |
+| Defense           | 17                                                                                                                                                                             |
+| Touch             | 12                                                                                                                                                                             |
+| Flat-Footed       | 16                                                                                                                                                                             |
+| Defense Breakdown | +1 Dex, +4 natural, +1 class, +1 equipment) or 19, touch 12, flat-footed 18 (+1 Dex, +4 natural, +1 class, +1 equipment, +2 flame shield                                       |
+| BAB               | +7                                                                                                                                                                             |
+| Grap              | +8                                                                                                                                                                             |
+| Atk               | +8 melee (2d6+2 plus 3d6 fire, flame sword) or +9 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield)                                                             |
+| Full Atk          | +8/+3 melee (2d6+2 plus 3d6 fire, flame sword) or +9/+4 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield)                                                       |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                 |
+| Reach             | 5 ft.                                                                                                                                                                          |
+| SQ                | damage reduction 10/+1 (fire form only), darkvision 60 ft., elemental traits, fear aura (DC 20), fire form (DC 20), fire subtype, flame shield (DC 20), flame sword, telepathy |
+| AL                | evil, elohim or any                                                                                                                                                            |
+| Fort              | +7                                                                                                                                                                             |
+| Ref               | +8                                                                                                                                                                             |
+| Will              | +5                                                                                                                                                                             |
+| AP                | 2                                                                                                                                                                              |
+| Rep               | +5                                                                                                                                                                             |
+| Str               | 12                                                                                                                                                                             |
+| Dex               | 13                                                                                                                                                                             |
+| Con               | 16                                                                                                                                                                             |
+| Int               | 14                                                                                                                                                                             |
+| Wis               | 15                                                                                                                                                                             |
+| Cha               | 20                                                                                                                                                                             |
 
 **Skills:** Bluff +18, Diplomacy +18, Gather Information +15, Intimidate
 +16, Investigate +8, Profession +9, Read/Write (English), Read/Write

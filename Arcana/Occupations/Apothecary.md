@@ -5,11 +5,11 @@ elements, and naturally occurring materials together for predictable
 results. They often go on to be research scientists, inventors,
 pharmacists, or alchemists.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 20+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +3 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 20+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +3      |
 
 ## Skills
 

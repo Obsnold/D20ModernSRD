@@ -1,10 +1,10 @@
 # Swim
 
-| Stat | Value |
-|---|---|
-| Key Ability | Str |
-| Trained Only | No |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Str   |
+| Trained Only  | No    |
+| Armor Penalty | Yes   |
 
 ## Check
 
@@ -29,11 +29,11 @@ fails the check, the character begins to drown.
 
 The DC for the Swim check depends on the water:
 
-| Water | DC |
-|---|---|
-| Calm water | 10 |
-| Rough water | 15 |
-| Stormy water | 20 |
+| Water        | DC  |
+| ------------ | --- |
+| Calm water   | 10  |
+| Rough water  | 15  |
+| Stormy water | 20  |
 
 Each hour that the character swims, make a Swim check against DC 20. If
 the character fails, he or she becomes fatigued. If the character fails

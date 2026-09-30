@@ -52,39 +52,39 @@ keeps the extra feat it gained as a 1st-level human character.
 
 ## Bogeyman Tough Hero 9
 
-| Stat | Value |
-|---|---|
-| CR | 10 |
-| Size | Medium-size |
-| Type | humanoid |
-| HD | 9d10+63 |
-| hp | 112 |
-| Mas | 33 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 19 |
-| Touch | 11 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +1 Dex, +3 natural, +5 class |
-| BAB | +6 |
-| Grap | +9 |
-| Atk | +11 melee (1d8+3 nonlethal, unarmed strike) |
-| Full Atk | +11 melee (1d8+3 nonlethal, unarmed strike) or +9 melee (by weapon) or +7 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | death’s door, fast healing 5, immunities |
-| AL | evil |
-| Fort | +13 |
-| Ref | +4 |
-| Will | +5 |
-| AP | 5 |
-| Rep | +3 |
-| Str | 16 |
-| Dex | 12 |
-| Con | 24 |
-| Int | 11 |
-| Wis | 14 |
-| Cha | 12 |
+| Stat              | Value                                                                            |
+| ----------------- | -------------------------------------------------------------------------------- |
+| CR                | 10                                                                               |
+| Size              | Medium-size                                                                      |
+| Type              | humanoid                                                                         |
+| HD                | 9d10+63                                                                          |
+| hp                | 112                                                                              |
+| Mas               | 33                                                                               |
+| Init              | +1                                                                               |
+| Spd               | 30 ft.                                                                           |
+| Defense           | 19                                                                               |
+| Touch             | 11                                                                               |
+| Flat-Footed       | 18                                                                               |
+| Defense Breakdown | +1 Dex, +3 natural, +5 class                                                     |
+| BAB               | +6                                                                               |
+| Grap              | +9                                                                               |
+| Atk               | +11 melee (1d8+3 nonlethal, unarmed strike)                                      |
+| Full Atk          | +11 melee (1d8+3 nonlethal, unarmed strike) or +9 melee (by weapon) or +7 ranged |
+| FS                | 5 ft. by 5 ft.                                                                   |
+| Reach             | 5 ft.                                                                            |
+| SQ                | death’s door, fast healing 5, immunities                                         |
+| AL                | evil                                                                             |
+| Fort              | +13                                                                              |
+| Ref               | +4                                                                               |
+| Will              | +5                                                                               |
+| AP                | 5                                                                                |
+| Rep               | +3                                                                               |
+| Str               | 16                                                                               |
+| Dex               | 12                                                                               |
+| Con               | 24                                                                               |
+| Int               | 11                                                                               |
+| Wis               | 14                                                                               |
+| Cha               | 12                                                                               |
 
 **Occupation:** Law Enforcement.
 

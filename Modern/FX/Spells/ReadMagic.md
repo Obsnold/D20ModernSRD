@@ -1,14 +1,14 @@
 # Read Magic
 
-| Stat | Value |
-|---|---|
-| School | Universal |
-| Level | Acolyte 0, Mage 0 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Personal |
-| Target | You |
-| Duration | 10 minutes/level |
+| Stat         | Value             |
+| ------------ | ----------------- |
+| School       | Universal         |
+| Level        | Acolyte 0, Mage 0 |
+| Components   | V, S, F           |
+| Casting Time | Attack action     |
+| Range        | Personal          |
+| Target       | You               |
+| Duration     | 10 minutes/level  |
 
 This spell allows the caster to read magical inscriptions on objects
 that would otherwise be unintelligible. This deciphering does not invoke

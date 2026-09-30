@@ -55,18 +55,18 @@ The Occultist’s class skills are as follows.
 
 **Table: The Occultist**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
-| 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
-| 3rd | +1 | +1 | +1 | +2 | Bonus feat | +1 | +1 |
-| 4th | +2 | +1 | +1 | +2 | Shadow contact | +1 | +1 |
-| 5th | +2 | +1 | +1 | +3 | Bind Shadow creature | +2 | +1 |
-| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
-| 7th | +3 | +2 | +2 | +4 | Arcane research (items) | +2 | +2 |
-| 8th | +4 | +2 | +2 | +4 | Bind Shadow creature | +3 | +2 |
-| 9th | +4 | +3 | +3 | +4 | Bonus feat | +3 | +3 |
-| 10th | +5 | +3 | +3 | +5 | Banish | +3 | +3 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +1        | Arcane skills, spell resistance | +0            | +0               |
+| 2nd         | +1                | +0        | +0       | +2        | Arcane research (scrolls)       | +1            | +0               |
+| 3rd         | +1                | +1        | +1       | +2        | Bonus feat                      | +1            | +1               |
+| 4th         | +2                | +1        | +1       | +2        | Shadow contact                  | +1            | +1               |
+| 5th         | +2                | +1        | +1       | +3        | Bind Shadow creature            | +2            | +1               |
+| 6th         | +3                | +2        | +2       | +3        | Bonus feat                      | +2            | +2               |
+| 7th         | +3                | +2        | +2       | +4        | Arcane research (items)         | +2            | +2               |
+| 8th         | +4                | +2        | +2       | +4        | Bind Shadow creature            | +3            | +2               |
+| 9th         | +4                | +3        | +3       | +4        | Bonus feat                      | +3            | +3               |
+| 10th        | +5                | +3        | +3       | +5        | Banish                          | +3            | +3               |
 
 ## Class Features
 
@@ -124,15 +124,15 @@ You make Use Magic Device checks each time you activate a device such as
 a scroll or a wand. If you are using the check to emulate some quality
 in an ongoing manner, you need to make the checks once per hour.
 
-| Task | DC |
-|---|---|
-| Activate blindly | 25 |
-| Decipher a written spell | 25 + spell level |
-| Emulate class feature | 20 |
-| Emulate ability score | See text |
-| Emulate allegiance | 30 |
-| Use a scroll | 20 + caster level |
-| Use a wand | 20 |
+| Task                     | DC                |
+| ------------------------ | ----------------- |
+| Activate blindly         | 25                |
+| Decipher a written spell | 25 + spell level  |
+| Emulate class feature    | 20                |
+| Emulate ability score    | See text          |
+| Emulate allegiance       | 30                |
+| Use a scroll             | 20 + caster level |
+| Use a wand               | 20                |
 
 **Activate Blindly:** Some magic items are activated by special words,
 thoughts, or actions. You can activate such items as if you were using
@@ -227,17 +227,17 @@ spell level the Occultist receives upon gaining a new level, and how
 many of these can be researched at each level. A failed Research check
 indicates that the Occultist instead discovers all random spells.
 
-| Level | 1 | 2 | 3 | 4 | Research |
-|---|---|---|---|---|---|
-| 2nd | 3 | — | — | — | 1 (DC 20) |
-| 3rd | 4 | — | — | — | 2 (DC 23) |
-| 4th | 5 | 2 | — | — | 3 (DC 25) |
-| 5th | 5 | 3 | — | — | 4 (DC 28) |
-| 6th | 5 | 4 | — | — | 5 (DC 30) |
-| 7th | 6 | 5 | 2 | — | 6 (DC 33) |
-| 8th | 6 | 5 | 3 | — | 7 (DC 35) |
-| 9th | 6 | 5 | 4 | — | 8 (DC 38) |
-| 10th | 7 | 6 | 5 | 2 | 9 (DC 40) |
+| Level | 1   | 2   | 3   | 4   | Research  |
+| ----- | --- | --- | --- | --- | --------- |
+| 2nd   | 3   | —   | —   | —   | 1 (DC 20) |
+| 3rd   | 4   | —   | —   | —   | 2 (DC 23) |
+| 4th   | 5   | 2   | —   | —   | 3 (DC 25) |
+| 5th   | 5   | 3   | —   | —   | 4 (DC 28) |
+| 6th   | 5   | 4   | —   | —   | 5 (DC 30) |
+| 7th   | 6   | 5   | 2   | —   | 6 (DC 33) |
+| 8th   | 6   | 5   | 3   | —   | 7 (DC 35) |
+| 9th   | 6   | 5   | 4   | —   | 8 (DC 38) |
+| 10th  | 7   | 6   | 5   | 2   | 9 (DC 40) |
 
 So, at 2nd level, the Occultist gains three 1st-level arcane spell
 scrolls. One of these spells can be selected by the Occultist if she

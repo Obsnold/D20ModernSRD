@@ -41,37 +41,37 @@ reduced movement rate);
 
 ## Wind-Up Familiar
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size | Fine |
-| Type | construct |
-| HD | 1/16 d10 |
-| hp | 1 |
-| Mas | — |
-| Init | +0 |
-| Spd | 5 ft. (can’t run) |
-| Defense | 18 |
-| Touch | 18 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +8 Size |
-| BAB | +0 |
-| Grap | –16 |
-| Atk | +5 melee (1, slam) |
-| Full Atk | +5 melee (1, slam) |
-| SQ | construct, move or attack only, wind-up |
-| AL | none |
-| Fort | –5 |
-| Ref | — |
-| Will | — |
-| AP | 0 |
-| Rep | +0 |
-| Str | 1 |
-| Dex | 10 |
-| Con | — |
-| Int | — |
-| Wis | — |
-| Cha | — |
+| Stat              | Value                                   |
+| ----------------- | --------------------------------------- |
+| CR                | 1/2                                     |
+| Size              | Fine                                    |
+| Type              | construct                               |
+| HD                | 1/16 d10                                |
+| hp                | 1                                       |
+| Mas               | —                                       |
+| Init              | +0                                      |
+| Spd               | 5 ft. (can’t run)                       |
+| Defense           | 18                                      |
+| Touch             | 18                                      |
+| Flat-Footed       | 18                                      |
+| Defense Breakdown | +8 Size                                 |
+| BAB               | +0                                      |
+| Grap              | –16                                     |
+| Atk               | +5 melee (1, slam)                      |
+| Full Atk          | +5 melee (1, slam)                      |
+| SQ                | construct, move or attack only, wind-up |
+| AL                | none                                    |
+| Fort              | –5                                      |
+| Ref               | —                                       |
+| Will              | —                                       |
+| AP                | 0                                       |
+| Rep               | +0                                      |
+| Str               | 1                                       |
+| Dex               | 10                                      |
+| Con               | —                                       |
+| Int               | —                                       |
+| Wis               | —                                       |
+| Cha               | —                                       |
 
 **Construct:** Wind-up familiars have the traits and immunities common
 to constructs.

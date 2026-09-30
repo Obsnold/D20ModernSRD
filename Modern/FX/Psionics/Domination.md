@@ -1,18 +1,18 @@
 # Domination
 
-| Stat | Value |
-|---|---|
-| Key Ability | Charisma |
-| Descriptors | Compulsion, Mind-Affecting |
-| Level | Telepath 4 |
-| Display | Mental |
-| Manifestation Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Target | One Medium-size or smaller creature |
-| Duration | 1 day/level |
-| Saving Throw | Will negates |
-| Power Resistance | Yes |
-| Power Point Cost | 7 |
+| Stat               | Value                               |
+| ------------------ | ----------------------------------- |
+| Key Ability        | Charisma                            |
+| Descriptors        | Compulsion, Mind-Affecting          |
+| Level              | Telepath 4                          |
+| Display            | Mental                              |
+| Manifestation Time | Attack action                       |
+| Range              | Medium (100 ft. + 10 ft./level)     |
+| Target             | One Medium-size or smaller creature |
+| Duration           | 1 day/level                         |
+| Saving Throw       | Will negates                        |
+| Power Resistance   | Yes                                 |
+| Power Point Cost   | 7                                   |
 
 The manifester can control the actions of a Medium-size or smaller
 creature. The manifester establishes a telepathic link with the target’s

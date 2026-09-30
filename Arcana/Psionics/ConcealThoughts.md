@@ -1,17 +1,17 @@
 # Conceal Thoughts
 
-| Stat | Value |
-|---|---|
-| Key Ability | Charisma |
-| Level | Telepath 1 |
-| Display | Visual |
-| Manifestation Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Target | One living creature |
-| Duration | 1 hour/level |
-| Saving Throw | Yes (harmless) |
-| Power Resistance | Yes (harmless) |
-| Power Point Cost | 1 |
+| Stat               | Value                           |
+| ------------------ | ------------------------------- |
+| Key Ability        | Charisma                        |
+| Level              | Telepath 1                      |
+| Display            | Visual                          |
+| Manifestation Time | Attack action                   |
+| Range              | Close (25 ft. + 5 ft./2 levels) |
+| Target             | One living creature             |
+| Duration           | 1 hour/level                    |
+| Saving Throw       | Yes (harmless)                  |
+| Power Resistance   | Yes (harmless)                  |
+| Power Point Cost   | 1                               |
 
 You protect your thoughts from analysis. While the duration lasts, you
 gain a +20 circumstance bonus on Bluff checks against those attempting

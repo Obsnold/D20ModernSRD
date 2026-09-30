@@ -3,11 +3,11 @@
 A doctor can be a physician (general practitioner or specialist), a
 surgeon, or a psychiatrist.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 25+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +4 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 25+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +4      |
 
 ## Skills
 

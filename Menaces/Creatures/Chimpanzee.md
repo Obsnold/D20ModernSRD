@@ -22,39 +22,39 @@ and a +4 species bonus on Jump checks.
 
 ## Chimpanzee
 
-| Stat | Value |
-|---|---|
-| CR | 1/3 |
-| Size | Small |
-| Type | animal |
-| HD | 1d8+1 |
-| hp | 5 |
-| Mas | 13 |
-| Init | +3 |
-| Spd | 30 ft., climb 20 ft. |
-| Defense | 15 |
-| Touch | 14 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +1 size, +3 Dex, +1 natural |
-| BAB | +0 |
-| Grap | –2 |
-| Atk | +3 melee (1d4+2, bite) |
-| Full Atk | +3 melee (1d4+2, bite) and –1 melee (1d2+1, 2 slams) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | improved grab, low-light vision |
-| AL | none or trainer |
-| Fort | +3 |
-| Ref | +5 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 17 |
-| Con | 13 |
-| Int | 2 |
-| Wis | 14 |
-| Cha | 8 |
+| Stat              | Value                                                |
+| ----------------- | ---------------------------------------------------- |
+| CR                | 1/3                                                  |
+| Size              | Small                                                |
+| Type              | animal                                               |
+| HD                | 1d8+1                                                |
+| hp                | 5                                                    |
+| Mas               | 13                                                   |
+| Init              | +3                                                   |
+| Spd               | 30 ft., climb 20 ft.                                 |
+| Defense           | 15                                                   |
+| Touch             | 14                                                   |
+| Flat-Footed       | 12                                                   |
+| Defense Breakdown | +1 size, +3 Dex, +1 natural                          |
+| BAB               | +0                                                   |
+| Grap              | –2                                                   |
+| Atk               | +3 melee (1d4+2, bite)                               |
+| Full Atk          | +3 melee (1d4+2, bite) and –1 melee (1d2+1, 2 slams) |
+| FS                | 5 ft. by 5 ft.                                       |
+| Reach             | 5 ft.                                                |
+| SQ                | improved grab, low-light vision                      |
+| AL                | none or trainer                                      |
+| Fort              | +3                                                   |
+| Ref               | +5                                                   |
+| Will              | +2                                                   |
+| AP                | 0                                                    |
+| Rep               | +0                                                   |
+| Str               | 15                                                   |
+| Dex               | 17                                                   |
+| Con               | 13                                                   |
+| Int               | 2                                                    |
+| Wis               | 14                                                   |
+| Cha               | 8                                                    |
 
 **Skills:** Climb +14, Hide +6, Jump +7, Listen +5, Move Silently +6,
 Spot +5.

@@ -9,7 +9,7 @@ roll damage as if one of the weapons had hit. In addition, a weapon
 battery has a greater chance of scoring a critical hit. Regardless of
 the number of weapons in the battery, the threat range is increased
 by 1. For example, a battery of plasma cannons (normal threat range of
-20) has a threat range of 19–20. This effect stacks with other systems
+20\) has a threat range of 19–20. This effect stacks with other systems
 that expand a weapon’s critical threat range, such as Achilles targeting
 software.
 

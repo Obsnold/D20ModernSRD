@@ -50,39 +50,39 @@ once per round.
 
 ## Montauk Monster
 
-| Stat | Value |
-|---|---|
-| CR | 11 |
-| Size | Large |
-| Type | elemental (air, fire) |
-| HD | 9d8+27 |
-| hp | 67 |
-| Mas | — |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 14 |
-| Touch | 10 |
-| Flat-Footed | 13 |
-| Defense Breakdown | –1 size, +1 Dex, +4 natural |
-| BAB | +6 |
-| Grap | +16 |
-| Atk | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, energy claw) |
-| Full Atk | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, 2 energy claws) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 10 ft. |
-| SQ | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 15), immunities, invisibility |
-| AL | evil |
-| Fort | +6 |
-| Ref | +9 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 13 |
-| Con | 16 |
-| Int | 6 |
-| Wis | 10 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 11                                                                                                                                                   |
+| Size              | Large                                                                                                                                                |
+| Type              | elemental (air, fire)                                                                                                                                |
+| HD                | 9d8+27                                                                                                                                               |
+| hp                | 67                                                                                                                                                   |
+| Mas               | —                                                                                                                                                    |
+| Init              | +1                                                                                                                                                   |
+| Spd               | 30 ft.                                                                                                                                               |
+| Defense           | 14                                                                                                                                                   |
+| Touch             | 10                                                                                                                                                   |
+| Flat-Footed       | 13                                                                                                                                                   |
+| Defense Breakdown | –1 size, +1 Dex, +4 natural                                                                                                                          |
+| BAB               | +6                                                                                                                                                   |
+| Grap              | +16                                                                                                                                                  |
+| Atk               | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, energy claw)                                                                                    |
+| Full Atk          | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, 2 energy claws)                                                                                 |
+| FS                | 10 ft. by 10 ft.                                                                                                                                     |
+| Reach             | 10 ft.                                                                                                                                               |
+| SQ                | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 15), immunities, invisibility |
+| AL                | evil                                                                                                                                                 |
+| Fort              | +6                                                                                                                                                   |
+| Ref               | +9                                                                                                                                                   |
+| Will              | +3                                                                                                                                                   |
+| AP                | 0                                                                                                                                                    |
+| Rep               | +0                                                                                                                                                   |
+| Str               | 22                                                                                                                                                   |
+| Dex               | 13                                                                                                                                                   |
+| Con               | 16                                                                                                                                                   |
+| Int               | 6                                                                                                                                                    |
+| Wis               | 10                                                                                                                                                   |
+| Cha               | 12                                                                                                                                                   |
 
 **Skills:** Climb +13, Listen +9, Move Silently +8, Spot +9.
 
@@ -92,39 +92,39 @@ once per round.
 
 ## Advanced Montauk Monster
 
-| Stat | Value |
-|---|---|
-| CR | 14 |
-| Size | Huge |
-| Type | elemental (air, fire) |
-| HD | 19d8+95 |
-| hp | 180 |
-| Mas | — |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 8 |
-| Flat-Footed | 15 |
-| Defense Breakdown | –2 size, +7 natural |
-| BAB | +14 |
-| Grap | +32 |
-| Atk | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, energy claw) |
-| Full Atk | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, 2 energy claws) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 24), immunities, invisibility |
-| AL | evil |
-| Fort | +11 |
-| Ref | +13 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 30 |
-| Dex | 11 |
-| Con | 20 |
-| Int | 6 |
-| Wis | 10 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 14                                                                                                                                                   |
+| Size              | Huge                                                                                                                                                 |
+| Type              | elemental (air, fire)                                                                                                                                |
+| HD                | 19d8+95                                                                                                                                              |
+| hp                | 180                                                                                                                                                  |
+| Mas               | —                                                                                                                                                    |
+| Init              | +0                                                                                                                                                   |
+| Spd               | 30 ft.                                                                                                                                               |
+| Defense           | 15                                                                                                                                                   |
+| Touch             | 8                                                                                                                                                    |
+| Flat-Footed       | 15                                                                                                                                                   |
+| Defense Breakdown | –2 size, +7 natural                                                                                                                                  |
+| BAB               | +14                                                                                                                                                  |
+| Grap              | +32                                                                                                                                                  |
+| Atk               | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, energy claw)                                                                                   |
+| Full Atk          | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, 2 energy claws)                                                                                |
+| FS                | 15 ft. by 15 ft.                                                                                                                                     |
+| Reach             | 10 ft.                                                                                                                                               |
+| SQ                | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 24), immunities, invisibility |
+| AL                | evil                                                                                                                                                 |
+| Fort              | +11                                                                                                                                                  |
+| Ref               | +13                                                                                                                                                  |
+| Will              | +6                                                                                                                                                   |
+| AP                | 0                                                                                                                                                    |
+| Rep               | +0                                                                                                                                                   |
+| Str               | 30                                                                                                                                                   |
+| Dex               | 11                                                                                                                                                   |
+| Con               | 20                                                                                                                                                   |
+| Int               | 6                                                                                                                                                    |
+| Wis               | 10                                                                                                                                                   |
+| Cha               | 12                                                                                                                                                   |
 
 **Skills:** Climb +22, Listen +14, Move Silently +12, Spot +14.
 

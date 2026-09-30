@@ -4,11 +4,11 @@ A hedge wizard is someone who has spent a great deal of time studying
 the arcane arts without the benefit of having any formal training or
 mentoring.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Intelligence 10 |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value           |
+| ------------------------- | --------------- |
+| Prerequisite              | Intelligence 10 |
+| Reputation Bonus Increase | —               |
+| Wealth Bonus Increase     | +2              |
 
 ## Skills
 

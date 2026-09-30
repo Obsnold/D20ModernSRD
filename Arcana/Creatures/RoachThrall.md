@@ -46,38 +46,38 @@ human host.
 
 ## Roach Thrall
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size/Type | Medium aberration |
-| HD | 3d8+3 |
-| hp | 16 |
-| Mas | 12 |
-| Init | +6 (+2 Dex, +4 Improved Initiative) |
-| Spd | 30 ft. (bipedal) or 40 ft. (as insect) |
-| Defense | 18 |
-| Touch | 12 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +2 Dex, +6 natural |
-| BAB | +2 |
-| Grap | +2 |
-| Atk | +2 melee (1d4, claw) |
-| Full Atk | +2 melee (1d4, 2 claws or 4 claws) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | human host, multiple limbs, resistance to massive damage, darkvision 60 ft. |
-| AL | roach thralls |
-| Fort | +2 |
-| Ref | +3 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 11 |
-| Dex | 14 |
-| Con | 12 |
-| Int | 14 |
-| Wis | 13 |
-| Cha | 7 |
+| Stat              | Value                                                                       |
+| ----------------- | --------------------------------------------------------------------------- |
+| CR                | 2                                                                           |
+| Size/Type         | Medium aberration                                                           |
+| HD                | 3d8+3                                                                       |
+| hp                | 16                                                                          |
+| Mas               | 12                                                                          |
+| Init              | +6 (+2 Dex, +4 Improved Initiative)                                         |
+| Spd               | 30 ft. (bipedal) or 40 ft. (as insect)                                      |
+| Defense           | 18                                                                          |
+| Touch             | 12                                                                          |
+| Flat-Footed       | 16                                                                          |
+| Defense Breakdown | +2 Dex, +6 natural                                                          |
+| BAB               | +2                                                                          |
+| Grap              | +2                                                                          |
+| Atk               | +2 melee (1d4, claw)                                                        |
+| Full Atk          | +2 melee (1d4, 2 claws or 4 claws)                                          |
+| FS                | 5 ft. by 5 ft.                                                              |
+| Reach             | 5 ft.                                                                       |
+| SQ                | human host, multiple limbs, resistance to massive damage, darkvision 60 ft. |
+| AL                | roach thralls                                                               |
+| Fort              | +2                                                                          |
+| Ref               | +3                                                                          |
+| Will              | +4                                                                          |
+| AP                | 0                                                                           |
+| Rep               | +0                                                                          |
+| Str               | 11                                                                          |
+| Dex               | 14                                                                          |
+| Con               | 12                                                                          |
+| Int               | 14                                                                          |
+| Wis               | 13                                                                          |
+| Cha               | 7                                                                           |
 
 **Skills:** Bluff +5 (+10 when pretending to be its
 human host), Climb +4, Disguise +5 (+15 inside human host), Jump +4,

@@ -7,20 +7,20 @@ toe-to-toe with armed starships.
 A Paragon installed with the standard equipment package (see below) has
 a purchase DC of 61.
 
-| Stat | Value |
-|---|---|
-| Size | Colossal (–8 size) |
-| Bonus Hit Points | 900 |
-| Superstructure | Megatanium |
-| Hardness | 30 |
-| Armor | Megatanium |
-| Bonus to Defense | +12 |
-| Armor Penalty | –10 |
-| Reach | 15 ft. |
-| Strength Bonus | +32 |
-| Dexterity Penalty | –4 |
-| Speed | 50 ft., fly 200 ft. (poor) |
-| Base Purchase DC | 60 |
+| Stat              | Value                      |
+| ----------------- | -------------------------- |
+| Size              | Colossal (–8 size)         |
+| Bonus Hit Points  | 900                        |
+| Superstructure    | Megatanium                 |
+| Hardness          | 30                         |
+| Armor             | Megatanium                 |
+| Bonus to Defense  | +12                        |
+| Armor Penalty     | –10                        |
+| Reach             | 15 ft.                     |
+| Strength Bonus    | +32                        |
+| Dexterity Penalty | –4                         |
+| Speed             | 50 ft., fly 200 ft. (poor) |
+| Base Purchase DC  | 60                         |
 
 **Standard Equipment Package:** Advanced diagnostics (helmet), Class V
 sensor system (helmet), Crackerjack neural link (cranium), Mark IV

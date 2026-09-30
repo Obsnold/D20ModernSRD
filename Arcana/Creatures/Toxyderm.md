@@ -46,39 +46,39 @@ a Reflex save succeeds (DC 10 + 1/2 toxyderm’s Hit Dice + toxyderm’s
 Constitution modifier). Unlike the garbage toxyderm, the chemical
 toxyderm takes no damage from its own breath weapon.
 
-| Stat | Value |
-|---|---|
-| CR | 15 |
-| Size | Huge |
-| Type | elemental |
-| HD | 24d8+120 |
-| hp | 228 |
-| Mas | — |
-| Init | +0 |
-| Spd | 20 ft. |
-| Defense | 20 |
-| Touch | 8 |
-| Flat-Footed | 20 |
-| Defense Breakdown | –2 size, +12 natural |
-| BAB | +18 |
-| Grap | +37 |
-| Atk | +27 melee (2d6+16 plus 2d6 acid, slam) or +16 ranged |
-| Full Atk | +27/+22/+17/+12 melee (2d6+16 plus 2d6 acid, slam) or +16/+11/+6/+1 ranged |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | elemental, engulf (DC 22), acid, breath weapon (DC 27), darkvision 60 ft. |
-| AL | none |
-| Fort | +21 |
-| Ref | +10 |
-| Will | +8 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 32 |
-| Dex | 11 |
-| Con | 20 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                      |
+| ----------------- | -------------------------------------------------------------------------- |
+| CR                | 15                                                                         |
+| Size              | Huge                                                                       |
+| Type              | elemental                                                                  |
+| HD                | 24d8+120                                                                   |
+| hp                | 228                                                                        |
+| Mas               | —                                                                          |
+| Init              | +0                                                                         |
+| Spd               | 20 ft.                                                                     |
+| Defense           | 20                                                                         |
+| Touch             | 8                                                                          |
+| Flat-Footed       | 20                                                                         |
+| Defense Breakdown | –2 size, +12 natural                                                       |
+| BAB               | +18                                                                        |
+| Grap              | +37                                                                        |
+| Atk               | +27 melee (2d6+16 plus 2d6 acid, slam) or +16 ranged                       |
+| Full Atk          | +27/+22/+17/+12 melee (2d6+16 plus 2d6 acid, slam) or +16/+11/+6/+1 ranged |
+| FS                | 15 ft. by 15 ft.                                                           |
+| Reach             | 10 ft.                                                                     |
+| SQ                | elemental, engulf (DC 22), acid, breath weapon (DC 27), darkvision 60 ft.  |
+| AL                | none                                                                       |
+| Fort              | +21                                                                        |
+| Ref               | +10                                                                        |
+| Will              | +8                                                                         |
+| AP                | 0                                                                          |
+| Rep               | +0                                                                         |
+| Str               | 32                                                                         |
+| Dex               | 11                                                                         |
+| Con               | 20                                                                         |
+| Int               | 6                                                                          |
+| Wis               | 11                                                                         |
+| Cha               | 11                                                                         |
 
 **Skills:** Hide –8, Listen +27, Spot +27, Swim
 +15.
@@ -93,39 +93,39 @@ Lightning Reflexes, Power Attack.
 
 ## Advanced Chemical Toxyderm
 
-| Stat | Value |
-|---|---|
-| CR | 26 |
-| Size | Gargantuan |
-| Type | elemental |
-| HD | 64d8+454 (includes Toughness feats) |
-| hp | 742 |
-| Mas | — |
-| Init | +4 (Improved Initiative) |
-| Spd | 20 ft. |
-| Defense | 22 |
-| Touch | 6 |
-| Flat-Footed | 22 |
-| Defense Breakdown | –4 size, +16 natural |
-| BAB | +48 |
-| Grap | +75 |
-| Atk | +60 melee (2d8+22 plus 2d6 acid, slam) or +44 ranged |
-| Full Atk | +60/+55/+50/+45 melee (2d8+22 plus 2d6 acid, slam) or +44/+39/+34/+29 ranged |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | elemental, engulf (DC 42), acid, breath weapon (DC 49), darkvision 60 ft. |
-| AL | none |
-| Fort | +42 |
-| Ref | +23 |
-| Will | +23 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 40 |
-| Dex | 11 |
-| Con | 24 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                        |
+| ----------------- | ---------------------------------------------------------------------------- |
+| CR                | 26                                                                           |
+| Size              | Gargantuan                                                                   |
+| Type              | elemental                                                                    |
+| HD                | 64d8+454 (includes Toughness feats)                                          |
+| hp                | 742                                                                          |
+| Mas               | —                                                                            |
+| Init              | +4 (Improved Initiative)                                                     |
+| Spd               | 20 ft.                                                                       |
+| Defense           | 22                                                                           |
+| Touch             | 6                                                                            |
+| Flat-Footed       | 22                                                                           |
+| Defense Breakdown | –4 size, +16 natural                                                         |
+| BAB               | +48                                                                          |
+| Grap              | +75                                                                          |
+| Atk               | +60 melee (2d8+22 plus 2d6 acid, slam) or +44 ranged                         |
+| Full Atk          | +60/+55/+50/+45 melee (2d8+22 plus 2d6 acid, slam) or +44/+39/+34/+29 ranged |
+| FS                | 20 ft. by 20 ft.                                                             |
+| Reach             | 15 ft.                                                                       |
+| SQ                | elemental, engulf (DC 42), acid, breath weapon (DC 49), darkvision 60 ft.    |
+| AL                | none                                                                         |
+| Fort              | +42                                                                          |
+| Ref               | +23                                                                          |
+| Will              | +23                                                                          |
+| AP                | 0                                                                            |
+| Rep               | +0                                                                           |
+| Str               | 40                                                                           |
+| Dex               | 11                                                                           |
+| Con               | 24                                                                           |
+| Int               | 6                                                                            |
+| Wis               | 11                                                                           |
+| Cha               | 11                                                                           |
 
 **Skills:** Hide –12, Listen +56, Spot +56, Swim
 +41.
@@ -140,7 +140,7 @@ Toughness (x2), Weapon Focus (slam).
 ## Garbage Toxyderm
 
 **Disease (Ex):** Hantavirus—slam. Fortitude save (DC
-14) negates; incubation period 1 day; initial damage 1d2 Str; secondary
+14\) negates; incubation period 1 day; initial damage 1d2 Str; secondary
 damage 1d2 Str (temporary or permanent) and 1d2 Con (temporary or
 permanent).
 
@@ -152,39 +152,39 @@ the toxyderm uses its breath weapon, it takes 20 points of damage.
 Furthermore, any creature that takes damage from the cone must succeed
 at a Fortitude save (DC 14) or contract a disease (see above).
 
-| Stat | Value |
-|---|---|
-| CR | 11 |
-| Size | Huge |
-| Type | elemental |
-| HD | 18d8+90 |
-| hp | 171 |
-| Mas | — |
-| Init | –2 |
-| Spd | 20 ft., burrow 10 ft. |
-| Defense | 16 |
-| Touch | 6 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –2 size, –2 Dex, +10 natural |
-| BAB | +13 |
-| Grap | +30 |
-| Atk | +20 melee (2d6+13 plus disease, slam) or +9 ranged |
-| Full Atk | +20/+15/+10 melee (2d6+13 plus disease, slam) or +9/+4/–1 ranged |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | elemental, engulf (DC 17), disease, breath weapon (DC 24), darkvision 60 ft. |
-| AL | none |
-| Fort | +16 |
-| Ref | +4 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 28 |
-| Dex | 7 |
-| Con | 20 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                        |
+| ----------------- | ---------------------------------------------------------------------------- |
+| CR                | 11                                                                           |
+| Size              | Huge                                                                         |
+| Type              | elemental                                                                    |
+| HD                | 18d8+90                                                                      |
+| hp                | 171                                                                          |
+| Mas               | —                                                                            |
+| Init              | –2                                                                           |
+| Spd               | 20 ft., burrow 10 ft.                                                        |
+| Defense           | 16                                                                           |
+| Touch             | 6                                                                            |
+| Flat-Footed       | 16                                                                           |
+| Defense Breakdown | –2 size, –2 Dex, +10 natural                                                 |
+| BAB               | +13                                                                          |
+| Grap              | +30                                                                          |
+| Atk               | +20 melee (2d6+13 plus disease, slam) or +9 ranged                           |
+| Full Atk          | +20/+15/+10 melee (2d6+13 plus disease, slam) or +9/+4/–1 ranged             |
+| FS                | 15 ft. by 15 ft.                                                             |
+| Reach             | 10 ft.                                                                       |
+| SQ                | elemental, engulf (DC 17), disease, breath weapon (DC 24), darkvision 60 ft. |
+| AL                | none                                                                         |
+| Fort              | +16                                                                          |
+| Ref               | +4                                                                           |
+| Will              | +6                                                                           |
+| AP                | 0                                                                            |
+| Rep               | +0                                                                           |
+| Str               | 28                                                                           |
+| Dex               | 7                                                                            |
+| Con               | 20                                                                           |
+| Int               | 6                                                                            |
+| Wis               | 11                                                                           |
+| Cha               | 11                                                                           |
 
 **Skills:** Hide –10, Listen +21, Spot +21, Swim
 +13.
@@ -199,39 +199,39 @@ Sunder.
 
 ## Advanced Garbage Toxyderm
 
-| Stat | Value |
-|---|---|
-| CR | 18 |
-| Size | Gargantuan |
-| Type | elemental |
-| HD | 42d8+294 |
-| hp | 483 |
-| Mas | — |
-| Init | –2 |
-| Spd | 20 ft., burrow 10 ft. |
-| Defense | 18 |
-| Touch | 4 |
-| Flat-Footed | 18 |
-| Defense Breakdown | –4 size, –2 Dex, +14 natural |
-| BAB | +32 |
-| Grap | +57 |
-| Atk | +41 melee (2d8+19 plus disease, slam) or +26 ranged |
-| Full Atk | +41/+36/+31/+25 melee (2d8+19 plus disease, slam) or +26/+21/+16/+11 ranged |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | elemental, engulf (DC 29), disease, breath weapon (60-foot cone; DC 38), darkvision 60 ft. |
-| AL | none |
-| Fort | +37 |
-| Ref | +14 |
-| Will | +16 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 36 |
-| Dex | 7 |
-| Con | 24 |
-| Int | 6 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| CR                | 18                                                                                         |
+| Size              | Gargantuan                                                                                 |
+| Type              | elemental                                                                                  |
+| HD                | 42d8+294                                                                                   |
+| hp                | 483                                                                                        |
+| Mas               | —                                                                                          |
+| Init              | –2                                                                                         |
+| Spd               | 20 ft., burrow 10 ft.                                                                      |
+| Defense           | 18                                                                                         |
+| Touch             | 4                                                                                          |
+| Flat-Footed       | 18                                                                                         |
+| Defense Breakdown | –4 size, –2 Dex, +14 natural                                                               |
+| BAB               | +32                                                                                        |
+| Grap              | +57                                                                                        |
+| Atk               | +41 melee (2d8+19 plus disease, slam) or +26 ranged                                        |
+| Full Atk          | +41/+36/+31/+25 melee (2d8+19 plus disease, slam) or +26/+21/+16/+11 ranged                |
+| FS                | 20 ft. by 20 ft.                                                                           |
+| Reach             | 15 ft.                                                                                     |
+| SQ                | elemental, engulf (DC 29), disease, breath weapon (60-foot cone; DC 38), darkvision 60 ft. |
+| AL                | none                                                                                       |
+| Fort              | +37                                                                                        |
+| Ref               | +14                                                                                        |
+| Will              | +16                                                                                        |
+| AP                | 0                                                                                          |
+| Rep               | +0                                                                                         |
+| Str               | 36                                                                                         |
+| Dex               | 7                                                                                          |
+| Con               | 24                                                                                         |
+| Int               | 6                                                                                          |
+| Wis               | 11                                                                                         |
+| Cha               | 11                                                                                         |
 
 **Skills:** Hide –14, Listen +39, Spot +39, Swim
 +33.
@@ -268,38 +268,38 @@ toxyderm’s Hit Dice + toxyderm’s Dexterity modifier). This explosion
 generally results in a milehigh mushroom cloud and a highly radioactive
 crater a quarter-mile across.
 
-| Stat | Value |
-|---|---|
-| CR | 20 |
-| Size | Gargantuan |
-| Type | elemental |
-| HD | 30d8+180 |
-| hp | 305 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 21 |
-| Touch | 6 |
-| Flat-Footed | 21 |
-| Defense Breakdown | –4 size, +15 natural |
-| BAB | +22 |
-| Grap | +47 |
-| Atk | +32 melee (2d8+19 plus radiation, slam) or +18 ranged |
-| Full Atk | +32/+27/+22/+17 melee (2d8+19 plus radiation, slam) or +18/+13/+8/+3 ranged |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | elemental, radiation, engulf (DC 25), breath weapon (DC 32), chain reaction, darkvision 60 ft. |
-| AL | none |
-| Fort | +26 |
-| Ref | +12 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 36 |
-| Dex | 11 |
-| Con | 24 |
-| Int | 13 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------------------- |
+| CR                | 20                                                                                             |
+| Size              | Gargantuan                                                                                     |
+| Type              | elemental                                                                                      |
+| HD                | 30d8+180                                                                                       |
+| hp                | 305                                                                                            |
+| Init              | +0                                                                                             |
+| Spd               | 30 ft.                                                                                         |
+| Defense           | 21                                                                                             |
+| Touch             | 6                                                                                              |
+| Flat-Footed       | 21                                                                                             |
+| Defense Breakdown | –4 size, +15 natural                                                                           |
+| BAB               | +22                                                                                            |
+| Grap              | +47                                                                                            |
+| Atk               | +32 melee (2d8+19 plus radiation, slam) or +18 ranged                                          |
+| Full Atk          | +32/+27/+22/+17 melee (2d8+19 plus radiation, slam) or +18/+13/+8/+3 ranged                    |
+| FS                | 20 ft. by 20 ft.                                                                               |
+| Reach             | 15 ft.                                                                                         |
+| SQ                | elemental, radiation, engulf (DC 25), breath weapon (DC 32), chain reaction, darkvision 60 ft. |
+| AL                | none                                                                                           |
+| Fort              | +26                                                                                            |
+| Ref               | +12                                                                                            |
+| Will              | +12                                                                                            |
+| AP                | 0                                                                                              |
+| Rep               | +0                                                                                             |
+| Str               | 36                                                                                             |
+| Dex               | 11                                                                                             |
+| Con               | 24                                                                                             |
+| Int               | 13                                                                                             |
+| Wis               | 11                                                                                             |
+| Cha               | 11                                                                                             |
 
 **Skills:** Hide –12, Listen +33, Spot +33, Swim
 +31.
@@ -315,38 +315,38 @@ Focus (slam).
 
 ## Advanced Nuclear Toxyderm
 
-| Stat | Value |
-|---|---|
-| CR | 35 |
-| Size | Colossal |
-| Type | elemental |
-| HD | 90d8+840 (includes Toughness feats) |
-| hp | 1,245 |
-| Init | +4 (Improved Initiative) |
-| Spd | 30 ft. |
-| Defense | 22 |
-| Touch | 2 |
-| Flat-Footed | 22 |
-| Defense Breakdown | –8 size, +20 natural |
-| BAB | +65 |
-| Grap | +47 |
-| Atk | +75 melee (4d6+25 plus radiation, slam) or +57 ranged |
-| Full Atk | +75/+70/+65/+60 melee (4d6+25 plus radiation, slam) or +57/+52/+47/+42 ranged |
-| FS | 30 ft. by 30 ft. |
-| Reach | 15 ft. |
-| SQ | elemental, radiation, engulf (DC 55), breath weapon (DC 64), chain reaction, darkvision 60 ft. |
-| AL | none |
-| Fort | +26 |
-| Ref | +12 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 44 |
-| Dex | 11 |
-| Con | 28 |
-| Int | 13 |
-| Wis | 11 |
-| Cha | 11 |
+| Stat              | Value                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------------------- |
+| CR                | 35                                                                                             |
+| Size              | Colossal                                                                                       |
+| Type              | elemental                                                                                      |
+| HD                | 90d8+840 (includes Toughness feats)                                                            |
+| hp                | 1,245                                                                                          |
+| Init              | +4 (Improved Initiative)                                                                       |
+| Spd               | 30 ft.                                                                                         |
+| Defense           | 22                                                                                             |
+| Touch             | 2                                                                                              |
+| Flat-Footed       | 22                                                                                             |
+| Defense Breakdown | –8 size, +20 natural                                                                           |
+| BAB               | +65                                                                                            |
+| Grap              | +47                                                                                            |
+| Atk               | +75 melee (4d6+25 plus radiation, slam) or +57 ranged                                          |
+| Full Atk          | +75/+70/+65/+60 melee (4d6+25 plus radiation, slam) or +57/+52/+47/+42 ranged                  |
+| FS                | 30 ft. by 30 ft.                                                                               |
+| Reach             | 15 ft.                                                                                         |
+| SQ                | elemental, radiation, engulf (DC 55), breath weapon (DC 64), chain reaction, darkvision 60 ft. |
+| AL                | none                                                                                           |
+| Fort              | +26                                                                                            |
+| Ref               | +12                                                                                            |
+| Will              | +12                                                                                            |
+| AP                | 0                                                                                              |
+| Rep               | +0                                                                                             |
+| Str               | 44                                                                                             |
+| Dex               | 11                                                                                             |
+| Con               | 28                                                                                             |
+| Int               | 13                                                                                             |
+| Wis               | 11                                                                                             |
+| Cha               | 11                                                                                             |
 
 **Skills:** Hide –16, Listen +75, Spot +75, Swim
 +75.
@@ -382,24 +382,24 @@ loss.
 
 **Table: Radiation Exposure**
 
-| | Time of Exposure | | | | |
-|---|---|---|---|---|---|
-| Situation | 1 rnd | 1 min | 10 min | 1 hr | 1 day |
-| **Character in irradiated area:** | | | | | |
-| Lightly irradiated | mild | mild | mild | mild | mild |
-| Moderately irradiated | mild | mild | low | low | low |
-| Highly irradiated | low | low | moderate | moderate | moderate |
-| Severely irradiated | moderate | moderate | high | high | severe |
-| **Character exposed to radiation source:** | | | | | |
-| Mildly radioactive materials | mild | mild | low | low | low |
-| Highly radioactive materials | moderate | moderate | high | high | severe |
-| Severely radioactive materials | moderate | high | severe | severe | severe |
-| **Table: Radiation Sickness** | | | | | |
-| Degree of Exposure | Fort Save DC | **Damage** | | | |
-| Mild | 12 | 1d4–2 Con\* | | | |
-| Low | 15 | 1d6–2 Con\* | | | |
-| Moderate | 18 | 1d6–1 Con | | | |
-| High | 21 | 1d6 Con | | | |
-| Severe | 24 | 2d6 Con | | | |
+|                                            | Time of Exposure |             |          |          |          |
+| ------------------------------------------ | ---------------- | ----------- | -------- | -------- | -------- |
+| Situation                                  | 1 rnd            | 1 min       | 10 min   | 1 hr     | 1 day    |
+| **Character in irradiated area:**          |                  |             |          |          |          |
+| Lightly irradiated                         | mild             | mild        | mild     | mild     | mild     |
+| Moderately irradiated                      | mild             | mild        | low      | low      | low      |
+| Highly irradiated                          | low              | low         | moderate | moderate | moderate |
+| Severely irradiated                        | moderate         | moderate    | high     | high     | severe   |
+| **Character exposed to radiation source:** |                  |             |          |          |          |
+| Mildly radioactive materials               | mild             | mild        | low      | low      | low      |
+| Highly radioactive materials               | moderate         | moderate    | high     | high     | severe   |
+| Severely radioactive materials             | moderate         | high        | severe   | severe   | severe   |
+| **Table: Radiation Sickness**              |                  |             |          |          |          |
+| Degree of Exposure                         | Fort Save DC     | **Damage**  |          |          |          |
+| Mild                                       | 12               | 1d4–2 Con\* |          |          |          |
+| Low                                        | 15               | 1d6–2 Con\* |          |          |          |
+| Moderate                                   | 18               | 1d6–1 Con   |          |          |          |
+| High                                       | 21               | 1d6 Con     |          |          |          |
+| Severe                                     | 24               | 2d6 Con     |          |          |          |
 
 \**Minimum damage 0 Con.*

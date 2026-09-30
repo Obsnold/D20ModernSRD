@@ -1,10 +1,10 @@
 # Ride
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 Animals ill suited as mounts provide a –2 penalty on their rider’s Ride
 check.

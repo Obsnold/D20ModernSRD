@@ -17,12 +17,12 @@ additional weapon after the first. **Restriction:** Licensed (+1).
 
 **Table: Gunner Autocomps**
 
-| Gunner Autocomp | Attack Bonus | Purchase DC¹ |
-|---|---|---|
-| Marksman AI-GA | –2 | 15 |
-| Rattlesnake AI-GX | +0 | 18 |
-| Adder AI-G2 | +2 | 21 |
-| Deadeye AI-G4 | +4 | 24 |
-| Hotshot AI-G8 | +8/+3 | 27 |
+| Gunner Autocomp   | Attack Bonus | Purchase DC¹ |
+| ----------------- | ------------ | ------------ |
+| Marksman AI-GA    | –2           | 15           |
+| Rattlesnake AI-GX | +0           | 18           |
+| Adder AI-G2       | +2           | 21           |
+| Deadeye AI-G4     | +4           | 24           |
+| Hotshot AI-G8     | +8/+3        | 27           |
 
 ¹ Increase the purchase DC by +1 for each additional weapon after the first.

@@ -78,38 +78,38 @@ Weapons Proficiency.
 
 ## Sraosha (Platonic of Contract Enforcement)
 
-| Stat | Value |
-|---|---|
-| CR | 17 |
-| Size/Type | Medium outsider |
-| HD | 15d8+75 |
-| hp | 142 |
-| Mas | 20 |
-| Init | +5 |
-| Spd | 30 ft. |
-| Defense | 32 |
-| Touch | 17 |
-| Flat-Footed | 27 |
-| Defense Breakdown | +5 Dex, +15 natural, +2 deflection |
-| BAB | +15 |
-| Grap | +21 |
-| Atk | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3, *+3 M–16A2*) or +19 ranged (4d8+3, *+2 M–16A2* burst) |
-| Full Atk | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3, *+2 M–16A2*) or +19/+14/+9 ranged (4d8+3, *+2 M16A2* burst) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | aura of menace, spell-like abilities, tongues, extradimensional storage, keen vision, immunities, acid and fire resistance 20, damage reduction 30/+3, SR 25, fast healing 10 |
-| AL | contract enforcement |
-| Fort | +14 |
-| Ref | +14 |
-| Will | +15 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 23 |
-| Dex | 21 |
-| Con | 20 |
-| Int | 20 |
-| Wis | 23 |
-| Cha | 24 |
+| Stat              | Value                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 17                                                                                                                                                                                      |
+| Size/Type         | Medium outsider                                                                                                                                                                         |
+| HD                | 15d8+75                                                                                                                                                                                 |
+| hp                | 142                                                                                                                                                                                     |
+| Mas               | 20                                                                                                                                                                                      |
+| Init              | +5                                                                                                                                                                                      |
+| Spd               | 30 ft.                                                                                                                                                                                  |
+| Defense           | 32                                                                                                                                                                                      |
+| Touch             | 17                                                                                                                                                                                      |
+| Flat-Footed       | 27                                                                                                                                                                                      |
+| Defense Breakdown | +5 Dex, +15 natural, +2 deflection                                                                                                                                                      |
+| BAB               | +15                                                                                                                                                                                     |
+| Grap              | +21                                                                                                                                                                                     |
+| Atk               | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3, *+3 M–16A2*) or +19 ranged (4d8+3, *+2 M–16A2* burst)                               |
+| Full Atk          | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3, *+2 M–16A2*) or +19/+14/+9 ranged (4d8+3, *+2 M16A2* burst) |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                          |
+| Reach             | 5 ft.                                                                                                                                                                                   |
+| SQ                | aura of menace, spell-like abilities, tongues, extradimensional storage, keen vision, immunities, acid and fire resistance 20, damage reduction 30/+3, SR 25, fast healing 10           |
+| AL                | contract enforcement                                                                                                                                                                    |
+| Fort              | +14                                                                                                                                                                                     |
+| Ref               | +14                                                                                                                                                                                     |
+| Will              | +15                                                                                                                                                                                     |
+| AP                | 0                                                                                                                                                                                       |
+| Rep               | +0                                                                                                                                                                                      |
+| Str               | 23                                                                                                                                                                                      |
+| Dex               | 21                                                                                                                                                                                      |
+| Con               | 20                                                                                                                                                                                      |
+| Int               | 20                                                                                                                                                                                      |
+| Wis               | 23                                                                                                                                                                                      |
+| Cha               | 24                                                                                                                                                                                      |
 
 **Skills:** Computer Use +7, Diplomacy +25, Intimidate
 +25, Investigate +23, Knowledge (business) +23, Knowledge (civics) +23,

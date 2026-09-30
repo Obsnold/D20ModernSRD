@@ -1,10 +1,10 @@
 # Treat Injury
 
-| Stat | Value |
-|---|---|
-| Key Ability | Wis |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Wis   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 

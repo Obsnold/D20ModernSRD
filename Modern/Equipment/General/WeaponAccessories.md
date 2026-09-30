@@ -5,26 +5,26 @@ can increase their utility or efficiency.
 
 **Table: General Equipment: Weapon Accessories**
 
-| Object | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|
-| Box magazine | Tiny | 0.5 lb. | 4 | — |
-| **Detonator** | | | | |
-| Blasting cap | Tiny | 0.5 lb. | 4 | Lic (+1) |
-| Radio controlled | Tiny | 0.5 lb. | 10 | Lic (+1) |
-| Timed | Tiny | 0.5 lb. | 7 | Lic (+1) |
-| Wired | Tiny | 1 lb. | 6 | Lic (+1) |
-| **Holster** | | | | |
-| Hip | Tiny | 1 lb. | 5 | — |
-| Concealed carry | Tiny | 0.5 lb. | 5 | — |
-| Illuminator | Tiny | 0.5 lb. | 7 | — |
-| Laser sight | Tiny | 0.5 lb. | 15 | — |
-| **Scope** | | | | |
-| Standard | Tiny | 0.5 lb. | 11 | — |
-| Electro-optical | Small | 3 lb. | 18 | — |
-| Speed loader | Tiny | 0.5 lb. | 3 | — |
-| **Suppressor** | | | | |
-| Pistol | Tiny | 1 lb. | 12 | Mil (+3) |
-| Rifle | Small | 4 lb. | 14 | Mil (+3) |
+| Object           | Size  | Weight  | Purchase DC | Restriction |
+| ---------------- | ----- | ------- | ----------- | ----------- |
+| Box magazine     | Tiny  | 0.5 lb. | 4           | —           |
+| **Detonator**    |       |         |             |             |
+| Blasting cap     | Tiny  | 0.5 lb. | 4           | Lic (+1)    |
+| Radio controlled | Tiny  | 0.5 lb. | 10          | Lic (+1)    |
+| Timed            | Tiny  | 0.5 lb. | 7           | Lic (+1)    |
+| Wired            | Tiny  | 1 lb.   | 6           | Lic (+1)    |
+| **Holster**      |       |         |             |             |
+| Hip              | Tiny  | 1 lb.   | 5           | —           |
+| Concealed carry  | Tiny  | 0.5 lb. | 5           | —           |
+| Illuminator      | Tiny  | 0.5 lb. | 7           | —           |
+| Laser sight      | Tiny  | 0.5 lb. | 15          | —           |
+| **Scope**        |       |         |             |             |
+| Standard         | Tiny  | 0.5 lb. | 11          | —           |
+| Electro-optical  | Small | 3 lb.   | 18          | —           |
+| Speed loader     | Tiny  | 0.5 lb. | 3           | —           |
+| **Suppressor**   |       |         |             |             |
+| Pistol           | Tiny  | 1 lb.   | 12          | Mil (+3)    |
+| Rifle            | Small | 4 lb.   | 14          | Mil (+3)    |
 
 ## Box Magazine
 

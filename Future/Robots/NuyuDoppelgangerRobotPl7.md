@@ -13,37 +13,37 @@ period of a few hours or days.
 
 ## “Nuyu” Replacement Robot
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | construct |
-| HD | 1d10+10 |
-| hp | 15 |
-| Mas | — |
-| Init | +2 (+2 equipment) |
-| Spd | 30 ft. |
-| Defense | 10 |
-| Touch | 10 |
-| Flat-Footed | 10 |
-| BAB | +0 |
-| Grap | +1 |
-| Atk | +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | construct traits, critical systems, darkvision 120 ft., doubled range increments, lifelike appearance |
-| AL | varies |
-| Fort | +0 |
-| Ref | +0 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 12 |
-| Dex | 11 |
-| Con | — |
-| Int | 10 |
-| Wis | 10 |
-| Cha | 12 |
+| Stat        | Value                                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| CR          | 1                                                                                                     |
+| Size        | Medium-size                                                                                           |
+| Type        | construct                                                                                             |
+| HD          | 1d10+10                                                                                               |
+| hp          | 15                                                                                                    |
+| Mas         | —                                                                                                     |
+| Init        | +2 (+2 equipment)                                                                                     |
+| Spd         | 30 ft.                                                                                                |
+| Defense     | 10                                                                                                    |
+| Touch       | 10                                                                                                    |
+| Flat-Footed | 10                                                                                                    |
+| BAB         | +0                                                                                                    |
+| Grap        | +1                                                                                                    |
+| Atk         | +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged                                             |
+| FS          | 5 ft. by 5 ft.                                                                                        |
+| Reach       | 5 ft.                                                                                                 |
+| SQ          | construct traits, critical systems, darkvision 120 ft., doubled range increments, lifelike appearance |
+| AL          | varies                                                                                                |
+| Fort        | +0                                                                                                    |
+| Ref         | +0                                                                                                    |
+| Will        | +0                                                                                                    |
+| AP          | 0                                                                                                     |
+| Rep         | +0                                                                                                    |
+| Str         | 12                                                                                                    |
+| Dex         | 11                                                                                                    |
+| Con         | —                                                                                                     |
+| Int         | 10                                                                                                    |
+| Wis         | 10                                                                                                    |
+| Cha         | 12                                                                                                    |
 
 **Skills:** Bluff +5, Computer Use +4, Diplomacy +5, Disable Device +4,
 Disguise +5, Drive +4, Gather Information +5, Hide +4, Knowledge
@@ -69,7 +69,7 @@ The “Nuyu” doppelganger robot has the following systems and accessories:
 **Skill Software:** Language chips (English, Japanese), skill net (Bluff
 4 ranks, Diplomacy 4 ranks, Disguise 4 ranks, Gather Information 4
 ranks), skill net (Computer Use 4 ranks, Disable Device 4 ranks,
-Knowledge \[current events\] 4 ranks, Repair), skill net (Drive 4 ranks,
+Knowledge [current events] 4 ranks, Repair), skill net (Drive 4 ranks,
 Hide 4 ranks, Move Silently 4 ranks, Sleight of Hand 4 ranks), skill net
 (Listen 4 ranks, Sense Motive 4 ranks, Spot 4 ranks, Survival 4 ranks).
 

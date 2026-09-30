@@ -1,14 +1,14 @@
 # Seed: Destroy
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Knowledge (arcane lore) DC | 30 |
-| Range | Long |
-| Targets | 1 creature, or up to a 10-foot cube of nonliving matter |
-| Duration | Instantaneous |
-| Saving Throw | Fortitude half |
-| Spell Resistance | Yes |
+| Stat                       | Value                                                   |
+| -------------------------- | ------------------------------------------------------- |
+| School                     | Transmutation                                           |
+| Knowledge (arcane lore) DC | 30                                                      |
+| Range                      | Long                                                    |
+| Targets                    | 1 creature, or up to a 10-foot cube of nonliving matter |
+| Duration                   | Instantaneous                                           |
+| Saving Throw               | Fortitude half                                          |
+| Spell Resistance           | Yes                                                     |
 
 You deal 10d6 points of damage to the target. The damage is of no
 particular type or energy—it is purely destructive. For each additional

@@ -65,18 +65,18 @@ The Mystic’s class skills are as follows:
 
 **Table: The Mystic**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +2 | +1 | +1 | Arcane skills, divine spells | +1 | +2 |
-| 2nd | +1 | +3 | +2 | +2 | Turn undead, divine spells | +1 | +2 |
-| 3rd | +1 | +3 | +2 | +2 | Bonus feat, divine spells | +2 | +2 |
-| 4th | +2 | +4 | +2 | +2 | Combat casting, divine spells | +2 | +3 |
-| 5th | +2 | +4 | +3 | +3 | Brew potion, divine spells | +3 | +3 |
-| 6th | +3 | +5 | +3 | +3 | Bonus feat, divine spells | +3 | +3 |
-| 7th | +3 | +5 | +4 | +4 | Discern lie, divine spells | +4 | +4 |
-| 8th | +4 | +6 | +4 | +4 | Turn humans, divine spells | +4 | +4 |
-| 9th | +4 | +6 | +4 | +4 | Bonus feat, divine spells | +5 | +4 |
-| 10th | +5 | +7 | +5 | +5 | Empower spell, divine spells | +5 | +5 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
+| 1st   | +0                | +2        | +1       | +1        | Arcane skills, divine spells  | +1            | +2               |
+| 2nd   | +1                | +3        | +2       | +2        | Turn undead, divine spells    | +1            | +2               |
+| 3rd   | +1                | +3        | +2       | +2        | Bonus feat, divine spells     | +2            | +2               |
+| 4th   | +2                | +4        | +2       | +2        | Combat casting, divine spells | +2            | +3               |
+| 5th   | +2                | +4        | +3       | +3        | Brew potion, divine spells    | +3            | +3               |
+| 6th   | +3                | +5        | +3       | +3        | Bonus feat, divine spells     | +3            | +3               |
+| 7th   | +3                | +5        | +4       | +4        | Discern lie, divine spells    | +4            | +4               |
+| 8th   | +4                | +6        | +4       | +4        | Turn humans, divine spells    | +4            | +4               |
+| 9th   | +4                | +6        | +4       | +4        | Bonus feat, divine spells     | +5            | +4               |
+| 10th  | +5                | +7        | +5       | +5        | Empower spell, divine spells  | +5            | +5               |
 
 ## Class Features
 
@@ -135,45 +135,45 @@ Mystics may not use the spells listed below.
 5th-level: *Mass cure light wounds, mass inflict light wounds, raise
 dead*
 
-| Cha Score | —Bonus Spells by Spell Level— | | | | | |
-|---|---|---|---|---|---|---|
-| | **1** | **2** | **3** | **4** | **5** | |
-| 12–13 | 1 | — | — | — | — | |
-| 14–15 | 1 | 1 | — | — | — | |
-| 16–17 | 1 | 1 | 1 | — | — | |
-| 18–19 | 1 | 1 | 1 | 1 | — | |
-| 20–21 | 2 | 1 | 1 | 1 | 1 | |
-| 22–23 | 2 | 2 | 1 | 1 | 1 | |
-| **Mystic Level** | **—Spells per Day by Spell Level—** | | | | | |
-| | **0** | **1** | **2** | **3** | **4** | **5** |
-| 1 | 3 | 2 | — | — | — | — |
-| 2 | 4 | 3 | — | — | — | — |
-| 3 | 4 | 3 | 2 | — | — | — |
-| 4 | 5 | 4 | 3 | — | — | — |
-| 5 | 5 | 4 | 3 | 2 | — | — |
-| 6 | 5 | 4 | 4 | 3 | — | — |
-| 7 | 6 | 5 | 4 | 3 | 2 | — |
-| 8 | 6 | 5 | 4 | 4 | 3 | — |
-| 9 | 6 | 5 | 5 | 4 | 3 | 2 |
-| 10 | 6 | 5 | 5 | 4 | 4 | 3 |
-| **Mystic Level** | **—Mystic Spells Known—** | | | | | |
-| | **0** | **1** | **2** | **3** | **4** | **5** |
-| 1 | 4 | 2 | — | — | — | — |
-| 2 | 5 | 2 | — | — | — | — |
-| 3 | 5 | 3 | 1 | — | — | — |
-| 4 | 6 | 3 | 2 | — | — | — |
-| 5 | 6 | 4 | 2 | 1 | — | — |
-| 6 | 7 | 4 | 3 | 2 | — | — |
-| 7 | 7 | 5 | 3 | 2 | 1 | — |
-| 8 | 8 | 5 | 4 | 3 | 2 | — |
-| 9 | 8 | 5 | 4 | 3 | 2 | 1 |
-| 10 | 9 | 5 | 5 | 4 | 3 | 2 |
+| Cha Score        | —Bonus Spells by Spell Level—       |       |       |       |       |       |
+| ---------------- | ----------------------------------- | ----- | ----- | ----- | ----- | ----- |
+|                  | **1**                               | **2** | **3** | **4** | **5** |       |
+| 12–13            | 1                                   | —     | —     | —     | —     |       |
+| 14–15            | 1                                   | 1     | —     | —     | —     |       |
+| 16–17            | 1                                   | 1     | 1     | —     | —     |       |
+| 18–19            | 1                                   | 1     | 1     | 1     | —     |       |
+| 20–21            | 2                                   | 1     | 1     | 1     | 1     |       |
+| 22–23            | 2                                   | 2     | 1     | 1     | 1     |       |
+| **Mystic Level** | **—Spells per Day by Spell Level—** |       |       |       |       |       |
+|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
+| 1                | 3                                   | 2     | —     | —     | —     | —     |
+| 2                | 4                                   | 3     | —     | —     | —     | —     |
+| 3                | 4                                   | 3     | 2     | —     | —     | —     |
+| 4                | 5                                   | 4     | 3     | —     | —     | —     |
+| 5                | 5                                   | 4     | 3     | 2     | —     | —     |
+| 6                | 5                                   | 4     | 4     | 3     | —     | —     |
+| 7                | 6                                   | 5     | 4     | 3     | 2     | —     |
+| 8                | 6                                   | 5     | 4     | 4     | 3     | —     |
+| 9                | 6                                   | 5     | 5     | 4     | 3     | 2     |
+| 10               | 6                                   | 5     | 5     | 4     | 4     | 3     |
+| **Mystic Level** | **—Mystic Spells Known—**           |       |       |       |       |       |
+|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
+| 1                | 4                                   | 2     | —     | —     | —     | —     |
+| 2                | 5                                   | 2     | —     | —     | —     | —     |
+| 3                | 5                                   | 3     | 1     | —     | —     | —     |
+| 4                | 6                                   | 3     | 2     | —     | —     | —     |
+| 5                | 6                                   | 4     | 2     | 1     | —     | —     |
+| 6                | 7                                   | 4     | 3     | 2     | —     | —     |
+| 7                | 7                                   | 5     | 3     | 2     | 1     | —     |
+| 8                | 8                                   | 5     | 4     | 3     | 2     | —     |
+| 9                | 8                                   | 5     | 4     | 3     | 2     | 1     |
+| 10               | 9                                   | 5     | 5     | 4     | 3     | 2     |
 
 ### Turn or Rebuke Undead
 
 Starting at 2nd level, the Mystic gains the supernatural ability to
 affect the undead, such as zombies, skeletons, ghosts, and vampires in a
-manner similar to Acolyte*.* However, the Mystic’s allegiance does not
+manner similar to Acolyte\*.\* However, the Mystic’s allegiance does not
 effect the type of effects she has on the undead. Furthermore, the
 Mystic affects undead as if she were an Acolyte of one level lower than
 her current Mystic class.

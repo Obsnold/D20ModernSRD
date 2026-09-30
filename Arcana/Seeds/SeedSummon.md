@@ -1,15 +1,15 @@
 # Seed: Summon
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Knowledge (arcane lore) DC | 32 |
-| Range | Close |
-| Effect | One summoned creature |
-| Duration | Rounds (D) |
-| Saving Throw | Will negates (see text) |
-| Spell Resistance | Yes (see text) |
+| Stat                       | Value                   |
+| -------------------------- | ----------------------- |
+| School                     | Conjuration             |
+| Subschool                  | Summoning               |
+| Knowledge (arcane lore) DC | 32                      |
+| Range                      | Close                   |
+| Effect                     | One summoned creature   |
+| Duration                   | Rounds (D)              |
+| Saving Throw               | Will negates (see text) |
+| Spell Resistance           | Yes (see text)          |
 
 You can summon an outsider. It appears where you designate and acts
 immediately, on your turn, if its spell resistance is overcome and it

@@ -102,39 +102,39 @@ Will and Weapon Finesse (bite).
 
 ## Werewolf in Humanoid Form (Human Strong Hero 5)
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Medium-size |
-| Type | humanoid |
-| HD | 5d8+15 plus 2d8+6 |
-| hp | 52 |
-| Mas | 17 |
-| Init | +2 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +2 Dex, +3 class |
-| BAB | +5 |
-| Grap | +8 |
-| Atk | +8 melee (1d6+6/19–20, cleaver) |
-| Full Atk | +8 melee (1d6+6/19–20, cleaver), or +7 ranged (2d8, Mossberg) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | alternate form, trip, scent, wolf empathy |
-| AL | evil, chaos |
-| Fort | +9 |
-| Ref | +6 |
-| Will | +2 |
-| AP | 2 |
-| Rep | +1 |
-| Str | 16 |
-| Dex | 14 |
-| Con | 17 |
-| Int | 12 |
-| Wis | 12 |
-| Cha | 8 |
+| Stat              | Value                                                         |
+| ----------------- | ------------------------------------------------------------- |
+| CR                | 7                                                             |
+| Size              | Medium-size                                                   |
+| Type              | humanoid                                                      |
+| HD                | 5d8+15 plus 2d8+6                                             |
+| hp                | 52                                                            |
+| Mas               | 17                                                            |
+| Init              | +2                                                            |
+| Spd               | 30 ft.                                                        |
+| Defense           | 15                                                            |
+| Touch             | 15                                                            |
+| Flat-Footed       | 13                                                            |
+| Defense Breakdown | +2 Dex, +3 class                                              |
+| BAB               | +5                                                            |
+| Grap              | +8                                                            |
+| Atk               | +8 melee (1d6+6/19–20, cleaver)                               |
+| Full Atk          | +8 melee (1d6+6/19–20, cleaver), or +7 ranged (2d8, Mossberg) |
+| FS                | 5 ft. by 5 ft.                                                |
+| Reach             | 5 ft.                                                         |
+| SQ                | alternate form, trip, scent, wolf empathy                     |
+| AL                | evil, chaos                                                   |
+| Fort              | +9                                                            |
+| Ref               | +6                                                            |
+| Will              | +2                                                            |
+| AP                | 2                                                             |
+| Rep               | +1                                                            |
+| Str               | 16                                                            |
+| Dex               | 14                                                            |
+| Con               | 17                                                            |
+| Int               | 12                                                            |
+| Wis               | 12                                                            |
+| Cha               | 8                                                             |
 
 **Skills:** Climb +9, Handle Animal +3, Hide +3, Jump +7, Knowledge
 (current events) +5, Knowledge (popular culture) +5, Knowledge
@@ -155,21 +155,21 @@ ammunition, cleaver, casual clothes.
 
 As humanoid form except:
 
-| Stat | Value |
-|---|---|
-| Init | +4 |
-| Spd | 50 ft. |
-| Defense | 17 |
-| Touch | 15 |
-| Flat-Footed | 15 |
-| Defense Breakdown | +2 Dex, +3 class, +2 natural |
-| Grap | +9 |
-| Atk | +9 melee (1d6+7, bite) |
-| Full Atk | +9 melee (1d6+7, bite), or +9 ranged |
-| SQ | alternate form, curse of lycanthropy, trip, scent, damage reduction 15/silver, wolf empathy, darkvision 60 ft. |
-| Ref | +8 |
-| Str | 18 |
-| Dex | 18 |
+| Stat              | Value                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| Init              | +4                                                                                                             |
+| Spd               | 50 ft.                                                                                                         |
+| Defense           | 17                                                                                                             |
+| Touch             | 15                                                                                                             |
+| Flat-Footed       | 15                                                                                                             |
+| Defense Breakdown | +2 Dex, +3 class, +2 natural                                                                                   |
+| Grap              | +9                                                                                                             |
+| Atk               | +9 melee (1d6+7, bite)                                                                                         |
+| Full Atk          | +9 melee (1d6+7, bite), or +9 ranged                                                                           |
+| SQ                | alternate form, curse of lycanthropy, trip, scent, damage reduction 15/silver, wolf empathy, darkvision 60 ft. |
+| Ref               | +8                                                                                                             |
+| Str               | 18                                                                                                             |
+| Dex               | 18                                                                                                             |
 
 **Adjusted Skills:** Climb +10, Hide +5, Jump +8, Move Silently +6, Swim
 +10, Survival +5 (when tracking by scent).
@@ -230,13 +230,13 @@ accumulating enough damage to reduce his or her hit point total to
 three-quarters of its full normal value and again after each additional
 one-quarter lost (save DC same as for full moon).
 
-| Task | DC |
-|---|---|
-| Resist involuntary change | 25 |
-| Return to humanoid form (full moon ¹) | 25 |
-| Return to humanoid form (not full moon) | 20 |
-| Voluntary change (full moon) | 10 |
-| Voluntary change (not full moon) | 15 |
+| Task                                    | DC  |
+| --------------------------------------- | --- |
+| Resist involuntary change               | 25  |
+| Return to humanoid form (full moon ¹)   | 25  |
+| Return to humanoid form (not full moon) | 20  |
+| Voluntary change (full moon)            | 10  |
+| Voluntary change (not full moon)        | 15  |
 
 ¹ For game purposes, the full moon lasts three days every month.
 

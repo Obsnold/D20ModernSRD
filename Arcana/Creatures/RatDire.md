@@ -26,39 +26,39 @@ bonus exceeds their Dexterity bonus.
 
 ## Dire Rat
 
-| Stat | Value |
-|---|---|
-| CR | 1/3 |
-| Size | Small |
-| Type | animal |
-| HD | 1d8+1 |
-| hp | 5 |
-| Mas | 12 |
-| Init | +3 |
-| Spd | 40 ft., climb 20 ft. |
-| Defense | 15 |
-| Touch | 14 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +1 size, +3 Dex, +1 natural |
-| BAB | +0 |
-| Grap | –4 |
-| Atk | +4 melee (1d4, bite) |
-| Full Atk | +4 melee (1d4, bite) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | disease, darkvision 60 ft., scent |
-| AL | none |
-| Fort | +3 |
-| Ref | +5 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 17 |
-| Con | 12 |
-| Int | 1 |
-| Wis | 12 |
-| Cha | 4 |
+| Stat              | Value                             |
+| ----------------- | --------------------------------- |
+| CR                | 1/3                               |
+| Size              | Small                             |
+| Type              | animal                            |
+| HD                | 1d8+1                             |
+| hp                | 5                                 |
+| Mas               | 12                                |
+| Init              | +3                                |
+| Spd               | 40 ft., climb 20 ft.              |
+| Defense           | 15                                |
+| Touch             | 14                                |
+| Flat-Footed       | 12                                |
+| Defense Breakdown | +1 size, +3 Dex, +1 natural       |
+| BAB               | +0                                |
+| Grap              | –4                                |
+| Atk               | +4 melee (1d4, bite)              |
+| Full Atk          | +4 melee (1d4, bite)              |
+| FS                | 5 ft. by 5 ft.                    |
+| Reach             | 5 ft.                             |
+| SQ                | disease, darkvision 60 ft., scent |
+| AL                | none                              |
+| Fort              | +3                                |
+| Ref               | +5                                |
+| Will              | +3                                |
+| AP                | 0                                 |
+| Rep               | +0                                |
+| Str               | 10                                |
+| Dex               | 17                                |
+| Con               | 12                                |
+| Int               | 1                                 |
+| Wis               | 12                                |
+| Cha               | 4                                 |
 
 **Skills:** Climb +14, Hide +11, Move Silently +6, Swim
 +11.
@@ -72,39 +72,39 @@ HD (Large); 13–24 HD (Huge).
 
 ## Advanced Dire Rat
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Large |
-| Type | animal |
-| HD | 9d8+36 |
-| hp | 76 |
-| Mas | 18 |
-| Init | +1 |
-| Spd | 40 ft., climb 20 ft. |
-| Defense | 13 |
-| Touch | 10 |
-| Flat-Footed | 12 |
-| Defense Breakdown | –1 size, +1 Dex, +3 natural |
-| BAB | +6 |
-| Grap | +16 |
-| Atk | +11 melee (1d8+9, bite) |
-| Full Atk | +11 melee (1d8+9, bite) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 5 ft. |
-| SQ | disease, darkvision 60 ft., scent |
-| AL | none |
-| Fort | +3 |
-| Ref | +5 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 13 |
-| Con | 18 |
-| Int | 1 |
-| Wis | 12 |
-| Cha | 4 |
+| Stat              | Value                             |
+| ----------------- | --------------------------------- |
+| CR                | 4                                 |
+| Size              | Large                             |
+| Type              | animal                            |
+| HD                | 9d8+36                            |
+| hp                | 76                                |
+| Mas               | 18                                |
+| Init              | +1                                |
+| Spd               | 40 ft., climb 20 ft.              |
+| Defense           | 13                                |
+| Touch             | 10                                |
+| Flat-Footed       | 12                                |
+| Defense Breakdown | –1 size, +1 Dex, +3 natural       |
+| BAB               | +6                                |
+| Grap              | +16                               |
+| Atk               | +11 melee (1d8+9, bite)           |
+| Full Atk          | +11 melee (1d8+9, bite)           |
+| FS                | 10 ft. by 10 ft.                  |
+| Reach             | 5 ft.                             |
+| SQ                | disease, darkvision 60 ft., scent |
+| AL                | none                              |
+| Fort              | +3                                |
+| Ref               | +5                                |
+| Will              | +3                                |
+| AP                | 0                                 |
+| Rep               | +0                                |
+| Str               | 22                                |
+| Dex               | 13                                |
+| Con               | 18                                |
+| Int               | 1                                 |
+| Wis               | 12                                |
+| Cha               | 4                                 |
 
 **Skills:** Climb +18, Hide +5, Move Silently +4, Swim
 +15.

@@ -1,16 +1,16 @@
 # Scrying
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Arcane 4, Divine 5 |
-| Components | V, S, M/DF, F |
-| Casting Time | 1 hour |
-| Range | See text |
-| Effect | Magical sensor |
-| Duration | 1 minute/level |
-| Saving Throw | Will negates |
-| Spell Resistance | Yes |
+| Stat             | Value              |
+| ---------------- | ------------------ |
+| School           | Divination         |
+| Level            | Arcane 4, Divine 5 |
+| Components       | V, S, M/DF, F      |
+| Casting Time     | 1 hour             |
+| Range            | See text           |
+| Effect           | Magical sensor     |
+| Duration         | 1 minute/level     |
+| Saving Throw     | Will negates       |
+| Spell Resistance | Yes                |
 
 You can see and hear some creature, who may be at any distance. If the
 subject succeeds at a Will save, the scrying attempt fails. The
@@ -20,21 +20,21 @@ Furthermore, if the subject is on another plane or in some other
 dimension (such as the extradimensional space created by a *clown car*
 spell), it gains a +5 circumstance bonus to its Will save.
 
-| Knowledge of Subject | Will Save Modifier |
-|---|---|
-| None\* | +10 |
-| Secondhand (you have heard of the subject) | +5 |
-| Firsthand (you have met the subject) | +0 |
-| Familiar (you know the subject well) | –5 |
+| Knowledge of Subject                       | Will Save Modifier |
+| ------------------------------------------ | ------------------ |
+| None\*                                     | +10                |
+| Secondhand (you have heard of the subject) | +5                 |
+| Firsthand (you have met the subject)       | +0                 |
+| Familiar (you know the subject well)       | –5                 |
 
 \**You must have some sort of connection to a creature you have no
 knowledge of.*
 
-| **Connection** | Will Save Modifier |
-|---|---|
-| Likeness or picture | –2 |
-| Possession or garment | –4 |
-| Body part, lock of hair, nail clippings, etc. | –10 |
+| **Connection**                                | Will Save Modifier |
+| --------------------------------------------- | ------------------ |
+| Likeness or picture                           | –2                 |
+| Possession or garment                         | –4                 |
+| Body part, lock of hair, nail clippings, etc. | –10                |
 
 If the save fails, you can see the subject and the subject’s immediate
 surroundings (approximately 10 feet in all directions of the subject).

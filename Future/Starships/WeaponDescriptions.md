@@ -62,51 +62,51 @@ settings and can’t normally fire single shots.
 
 **Table: Starship Weapons**
 
-| | Weapon Damage | Critical | Damage Type | Range Increment | Rate of Fire | Minimum Ship Size | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age** | | | | | | | | |
-| Fusion beam | 10d8 (45) | 20 | Energy | 3,000 ft. | Single | Gargantuan | 33 | Res (+2) |
-| Gauss gun | 8d12 (52) | 20 | Ballistic | 4,000 ft. | Single¹ | Gargantuan | 35 | Res (+2) |
-| Laser | 6d8 (27) | 20 | Fire | 3,000 ft. | Single¹ | Huge | 28 | Lic (+1) |
-| Laser, heavy | 8d8 (36) | 20 | Fire | 4,000 ft. | Single | Colossal | 31 | Res (+2) |
-| Mine, fusion | 5d100 (275) | — | Energy | — | — | Colossal | 33 | Mil (+3) |
-| Missile, CHE | 6d12 (39) | 19–20 | Ballistic | — | Single | Gargantuan | 25² | Mil (+3) |
-| Missile, KE submunition | 4d12 (26) | 19–20 | Ballistic | — | Single | Gargantuan | 22² | Lic (+1) |
-| Missile, nuclear | 16d8 (72) | 19–20 | Energy | — | Single | Gargantuan | 45² | Mil (+3) |
-| Needle driver | 8d12 (52) | 20 | Ballistic | 4,000 ft. | A | Gargantuan | 36 | Lic (+1) |
-| Neutron gun | 6d8 (27) | 20 | Energy | 5,000 ft. | Single | Colossal | 31 | Mil (+3) |
-| Neutron gun, heavy | 10d8 (45) | 20 | Energy | 6,000 ft. | Single | Colossal | 35 | Mil (+3) |
-| Rail cannon | 6d12 (39) | 20 | Ballistic | 3,000 ft. | Single¹ | Gargantuan | 30 | Lic (+1) |
-| **Progress Level 7: Gravity Age** | | | | | | | | |
-| Antimatter gun | 10d8 (45) | 20 | Energy | 5,000 ft. | Single | Colossal | 38 | Mil (+3) |
-| Mass cannon | 8d12 (52) | 20 | Ballistic | 5,000 ft. | Single | Gargantuan | 37 | Lic (+1) |
-| Mass cannon, heavy | 10d12 (65) | 20 | Ballistic | 6,000 ft. | Single | Colossal | 40 | Res (+2) |
-| Mine, gravitic | 10d100 (550) | — | Energy | — | — | Colossal | 43 | Mil (+3) |
-| Missile, mass reaction | 20d8 (90) | 19–20 | Energy | — | Single | Colossal | 50² | Mil (+3) |
-| Missile, plasma | 18d8 (81) | 19–20 | Fire | — | Single | Gargantuan | 46² | Res (+2) |
-| Particle beam | 12d8 (54) | 20 | Energy | 4,000 ft. | Single | Gargantuan | 36 | Res (+2) |
-| Particle beam, heavy | 16d8 (72) | 20 | Energy | 5,000 ft. | Single | Colossal | 39 | Res (+2) |
-| Plasma cannon | 14d8 (63) | 20 | Fire | 3,000 ft. | Single¹ | Gargantuan | 36 | Lic (+1) |
-| Plasma cannon, heavy | 18d8 (81) | 20 | Fire | 4,000 ft. | Single¹ | Colossal | 39 | Res (+2) |
-| Quantum cannon | 16d8 (72) | 20 | Energy | 6,000 ft. | Single | Gargantuan | 41 | Res (+2) |
-| **Progress Level 8: Energy Age** | | | | | | | | |
-| Automaser | 12d8 (54) | 20 | Energy | 6,000 ft. | A | Colossal | 40 | Res (+2) |
-| EMP cannon | 8d8 (36)³ | 20 | Electricity | 4,000 ft. | Single | Gargantuan | 41 | Res (+2) |
-| Kinetic lance | 10d12 (65) | 20 | Concussion | 3,000 ft. | Single¹ | Colossal | 42 | Res (+2) |
-| Maser cannon | 12d8 (54) | 20 | Energy | 6,000 ft. | Single¹ | Gargantuan | 40 | Lic (+1) |
-| Maser cannon, heavy | 16d8 (72) | 20 | Energy | 8,000 ft. | Single¹ | Colossal | 44 | Res (+2) |
-| Mine, zero point | 15d100 (825) | — | Energy | — | — | Colossal | 48 | Mil (+3) |
-| Missile, nova burst | 12d8 (54) | 19–20 | Ballistic/ Energy | — | Single | Gargantuan | 45² | Mil (+3) |
-| Missile, starload | 20d8 (90) | 19–20 | Energy | — | Single | Huge | 45² | Mil (+3) |
-| Neutronium driver | 12d12 (78) | 20 | Ballistic | 5,000 ft. | Single | Colossal | 42 | Mil (+3) |
-| Sliver gun | 8d12 (52) | 20 | Ballistic | 3,000 ft. | S, A | Gargantuan | 39 | Res (+2) |
-| Zero bore | 16d8 (72) | 20 | Energy | 6,000 ft. | Single | Colossal | 52 | Mil (+3) |
-| **Progress Level 9: Matter Age** | | | | | | | | |
-| Blacklaser | 16d8 (72) | 20 | Energy | 8,000 ft. | S, A | Huge | 50 | Mil (+3) |
-| Mine, null⁴ | 10d100 (550) | — | Energy | — | — | Colossal | 53 | Mil (+3) |
-| Singularity cannon | 20d8 (90) | 20 | Energy | 5,000 ft. | Single | Colossal | 53 | Mil (+3) |
-| String projector | 12d12 (78) | 20 | Energy | 6,000 ft. | Single | Colossal | 54 | Mil (+3) |
-| Tachyon gun | 14d8 (63) | 20 | Energy | 10,000 ft. | Single | Gargantuan | 52 | Mil (+3) |
+|                                   | Weapon Damage | Critical | Damage Type       | Range Increment | Rate of Fire | Minimum Ship Size | Purchase DC | Restriction |
+| --------------------------------- | ------------- | -------- | ----------------- | --------------- | ------------ | ----------------- | ----------- | ----------- |
+| **Progress Level 6: Fusion Age**  |               |          |                   |                 |              |                   |             |             |
+| Fusion beam                       | 10d8 (45)     | 20       | Energy            | 3,000 ft.       | Single       | Gargantuan        | 33          | Res (+2)    |
+| Gauss gun                         | 8d12 (52)     | 20       | Ballistic         | 4,000 ft.       | Single¹      | Gargantuan        | 35          | Res (+2)    |
+| Laser                             | 6d8 (27)      | 20       | Fire              | 3,000 ft.       | Single¹      | Huge              | 28          | Lic (+1)    |
+| Laser, heavy                      | 8d8 (36)      | 20       | Fire              | 4,000 ft.       | Single       | Colossal          | 31          | Res (+2)    |
+| Mine, fusion                      | 5d100 (275)   | —        | Energy            | —               | —            | Colossal          | 33          | Mil (+3)    |
+| Missile, CHE                      | 6d12 (39)     | 19–20    | Ballistic         | —               | Single       | Gargantuan        | 25²         | Mil (+3)    |
+| Missile, KE submunition           | 4d12 (26)     | 19–20    | Ballistic         | —               | Single       | Gargantuan        | 22²         | Lic (+1)    |
+| Missile, nuclear                  | 16d8 (72)     | 19–20    | Energy            | —               | Single       | Gargantuan        | 45²         | Mil (+3)    |
+| Needle driver                     | 8d12 (52)     | 20       | Ballistic         | 4,000 ft.       | A            | Gargantuan        | 36          | Lic (+1)    |
+| Neutron gun                       | 6d8 (27)      | 20       | Energy            | 5,000 ft.       | Single       | Colossal          | 31          | Mil (+3)    |
+| Neutron gun, heavy                | 10d8 (45)     | 20       | Energy            | 6,000 ft.       | Single       | Colossal          | 35          | Mil (+3)    |
+| Rail cannon                       | 6d12 (39)     | 20       | Ballistic         | 3,000 ft.       | Single¹      | Gargantuan        | 30          | Lic (+1)    |
+| **Progress Level 7: Gravity Age** |               |          |                   |                 |              |                   |             |             |
+| Antimatter gun                    | 10d8 (45)     | 20       | Energy            | 5,000 ft.       | Single       | Colossal          | 38          | Mil (+3)    |
+| Mass cannon                       | 8d12 (52)     | 20       | Ballistic         | 5,000 ft.       | Single       | Gargantuan        | 37          | Lic (+1)    |
+| Mass cannon, heavy                | 10d12 (65)    | 20       | Ballistic         | 6,000 ft.       | Single       | Colossal          | 40          | Res (+2)    |
+| Mine, gravitic                    | 10d100 (550)  | —        | Energy            | —               | —            | Colossal          | 43          | Mil (+3)    |
+| Missile, mass reaction            | 20d8 (90)     | 19–20    | Energy            | —               | Single       | Colossal          | 50²         | Mil (+3)    |
+| Missile, plasma                   | 18d8 (81)     | 19–20    | Fire              | —               | Single       | Gargantuan        | 46²         | Res (+2)    |
+| Particle beam                     | 12d8 (54)     | 20       | Energy            | 4,000 ft.       | Single       | Gargantuan        | 36          | Res (+2)    |
+| Particle beam, heavy              | 16d8 (72)     | 20       | Energy            | 5,000 ft.       | Single       | Colossal          | 39          | Res (+2)    |
+| Plasma cannon                     | 14d8 (63)     | 20       | Fire              | 3,000 ft.       | Single¹      | Gargantuan        | 36          | Lic (+1)    |
+| Plasma cannon, heavy              | 18d8 (81)     | 20       | Fire              | 4,000 ft.       | Single¹      | Colossal          | 39          | Res (+2)    |
+| Quantum cannon                    | 16d8 (72)     | 20       | Energy            | 6,000 ft.       | Single       | Gargantuan        | 41          | Res (+2)    |
+| **Progress Level 8: Energy Age**  |               |          |                   |                 |              |                   |             |             |
+| Automaser                         | 12d8 (54)     | 20       | Energy            | 6,000 ft.       | A            | Colossal          | 40          | Res (+2)    |
+| EMP cannon                        | 8d8 (36)³     | 20       | Electricity       | 4,000 ft.       | Single       | Gargantuan        | 41          | Res (+2)    |
+| Kinetic lance                     | 10d12 (65)    | 20       | Concussion        | 3,000 ft.       | Single¹      | Colossal          | 42          | Res (+2)    |
+| Maser cannon                      | 12d8 (54)     | 20       | Energy            | 6,000 ft.       | Single¹      | Gargantuan        | 40          | Lic (+1)    |
+| Maser cannon, heavy               | 16d8 (72)     | 20       | Energy            | 8,000 ft.       | Single¹      | Colossal          | 44          | Res (+2)    |
+| Mine, zero point                  | 15d100 (825)  | —        | Energy            | —               | —            | Colossal          | 48          | Mil (+3)    |
+| Missile, nova burst               | 12d8 (54)     | 19–20    | Ballistic/ Energy | —               | Single       | Gargantuan        | 45²         | Mil (+3)    |
+| Missile, starload                 | 20d8 (90)     | 19–20    | Energy            | —               | Single       | Huge              | 45²         | Mil (+3)    |
+| Neutronium driver                 | 12d12 (78)    | 20       | Ballistic         | 5,000 ft.       | Single       | Colossal          | 42          | Mil (+3)    |
+| Sliver gun                        | 8d12 (52)     | 20       | Ballistic         | 3,000 ft.       | S, A         | Gargantuan        | 39          | Res (+2)    |
+| Zero bore                         | 16d8 (72)     | 20       | Energy            | 6,000 ft.       | Single       | Colossal          | 52          | Mil (+3)    |
+| **Progress Level 9: Matter Age**  |               |          |                   |                 |              |                   |             |             |
+| Blacklaser                        | 16d8 (72)     | 20       | Energy            | 8,000 ft.       | S, A         | Huge              | 50          | Mil (+3)    |
+| Mine, null⁴                       | 10d100 (550)  | —        | Energy            | —               | —            | Colossal          | 53          | Mil (+3)    |
+| Singularity cannon                | 20d8 (90)     | 20       | Energy            | 5,000 ft.       | Single       | Colossal          | 53          | Mil (+3)    |
+| String projector                  | 12d12 (78)    | 20       | Energy            | 6,000 ft.       | Single       | Colossal          | 54          | Mil (+3)    |
+| Tachyon gun                       | 14d8 (63)     | 20       | Energy            | 10,000 ft.      | Single       | Gargantuan        | 52          | Mil (+3)    |
 
 ¹ With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.
 2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.

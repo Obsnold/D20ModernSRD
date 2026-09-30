@@ -1,22 +1,22 @@
 # Handle Animal
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | Yes |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | Yes   |
+| Armor Penalty | No    |
 
 ## Check
 
 The time required to get an effect and the DC depend on what
 the character is trying to do.
 
-| Task | Time | DC |
-|---|---|---|
-| Handle an animal | Move action | 10 |
-| “Push” an animal | Full-round action | 25 |
-| Teach an animal a trick | 1 week | See text |
-| Train an animal for a purpose | See text | See text |
+| Task                          | Time              | DC       |
+| ----------------------------- | ----------------- | -------- |
+| Handle an animal              | Move action       | 10       |
+| “Push” an animal              | Full-round action | 25       |
+| Teach an animal a trick       | 1 week            | See text |
+| Train an animal for a purpose | See text          | See text |
 
 **Handle an Animal:** This means to command an animal to perform a task
 or trick that it knows. If the animal is wounded or has taken any

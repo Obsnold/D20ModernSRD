@@ -1,16 +1,16 @@
 # Magic ID
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Level | Arcane 0 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Touch |
-| Effect | Illusory identification card |
-| Duration | See description |
-| Saving Throw | Will disbelief (if interacted with) |
-| Spell Resistance | No |
+| Stat             | Value                               |
+| ---------------- | ----------------------------------- |
+| School           | Illusion                            |
+| Level            | Arcane 0                            |
+| Components       | V, S, F                             |
+| Casting Time     | Attack action                       |
+| Range            | Touch                               |
+| Effect           | Illusory identification card        |
+| Duration         | See description                     |
+| Saving Throw     | Will disbelief (if interacted with) |
+| Spell Resistance | No                                  |
 
 With this glamer, you make a small card or slip of paper appear to be a
 valid identification card of your choosing. The card bears your name,

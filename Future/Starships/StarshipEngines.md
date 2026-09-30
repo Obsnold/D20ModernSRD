@@ -14,7 +14,7 @@ on the skill check. The character must also make a Wealth check against
 the engine’s purchase DC.
 
 Installing an engine requires a successful Craft (mechanical) check (DC
-30) after investing 60 hours in the process. A character without a
+30\) after investing 60 hours in the process. A character without a
 mechanical tool kit takes a –4 penalty on the skill check.
 
 The various types of engines are listed below.

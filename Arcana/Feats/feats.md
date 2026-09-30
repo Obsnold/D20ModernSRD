@@ -41,19 +41,19 @@ descriptions for the spells that a particular feat can’t modify.
 
 **Table: Metamagic Spell Level Adjustments**
 
-| Feat | Level Adjustment |
-|---|---|
-| Empower Spell | +2 |
-| Enlarge Spell | +1 |
-| Eschew Materials | None |
-| Extend Spell | +1 |
-| Heighten Spell | Special (see text) |
-| Nonlethal Spell | +1 |
-| Reach Spell | +2 |
-| Sacred Spell | +2 |
-| Shadowbane Spell | +1 |
-| Silent Spell | +1 |
-| Still Spell | +1 |
+| Feat             | Level Adjustment   |
+| ---------------- | ------------------ |
+| Empower Spell    | +2                 |
+| Enlarge Spell    | +1                 |
+| Eschew Materials | None               |
+| Extend Spell     | +1                 |
+| Heighten Spell   | Special (see text) |
+| Nonlethal Spell  | +1                 |
+| Reach Spell      | +2                 |
+| Sacred Spell     | +2                 |
+| Shadowbane Spell | +1                 |
+| Silent Spell     | +1                 |
+| Still Spell      | +1                 |
 
 ## Preparing and Casting Metamagic Spells
 
@@ -124,12 +124,12 @@ following psionic feats function as the named spell-related feats. Treat
 references to spells as powers within these descriptions, and references
 to caster level as manifester level.
 
-| Psionic Feat | Functions As |
-|---|---|
-| Power Penetration | As Spell Penetration |
-| Power Focus | As Spell Focus |
+| Psionic Feat            | Functions As                 |
+| ----------------------- | ---------------------------- |
+| Power Penetration       | As Spell Penetration         |
+| Power Focus             | As Spell Focus               |
 | Great Power Penetration | As Greater Spell Penetration |
-| Greater Power Focus | As Greater Spell Focus |
+| Greater Power Focus     | As Greater Spell Focus       |
 
 Feats that require the choice of a school of spells would for its
 psionic equivalent require choosing an attribute (ability score), to the

@@ -1,10 +1,10 @@
 # Investigate
 
-| Stat | Value |
-|---|---|
-| Key Ability | Int |
-| Trained Only | Yes |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Int   |
+| Trained Only  | Yes   |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -24,13 +24,13 @@ The base DC to analyze a clue is 15. It is modified by the time that has
 elapsed since the clue was left, and whether or not the scene was
 disturbed.
 
-| Circumstances | DC Modifier |
-|---|---|
-| Every day since event (max modifier +10) | +2 |
-| Scene is outdoors | +5 |
-| Scene slightly disturbed | +2 |
-| Scene moderately disturbed | +4 |
-| Scene extremely disturbed | +6 |
+| Circumstances                            | DC Modifier |
+| ---------------------------------------- | ----------- |
+| Every day since event (max modifier +10) | +2          |
+| Scene is outdoors                        | +5          |
+| Scene slightly disturbed                 | +2          |
+| Scene moderately disturbed               | +4          |
+| Scene extremely disturbed                | +6          |
 
 **Collect Evidence:** The character can collect and prepare evidentiary
 material for a lab. This use of the Investigate skill requires an

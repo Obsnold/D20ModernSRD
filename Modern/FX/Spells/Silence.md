@@ -1,16 +1,16 @@
 # Silence
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Level | Acolyte 2 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Long (400 ft. + 40 ft./level) |
-| Area | 15-ft.-radius emanation centered on a creature, object, or point in space |
-| Duration | 1 minute/level |
-| Saving Throw | Will negates or none (object) |
-| Spell Resistance | Yes or no (object) |
+| Stat             | Value                                                                     |
+| ---------------- | ------------------------------------------------------------------------- |
+| School           | Illusion                                                                  |
+| Level            | Acolyte 2                                                                 |
+| Components       | V, S                                                                      |
+| Casting Time     | Attack action                                                             |
+| Range            | Long (400 ft. + 40 ft./level)                                             |
+| Area             | 15-ft.-radius emanation centered on a creature, object, or point in space |
+| Duration         | 1 minute/level                                                            |
+| Saving Throw     | Will negates or none (object)                                             |
+| Spell Resistance | Yes or no (object)                                                        |
 
 Upon the casting of this spell, complete silence prevails in the
 affected area. All sound is stopped: Conversation is impossible, spells

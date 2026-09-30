@@ -11,12 +11,12 @@ activated by command word or use-activated.
 level + its FX modifier. The FX modifier depends on the item’s nature,
 as shown on the table below:
 
-| Item’s Nature | FX Modifier |
-|---|---|
-| Single-use item | — |
-| Continuous effect or bonus ¹ | +3 |
-| Limited number of uses per day | +2 |
-| Limited number of charges | +1 |
+| Item’s Nature                  | FX Modifier |
+| ------------------------------ | ----------- |
+| Single-use item                | —           |
+| Continuous effect or bonus ¹   | +3          |
+| Limited number of uses per day | +2          |
+| Limited number of charges      | +1          |
 
 ¹ See Limit on FX Items Worn. A continuous effect item that does not take up one of these limited spaces has a +4 FX modifier (instead of +3).
 
@@ -24,12 +24,12 @@ Examples of wondrous items include the following.
 
 ## Chemical Light Stick of Revealing
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 3rd |
-| Purchase DC | 29 |
-| Weight | 1 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 29                    |
+| Weight       | 1 lb.                 |
 
 This FX item reveals invisible
 creatures and objects within its 5-foot light radius. This magic item
@@ -39,12 +39,12 @@ The purchase DC and weight given below are for a pack of five.
 
 ## Crystal Pistol
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (psionic) |
-| Manifester Level | 3rd |
-| Purchase DC | 29 |
-| Weight | 2 lb. |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| Type             | Wondrous Item (psionic) |
+| Manifester Level | 3rd                     |
+| Purchase DC      | 29                      |
+| Weight           | 2 lb.                   |
 
 This item is the same size as a Small handgun. Pulling
 the trigger activates the psionic energy stored inside the crystal. The
@@ -61,12 +61,12 @@ of opportunity.
 
 ## Duct Tape of Repair
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 5th |
-| Purchase DC | 31 |
-| Weight | 1 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 31                    |
+| Weight       | 1 lb.                 |
 
 This magic brand of duct tape can repair damaged
 objects and vehicles. When a 5-foot strip of the duct tape is applied to
@@ -79,12 +79,12 @@ full-round action that provokes attacks of opportunity.
 
 ## Gauntlet of Lightning
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 5th |
-| Purchase DC | 32 |
-| Weight | 1 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 32                    |
+| Weight       | 1 lb.                 |
 
 This gauntlet allows its wearer to cast lightning
 bolt 3 times per day. Each bolt deals 5d6 points of electricity damage,
@@ -93,12 +93,12 @@ attack action and does not provoke attacks of opportunity.
 
 ## Icethrower
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 9th |
-| Purchase DC | 35 |
-| Weight | 50 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 9th                   |
+| Purchase DC  | 35                    |
+| Weight       | 50 lb.                |
 
 This backpack and spray nozzle looks similar to a
 flamethrower but shoots a 45-foot-long cone of cold that deals 9d6
@@ -111,12 +111,12 @@ shots but can be replenished (at the cost of the item’s purchase DC).
 
 ## Jade Crocodile
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 6th |
-| Purchase DC | 33 |
-| Weight | —. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 6th                   |
+| Purchase DC  | 33                    |
+| Weight       | —.                    |
 
 When the owner sets down this figurine and speaks the
 proper command word, the figurine instantly transforms into a crocodile
@@ -130,12 +130,12 @@ has a Defense of 8, hardness 5, 6 hit points, and a break DC of 22.
 
 ## Leather Jacket of Damage Reduction
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 3rd |
-| Purchase DC | 31 |
-| Weight | 4 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | 4 lb.                 |
 
 In addition to providing the usual
 +1 equipment bonus to Defense, this well-worn leather jacket reduces the
@@ -144,12 +144,12 @@ damage to its wearer from any melee and ranged weapon attack by 1 point
 
 ## Running Shoes of Striding and Springing
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 5th |
-| Purchase DC | 33 |
-| Weight | 1 lb. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | 1 lb.                 |
 
 The wearer of these shoes moves
 at double his or her normal speed. In addition, these shoes grant a +10
@@ -157,12 +157,12 @@ equipment bonus on Jump checks.
 
 ## Screaming Amulet
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (psionic) |
-| Manifester Level | 7th |
-| Purchase DC | 34 |
-| Weight | —. |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| Type             | Wondrous Item (psionic) |
+| Manifester Level | 7th                     |
+| Purchase DC      | 34                      |
+| Weight           | —.                      |
 
 As an attack action, the wearer can cause the amulet
 to emit a horrid psionic shriek that disrupts the brain waves of every
@@ -175,12 +175,12 @@ points to spend, he or she cannot activate the item.
 
 ## Six-Demon Bag
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
-| Caster Level | 5th |
-| Purchase DC | 34 |
-| Weight | —. |
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 34                    |
+| Weight       | —.                    |
 
 So long as the bag remains bound, the possessor gains a
 +1 luck bonus on all saves. Opening or sealing the bag is a move action
@@ -211,12 +211,12 @@ properties.
 
 ## Windbreaker of Resistance
 
-| Stat | Value |
-|---|---|
-| Type | Wondrous Item (magic) |
+| Stat         | Value                         |
+| ------------ | ----------------------------- |
+| Type         | Wondrous Item (magic)         |
 | Caster Level | 4th (+1), 7th (+2), 10th (+3) |
-| Purchase DC | 22 (+1), 25 (+2), 28 (+3) |
-| Weight | 1 lb. |
+| Purchase DC  | 22 (+1), 25 (+2), 28 (+3)     |
+| Weight       | 1 lb.                         |
 
 This garment offers magic protection in the
 form of a +1 to +3 resistance bonus on all saving throws.

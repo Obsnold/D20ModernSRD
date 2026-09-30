@@ -5,11 +5,11 @@ bank personnel, financial advisors, tax preparers, clerks, sales
 personnel, real estate agents, and a variety of mid-level managers fall
 within the scope of this starting occupation.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 23+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +3 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 23+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +3      |
 
 ## Skills
 

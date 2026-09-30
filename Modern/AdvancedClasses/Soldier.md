@@ -51,18 +51,18 @@ The Soldier’s class skills (and the key ability for each skill) are:
 
 **Table: The Soldier**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +1 | +1 | +0 | Weapon Focus | +1 | +0 |
-| 2nd | +1 | +2 | +2 | +0 | Weapon specialization | +1 | +0 |
-| 3rd | +2 | +2 | +2 | +1 | Bonus feat | +2 | +0 |
-| 4th | +3 | +2 | +2 | +1 | Tactical aid | +2 | +0 |
-| 5th | +3 | +3 | +3 | +1 | Improved critical | +3 | +1 |
-| 6th | +4 | +3 | +3 | +2 | Bonus feat | +3 | +1 |
-| 7th | +5 | +4 | +4 | +2 | Improved reaction | +4 | +1 |
-| 8th | +6 | +4 | +4 | +2 | Greater weapon specialization | +4 | +1 |
-| 9th | +6 | +4 | +4 | +3 | Bonus feat | +5 | +2 |
-| 10th | +7 | +5 | +5 | +3 | Critical strike | +5 | +2 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +1        | +1       | +0        | Weapon Focus                  | +1            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Weapon specialization         | +1            | +0               |
+| 3rd         | +2                | +2        | +2       | +1        | Bonus feat                    | +2            | +0               |
+| 4th         | +3                | +2        | +2       | +1        | Tactical aid                  | +2            | +0               |
+| 5th         | +3                | +3        | +3       | +1        | Improved critical             | +3            | +1               |
+| 6th         | +4                | +3        | +3       | +2        | Bonus feat                    | +3            | +1               |
+| 7th         | +5                | +4        | +4       | +2        | Improved reaction             | +4            | +1               |
+| 8th         | +6                | +4        | +4       | +2        | Greater weapon specialization | +4            | +1               |
+| 9th         | +6                | +4        | +4       | +3        | Bonus feat                    | +5            | +2               |
+| 10th        | +7                | +5        | +5       | +3        | Critical strike               | +5            | +2               |
 
 ## Class Features
 

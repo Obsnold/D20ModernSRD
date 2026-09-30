@@ -1,18 +1,18 @@
 # Create Undead
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Descriptors | Evil |
-| Skill Check | Knowledge (arcane lore) DC 31, 7 successes |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, M, XP |
-| Casting Time | 7 hours (minimum) |
-| Range | Touch |
-| Target | One corpse or skeleton |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                      |
+| ---------------- | ------------------------------------------ |
+| School           | Necromancy                                 |
+| Descriptors      | Evil                                       |
+| Skill Check      | Knowledge (arcane lore) DC 31, 7 successes |
+| Failure          | Two consecutive failed skill checks        |
+| Components       | V, S, M, XP                                |
+| Casting Time     | 7 hours (minimum)                          |
+| Range            | Touch                                      |
+| Target           | One corpse or skeleton                     |
+| Duration         | Instantaneous                              |
+| Saving Throw     | None                                       |
+| Spell Resistance | No                                         |
 
 Much more potent than the *animate dead* spell, this evil incantation
 allows you to create a powerful undead creature from the creature’s dead
@@ -34,12 +34,12 @@ spirit +0, mummy +0, Large liquefied zombie +0, possessing spirit +2,
 Huge liquefied zombie +2, ash wraith +4, Gargantuan liquefied zombie +8,
 Colossal liquefied zombie +10. If you’re creating a vampire, increase
 the DC of the Knowledge (arcane lore) check by the vampire’s Hit Dice +
-4.
+4\.
 
 *Material Components:* A clay pot filled with grave dirt and another
 filled with brackish water. The spell requires a creature’s corpse or
 complete skeletal remains. You must place a black onyx gem (purchase DC
-20) into the mouth of the corpse or skeleton. The magic of the spell
+20\) into the mouth of the corpse or skeleton. The magic of the spell
 turns the gem into a worthless shell.
 
 *Experience Point Cost:* 100 XP.

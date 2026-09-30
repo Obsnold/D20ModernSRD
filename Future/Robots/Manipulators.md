@@ -8,11 +8,11 @@ A Medium-size or smaller robot may have up to two functioning
 manipulators. Larger robots may be equipped with a greater number of
 functioning manipulators, as determined by their size:
 
-| Robot’s Frame Size | Manipulators |
-|---|---|
-| Medium-size or smaller | Up to 2 |
-| Large | Up to 4 |
-| Huge or larger | Up to 8 |
+| Robot’s Frame Size     | Manipulators |
+| ---------------------- | ------------ |
+| Medium-size or smaller | Up to 2      |
+| Large                  | Up to 4      |
+| Huge or larger         | Up to 8      |
 
 To build a manipulator from scratch, a character must succeed at a Craft
 (mechanical) check (DC 25) after investing 24 hours in its construction.
@@ -38,17 +38,17 @@ above).
 
 **Table: Manipulator Damage**
 
-| | ——————————————— Robot Size ——————————————— | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|
-| **Manipulator Type** | **Fine** | **Diminutive** | **Tiny** | **Small** | **Medium-size** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
-| Advanced Hand**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
-| Claw | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 |
-| Hand**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
-| Jaws | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 |
-| Pincer | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
-| Probe | — | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 |
-| Special-Use Gripper**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
-| Task Hand**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+|                          | ——————————————— Robot Size ——————————————— |                |          |           |                 |           |          |                |              |
+| ------------------------ | ------------------------------------------ | -------------- | -------- | --------- | --------------- | --------- | -------- | -------------- | ------------ |
+| **Manipulator Type**     | **Fine**                                   | **Diminutive** | **Tiny** | **Small** | **Medium-size** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
+| Advanced Hand**¹**       | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Claw                     | —                                          | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
+| Hand**¹**                | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Jaws                     | —                                          | 1              | 1d2      | 1d3       | 1d4             | 1d6       | 1d8      | 2d6            | 2d8          |
+| Pincer                   | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Probe                    | —                                          | —              | —        | 1         | 1d2             | 1d3       | 1d4      | 1d6            | 1d8          |
+| Special-Use Gripper**¹** | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
+| Task Hand**¹**           | —                                          | —              | 1        | 1d2       | 1d3             | 1d4       | 1d6      | 1d8            | 2d6          |
 
 ¹ This type of manipulator deals nonlethal damage only.
 

@@ -64,18 +64,18 @@ nonhumans).
 
 **Table: The Swindler**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +2 | Cheat fate | +0 | +0 |
-| 2nd | +1 | +0 | +2 | +3 | Thousand faces | +1 | +0 |
-| 3rd | +2 | +1 | +2 | +3 | Bonus feat | +1 | +1 |
-| 4th | +3 | +1 | +2 | +4 | Fortune’s favor (+2) | +1 | +1 |
-| 5th | +3 | +1 | +3 | +4 | Warp probability (30 ft.) | +2 | +1 |
-| 6th | +4 | +2 | +3 | +5 | Bonus feat | +2 | +2 |
-| 7th | +5 | +2 | +4 | +5 | Fortune’s favor (+4) | +2 | +2 |
-| 8th | +6 | +2 | +4 | +6 | Warp probability (60 ft.) | +3 | +2 |
-| 9th | +6 | +3 | +4 | +6 | Bonus feat | +3 | +3 |
-| 10th | +7 | +3 | +5 | +7 | Fortune’s favor (+6) | +3 | +3 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                   | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +1       | +2        | Cheat fate                | +0            | +0               |
+| 2nd         | +1                | +0        | +2       | +3        | Thousand faces            | +1            | +0               |
+| 3rd         | +2                | +1        | +2       | +3        | Bonus feat                | +1            | +1               |
+| 4th         | +3                | +1        | +2       | +4        | Fortune’s favor (+2)      | +1            | +1               |
+| 5th         | +3                | +1        | +3       | +4        | Warp probability (30 ft.) | +2            | +1               |
+| 6th         | +4                | +2        | +3       | +5        | Bonus feat                | +2            | +2               |
+| 7th         | +5                | +2        | +4       | +5        | Fortune’s favor (+4)      | +2            | +2               |
+| 8th         | +6                | +2        | +4       | +6        | Warp probability (60 ft.) | +3            | +2               |
+| 9th         | +6                | +3        | +4       | +6        | Bonus feat                | +3            | +3               |
+| 10th        | +7                | +3        | +5       | +7        | Fortune’s favor (+6)      | +3            | +3               |
 
 ## Class Features
 

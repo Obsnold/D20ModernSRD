@@ -68,17 +68,17 @@ hero begins play with the Simple Weapons Proficiency feat.
 ## Class Table
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Talent | +0 | +1 |
-| 2nd | +1 | +0 | +0 | +2 | Bonus feat | +1 | +1 |
-| 3rd | +1 | +1 | +1 | +2 | Talent | +1 | +1 |
-| 4th | +2 | +1 | +1 | +2 | Bonus feat | +1 | +2 |
-| 5th | +2 | +1 | +1 | +3 | Talent | +2 | +2 |
-| 6th | +3 | +2 | +2 | +3 | Bonus feat | +2 | +2 |
-| 7th | +3 | +2 | +2 | +4 | Talent | +2 | +3 |
-| 8th | +4 | +2 | +2 | +4 | Bonus feat | +3 | +3 |
-| 9th | +4 | +3 | +3 | +4 | Talent | +3 | +3 |
-| 10th | +5 | +3 | +3 | +5 | Bonus feat | +3 | +4 |
+| ----------- | ----------------- | --------- | -------- | --------- | -------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +1        | Talent         | +0            | +1               |
+| 2nd         | +1                | +0        | +0       | +2        | Bonus feat     | +1            | +1               |
+| 3rd         | +1                | +1        | +1       | +2        | Talent         | +1            | +1               |
+| 4th         | +2                | +1        | +1       | +2        | Bonus feat     | +1            | +2               |
+| 5th         | +2                | +1        | +1       | +3        | Talent         | +2            | +2               |
+| 6th         | +3                | +2        | +2       | +3        | Bonus feat     | +2            | +2               |
+| 7th         | +3                | +2        | +2       | +4        | Talent         | +2            | +3               |
+| 8th         | +4                | +2        | +2       | +4        | Bonus feat     | +3            | +3               |
+| 9th         | +4                | +3        | +3       | +4        | Talent         | +3            | +3               |
+| 10th        | +5                | +3        | +3       | +5        | Bonus feat     | +3            | +4               |
 
 ## Class Features
 
@@ -176,12 +176,12 @@ After creating the plan the Smart hero makes an Intelligence check
 check provides the Smart hero and allies with a circumstance bonus. A
 Smart hero can’t take 10 or 20 when making this check.
 
-| Check Result | Bonus |
-|---|---|
-| 9 or lower | +0 (check failed) |
-| 10–14 | +1 |
-| 15–24 | +2 |
-| 25 or higher | +3 |
+| Check Result | Bonus             |
+| ------------ | ----------------- |
+| 9 or lower   | +0 (check failed) |
+| 10–14        | +1                |
+| 15–24        | +2                |
+| 25 or higher | +3                |
 
 This bonus can be applied to all skill checks and attack rolls made by
 the Smart hero and his or her allies, but the bonus only lasts for the

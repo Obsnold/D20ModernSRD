@@ -56,13 +56,13 @@ Systems).
 
 **Table: Damage Control System**
 
-| Ship Type | Hit Points Restored | Purchase DC |
-|---|---|---|
-| Ultralight | 1d10 | 18 |
-| Light | 2d10 | 22 |
-| Mediumweight | 3d10 | 27 |
-| Heavy | 4d10 | 33 |
-| Superheavy | 5d10 | 40 |
+| Ship Type    | Hit Points Restored | Purchase DC |
+| ------------ | ------------------- | ----------- |
+| Ultralight   | 1d10                | 18          |
+| Light        | 2d10                | 22          |
+| Mediumweight | 3d10                | 27          |
+| Heavy        | 4d10                | 33          |
+| Superheavy   | 5d10                | 40          |
 
 ## Sensor Jammer (pl 5)
 
@@ -188,12 +188,12 @@ Systems).
 **Table: Point-Defense Systems**
 
 | Starship Type | Point-Defense Damage | Purchase DC |
-|---|---|---|
-| Ultralight | 1d12×10 | 31 |
-| Light | 2d12×10 | 34 |
-| Mediumweight | 3d12×10 | 36 |
-| Heavy | 4d12×10 | 38 |
-| Superheavy | 5d12×10 | 40 |
+| ------------- | -------------------- | ----------- |
+| Ultralight    | 1d12×10              | 31          |
+| Light         | 2d12×10              | 34          |
+| Mediumweight  | 3d12×10              | 36          |
+| Heavy         | 4d12×10              | 38          |
+| Superheavy    | 5d12×10              | 40          |
 
 ## Radiation Shielding (pl 6)
 
@@ -242,12 +242,12 @@ Self-Destruct Systems).
 **Table: Starship Self-Destruct Systems**
 
 | Starship Type | Collateral Damage | Purchase DC |
-|---|---|---|
-| Ultralight | 1d6×10 | 26 |
-| Light | 2d6×10 | 32 |
-| Mediumweight | 3d6×10 | 38 |
-| Heavy | 4d6×10 | 44 |
-| Superheavy | 5d6×10 | 50 |
+| ------------- | ----------------- | ----------- |
+| Ultralight    | 1d6×10            | 26          |
+| Light         | 2d6×10            | 32          |
+| Mediumweight  | 3d6×10            | 38          |
+| Heavy         | 4d6×10            | 44          |
+| Superheavy    | 5d6×10            | 50          |
 
 ## Stealth Screen (pl 6)
 

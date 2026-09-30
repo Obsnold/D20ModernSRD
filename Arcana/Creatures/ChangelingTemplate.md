@@ -54,38 +54,38 @@ Proficiency as bonus feats.
 
 ## Changeling (Half-Human) Charismatic Hero 1
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size/Type | Medium fey |
-| HD | 1d6+2 (includes Toughness feat) |
-| hp | 8 |
-| Mas | 8 |
-| Init | +4 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 14 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +4 Dex, +1 leather jacket |
-| BAB | +0 |
-| Grap | –1 |
-| Atk | –1 melee (1d3–1 nonlethal, unarmed strike) or +4 ranged (2d6, Ruger Service-Six) |
-| Full Atk | –1 melee (1d3–1 nonlethal, unarmed strike) or +4 ranged (2d6, Ruger Service-Six) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SA | spell-like abilities, immune to electricity, fire resistance 10, damage reduction 5/+1 |
-| AL | chaos |
-| Fort | +0 |
-| Ref | +5 |
-| Will | +1 |
-| AP | 0 |
-| Rep | +2 |
-| Str | 8 |
-| Dex | 18 |
-| Con | 8 |
-| Int | 12 |
-| Wis | 13 |
-| Cha | 19 |
+| Stat              | Value                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                      |
+| Size/Type         | Medium fey                                                                             |
+| HD                | 1d6+2 (includes Toughness feat)                                                        |
+| hp                | 8                                                                                      |
+| Mas               | 8                                                                                      |
+| Init              | +4                                                                                     |
+| Spd               | 30 ft.                                                                                 |
+| Defense           | 15                                                                                     |
+| Touch             | 14                                                                                     |
+| Flat-Footed       | 11                                                                                     |
+| Defense Breakdown | +4 Dex, +1 leather jacket                                                              |
+| BAB               | +0                                                                                     |
+| Grap              | –1                                                                                     |
+| Atk               | –1 melee (1d3–1 nonlethal, unarmed strike) or +4 ranged (2d6, Ruger Service-Six)       |
+| Full Atk          | –1 melee (1d3–1 nonlethal, unarmed strike) or +4 ranged (2d6, Ruger Service-Six)       |
+| FS                | 5 ft. by 5 ft.                                                                         |
+| Reach             | 5 ft.                                                                                  |
+| SA                | spell-like abilities, immune to electricity, fire resistance 10, damage reduction 5/+1 |
+| AL                | chaos                                                                                  |
+| Fort              | +0                                                                                     |
+| Ref               | +5                                                                                     |
+| Will              | +1                                                                                     |
+| AP                | 0                                                                                      |
+| Rep               | +2                                                                                     |
+| Str               | 8                                                                                      |
+| Dex               | 18                                                                                     |
+| Con               | 8                                                                                      |
+| Int               | 12                                                                                     |
+| Wis               | 13                                                                                     |
+| Cha               | 19                                                                                     |
 
 **Skills:** Bluff +10, Diplomacy +8, Disguise +8, Drive
 +6, Gamble +3, Gather Information +8, Knowledge (streetwise) +5, Sleight

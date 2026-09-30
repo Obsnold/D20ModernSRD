@@ -26,39 +26,39 @@ Proficiency.
 
 ## Tooth Fairy
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | fey |
-| HD | 2d6 |
-| hp | 7 |
-| Mas | 10 |
-| Init | +5 |
-| Spd | 30 ft., fly 30 ft. (average) |
-| Defense | 11 |
-| Touch | 11 |
-| Flat-Footed | 10 |
-| Defense Breakdown | +1 Dex |
-| BAB | +0 |
-| Grap | +0 |
-| Atk | +0 melee (1d4, knife) |
-| Full Atk | +0 melee (1d4, knife), or +1 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | fey rod, invisibility, anyspeak, low-light vision |
-| AL | evil |
-| Fort | +0 |
-| Ref | +1 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +3 |
-| Str | 10 |
-| Dex | 12 |
-| Con | 10 |
-| Int | 13 |
-| Wis | 12 |
-| Cha | 13 |
+| Stat              | Value                                             |
+| ----------------- | ------------------------------------------------- |
+| CR                | 1                                                 |
+| Size              | Medium-size                                       |
+| Type              | fey                                               |
+| HD                | 2d6                                               |
+| hp                | 7                                                 |
+| Mas               | 10                                                |
+| Init              | +5                                                |
+| Spd               | 30 ft., fly 30 ft. (average)                      |
+| Defense           | 11                                                |
+| Touch             | 11                                                |
+| Flat-Footed       | 10                                                |
+| Defense Breakdown | +1 Dex                                            |
+| BAB               | +0                                                |
+| Grap              | +0                                                |
+| Atk               | +0 melee (1d4, knife)                             |
+| Full Atk          | +0 melee (1d4, knife), or +1 ranged               |
+| FS                | 5 ft. by 5 ft.                                    |
+| Reach             | 5 ft.                                             |
+| SQ                | fey rod, invisibility, anyspeak, low-light vision |
+| AL                | evil                                              |
+| Fort              | +0                                                |
+| Ref               | +1                                                |
+| Will              | +4                                                |
+| AP                | 0                                                 |
+| Rep               | +3                                                |
+| Str               | 10                                                |
+| Dex               | 12                                                |
+| Con               | 10                                                |
+| Int               | 13                                                |
+| Wis               | 12                                                |
+| Cha               | 13                                                |
 
 **Skills:** Bluff +4, Craft (any one) +3, Decipher Script +4, Disguise
 +4, Escape Artist +4, Hide +4, Intimidate +4, Listen +4, Move Silently
@@ -72,39 +72,39 @@ Proficiency.
 
 ## Tooth Fairy Fast Hero 3/Smart Hero 1
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Medium-size |
-| Type | fey |
-| HD | 2d6 plus 3d8 plus 1d6 |
-| hp | 23 |
-| Mas | 10 |
-| Init | +1 |
-| Spd | 30 ft., fly 30 ft. (average) |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 15 |
-| Defense Breakdown | +1 Dex, +4 class |
-| BAB | +2 |
-| Grap | +2 |
-| Atk | +2 melee touch (1d4, knife) |
-| Full Atk | +2 melee (1d4, knife), or +3 ranged (2d6, Colt Double Eagle) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | fey rod, invisibility, anyspeak, low-light vision |
-| AL | evil |
-| Fort | +1 |
-| Ref | +3 |
-| Will | +6 |
-| AP | 2 |
-| Rep | +5 |
-| Str | 10 |
-| Dex | 13 |
-| Con | 10 |
-| Int | 13 |
-| Wis | 12 |
-| Cha | 13 |
+| Stat              | Value                                                        |
+| ----------------- | ------------------------------------------------------------ |
+| CR                | 5                                                            |
+| Size              | Medium-size                                                  |
+| Type              | fey                                                          |
+| HD                | 2d6 plus 3d8 plus 1d6                                        |
+| hp                | 23                                                           |
+| Mas               | 10                                                           |
+| Init              | +1                                                           |
+| Spd               | 30 ft., fly 30 ft. (average)                                 |
+| Defense           | 15                                                           |
+| Touch             | 15                                                           |
+| Flat-Footed       | 15                                                           |
+| Defense Breakdown | +1 Dex, +4 class                                             |
+| BAB               | +2                                                           |
+| Grap              | +2                                                           |
+| Atk               | +2 melee touch (1d4, knife)                                  |
+| Full Atk          | +2 melee (1d4, knife), or +3 ranged (2d6, Colt Double Eagle) |
+| FS                | 5 ft. by 5 ft.                                               |
+| Reach             | 5 ft.                                                        |
+| SQ                | fey rod, invisibility, anyspeak, low-light vision            |
+| AL                | evil                                                         |
+| Fort              | +1                                                           |
+| Ref               | +3                                                           |
+| Will              | +6                                                           |
+| AP                | 2                                                            |
+| Rep               | +5                                                           |
+| Str               | 10                                                           |
+| Dex               | 13                                                           |
+| Con               | 10                                                           |
+| Int               | 13                                                           |
+| Wis               | 12                                                           |
+| Cha               | 13                                                           |
 
 **Skills:** Bluff +4, Computer Use +4, Craft (chemical) +3, Decipher
 Script +4, Disguise +4, Escape Artist +7, Hide +9, Intimidate +4, Listen

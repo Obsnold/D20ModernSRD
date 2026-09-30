@@ -1,10 +1,10 @@
 # Drive
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 

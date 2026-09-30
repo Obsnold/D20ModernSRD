@@ -50,18 +50,18 @@ The Techie’s class skills (and the key ability for each skill) are:
 
 **Table: The Techie**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
-| 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Build robot | +2 | +1 |
-| 5th | +2 | +1 | +1 | +4 | Mastercraft | +3 | +1 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Jury-rig +4 | +4 | +2 |
-| 8th | +4 | +2 | +2 | +6 | Mastercraft | +4 | +2 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Mastercraft | +5 | +3 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | --------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +2        | Jury-rig +2     | +1            | +0               |
+| 2nd         | +1                | +0        | +0       | +3        | Extreme machine | +1            | +0               |
+| 3rd         | +1                | +1        | +1       | +3        | Bonus feat      | +2            | +1               |
+| 4th         | +2                | +1        | +1       | +4        | Build robot     | +2            | +1               |
+| 5th         | +2                | +1        | +1       | +4        | Mastercraft     | +3            | +1               |
+| 6th         | +3                | +2        | +2       | +5        | Bonus feat      | +3            | +2               |
+| 7th         | +3                | +2        | +2       | +5        | Jury-rig +4     | +4            | +2               |
+| 8th         | +4                | +2        | +2       | +6        | Mastercraft     | +4            | +2               |
+| 9th         | +4                | +3        | +3       | +6        | Bonus feat      | +5            | +3               |
+| 10th        | +5                | +3        | +3       | +7        | Mastercraft     | +5            | +3               |
 
 ## Class Features
 
@@ -87,22 +87,22 @@ the risk of causing the machine to need repairs later. The DC for the
 Craft check depends on the type of improvement being made, as shown on
 the table below.
 
-| Improvement | Craft DC | Repair Chance (d%) |
-|---|---|---|
-| **Ranged Weapons** | | |
-| +1 to damage | 15 | 01–25 |
-| +2 to damage | 20 | 01–50 |
-| +3 to damage | 25 | 01–75 |
-| +5 ft. to range increment | 15 | 01–25 |
-| +10 ft. to range increment | 25 | 01–50 |
-| **Electronic Devices** | | |
-| +1 equipment bonus | 15 | 01–25 |
-| +2 equipment bonus | 20 | 01–50 |
-| +3 equipment bonus | 25 | 01–75 |
-| **Vehicles** | | |
-| +1 on initiative checks | 20 | 01–25 |
-| +1 to maneuver | 25 | 01–50 |
-| +2 to maneuver | 30 | 01–75 |
+| Improvement                | Craft DC | Repair Chance (d%) |
+| -------------------------- | -------- | ------------------ |
+| **Ranged Weapons**         |          |                    |
+| +1 to damage               | 15       | 01–25              |
+| +2 to damage               | 20       | 01–50              |
+| +3 to damage               | 25       | 01–75              |
+| +5 ft. to range increment  | 15       | 01–25              |
+| +10 ft. to range increment | 25       | 01–50              |
+| **Electronic Devices**     |          |                    |
+| +1 equipment bonus         | 15       | 01–25              |
+| +2 equipment bonus         | 20       | 01–50              |
+| +3 equipment bonus         | 25       | 01–75              |
+| **Vehicles**               |          |                    |
+| +1 on initiative checks    | 20       | 01–25              |
+| +1 to maneuver             | 25       | 01–50              |
+| +2 to maneuver             | 30       | 01–75              |
 
 The Techie performs the extreme modifications in 1 hour. The Techie
 can’t take 10 or take 20 on this check. If the check succeeds, the
@@ -148,10 +148,10 @@ Follow these steps to build a robot.
 The purchase DC for the components needed to construct a robot is based
 on the robot’s size.
 
-| Size | Purchase DC |
-|---|---|
-| Diminutive | 18 |
-| Tiny | 15 |
+| Size       | Purchase DC |
+| ---------- | ----------- |
+| Diminutive | 18          |
+| Tiny       | 15          |
 
 Make the Wealth check to purchase and gather the necessary components
 prior to starting construction.
@@ -162,23 +162,23 @@ The robot’s body determines its size, shape, locomotion, and hit points.
 The DC of the Craft (mechanical) check is set by the robot’s size and
 modified by the form of locomotion selected.
 
-| Size | Craft DC |
-|---|---|
-| Diminutive | 15 |
-| Tiny | 12 |
-| **Components** | DC Modifier |
-| **Frame Shape and Locomotion¹** | |
-| Bipedal | +4 |
-| Quadruped | +3 |
-| Treads | +2 |
-| Wheels | +1 |
-| **External Components ²** | |
-| Manipulators ³ | +3 |
-| Audio/visual sensor | +2 |
-| **Remote Range ¹** | |
-| Remote control link, 100 feet | +1 |
-| Remote control link, 200 feet | +3 |
-| Remote control link, 300 feet | +5 |
+| Size                            | Craft DC    |
+| ------------------------------- | ----------- |
+| Diminutive                      | 15          |
+| Tiny                            | 12          |
+| **Components**                  | DC Modifier |
+| **Frame Shape and Locomotion¹** |             |
+| Bipedal                         | +4          |
+| Quadruped                       | +3          |
+| Treads                          | +2          |
+| Wheels                          | +1          |
+| **External Components ²**       |             |
+| Manipulators ³                  | +3          |
+| Audio/visual sensor             | +2          |
+| **Remote Range ¹**              |             |
+| Remote control link, 100 feet   | +1          |
+| Remote control link, 200 feet   | +3          |
+| Remote control link, 300 feet   | +5          |
 
 ¹ Select only one of the options in this category.
 ² Select one or more of the options in this category.

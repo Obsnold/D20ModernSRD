@@ -41,39 +41,39 @@ maintained.
 
 ## Dread Tree
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Huge |
-| Type | plant |
-| HD | 7d8+35 |
-| hp | 66 |
-| Mas | — |
-| Init | –1 |
-| Spd | 20 ft. |
-| Defense | 20 |
-| Touch | 7 |
-| Flat-Footed | 20 |
-| Defense Breakdown | –2 size, –1 Dex, +13 natural |
-| BAB | +5 |
-| Grap | +22 |
-| Atk | +12 melee (2d6+13, slam) |
-| Full Atk | +12 melee (2d6+13, slam) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 15 ft. |
-| SQ | blindsight 30 ft., double damage against objects, fire vulnerability, intoxicating fruit (DC 14), plant, smash 2d6+13 |
-| AL | evil |
-| Fort | +10 |
-| Ref | +1 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 29 |
-| Dex | 8 |
-| Con | 21 |
-| Int | 2 |
-| Wis | 15 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CR                | 8                                                                                                                     |
+| Size              | Huge                                                                                                                  |
+| Type              | plant                                                                                                                 |
+| HD                | 7d8+35                                                                                                                |
+| hp                | 66                                                                                                                    |
+| Mas               | —                                                                                                                     |
+| Init              | –1                                                                                                                    |
+| Spd               | 20 ft.                                                                                                                |
+| Defense           | 20                                                                                                                    |
+| Touch             | 7                                                                                                                     |
+| Flat-Footed       | 20                                                                                                                    |
+| Defense Breakdown | –2 size, –1 Dex, +13 natural                                                                                          |
+| BAB               | +5                                                                                                                    |
+| Grap              | +22                                                                                                                   |
+| Atk               | +12 melee (2d6+13, slam)                                                                                              |
+| Full Atk          | +12 melee (2d6+13, slam)                                                                                              |
+| FS                | 10 ft. by 10 ft.                                                                                                      |
+| Reach             | 15 ft.                                                                                                                |
+| SQ                | blindsight 30 ft., double damage against objects, fire vulnerability, intoxicating fruit (DC 14), plant, smash 2d6+13 |
+| AL                | evil                                                                                                                  |
+| Fort              | +10                                                                                                                   |
+| Ref               | +1                                                                                                                    |
+| Will              | +4                                                                                                                    |
+| AP                | 0                                                                                                                     |
+| Rep               | +0                                                                                                                    |
+| Str               | 29                                                                                                                    |
+| Dex               | 8                                                                                                                     |
+| Con               | 21                                                                                                                    |
+| Int               | 2                                                                                                                     |
+| Wis               | 15                                                                                                                    |
+| Cha               | 12                                                                                                                    |
 
 **Skills:** Hide –6 (+10 in forested areas), Intimidate +4, Listen +5,
 Spot +5.
@@ -84,39 +84,39 @@ Spot +5.
 
 ## Advanced Dread Tree
 
-| Stat | Value |
-|---|---|
-| CR | 12 |
-| Size | Gargantuan |
-| Type | plant |
-| HD | 17d8+119 |
-| hp | 195 |
-| Mas | — |
-| Init | –1 |
-| Spd | 20 ft. |
-| Defense | 22 |
-| Touch | 5 |
-| Flat-Footed | 22 |
-| Defense Breakdown | –4 size, –1 Dex, +17 natural |
-| BAB | +12 |
-| Grap | +41 |
-| Atk | +25 melee (2d8+17, slam) |
-| Full Atk | +25/+20/+15 melee (2d8+17, slam) |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | blindsight 30 ft., double damage to objects, fire vulnerability, intoxicating fruit (DC 19), plant, smash 2d8+17 |
-| AL | evil |
-| Fort | +17 |
-| Ref | +4 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 37 |
-| Dex | 8 |
-| Con | 25 |
-| Int | 2 |
-| Wis | 15 |
-| Cha | 12 |
+| Stat              | Value                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| CR                | 12                                                                                                               |
+| Size              | Gargantuan                                                                                                       |
+| Type              | plant                                                                                                            |
+| HD                | 17d8+119                                                                                                         |
+| hp                | 195                                                                                                              |
+| Mas               | —                                                                                                                |
+| Init              | –1                                                                                                               |
+| Spd               | 20 ft.                                                                                                           |
+| Defense           | 22                                                                                                               |
+| Touch             | 5                                                                                                                |
+| Flat-Footed       | 22                                                                                                               |
+| Defense Breakdown | –4 size, –1 Dex, +17 natural                                                                                     |
+| BAB               | +12                                                                                                              |
+| Grap              | +41                                                                                                              |
+| Atk               | +25 melee (2d8+17, slam)                                                                                         |
+| Full Atk          | +25/+20/+15 melee (2d8+17, slam)                                                                                 |
+| FS                | 20 ft. by 20 ft.                                                                                                 |
+| Reach             | 15 ft.                                                                                                           |
+| SQ                | blindsight 30 ft., double damage to objects, fire vulnerability, intoxicating fruit (DC 19), plant, smash 2d8+17 |
+| AL                | evil                                                                                                             |
+| Fort              | +17                                                                                                              |
+| Ref               | +4                                                                                                               |
+| Will              | +7                                                                                                               |
+| AP                | 0                                                                                                                |
+| Rep               | +0                                                                                                               |
+| Str               | 37                                                                                                               |
+| Dex               | 8                                                                                                                |
+| Con               | 25                                                                                                               |
+| Int               | 2                                                                                                                |
+| Wis               | 15                                                                                                               |
+| Cha               | 12                                                                                                               |
 
 **Skills:** Hide –6 (+10 in forested areas), Intimidate +4, Listen +5,
 Spot +5.

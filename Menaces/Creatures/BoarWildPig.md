@@ -16,39 +16,39 @@ enemies, sniff out hidden foes, and track by sense of smell.
 
 ## Boar (Wild Pig)
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size | Medium-size |
-| Type | animal |
-| HD | 3d8+9 |
-| hp | 22 |
-| Mas | 17 |
-| Init | +0 |
-| Spd | 40 ft. |
-| Defense | 16 |
-| Touch | 10 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +6 natural |
-| BAB | +2 |
-| Grap | +4 |
-| Atk | +4 melee (1d8+3, gore) |
-| Full Atk | +4 melee (1d8+3, gore) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | ferocity, low-light vision, scent |
-| AL | none |
-| Fort | +6 |
-| Ref | +3 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 10 |
-| Con | 17 |
-| Int | 2 |
-| Wis | 13 |
-| Cha | 4 |
+| Stat              | Value                             |
+| ----------------- | --------------------------------- |
+| CR                | 3                                 |
+| Size              | Medium-size                       |
+| Type              | animal                            |
+| HD                | 3d8+9                             |
+| hp                | 22                                |
+| Mas               | 17                                |
+| Init              | +0                                |
+| Spd               | 40 ft.                            |
+| Defense           | 16                                |
+| Touch             | 10                                |
+| Flat-Footed       | 16                                |
+| Defense Breakdown | +6 natural                        |
+| BAB               | +2                                |
+| Grap              | +4                                |
+| Atk               | +4 melee (1d8+3, gore)            |
+| Full Atk          | +4 melee (1d8+3, gore)            |
+| FS                | 5 ft. by 5 ft.                    |
+| Reach             | 5 ft.                             |
+| SQ                | ferocity, low-light vision, scent |
+| AL                | none                              |
+| Fort              | +6                                |
+| Ref               | +3                                |
+| Will              | +2                                |
+| AP                | 0                                 |
+| Rep               | +0                                |
+| Str               | 15                                |
+| Dex               | 10                                |
+| Con               | 17                                |
+| Int               | 2                                 |
+| Wis               | 13                                |
+| Cha               | 4                                 |
 
 **Skills:** Listen +7, Spot +5.
 

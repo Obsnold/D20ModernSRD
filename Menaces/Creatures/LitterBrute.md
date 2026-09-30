@@ -49,39 +49,39 @@ attack is slashing damage.
 
 ## Litter Brute
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Large |
-| Type | construct |
-| HD | 6d10+20 |
-| hp | 53 |
-| Mas | — |
-| Init | +0 |
-| Spd | 20 ft. |
-| Defense | 17 |
-| Touch | 9 |
-| Flat-Footed | 17 |
-| Defense Breakdown | –1 size, +8 natural |
-| BAB | +4 |
-| Grap | +10 |
-| Atk | +5 melee (1d8+2, slam) |
-| Full Atk | +5 melee (1d8+2, 2 slams) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 10 ft. |
-| SQ | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
-| AL | none |
-| Fort | +2 |
-| Ref | +2 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 11 |
-| Con | — |
-| Int | — |
-| Wis | 12 |
-| Cha | 6 |
+| Stat              | Value                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                        |
+| Size              | Large                                                                                                    |
+| Type              | construct                                                                                                |
+| HD                | 6d10+20                                                                                                  |
+| hp                | 53                                                                                                       |
+| Mas               | —                                                                                                        |
+| Init              | +0                                                                                                       |
+| Spd               | 20 ft.                                                                                                   |
+| Defense           | 17                                                                                                       |
+| Touch             | 9                                                                                                        |
+| Flat-Footed       | 17                                                                                                       |
+| Defense Breakdown | –1 size, +8 natural                                                                                      |
+| BAB               | +4                                                                                                       |
+| Grap              | +10                                                                                                      |
+| Atk               | +5 melee (1d8+2, slam)                                                                                   |
+| Full Atk          | +5 melee (1d8+2, 2 slams)                                                                                |
+| FS                | 10 ft. by 10 ft.                                                                                         |
+| Reach             | 10 ft.                                                                                                   |
+| SQ                | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
+| AL                | none                                                                                                     |
+| Fort              | +2                                                                                                       |
+| Ref               | +2                                                                                                       |
+| Will              | +3                                                                                                       |
+| AP                | 0                                                                                                        |
+| Rep               | +0                                                                                                       |
+| Str               | 14                                                                                                       |
+| Dex               | 11                                                                                                       |
+| Con               | —                                                                                                        |
+| Int               | —                                                                                                        |
+| Wis               | 12                                                                                                       |
+| Cha               | 6                                                                                                        |
 
 **Skills:** None.
 
@@ -92,39 +92,39 @@ attack is slashing damage.
 
 ## Advanced Litter Brute
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size | Huge |
-| Type | construct |
-| HD | 12d10+40 |
-| hp | 106 |
-| Mas | — |
-| Init | –1 |
-| Spd | 20 ft. |
-| Defense | 18 |
-| Touch | 7 |
-| Flat-Footed | 18 |
-| Defense Breakdown | –2 size, –1 Dex, +11 natural |
-| BAB | +9 |
-| Grap | +23 |
-| Atk | +13 melee (2d6+6, slam) |
-| Full Atk | +13 melee (2d6+6, 2 slams) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
-| AL | none |
-| Fort | +4 |
-| Ref | +3 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 9 |
-| Con | — |
-| Int | — |
-| Wis | 12 |
-| Cha | 6 |
+| Stat              | Value                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                                        |
+| Size              | Huge                                                                                                     |
+| Type              | construct                                                                                                |
+| HD                | 12d10+40                                                                                                 |
+| hp                | 106                                                                                                      |
+| Mas               | —                                                                                                        |
+| Init              | –1                                                                                                       |
+| Spd               | 20 ft.                                                                                                   |
+| Defense           | 18                                                                                                       |
+| Touch             | 7                                                                                                        |
+| Flat-Footed       | 18                                                                                                       |
+| Defense Breakdown | –2 size, –1 Dex, +11 natural                                                                             |
+| BAB               | +9                                                                                                       |
+| Grap              | +23                                                                                                      |
+| Atk               | +13 melee (2d6+6, slam)                                                                                  |
+| Full Atk          | +13 melee (2d6+6, 2 slams)                                                                               |
+| FS                | 15 ft. by 15 ft.                                                                                         |
+| Reach             | 10 ft.                                                                                                   |
+| SQ                | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
+| AL                | none                                                                                                     |
+| Fort              | +4                                                                                                       |
+| Ref               | +3                                                                                                       |
+| Will              | +5                                                                                                       |
+| AP                | 0                                                                                                        |
+| Rep               | +0                                                                                                       |
+| Str               | 22                                                                                                       |
+| Dex               | 9                                                                                                        |
+| Con               | —                                                                                                        |
+| Int               | —                                                                                                        |
+| Wis               | 12                                                                                                       |
+| Cha               | 6                                                                                                        |
 
 **Skills:** None.
 

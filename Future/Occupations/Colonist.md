@@ -6,11 +6,11 @@ their new surroundings, they learn to live off the land and defend
 themselves against indigenous predatory life forms and hostile forces of
 nature.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

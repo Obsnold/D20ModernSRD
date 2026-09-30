@@ -1,10 +1,10 @@
 # Bluff
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -33,13 +33,13 @@ believe.
 A bluff requires interaction between the character and the target.
 Targets unaware of the character can’t be bluffed.
 
-| Example Circumstances | Sense Motive Modifier |
-|---|---|
-| The target wants to believe the character. | –5 |
-| The bluff is believable and doesn’t affect the target much one way or the other. | +0 |
-| The bluff is a little hard to believe or puts the target at some kind of risk. | +5 |
-| The bluff is hard to believe or entails a large risk for the target. | +10 |
-| The bluff is way out there; it’s almost too incredible to consider. | +20 |
+| Example Circumstances                                                            | Sense Motive Modifier |
+| -------------------------------------------------------------------------------- | --------------------- |
+| The target wants to believe the character.                                       | –5                    |
+| The bluff is believable and doesn’t affect the target much one way or the other. | +0                    |
+| The bluff is a little hard to believe or puts the target at some kind of risk.   | +5                    |
+| The bluff is hard to believe or entails a large risk for the target.             | +10                   |
+| The bluff is way out there; it’s almost too incredible to consider.              | +20                   |
 
 A bluff is not the same thing as a lie. A bluff is a quick prevarication
 intended to distract, confuse, or mislead, generally only for the short

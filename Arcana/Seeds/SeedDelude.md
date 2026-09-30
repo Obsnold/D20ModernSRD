@@ -1,14 +1,14 @@
 # Seed: Delude
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Knowledge (arcane lore) DC | 30 |
-| Range | Long |
-| Effect | Visual figment that can extend up to 12 10-ft. cubes (S) |
-| Duration | Minutes |
-| Saving Throw | Will disbelief (if interacted with) |
-| Spell Resistance | No |
+| Stat                       | Value                                                    |
+| -------------------------- | -------------------------------------------------------- |
+| School                     | Illusion                                                 |
+| Knowledge (arcane lore) DC | 30                                                       |
+| Range                      | Long                                                     |
+| Effect                     | Visual figment that can extend up to 12 10-ft. cubes (S) |
+| Duration                   | Minutes                                                  |
+| Saving Throw               | Will disbelief (if interacted with)                      |
+| Spell Resistance           | No                                                       |
 
 An incantation developed with the *delude* seed creates the visual
 illusion of an object, creature, or force, as visualized by you. You can

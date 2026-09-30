@@ -1,10 +1,10 @@
 # Hide
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | No |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | No    |
+| Armor Penalty | Yes   |
 
 ## Check
 
@@ -17,17 +17,17 @@ or charging.
 
 The hide check is also modified by the character’s size:
 
-| Size | Modifier |
-|---|---|
-| Fine | +16 |
-| Diminutive | +12 |
-| Tiny | +8 |
-| Small | +4 |
-| Medium-size | +0 |
-| Large | –4 |
-| Huge | –8 |
-| Gargantuan | –12 |
-| Colossal | –16 |
+| Size        | Modifier |
+| ----------- | -------- |
+| Fine        | +16      |
+| Diminutive  | +12      |
+| Tiny        | +8       |
+| Small       | +4       |
+| Medium-size | +0       |
+| Large       | –4       |
+| Huge        | –8       |
+| Gargantuan  | –12      |
+| Colossal    | –16      |
 
 If people are observing the character, even casually, he or she can’t
 hide. The character can run around a corner so that he or she is out of
@@ -39,9 +39,9 @@ shown below. Note that a character can’t hide if he or she has less than
 one-half cover or concealment.
 
 | Cover or Concealment | Circumstance Bonus |
-|---|---|
-| Three-quarters | +5 |
-| Nine-tenths | +10 |
+| -------------------- | ------------------ |
+| Three-quarters       | +5                 |
+| Nine-tenths          | +10                |
 
 **Creating a Diversion to Hide:** A character can use the Bluff skill to
 help him or her hide. A successful Bluff check can give the character

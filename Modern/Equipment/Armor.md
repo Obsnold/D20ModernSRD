@@ -70,23 +70,23 @@ armor on the black market.
 
 **Table: Armor**
 
-| Armor | Type | Equipment Bonus | Nonprof. Bonus | Maximum Dex Bonus | Armor Penalty | Speed (30 ft.) | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|
-| **Light Armor** | | | | | | | | | |
-| Leather jacket | Impromptu | +1 | +1 | +8 | –0 | 30 | 4 lb. | 10 | — |
-| Leather armor | Archaic | +2 | +1 | +6 | –0 | 30 | 15 lb. | 12 | — |
-| Light undercover shirt | Concealable | +2 | +1 | +7 | –0 | 30 | 2 lb. | 13 | Lic (+1) |
-| Pull-up pouch vest | Concealable | +2 | +1 | +6 | –1 | 30 | 2 lb. | 13 | Lic (+1) |
-| Undercover vest | Concealable | +3 | +1 | +5 | –2 | 30 | 3 lb. | 14 | Lic (+1) |
-| **Medium Armor** | | | | | | | | | |
-| Concealable vest | Concealable | +4 | +2 | +4 | –3 | 25 | 4 lb. | 15 | Lic (+1) |
-| Chainmail shirt | Archaic | +5 | +2 | +2 | –5 | 20 | 40 lb. | 18 | — |
-| Light-duty vest | Tactical | +5 | +2 | +3 | –4 | 25 | 8 lb. | 16 | Lic (+1) |
-| Tactical vest | Tactical | +6 | +2 | +2 | –5 | 25 | 10 lb. | 17 | Lic (+1) |
-| **Heavy Armor** | | | | | | | | | |
-| Special response vest | Tactical | +7 | +3 | +1 | –6 | 20 | 15 lb. | 18 | Lic (+1) |
-| Plate mail | Archaic | +8 | +3 | +1 | –6 | 20 | 50 lb. | 23 | — |
-| Forced entry unit | Tactical | +9 | +3 | +0 | –8 | 20 | 20 lb. | 19 | Lic (+1) |
+| Armor                  | Type        | Equipment Bonus | Nonprof. Bonus | Maximum Dex Bonus | Armor Penalty | Speed (30 ft.) | Weight | Purchase DC | Restriction |
+| ---------------------- | ----------- | --------------- | -------------- | ----------------- | ------------- | -------------- | ------ | ----------- | ----------- |
+| **Light Armor**        |             |                 |                |                   |               |                |        |             |             |
+| Leather jacket         | Impromptu   | +1              | +1             | +8                | –0            | 30             | 4 lb.  | 10          | —           |
+| Leather armor          | Archaic     | +2              | +1             | +6                | –0            | 30             | 15 lb. | 12          | —           |
+| Light undercover shirt | Concealable | +2              | +1             | +7                | –0            | 30             | 2 lb.  | 13          | Lic (+1)    |
+| Pull-up pouch vest     | Concealable | +2              | +1             | +6                | –1            | 30             | 2 lb.  | 13          | Lic (+1)    |
+| Undercover vest        | Concealable | +3              | +1             | +5                | –2            | 30             | 3 lb.  | 14          | Lic (+1)    |
+| **Medium Armor**       |             |                 |                |                   |               |                |        |             |             |
+| Concealable vest       | Concealable | +4              | +2             | +4                | –3            | 25             | 4 lb.  | 15          | Lic (+1)    |
+| Chainmail shirt        | Archaic     | +5              | +2             | +2                | –5            | 20             | 40 lb. | 18          | —           |
+| Light-duty vest        | Tactical    | +5              | +2             | +3                | –4            | 25             | 8 lb.  | 16          | Lic (+1)    |
+| Tactical vest          | Tactical    | +6              | +2             | +2                | –5            | 25             | 10 lb. | 17          | Lic (+1)    |
+| **Heavy Armor**        |             |                 |                |                   |               |                |        |             |             |
+| Special response vest  | Tactical    | +7              | +3             | +1                | –6            | 20             | 15 lb. | 18          | Lic (+1)    |
+| Plate mail             | Archaic     | +8              | +3             | +1                | –6            | 20             | 50 lb. | 23          | —           |
+| Forced entry unit      | Tactical    | +9              | +3             | +0                | –8            | 20             | 20 lb. | 19          | Lic (+1)    |
 
 ## Light Armor
 

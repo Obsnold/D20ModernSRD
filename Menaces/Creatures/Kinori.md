@@ -19,39 +19,39 @@ checks when concealed against a white background, such as snow and ice.
 
 ## Kinori
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | monstrous humanoid |
-| HD | 2d8+2 |
-| hp | 11 |
-| Mas | 13 |
-| Init | +1 |
-| Spd | 20 ft., swim 30 ft. |
-| Defense | 14 |
-| Touch | 11 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +1 Dex, +3 natural |
-| BAB | +2 |
-| Grap | +3 |
-| Atk | +3 melee (1d4+1, claw or bite) |
-| Full Atk | +3 melee (1d4+1, 2 claws) and +1 melee (1d4, bite) or +3 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | cold resistance 20, darkvision 120 ft., easy breathing, light sensitivity |
-| AL | kinori, evil |
-| Fort | +1 |
-| Ref | +4 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 13 |
-| Dex | 12 |
-| Con | 13 |
-| Int | 11 |
-| Wis | 10 |
-| Cha | 11 |
+| Stat              | Value                                                                     |
+| ----------------- | ------------------------------------------------------------------------- |
+| CR                | 1                                                                         |
+| Size              | Medium-size                                                               |
+| Type              | monstrous humanoid                                                        |
+| HD                | 2d8+2                                                                     |
+| hp                | 11                                                                        |
+| Mas               | 13                                                                        |
+| Init              | +1                                                                        |
+| Spd               | 20 ft., swim 30 ft.                                                       |
+| Defense           | 14                                                                        |
+| Touch             | 11                                                                        |
+| Flat-Footed       | 13                                                                        |
+| Defense Breakdown | +1 Dex, +3 natural                                                        |
+| BAB               | +2                                                                        |
+| Grap              | +3                                                                        |
+| Atk               | +3 melee (1d4+1, claw or bite)                                            |
+| Full Atk          | +3 melee (1d4+1, 2 claws) and +1 melee (1d4, bite) or +3 ranged           |
+| FS                | 5 ft. by 5 ft.                                                            |
+| Reach             | 5 ft.                                                                     |
+| SQ                | cold resistance 20, darkvision 120 ft., easy breathing, light sensitivity |
+| AL                | kinori, evil                                                              |
+| Fort              | +1                                                                        |
+| Ref               | +4                                                                        |
+| Will              | +3                                                                        |
+| AP                | 0                                                                         |
+| Rep               | +0                                                                        |
+| Str               | 13                                                                        |
+| Dex               | 12                                                                        |
+| Con               | 13                                                                        |
+| Int               | 11                                                                        |
+| Wis               | 10                                                                        |
+| Cha               | 11                                                                        |
 
 **Skills:** Climb +5, Hide +5 (+9 when concealed against a white
 background), Listen +3, Move Silently +5, Spot +3, Survival +5, Swim
@@ -64,39 +64,39 @@ Proficiency.
 
 ## Kinori Strong Hero 1
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Medium-size |
-| Type | monstrous humanoid |
-| HD | 2d8+2 plus 1d8+1 |
-| hp | 16 |
-| Mas | 13 |
-| Init | +1 |
-| Spd | 20 ft., swim 30 ft. |
-| Defense | 15 |
-| Touch | 12 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +3 natural, +1 class |
-| BAB | +3 |
-| Grap | +4 |
-| Atk | +4 melee (1d4+2, claw or bite) or +4 ranged (2d6, Colt Desert Eagle) |
-| Full Atk | +4 melee (1d4+2, 2 claws) and +2 melee (1d4+1, bite) or +4 ranged (2d6, Colt Desert Eagle) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | cold resistance 20, darkvision 200 ft., easy breathing, light sensitivity |
-| AL | kinori, evil |
-| Fort | +2 |
-| Ref | +4 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 13 |
-| Dex | 12 |
-| Con | 13 |
-| Int | 11 |
-| Wis | 10 |
-| Cha | 11 |
+| Stat              | Value                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| CR                | 2                                                                                          |
+| Size              | Medium-size                                                                                |
+| Type              | monstrous humanoid                                                                         |
+| HD                | 2d8+2 plus 1d8+1                                                                           |
+| hp                | 16                                                                                         |
+| Mas               | 13                                                                                         |
+| Init              | +1                                                                                         |
+| Spd               | 20 ft., swim 30 ft.                                                                        |
+| Defense           | 15                                                                                         |
+| Touch             | 12                                                                                         |
+| Flat-Footed       | 14                                                                                         |
+| Defense Breakdown | +1 Dex, +3 natural, +1 class                                                               |
+| BAB               | +3                                                                                         |
+| Grap              | +4                                                                                         |
+| Atk               | +4 melee (1d4+2, claw or bite) or +4 ranged (2d6, Colt Desert Eagle)                       |
+| Full Atk          | +4 melee (1d4+2, 2 claws) and +2 melee (1d4+1, bite) or +4 ranged (2d6, Colt Desert Eagle) |
+| FS                | 5 ft. by 5 ft.                                                                             |
+| Reach             | 5 ft.                                                                                      |
+| SQ                | cold resistance 20, darkvision 200 ft., easy breathing, light sensitivity                  |
+| AL                | kinori, evil                                                                               |
+| Fort              | +2                                                                                         |
+| Ref               | +4                                                                                         |
+| Will              | +3                                                                                         |
+| AP                | 0                                                                                          |
+| Rep               | +0                                                                                         |
+| Str               | 13                                                                                         |
+| Dex               | 12                                                                                         |
+| Con               | 13                                                                                         |
+| Int               | 11                                                                                         |
+| Wis               | 10                                                                                         |
+| Cha               | 11                                                                                         |
 
 **Skills:** Climb +6, Hide +5 (+9 when concealed against a white
 background), Listen +3, Move Silently +5, Spot +3, Survival +5, Swim

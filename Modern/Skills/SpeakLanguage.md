@@ -1,10 +1,10 @@
 # Speak Language
 
-| Stat | Value |
-|---|---|
-| Key Ability | None |
-| Trained Only | Yes |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | None  |
+| Trained Only  | Yes   |
+| Armor Penalty | No    |
 
 The Speak Language skill doesn’t work like a standard skill.
 

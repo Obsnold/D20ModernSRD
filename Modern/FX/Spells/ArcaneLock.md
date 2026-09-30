@@ -1,16 +1,16 @@
 # Arcane Lock
 
-| Stat | Value |
-|---|---|
-| School | Abjuration |
-| Level | Mage 2 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | One door, cabinet, chest, or portal touched, up to 30 sq. ft./level in size |
-| Duration | Permanent |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                       |
+| ---------------- | --------------------------------------------------------------------------- |
+| School           | Abjuration                                                                  |
+| Level            | Mage 2                                                                      |
+| Components       | V, S, M                                                                     |
+| Casting Time     | Attack action                                                               |
+| Range            | Touch                                                                       |
+| Target           | One door, cabinet, chest, or portal touched, up to 30 sq. ft./level in size |
+| Duration         | Permanent                                                                   |
+| Saving Throw     | None                                                                        |
+| Spell Resistance | No                                                                          |
 
 An arcane lock spell cast upon a door, cabinet, chest, or portal
 magically locks it. The caster can freely pass his or her own lock

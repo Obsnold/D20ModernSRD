@@ -1,16 +1,16 @@
 # Levitate
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Level | Mage 2 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Personal or close (25 ft.+ 5 ft./2 levels) |
-| Target | You or one willing creature or one object (total weight up to 100 lb./level) |
-| Duration | 1 round/level (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                        |
+| ---------------- | ---------------------------------------------------------------------------- |
+| School           | Transmutation                                                                |
+| Level            | Mage 2                                                                       |
+| Components       | V, S, F                                                                      |
+| Casting Time     | Attack action                                                                |
+| Range            | Personal or close (25 ft.+ 5 ft./2 levels)                                   |
+| Target           | You or one willing creature or one object (total weight up to 100 lb./level) |
+| Duration         | 1 round/level (D)                                                            |
+| Saving Throw     | None                                                                         |
+| Spell Resistance | No                                                                           |
 
 A creature must be willing to be levitated, and an object must be
 unattended or possessed by a willing creature. The caster can mentally

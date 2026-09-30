@@ -35,10 +35,10 @@ Apply the following modifiers to the Craft check DC for mastercraft
 items:
 
 | Mastercraft Feature | DC Modifier |
-|---|---|
-| Mastercraft (+1) | +3 |
-| Mastercraft (+2) | +5 |
-| Mastercraft (+3) | +10 |
+| ------------------- | ----------- |
+| Mastercraft (+1)    | +3          |
+| Mastercraft (+2)    | +5          |
+| Mastercraft (+3)    | +10         |
 
 You can add the mastercraft feature to an existing ordinary object or a
 lower-grade mastercraft object by making a Wealth check and then making

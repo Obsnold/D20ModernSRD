@@ -35,83 +35,83 @@ These unspent MP can be spent on new mutations at a later time.
 
 **Table: Mutations**
 
-| d% | Mutation Type | MP Cost |
-|---|---|---|
-| 01–02 | Extra Digits Cosmetic | 0 |
-| 03–04 | Fins Cosmetic | 0 |
-| 05–06 | Forked Tongue Cosmetic | 0 |
-| 07–08 | Horns Cosmetic | 0 |
-| 09–10 | Scaly Skin Cosmetic | 0 |
-| 11–12 | Thin Fur Coat Cosmetic | 0 |
-| 13–14 | Unnatural Eyes Cosmetic | 0 |
-| 15–16 | Unnatural Hair Cosmetic | 0 |
-| 17–18 | Unnatural Skin Cosmetic | 0 |
-| 19–20 | Unnatural Voice Cosmetic | 0 |
-| 21–22 | Acidic Saliva Minor | 1 |
-| 23–24 | Adrenaline Jolt Minor | 3 |
-| 25–26 | Claws Minor | 1 |
-| 27–28 | Darkvision Minor | 3 |
-| 29–30 | Energy Diffusion Minor | 2 |
-| 31–32 | Fangs Minor | 1 |
-| 33–34 | Force Barrier Minor | 3 |
-| 35–36 | Gills Minor | 2 |
-| 37–38 | Great Horns Minor | 1 |
-| 39–40 | Hypersensitivity Minor | 3 |
-| 41–42 | Leaper Minor | 1 |
-| 43–44 | Scaly Armor Minor | 3 |
-| 45–46 | Scent Minor | 2 |
-| 47–48 | Second Wind Minor | 2 |
-| 49–50 | Smokescreen Minor | 1 |
-| 51–52 | Tail Minor | 1 |
-| 53–54 | Thick Fur Coat Minor | 1 |
-| 55–56 | Ultra Immune System Minor | 2 |
-| 57–58 | Wall Crawler Minor | 2 |
-| 59–60 | Webbed Digits Minor | 1 |
-| 61–62 | Echolocator Major | 5 |
-| 63–64 | Elasticity Major | 5 |
-| 65–66 | Energy Absorption Major | 4 |
-| 67–68 | Enlarged Form Major | 6 |
-| 69–70 | Exoskeleton Major | 5 |
-| 71–72 | Extra Arms Major | 6 |
-| 73–74 | Gazing Eye Major | 4 |
-| 75–76 | Pheromone Attraction Major | 6 |
-| 77–78 | Prehensile Tail Major | 4 |
-| 79–80 | Prickly Pear Major | 4 |
-| 81–82 | Radioactive Major | 5 |
-| 83–84 | Skeletal Reinforcement Major | 5 |
-| 85–86 | Stinger Major | 4 |
-| 87–88 | Telekinetic Mind Major | 5 |
-| 89–90 | Telepathy Major | 5 |
-| 91–92 | Tentacle Major | 6 |
-| 93–94 | Venomous Bite Major | 4 |
-| 95–96 | Vexing Voice Major | 4 |
-| 97–98 | Wings Major | 6 |
-| 99–100 | X-Ray Vision Major | 6 |
+| d%     | Mutation Type                | MP Cost |
+| ------ | ---------------------------- | ------- |
+| 01–02  | Extra Digits Cosmetic        | 0       |
+| 03–04  | Fins Cosmetic                | 0       |
+| 05–06  | Forked Tongue Cosmetic       | 0       |
+| 07–08  | Horns Cosmetic               | 0       |
+| 09–10  | Scaly Skin Cosmetic          | 0       |
+| 11–12  | Thin Fur Coat Cosmetic       | 0       |
+| 13–14  | Unnatural Eyes Cosmetic      | 0       |
+| 15–16  | Unnatural Hair Cosmetic      | 0       |
+| 17–18  | Unnatural Skin Cosmetic      | 0       |
+| 19–20  | Unnatural Voice Cosmetic     | 0       |
+| 21–22  | Acidic Saliva Minor          | 1       |
+| 23–24  | Adrenaline Jolt Minor        | 3       |
+| 25–26  | Claws Minor                  | 1       |
+| 27–28  | Darkvision Minor             | 3       |
+| 29–30  | Energy Diffusion Minor       | 2       |
+| 31–32  | Fangs Minor                  | 1       |
+| 33–34  | Force Barrier Minor          | 3       |
+| 35–36  | Gills Minor                  | 2       |
+| 37–38  | Great Horns Minor            | 1       |
+| 39–40  | Hypersensitivity Minor       | 3       |
+| 41–42  | Leaper Minor                 | 1       |
+| 43–44  | Scaly Armor Minor            | 3       |
+| 45–46  | Scent Minor                  | 2       |
+| 47–48  | Second Wind Minor            | 2       |
+| 49–50  | Smokescreen Minor            | 1       |
+| 51–52  | Tail Minor                   | 1       |
+| 53–54  | Thick Fur Coat Minor         | 1       |
+| 55–56  | Ultra Immune System Minor    | 2       |
+| 57–58  | Wall Crawler Minor           | 2       |
+| 59–60  | Webbed Digits Minor          | 1       |
+| 61–62  | Echolocator Major            | 5       |
+| 63–64  | Elasticity Major             | 5       |
+| 65–66  | Energy Absorption Major      | 4       |
+| 67–68  | Enlarged Form Major          | 6       |
+| 69–70  | Exoskeleton Major            | 5       |
+| 71–72  | Extra Arms Major             | 6       |
+| 73–74  | Gazing Eye Major             | 4       |
+| 75–76  | Pheromone Attraction Major   | 6       |
+| 77–78  | Prehensile Tail Major        | 4       |
+| 79–80  | Prickly Pear Major           | 4       |
+| 81–82  | Radioactive Major            | 5       |
+| 83–84  | Skeletal Reinforcement Major | 5       |
+| 85–86  | Stinger Major                | 4       |
+| 87–88  | Telekinetic Mind Major       | 5       |
+| 89–90  | Telepathy Major              | 5       |
+| 91–92  | Tentacle Major               | 6       |
+| 93–94  | Venomous Bite Major          | 4       |
+| 95–96  | Vexing Voice Major           | 4       |
+| 97–98  | Wings Major                  | 6       |
+| 99–100 | X-Ray Vision Major           | 6       |
 
 **Table: Drawbacks**
 
-| d% | Drawback | MP Value |
-|---|---|---|
-| 01–05 | Ability Decay¹ | 4 |
-| 06–10 | Blood Hunger | 1 |
-| 11–15 | Brittle Bones | 4 |
-| 16–20 | Combat Fear | 4 |
-| 21–25 | Cybernetic Dependency | 6 |
-| 26–30 | Festering Sores | 2 |
-| 31–35 | Frailty | 3 |
-| 36–40 | Heat/Cold Susceptibility | 1 |
-| 41–45 | Lethargy | 2 |
-| 46–50 | Light Sensitivity | 1 |
-| 51–55 | Lost Arm | 3 |
-| 56–60 | Mindslave | 2 |
-| 61–65 | Neutrad Dependency | 5 |
-| 66–70 | Pheromone Repulsion | 1 |
-| 71–75 | Poisonous Blood | 6 |
-| 76–80 | Rapid Aging | 2 |
-| 81–85 | Reduced Speed¹ | 3 |
-| 86–90 | Thin Skin | 5 |
-| 91–95 | Ultraviolet Allergy | 3 |
-| 96–100 | Weak Immune System | 1 |
+| d%     | Drawback                 | MP Value |
+| ------ | ------------------------ | -------- |
+| 01–05  | Ability Decay¹           | 4        |
+| 06–10  | Blood Hunger             | 1        |
+| 11–15  | Brittle Bones            | 4        |
+| 16–20  | Combat Fear              | 4        |
+| 21–25  | Cybernetic Dependency    | 6        |
+| 26–30  | Festering Sores          | 2        |
+| 31–35  | Frailty                  | 3        |
+| 36–40  | Heat/Cold Susceptibility | 1        |
+| 41–45  | Lethargy                 | 2        |
+| 46–50  | Light Sensitivity        | 1        |
+| 51–55  | Lost Arm                 | 3        |
+| 56–60  | Mindslave                | 2        |
+| 61–65  | Neutrad Dependency       | 5        |
+| 66–70  | Pheromone Repulsion      | 1        |
+| 71–75  | Poisonous Blood          | 6        |
+| 76–80  | Rapid Aging              | 2        |
+| 81–85  | Reduced Speed¹           | 3        |
+| 86–90  | Thin Skin                | 5        |
+| 91–95  | Ultraviolet Allergy      | 3        |
+| 96–100 | Weak Immune System       | 1        |
 
 ¹ You may take this drawback multiple times. Its effects stack.
 

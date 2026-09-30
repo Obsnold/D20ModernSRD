@@ -14,19 +14,19 @@ as guides.
 
 **Table: Defense Modifiers**
 
-| Circumstance | Melee | Ranged |
-|---|---|---|
-| Defender sitting or kneeling | –2 | +2¹ |
-| Defender prone | –4 | +4¹ |
-| Defender stunned or cowering | –2² | –2² |
-| Defender climbing | –2² | –2² |
-| Defender flat-footed | +0² | +0² |
-| Defender running | +0² | +2² |
-| Defender grappling (attacker not) | +0² | +0³ |
-| Defender pinned | –4⁴ | +0⁴ |
-| Defender helpless (such as paralyzed, sleeping, or bound) | +0² | +0² |
-| Defender has cover | —–— See Cover —–— | |
-| Defender concealed or invisible | — See Concealment — | |
+| Circumstance                                              | Melee               | Ranged |
+| --------------------------------------------------------- | ------------------- | ------ |
+| Defender sitting or kneeling                              | –2                  | +2¹    |
+| Defender prone                                            | –4                  | +4¹    |
+| Defender stunned or cowering                              | –2²                 | –2²    |
+| Defender climbing                                         | –2²                 | –2²    |
+| Defender flat-footed                                      | +0²                 | +0²    |
+| Defender running                                          | +0²                 | +2²    |
+| Defender grappling (attacker not)                         | +0²                 | +0³    |
+| Defender pinned                                           | –4⁴                 | +0⁴    |
+| Defender helpless (such as paralyzed, sleeping, or bound) | +0²                 | +0²    |
+| Defender has cover                                        | —–— See Cover —–—   |        |
+| Defender concealed or invisible                           | — See Concealment — |        |
 
 ¹ Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.
 ² The defender loses any Dexterity bonus to Defense.
@@ -35,12 +35,12 @@ as guides.
 
 **Table: Attack Roll Modifiers**
 
-| Circumstance | Melee | Ranged |
-|---|---|---|
-| Attacker flanking defender¹ | +2 | — |
-| Attacker on higher ground | +1 | +0 |
-| Attacker prone | –4 | –2² |
-| Attacker invisible | +2³ | +2³ |
+| Circumstance                | Melee | Ranged |
+| --------------------------- | ----- | ------ |
+| Attacker flanking defender¹ | +2    | —      |
+| Attacker on higher ground   | +1    | +0     |
+| Attacker prone              | –4    | –2²    |
+| Attacker invisible          | +2³   | +2³    |
 
 ¹ A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
 ² Some ranged weapons can’t be used while the attacker is prone.
@@ -103,13 +103,13 @@ or her dodge bonus, if the character so desires.
 
 **Table: Cover**
 
-| Degree of Cover (Example) | Cover Bonus to Defense | Reflex Saves |
-|---|---|---|
-| One-quarter (standing behind a 3-ft. high wall) | +2 | +1 |
-| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4 | +2 |
-| Three-quarters (peering around a corner or a big tree) | +7 | +3 |
-| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar) | +10 | +4 ¹ |
-| Total (on the other side of a solid wall) | — | — |
+| Degree of Cover (Example)                                                                                      | Cover Bonus to Defense | Reflex Saves |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------ |
+| One-quarter (standing behind a 3-ft. high wall)                                                                | +2                     | +1           |
+| One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size) | +4                     | +2           |
+| Three-quarters (peering around a corner or a big tree)                                                         | +7                     | +3           |
+| Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)                                    | +10                    | +4 ¹         |
+| Total (on the other side of a solid wall)                                                                      | —                      | —            |
 
 ¹ Half damage if save is failed; no damage if successful.
 
@@ -138,12 +138,12 @@ chance. Do not add the miss chances together.
 
 **Table: Concealment**
 
-| Concealment (Example) | Miss Chance |
-|---|---|
-| One-quarter (light fog; light foliage) | 10% |
-| One-half (shadows; dense fog at 5 ft.) | 20% |
-| Three-quarters (dense foliage) | 30% |
-| Nine-tenths (near total darkness) | 40% |
+| Concealment (Example)                                                      | Miss Chance                          |
+| -------------------------------------------------------------------------- | ------------------------------------ |
+| One-quarter (light fog; light foliage)                                     | 10%                                  |
+| One-half (shadows; dense fog at 5 ft.)                                     | 20%                                  |
+| Three-quarters (dense foliage)                                             | 30%                                  |
+| Nine-tenths (near total darkness)                                          | 40%                                  |
 | Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.) | 50% and must guess target’s location |
 
 ## Helpless Defenders

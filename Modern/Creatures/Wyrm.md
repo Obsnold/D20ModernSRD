@@ -35,39 +35,39 @@ daylight hours.
 
 ## Wyrm (Adult)
 
-| Stat | Value |
-|---|---|
-| CR | 17 |
-| Size | Huge |
-| Type | dragon |
-| HD | 19d12+114 |
-| hp | 237 |
-| Mas | 23 |
-| Init | –2 |
-| Spd | 20 ft., fly 60 ft. (poor), burrow 20 ft. |
-| Defense | 21 |
-| Touch | 6 |
-| Flat-Footed | 21 |
-| Defense Breakdown | –2 size, –2 Dex, +15 natural |
-| BAB | +19 |
-| Grap | +37 |
-| Atk | +28 melee (1d8+10 plus poison, sting) |
-| Full Atk | +28 melee (1d8+10 plus poison, sting), +26 melee (2d8+5, bite), +26 melee (2d6+5, 2 claws) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | breath weapon, improved grab, fling, poison, scent, immunities, darkvision 60 ft. |
-| AL | evil |
-| Fort | +17 |
-| Ref | +9 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 31 |
-| Dex | 7 |
-| Con | 23 |
-| Int | 6 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| CR                | 17                                                                                         |
+| Size              | Huge                                                                                       |
+| Type              | dragon                                                                                     |
+| HD                | 19d12+114                                                                                  |
+| hp                | 237                                                                                        |
+| Mas               | 23                                                                                         |
+| Init              | –2                                                                                         |
+| Spd               | 20 ft., fly 60 ft. (poor), burrow 20 ft.                                                   |
+| Defense           | 21                                                                                         |
+| Touch             | 6                                                                                          |
+| Flat-Footed       | 21                                                                                         |
+| Defense Breakdown | –2 size, –2 Dex, +15 natural                                                               |
+| BAB               | +19                                                                                        |
+| Grap              | +37                                                                                        |
+| Atk               | +28 melee (1d8+10 plus poison, sting)                                                      |
+| Full Atk          | +28 melee (1d8+10 plus poison, sting), +26 melee (2d8+5, bite), +26 melee (2d6+5, 2 claws) |
+| FS                | 15 ft. by 15 ft.                                                                           |
+| Reach             | 10 ft.                                                                                     |
+| SQ                | breath weapon, improved grab, fling, poison, scent, immunities, darkvision 60 ft.          |
+| AL                | evil                                                                                       |
+| Fort              | +17                                                                                        |
+| Ref               | +9                                                                                         |
+| Will              | +12                                                                                        |
+| AP                | 0                                                                                          |
+| Rep               | +0                                                                                         |
+| Str               | 31                                                                                         |
+| Dex               | 7                                                                                          |
+| Con               | 23                                                                                         |
+| Int               | 6                                                                                          |
+| Wis               | 12                                                                                         |
+| Cha               | 10                                                                                         |
 
 **Skills:** Listen +22, Move Silently +17, Search +17, Spot +22 (+25
 during daylight).
@@ -80,39 +80,39 @@ Focus (sting).
 
 ## Wyrm (Hatchling)
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size | Medium-size |
-| Type | dragon |
-| HD | 7d12+14 |
-| hp | 59 |
-| Mas | 15 |
-| Init | +0 |
-| Spd | 20 ft., fly 60 ft. (poor), burrow 20 ft. |
-| Defense | 18 |
-| Touch | 10 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +8 natural |
-| BAB | +7 |
-| Grap | +9 |
-| Atk | +10 melee (1d4+2 plus poison, sting) |
-| Full Atk | +10 melee (1d4+2 plus poison, sting), +4 melee (1d8+1, bite), +4 melee (1d6+1, 2 claws) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | breath weapon (DC 15; 3d10 points of fire damage), improved grab, poison (save DC 15; initial and secondary 2d6 Con), scent, immunities, darkvision 60 ft. |
-| AL | evil |
-| Fort | +7 |
-| Ref | +5 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 10 |
-| Con | 15 |
-| Int | 6 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                                                                                          |
+| Size              | Medium-size                                                                                                                                                |
+| Type              | dragon                                                                                                                                                     |
+| HD                | 7d12+14                                                                                                                                                    |
+| hp                | 59                                                                                                                                                         |
+| Mas               | 15                                                                                                                                                         |
+| Init              | +0                                                                                                                                                         |
+| Spd               | 20 ft., fly 60 ft. (poor), burrow 20 ft.                                                                                                                   |
+| Defense           | 18                                                                                                                                                         |
+| Touch             | 10                                                                                                                                                         |
+| Flat-Footed       | 18                                                                                                                                                         |
+| Defense Breakdown | +8 natural                                                                                                                                                 |
+| BAB               | +7                                                                                                                                                         |
+| Grap              | +9                                                                                                                                                         |
+| Atk               | +10 melee (1d4+2 plus poison, sting)                                                                                                                       |
+| Full Atk          | +10 melee (1d4+2 plus poison, sting), +4 melee (1d8+1, bite), +4 melee (1d6+1, 2 claws)                                                                    |
+| FS                | 5 ft. by 5 ft.                                                                                                                                             |
+| Reach             | 5 ft.                                                                                                                                                      |
+| SQ                | breath weapon (DC 15; 3d10 points of fire damage), improved grab, poison (save DC 15; initial and secondary 2d6 Con), scent, immunities, darkvision 60 ft. |
+| AL                | evil                                                                                                                                                       |
+| Fort              | +7                                                                                                                                                         |
+| Ref               | +5                                                                                                                                                         |
+| Will              | +6                                                                                                                                                         |
+| AP                | 0                                                                                                                                                          |
+| Rep               | +0                                                                                                                                                         |
+| Str               | 15                                                                                                                                                         |
+| Dex               | 10                                                                                                                                                         |
+| Con               | 15                                                                                                                                                         |
+| Int               | 6                                                                                                                                                          |
+| Wis               | 12                                                                                                                                                         |
+| Cha               | 10                                                                                                                                                         |
 
 **Skills:** Listen +10, Move Silently +7, Search +5, Spot +10 (+13
 during daylight).

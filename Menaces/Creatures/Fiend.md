@@ -83,39 +83,39 @@ level 10th; save DC 17 + spell level.
 
 ## Baal, Charismatic Hero 10/Negotiator 8
 
-| Stat | Value |
-|---|---|
-| CR | 25 |
-| Size | Huge |
-| Type | outsider |
-| HD | 8d8+80 plus 10d6+100 plus 8d8+80 |
-| hp | 367 |
-| Mas | 31 |
-| Init | +4 |
-| Spd | 30 ft., fly 80 ft. (poor) |
-| Defense | 34 |
-| Touch | 12 |
-| Flat-Footed | 30 |
-| Defense Breakdown | –2 size, +4 Dex, +6 class, +16 natural |
-| BAB | +19 |
-| Grap | +36 |
-| Atk | +26 melee (2d6+9, claw) |
-| Full Atk | +26 melee (2d6+9, 2 claws), or +26/+21/+16/+11 melee (by weapon), or +22/+17/+12/+7 ranged |
-| FS | 10 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | alternate form, aura of greed, conceal motive, damage reduction 10/+2, darkvision 120 ft., fear aura, immune to fire and poison, no sweat, react first, resistances, sow distrust, spell-like abilities, talk down several opponents |
-| AL | evil, law |
-| Fort | +25 |
-| Ref | +17 |
-| Will | +24 |
-| AP | 8 |
-| Rep | +11 |
-| Str | 28 |
-| Dex | 19 |
-| Con | 31 |
-| Int | 30 |
-| Wis | 24 |
-| Cha | 25 |
+| Stat              | Value                                                                                                                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 25                                                                                                                                                                                                                                   |
+| Size              | Huge                                                                                                                                                                                                                                 |
+| Type              | outsider                                                                                                                                                                                                                             |
+| HD                | 8d8+80 plus 10d6+100 plus 8d8+80                                                                                                                                                                                                     |
+| hp                | 367                                                                                                                                                                                                                                  |
+| Mas               | 31                                                                                                                                                                                                                                   |
+| Init              | +4                                                                                                                                                                                                                                   |
+| Spd               | 30 ft., fly 80 ft. (poor)                                                                                                                                                                                                            |
+| Defense           | 34                                                                                                                                                                                                                                   |
+| Touch             | 12                                                                                                                                                                                                                                   |
+| Flat-Footed       | 30                                                                                                                                                                                                                                   |
+| Defense Breakdown | –2 size, +4 Dex, +6 class, +16 natural                                                                                                                                                                                               |
+| BAB               | +19                                                                                                                                                                                                                                  |
+| Grap              | +36                                                                                                                                                                                                                                  |
+| Atk               | +26 melee (2d6+9, claw)                                                                                                                                                                                                              |
+| Full Atk          | +26 melee (2d6+9, 2 claws), or +26/+21/+16/+11 melee (by weapon), or +22/+17/+12/+7 ranged                                                                                                                                           |
+| FS                | 10 ft. by 5 ft.                                                                                                                                                                                                                      |
+| Reach             | 10 ft.                                                                                                                                                                                                                               |
+| SQ                | alternate form, aura of greed, conceal motive, damage reduction 10/+2, darkvision 120 ft., fear aura, immune to fire and poison, no sweat, react first, resistances, sow distrust, spell-like abilities, talk down several opponents |
+| AL                | evil, law                                                                                                                                                                                                                            |
+| Fort              | +25                                                                                                                                                                                                                                  |
+| Ref               | +17                                                                                                                                                                                                                                  |
+| Will              | +24                                                                                                                                                                                                                                  |
+| AP                | 8                                                                                                                                                                                                                                    |
+| Rep               | +11                                                                                                                                                                                                                                  |
+| Str               | 28                                                                                                                                                                                                                                   |
+| Dex               | 19                                                                                                                                                                                                                                   |
+| Con               | 31                                                                                                                                                                                                                                   |
+| Int               | 30                                                                                                                                                                                                                                   |
+| Wis               | 24                                                                                                                                                                                                                                   |
+| Cha               | 25                                                                                                                                                                                                                                   |
 
 **Occupation:** Entrepreneur.
 
@@ -173,39 +173,39 @@ weapon does not retain this ability outside the grasp of a knife fiend,
 although any bleeding wounds it has inflicted continue to bleed if the
 fleshraker is disarmed.
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 4d8+8 |
-| hp | 26 |
-| Mas | 14 |
-| Init | +4 |
-| Spd | 30 ft. |
-| Defense | 24 |
-| Touch | 14 |
-| Flat-Footed | 20 |
-| Defense Breakdown | +4 Dex, +9 natural, +1 leather jacket |
-| BAB | +4 |
-| Grap | +5 |
-| Atk | +9 melee (1d4+1/19–20, knife) |
-| Full Atk | +9 melee (1d4+1/19–20, knife) or +9 ranged (1d4+1/19–20, knife) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | damage reduction 10/ballistic, darkvision 60 ft., fire resistance 20, immunities, wounding weapon |
-| AL | evil, chaos |
-| Fort | +6 |
-| Ref | +8 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 12 |
-| Dex | 18 |
-| Con | 14 |
-| Int | 14 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                                 |
+| Size              | Medium-size                                                                                       |
+| Type              | outsider                                                                                          |
+| HD                | 4d8+8                                                                                             |
+| hp                | 26                                                                                                |
+| Mas               | 14                                                                                                |
+| Init              | +4                                                                                                |
+| Spd               | 30 ft.                                                                                            |
+| Defense           | 24                                                                                                |
+| Touch             | 14                                                                                                |
+| Flat-Footed       | 20                                                                                                |
+| Defense Breakdown | +4 Dex, +9 natural, +1 leather jacket                                                             |
+| BAB               | +4                                                                                                |
+| Grap              | +5                                                                                                |
+| Atk               | +9 melee (1d4+1/19–20, knife)                                                                     |
+| Full Atk          | +9 melee (1d4+1/19–20, knife) or +9 ranged (1d4+1/19–20, knife)                                   |
+| FS                | 5 ft. by 5 ft.                                                                                    |
+| Reach             | 5 ft.                                                                                             |
+| SQ                | damage reduction 10/ballistic, darkvision 60 ft., fire resistance 20, immunities, wounding weapon |
+| AL                | evil, chaos                                                                                       |
+| Fort              | +6                                                                                                |
+| Ref               | +8                                                                                                |
+| Will              | +5                                                                                                |
+| AP                | 0                                                                                                 |
+| Rep               | +0                                                                                                |
+| Str               | 12                                                                                                |
+| Dex               | 18                                                                                                |
+| Con               | 14                                                                                                |
+| Int               | 14                                                                                                |
+| Wis               | 12                                                                                                |
+| Cha               | 10                                                                                                |
 
 **Skills:** Balance +8, Bluff +4, Disguise +4, Escape Artist +8, Hide
 +8, Knowledge (arcane lore) +6, Knowledge (behavioral science) +6,
@@ -221,39 +221,39 @@ Weapon Finesse (knife), Weapon Focus (knife).
 
 ## Fleshraker Fast Hero 3
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 4d8+8 plus 3d8+4 |
-| hp | 43 |
-| Mas | 14 |
-| Init | +8 |
-| Spd | 30 ft. |
-| Defense | 28 |
-| Touch | 21 |
-| Flat-Footed | 24 |
-| Defense Breakdown | +4 Dex, +9 natural, +4 class, +1 leather jacket |
-| BAB | +6 |
-| Grap | +5 |
-| Atk | +11 melee (1d4+1/19–20, knife) |
-| Full Atk | +11/+6 melee (1d4+1/19–20, knife) or +11/+6 ranged (1d4+1/19–20, knife) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | damage reduction 10/ballistic, darkvision 60 ft., death hunger, fire resistance 20, immunities, wounding weapon |
-| AL | evil, chaos |
-| Fort | +6 |
-| Ref | +11 |
-| Will | +6 |
-| AP | 1 |
-| Rep | +1 |
-| Str | 12 |
-| Dex | 18 |
-| Con | 14 |
-| Int | 14 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                                               |
+| Size              | Medium-size                                                                                                     |
+| Type              | outsider                                                                                                        |
+| HD                | 4d8+8 plus 3d8+4                                                                                                |
+| hp                | 43                                                                                                              |
+| Mas               | 14                                                                                                              |
+| Init              | +8                                                                                                              |
+| Spd               | 30 ft.                                                                                                          |
+| Defense           | 28                                                                                                              |
+| Touch             | 21                                                                                                              |
+| Flat-Footed       | 24                                                                                                              |
+| Defense Breakdown | +4 Dex, +9 natural, +4 class, +1 leather jacket                                                                 |
+| BAB               | +6                                                                                                              |
+| Grap              | +5                                                                                                              |
+| Atk               | +11 melee (1d4+1/19–20, knife)                                                                                  |
+| Full Atk          | +11/+6 melee (1d4+1/19–20, knife) or +11/+6 ranged (1d4+1/19–20, knife)                                         |
+| FS                | 5 ft. by 5 ft.                                                                                                  |
+| Reach             | 5 ft.                                                                                                           |
+| SQ                | damage reduction 10/ballistic, darkvision 60 ft., death hunger, fire resistance 20, immunities, wounding weapon |
+| AL                | evil, chaos                                                                                                     |
+| Fort              | +6                                                                                                              |
+| Ref               | +11                                                                                                             |
+| Will              | +6                                                                                                              |
+| AP                | 1                                                                                                               |
+| Rep               | +1                                                                                                              |
+| Str               | 12                                                                                                              |
+| Dex               | 18                                                                                                              |
+| Con               | 14                                                                                                              |
+| Int               | 14                                                                                                              |
+| Wis               | 12                                                                                                              |
+| Cha               | 10                                                                                                              |
 
 **Skills:** Balance +10, Bluff +7, Disguise +7, Escape Artist +10, Hide
 +11, Knowledge (arcane lore) +6, Knowledge (behavioral science) +6,
@@ -326,39 +326,39 @@ body is instantly slain.
 **Telepathy (Su):** A harriken can communicate telepathically with any
 creature within 100 feet that has a language.
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 4d8+4 |
-| hp | 22 |
-| Mas | 13 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 21 |
-| Touch | 10 |
-| Flat-Footed | 21 |
-| Defense Breakdown | +9 natural, +2 leather armor |
-| BAB | +4 |
-| Grap | +5 |
-| Atk | +5 melee (1d6+1, slam) or +5 melee (1d8+1/19–20, longsword) |
-| Full Atk | +5 melee (1d6+1, slam) or +5 melee (1d8+1/19–20, longsword) or +4 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | Attach head, body blindsight, darkvision 60 ft., detach head, disguise self (DC 15), electrical rejuvenation, fire resistance 10, indestructible body, telepathy |
-| AL | evil |
-| Fort | +5 |
-| Ref | +4 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 13 |
-| Dex | 11 |
-| Con | 13 |
-| Int | 16 |
-| Wis | 15 |
-| Cha | 16 |
+| Stat              | Value                                                                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                                                                                |
+| Size              | Medium-size                                                                                                                                                      |
+| Type              | outsider                                                                                                                                                         |
+| HD                | 4d8+4                                                                                                                                                            |
+| hp                | 22                                                                                                                                                               |
+| Mas               | 13                                                                                                                                                               |
+| Init              | +0                                                                                                                                                               |
+| Spd               | 30 ft.                                                                                                                                                           |
+| Defense           | 21                                                                                                                                                               |
+| Touch             | 10                                                                                                                                                               |
+| Flat-Footed       | 21                                                                                                                                                               |
+| Defense Breakdown | +9 natural, +2 leather armor                                                                                                                                     |
+| BAB               | +4                                                                                                                                                               |
+| Grap              | +5                                                                                                                                                               |
+| Atk               | +5 melee (1d6+1, slam) or +5 melee (1d8+1/19–20, longsword)                                                                                                      |
+| Full Atk          | +5 melee (1d6+1, slam) or +5 melee (1d8+1/19–20, longsword) or +4 ranged                                                                                         |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                   |
+| Reach             | 5 ft.                                                                                                                                                            |
+| SQ                | Attach head, body blindsight, darkvision 60 ft., detach head, disguise self (DC 15), electrical rejuvenation, fire resistance 10, indestructible body, telepathy |
+| AL                | evil                                                                                                                                                             |
+| Fort              | +5                                                                                                                                                               |
+| Ref               | +4                                                                                                                                                               |
+| Will              | +6                                                                                                                                                               |
+| AP                | 0                                                                                                                                                                |
+| Rep               | +0                                                                                                                                                               |
+| Str               | 13                                                                                                                                                               |
+| Dex               | 11                                                                                                                                                               |
+| Con               | 13                                                                                                                                                               |
+| Int               | 16                                                                                                                                                               |
+| Wis               | 15                                                                                                                                                               |
+| Cha               | 16                                                                                                                                                               |
 
 **Skills:** Bluff +10, Disguise +10 (+20 when using disguise self
 ability), Hide +6, Intimidate +9, Listen +6, Move Silently +6,
@@ -387,39 +387,39 @@ poison.
 requirement for making long and high jumps. If it does move 20 feet
 before attempting a jump, the distance jumped is doubled.
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 1d8+2 |
-| hp | 6 |
-| Mas | 14 |
-| Init | +5 |
-| Spd | 35 ft. |
-| Defense | 18 |
-| Touch | 15 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +5 Dex, +3 natural |
-| BAB | +1 |
-| Grap | +2 |
-| Atk | +2 melee (1d4+1, claw) |
-| Full Atk | +2 melee (1d4+1, 2 claws) or +6 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | breath weapon (DC 12), damage reduction 10/silver, darkvision 60 ft., immunities, prodigious leap |
-| AL | chaos, evil |
-| Fort | +4 |
-| Ref | +7 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 13 |
-| Dex | 20 |
-| Con | 14 |
-| Int | 11 |
-| Wis | 13 |
-| Cha | 12 |
+| Stat              | Value                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| CR                | 2                                                                                                 |
+| Size              | Medium-size                                                                                       |
+| Type              | outsider                                                                                          |
+| HD                | 1d8+2                                                                                             |
+| hp                | 6                                                                                                 |
+| Mas               | 14                                                                                                |
+| Init              | +5                                                                                                |
+| Spd               | 35 ft.                                                                                            |
+| Defense           | 18                                                                                                |
+| Touch             | 15                                                                                                |
+| Flat-Footed       | 13                                                                                                |
+| Defense Breakdown | +5 Dex, +3 natural                                                                                |
+| BAB               | +1                                                                                                |
+| Grap              | +2                                                                                                |
+| Atk               | +2 melee (1d4+1, claw)                                                                            |
+| Full Atk          | +2 melee (1d4+1, 2 claws) or +6 ranged                                                            |
+| FS                | 5 ft. by 5 ft.                                                                                    |
+| Reach             | 5 ft.                                                                                             |
+| SQ                | breath weapon (DC 12), damage reduction 10/silver, darkvision 60 ft., immunities, prodigious leap |
+| AL                | chaos, evil                                                                                       |
+| Fort              | +4                                                                                                |
+| Ref               | +7                                                                                                |
+| Will              | +3                                                                                                |
+| AP                | 0                                                                                                 |
+| Rep               | +0                                                                                                |
+| Str               | 13                                                                                                |
+| Dex               | 20                                                                                                |
+| Con               | 14                                                                                                |
+| Int               | 11                                                                                                |
+| Wis               | 13                                                                                                |
+| Cha               | 12                                                                                                |
 
 **Skills:** Intimidate +4, Jump +8, Read/Write English, Speak English,
 Tumble +8.
@@ -430,39 +430,39 @@ Tumble +8.
 
 ## Jumping Jack Fast Hero 9
 
-| Stat | Value |
-|---|---|
-| CR | 11 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 1d8+2 plus 9d8+18 |
-| hp | 65 |
-| Mas | 14 |
-| Init | +9 |
-| Spd | 35 ft. |
-| Defense | 25 |
-| Touch | 22 |
-| Flat-Footed | 20 |
-| Defense Breakdown | +5 Dex, +3 natural, +7 class |
-| BAB | +7 |
-| Grap | +9 |
-| Atk | +9 melee (1d4+2, claw) |
-| Full Atk | +9 melee (1d4+2, 2 claws) or +13 ranged (2d6, Colt Python) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | breath weapon (DC 17), damage reduction 10/silver, darkvision 60 ft., immunities, prodigious leap |
-| AL | chaos, evil |
-| Fort | +7 |
-| Ref | +11 |
-| Will | +6 |
-| AP | 5 |
-| Rep | +3 |
-| Str | 15 |
-| Dex | 20 |
-| Con | 14 |
-| Int | 11 |
-| Wis | 13 |
-| Cha | 12 |
+| Stat              | Value                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| CR                | 11                                                                                                |
+| Size              | Medium-size                                                                                       |
+| Type              | outsider                                                                                          |
+| HD                | 1d8+2 plus 9d8+18                                                                                 |
+| hp                | 65                                                                                                |
+| Mas               | 14                                                                                                |
+| Init              | +9                                                                                                |
+| Spd               | 35 ft.                                                                                            |
+| Defense           | 25                                                                                                |
+| Touch             | 22                                                                                                |
+| Flat-Footed       | 20                                                                                                |
+| Defense Breakdown | +5 Dex, +3 natural, +7 class                                                                      |
+| BAB               | +7                                                                                                |
+| Grap              | +9                                                                                                |
+| Atk               | +9 melee (1d4+2, claw)                                                                            |
+| Full Atk          | +9 melee (1d4+2, 2 claws) or +13 ranged (2d6, Colt Python)                                        |
+| FS                | 5 ft. by 5 ft.                                                                                    |
+| Reach             | 5 ft.                                                                                             |
+| SQ                | breath weapon (DC 17), damage reduction 10/silver, darkvision 60 ft., immunities, prodigious leap |
+| AL                | chaos, evil                                                                                       |
+| Fort              | +7                                                                                                |
+| Ref               | +11                                                                                               |
+| Will              | +6                                                                                                |
+| AP                | 5                                                                                                 |
+| Rep               | +3                                                                                                |
+| Str               | 15                                                                                                |
+| Dex               | 20                                                                                                |
+| Con               | 14                                                                                                |
+| Int               | 11                                                                                                |
+| Wis               | 13                                                                                                |
+| Cha               | 12                                                                                                |
 
 **Occupation:** Adventurer.
 
@@ -517,39 +517,39 @@ like amount of damage to the creature trapped inside.
 **Skill Bonuses:** A kwevencha gains a +4 species bonus on Balance,
 Climb, Jump, and Spot checks.
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Large |
-| Type | outsider |
-| HD | 8d8+24 |
-| hp | 60 |
-| Mas | 20 |
-| Init | +0 |
-| Spd | 30 ft., climb 30 ft. |
-| Defense | 23 |
-| Touch | 10 |
-| Flat-Footed | 23 |
-| Defense Breakdown | –1 size, +14 natural |
-| BAB | +8 |
-| Grap | +18 |
-| Atk | +13 melee (1d8+6 plus poison, bite) or +7 ranged touch (poison spittle) |
-| Full Atk | +13 melee (1d8+6 plus poison, bite) and +8 melee (1d6+3, 2 claws) or +7 ranged touch (poison spittle) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 5 ft. |
-| SQ | Damage reduction 5/silver, darkvision 60 ft., immunities, improved grab, monstrous spider minions, poison (DC 17), spit poison, telepathy, web cocoon |
-| AL | chaos, evil |
-| Fort | +9 |
-| Ref | +6 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 11 |
-| Con | 17 |
-| Int | 8 |
-| Wis | 13 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                                                 |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 7                                                                                                                                                     |
+| Size              | Large                                                                                                                                                 |
+| Type              | outsider                                                                                                                                              |
+| HD                | 8d8+24                                                                                                                                                |
+| hp                | 60                                                                                                                                                    |
+| Mas               | 20                                                                                                                                                    |
+| Init              | +0                                                                                                                                                    |
+| Spd               | 30 ft., climb 30 ft.                                                                                                                                  |
+| Defense           | 23                                                                                                                                                    |
+| Touch             | 10                                                                                                                                                    |
+| Flat-Footed       | 23                                                                                                                                                    |
+| Defense Breakdown | –1 size, +14 natural                                                                                                                                  |
+| BAB               | +8                                                                                                                                                    |
+| Grap              | +18                                                                                                                                                   |
+| Atk               | +13 melee (1d8+6 plus poison, bite) or +7 ranged touch (poison spittle)                                                                               |
+| Full Atk          | +13 melee (1d8+6 plus poison, bite) and +8 melee (1d6+3, 2 claws) or +7 ranged touch (poison spittle)                                                 |
+| FS                | 10 ft. by 10 ft.                                                                                                                                      |
+| Reach             | 5 ft.                                                                                                                                                 |
+| SQ                | Damage reduction 5/silver, darkvision 60 ft., immunities, improved grab, monstrous spider minions, poison (DC 17), spit poison, telepathy, web cocoon |
+| AL                | chaos, evil                                                                                                                                           |
+| Fort              | +9                                                                                                                                                    |
+| Ref               | +6                                                                                                                                                    |
+| Will              | +7                                                                                                                                                    |
+| AP                | 0                                                                                                                                                     |
+| Rep               | +0                                                                                                                                                    |
+| Str               | 22                                                                                                                                                    |
+| Dex               | 11                                                                                                                                                    |
+| Con               | 17                                                                                                                                                    |
+| Int               | 8                                                                                                                                                     |
+| Wis               | 13                                                                                                                                                    |
+| Cha               | 12                                                                                                                                                    |
 
 **Skills:** Balance +11, Climb +17, Hide +3, Intimidate +8, Jump +13,
 Listen +8, Move Silently +7, Read/Write Abyssal, Speak Abyssal, Spot
@@ -605,39 +605,39 @@ A creature that saves against the murdergaunt’s whistle cannot be
 affected by the same murdergaunt’s whistle for 24 hours. The save DC for
 the whistle is Charisma-based.
 
-| Stat | Value |
-|---|---|
-| CR | 9 |
-| Size | Large |
-| Type | outsider |
-| HD | 9d8+27 |
-| hp | 67 |
-| Mas | 17 |
-| Init | +3 |
-| Spd | 40 ft., climb 20 ft. |
-| Defense | 25 |
-| Touch | 11 |
-| Flat-Footed | 23 |
-| Defense Breakdown | –1 size, +2 Dex, +14 natural |
-| BAB | +9 |
-| Grap | +17 |
-| Atk | +13 melee (1d6+5, armspike) |
-| Full Atk | +13 melee (1d6+5, 2 armspikes) or +12 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | Damage reduction 10/+1, darkvision 60 ft., fire resistance 10, immune to sonic/concussion damage, impale, telepathy, whistle (DC 16) |
-| AL | evil |
-| Fort | +9 |
-| Ref | +9 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 18 |
-| Dex | 16 |
-| Con | 16 |
-| Int | 13 |
-| Wis | 13 |
-| Cha | 15 |
+| Stat              | Value                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 9                                                                                                                                    |
+| Size              | Large                                                                                                                                |
+| Type              | outsider                                                                                                                             |
+| HD                | 9d8+27                                                                                                                               |
+| hp                | 67                                                                                                                                   |
+| Mas               | 17                                                                                                                                   |
+| Init              | +3                                                                                                                                   |
+| Spd               | 40 ft., climb 20 ft.                                                                                                                 |
+| Defense           | 25                                                                                                                                   |
+| Touch             | 11                                                                                                                                   |
+| Flat-Footed       | 23                                                                                                                                   |
+| Defense Breakdown | –1 size, +2 Dex, +14 natural                                                                                                         |
+| BAB               | +9                                                                                                                                   |
+| Grap              | +17                                                                                                                                  |
+| Atk               | +13 melee (1d6+5, armspike)                                                                                                          |
+| Full Atk          | +13 melee (1d6+5, 2 armspikes) or +12 ranged                                                                                         |
+| FS                | 5 ft. by 5 ft.                                                                                                                       |
+| Reach             | 10 ft.                                                                                                                               |
+| SQ                | Damage reduction 10/+1, darkvision 60 ft., fire resistance 10, immune to sonic/concussion damage, impale, telepathy, whistle (DC 16) |
+| AL                | evil                                                                                                                                 |
+| Fort              | +9                                                                                                                                   |
+| Ref               | +9                                                                                                                                   |
+| Will              | +7                                                                                                                                   |
+| AP                | 0                                                                                                                                    |
+| Rep               | +0                                                                                                                                   |
+| Str               | 18                                                                                                                                   |
+| Dex               | 16                                                                                                                                   |
+| Con               | 16                                                                                                                                   |
+| Int               | 13                                                                                                                                   |
+| Wis               | 13                                                                                                                                   |
+| Cha               | 15                                                                                                                                   |
 
 **Skills:** Balance +12, Climb +13, Escape Artist +12, Hide +14, Jump
 +13, Listen +10, Move Silently +14, Read/Write Abyssal, Read/Write
@@ -685,39 +685,39 @@ horrible claws. The target need not be looking at the stygilor, and
 wounds inflicted by this attack leave nasty scars once healed. This is a
 mind-affecting ability. The save DC is Charisma-based.
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Medium-size |
-| Type | outsider |
-| HD | 6d8+12 |
-| hp | 39 |
-| Mas | 18 |
-| Init | –1 |
-| Spd | 20 ft. |
-| Defense | 18 |
-| Touch | 9 |
-| Flat-Footed | 18 |
-| Defense Breakdown | –1 size, +9 natural |
-| BAB | +6 |
-| Grap | +8 |
-| Atk | +8 melee (1d4+2, claw) |
-| Full Atk | +8 melee (1d4+2, 2 claws) and +3 melee (1d6+1, bite) or +5 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | Damage reduction 5/piercing, darkvision 60 ft., disease sense, frightful presence (DC 15), immune to disease, *invisibility*, telepathy, wounding gaze (DC 15) |
-| AL | chaos, evil |
-| Fort | +7 |
-| Ref | +4 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 8 |
-| Con | 15 |
-| Int | 12 |
-| Wis | 10 |
-| Cha | 15 |
+| Stat              | Value                                                                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                                                                              |
+| Size              | Medium-size                                                                                                                                                    |
+| Type              | outsider                                                                                                                                                       |
+| HD                | 6d8+12                                                                                                                                                         |
+| hp                | 39                                                                                                                                                             |
+| Mas               | 18                                                                                                                                                             |
+| Init              | –1                                                                                                                                                             |
+| Spd               | 20 ft.                                                                                                                                                         |
+| Defense           | 18                                                                                                                                                             |
+| Touch             | 9                                                                                                                                                              |
+| Flat-Footed       | 18                                                                                                                                                             |
+| Defense Breakdown | –1 size, +9 natural                                                                                                                                            |
+| BAB               | +6                                                                                                                                                             |
+| Grap              | +8                                                                                                                                                             |
+| Atk               | +8 melee (1d4+2, claw)                                                                                                                                         |
+| Full Atk          | +8 melee (1d4+2, 2 claws) and +3 melee (1d6+1, bite) or +5 ranged                                                                                              |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                 |
+| Reach             | 5 ft.                                                                                                                                                          |
+| SQ                | Damage reduction 5/piercing, darkvision 60 ft., disease sense, frightful presence (DC 15), immune to disease, *invisibility*, telepathy, wounding gaze (DC 15) |
+| AL                | chaos, evil                                                                                                                                                    |
+| Fort              | +7                                                                                                                                                             |
+| Ref               | +4                                                                                                                                                             |
+| Will              | +5                                                                                                                                                             |
+| AP                | 0                                                                                                                                                              |
+| Rep               | +0                                                                                                                                                             |
+| Str               | 15                                                                                                                                                             |
+| Dex               | 8                                                                                                                                                              |
+| Con               | 15                                                                                                                                                             |
+| Int               | 12                                                                                                                                                             |
+| Wis               | 10                                                                                                                                                             |
+| Cha               | 15                                                                                                                                                             |
 
 **Skills:** Bluff +11, Intimidate +11, Knowledge (any one) +10, Listen
 +9, Read/Write Abyssal, Read/Write Language (any one), Sense Motive +9,

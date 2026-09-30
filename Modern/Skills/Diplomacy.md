@@ -1,10 +1,10 @@
 # Diplomacy
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -23,22 +23,22 @@ attitude with the use of the Diplomacy skill. The character doesn’t
 declare a specific outcome he or she is trying for; instead, make the
 check and compare the result to the table.
 
-| Attitude | Means | Possible Actions |
-|---|---|---|
-| Hostile | Will take risks to hurt or avoid you | Attack, interfere, berate, flee |
-| Unfriendly | Wishes you ill | Mislead, gossip, avoid, watch suspiciously, insult |
-| Indifferent | Doesn’t much care | Act as socially expected |
-| Friendly | Wishes you well | Chat, advise, offer limited help, advocate |
-| Helpful | Will take risks to help you | Protect, back up, heal, aid |
+| Attitude    | Means                                | Possible Actions                                   |
+| ----------- | ------------------------------------ | -------------------------------------------------- |
+| Hostile     | Will take risks to hurt or avoid you | Attack, interfere, berate, flee                    |
+| Unfriendly  | Wishes you ill                       | Mislead, gossip, avoid, watch suspiciously, insult |
+| Indifferent | Doesn’t much care                    | Act as socially expected                           |
+| Friendly    | Wishes you well                      | Chat, advise, offer limited help, advocate         |
+| Helpful     | Will take risks to help you          | Protect, back up, heal, aid                        |
 
 **Table: Change Attitude DCs**
 
-| Initial Attitude | Hostile | Unfriendly | Indifferent | Friendly | Helpful |
-|---|---|---|---|---|---|
-| Hostile | 19 or less | 20 | 25 | 35 | 45 |
-| Unfriendly | 4 or less | 5 | 15 | 25 | 35 |
-| Indifferent | — | 0 or less | 1 | 15 | 25 |
-| Friendly | — | — | 0 or less | 1 | 15 |
+| Initial Attitude | Hostile    | Unfriendly | Indifferent | Friendly | Helpful |
+| ---------------- | ---------- | ---------- | ----------- | -------- | ------- |
+| Hostile          | 19 or less | 20         | 25          | 35       | 45      |
+| Unfriendly       | 4 or less  | 5          | 15          | 25       | 35      |
+| Indifferent      | —          | 0 or less  | 1           | 15       | 25      |
+| Friendly         | —          | —          | 0 or less   | 1        | 15      |
 
 ## Try Again?
 
@@ -84,9 +84,9 @@ succeeds in the check, he or she gains a +2 bonus on the Diplomacy
 check. For every point by which the hero beats the DC, increase the
 bonus by +1 (to a total maximum bonus of +10).
 
-| Bribe Target | Purchase DC |
-|---|---|
-| Bouncer | 6 |
-| Bureaucrat | 10 |
-| Informant | 7 |
-| Police officer | 10 |
+| Bribe Target   | Purchase DC |
+| -------------- | ----------- |
+| Bouncer        | 6           |
+| Bureaucrat     | 10          |
+| Informant      | 7           |
+| Police officer | 10          |

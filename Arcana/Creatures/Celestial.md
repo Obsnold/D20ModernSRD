@@ -48,57 +48,57 @@ additional languages equal to their Intelligence bonus.
 
 **Table: Celectial Immunities, Resistances, and Damage Reduction**
 
-| Roll d% | Immunity | Roll d% | Resistance | Roll d% | Damage Reduction |
-|---|---|---|---|---|---|
-| 01–06 | Acid damage | 01–21 | None (do not roll again) | 01–33 | None (do not roll again) |
-| 07–12 | Cold damage | 22–27 | Acid resistance 10 | 34–45 | 5/specific weapon type¹ |
-| 13–18 | Sonic/concussion damage | 28–30 | Acid resistance 20 | 46–57 | 10/specific weapon type¹ |
-| 19–24 | Electricity damage | 31–36 | Cold resistance 10 | 58–63 | 20/specific weapon type¹ |
-| 25–30 | Fire damage | 37–39 | Cold resistance 20 | 64–72 | 5/+1 |
-| 31–36 | Ballistic damage | 40–45 | Sonic/concussion resistance 10 | 73–81 | 10/+1 |
-| 37–42 | Bludgeoning damage | 46–48 | Sonic/concussion resistance 20 | 82–84 | 15/+1 |
-| 43–48 | Piercing damage | 49–54 | Electricity resistance 10 | 85–87 | 20/+1 |
-| 49–54 | Slashing damage | 55–57 | Electricity resistance 20 | 88–90 | 5/+2 |
-| 55–60 | Poison damage | 58–63 | Fire resistance 10 | 91–93 | 10/+2 |
-| 61–66 | Radiation damage | 64–66 | Fire resistance 20 | 94–98 | 15/+2 |
-| 67–100 | Choose one, and roll again | 67–100 | Choose one, and roll again | 99–100 | 20/+2 |
+| Roll d% | Immunity                   | Roll d% | Resistance                     | Roll d% | Damage Reduction         |
+| ------- | -------------------------- | ------- | ------------------------------ | ------- | ------------------------ |
+| 01–06   | Acid damage                | 01–21   | None (do not roll again)       | 01–33   | None (do not roll again) |
+| 07–12   | Cold damage                | 22–27   | Acid resistance 10             | 34–45   | 5/specific weapon type¹  |
+| 13–18   | Sonic/concussion damage    | 28–30   | Acid resistance 20             | 46–57   | 10/specific weapon type¹ |
+| 19–24   | Electricity damage         | 31–36   | Cold resistance 10             | 58–63   | 20/specific weapon type¹ |
+| 25–30   | Fire damage                | 37–39   | Cold resistance 20             | 64–72   | 5/+1                     |
+| 31–36   | Ballistic damage           | 40–45   | Sonic/concussion resistance 10 | 73–81   | 10/+1                    |
+| 37–42   | Bludgeoning damage         | 46–48   | Sonic/concussion resistance 20 | 82–84   | 15/+1                    |
+| 43–48   | Piercing damage            | 49–54   | Electricity resistance 10      | 85–87   | 20/+1                    |
+| 49–54   | Slashing damage            | 55–57   | Electricity resistance 20      | 88–90   | 5/+2                     |
+| 55–60   | Poison damage              | 58–63   | Fire resistance 10             | 91–93   | 10/+2                    |
+| 61–66   | Radiation damage           | 64–66   | Fire resistance 20             | 94–98   | 15/+2                    |
+| 67–100  | Choose one, and roll again | 67–100  | Choose one, and roll again     | 99–100  | 20/+2                    |
 
 1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
 
 ## Gotthammer (Avenging Angel)
 
-| Stat | Value |
-|---|---|
-| CR | 15 |
-| Size/Type | Medium outsider |
-| HD | 14d8+70 |
-| hp | 133 |
-| Mas | 20 |
-| Init | +4 (Improved Initiative) |
-| Spd | 30 ft., fly 60 ft. (perfect) |
-| Defense | 27 |
-| Touch | 10 |
-| Flat-Footed | 27 |
-| Defense Breakdown | +17 natural |
-| BAB | +14 |
-| Grap | +18 |
-| Atk | +21 melee (2d6+9/19–20, *+3 greatsword*) |
-| Full Atk | +21/+16/+11 melee (2d6+7/19–20, *+3 greatsword*) or +14/+9/+4 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | acid and fire resistance 10, aura of menace, call/dismiss weapon, damage reduction 10/+1, greater incarnation, imbue weapon, immune to ballistic damage and poison, keen vision, tongues |
-| AL | good, law |
-| Fort | +14 |
-| Ref | +9 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 18 |
-| Dex | 11 |
-| Con | 20 |
-| Int | 11 |
-| Wis | 16 |
-| Cha | 18 |
+| Stat              | Value                                                                                                                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 15                                                                                                                                                                                       |
+| Size/Type         | Medium outsider                                                                                                                                                                          |
+| HD                | 14d8+70                                                                                                                                                                                  |
+| hp                | 133                                                                                                                                                                                      |
+| Mas               | 20                                                                                                                                                                                       |
+| Init              | +4 (Improved Initiative)                                                                                                                                                                 |
+| Spd               | 30 ft., fly 60 ft. (perfect)                                                                                                                                                             |
+| Defense           | 27                                                                                                                                                                                       |
+| Touch             | 10                                                                                                                                                                                       |
+| Flat-Footed       | 27                                                                                                                                                                                       |
+| Defense Breakdown | +17 natural                                                                                                                                                                              |
+| BAB               | +14                                                                                                                                                                                      |
+| Grap              | +18                                                                                                                                                                                      |
+| Atk               | +21 melee (2d6+9/19–20, *+3 greatsword*)                                                                                                                                                 |
+| Full Atk          | +21/+16/+11 melee (2d6+7/19–20, *+3 greatsword*) or +14/+9/+4 ranged                                                                                                                     |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                           |
+| Reach             | 5 ft.                                                                                                                                                                                    |
+| SQ                | acid and fire resistance 10, aura of menace, call/dismiss weapon, damage reduction 10/+1, greater incarnation, imbue weapon, immune to ballistic damage and poison, keen vision, tongues |
+| AL                | good, law                                                                                                                                                                                |
+| Fort              | +14                                                                                                                                                                                      |
+| Ref               | +9                                                                                                                                                                                       |
+| Will              | +12                                                                                                                                                                                      |
+| AP                | 0                                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                                       |
+| Str               | 18                                                                                                                                                                                       |
+| Dex               | 11                                                                                                                                                                                       |
+| Con               | 20                                                                                                                                                                                       |
+| Int               | 11                                                                                                                                                                                       |
+| Wis               | 16                                                                                                                                                                                       |
+| Cha               | 18                                                                                                                                                                                       |
 
 **Skills**: Escape Artist +14, Hide +14, Intimidate +18,
 Knowledge (theology and philosophy) +14, Listen +17, Move Silently +14,

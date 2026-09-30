@@ -24,11 +24,11 @@ does it make you proficient with the item. The DC of the Knowledge
 (technology) check depends on the item being identified and the
 difference in Progress Level, as shown below:
 
-| Unfamiliar Item | DC |
-|---|---|
-| Basic tool or instrument | 10 |
-| Robotic or vehicular component | 15 |
-| Cybernetic attachment | 20 |
-| Alien weapon or nanotechnology | 25 |
-| Alien artifact | 30 |
-| Each step in Progress Level (up or down) | +5 |
+| Unfamiliar Item                          | DC  |
+| ---------------------------------------- | --- |
+| Basic tool or instrument                 | 10  |
+| Robotic or vehicular component           | 15  |
+| Cybernetic attachment                    | 20  |
+| Alien weapon or nanotechnology           | 25  |
+| Alien artifact                           | 30  |
+| Each step in Progress Level (up or down) | +5  |

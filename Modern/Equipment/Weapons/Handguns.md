@@ -28,25 +28,25 @@ Ranged weapons that use box magazines come with one full magazine.
 
 **Table: Ranged Weapons: Handguns (require the Personal Firearms Proficiency feat)**
 
-| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Beretta 92F (9mm autoloader) | 2d6 | 20 | Ballistic | 40 ft. | S | 15 box | Small | 3 lb. | 16 | Lic (+1) |
-| Beretta 93R (9mm machine pistol) | 2d6 | 20 | Ballistic | 30 ft. | S,A | 20 box | Med | 3 lb. | 18 | Res (+2) |
-| Colt Double Eagle (10mm autoloader) | 2d6 | 20 | Ballistic | 30 ft. | S | 9 box | Small | 3 lb. | 16 | Lic (+1) |
-| Colt M1911 (.45 autoloader) | 2d6 | 20 | Ballistic | 30 ft. | S | 7 box | Small | 3 lb. | 15 | Lic (+1) |
-| Colt Python¹(.357 revolver) | 2d6 | 20 | Ballistic | 40 ft. | S | 6 cyl. | Med | 3 lb. | 5 | Lic (+1) |
-| Derringer (.45) | 2d6 | 20 | Ballistic | 10 ft. | Single | 2 int. | Tiny | 1 lb. | 14 | Lic (+1) |
-| Desert Eagle (.50AE autoloader) | 2d8 | 20 | Ballistic | 40 ft. | S | 8 box | Med | 4 lb. | 18 | Lic (+1) |
-| Glock 17¹ (9mm autoloader) | 2d6 | 20 | Ballistic | 30 ft. | S | 17 box | Small | 2 lb. | 18 | Lic (+1) |
-| Glock 20¹(10mm autoloader) | 2d6 | 20 | Ballistic | 40 ft. | S | 15 box | Small | 3 lb. | 18 | Lic (+1) |
-| MAC Ingram M10 (.45 machine pistol) | 2d6 | 20 | Ballistic | 40 ft. | S, A | 30 box | Med | 6 lb. | 15 | Res (+2) |
-| Pathfinder (.22 revolver) | 2d4 | 20 | Ballistic | 20 ft. | S | 6 cyl. | Tiny | 1 lb. | 14 | Lic (+1) |
-| Ruger Service-Six (.38S revolver) | 2d6 | 20 | Ballistic | 30 ft. | S | 6 cyl. | Small | 2 lb. | 14 | Lic (+1) |
-| S&W M29 (.44 magnum revolver) | 2d8 | 20 | Ballistic | 30 ft. | S | 6 cyl. | Med | 3 lb. | 15 | Lic (+1) |
-| SITES M9 (9mm autoloader) | 2d6 | 20 | Ballistic | 30 ft. | S | 8 box | Tiny | 2 lb. | 15 | Lic (+1) |
-| Skorpion (.32 machine pistol) | 2d4 | 20 | Ballistic | 40 ft. | S, A | 20 box | Med | 4 lb. | 17 | Res (+2) |
-| TEC-9 (9mm machine pistol) | 2d6 | 20 | Ballistic | 40 ft. | S or A | 32 box | Med | 4 lb. | 14 | Res (+2) |
-| Walther PPK (.32 autoloader) | 2d4 | 20 | Ballistic | 30 ft. | S | 7 box | Small | 1 lb. | 15 | Lic (+1) |
+| Weapon                              | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size  | Weight | Purchase DC | Restriction |
+| ----------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ----- | ------ | ----------- | ----------- |
+| Beretta 92F (9mm autoloader)        | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 15 box   | Small | 3 lb.  | 16          | Lic (+1)    |
+| Beretta 93R (9mm machine pistol)    | 2d6    | 20       | Ballistic   | 30 ft.          | S,A          | 20 box   | Med   | 3 lb.  | 18          | Res (+2)    |
+| Colt Double Eagle (10mm autoloader) | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 9 box    | Small | 3 lb.  | 16          | Lic (+1)    |
+| Colt M1911 (.45 autoloader)         | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 7 box    | Small | 3 lb.  | 15          | Lic (+1)    |
+| Colt Python¹(.357 revolver)         | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 6 cyl.   | Med   | 3 lb.  | 5           | Lic (+1)    |
+| Derringer (.45)                     | 2d6    | 20       | Ballistic   | 10 ft.          | Single       | 2 int.   | Tiny  | 1 lb.  | 14          | Lic (+1)    |
+| Desert Eagle (.50AE autoloader)     | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 8 box    | Med   | 4 lb.  | 18          | Lic (+1)    |
+| Glock 17¹ (9mm autoloader)          | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 17 box   | Small | 2 lb.  | 18          | Lic (+1)    |
+| Glock 20¹(10mm autoloader)          | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 15 box   | Small | 3 lb.  | 18          | Lic (+1)    |
+| MAC Ingram M10 (.45 machine pistol) | 2d6    | 20       | Ballistic   | 40 ft.          | S, A         | 30 box   | Med   | 6 lb.  | 15          | Res (+2)    |
+| Pathfinder (.22 revolver)           | 2d4    | 20       | Ballistic   | 20 ft.          | S            | 6 cyl.   | Tiny  | 1 lb.  | 14          | Lic (+1)    |
+| Ruger Service-Six (.38S revolver)   | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 6 cyl.   | Small | 2 lb.  | 14          | Lic (+1)    |
+| S&W M29 (.44 magnum revolver)       | 2d8    | 20       | Ballistic   | 30 ft.          | S            | 6 cyl.   | Med   | 3 lb.  | 15          | Lic (+1)    |
+| SITES M9 (9mm autoloader)           | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 8 box    | Tiny  | 2 lb.  | 15          | Lic (+1)    |
+| Skorpion (.32 machine pistol)       | 2d4    | 20       | Ballistic   | 40 ft.          | S, A         | 20 box   | Med   | 4 lb.  | 17          | Res (+2)    |
+| TEC-9 (9mm machine pistol)          | 2d6    | 20       | Ballistic   | 40 ft.          | S or A       | 32 box   | Med   | 4 lb.  | 14          | Res (+2)    |
+| Walther PPK (.32 autoloader)        | 2d4    | 20       | Ballistic   | 30 ft.          | S            | 7 box    | Small | 1 lb.  | 15          | Lic (+1)    |
 
 ¹ This mastercraft weapon grants a +1 bonus on attack rolls.
 

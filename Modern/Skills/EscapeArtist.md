@@ -1,23 +1,23 @@
 # Escape Artist
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | No |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | No    |
+| Armor Penalty | Yes   |
 
 ## Check
 
 Make a check to escape from restraints or to squeeze through
 a tight space.
 
-| Restraint | DC |
-|---|---|
-| Ropes | Opponent’s Dex check +20 |
-| Net | 20 |
-| Handcuffs | 35 |
-| Tight space | 30 |
-| Grappler | Opponent’s grapple check |
+| Restraint   | DC                       |
+| ----------- | ------------------------ |
+| Ropes       | Opponent’s Dex check +20 |
+| Net         | 20                       |
+| Handcuffs   | 35                       |
+| Tight space | 30                       |
+| Grappler    | Opponent’s grapple check |
 
 For ropes, a character’s Escape Artist check is opposed by the Dexterity
 check result of the opponent who tied the bonds. Since it’s easier to

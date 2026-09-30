@@ -1,17 +1,17 @@
 # Restoration
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Healing |
-| Level | Acolyte 4 |
-| Components | V, S. M |
-| Casting Time | 3 rounds |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | Instantaneous |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| School           | Conjuration             |
+| Subschool        | Healing                 |
+| Level            | Acolyte 4               |
+| Components       | V, S. M                 |
+| Casting Time     | 3 rounds                |
+| Range            | Touch                   |
+| Target           | Creature touched        |
+| Duration         | Instantaneous           |
+| Saving Throw     | Will negates (harmless) |
+| Spell Resistance | Yes (harmless)          |
 
 Restoration cures all temporary ability damage and restores all points
 permanently drained from a single ability score (caster’s choice if more

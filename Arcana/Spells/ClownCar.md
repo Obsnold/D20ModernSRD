@@ -1,17 +1,17 @@
 # Clown Car
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Level | Arcane 4 |
-| Components | V, S, F |
-| Casting Time | 1 minute |
-| Range | 0 ft. |
-| Effect | Extradimensional space within an enclosed vehicle capable of holding one creature per caster level |
-| Duration | 1 hour/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| School           | Conjuration                                                                                        |
+| Subschool        | Summoning                                                                                          |
+| Level            | Arcane 4                                                                                           |
+| Components       | V, S, F                                                                                            |
+| Casting Time     | 1 minute                                                                                           |
+| Range            | 0 ft.                                                                                              |
+| Effect           | Extradimensional space within an enclosed vehicle capable of holding one creature per caster level |
+| Duration         | 1 hour/level                                                                                       |
+| Saving Throw     | None                                                                                               |
+| Spell Resistance | No                                                                                                 |
 
 You create a temporary extradimensional space within an enclosed
 passenger compartment of a vehicle. The spell cannot be cast on vehicles

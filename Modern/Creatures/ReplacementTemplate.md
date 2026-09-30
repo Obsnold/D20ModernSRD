@@ -84,38 +84,38 @@ language known by the original.
 
 ## Replacement Scientist (Human Smart Ordinary 5/Charismatic Ordinary 2)
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size | Medium-size |
-| Type | humanoid |
-| HD | 7d6+7 |
-| hp | 31 |
-| Mas | 12 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 14 |
-| Touch | 14 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +1 Dex, +3 class |
-| BAB | +3 |
-| Grap | +3 |
-| Atk | +3 melee (1d3, unarmed strike) |
-| Full Atk | +3 melee (1d3, unarmed strike), or +4 ranged (2d6, SITES M9) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| AL | Creator |
-| Fort | +4 |
-| Ref | +4 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +4 |
-| Str | 10 |
-| Dex | 12 |
-| Con | 12 |
-| Int | 12 |
-| Wis | 11 |
-| Cha | 9 |
+| Stat              | Value                                                        |
+| ----------------- | ------------------------------------------------------------ |
+| CR                | 6                                                            |
+| Size              | Medium-size                                                  |
+| Type              | humanoid                                                     |
+| HD                | 7d6+7                                                        |
+| hp                | 31                                                           |
+| Mas               | 12                                                           |
+| Init              | +1                                                           |
+| Spd               | 30 ft.                                                       |
+| Defense           | 14                                                           |
+| Touch             | 14                                                           |
+| Flat-Footed       | 13                                                           |
+| Defense Breakdown | +1 Dex, +3 class                                             |
+| BAB               | +3                                                           |
+| Grap              | +3                                                           |
+| Atk               | +3 melee (1d3, unarmed strike)                               |
+| Full Atk          | +3 melee (1d3, unarmed strike), or +4 ranged (2d6, SITES M9) |
+| FS                | 5 ft. by 5 ft.                                               |
+| Reach             | 5 ft.                                                        |
+| AL                | Creator                                                      |
+| Fort              | +4                                                           |
+| Ref               | +4                                                           |
+| Will              | +3                                                           |
+| AP                | 0                                                            |
+| Rep               | +4                                                           |
+| Str               | 10                                                           |
+| Dex               | 12                                                           |
+| Con               | 12                                                           |
+| Int               | 12                                                           |
+| Wis               | 11                                                           |
+| Cha               | 9                                                            |
 
 **Skills:** Bluff +4, Computer Use +4, Craft (chemical) +5, Decipher
 Script +3, Disguise +5 (+11 with contact lenses), Disable Device +3,

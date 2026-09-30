@@ -56,7 +56,7 @@ access to the following psionic power:
 ## Psionic Blank
 
 | Stat               | Value          |
-|---|---|
+| ------------------ | -------------- |
 | Key Ability        | Wisdom         |
 | Descriptors        | Mind-Affecting |
 | Level              | Telepath 1     |

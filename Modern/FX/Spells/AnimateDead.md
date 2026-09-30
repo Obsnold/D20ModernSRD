@@ -1,17 +1,17 @@
 # Animate Dead
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Descriptors | Evil |
-| Level | Acolyte 3, Mage 4 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Touch |
-| Targets | One or more corpses touched |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                       |
+| ---------------- | --------------------------- |
+| School           | Necromancy                  |
+| Descriptors      | Evil                        |
+| Level            | Acolyte 3, Mage 4           |
+| Components       | V, S, M                     |
+| Casting Time     | Attack action               |
+| Range            | Touch                       |
+| Targets          | One or more corpses touched |
+| Duration         | Instantaneous               |
+| Saving Throw     | None                        |
+| Spell Resistance | No                          |
 
 This spell turns the bones or bodies of dead creatures into undead
 skeletons or zombies that follow the caster’s spoken commands. The

@@ -4,11 +4,11 @@ A student can be in high school, college, or graduate school. He or she
 could be in a seminary, a military school, or a private institution. A
 college-age student should also pick a major field of study.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

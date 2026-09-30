@@ -49,39 +49,39 @@ damage.
 
 ## Fire Wisp
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size | Diminutive |
-| Type | elemental (fire) |
-| HD | 2d8 |
-| hp | 9 |
-| Mas | — |
-| Init | +4 |
-| Spd | fly 20 ft. (perfect; can’t run) |
-| Defense | 18 |
-| Touch | 18 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +4 size, +4 Dex |
-| BAB | +1 |
-| Grap | — |
-| Atk | +9 melee touch (1d6 fire, touch) |
-| Full Atk | +9 melee touch (1d6 fire, touch) |
-| FS | 1 ft. by 1 ft. |
-| Reach | 0 ft. |
-| SQ | blindsight 60 ft., damage reduction 10/+1, elemental, fiery leap, fire subtype, gaseous, ignite, immunities |
-| AL | evil or none |
-| Fort | +0 |
-| Ref | +7 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | — |
-| Dex | 18 |
-| Con | 10 |
-| Int | 2 |
-| Wis | 14 |
-| Cha | 6 |
+| Stat              | Value                                                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                                           |
+| Size              | Diminutive                                                                                                  |
+| Type              | elemental (fire)                                                                                            |
+| HD                | 2d8                                                                                                         |
+| hp                | 9                                                                                                           |
+| Mas               | —                                                                                                           |
+| Init              | +4                                                                                                          |
+| Spd               | fly 20 ft. (perfect; can’t run)                                                                             |
+| Defense           | 18                                                                                                          |
+| Touch             | 18                                                                                                          |
+| Flat-Footed       | 14                                                                                                          |
+| Defense Breakdown | +4 size, +4 Dex                                                                                             |
+| BAB               | +1                                                                                                          |
+| Grap              | —                                                                                                           |
+| Atk               | +9 melee touch (1d6 fire, touch)                                                                            |
+| Full Atk          | +9 melee touch (1d6 fire, touch)                                                                            |
+| FS                | 1 ft. by 1 ft.                                                                                              |
+| Reach             | 0 ft.                                                                                                       |
+| SQ                | blindsight 60 ft., damage reduction 10/+1, elemental, fiery leap, fire subtype, gaseous, ignite, immunities |
+| AL                | evil or none                                                                                                |
+| Fort              | +0                                                                                                          |
+| Ref               | +7                                                                                                          |
+| Will              | +2                                                                                                          |
+| AP                | 0                                                                                                           |
+| Rep               | +0                                                                                                          |
+| Str               | —                                                                                                           |
+| Dex               | 18                                                                                                          |
+| Con               | 10                                                                                                          |
+| Int               | 2                                                                                                           |
+| Wis               | 14                                                                                                          |
+| Cha               | 6                                                                                                           |
 
 **Skills:** Listen +3, Spot +3.
 
@@ -91,39 +91,39 @@ damage.
 
 ## Advanced Fire Wisp
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Tiny |
-| Type | elemental (fire) |
-| HD | 5d8 |
-| hp | 22 |
-| Mas | — |
-| Init | +3 |
-| Spd | fly 20 ft. (perfect; can’t run) |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +2 size, +3 Dex |
-| BAB | +3 |
-| Grap | — |
-| Atk | +8 melee touch (1d6 fire, touch) |
-| Full Atk | +8 melee touch (1d6 fire, touch) |
-| FS | 1 ft. by 1 ft. |
-| Reach | 0 ft. |
-| SQ | blindsight 60 ft., damage reduction 10/+1, elemental, fiery leap, fire subtype, gaseous, ignite, immunities |
-| AL | evil or none |
-| Fort | +1 |
-| Ref | +7 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | — |
-| Dex | 16 |
-| Con | 10 |
-| Int | 2 |
-| Wis | 14 |
-| Cha | 6 |
+| Stat              | Value                                                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| CR                | 5                                                                                                           |
+| Size              | Tiny                                                                                                        |
+| Type              | elemental (fire)                                                                                            |
+| HD                | 5d8                                                                                                         |
+| hp                | 22                                                                                                          |
+| Mas               | —                                                                                                           |
+| Init              | +3                                                                                                          |
+| Spd               | fly 20 ft. (perfect; can’t run)                                                                             |
+| Defense           | 15                                                                                                          |
+| Touch             | 15                                                                                                          |
+| Flat-Footed       | 12                                                                                                          |
+| Defense Breakdown | +2 size, +3 Dex                                                                                             |
+| BAB               | +3                                                                                                          |
+| Grap              | —                                                                                                           |
+| Atk               | +8 melee touch (1d6 fire, touch)                                                                            |
+| Full Atk          | +8 melee touch (1d6 fire, touch)                                                                            |
+| FS                | 1 ft. by 1 ft.                                                                                              |
+| Reach             | 0 ft.                                                                                                       |
+| SQ                | blindsight 60 ft., damage reduction 10/+1, elemental, fiery leap, fire subtype, gaseous, ignite, immunities |
+| AL                | evil or none                                                                                                |
+| Fort              | +1                                                                                                          |
+| Ref               | +7                                                                                                          |
+| Will              | +3                                                                                                          |
+| AP                | 0                                                                                                           |
+| Rep               | +0                                                                                                          |
+| Str               | —                                                                                                           |
+| Dex               | 16                                                                                                          |
+| Con               | 10                                                                                                          |
+| Int               | 2                                                                                                           |
+| Wis               | 14                                                                                                          |
+| Cha               | 6                                                                                                           |
 
 **Skills:** Listen +6, Spot +6.
 

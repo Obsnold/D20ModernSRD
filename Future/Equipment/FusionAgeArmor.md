@@ -53,9 +53,9 @@ losing any body moisture.
 
 **Table: Progress Level 6 Armor**
 
-| Armor | Type | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed(30 ft./20 ft.) | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|
-| **Light Armor** | | | | | | | | | |
-| Light combat armor | Tactical | +3 | +1 | +5 | –2 | 30 ft./20 ft. | 6 lb. | 12 | Lic (+1) |
-| Scout armor | Tactical | +2 | +1 | +6 | –1 | 30 ft./20 ft. | 4 lb. | 11 | Lic (+1) |
-| Survival suit | Concealable | +1 | +1 | +7 | –0 | 30 ft./20 ft. | 3 lb. | 16 | — |
+| Armor              | Type        | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed(30 ft./20 ft.) | Weight | Purchase DC | Restriction |
+| ------------------ | ----------- | --------------- | -------------- | ------------- | ------------- | -------------------- | ------ | ----------- | ----------- |
+| **Light Armor**    |             |                 |                |               |               |                      |        |             |             |
+| Light combat armor | Tactical    | +3              | +1             | +5            | –2            | 30 ft./20 ft.        | 6 lb.  | 12          | Lic (+1)    |
+| Scout armor        | Tactical    | +2              | +1             | +6            | –1            | 30 ft./20 ft.        | 4 lb.  | 11          | Lic (+1)    |
+| Survival suit      | Concealable | +1              | +1             | +7            | –0            | 30 ft./20 ft.        | 3 lb.  | 16          | —           |

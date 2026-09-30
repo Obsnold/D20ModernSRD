@@ -6,11 +6,11 @@ yield one or two objects of special value. They effortlessly navigate
 and strip clean the most treacherous places, and their playgrounds are
 abandoned space stations, gutted buildings, and smoking battlefields.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +2      |
 
 ## Skills
 

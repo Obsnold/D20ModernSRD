@@ -49,11 +49,11 @@ below).
 
 **Table: Starship Sizes**
 
-| Starship Size | Starship’s Size Modifier¹ | Targeting System’s Equipment Bonus² | Autopilot System’s Equipment Bonus³ | Starship’s Length | Starship’s Weight |
-|---|---|---|---|---|---|
-| Colossal | –8 | +3 | +3 | 64 ft. or more | 250,000 lb. or more |
-| Gargantuan | –4 | +2 | +2 | 32–64 ft. | 32,000–250,000 lb. |
-| Huge | –2 | +1 | +1 | Less than 32 ft. 4 | ,000–32,000 lb. |
+| Starship Size | Starship’s Size Modifier¹ | Targeting System’s Equipment Bonus² | Autopilot System’s Equipment Bonus³ | Starship’s Length  | Starship’s Weight   |
+| ------------- | ------------------------- | ----------------------------------- | ----------------------------------- | ------------------ | ------------------- |
+| Colossal      | –8                        | +3                                  | +3                                  | 64 ft. or more     | 250,000 lb. or more |
+| Gargantuan    | –4                        | +2                                  | +2                                  | 32–64 ft.          | 32,000–250,000 lb.  |
+| Huge          | –2                        | +1                                  | +1                                  | Less than 32 ft. 4 | ,000–32,000 lb.     |
 
 ¹ A starship applies its size modifier on all attack rolls and to its Defense.
 2 A starship applies its targeting system’s equipment bonus on all attack rolls.

@@ -1,17 +1,17 @@
 # Summon Vivilor I
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Level | Arcane 1, Divine 1 |
-| Components | V, S |
-| Casting Time | Full-round action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Effect | One summoned creature |
-| Duration | 1 round/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                           |
+| ---------------- | ------------------------------- |
+| School           | Conjuration                     |
+| Subschool        | Summoning                       |
+| Level            | Arcane 1, Divine 1              |
+| Components       | V, S                            |
+| Casting Time     | Full-round action               |
+| Range            | Close (25 ft. + 5 ft./2 levels) |
+| Effect           | One summoned creature           |
+| Duration         | 1 round/level                   |
+| Saving Throw     | None                            |
+| Spell Resistance | No                              |
 
 This spell summons a 1st-level vivilor, a strange creature from the edge
 of Shadow. The caster chooses the form the vivilor will take when it

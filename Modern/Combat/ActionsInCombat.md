@@ -28,70 +28,70 @@ before the same initiative count that they began on.
 
 **Table: Actions in Combat**
 
-| Attack Actions | Attack of Opportunity¹ |
-|---|---|
-| Attack (melee) | No |
-| Attack (ranged) | Yes |
-| Attack (unarmed) | Yes |
-| Attack (aid another) | No |
-| Bull rush (attack) | No |
-| Escape a grapple | No |
-| Feint (see the Bluff skill) | No |
-| Ready (triggers an attack action) | No |
-| Make a dying character stable | Yes |
-| Attack a weapon | Yes |
-| Attack an object | Maybe² |
-| Total defense | No |
-| Use a skill that takes an attack action | Usually |
-| Start/complete full-round action | Varies |
+| Attack Actions                          | Attack of Opportunity¹ |
+| --------------------------------------- | ---------------------- |
+| Attack (melee)                          | No                     |
+| Attack (ranged)                         | Yes                    |
+| Attack (unarmed)                        | Yes                    |
+| Attack (aid another)                    | No                     |
+| Bull rush (attack)                      | No                     |
+| Escape a grapple                        | No                     |
+| Feint (see the Bluff skill)             | No                     |
+| Ready (triggers an attack action)       | No                     |
+| Make a dying character stable           | Yes                    |
+| Attack a weapon                         | Yes                    |
+| Attack an object                        | Maybe²                 |
+| Total defense                           | No                     |
+| Use a skill that takes an attack action | Usually                |
+| Start/complete full-round action        | Varies                 |
 
-| Move Actions | Attack of Opportunity¹ |
-|---|---|
-| Move your speed | Yes |
-| Use a piece of equipment | No |
-| Climb (one-quarter speed) | No |
-| Climb, accelerated (one-half speed) | No |
-| Crawl | No |
-| Draw a weapon³ | No |
-| Holster a weapon | Yes |
-| Move a heavy object | Yes |
-| Open a door | No |
-| Pick up an object | Yes |
-| Reload a firearm with a box magazine or speed loader | Yes |
-| Retrieve a stored object | Yes |
-| Stand up from prone, sitting, or kneeling | Yes |
-| Swim | No |
-| Use a skill that takes a move action | Usually |
+| Move Actions                                         | Attack of Opportunity¹ |
+| ---------------------------------------------------- | ---------------------- |
+| Move your speed                                      | Yes                    |
+| Use a piece of equipment                             | No                     |
+| Climb (one-quarter speed)                            | No                     |
+| Climb, accelerated (one-half speed)                  | No                     |
+| Crawl                                                | No                     |
+| Draw a weapon³                                       | No                     |
+| Holster a weapon                                     | Yes                    |
+| Move a heavy object                                  | Yes                    |
+| Open a door                                          | No                     |
+| Pick up an object                                    | Yes                    |
+| Reload a firearm with a box magazine or speed loader | Yes                    |
+| Retrieve a stored object                             | Yes                    |
+| Stand up from prone, sitting, or kneeling            | Yes                    |
+| Swim                                                 | No                     |
+| Use a skill that takes a move action                 | Usually                |
 
-| Full-Round Actions | Attack of Opportunity¹ |
-|---|---|
-| Bull rush (charge) | No |
-| Charge | No |
-| Coup de grace | Yes |
-| Full attack | No |
-| Overrun (charge) | No |
-| Run | Yes |
-| Withdraw | No |
-| Extinguish flames | No |
-| Use a skill that takes a full round | Usually |
-| Reload a firearm with an internal magazine | Yes |
+| Full-Round Actions                         | Attack of Opportunity¹ |
+| ------------------------------------------ | ---------------------- |
+| Bull rush (charge)                         | No                     |
+| Charge                                     | No                     |
+| Coup de grace                              | Yes                    |
+| Full attack                                | No                     |
+| Overrun (charge)                           | No                     |
+| Run                                        | Yes                    |
+| Withdraw                                   | No                     |
+| Extinguish flames                          | No                     |
+| Use a skill that takes a full round        | Usually                |
+| Reload a firearm with an internal magazine | Yes                    |
 
-| Free Actions | Attack of Opportunity¹ |
-|---|---|
-| Drop an object | No |
-| Drop to prone, sitting, or kneeling | No |
-| Speak | No |
-| Action Type Varies | **Attack of Opportunity¹** |
-| Disarm⁴ | Yes |
-| Grapple⁴ | Yes |
-| Load a weapon | Yes |
-| Trip an opponent⁴ | No (Yes if unarmed) |
-| Use a feat⁵ | Varies |
+| Free Actions                        | Attack of Opportunity¹     |
+| ----------------------------------- | -------------------------- |
+| Drop an object                      | No                         |
+| Drop to prone, sitting, or kneeling | No                         |
+| Speak                               | No                         |
+| Action Type Varies                  | **Attack of Opportunity¹** |
+| Disarm⁴                             | Yes                        |
+| Grapple⁴                            | Yes                        |
+| Load a weapon                       | Yes                        |
+| Trip an opponent⁴                   | No (Yes if unarmed)        |
+| Use a feat⁵                         | Varies                     |
 
-| No Action | Attack of Opportunity¹ |
-|---|---|
-| Delay | No |
-| 5-foot step | No |
+| No Action   | Attack of Opportunity¹ |
+| ----------- | ---------------------- |
+| Delay       | No                     |
+| 5-foot step | No                     |
 
 ¹ Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
 ² If the object is being held, carried, or worn by a creature, yes. If not, no.
@@ -373,10 +373,10 @@ or her primary hand and a –10 penalty on the attack with his or her off
 hand. A character can reduce these penalties in two ways.
 
 1. If the off-hand weapon is light, the penalties are reduced by 2
-each. (An unarmed strike is always considered light.)
+   each. (An unarmed strike is always considered light.)
 
-2. The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
-and the off-hand penalty by 6.
+1. The Two-Weapon Fighting feat lessens the primary hand penalty by 2,
+   and the off-hand penalty by 6.
 
 Table: Two-Weapon Fighting Penalties summarizes the interaction of all
 these factors.
@@ -387,12 +387,12 @@ apply as if the off-hand weapon were light.
 
 **Table: Two-Weapon Fighting Penalties**
 
-| Circumstances | Primary Hand | Off Hand |
-|---|---|---|
-| Normal penalties | –6 | –10 |
-| Off-hand weapon is light | –4 | –8 |
-| Two-Weapon Fighting feat | –4 | –4 |
-| Off-hand weapon is light and Two-Weapon Fighting feat | –2 | –2 |
+| Circumstances                                         | Primary Hand | Off Hand |
+| ----------------------------------------------------- | ------------ | -------- |
+| Normal penalties                                      | –6           | –10      |
+| Off-hand weapon is light                              | –4           | –8       |
+| Two-Weapon Fighting feat                              | –4           | –4       |
+| Off-hand weapon is light and Two-Weapon Fighting feat | –2           | –2       |
 
 ### Run
 

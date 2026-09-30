@@ -27,38 +27,38 @@ Finesse (slam).
 
 ## Porpoise
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size/Type | Medium animal |
-| HD | 2d8+2 |
-| hp | 11 |
-| Mas | 13 |
-| Init | +3 |
-| Spd | swim 80 ft. |
-| Defense | 15 |
-| Touch | 13 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +3 Dex, +2 natural |
-| BAB | +1 |
-| Grap | +1 |
-| Atk | +4 melee (1d4, slam) |
-| Full Atk | +4 melee (1d4, slam) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | aquatic, blindsight |
-| AL | none or school |
-| Fort | +4 |
-| Ref | +6 |
-| Will | +1 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 11 |
-| Dex | 17 |
-| Con | 13 |
-| Int | 5 |
-| Wis | 12 |
-| Cha | 6 |
+| Stat              | Value                |
+| ----------------- | -------------------- |
+| CR                | 1/2                  |
+| Size/Type         | Medium animal        |
+| HD                | 2d8+2                |
+| hp                | 11                   |
+| Mas               | 13                   |
+| Init              | +3                   |
+| Spd               | swim 80 ft.          |
+| Defense           | 15                   |
+| Touch             | 13                   |
+| Flat-Footed       | 12                   |
+| Defense Breakdown | +3 Dex, +2 natural   |
+| BAB               | +1                   |
+| Grap              | +1                   |
+| Atk               | +4 melee (1d4, slam) |
+| Full Atk          | +4 melee (1d4, slam) |
+| FS                | 5 ft. by 5 ft.       |
+| Reach             | 5 ft.                |
+| SQ                | aquatic, blindsight  |
+| AL                | none or school       |
+| Fort              | +4                   |
+| Ref               | +6                   |
+| Will              | +1                   |
+| AP                | 0                    |
+| Rep               | +0                   |
+| Str               | 11                   |
+| Dex               | 17                   |
+| Con               | 13                   |
+| Int               | 5                    |
+| Wis               | 12                   |
+| Cha               | 6                    |
 
 **Skills:** Listen +10 (+6 if blindsight is negated),
 Spot +10 (+6 if blindsight is negated).

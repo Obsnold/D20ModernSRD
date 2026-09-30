@@ -1,17 +1,17 @@
 # Shout
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Sonic |
-| Level | Mage 4 |
-| Components | V |
-| Casting Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Area | Cone |
-| Duration | Instantaneous |
-| Saving Throw | Fortitude partial (see text) (object) |
-| Spell Resistance | Yes (object) |
+| Stat             | Value                                 |
+| ---------------- | ------------------------------------- |
+| School           | Evocation                             |
+| Descriptors      | Sonic                                 |
+| Level            | Mage 4                                |
+| Components       | V                                     |
+| Casting Time     | Attack action                         |
+| Range            | Close (25 ft. + 5 ft./2 levels)       |
+| Area             | Cone                                  |
+| Duration         | Instantaneous                         |
+| Saving Throw     | Fortitude partial (see text) (object) |
+| Spell Resistance | Yes (object)                          |
 
 The caster emits an ear-splitting yell that deafens and damages
 creatures in its path. Any creature within the area is deafened for 2d6

@@ -1,18 +1,18 @@
 # False Sensory Input
 
-| Stat | Value |
-|---|---|
-| Key Ability | Charisma |
-| Descriptors | Mind-Affecting |
-| Level | Telepath 3 |
-| Display | Mental |
-| Manifestation Time | Full-round action |
-| Range | Long (400 ft. + 40 ft./level) |
-| Target | One living creature |
-| Duration | Concentration, up to 1 minute/level (D) |
-| Saving Throw | Will negates |
-| Power Resistance | Yes |
-| Power Point Cost | 5 |
+| Stat               | Value                                   |
+| ------------------ | --------------------------------------- |
+| Key Ability        | Charisma                                |
+| Descriptors        | Mind-Affecting                          |
+| Level              | Telepath 3                              |
+| Display            | Mental                                  |
+| Manifestation Time | Full-round action                       |
+| Range              | Long (400 ft. + 40 ft./level)           |
+| Target             | One living creature                     |
+| Duration           | Concentration, up to 1 minute/level (D) |
+| Saving Throw       | Will negates                            |
+| Power Resistance   | Yes                                     |
+| Power Point Cost   | 5                                       |
 
 The manifester has a limited ability to falsify one of the target’s
 senses. The subject thinks he or she sees, hears, smells, tastes, or

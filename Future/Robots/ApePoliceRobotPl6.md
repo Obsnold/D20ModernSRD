@@ -16,38 +16,38 @@ weapons if it is grappling.
 
 ## APE Police Robot
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Large |
-| Type | construct |
-| HD | 6d10+20 |
-| hp | 55 |
-| Mas | — |
-| Init | –1 |
-| Spd | 20 ft. |
-| Defense | 17 |
-| Touch | 9 |
-| Flat-Footed | 17 |
-| Defense Breakdown | –1 size, +8 equipment |
-| BAB | +4 |
-| Grap | +13 |
-| Atk | +8 melee (1d4+5 nonlethal, 2 hands) or +3 ranged (2d8, OICW assault rifle); or +3 ranged (2d8, laser pistol); or +3 ranged (4d6 nonlethal, M79 grenade launcher with concussion grenade); or +3 ranged (2d8, OICW assault rifle or laser pistol) and –2 ranged (4d6 nonlethal, mini-grenade launcher with concussion grenade) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 10 ft. |
-| SQ | construct traits, critical systems, darkvision 60 ft. |
-| AL | police agency |
-| Fort | +2 |
-| Ref | +2 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 20 |
-| Dex | 11 |
-| Con | — |
-| Int | 10 |
-| Wis | 12 |
-| Cha | 5 |
+| Stat              | Value                                                                                                                                                                                                                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 5                                                                                                                                                                                                                                                                                                                             |
+| Size              | Large                                                                                                                                                                                                                                                                                                                         |
+| Type              | construct                                                                                                                                                                                                                                                                                                                     |
+| HD                | 6d10+20                                                                                                                                                                                                                                                                                                                       |
+| hp                | 55                                                                                                                                                                                                                                                                                                                            |
+| Mas               | —                                                                                                                                                                                                                                                                                                                             |
+| Init              | –1                                                                                                                                                                                                                                                                                                                            |
+| Spd               | 20 ft.                                                                                                                                                                                                                                                                                                                        |
+| Defense           | 17                                                                                                                                                                                                                                                                                                                            |
+| Touch             | 9                                                                                                                                                                                                                                                                                                                             |
+| Flat-Footed       | 17                                                                                                                                                                                                                                                                                                                            |
+| Defense Breakdown | –1 size, +8 equipment                                                                                                                                                                                                                                                                                                         |
+| BAB               | +4                                                                                                                                                                                                                                                                                                                            |
+| Grap              | +13                                                                                                                                                                                                                                                                                                                           |
+| Atk               | +8 melee (1d4+5 nonlethal, 2 hands) or +3 ranged (2d8, OICW assault rifle); or +3 ranged (2d8, laser pistol); or +3 ranged (4d6 nonlethal, M79 grenade launcher with concussion grenade); or +3 ranged (2d8, OICW assault rifle or laser pistol) and –2 ranged (4d6 nonlethal, mini-grenade launcher with concussion grenade) |
+| FS                | 10 ft. by 10 ft.                                                                                                                                                                                                                                                                                                              |
+| Reach             | 10 ft.                                                                                                                                                                                                                                                                                                                        |
+| SQ                | construct traits, critical systems, darkvision 60 ft.                                                                                                                                                                                                                                                                         |
+| AL                | police agency                                                                                                                                                                                                                                                                                                                 |
+| Fort              | +2                                                                                                                                                                                                                                                                                                                            |
+| Ref               | +2                                                                                                                                                                                                                                                                                                                            |
+| Will              | +3                                                                                                                                                                                                                                                                                                                            |
+| AP                | 0                                                                                                                                                                                                                                                                                                                             |
+| Rep               | +0                                                                                                                                                                                                                                                                                                                            |
+| Str               | 20                                                                                                                                                                                                                                                                                                                            |
+| Dex               | 11                                                                                                                                                                                                                                                                                                                            |
+| Con               | —                                                                                                                                                                                                                                                                                                                             |
+| Int               | 10                                                                                                                                                                                                                                                                                                                            |
+| Wis               | 12                                                                                                                                                                                                                                                                                                                            |
+| Cha               | 5                                                                                                                                                                                                                                                                                                                             |
 
 **Skills:** Climb +9, Hide –4, Listen +11, Search +4, Spot +13.
 

@@ -7,20 +7,20 @@ effective in close-combat situations, particular in urban arenas.
 A Myrmidon installed with the standard equipment package (see below) has
 a purchase DC of 41.
 
-| Stat | Value |
-|---|---|
-| Size | Large (–1 size) |
-| Bonus Hit Points | 100 |
-| Superstructure | Duralloy |
-| Hardness | 15 |
-| Armor | Duralloy |
-| Bonus to Defense | +8 |
-| Armor Penalty | –8 |
-| Reach | 10 ft. |
-| Strength Bonus | +8 |
-| Dexterity Penalty | — |
-| Speed | 20 ft., fly 90 ft. (clumsy) |
-| Base Purchase DC | 40 |
+| Stat              | Value                       |
+| ----------------- | --------------------------- |
+| Size              | Large (–1 size)             |
+| Bonus Hit Points  | 100                         |
+| Superstructure    | Duralloy                    |
+| Hardness          | 15                          |
+| Armor             | Duralloy                    |
+| Bonus to Defense  | +8                          |
+| Armor Penalty     | –8                          |
+| Reach             | 10 ft.                      |
+| Strength Bonus    | +8                          |
+| Dexterity Penalty | —                           |
+| Speed             | 20 ft., fly 90 ft. (clumsy) |
+| Base Purchase DC  | 40                          |
 
 **Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), M-9 Barrage chaingun (left arm), 6 50-round

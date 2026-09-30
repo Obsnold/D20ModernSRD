@@ -14,19 +14,19 @@ speeds of various FTL engines.
 
 **Table: Faster-Than-Light (FTL) Engines**
 
-| Engine | Minimum Ship Size | Starship’s Cruising Speed |
-|---|---|---|
-| **Progress Level 6: Fusion Age** | | |
-| Fusion torch | Gargantuan | Light speed × 0.5 |
-| Ion engine | Huge | Light speed × 0.75 |
-| Photon sails | Gargantuan | Light speed × 1 |
-| **Progress Level 7: Gravity Age** | | |
-| Induction engine | Huge | Light speed × 5 |
-| Particle impulse engine | Gargantuan | Light speed × 10 |
-| **Progress Level 8: Energy Age** | | |
-| Gravitic redirector | Colossal | Light speed × 25 |
-| Inertial flux engine | Gargantuan | Light speed × 15 |
-| **Progress Level 9: Matter Age** | | |
-| Spatial compressor | Colossal | Special¹ |
+| Engine                            | Minimum Ship Size | Starship’s Cruising Speed |
+| --------------------------------- | ----------------- | ------------------------- |
+| **Progress Level 6: Fusion Age**  |                   |                           |
+| Fusion torch                      | Gargantuan        | Light speed × 0.5         |
+| Ion engine                        | Huge              | Light speed × 0.75        |
+| Photon sails                      | Gargantuan        | Light speed × 1           |
+| **Progress Level 7: Gravity Age** |                   |                           |
+| Induction engine                  | Huge              | Light speed × 5           |
+| Particle impulse engine           | Gargantuan        | Light speed × 10          |
+| **Progress Level 8: Energy Age**  |                   |                           |
+| Gravitic redirector               | Colossal          | Light speed × 25          |
+| Inertial flux engine              | Gargantuan        | Light speed × 15          |
+| **Progress Level 9: Matter Age**  |                   |                           |
+| Spatial compressor                | Colossal          | Special¹                  |
 
 ¹ A spatial compressor allows a ship to travel from one star system to another instantaneously.

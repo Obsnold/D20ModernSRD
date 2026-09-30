@@ -40,39 +40,39 @@ light at all.
 
 ## Living Dumpster
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Large |
-| Type | construct |
-| HD | 8d10+20 |
-| hp | 64 |
-| Mas | — |
-| Init | –2 |
-| Spd | 30 ft. |
-| Defense | 19 |
-| Touch | 7 |
-| Flat-Footed | 19 |
-| Defense Breakdown | –2 Dex, –1 size, +12 natural |
-| BAB | +6 |
-| Grap | +16 |
-| Atk | +11 melee (1d8+9, slam) |
-| Full Atk | +11 melee (1d8+9, slam) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 5 ft. |
-| SQ | construct, wheels, wall smash 2d8+18, swallow whole, darkvision 60 ft. |
-| AL | none |
-| Fort | +2 |
-| Ref | +0 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 7 |
-| Con | — |
-| Int | — |
-| Wis | 10 |
-| Cha | 1 |
+| Stat              | Value                                                                  |
+| ----------------- | ---------------------------------------------------------------------- |
+| CR                | 5                                                                      |
+| Size              | Large                                                                  |
+| Type              | construct                                                              |
+| HD                | 8d10+20                                                                |
+| hp                | 64                                                                     |
+| Mas               | —                                                                      |
+| Init              | –2                                                                     |
+| Spd               | 30 ft.                                                                 |
+| Defense           | 19                                                                     |
+| Touch             | 7                                                                      |
+| Flat-Footed       | 19                                                                     |
+| Defense Breakdown | –2 Dex, –1 size, +12 natural                                           |
+| BAB               | +6                                                                     |
+| Grap              | +16                                                                    |
+| Atk               | +11 melee (1d8+9, slam)                                                |
+| Full Atk          | +11 melee (1d8+9, slam)                                                |
+| FS                | 10 ft. by 10 ft.                                                       |
+| Reach             | 5 ft.                                                                  |
+| SQ                | construct, wheels, wall smash 2d8+18, swallow whole, darkvision 60 ft. |
+| AL                | none                                                                   |
+| Fort              | +2                                                                     |
+| Ref               | +0                                                                     |
+| Will              | +2                                                                     |
+| AP                | 0                                                                      |
+| Rep               | +0                                                                     |
+| Str               | 22                                                                     |
+| Dex               | 7                                                                      |
+| Con               | —                                                                      |
+| Int               | —                                                                      |
+| Wis               | 10                                                                     |
+| Cha               | 1                                                                      |
 
 **Skills:** Hide –6.
 
@@ -84,39 +84,39 @@ light at all.
 
 ## Advanced Living Dumpster
 
-| Stat | Value |
-|---|---|
-| CR | 9 |
-| Size | Huge |
-| Type | construct |
-| HD | 23d10+40 |
-| hp | 166 |
-| Mas | — |
-| Init | –2 |
-| Spd | 30 ft. |
-| Defense | 20 |
-| Touch | 5 |
-| Flat-Footed | 20 |
-| Defense Breakdown | –3 Dex, –2 size, +15 natural |
-| BAB | +18 |
-| Grap | +36 |
-| Atk | +26 melee (2d6+15, slam) |
-| Full Atk | +26 melee (2d6+15, slam) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 5 ft. |
-| SQ | construct, wheels, wall smash 4d6+30, swallow whole (holds 4 Medium creatures or 8 Small creatures), darkvision 60 ft. |
-| AL | none |
-| Fort | +7 |
-| Ref | +5 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 30 |
-| Dex | 5 |
-| Con | — |
-| Int | — |
-| Wis | 10 |
-| Cha | 1 |
+| Stat              | Value                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| CR                | 9                                                                                                                      |
+| Size              | Huge                                                                                                                   |
+| Type              | construct                                                                                                              |
+| HD                | 23d10+40                                                                                                               |
+| hp                | 166                                                                                                                    |
+| Mas               | —                                                                                                                      |
+| Init              | –2                                                                                                                     |
+| Spd               | 30 ft.                                                                                                                 |
+| Defense           | 20                                                                                                                     |
+| Touch             | 5                                                                                                                      |
+| Flat-Footed       | 20                                                                                                                     |
+| Defense Breakdown | –3 Dex, –2 size, +15 natural                                                                                           |
+| BAB               | +18                                                                                                                    |
+| Grap              | +36                                                                                                                    |
+| Atk               | +26 melee (2d6+15, slam)                                                                                               |
+| Full Atk          | +26 melee (2d6+15, slam)                                                                                               |
+| FS                | 15 ft. by 15 ft.                                                                                                       |
+| Reach             | 5 ft.                                                                                                                  |
+| SQ                | construct, wheels, wall smash 4d6+30, swallow whole (holds 4 Medium creatures or 8 Small creatures), darkvision 60 ft. |
+| AL                | none                                                                                                                   |
+| Fort              | +7                                                                                                                     |
+| Ref               | +5                                                                                                                     |
+| Will              | +7                                                                                                                     |
+| AP                | 0                                                                                                                      |
+| Rep               | +0                                                                                                                     |
+| Str               | 30                                                                                                                     |
+| Dex               | 5                                                                                                                      |
+| Con               | —                                                                                                                      |
+| Int               | —                                                                                                                      |
+| Wis               | 10                                                                                                                     |
+| Cha               | 1                                                                                                                      |
 
 **Skills:** Hide –11.
 

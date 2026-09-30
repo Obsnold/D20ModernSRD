@@ -32,38 +32,38 @@ Hunters tend to travel in small packs of three to six. Though only
 marginally intelligent, they often display the cunning common to many
 predators.
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size/Type | Medium magical beast |
-| HD | 9d10+27 |
-| hp | 76 |
-| Mas | 17 |
-| Init | +2 |
-| Spd | 40 ft., climb 20 ft. |
-| Defense | 18 |
-| Touch | 12 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +2 Dex, +6 natural |
-| BAB | +9 |
-| Grap | +14 |
-| Atk | +14 melee (1d6+5, bite) or +11 ranged touch (2d6, acid spit) |
-| Full Atk | +14 melee (1d4+5, 2 claws), +12 melee (1d6+2, bite) or +11 ranged touch (2d6, acid spit) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | acid spit (2/day), rage, scent, keen sight |
-| AL | queen, master |
-| Fort | +9 |
-| Ref | +8 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 20 |
-| Dex | 15 |
-| Con | 17 |
-| Int | 3 |
-| Wis | 12 |
-| Cha | 11 |
+| Stat              | Value                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                        |
+| Size/Type         | Medium magical beast                                                                     |
+| HD                | 9d10+27                                                                                  |
+| hp                | 76                                                                                       |
+| Mas               | 17                                                                                       |
+| Init              | +2                                                                                       |
+| Spd               | 40 ft., climb 20 ft.                                                                     |
+| Defense           | 18                                                                                       |
+| Touch             | 12                                                                                       |
+| Flat-Footed       | 16                                                                                       |
+| Defense Breakdown | +2 Dex, +6 natural                                                                       |
+| BAB               | +9                                                                                       |
+| Grap              | +14                                                                                      |
+| Atk               | +14 melee (1d6+5, bite) or +11 ranged touch (2d6, acid spit)                             |
+| Full Atk          | +14 melee (1d4+5, 2 claws), +12 melee (1d6+2, bite) or +11 ranged touch (2d6, acid spit) |
+| FS                | 5 ft. by 5 ft.                                                                           |
+| Reach             | 5 ft.                                                                                    |
+| SQ                | acid spit (2/day), rage, scent, keen sight                                               |
+| AL                | queen, master                                                                            |
+| Fort              | +9                                                                                       |
+| Ref               | +8                                                                                       |
+| Will              | +4                                                                                       |
+| AP                | 0                                                                                        |
+| Rep               | +0                                                                                       |
+| Str               | 20                                                                                       |
+| Dex               | 15                                                                                       |
+| Con               | 17                                                                                       |
+| Int               | 3                                                                                        |
+| Wis               | 12                                                                                       |
+| Cha               | 11                                                                                       |
 
 **Skills:** Climb +13, Listen +6, Spot +6, Survival
 +5.
@@ -99,39 +99,39 @@ it can constrict (see below).
 tentacle damage with a successful grapple check against creatures
 smaller than itself.
 
-| Stat | Value |
-|---|---|
-| CR | 12 |
-| Size | Huge |
-| Type | magical beast |
-| HD | 14d10+70 |
-| hp | 147 |
-| Mas | 21 |
-| Init | +0 |
-| Spd | 20 ft. |
-| Defense | 22 |
-| Touch | 8 |
-| Flat-Footed | 22 |
-| Defense Breakdown | –2 size, +14 natural |
-| BAB | +14 |
-| Grap | +30 |
-| Atk | +20 melee (2d6+12, bite) or +12 ranged touch (2d6, acid spit) |
-| Full Atk | +20 melee (2d4+8, 2 claws), +18 melee (2d6+4, bite), +18 melee (1d6+4, 2 tentacle slams) or +12 ranged touch (2d6, acid spit) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | acid spit (at will), rage, improved grab, constrict, scent, keen sight |
-| AL | eggs |
-| Fort | +14 |
-| Ref | +9 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 26 |
-| Dex | 10 |
-| Con | 21 |
-| Int | 13 |
-| Wis | 12 |
-| Cha | 15 |
+| Stat              | Value                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 12                                                                                                                            |
+| Size              | Huge                                                                                                                          |
+| Type              | magical beast                                                                                                                 |
+| HD                | 14d10+70                                                                                                                      |
+| hp                | 147                                                                                                                           |
+| Mas               | 21                                                                                                                            |
+| Init              | +0                                                                                                                            |
+| Spd               | 20 ft.                                                                                                                        |
+| Defense           | 22                                                                                                                            |
+| Touch             | 8                                                                                                                             |
+| Flat-Footed       | 22                                                                                                                            |
+| Defense Breakdown | –2 size, +14 natural                                                                                                          |
+| BAB               | +14                                                                                                                           |
+| Grap              | +30                                                                                                                           |
+| Atk               | +20 melee (2d6+12, bite) or +12 ranged touch (2d6, acid spit)                                                                 |
+| Full Atk          | +20 melee (2d4+8, 2 claws), +18 melee (2d6+4, bite), +18 melee (1d6+4, 2 tentacle slams) or +12 ranged touch (2d6, acid spit) |
+| FS                | 15 ft. by 15 ft.                                                                                                              |
+| Reach             | 10 ft.                                                                                                                        |
+| SQ                | acid spit (at will), rage, improved grab, constrict, scent, keen sight                                                        |
+| AL                | eggs                                                                                                                          |
+| Fort              | +14                                                                                                                           |
+| Ref               | +9                                                                                                                            |
+| Will              | +5                                                                                                                            |
+| AP                | 0                                                                                                                             |
+| Rep               | +0                                                                                                                            |
+| Str               | 26                                                                                                                            |
+| Dex               | 10                                                                                                                            |
+| Con               | 21                                                                                                                            |
+| Int               | 13                                                                                                                            |
+| Wis               | 12                                                                                                                            |
+| Cha               | 15                                                                                                                            |
 
 **Skills:** Hide –8, Intimidate +15, Listen +14, Spot
 +14.

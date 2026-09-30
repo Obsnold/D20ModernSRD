@@ -52,39 +52,39 @@ Artist checks.
 
 ## Malleable Human Tough Hero 4/Dedicated Hero 3
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Medium-size |
-| Type | humanoid |
-| HD | 4d10+16 plus 3d6+12 plus 3 (Toughness) |
-| hp | 63 |
-| Mas | 19 |
-| Init | –2 |
-| Spd | 30 ft. |
-| Defense | 16 |
-| Touch | 13 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –2 Dex, +5 class, +3 undercover vest |
-| BAB | +5 |
-| Grap | +10 |
-| Atk | +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6, Beretta 92F) |
-| Full Atk | +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6, Beretta 92F) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | bludgeoning resistance 5, increased reach, malleable form |
-| AL | any |
-| Fort | +11 |
-| Ref | +0 |
-| Will | +6 |
-| AP | 3 |
-| Rep | +2 |
-| Str | 12 |
-| Dex | 6 |
-| Con | 19 |
-| Int | 10 |
-| Wis | 16 |
-| Cha | 11 |
+| Stat              | Value                                                            |
+| ----------------- | ---------------------------------------------------------------- |
+| CR                | 8                                                                |
+| Size              | Medium-size                                                      |
+| Type              | humanoid                                                         |
+| HD                | 4d10+16 plus 3d6+12 plus 3 (Toughness)                           |
+| hp                | 63                                                               |
+| Mas               | 19                                                               |
+| Init              | –2                                                               |
+| Spd               | 30 ft.                                                           |
+| Defense           | 16                                                               |
+| Touch             | 13                                                               |
+| Flat-Footed       | 16                                                               |
+| Defense Breakdown | –2 Dex, +5 class, +3 undercover vest                             |
+| BAB               | +5                                                               |
+| Grap              | +10                                                              |
+| Atk               | +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6, Beretta 92F) |
+| Full Atk          | +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6, Beretta 92F) |
+| FS                | 5 ft. by 5 ft.                                                   |
+| Reach             | 10 ft.                                                           |
+| SQ                | bludgeoning resistance 5, increased reach, malleable form        |
+| AL                | any                                                              |
+| Fort              | +11                                                              |
+| Ref               | +0                                                               |
+| Will              | +6                                                               |
+| AP                | 3                                                                |
+| Rep               | +2                                                               |
+| Str               | 12                                                               |
+| Dex               | 6                                                                |
+| Con               | 19                                                               |
+| Int               | 10                                                               |
+| Wis               | 16                                                               |
+| Cha               | 11                                                               |
 
 **Skills:** Bluff +8, Climb +3, Concentration +6, Disguise +13, Escape
 Artist +14, Knowledge (current events) +2, Read/ Write English, Speak

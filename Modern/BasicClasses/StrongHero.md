@@ -48,17 +48,17 @@ hero begins play with the Simple Weapons Proficiency feat.
 ## Class Table
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +1 | +1 | +0 | +0 | Talent | +1 | +0 |
-| 2nd | +2 | +2 | +0 | +0 | Bonus feat | +2 | +0 |
-| 3rd | +3 | +2 | +1 | +1 | Talent | +2 | +0 |
-| 4th | +4 | +2 | +1 | +1 | Bonus feat | +3 | +0 |
-| 5th | +5 | +3 | +1 | +1 | Talent | +3 | +1 |
-| 6th | +6/+1 | +3 | +2 | +2 | Bonus feat | +3 | +1 |
-| 7th | +7/+2 | +4 | +2 | +2 | Talent | +4 | +1 |
-| 8th | +8/+3 | +4 | +2 | +2 | Bonus feat | +4 | +1 |
-| 9th | +9/+4 | +4 | +3 | +3 | Talent | +5 | +2 |
-| 10th | +10/+5 | +5 | +3 | +3 | Bonus feat | +5 | +2 |
+| ----------- | ----------------- | --------- | -------- | --------- | -------------- | ------------- | ---------------- |
+| 1st         | +1                | +1        | +0       | +0        | Talent         | +1            | +0               |
+| 2nd         | +2                | +2        | +0       | +0        | Bonus feat     | +2            | +0               |
+| 3rd         | +3                | +2        | +1       | +1        | Talent         | +2            | +0               |
+| 4th         | +4                | +2        | +1       | +1        | Bonus feat     | +3            | +0               |
+| 5th         | +5                | +3        | +1       | +1        | Talent         | +3            | +1               |
+| 6th         | +6/+1             | +3        | +2       | +2        | Bonus feat     | +3            | +1               |
+| 7th         | +7/+2             | +4        | +2       | +2        | Talent         | +4            | +1               |
+| 8th         | +8/+3             | +4        | +2       | +2        | Bonus feat     | +4            | +1               |
+| 9th         | +9/+4             | +4        | +3       | +3        | Talent         | +5            | +2               |
+| 10th        | +10/+5            | +5        | +3       | +3        | Bonus feat     | +5            | +2               |
 
 ## Class Features
 

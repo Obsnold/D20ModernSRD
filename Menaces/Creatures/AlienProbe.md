@@ -47,39 +47,39 @@ once.
 
 ## Alien Probe
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Small |
-| Type | construct |
-| HD | 6d10+5 |
-| hp | 38 |
-| Mas | — |
-| Init | +9 |
-| Spd | fly 400 ft. (perfect) |
-| Defense | 20 |
-| Touch | 20 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +1 size, +9 Dex |
-| BAB | +4 |
-| Grap | +3 |
-| Atk | +14 ranged touch (2d6 electricity, shock) |
-| Full Atk | +14 ranged touch (2d6 electricity, shock) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | *actinic light* (DC 14), construct, darkvision 60 ft., *dimension door* (DC 14), invisibility, *psionics*, shock, supersonic speed |
-| AL | creator |
-| Fort | +2 |
-| Ref | +11 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 1 |
-| Dex | 28 |
-| Con | — |
-| Int | 15 |
-| Wis | 16 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 5                                                                                                                                  |
+| Size              | Small                                                                                                                              |
+| Type              | construct                                                                                                                          |
+| HD                | 6d10+5                                                                                                                             |
+| hp                | 38                                                                                                                                 |
+| Mas               | —                                                                                                                                  |
+| Init              | +9                                                                                                                                 |
+| Spd               | fly 400 ft. (perfect)                                                                                                              |
+| Defense           | 20                                                                                                                                 |
+| Touch             | 20                                                                                                                                 |
+| Flat-Footed       | 11                                                                                                                                 |
+| Defense Breakdown | +1 size, +9 Dex                                                                                                                    |
+| BAB               | +4                                                                                                                                 |
+| Grap              | +3                                                                                                                                 |
+| Atk               | +14 ranged touch (2d6 electricity, shock)                                                                                          |
+| Full Atk          | +14 ranged touch (2d6 electricity, shock)                                                                                          |
+| FS                | 5 ft. by 5 ft.                                                                                                                     |
+| Reach             | 5 ft.                                                                                                                              |
+| SQ                | *actinic light* (DC 14), construct, darkvision 60 ft., *dimension door* (DC 14), invisibility, *psionics*, shock, supersonic speed |
+| AL                | creator                                                                                                                            |
+| Fort              | +2                                                                                                                                 |
+| Ref               | +11                                                                                                                                |
+| Will              | +5                                                                                                                                 |
+| AP                | 0                                                                                                                                  |
+| Rep               | +0                                                                                                                                 |
+| Str               | 1                                                                                                                                  |
+| Dex               | 28                                                                                                                                 |
+| Con               | —                                                                                                                                  |
+| Int               | 15                                                                                                                                 |
+| Wis               | 16                                                                                                                                 |
+| Cha               | 12                                                                                                                                 |
 
 **Skills:** Listen +12, Spot +12.
 

@@ -50,18 +50,18 @@ The Personality’s class skills (and the key ability for each skill) are:
 
 **Table: The Personality**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +1 | +1 | +0 | Unlimited access | +0 | +2 |
-| 2nd | +1 | +2 | +2 | +0 | Bonus class skill | +1 | +2 |
-| 3rd | +1 | +2 | +2 | +1 | Bonus feat | +1 | +2 |
-| 4th | +2 | +2 | +2 | +1 | Royalty | +1 | +3 |
-| 5th | +2 | +3 | +3 | +1 | Winning smile | +2 | +3 |
-| 6th | +3 | +3 | +3 | +2 | Bonus feat | +2 | +3 |
-| 7th | +3 | +4 | +4 | +2 | Bonus class skill | +2 | +4 |
-| 8th | +4 | +4 | +4 | +2 | Royalty | +3 | +4 |
-| 9th | +4 | +4 | +4 | +3 | Bonus feat | +3 | +4 |
-| 10th | +5 | +5 | +5 | +3 | Compelling performance | +3 | +5 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ---------------------- | ------------- | ---------------- |
+| 1st         | +0                | +1        | +1       | +0        | Unlimited access       | +0            | +2               |
+| 2nd         | +1                | +2        | +2       | +0        | Bonus class skill      | +1            | +2               |
+| 3rd         | +1                | +2        | +2       | +1        | Bonus feat             | +1            | +2               |
+| 4th         | +2                | +2        | +2       | +1        | Royalty                | +1            | +3               |
+| 5th         | +2                | +3        | +3       | +1        | Winning smile          | +2            | +3               |
+| 6th         | +3                | +3        | +3       | +2        | Bonus feat             | +2            | +3               |
+| 7th         | +3                | +4        | +4       | +2        | Bonus class skill      | +2            | +4               |
+| 8th         | +4                | +4        | +4       | +2        | Royalty                | +3            | +4               |
+| 9th         | +4                | +4        | +4       | +3        | Bonus feat             | +3            | +4               |
+| 10th        | +5                | +5        | +5       | +3        | Compelling performance | +3            | +5               |
 
 ## Class Features
 
@@ -78,12 +78,12 @@ When a Personality buys a ticket to a show or for transportation, he or
 she can make a Diplomacy check to get that ticket upgraded. DCs are
 given below.
 
-| Upgrade | Diplomacy DC |
-|---|---|
-| Seat at sporting event to field pass | 10 |
-| Hotel room to suite | 15 |
-| Concert or theater ticket to backstage pass | 20 |
-| Economy transportation to first-class | 25 |
+| Upgrade                                     | Diplomacy DC |
+| ------------------------------------------- | ------------ |
+| Seat at sporting event to field pass        | 10           |
+| Hotel room to suite                         | 15           |
+| Concert or theater ticket to backstage pass | 20           |
+| Economy transportation to first-class       | 25           |
 
 ### Bonus Class Skill
 

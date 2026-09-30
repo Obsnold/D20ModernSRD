@@ -55,18 +55,18 @@ are:
 
 **Table: The Field Scientist**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +1 | +1 | +0 | Smart defense | +0 | +0 |
-| 2nd | +1 | +2 | +2 | +0 | Scientific improvisation | +1 | +0 |
-| 3rd | +1 | +2 | +2 | +1 | Bonus feat | +1 | +1 |
-| 4th | +2 | +2 | +2 | +1 | Skill mastery | +1 | +1 |
-| 5th | +2 | +3 | +3 | +1 | Minor breakthrough | +2 | +1 |
-| 6th | +3 | +3 | +3 | +2 | Bonus feat | +2 | +2 |
-| 7th | +3 | +4 | +4 | +2 | Smart survival | +2 | +2 |
-| 8th | +4 | +4 | +4 | +2 | Smart weapon | +3 | +2 |
-| 9th | +4 | +4 | +4 | +3 | Bonus feat | +3 | +3 |
-| 10th | +5 | +5 | +5 | +3 | Major breakthrough | +3 | +3 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------ | ------------- | ---------------- |
+| 1st         | +0                | +1        | +1       | +0        | Smart defense            | +0            | +0               |
+| 2nd         | +1                | +2        | +2       | +0        | Scientific improvisation | +1            | +0               |
+| 3rd         | +1                | +2        | +2       | +1        | Bonus feat               | +1            | +1               |
+| 4th         | +2                | +2        | +2       | +1        | Skill mastery            | +1            | +1               |
+| 5th         | +2                | +3        | +3       | +1        | Minor breakthrough       | +2            | +1               |
+| 6th         | +3                | +3        | +3       | +2        | Bonus feat               | +2            | +2               |
+| 7th         | +3                | +4        | +4       | +2        | Smart survival           | +2            | +2               |
+| 8th         | +4                | +4        | +4       | +2        | Smart weapon             | +3            | +2               |
+| 9th         | +4                | +4        | +4       | +3        | Bonus feat               | +3            | +3               |
+| 10th        | +5                | +5        | +5       | +3        | Major breakthrough       | +3            | +3               |
 
 ## Class Features
 

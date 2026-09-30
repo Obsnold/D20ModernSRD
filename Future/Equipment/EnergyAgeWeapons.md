@@ -44,7 +44,7 @@ power packs that allow 10 shots each (purchase DC 8).
 
 When a cryonic grenade explodes, it deals 8d6 points of cold damage to
 all creatures in a 10-foot burst radius. A successful Reflex save (DC
-15) halves the damage. The freezing cold automatically stabilizes any
+15\) halves the damage. The freezing cold automatically stabilizes any
 creature reduced to negative hit points by the blast. If the cryonic
 blast deals sufficient damage to reduce a target to –10 or fewer hit
 points, the target instead drops to –9 hit points and stabilizes
@@ -56,7 +56,7 @@ A psionic grenade releases a 10-foot-radius psionic blast that affects
 only creatures with psionic abilities or powers. Any such creature that
 fail a Reflex save (DC 18) cannot use its psionic abilities or psionic
 powers for 1d4 rounds. In addition, it must succeed on a Will s ave (DC
-15) o r suffer 1d6 points of temporary I ntelligence, Wisdom, and
+15\) o r suffer 1d6 points of temporary I ntelligence, Wisdom, and
 Charisma damage.
 
 ## Grenade, Singularity
@@ -99,36 +99,36 @@ packs.
 
 **Table: Progress Level 8 Ranged Weapons**
 
-| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Cryonic rifle | 3d6 | 20 | Cold | 20 feet | S | 10 box | Large | 8 lb. | 21 | Lic (+1) |
-| Disintegrator | 3d8 | 20 | Energy² | 30 feet | S | 10 box | Large | 6 lb. | 23 | Mil (+3) |
-| Lightning gun | 3d6 | 20 | Electricity | 50 feet | S, A | 30 box | Huge | 30 lb. | 24 | Mil (+3) |
-| Pulse rifle | 3d10 | 20 | Fire | 80 feet | S, A | 50 box | Large | 11 lb. | 21 | Res (+2) |
-| Sonic beam | 2d6 + special | 20 | Sonic | 40 feet | S | 50 box | Medium | 3 lb. | 18 | Lic (+1) |
-| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** | | | | | | | | | | |
-| **2 This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.** | | | | | | | | | | |
+| Weapon¹                                                                                               | Damage        | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| ----------------------------------------------------------------------------------------------------- | ------------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
+| Cryonic rifle                                                                                         | 3d6           | 20       | Cold        | 20 feet         | S            | 10 box   | Large  | 8 lb.  | 21          | Lic (+1)    |
+| Disintegrator                                                                                         | 3d8           | 20       | Energy²     | 30 feet         | S            | 10 box   | Large  | 6 lb.  | 23          | Mil (+3)    |
+| Lightning gun                                                                                         | 3d6           | 20       | Electricity | 50 feet         | S, A         | 30 box   | Huge   | 30 lb. | 24          | Mil (+3)    |
+| Pulse rifle                                                                                           | 3d10          | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 11 lb. | 21          | Res (+2)    |
+| Sonic beam                                                                                            | 2d6 + special | 20       | Sonic       | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 18          | Lic (+1)    |
+| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.**                |               |          |             |                 |              |          |        |        |             |             |
+| **2 This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.** |               |          |             |                 |              |          |        |        |             |             |
 
 **Table: Progress Level 8 Melee Weapons**
 
-| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Beam sword | 2d8 | 19–20 | Fire | — | Medium | 1 lb. | 17 | — | | |
-| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** | | | | | | | | | | |
+| Weapon¹                                                                             | Damage | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |     |     |
+| ----------------------------------------------------------------------------------- | ------ | -------- | ----------- | --------------- | ------ | ------ | ----------- | ----------- | --- | --- |
+| Beam sword                                                                          | 2d8    | 19–20    | Fire        | —               | Medium | 1 lb.  | 17          | —           |     |     |
+| **1 All weapons listed in this table require the Simple Weapons Proficiency feat.** |        |          |             |                 |        |        |             |             |     |     |
 
 **Table: Progress Level 8 Ammunition Types**
 
-| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Phasing (20) | Ballistic | 16 | Res (+2) | | | | | | | |
+| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction |     |     |     |     |     |     |     |
+| --------------------- | ----------- | ----------- | ----------- | --- | --- | --- | --- | --- | --- | --- |
+| Phasing (20)          | Ballistic   | 16          | Res (+2)    |     |     |     |     |     |     |     |
 
 **Table: Progress Level 8 Explosives And Splash Weapons**
 
-| Weapon | Damage | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Grenade, cryonic | 8d6 | — | Cold | 10 ft. | 15 | 10 ft. | Small | 2 lb. | 19 | Res (+2) |
-| Grenade, psionic | Special¹ | — | — | 10 ft. | 18 | 10 ft. | Tiny | 1 lb. | 22 | Res (+2) |
-| Grenade, singularity | 15d6 | — | Energy² | 5 ft. | 15 | 10 ft. | Small | 2 lb. | 26 | Mil (+3) |
+| Weapon               | Damage   | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size  | Weight | Purchase DC | Restriction |
+| -------------------- | -------- | -------- | ----------- | ------------ | --------- | --------------- | ----- | ------ | ----------- | ----------- |
+| Grenade, cryonic     | 8d6      | —        | Cold        | 10 ft.       | 15        | 10 ft.          | Small | 2 lb.  | 19          | Res (+2)    |
+| Grenade, psionic     | Special¹ | —        | —           | 10 ft.       | 18        | 10 ft.          | Tiny  | 1 lb.  | 22          | Res (+2)    |
+| Grenade, singularity | 15d6     | —        | Energy²     | 5 ft.        | 15        | 10 ft.          | Small | 2 lb.  | 26          | Mil (+3)    |
 
 ¹ See the weapon description for details.
 2 This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.

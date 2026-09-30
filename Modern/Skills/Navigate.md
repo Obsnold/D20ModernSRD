@@ -1,10 +1,10 @@
 # Navigate
 
-| Stat | Value |
-|---|---|
-| Key Ability | Int |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Int   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -31,12 +31,12 @@ If the character fails, he or she loses half a day before the character
 can try again. The character keeps trying until he or she succeeds,
 losing half a day for each failure.
 
-| Length of Trip | DC |
-|---|---|
-| Short (a few hours) | 20 |
-| Moderate (a day or two) | 22 |
-| Long (up to a week) | 25 |
-| Extreme (more than a week) | 28 |
+| Length of Trip             | DC  |
+| -------------------------- | --- |
+| Short (a few hours)        | 20  |
+| Moderate (a day or two)    | 22  |
+| Long (up to a week)        | 25  |
+| Extreme (more than a week) | 28  |
 
 When faced with multiple choices, such as at a branch in a tunnel, a
 character can make a Navigate check (DC 20) to intuit the choice that

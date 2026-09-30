@@ -55,18 +55,18 @@ The Infiltrator’s class skills (and the key ability for each skill) are:
 
 **Table: The Infiltrator**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +2 | +0 | Sweep | +1 | +1 |
-| 2nd | +1 | +0 | +3 | +0 | Improvised implements | +2 | +1 |
-| 3rd | +1 | +1 | +3 | +1 | Bonus feat | +2 | +1 |
-| 4th | +2 | +1 | +4 | +1 | Improved evasion | +3 | +2 |
-| 5th | +2 | +1 | +4 | +1 | Skill mastery | +4 | +2 |
-| 6th | +3 | +2 | +5 | +2 | Bonus feat | +4 | +2 |
-| 7th | +3 | +2 | +5 | +2 | Improvised weapon damage | +5 | +3 |
-| 8th | +4 | +2 | +6 | +2 | Improved sweep | +6 | +3 |
-| 9th | +4 | +3 | +6 | +3 | Bonus feat | +6 | +3 |
-| 10th | +5 | +3 | +7 | +3 | Without a trace | +7 | +4 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                  | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------ | ------------- | ---------------- |
+| 1st         | +0                | +0        | +2       | +0        | Sweep                    | +1            | +1               |
+| 2nd         | +1                | +0        | +3       | +0        | Improvised implements    | +2            | +1               |
+| 3rd         | +1                | +1        | +3       | +1        | Bonus feat               | +2            | +1               |
+| 4th         | +2                | +1        | +4       | +1        | Improved evasion         | +3            | +2               |
+| 5th         | +2                | +1        | +4       | +1        | Skill mastery            | +4            | +2               |
+| 6th         | +3                | +2        | +5       | +2        | Bonus feat               | +4            | +2               |
+| 7th         | +3                | +2        | +5       | +2        | Improvised weapon damage | +5            | +3               |
+| 8th         | +4                | +2        | +6       | +2        | Improved sweep           | +6            | +3               |
+| 9th         | +4                | +3        | +6       | +3        | Bonus feat               | +6            | +3               |
+| 10th        | +5                | +3        | +7       | +3        | Without a trace          | +7            | +4               |
 
 ## Class Features
 

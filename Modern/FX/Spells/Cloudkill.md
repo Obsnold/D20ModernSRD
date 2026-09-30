@@ -1,17 +1,17 @@
 # Cloudkill
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Level | Mage 5 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Effect | Cloud spreads 30 ft. wide and 20 ft. high |
-| Duration | 1 minute/level |
-| Saving Throw | See text |
-| Spell Resistance | Yes |
+| Stat             | Value                                     |
+| ---------------- | ----------------------------------------- |
+| School           | Conjuration                               |
+| Subschool        | Creation                                  |
+| Level            | Mage 5                                    |
+| Components       | V, S                                      |
+| Casting Time     | Attack action                             |
+| Range            | Medium (100 ft. + 10 ft./level)           |
+| Effect           | Cloud spreads 30 ft. wide and 20 ft. high |
+| Duration         | 1 minute/level                            |
+| Saving Throw     | See text                                  |
+| Spell Resistance | Yes                                       |
 
 A bank of yellowish green poisonous fog billows out from the point the
 character designates. The fog obscures all sight, including darkvision,

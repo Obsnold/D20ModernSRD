@@ -1,14 +1,14 @@
 # Prowess
 
-| Stat | Value |
-|---|---|
-| Key Ability | Wisdom |
-| Level | Psionic Agent 3 |
-| Display | Mental |
-| Manifestation Time | See text |
-| Range | Personal |
-| Target | You |
-| Power Point Cost | 5 |
+| Stat               | Value           |
+| ------------------ | --------------- |
+| Key Ability        | Wisdom          |
+| Level              | Psionic Agent 3 |
+| Display            | Mental          |
+| Manifestation Time | See text        |
+| Range              | Personal        |
+| Target             | You             |
+| Power Point Cost   | 5               |
 
 If an enemy provokes an attack of opportunity, you can take it, even if
 you’ve already taken your allotted number of attacks of opportunity this

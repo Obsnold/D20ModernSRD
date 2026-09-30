@@ -1,17 +1,17 @@
 # Dancing Lights
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Light |
-| Level | Arcane 0 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Effect | Up to four lights, all within a 10-ft.-radius area |
-| Duration | 1 minute (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                              |
+| ---------------- | -------------------------------------------------- |
+| School           | Evocation                                          |
+| Descriptors      | Light                                              |
+| Level            | Arcane 0                                           |
+| Components       | V, S                                               |
+| Casting Time     | Attack action                                      |
+| Range            | Medium (100 ft. + 10 ft./level)                    |
+| Effect           | Up to four lights, all within a 10-ft.-radius area |
+| Duration         | 1 minute (D)                                       |
+| Saving Throw     | None                                               |
+| Spell Resistance | No                                                 |
 
 You create up to four lights that resemble lanterns or flashlights (and
 cast that amount of light), or up to four glowing spheres of light, or

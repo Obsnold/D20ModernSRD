@@ -1,17 +1,17 @@
 # Baleful Polymorph
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Skill Check | Knowledge (arcane lore) DC 41, 6 successes, and Knowledge (earth and life sciences), 1 success |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, M, F, SC |
-| Casting Time | 70 minutes (minimum) |
-| Range | Touch |
-| Target | Helpless creature touched |
-| Duration | Permanent |
-| Saving Throw | Fortitude negates (DC 17 + caster’s Cha modifier) and see text |
-| Spell Resistance | Yes |
+| Stat             | Value                                                                                          |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| School           | Transmutation                                                                                  |
+| Skill Check      | Knowledge (arcane lore) DC 41, 6 successes, and Knowledge (earth and life sciences), 1 success |
+| Failure          | Two consecutive failed skill checks                                                            |
+| Components       | V, S, M, F, SC                                                                                 |
+| Casting Time     | 70 minutes (minimum)                                                                           |
+| Range            | Touch                                                                                          |
+| Target           | Helpless creature touched                                                                      |
+| Duration         | Permanent                                                                                      |
+| Saving Throw     | Fortitude negates (DC 17 + caster’s Cha modifier) and see text                                 |
+| Spell Resistance | Yes                                                                                            |
 
 As the *polymorph* incantation, except that you change the subject into
 a Small or smaller animal of no more than 1 HD (such as a dog, lizard,

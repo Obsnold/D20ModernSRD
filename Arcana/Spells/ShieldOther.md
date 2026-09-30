@@ -1,16 +1,16 @@
 # Shield Other
 
-| Stat | Value |
-|---|---|
-| School | Abjuration |
-| Level | Divine 2 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Target | One creature |
-| Duration | 1 hour/level (D) |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                           |
+| ---------------- | ------------------------------- |
+| School           | Abjuration                      |
+| Level            | Divine 2                        |
+| Components       | V, S, F                         |
+| Casting Time     | Attack action                   |
+| Range            | Close (25 ft. + 5 ft./2 levels) |
+| Target           | One creature                    |
+| Duration         | 1 hour/level (D)                |
+| Saving Throw     | Will negates (harmless)         |
+| Spell Resistance | Yes (harmless)                  |
 
 This spell creates a mystic connection between you and the subject so
 that some of the subject’s wounds are transferred to you. The subject

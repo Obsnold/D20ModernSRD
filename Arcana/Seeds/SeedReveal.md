@@ -1,14 +1,14 @@
 # Seed: Reveal
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Knowledge (arcane lore) DC | 30 |
-| Range | See text |
-| Effect | Magical sensor |
-| Duration | Minutes (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat                       | Value          |
+| -------------------------- | -------------- |
+| School                     | Divination     |
+| Knowledge (arcane lore) DC | 30             |
+| Range                      | See text       |
+| Effect                     | Magical sensor |
+| Duration                   | Minutes (D)    |
+| Saving Throw               | None           |
+| Spell Resistance           | No             |
 
 You can hear or see some distant location almost as if you were there.
 To both hear and see, increase the Knowledge (arcane lore) check DC by

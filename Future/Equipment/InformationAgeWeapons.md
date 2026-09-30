@@ -27,7 +27,7 @@ A sonic pulse grenade deals 3d6 points of nonlethal sonic damage to any
 living creature in the burst radius. (Robots and other nonliving
 creatures are not affected.) In addition, creatures that take damage
 from the sonic pulse grenade must also succeed on a Fortitude save (DC
-12) or be shaken for 1d4 rounds.
+12\) or be shaken for 1d4 rounds.
 
 ## Oicw Assault Rifle
 
@@ -87,20 +87,20 @@ the user.
 
 **Table: Progress Level 5 Ranged Weapons**
 
-| Weapon¹ | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Falcon .45 | 2d6 | 20 | Ballistic | 40 feet | S, A | 20 box | Medium | 2.5 lb. | 18 | Lic (+1) |
-| OICW assault rifle | 2d8 | 20 | Ballistic | 70 feet | S | 30 box | Large | 18 lb. | 26 | Mil (+3) |
-| TacMil sniper rifle | 2d10 | 20 | Ballistic | 120 feet | S | 15 box | Large | 14 lb. | 21 | Res (+2) |
-| Twin thunder machine gun | 2d10 | 20 | Ballistic | 100 feet | A | Linked | Huge | 42 lb. | 22 | Mil (+3) |
-| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** | | | | | | | | | | |
+| Weapon¹                                                                                | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight  | Purchase DC | Restriction |
+| -------------------------------------------------------------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------- | ----------- | ----------- |
+| Falcon .45                                                                             | 2d6    | 20       | Ballistic   | 40 feet         | S, A         | 20 box   | Medium | 2.5 lb. | 18          | Lic (+1)    |
+| OICW assault rifle                                                                     | 2d8    | 20       | Ballistic   | 70 feet         | S            | 30 box   | Large  | 18 lb.  | 26          | Mil (+3)    |
+| TacMil sniper rifle                                                                    | 2d10   | 20       | Ballistic   | 120 feet        | S            | 15 box   | Large  | 14 lb.  | 21          | Res (+2)    |
+| Twin thunder machine gun                                                               | 2d10   | 20       | Ballistic   | 100 feet        | A            | Linked   | Huge   | 42 lb.  | 22          | Mil (+3)    |
+| **1 All weapons listed in this table require the Personal Firearms Proficiency feat.** |        |          |             |                 |              |          |        |         |             |             |
 
 **Table: Progress Level 5 Explosives And Splash Weapons**
 
-| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Grenade, shrapnel | 5d6 | — | Slashing | 20 ft. | 15 | 10 ft. | Tiny | 1 lb. | 18 | Mil (+3) |
-| Grenade, sonic pulse | 3d6 nonlethal plus special¹ | — | Sonic | 15 ft. | 12 | 10 ft. | Tiny | 1 lb. | 15 | Res (+2) |
+| Weapon               | Damage                      | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
+| -------------------- | --------------------------- | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------ | ----------- | ----------- |
+| Grenade, shrapnel    | 5d6                         | —        | Slashing    | 20 ft.          | 15           | 10 ft.   | Tiny | 1 lb.  | 18          | Mil (+3)    |
+| Grenade, sonic pulse | 3d6 nonlethal plus special¹ | —        | Sonic       | 15 ft.          | 12           | 10 ft.   | Tiny | 1 lb.  | 15          | Res (+2)    |
 
 ¹ See the weapon description for details.
 

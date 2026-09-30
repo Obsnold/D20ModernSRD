@@ -62,12 +62,12 @@ For the purposes of reward values, an artifact’s purchase DC is 30 + its
 FX modifier. The FX modifier depends on the item’s nature, as shown
 below:
 
-| Artifact Effects | FX Modifier |
-|---|---|
-| Each single-use effect | — |
-| Each continuous effect, permanent effect, or +3 enhancement bonus | +10 |
-| Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7 |
-| Each effect with a limited number of charges, or each +1 enhancement bonus | +5 |
+| Artifact Effects                                                                | FX Modifier |
+| ------------------------------------------------------------------------------- | ----------- |
+| Each single-use effect                                                          | —           |
+| Each continuous effect, permanent effect, or +3 enhancement bonus               | +10         |
+| Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7          |
+| Each effect with a limited number of charges, or each +1 enhancement bonus      | +5          |
 
 ## Sample Artifacts
 
@@ -234,7 +234,7 @@ Great Library of Alexandria —that purport to be a complete index to the
 
 Reading the *Index* takes 40 days (which do not have to occur in a row).
 At the end of each day, the reader must make a Decipher Script check (DC
-30) or that day’s effort is lost.
+30\) or that day’s effort is lost.
 
 Upon completing the book, the reader gains +4 Intelligence, +2 Wisdom,
 and a +3 insight bonus on all Knowledge (arcane lore, art, civics, earth

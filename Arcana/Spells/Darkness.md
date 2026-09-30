@@ -1,17 +1,17 @@
 # Darkness
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Darkness |
-| Level | Divine 2 |
-| Components | V, DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Object touched |
-| Duration | 10 minutes/level (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                |
+| ---------------- | -------------------- |
+| School           | Evocation            |
+| Descriptors      | Darkness             |
+| Level            | Divine 2             |
+| Components       | V, DF                |
+| Casting Time     | Attack action        |
+| Range            | Touch                |
+| Target           | Object touched       |
+| Duration         | 10 minutes/level (D) |
+| Saving Throw     | None                 |
+| Spell Resistance | No                   |
 
 This spell causes an object to radiate darkness out to a 20- foot
 radius. Not even creatures who can normally see in the dark (such as

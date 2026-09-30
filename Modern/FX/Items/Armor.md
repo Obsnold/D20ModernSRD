@@ -19,10 +19,10 @@ action).
 enhancement bonus but no special qualities, use the following table.
 
 | Enhancement Bonus | Purchase DC Modifier |
-|---|---|
-| +1 | +8 |
-| +2 | +13 |
-| +3 | +18 |
+| ----------------- | -------------------- |
+| +1                | +8                   |
+| +2                | +13                  |
+| +3                | +18                  |
 
 Armor with special qualities has an additional purchase DC modifier, as
 noted under each item entry.
@@ -31,12 +31,12 @@ Examples of armor with special qualities include the following.
 
 ## Illusory Concealable Vest
 
-| Stat | Value |
-|---|---|
-| Type | Armor (magic) |
-| Caster Level | 10th |
-| Purchase DC | 31 (+1), 36 (+2), 41 (+3) |
-| Weight | 4 lb. |
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Armor (magic)             |
+| Caster Level | 10th                      |
+| Purchase DC  | 31 (+1), 36 (+2), 41 (+3) |
+| Weight       | 4 lb.                     |
 
 The wearer of this concealable vest gains a
 +1 to +3 enchantment bonus to Defense. Upon command, the protective
@@ -47,12 +47,12 @@ seeing spell reveals the true nature of the armor.
 
 ## Undercover Vest of Landing
 
-| Stat | Value |
-|---|---|
-| Type | Armor (psionic) |
+| Stat             | Value                         |
+| ---------------- | ----------------------------- |
+| Type             | Armor (psionic)               |
 | Manifester Level | 4th (+1), 7th (+2), 10th (+3) |
-| Purchase DC | 30 (+1), 35 (+2), 40 (+3) |
-| Weight | 3 lb. |
+| Purchase DC      | 30 (+1), 35 (+2), 40 (+3)     |
+| Weight           | 3 lb.                         |
 
 The wearer of this undercover vest gains a
 +1 to +3 enhancement bonus to Defense. The wearer also ignores the first

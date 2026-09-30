@@ -1,14 +1,14 @@
 # Divination
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Acolyte 4 |
-| Components | V, S, M |
-| Casting Time | 10 minutes |
-| Range | Personal |
-| Target | You |
-| Duration | Instantaneous |
+| Stat         | Value         |
+| ------------ | ------------- |
+| School       | Divination    |
+| Level        | Acolyte 4     |
+| Components   | V, S, M       |
+| Casting Time | 10 minutes    |
+| Range        | Personal      |
+| Target       | You           |
+| Duration     | Instantaneous |
 
 Similar to *augury* but more powerful, a *divination* spell can provide
 you with a useful piece of advice in reply to a question concerning a

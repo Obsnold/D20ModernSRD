@@ -5,11 +5,11 @@ move between cities or star systems, working odd jobs until boredom or
 fate leads them elsewhere. Along the way, they learn strange customs and
 pick up interesting and diverse skills.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +2      |
 
 ## Skills
 

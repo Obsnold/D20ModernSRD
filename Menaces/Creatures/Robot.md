@@ -3,7 +3,7 @@
 Robots are manufactured, remote-controlled constructs powered by
 batteries. These highly useful machines come in a variety of sizes and
 shapes and can be fitted with tools or weapons. Techies create
-robots—for rules on this process, refer to the Techie advanced class*.*
+robots—for rules on this process, refer to the Techie advanced class\*.\*
 
 ## Species Traits
 
@@ -33,40 +33,40 @@ construct a robot is based on its size category.
 Make a Wealth check to purchase and gather the necessary components
 before starting construction.
 
-| Size | Purchase DC |
-|---|---|
-| Small | 21 |
-| Medium-size | 24 |
+| Size        | Purchase DC |
+| ----------- | ----------- |
+| Small       | 21          |
+| Medium-size | 24          |
 
 **2. Construct Frame:** The robot’s body determines its size, shape,
 locomotion, and hit points. The DC of the required Craft (mechanical)
 check is set by the robot’s size and modified by the mode of locomotion
 selected (see the Techie advanced class description).
 
-| Size | Craft (mechanical) DC |
-|---|---|
-| Small | 18 |
-| Medium-size | 21 |
+| Size        | Craft (mechanical) DC |
+| ----------- | --------------------- |
+| Small       | 18                    |
+| Medium-size | 21                    |
 
 In addition to the external components noted in the Techie advanced
-class description*,* a Techie can add additional components, weapons,
+class description\*,\* a Techie can add additional components, weapons,
 and armor plating to a robot. Refer to the table below to find the DC
 modifier for adding new
 
 components to a robot.
 
-| Components | DC Modifier |
-|---|---|
-| **Frame Shape and Locomotion** | |
-| Articulated frame | +5 |
-| **External Components** | |
-| Accessory mount | +1 |
-| Loading mechanism | +2 |
-| Basic toolkit | +2 |
-| Basic electrical kit | +2 |
-| Searchlight | +1 |
-| **Armor** | |
-| Natural armor bonus +2 | +2\* |
+| Components                     | DC Modifier |
+| ------------------------------ | ----------- |
+| **Frame Shape and Locomotion** |             |
+| Articulated frame              | +5          |
+| **External Components**        |             |
+| Accessory mount                | +1          |
+| Loading mechanism              | +2          |
+| Basic toolkit                  | +2          |
+| Basic electrical kit           | +2          |
+| Searchlight                    | +1          |
+| **Armor**                      |             |
+| Natural armor bonus +2         | +2\*        |
 
 \*This component can be purchased a number of times equal to the robot’s
 size category (counted up from Diminutive).
@@ -82,7 +82,7 @@ single weapon or accessory up to one size category larger than itself.
 Such a robot can fire a weapon using its normal attack modifier or via a
 remote, using the operator’s attack modifier with a –4 penalty.
 Alternatively, an accessory mount can hold a single grenade, or nearly
-any of the items on Table: General Equipment*.*
+any of the items on Table: General Equipment\*.\*
 
 **Loading Mechanism:** A robot with a loading mechanism can reload a
 single weapon with a full-round action. The mechanism holds enough
@@ -100,39 +100,39 @@ flood spotlight.
 
 ## Small Robot
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size | Small |
-| Type | construct |
-| HD | 1d10+5 |
-| hp | 10 |
-| Mas | — |
-| Init | +0 |
-| Spd | 30 ft. (treads), 30 ft. (bipedal), 40 ft. (quadrupedal), or 50 ft. (wheels) |
-| Defense | 11 |
-| Touch | 11 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +1 size |
-| BAB | +0 |
-| Grap | –4 |
-| Atk | +1 melee |
-| Full Atk | +1 melee or +1 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | construct |
-| AL | none |
-| Fort | +0 |
-| Ref | +0 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 10 |
-| Con | — |
-| Int | — |
-| Wis | 10 |
-| Cha | 10 |
+| Stat              | Value                                                                       |
+| ----------------- | --------------------------------------------------------------------------- |
+| CR                | 1/2                                                                         |
+| Size              | Small                                                                       |
+| Type              | construct                                                                   |
+| HD                | 1d10+5                                                                      |
+| hp                | 10                                                                          |
+| Mas               | —                                                                           |
+| Init              | +0                                                                          |
+| Spd               | 30 ft. (treads), 30 ft. (bipedal), 40 ft. (quadrupedal), or 50 ft. (wheels) |
+| Defense           | 11                                                                          |
+| Touch             | 11                                                                          |
+| Flat-Footed       | 11                                                                          |
+| Defense Breakdown | +1 size                                                                     |
+| BAB               | +0                                                                          |
+| Grap              | –4                                                                          |
+| Atk               | +1 melee                                                                    |
+| Full Atk          | +1 melee or +1 ranged                                                       |
+| FS                | 5 ft. by 5 ft.                                                              |
+| Reach             | 5 ft.                                                                       |
+| SQ                | construct                                                                   |
+| AL                | none                                                                        |
+| Fort              | +0                                                                          |
+| Ref               | +0                                                                          |
+| Will              | +0                                                                          |
+| AP                | 0                                                                           |
+| Rep               | +0                                                                          |
+| Str               | 10                                                                          |
+| Dex               | 10                                                                          |
+| Con               | —                                                                           |
+| Int               | —                                                                           |
+| Wis               | 10                                                                          |
+| Cha               | 10                                                                          |
 
 **Skills:** None (unless programmed by a Techie).
 
@@ -144,39 +144,39 @@ flood spotlight.
 
 ## Medium-Size Robot
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | construct |
-| HD | 2d10+10 |
-| hp | 21 |
-| Mas | — |
-| Init | +0 |
-| Spd | 30 ft. (treads), 30 ft. (bipedal), 40 ft. (quadrupedal), or 50 ft. (wheels) |
-| Defense | 9 |
-| Touch | 9 |
-| Flat-Footed | 9 |
-| Defense Breakdown | –1 Dex |
-| BAB | +1 |
-| Grap | +3 |
-| Atk | +3 melee (1d4+2, claw) |
-| Full Atk | +3 melee (1d4+2, claw) or +2 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | construct |
-| AL | none |
-| Fort | +0 |
-| Ref | –1 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 8 |
-| Con | — |
-| Int | — |
-| Wis | 10 |
-| Cha | 10 |
+| Stat              | Value                                                                       |
+| ----------------- | --------------------------------------------------------------------------- |
+| CR                | 1                                                                           |
+| Size              | Medium-size                                                                 |
+| Type              | construct                                                                   |
+| HD                | 2d10+10                                                                     |
+| hp                | 21                                                                          |
+| Mas               | —                                                                           |
+| Init              | +0                                                                          |
+| Spd               | 30 ft. (treads), 30 ft. (bipedal), 40 ft. (quadrupedal), or 50 ft. (wheels) |
+| Defense           | 9                                                                           |
+| Touch             | 9                                                                           |
+| Flat-Footed       | 9                                                                           |
+| Defense Breakdown | –1 Dex                                                                      |
+| BAB               | +1                                                                          |
+| Grap              | +3                                                                          |
+| Atk               | +3 melee (1d4+2, claw)                                                      |
+| Full Atk          | +3 melee (1d4+2, claw) or +2 ranged                                         |
+| FS                | 5 ft. by 5 ft.                                                              |
+| Reach             | 5 ft.                                                                       |
+| SQ                | construct                                                                   |
+| AL                | none                                                                        |
+| Fort              | +0                                                                          |
+| Ref               | –1                                                                          |
+| Will              | +0                                                                          |
+| AP                | 0                                                                           |
+| Rep               | +0                                                                          |
+| Str               | 14                                                                          |
+| Dex               | 8                                                                           |
+| Con               | —                                                                           |
+| Int               | —                                                                           |
+| Wis               | 10                                                                          |
+| Cha               | 10                                                                          |
 
 **Skills:** None (unless programmed by a Techie).
 
@@ -188,39 +188,39 @@ flood spotlight.
 
 ## Police Assault Drone\*
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | construct |
-| HD | 2d10+10 |
-| hp | 21 |
-| Mas | — |
-| Init | –1 |
-| Spd | 30 ft. (treads) |
-| Defense | 13 |
-| Touch | 9 |
-| Flat-Footed | 13 |
-| Defense Breakdown | –1 Dex, +4 armor |
-| BAB | +1 |
-| Grap | +3 |
-| Atk | +3 melee (1d4+2, claw) |
-| Full Atk | +3 melee (1d4+2, claw) or +2 ranged (2d8, Mossberg shotgun) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | construct |
-| AL | none |
-| Fort | +0 |
-| Ref | –1 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 8 |
-| Con | — |
-| Int | — |
-| Wis | 10 |
-| Cha | 10 |
+| Stat              | Value                                                       |
+| ----------------- | ----------------------------------------------------------- |
+| CR                | 1                                                           |
+| Size              | Medium-size                                                 |
+| Type              | construct                                                   |
+| HD                | 2d10+10                                                     |
+| hp                | 21                                                          |
+| Mas               | —                                                           |
+| Init              | –1                                                          |
+| Spd               | 30 ft. (treads)                                             |
+| Defense           | 13                                                          |
+| Touch             | 9                                                           |
+| Flat-Footed       | 13                                                          |
+| Defense Breakdown | –1 Dex, +4 armor                                            |
+| BAB               | +1                                                          |
+| Grap              | +3                                                          |
+| Atk               | +3 melee (1d4+2, claw)                                      |
+| Full Atk          | +3 melee (1d4+2, claw) or +2 ranged (2d8, Mossberg shotgun) |
+| FS                | 5 ft. by 5 ft.                                              |
+| Reach             | 5 ft.                                                       |
+| SQ                | construct                                                   |
+| AL                | none                                                        |
+| Fort              | +0                                                          |
+| Ref               | –1                                                          |
+| Will              | +0                                                          |
+| AP                | 0                                                           |
+| Rep               | +0                                                          |
+| Str               | 14                                                          |
+| Dex               | 8                                                           |
+| Con               | —                                                           |
+| Int               | —                                                           |
+| Wis               | 10                                                          |
+| Cha               | 10                                                          |
 
 **Skills:** Disable Device +4.
 

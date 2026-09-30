@@ -1,10 +1,10 @@
 # Pilot
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | Yes |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | Yes   |
+| Armor Penalty | No    |
 
 ## Check
 

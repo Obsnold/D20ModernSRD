@@ -6,37 +6,37 @@ home rather than renting. Lifestyle items are shown on the table below.
 
 **Table: Lifestyle Items**
 
-| Housing | Purchase DC |
-|---|---|
-| Small condo | 28 |
-| Large condo | 30 |
-| Small house | 30 |
-| Medium house | 32 |
-| Large house | 34 |
-| Mansion | 36 |
-| Entertainment | Purchase DC |
-| Movie ticket | 3 |
-| Theater ticket | 7 |
-| Sporting event ticket | 7 |
-| Meals | Purchase DC |
-| Fast food | 2 |
-| Family restaurant | 4 |
-| Upscale restaurant | 7 |
-| Fancy restaurant | 9 |
-| Transportation | Purchase DC |
-| **Airfare** | |
-| Domestic, coach | 14 |
-| Domestic, first class | 17 |
-| International, coach | 18 |
-| International, first class | 22 |
-| **Car rental** | |
-| Economy car | 6 |
-| Mid-size or truck | 8 |
-| Luxury | 10 |
-| Lodging | Purchase DC |
-| Budget motel | 7 |
-| Average hotel | 9 |
-| Upscale hotel | 11 |
+| Housing                    | Purchase DC |
+| -------------------------- | ----------- |
+| Small condo                | 28          |
+| Large condo                | 30          |
+| Small house                | 30          |
+| Medium house               | 32          |
+| Large house                | 34          |
+| Mansion                    | 36          |
+| Entertainment              | Purchase DC |
+| Movie ticket               | 3           |
+| Theater ticket             | 7           |
+| Sporting event ticket      | 7           |
+| Meals                      | Purchase DC |
+| Fast food                  | 2           |
+| Family restaurant          | 4           |
+| Upscale restaurant         | 7           |
+| Fancy restaurant           | 9           |
+| Transportation             | Purchase DC |
+| **Airfare**                |             |
+| Domestic, coach            | 14          |
+| Domestic, first class      | 17          |
+| International, coach       | 18          |
+| International, first class | 22          |
+| **Car rental**             |             |
+| Economy car                | 6           |
+| Mid-size or truck          | 8           |
+| Luxury                     | 10          |
+| Lodging                    | Purchase DC |
+| Budget motel               | 7           |
+| Average hotel              | 9           |
+| Upscale hotel              | 11          |
 
 ## Housing
 

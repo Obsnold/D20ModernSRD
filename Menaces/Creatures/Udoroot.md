@@ -41,39 +41,39 @@ DC 10 + udoroot’s key ability modifier + power level.
 
 ## Udoroot
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Huge |
-| Type | plant |
-| HD | 6d8+18 |
-| hp | 45 |
-| Mas | — |
-| Init | +0 |
-| Spd | 0 ft. |
-| Defense | 14 |
-| Touch | 8 |
-| Flat-Footed | 14 |
-| Defense Breakdown | –2 size, +6 natural |
-| BAB | +4 |
-| Grap | — |
-| Atk | none |
-| Full Atk | none |
-| FS | 5 ft. by 5 ft. per stalk |
-| Reach | 10 ft. per stalk |
-| SQ | blindsight 40 ft., cold resistance 20, immunities, plant, *psionics* |
-| AL | none |
-| Fort | +8 |
-| Ref | +2 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 3 |
-| Dex | 10 |
-| Con | 16 |
-| Int | — |
-| Wis | 13 |
-| Cha | 9 |
+| Stat              | Value                                                                |
+| ----------------- | -------------------------------------------------------------------- |
+| CR                | 5                                                                    |
+| Size              | Huge                                                                 |
+| Type              | plant                                                                |
+| HD                | 6d8+18                                                               |
+| hp                | 45                                                                   |
+| Mas               | —                                                                    |
+| Init              | +0                                                                   |
+| Spd               | 0 ft.                                                                |
+| Defense           | 14                                                                   |
+| Touch             | 8                                                                    |
+| Flat-Footed       | 14                                                                   |
+| Defense Breakdown | –2 size, +6 natural                                                  |
+| BAB               | +4                                                                   |
+| Grap              | —                                                                    |
+| Atk               | none                                                                 |
+| Full Atk          | none                                                                 |
+| FS                | 5 ft. by 5 ft. per stalk                                             |
+| Reach             | 10 ft. per stalk                                                     |
+| SQ                | blindsight 40 ft., cold resistance 20, immunities, plant, *psionics* |
+| AL                | none                                                                 |
+| Fort              | +8                                                                   |
+| Ref               | +2                                                                   |
+| Will              | +3                                                                   |
+| AP                | 0                                                                    |
+| Rep               | +0                                                                   |
+| Str               | 3                                                                    |
+| Dex               | 10                                                                   |
+| Con               | 16                                                                   |
+| Int               | —                                                                    |
+| Wis               | 13                                                                   |
+| Cha               | 9                                                                    |
 
 **Skills:** None.
 
@@ -83,39 +83,39 @@ DC 10 + udoroot’s key ability modifier + power level.
 
 ## Advanced Udoroot
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Gargantuan |
-| Type | plant |
-| HD | 17d8+85 |
-| hp | 161 |
-| Mas | — |
-| Init | +0 |
-| Spd | 0 ft. |
-| Defense | 16 |
-| Touch | 6 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –4 size, +10 natural |
-| BAB | +12 |
-| Grap | — |
-| Atk | none |
-| Full Atk | none |
-| FS | 5 ft. by 5 ft. per stalk |
-| Reach | 15 ft. per stalk |
-| SQ | cold resistance 20, blindsight 40 ft., immunities, plant, *psionics* |
-| AL | none |
-| Fort | +15 |
-| Ref | +5 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 11 |
-| Dex | 10 |
-| Con | 20 |
-| Int | — |
-| Wis | 13 |
-| Cha | 9 |
+| Stat              | Value                                                                |
+| ----------------- | -------------------------------------------------------------------- |
+| CR                | 8                                                                    |
+| Size              | Gargantuan                                                           |
+| Type              | plant                                                                |
+| HD                | 17d8+85                                                              |
+| hp                | 161                                                                  |
+| Mas               | —                                                                    |
+| Init              | +0                                                                   |
+| Spd               | 0 ft.                                                                |
+| Defense           | 16                                                                   |
+| Touch             | 6                                                                    |
+| Flat-Footed       | 16                                                                   |
+| Defense Breakdown | –4 size, +10 natural                                                 |
+| BAB               | +12                                                                  |
+| Grap              | —                                                                    |
+| Atk               | none                                                                 |
+| Full Atk          | none                                                                 |
+| FS                | 5 ft. by 5 ft. per stalk                                             |
+| Reach             | 15 ft. per stalk                                                     |
+| SQ                | cold resistance 20, blindsight 40 ft., immunities, plant, *psionics* |
+| AL                | none                                                                 |
+| Fort              | +15                                                                  |
+| Ref               | +5                                                                   |
+| Will              | +6                                                                   |
+| AP                | 0                                                                    |
+| Rep               | +0                                                                   |
+| Str               | 11                                                                   |
+| Dex               | 10                                                                   |
+| Con               | 20                                                                   |
+| Int               | —                                                                    |
+| Wis               | 13                                                                   |
+| Cha               | 9                                                                    |
 
 **Skills:** None.
 

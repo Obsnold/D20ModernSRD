@@ -1,10 +1,10 @@
 # Move Silently
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | No |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | No    |
+| Armor Penalty | Yes   |
 
 ## Check
 

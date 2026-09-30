@@ -51,18 +51,18 @@ The Shadow Slayer’s class skills are as follows.
 
 **Table: The Shadow Slayer**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |
-| 2nd | +2 | +2 | +2 | +2 | Shadow immunity | +1 | +0 |
-| 3rd | +3 | +2 | +2 | +2 | Bonus feat | +2 | +0 |
-| 4th | +4 | +2 | +2 | +2 | Slayer weapon | +2 | +0 |
-| 5th | +5 | +3 | +3 | +3 | Shadow enemy | +3 | +1 |
-| 6th | +6 | +3 | +3 | +3 | Bonus feat | +3 | +1 |
-| 7th | +7 | +4 | +4 | +4 | Shadow enemy | +4 | +1 |
-| 8th | +8 | +4 | +4 | +4 | Fast healing | +4 | +1 |
-| 9th | +9 | +4 | +4 | +4 | Bonus feat | +5 | +2 |
-| 10th | +10 | +5 | +5 | +5 | Word of slaying | +5 | +2 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | --------------- | ------------- | ---------------- |
+| 1st         | +1                | +1        | +1       | +1        | Detect Shadow   | +1            | +0               |
+| 2nd         | +2                | +2        | +2       | +2        | Shadow immunity | +1            | +0               |
+| 3rd         | +3                | +2        | +2       | +2        | Bonus feat      | +2            | +0               |
+| 4th         | +4                | +2        | +2       | +2        | Slayer weapon   | +2            | +0               |
+| 5th         | +5                | +3        | +3       | +3        | Shadow enemy    | +3            | +1               |
+| 6th         | +6                | +3        | +3       | +3        | Bonus feat      | +3            | +1               |
+| 7th         | +7                | +4        | +4       | +4        | Shadow enemy    | +4            | +1               |
+| 8th         | +8                | +4        | +4       | +4        | Fast healing    | +4            | +1               |
+| 9th         | +9                | +4        | +4       | +4        | Bonus feat      | +5            | +2               |
+| 10th        | +10               | +5        | +5       | +5        | Word of slaying | +5            | +2               |
 
 ## Class Features
 
@@ -101,18 +101,18 @@ the supernatural dimension. The power of a Shadow aura depends on the
 type of creature or object emitting the aura and its Hit Dice or caster
 level.
 
-| Creature/Object | Rating |
-|---|---|
-| Outsider | HD |
-| Magic item or spell | Caster level x 1/2 |
-| Aberration, construct, dragon, elemental, undead creature | HD x 1/2 |
-| All other denizens of Shadow | HD x 1/5 |
+| Creature/Object                                           | Rating             |
+| --------------------------------------------------------- | ------------------ |
+| Outsider                                                  | HD                 |
+| Magic item or spell                                       | Caster level x 1/2 |
+| Aberration, construct, dragon, elemental, undead creature | HD x 1/2           |
+| All other denizens of Shadow                              | HD x 1/5           |
 
-| Rating | Aura Power |
-|---|---|
-| 1 or lower | Faint |
-| 2–4 | Moderate |
-| 5–10 | Strong |
+| Rating       | Aura Power   |
+| ------------ | ------------ |
+| 1 or lower   | Faint        |
+| 2–4          | Moderate     |
+| 5–10         | Strong       |
 | 11 or higher | Overwhelming |
 
 If an aura falls into more than one strength category (for instance, if
@@ -123,12 +123,12 @@ aura), the ability indicates the stronger of the two.
 creature or object has vacated the location depends on the aura’s
 original strength.
 
-| Original Aura Power | Duration |
-|---|---|
-| Faint | 1d6 minutes |
-| Moderate | 1d6 x 10 minutes |
-| Strong | 1d6 hours |
-| Overwhelming | 1d6 days |
+| Original Aura Power | Duration         |
+| ------------------- | ---------------- |
+| Faint               | 1d6 minutes      |
+| Moderate            | 1d6 x 10 minutes |
+| Strong              | 1d6 hours        |
+| Overwhelming        | 1d6 days         |
 
 Each round, a Shadow Slayer can turn to detect the presence of Shadow in
 a new area. The ability can penetrate barriers, but 1 foot of stone, 1
@@ -218,12 +218,12 @@ word of power that can devastate creatures of Shadow. The word of
 slaying affects any denizens of Shadow within 15 feet of the Slayer. The
 ill effects depend on the Hit Dice of the creatures, as shown below.
 
-| HD | Effect |
-|---|---|
-| 12 or more | Dazed |
-| 8–11 | Stunned |
-| 4–7 | Paralyzed |
-| 3 or less | Killed |
+| HD         | Effect    |
+| ---------- | --------- |
+| 12 or more | Dazed     |
+| 8–11       | Stunned   |
+| 4–7        | Paralyzed |
+| 3 or less  | Killed    |
 
 A dazed creature can’t act for 1d4 rounds. A stunned creature is stunned
 for 2d4 rounds. A paralyzed creature can’t move or act for 1d10 minutes.

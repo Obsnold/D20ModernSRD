@@ -36,7 +36,7 @@ Members of the Mindwreckers have access to the following psionic power:
 ## Memory Block
 
 | Stat               | Value                |
-|---|---|
+| ------------------ | -------------------- |
 | Key Ability        | Charisma             |
 | Level              | Telepath 4           |
 | Display            | Visual, Audible      |

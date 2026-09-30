@@ -20,23 +20,23 @@ Sample wands include the following:
 
 ## Wand of Animate Dead
 
-| Stat | Value |
-|---|---|
-| Type | Wand (magic) |
+| Stat         | Value        |
+| ------------ | ------------ |
+| Type         | Wand (magic) |
 | Caster Level | 5th (divine) |
-| Purchase DC | 32 |
-| Weight | 1 lb. |
+| Purchase DC  | 32           |
+| Weight       | 1 lb.        |
 
 This wand allows its user to cast animate dead.
 
 ## Wand of Knock
 
-| Stat | Value |
-|---|---|
-| Type | Wand (magic) |
+| Stat         | Value        |
+| ------------ | ------------ |
+| Type         | Wand (magic) |
 | Caster Level | 3rd (arcane) |
-| Purchase DC | 28 |
-| Weight | 1 lb. |
+| Purchase DC  | 28           |
+| Weight       | 1 lb.        |
 
 A single charge from the wand opens as many as two
 locked, barred, stuck, or magically held mechanisms within 30 feet of
@@ -44,11 +44,11 @@ each other (including locked doors and containers).
 
 ## Wand of Web
 
-| Stat | Value |
-|---|---|
-| Type | Wand (magic) |
+| Stat         | Value        |
+| ------------ | ------------ |
+| Type         | Wand (magic) |
 | Caster Level | 3rd (arcane) |
-| Purchase DC | 28 |
-| Weight | 1 lb. |
+| Purchase DC  | 28           |
+| Weight       | 1 lb.        |
 
 This wand allows its user to cast web.

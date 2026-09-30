@@ -1,17 +1,17 @@
 # Electromagnetic Pulse
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Electricity |
-| Level | Arcane 3 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Short (25 ft. + 5 ft./2 levels) |
-| Area | 20-ft. burst |
-| Duration | Instantaneous |
-| Saving Throw | Will negates (object) |
-| Spell Resistance | Yes (object) |
+| Stat             | Value                           |
+| ---------------- | ------------------------------- |
+| School           | Evocation                       |
+| Descriptors      | Electricity                     |
+| Level            | Arcane 3                        |
+| Components       | V, S                            |
+| Casting Time     | Attack action                   |
+| Range            | Short (25 ft. + 5 ft./2 levels) |
+| Area             | 20-ft. burst                    |
+| Duration         | Instantaneous                   |
+| Saving Throw     | Will negates (object)           |
+| Spell Resistance | Yes (object)                    |
 
 When you cast *electromagnetic pulse*, you send a powerful burst of
 energy that ruins electronic circuitry within the spell’s area. Any
@@ -30,11 +30,11 @@ electronic ignition systems.
 Devices affected by an *electromagnetic pulse* can be fixed according to
 the following table.
 
-| Repair Task (Example) | Relevant Skill | Purchase DC | Repair DC | Time |
-|---|---|---|---|---|
-| Simple processors (cars, elevator controls) | Repair | 7 | 15 | 10 min. |
-| Complex processors (computers, home theaters) | Repair | 10 | 20 | 1 hr. |
-| Data recovery (scrambled hard drive) | Computer Use | 4 | 25 | 2 hr. |
+| Repair Task (Example)                         | Relevant Skill | Purchase DC | Repair DC | Time    |
+| --------------------------------------------- | -------------- | ----------- | --------- | ------- |
+| Simple processors (cars, elevator controls)   | Repair         | 7           | 15        | 10 min. |
+| Complex processors (computers, home theaters) | Repair         | 10          | 20        | 1 hr.   |
+| Data recovery (scrambled hard drive)          | Computer Use   | 4           | 25        | 2 hr.   |
 
 You can jury-rig repairs more quickly and cheaply, but the repairs may
 not last. See the description of the Repair skill for details.

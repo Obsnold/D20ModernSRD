@@ -23,15 +23,15 @@ determine how financially well off a character is. To get a general
 sense of how financially solvent a character is at any given time, check
 the table below.
 
-| Wealth Bonus | Financial Condition |
-|---|---|
-| +0 | Impoverished or in debt |
-| +1 to +4 | Struggling |
-| +5 to +10 | Middle class |
-| +11 to +15 | Affluent |
-| +16 to +20 | Wealthy |
-| +21 to +30 | Rich |
-| +31 or higher | Very rich |
+| Wealth Bonus  | Financial Condition     |
+| ------------- | ----------------------- |
+| +0            | Impoverished or in debt |
+| +1 to +4      | Struggling              |
+| +5 to +10     | Middle class            |
+| +11 to +15    | Affluent                |
+| +16 to +20    | Wealthy                 |
+| +21 to +30    | Rich                    |
+| +31 or higher | Very rich               |
 
 ## Purchasing Equipment
 
@@ -106,12 +106,12 @@ higher than his or her current Wealth bonus, or one with a purchase DC
 of 15 or higher, the character’s Wealth bonus goes down. How much the
 Wealth bonus is reduced depends on how expensive the object is.
 
-| Object or Service Purchase DC | Wealth Bonus Decrease |
-|---|---|
-| 15 or higher | +1 point¹ |
-| 1–10 points higher than current Wealth bonus | 1 point |
-| 11–15 points higher than current Wealth bonus | 1d6 points |
-| 16 or more points higher than current Wealth Bonus. | 2d6 points |
+| Object or Service Purchase DC                       | Wealth Bonus Decrease |
+| --------------------------------------------------- | --------------------- |
+| 15 or higher                                        | +1 point¹             |
+| 1–10 points higher than current Wealth bonus        | 1 point               |
+| 11–15 points higher than current Wealth bonus       | 1d6 points            |
+| 16 or more points higher than current Wealth Bonus. | 2d6 points            |
 
 ¹ This stacks with the loss from a Purchase DC above the character’s current wealth bonus.
 
@@ -152,7 +152,7 @@ cases, the benefit translates into a Wealth award.
 To sell something, a character first needs to determine its sale value.
 Assuming the object is undamaged and in working condition, the sale
 value is equal to the object’s purchase DC (as if purchased new) minus
-3.
+3\.
 
 Selling an object can provide an increase to a character’s Wealth bonus.
 The increase is the same amount as the Wealth bonus loss the character

@@ -1,17 +1,17 @@
 # Wall of Stone
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Level | Acolyte 5, Mage 5 |
-| Components | V, S, M/DF |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Effect | Stone wall whose area is up to one 5-ft. square/level (S) |
-| Duration | Instantaneous |
-| Saving Throw | See text |
-| Spell Resistance | No |
+| Stat             | Value                                                     |
+| ---------------- | --------------------------------------------------------- |
+| School           | Conjuration                                               |
+| Subschool        | Creation                                                  |
+| Level            | Acolyte 5, Mage 5                                         |
+| Components       | V, S, M/DF                                                |
+| Casting Time     | Attack action                                             |
+| Range            | Medium (100 ft. + 10 ft./level)                           |
+| Effect           | Stone wall whose area is up to one 5-ft. square/level (S) |
+| Duration         | Instantaneous                                             |
+| Saving Throw     | See text                                                  |
+| Spell Resistance | No                                                        |
 
 This spell creates a wall of rock that merges into adjoining rock
 surfaces. The wall of stone is 1 inch thick per four caster levels and

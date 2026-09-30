@@ -32,12 +32,12 @@ Examples of scrolls include the following.
 
 ## Scroll of Fireball
 
-| Stat | Value |
-|---|---|
-| Type | Scroll |
-| Caster Level | 5th |
-| Purchase DC | 23 |
-| Weight | —. |
+| Stat         | Value  |
+| ------------ | ------ |
+| Type         | Scroll |
+| Caster Level | 5th    |
+| Purchase DC  | 23     |
+| Weight       | —.     |
 
 Reading the scroll activates a fireball spell. The
 spell functions exactly like a spell prepared and cast the normal way,
@@ -45,12 +45,12 @@ except that no components are required.
 
 ## Scroll of Neutralize Poison
 
-| Stat | Value |
-|---|---|
-| Type | Scroll |
-| Caster Level | 7th |
-| Purchase DC | 26 |
-| Weight | —. |
+| Stat         | Value  |
+| ------------ | ------ |
+| Type         | Scroll |
+| Caster Level | 7th    |
+| Purchase DC  | 26     |
+| Weight       | —.     |
 
 Reading the scroll activates a neutralize
 poison spell. The spell functions exactly like a spell prepared and cast
@@ -58,12 +58,12 @@ the normal way, except that no components are required.
 
 ## Scroll of Raise Dead
 
-| Stat | Value |
-|---|---|
-| Type | Scroll |
+| Stat         | Value        |
+| ------------ | ------------ |
+| Type         | Scroll       |
 | Caster Level | 9th (divine) |
-| Purchase DC | 29 |
-| Weight | —. |
+| Purchase DC  | 29           |
+| Weight       | —.           |
 
 Reading the scroll activates a raise dead spell.
 The spell functions exactly like a spell prepared and cast the normal

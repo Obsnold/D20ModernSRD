@@ -1,16 +1,16 @@
 # Machine Invisibility
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Level | Arcane 2 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Personal or touch |
-| Target | One creature or object weighing no more than 100 lb./level |
-| Duration | 1 minute/level (D) |
-| Saving Throw | Will negates (harmless) or Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless) or Yes (harmless, object) |
+| Stat             | Value                                                      |
+| ---------------- | ---------------------------------------------------------- |
+| School           | Illusion                                                   |
+| Level            | Arcane 2                                                   |
+| Components       | V, S, F                                                    |
+| Casting Time     | Attack action                                              |
+| Range            | Personal or touch                                          |
+| Target           | One creature or object weighing no more than 100 lb./level |
+| Duration         | 1 minute/level (D)                                         |
+| Saving Throw     | Will negates (harmless) or Will negates (harmless, object) |
+| Spell Resistance | Yes (harmless) or Yes (harmless, object)                   |
 
 The creature or object touched cannot be detected by video cameras,
 electronic sensors, or other high-tech detection machines. The creature

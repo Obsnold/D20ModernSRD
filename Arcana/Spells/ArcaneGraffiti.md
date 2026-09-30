@@ -1,17 +1,17 @@
 # Arcane Graffiti
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Level | Arcane 0 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | 0 ft. |
-| Effect | One personal rune or short message |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                              |
+| ---------------- | ---------------------------------- |
+| School           | Conjuration                        |
+| Subschool        | Creation                           |
+| Level            | Arcane 0                           |
+| Components       | V, S                               |
+| Casting Time     | Attack action                      |
+| Range            | 0 ft.                              |
+| Effect           | One personal rune or short message |
+| Duration         | Instantaneous                      |
+| Saving Throw     | None                               |
+| Spell Resistance | No                                 |
 
 This spell allows you to inscribe your personal rune or a short message,
 which can be no larger than 2 feet tall and consist of no more than six

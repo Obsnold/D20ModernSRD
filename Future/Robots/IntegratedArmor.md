@@ -29,7 +29,7 @@ aluminsteel armor.
 
 **Weight:** One-quarter the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** –5 feet**.**
+**Speed Penalty:** –5 feet\*\*.\*\*
 
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame.
@@ -48,7 +48,7 @@ armor.
 
 **Weight:** One-eighth the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** None**.**
+**Speed Penalty:** None\*\*.\*\*
 
 **Purchase DC:** 5 + one-half the base purchase DC of the robot’s frame.
 
@@ -64,7 +64,7 @@ duralloy armor.
 
 **Weight:** One-half the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** –10 feet**.**
+**Speed Penalty:** –10 feet\*\*.\*\*
 
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame.
@@ -81,7 +81,7 @@ cannot have integrated resilium armor.
 
 **Weight:** One-eighth the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** None**.**
+**Speed Penalty:** None\*\*.\*\*
 
 **Purchase DC:** 5 + one-half the base purchase DC of the robot’s frame.
 
@@ -98,7 +98,7 @@ cannot have integrated crystal carbon armor.
 
 **Weight:** One-eighth the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** None**.**
+**Speed Penalty:** None\*\*.\*\*
 
 **Purchase DC:** 15 + one-half the base purchase DC of the robot’s
 frame.
@@ -115,7 +115,7 @@ liquid-state robots cannot have integrated neovulcanium armor.
 
 **Weight:** One-quarter the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** –5 feet**.**
+**Speed Penalty:** –5 feet\*\*.\*\*
 
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame.
@@ -133,7 +133,7 @@ integrated megatanium armor.
 
 **Weight:** One-quarter the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** –5 feet**.**
+**Speed Penalty:** –5 feet\*\*.\*\*
 
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame.
@@ -152,7 +152,7 @@ integrated reactive armor.
 
 **Weight:** One-quarter the weight of the robot’s frame (rounded down).
 
-**Speed Penalty:** –5 feet**.**
+**Speed Penalty:** –5 feet\*\*.\*\*
 
 **Purchase DC:** 5 + one-half the base purchase DC of the robot’s frame.
 

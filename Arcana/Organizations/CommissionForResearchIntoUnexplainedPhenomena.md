@@ -81,40 +81,40 @@ strengths, weaknesses, and any way that they can be exploited by the
 government. She has personally led expeditiong to capture specimens of
 numerous Shadow species and take them back to the laboratory for study.
 
-| Stat | Value |
-|---|---|
-| Class | Smart 4/Field Scientist 7 |
-| CR | 11 |
-| Size/Type | Medium humanoid |
-| HD | 4d6 plus 7d8 |
-| hp | 52 |
-| Mas | 10 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 18 |
-| Touch | 17 |
-| Flat-Footed | 18 |
-| Defense Breakdown | +4 smart defense, +3 class, +1 light undercover shirt |
-| BAB | +5 |
-| Grap | +5 |
-| Atk | +5 melee (1d3 nonlethal, unarmed strike) |
-| Full Atk | +5 melee (1d3 nonlethal, unarmed strike), or +6 ranged (2d6, Glock 20), or +5 ranged (1d2 and special, air rifle) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| AL | US Government, Science |
-| Fort | +5 |
-| Ref | +8 |
-| Will | +7 |
-| AP | 11, Rep +4 |
-| Str | 10 |
-| Dex | 11 |
-| Con | 10 |
-| Int | 18 |
-| Wis | 16 |
-| Cha | 16 |
+| Stat              | Value                                                                                                             |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Class             | Smart 4/Field Scientist 7                                                                                         |
+| CR                | 11                                                                                                                |
+| Size/Type         | Medium humanoid                                                                                                   |
+| HD                | 4d6 plus 7d8                                                                                                      |
+| hp                | 52                                                                                                                |
+| Mas               | 10                                                                                                                |
+| Init              | +0                                                                                                                |
+| Spd               | 30 ft.                                                                                                            |
+| Defense           | 18                                                                                                                |
+| Touch             | 17                                                                                                                |
+| Flat-Footed       | 18                                                                                                                |
+| Defense Breakdown | +4 smart defense, +3 class, +1 light undercover shirt                                                             |
+| BAB               | +5                                                                                                                |
+| Grap              | +5                                                                                                                |
+| Atk               | +5 melee (1d3 nonlethal, unarmed strike)                                                                          |
+| Full Atk          | +5 melee (1d3 nonlethal, unarmed strike), or +6 ranged (2d6, Glock 20), or +5 ranged (1d2 and special, air rifle) |
+| FS                | 5 ft. by 5 ft.                                                                                                    |
+| Reach             | 5 ft.                                                                                                             |
+| AL                | US Government, Science                                                                                            |
+| Fort              | +5                                                                                                                |
+| Ref               | +8                                                                                                                |
+| Will              | +7                                                                                                                |
+| AP                | 11, Rep +4                                                                                                        |
+| Str               | 10                                                                                                                |
+| Dex               | 11                                                                                                                |
+| Con               | 10                                                                                                                |
+| Int               | 18                                                                                                                |
+| Wis               | 16                                                                                                                |
+| Cha               | 16                                                                                                                |
 
-**Occupation:** Doctor (class skills: Knowledge \[behavioral sciences\]
-and Knowledge \[earth and life sciences\]).
+**Occupation:** Doctor (class skills: Knowledge [behavioral sciences]
+and Knowledge [earth and life sciences]).
 
 **Skills**: Computer Use +14, Craft (chemical) +17, Craft
 (pharmaceutical) +17, Craft (writing) +9, Decipher Script +13,
@@ -123,7 +123,7 @@ sciences) +21, Knowledge (earth and life sciences) +25, Read/Write
 English, Read/Write Spanish, Speak English, Speak Spanish, Research +20.
 
 **Feats**: Defensive Martial Arts, Educated (Knowledge \[behavioral
-sciences\] and Knowledge \[earth and life sciences\]), Heroic Surge,
+sciences\] and Knowledge [earth and life sciences]), Heroic Surge,
 Lightning Reflexes, Medical Expert, Personal Firearms Proficiency, Point
 Blank Shot, Simple Weapons Proficiency, Studious, Surgery.
 
@@ -133,10 +133,10 @@ sciences\]), plan.
 **Talents (Dedicated Hero):** Healing knack.
 
 **Talents (Field Scientist):** Smart Defense, scientific improvisation,
-skill mastery (Computer Use, Knowledge \[behavioral science\], Knowledge
-\[earth and life sciences\], Craft \[pharmaceutical\], Craft
-\[chemical\], Research, Treat Injury), minor breakthrough (Knowledge
-\[earth and life sciences\]).
+skill mastery (Computer Use, Knowledge [behavioral science], Knowledge
+[earth and life sciences], Craft [pharmaceutical], Craft
+[chemical], Research, Treat Injury), minor breakthrough (Knowledge
+[earth and life sciences]).
 
 **Possessions**: Glock 20 (10mm autoloader), 50 rounds of 10mm
 ammunition, air rifle, 20 tranquilizer rounds, light undercover shirt\*,

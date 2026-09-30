@@ -66,7 +66,7 @@ Reach 0 ft.; SQ darkvision 60 ft., construct immunities; AL creator or
 owner; SV Fort +0, Ref +3, Will –5; AP 0; Rep +0; Str 3, Dex 16, Con —,
 Int —, Wis 1, Cha 1.
 
-*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 5
+\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 5
 (does not include magic batteries); *Weight:* 1 lb.
 
 ## Backpack of Holding
@@ -78,12 +78,12 @@ into the backpack, it weighs a fixed amount. This weight, and the limits
 in weight and volume of the backpack’s contents, depend on the
 backpack’s type, as shown below.
 
-| Pack Type | Weight | Weight Limit of Contents | Volume Limit of Contents | Purchase DC |
-|---|---|---|---|---|
-| Light backpack | 2 lb. | 250 lb. | 30 cu. ft. | 34 |
-| Medium backpack | 5 lb. | 500 lb. | 70 cu. ft. | 36 |
-| Heavy backpack | 8 lb. | 1,000 lb. | 150 cu. ft. | 38 |
-| Jumbo backpack | 20 lb. | 1,500 lb. | 250 cu. ft. | 41 |
+| Pack Type       | Weight | Weight Limit of Contents | Volume Limit of Contents | Purchase DC |
+| --------------- | ------ | ------------------------ | ------------------------ | ----------- |
+| Light backpack  | 2 lb.  | 250 lb.                  | 30 cu. ft.               | 34          |
+| Medium backpack | 5 lb.  | 500 lb.                  | 70 cu. ft.               | 36          |
+| Heavy backpack  | 8 lb.  | 1,000 lb.                | 150 cu. ft.              | 38          |
+| Jumbo backpack  | 20 lb. | 1,500 lb.                | 250 cu. ft.              | 41          |
 
 If the backpack is overloaded, or if sharp objects pierce it (from
 inside or outside), the bag ruptures and is ruined. All contents are
@@ -117,7 +117,7 @@ This bulky, old-fashioned instant camera steals the life force of anyone
 caught in its field of view. Once per day, the user of the *camera of
 soul stealing* can take a picture (the camera does not need to be loaded
 with film). Anyone within a 30-foot cone must succeed at a Will save (DC
-20) or gain 1d4 negative levels. If a creature successfully makes the
+20\) or gain 1d4 negative levels. If a creature successfully makes the
 Will save, it is permanently immune to the effects of that *camera of
 soul stealing*.
 
@@ -126,7 +126,7 @@ and they possess a horrific, mind-bending quality such that people look
 gaunt and haunted, objects are twisted in a sinister way, and shadows
 seem darker and menacing.
 
-*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
+\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* 5 lb.
 
 ## Demonic Biker’s Jacket
@@ -363,7 +363,7 @@ with the same name will be able to read the message as normal.
 
 A *read magic* spell will indicate that invisible ink has been used, but
 will not reveal the message. It is possible to create a nonmagical
-chemical compound (Craft \[chemical\] check, DC 25) that, when spread
+chemical compound (Craft [chemical] check, DC 25) that, when spread
 over the surface of the paper, reveals the message written in *invisible
 ink*.
 
@@ -497,7 +497,7 @@ lasts.
 There is a 1% chance per use that the watch ceases to function after its
 last use. Once it ceases to function, the watch cannot be repaired.
 
-*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
+\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* —.
 
 ## Token of Friendship
@@ -510,7 +510,7 @@ can, as a move equivalent action, determine the exact location of any
 other single person wearing another of the matched charms. As per the
 incantation, the charms provide only GPS coordinates.
 
-*Type:*Wondrous Item (magic); *Caster Level:* 13th; *Purchase DC:* 41;
+\*Type:\*Wondrous Item (magic); *Caster Level:* 13th; *Purchase DC:* 41;
 *Weight:* —.
 
 ## Translator’s Earpiece
@@ -549,21 +549,21 @@ always has two each of the following patches:
 In addition, the trench coat has 2d6+4 other items, determined by
 rolling on the table below.
 
-| d% | Result |
-|---|---|
-| 01–08 | Bundle of cash (increase Wealth bonus by +2) |
-| 09–15 | Loaded flare gun (with 3 extra rounds) |
-| 16–22 | Gas mask (with an extra filter canister) |
-| 23–30 | Night vision goggles |
-| 31–44 | 24-foot-long metal ladder |
-| 45–51 | Diamondback X-20 mountain bike |
-| 52–59 | Steel handcuffs |
-| 60–68 | Portable generator (with full tank of gas) |
-| 69–75 | Fire exitinguisher |
-| 76–83 | Small bag of jewels (increase Wealth bonus by +4) |
+| d%    | Result                                                                                      |
+| ----- | ------------------------------------------------------------------------------------------- |
+| 01–08 | Bundle of cash (increase Wealth bonus by +2)                                                |
+| 09–15 | Loaded flare gun (with 3 extra rounds)                                                      |
+| 16–22 | Gas mask (with an extra filter canister)                                                    |
+| 23–30 | Night vision goggles                                                                        |
+| 31–44 | 24-foot-long metal ladder                                                                   |
+| 45–51 | Diamondback X-20 mountain bike                                                              |
+| 52–59 | Steel handcuffs                                                                             |
+| 60–68 | Portable generator (with full tank of gas)                                                  |
+| 69–75 | Fire exitinguisher                                                                          |
+| 76–83 | Small bag of jewels (increase Wealth bonus by +4)                                           |
 | 84–90 | Cell phone (connects to any cellular network and works for 8 hours before becoming useless) |
-| 91–96 | First aid kit |
-| 97–00 | Roll twice more, ignoring results of 97–00 |
+| 91–96 | First aid kit                                                                               |
+| 97–00 | Roll twice more, ignoring results of 97–00                                                  |
 
 *Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:* 35;
 *Weight:* 1 lb.

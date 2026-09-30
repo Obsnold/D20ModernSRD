@@ -81,15 +81,15 @@ oil slick forces the drive to make a Drive check (DC 15) to retain
 control of the vehicle (see Losing Control). Failing to avoid an object
 results in a collision with the object (see Collisions and Ramming).
 
-| Hazard | DC |
-|---|---|
-| Caltrops | 15 |
-| Oil slick | 15 |
-| **Object** | |
-| Small (tire, light debris) | 5 |
-| Medium-size (crate) | 10 |
-| Large (pile of wreckage) | 15 |
-| Structure | Cannot be avoided |
+| Hazard                     | DC                |
+| -------------------------- | ----------------- |
+| Caltrops                   | 15                |
+| Oil slick                  | 15                |
+| **Object**                 |                   |
+| Small (tire, light debris) | 5                 |
+| Medium-size (crate)        | 10                |
+| Large (pile of wreckage)   | 15                |
+| Structure                  | Cannot be avoided |
 
 **Bootleg Turn:** By making a bootleg turn, a driver can radically
 change direction without turning in a loop. However, in so doing, the
@@ -108,12 +108,12 @@ only changes facing by 45 degrees. Make a Drive check to retain control
 against a DC equal to the DC for the bootleg turn attempted (see Losing
 Control).
 
-| Facing Change | DC |
-|---|---|
-| 45 degrees | 5 |
-| 90 degrees | 10 |
-| 135 degrees | 15 |
-| 180 degrees | 20 |
+| Facing Change | DC  |
+| ------------- | --- |
+| 45 degrees    | 5   |
+| 90 degrees    | 10  |
+| 135 degrees   | 15  |
+| 180 degrees   | 20  |
 
 **Dash:** With a dash stunt, a driver can increase the vehicle’s speed
 by one category. (This increase is in addition to any speed change made
@@ -173,18 +173,18 @@ On a failed check, the vehicle fails to clear the gap, and instead falls
 into it (or collides with the far side). Determine damage as for a
 collision (see Collisions and Ramming).
 
-| Gap Width | DC |
-|---|---|
-| 1–3 ft. (ditch) | 15 |
-| 4–8 ft. (culvert) | 20 |
-| 8–15 ft. (creek, small ravine) | 25 |
-| 16–25 ft. (narrow road, small pond) | 35 |
-| 26–40 ft. (wide road, small river) | 45 |
-| Vehicle Speed Category | DC Modifier |
-| Alley speed | +10 |
-| Street speed | +5 |
-| Highway speed | +0 |
-| All-out | –5 |
+| Gap Width                           | DC          |
+| ----------------------------------- | ----------- |
+| 1–3 ft. (ditch)                     | 15          |
+| 4–8 ft. (culvert)                   | 20          |
+| 8–15 ft. (creek, small ravine)      | 25          |
+| 16–25 ft. (narrow road, small pond) | 35          |
+| 26–40 ft. (wide road, small river)  | 45          |
+| Vehicle Speed Category              | DC Modifier |
+| Alley speed                         | +10         |
+| Street speed                        | +5          |
+| Highway speed                       | +0          |
+| All-out                             | –5          |
 
 A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object;
 the vehicle may be able to avoid taking collision damage from the failed
@@ -226,11 +226,11 @@ lose control of the vehicle.
 The DC for a sideswipe is 15. It’s modified by the relative size and
 speed of the target.
 
-| Target Condition | DC Modifier |
-|---|---|
-| Each size category larger | –5 |
-| Each size category smaller | +5 |
-| Each speed category of difference | –2 |
+| Target Condition                  | DC Modifier |
+| --------------------------------- | ----------- |
+| Each size category larger         | –5          |
+| Each size category smaller        | +5          |
+| Each speed category of difference | –2          |
 
 On a failed check, both vehicles take damage as though the sideswipe
 attempt was a success. However, the other driver does not need to make a

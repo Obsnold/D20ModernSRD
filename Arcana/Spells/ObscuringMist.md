@@ -1,17 +1,17 @@
 # Obscuring Mist
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Level | Arcane 1, Divine 1 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | 30 ft. |
-| Effect | Cloud centered on you spreads 30 ft. and is 20 ft. high |
-| Duration | 1 minute/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                   |
+| ---------------- | ------------------------------------------------------- |
+| School           | Conjuration                                             |
+| Subschool        | Creation                                                |
+| Level            | Arcane 1, Divine 1                                      |
+| Components       | V, S                                                    |
+| Casting Time     | Attack action                                           |
+| Range            | 30 ft.                                                  |
+| Effect           | Cloud centered on you spreads 30 ft. and is 20 ft. high |
+| Duration         | 1 minute/level                                          |
+| Saving Throw     | None                                                    |
+| Spell Resistance | No                                                      |
 
 A misty vapor arises around you. It is stationary once created. The
 vapor obscures all sight, including darkvision, beyond 5 feet. A

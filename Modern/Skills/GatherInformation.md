@@ -1,10 +1,10 @@
 # Gather Information
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -21,12 +21,12 @@ Information ranges from general to protected, and the cost and DC
 increases accordingly for the type of information the character seeks to
 gather, as given in the table below.
 
-| Type of Information | DC | Purchase DC |
-|---|---|---|
-| General | 10 | 5 |
-| Specific | 15 | 10 |
-| Restricted | 20 | 15 |
-| Protected | 25 | 20 |
+| Type of Information | DC  | Purchase DC |
+| ------------------- | --- | ----------- |
+| General             | 10  | 5           |
+| Specific            | 15  | 10          |
+| Restricted          | 20  | 15          |
+| Protected           | 25  | 20          |
 
 General information concerns local happenings, rumors, gossip, and the
 like. Specific information usually relates to a particular question.

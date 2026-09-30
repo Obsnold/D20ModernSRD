@@ -1,17 +1,17 @@
 # Mindlink
 
-| Stat | Value |
-|---|---|
-| Key Ability | Charisma |
-| Level | Telepath 3 |
-| Display | Material |
-| Manifestation Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Targets | One creature/level, no two of which are initially more than 30 ft. apart |
-| Duration | 10 minutes/level |
-| Saving Throw | None |
-| Power Resistance | No |
-| Power Point Cost | 5 |
+| Stat               | Value                                                                    |
+| ------------------ | ------------------------------------------------------------------------ |
+| Key Ability        | Charisma                                                                 |
+| Level              | Telepath 3                                                               |
+| Display            | Material                                                                 |
+| Manifestation Time | Attack action                                                            |
+| Range              | Close (25 ft. + 5 ft./2 levels)                                          |
+| Targets            | One creature/level, no two of which are initially more than 30 ft. apart |
+| Duration           | 10 minutes/level                                                         |
+| Saving Throw       | None                                                                     |
+| Power Resistance   | No                                                                       |
+| Power Point Cost   | 5                                                                        |
 
 The manifester forges a telepathic bond with one or more people or
 creatures, which must have Intelligence scores of 6 or higher. The bond

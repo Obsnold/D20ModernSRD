@@ -1,16 +1,16 @@
 # Ray of Fatigue
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Level | Mage 1 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Effect | Ray |
-| Duration | 1 minute/level |
-| Saving Throw | No |
-| Spell Resistance | Yes |
+| Stat             | Value                           |
+| ---------------- | ------------------------------- |
+| School           | Necromancy                      |
+| Level            | Mage 1                          |
+| Components       | V, S, M                         |
+| Casting Time     | Attack action                   |
+| Range            | Close (25 ft. + 5 ft./2 levels) |
+| Effect           | Ray                             |
+| Duration         | 1 minute/level                  |
+| Saving Throw     | No                              |
+| Spell Resistance | Yes                             |
 
 The caster must succeed at a ranged touch attack with the ray to strike
 a target. The subject is immediately fatigued for the spell’s duration.

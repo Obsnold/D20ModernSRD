@@ -45,39 +45,39 @@ panic and remain panicked for as long as they are in the area.
 
 ## Whisperer in the Dark
 
-| Stat | Value |
-|---|---|
-| CR | 12 |
-| Size | Large |
-| Type | undead (incorporeal) |
-| HD | 11d12 |
-| hp | 71 |
-| Mas | — |
-| Init | +7 |
-| Spd | 30 ft., fly 60 ft. (good) |
-| Defense | 14 |
-| Touch | 14 |
-| Flat-Footed | 11 |
-| Defense Breakdown | –1 size, +3 Dex, +2 deflection |
-| BAB | +5 |
-| Grap | — |
-| Atk | +4 melee (2d6 Con, incorporeal touch) |
-| Full Atk | +4 melee (2d6 Con, 4 incorporeal touches) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | daylight powerlessness, incorporeal, *psionics*, steal essence, turn resistance +2, undead, unnatural aura |
-| AL | chaos, evil |
-| Fort | +3 |
-| Ref | +6 |
-| Will | +9 |
-| AP | 0 |
-| Rep | +0 |
-| Str | — |
-| Dex | 16 |
-| Con | — |
-| Int | 14 |
-| Wis | 14 |
-| Cha | 15 |
+| Stat              | Value                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| CR                | 12                                                                                                         |
+| Size              | Large                                                                                                      |
+| Type              | undead (incorporeal)                                                                                       |
+| HD                | 11d12                                                                                                      |
+| hp                | 71                                                                                                         |
+| Mas               | —                                                                                                          |
+| Init              | +7                                                                                                         |
+| Spd               | 30 ft., fly 60 ft. (good)                                                                                  |
+| Defense           | 14                                                                                                         |
+| Touch             | 14                                                                                                         |
+| Flat-Footed       | 11                                                                                                         |
+| Defense Breakdown | –1 size, +3 Dex, +2 deflection                                                                             |
+| BAB               | +5                                                                                                         |
+| Grap              | —                                                                                                          |
+| Atk               | +4 melee (2d6 Con, incorporeal touch)                                                                      |
+| Full Atk          | +4 melee (2d6 Con, 4 incorporeal touches)                                                                  |
+| FS                | 5 ft. by 5 ft.                                                                                             |
+| Reach             | 10 ft.                                                                                                     |
+| SQ                | daylight powerlessness, incorporeal, *psionics*, steal essence, turn resistance +2, undead, unnatural aura |
+| AL                | chaos, evil                                                                                                |
+| Fort              | +3                                                                                                         |
+| Ref               | +6                                                                                                         |
+| Will              | +9                                                                                                         |
+| AP                | 0                                                                                                          |
+| Rep               | +0                                                                                                         |
+| Str               | —                                                                                                          |
+| Dex               | 16                                                                                                         |
+| Con               | —                                                                                                          |
+| Int               | 14                                                                                                         |
+| Wis               | 14                                                                                                         |
+| Cha               | 15                                                                                                         |
 
 **Skills:** Concentration +8, Hide +13, Intimidate +12, Listen +12,
 Search +12, Sense Motive +8, Spot +12.

@@ -9,14 +9,14 @@ one-half cover.
 
 **Table: Vehicles: Civilian Trucks**
 
-| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AM General Hummer (SUV) | 1 | 3 | 1,000 lb. | –2 | –2 | 140 (14) | 8 | 5 | 38 | H | 34 | Lic (+1) |
-| Chevrolet Suburban (SUV) | 1 | 8 | 500 lb. | –2 | –2 | 175 (17) | 8 | 5 | 38 | H | 30 | Lic (+1) |
-| Dodge Caravan (minivan) | 1 | 4 | 325 lb. | –2 | –2 | 195 (19) | 8 | 5 | 34 | H | 28 | Lic (+1) |
-| Ford Escape XLT (SUV) | 1 | 4 | 300 lb. | –2 | –2 | 200 (20) | 8 | 5 | 32 | H | 29 | Lic (+1) |
-| Ford F-150 XL (pickup) | 1 | 2 | 1,700 lb. | –2 | –2 | 175 (17) | 8 | 5 | 36 | H | 28 | Lic (+1) |
-| Toyota Tacoma Xtracab (pickup) | 1 | 3 | 1,600 lb. | –2 | –2 | 185 (18) | 8 | 5 | 34 | H | 27 | Lic (+1) |
+| Name                           | Crew | Pass | Cargo     | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
+| ------------------------------ | ---- | ---- | --------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---- | ----------- | ----------- |
+| AM General Hummer (SUV)        | 1    | 3    | 1,000 lb. | –2   | –2       | 140 (14)  | 8       | 5        | 38         | H    | 34          | Lic (+1)    |
+| Chevrolet Suburban (SUV)       | 1    | 8    | 500 lb.   | –2   | –2       | 175 (17)  | 8       | 5        | 38         | H    | 30          | Lic (+1)    |
+| Dodge Caravan (minivan)        | 1    | 4    | 325 lb.   | –2   | –2       | 195 (19)  | 8       | 5        | 34         | H    | 28          | Lic (+1)    |
+| Ford Escape XLT (SUV)          | 1    | 4    | 300 lb.   | –2   | –2       | 200 (20)  | 8       | 5        | 32         | H    | 29          | Lic (+1)    |
+| Ford F-150 XL (pickup)         | 1    | 2    | 1,700 lb. | –2   | –2       | 175 (17)  | 8       | 5        | 36         | H    | 28          | Lic (+1)    |
+| Toyota Tacoma Xtracab (pickup) | 1    | 3    | 1,600 lb. | –2   | –2       | 185 (18)  | 8       | 5        | 34         | H    | 27          | Lic (+1)    |
 
 ## AM General Hummer
 

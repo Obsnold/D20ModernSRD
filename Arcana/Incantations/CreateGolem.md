@@ -1,18 +1,18 @@
 # Create Golem
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Creation |
-| Skill Check | Knowledge (arcane lore) DC 32, 7 successes |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, M, XP |
-| Casting Time | 7 hours (minimum) |
-| Range | Touch |
-| Target | One corpse |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                      |
+| ---------------- | ------------------------------------------ |
+| School           | Conjuration                                |
+| Subschool        | Creation                                   |
+| Skill Check      | Knowledge (arcane lore) DC 32, 7 successes |
+| Failure          | Two consecutive failed skill checks        |
+| Components       | V, S, M, XP                                |
+| Casting Time     | 7 hours (minimum)                          |
+| Range            | Touch                                      |
+| Target           | One corpse                                 |
+| Duration         | Instantaneous                              |
+| Saving Throw     | None                                       |
+| Spell Resistance | No                                         |
 
 This incantation fuses an elemental spirit with a patchwork collection
 of body parts knitted into a single bipedal form. *Create golem* brings

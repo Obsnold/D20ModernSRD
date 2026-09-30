@@ -52,18 +52,18 @@ The Negotiator’s class skills (and the key ability for each skill) are:
 
 **Table: The Negotiator**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +2 | Conceal motive | +0 | +1 |
-| 2nd | +1 | +2 | +0 | +3 | React first | +1 | +1 |
-| 3rd | +2 | +2 | +1 | +3 | Bonus feat | +1 | +1 |
-| 4th | +3 | +2 | +1 | +4 | Talk down one opponent | +1 | +2 |
-| 5th | +3 | +3 | +1 | +4 | No sweat | +2 | +2 |
-| 6th | +4 | +3 | +2 | +5 | Bonus feat | +2 | +2 |
-| 7th | +5 | +4 | +2 | +5 | Talk down several opponents | +2 | +3 |
-| 8th | +6 | +4 | +2 | +6 | Sow distrust | +3 | +3 |
-| 9th | +6 | +4 | +3 | +6 | Bonus feat | +3 | +3 |
-| 10th | +7 | +5 | +3 | +7 | Talk down all opponents | +3 | +4 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | --------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +1        | +0       | +2        | Conceal motive              | +0            | +1               |
+| 2nd         | +1                | +2        | +0       | +3        | React first                 | +1            | +1               |
+| 3rd         | +2                | +2        | +1       | +3        | Bonus feat                  | +1            | +1               |
+| 4th         | +3                | +2        | +1       | +4        | Talk down one opponent      | +1            | +2               |
+| 5th         | +3                | +3        | +1       | +4        | No sweat                    | +2            | +2               |
+| 6th         | +4                | +3        | +2       | +5        | Bonus feat                  | +2            | +2               |
+| 7th         | +5                | +4        | +2       | +5        | Talk down several opponents | +2            | +3               |
+| 8th         | +6                | +4        | +2       | +6        | Sow distrust                | +3            | +3               |
+| 9th         | +6                | +4        | +3       | +6        | Bonus feat                  | +3            | +3               |
+| 10th        | +7                | +5        | +3       | +7        | Talk down all opponents     | +3            | +4               |
 
 ## Class Features
 

@@ -29,15 +29,15 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Table: Biodroid Robot Frames (Pl 6)**
 
-| | | | | ——— Base Ability Scores ——— | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
-| Colossal | 48 | 32d10 | 120 | 44 | 7 | — | 10 | 10 | 5 | 45d10/+4 per HD |
-| Gargantuan | 40 | 16d10 | 80 | 36 | 7 | — | 10 | 10 | 5 | 31d10/+3 per HD |
-| Huge | 32 | 8d10 | 40 | 28 | 7 | — | 10 | 10 | 5 | 15d10/+2 per HD |
-| Large | 28 | 2d10 | 20 | 20 | 9 | — | 10 | 10 | 5 | 7d10/+1 per HD |
-| Medium-size | 24 | 1d10 | 10 | 12 | 11 | — | 10 | 10 | 5 | — |
-| Small | 20 | 1/2d10 | 5 | 8 | 13 | — | 10 | 10 | 5 | — |
-| Tiny | 16 | 1/4d10 | — | 4 | 15 | — | 10 | 10 | 5 | — |
-| Diminutive | 12 | 1/8d10 | — | 2 | 17 | — | 10 | 10 | 5 | — |
-| Fine | 8 | 1/16d10 | — | 1 | 19 | — | 10 | 10 | 5 | — |
+|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
+| -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
+| Colossal       | 48                   | 32d10             | 120                  | 44                          | 7       | —       | 10      | 10      | 5       | 45d10/+4 per HD                           |
+| Gargantuan     | 40                   | 16d10             | 80                   | 36                          | 7       | —       | 10      | 10      | 5       | 31d10/+3 per HD                           |
+| Huge           | 32                   | 8d10              | 40                   | 28                          | 7       | —       | 10      | 10      | 5       | 15d10/+2 per HD                           |
+| Large          | 28                   | 2d10              | 20                   | 20                          | 9       | —       | 10      | 10      | 5       | 7d10/+1 per HD                            |
+| Medium-size    | 24                   | 1d10              | 10                   | 12                          | 11      | —       | 10      | 10      | 5       | —                                         |
+| Small          | 20                   | 1/2d10            | 5                    | 8                           | 13      | —       | 10      | 10      | 5       | —                                         |
+| Tiny           | 16                   | 1/4d10            | —                    | 4                           | 15      | —       | 10      | 10      | 5       | —                                         |
+| Diminutive     | 12                   | 1/8d10            | —                    | 2                           | 17      | —       | 10      | 10      | 5       | —                                         |
+| Fine           | 8                    | 1/16d10           | —                    | 1                           | 19      | —       | 10      | 10      | 5       | —                                         |

@@ -6,38 +6,38 @@
 
 ## Raven
 
-| Stat | Value |
-|---|---|
-| CR | 1/4 |
-| Size | Tiny |
-| Type | animal |
-| HD | 1/4 d8 |
-| hp | 1 |
-| Mas | 10 |
-| Init | +2 |
-| Spd | 10 ft., fly 40 ft. (average) |
-| Defense | 14 |
-| Touch | 14 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +2 size, +2 Dex |
-| BAB | +0 |
-| Grap | –13 |
-| Atk | +4 melee (1d2–5, claw) |
-| Full Atk | +4 melee (1d2–5, claw) |
-| FS | 2 1/2 ft. by 2 1/2 ft. |
-| Reach | 0 ft. |
-| AL | none or owner |
-| Fort | +2 |
-| Ref | +4 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 1 |
-| Dex | 15 |
-| Con | 10 |
-| Int | 2 |
-| Wis | 14 |
-| Cha | 6 |
+| Stat              | Value                        |
+| ----------------- | ---------------------------- |
+| CR                | 1/4                          |
+| Size              | Tiny                         |
+| Type              | animal                       |
+| HD                | 1/4 d8                       |
+| hp                | 1                            |
+| Mas               | 10                           |
+| Init              | +2                           |
+| Spd               | 10 ft., fly 40 ft. (average) |
+| Defense           | 14                           |
+| Touch             | 14                           |
+| Flat-Footed       | 12                           |
+| Defense Breakdown | +2 size, +2 Dex              |
+| BAB               | +0                           |
+| Grap              | –13                          |
+| Atk               | +4 melee (1d2–5, claw)       |
+| Full Atk          | +4 melee (1d2–5, claw)       |
+| FS                | 2 1/2 ft. by 2 1/2 ft.       |
+| Reach             | 0 ft.                        |
+| AL                | none or owner                |
+| Fort              | +2                           |
+| Ref               | +4                           |
+| Will              | +2                           |
+| AP                | 0                            |
+| Rep               | +0                           |
+| Str               | 1                            |
+| Dex               | 15                           |
+| Con               | 10                           |
+| Int               | 2                            |
+| Wis               | 14                           |
+| Cha               | 6                            |
 
 **Skills:** Listen +6, Spot +6.
 

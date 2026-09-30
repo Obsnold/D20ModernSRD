@@ -58,18 +58,18 @@ The Shadowjack’s class skills are as follows:
 
 **Table: The Shadowjack**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Read/write code | +1 | +0 |
-| 2nd | +1 | +0 | +0 | +3 | Online presence | +1 | +0 |
-| 3rd | +1 | +1 | +1 | +3 | Bonus feat | +2 | +1 |
-| 4th | +2 | +1 | +1 | +4 | Shadowjack abilities | +2 | +1 |
-| 5th | +2 | +1 | +1 | +4 | Shadowjack abilities | +3 | +1 |
-| 6th | +3 | +2 | +2 | +5 | Bonus feat | +3 | +2 |
-| 7th | +3 | +2 | +2 | +5 | Shadowjack abilities | +4 | +2 |
-| 8th | +4 | +2 | +2 | +6 | Shadowjack abilities | +4 | +2 |
-| 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
-| 10th | +5 | +3 | +3 | +7 | Virtual incantations | +5 | +3 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | -------------------- | ------------- | ---------------- |
+| 1st   | +0                | +0        | +0       | +2        | Read/write code      | +1            | +0               |
+| 2nd   | +1                | +0        | +0       | +3        | Online presence      | +1            | +0               |
+| 3rd   | +1                | +1        | +1       | +3        | Bonus feat           | +2            | +1               |
+| 4th   | +2                | +1        | +1       | +4        | Shadowjack abilities | +2            | +1               |
+| 5th   | +2                | +1        | +1       | +4        | Shadowjack abilities | +3            | +1               |
+| 6th   | +3                | +2        | +2       | +5        | Bonus feat           | +3            | +2               |
+| 7th   | +3                | +2        | +2       | +5        | Shadowjack abilities | +4            | +2               |
+| 8th   | +4                | +2        | +2       | +6        | Shadowjack abilities | +4            | +2               |
+| 9th   | +4                | +3        | +3       | +6        | Bonus feat           | +5            | +3               |
+| 10th  | +5                | +3        | +3       | +7        | Virtual incantations | +5            | +3               |
 
 ## Class Features
 
@@ -143,12 +143,12 @@ successfully installed it automatically defeats that systems’ security
 upon return trips—the Shadowjack no longer needs to make Computer Use
 checks to enter that system.
 
-| Level of Security | DC |
-|---|---|
-| Minimum | 25 |
-| Average | 30º |
-| Exceptional | 40 |
-| Maximum | 45 |
+| Level of Security | DC  |
+| ----------------- | --- |
+| Minimum           | 25  |
+| Average           | 30º |
+| Exceptional       | 40  |
+| Maximum           | 45  |
 
 It is important to keep backdoors hidden from the system administrator,
 who will always be on the lookout for such invasions. A backdoor

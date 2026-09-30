@@ -33,38 +33,38 @@ Weapon Finesse (claw).
 
 ## Big Cat
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size/Type | Medium animal |
-| HD | 3d8+6 |
-| hp | 19 |
-| Mas | 15 |
-| Init | +4 |
-| Spd | 40 ft., climb 20 ft. |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 11 |
-| Defense Breakdown | +4 Dex, +1 natural |
-| BAB | +2 |
-| Grap | +5 |
-| Atk | +6 melee (1d3+4, claw) |
-| Full Atk | +6 melee (1d6+3, bite), +1 melee (1d3+1, 2 claws) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | pounce, improved grab, rake, scent, low-light vision |
-| AL | none or owner |
-| Fort | +5 |
-| Ref | +7 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 16 |
-| Dex | 19 |
-| Con | 15 |
-| Int | 2 |
-| Wis | 12 |
-| Cha | 6 |
+| Stat              | Value                                                |
+| ----------------- | ---------------------------------------------------- |
+| CR                | 2                                                    |
+| Size/Type         | Medium animal                                        |
+| HD                | 3d8+6                                                |
+| hp                | 19                                                   |
+| Mas               | 15                                                   |
+| Init              | +4                                                   |
+| Spd               | 40 ft., climb 20 ft.                                 |
+| Defense           | 15                                                   |
+| Touch             | 15                                                   |
+| Flat-Footed       | 11                                                   |
+| Defense Breakdown | +4 Dex, +1 natural                                   |
+| BAB               | +2                                                   |
+| Grap              | +5                                                   |
+| Atk               | +6 melee (1d3+4, claw)                               |
+| Full Atk          | +6 melee (1d6+3, bite), +1 melee (1d3+1, 2 claws)    |
+| FS                | 5 ft. by 5 ft.                                       |
+| Reach             | 5 ft.                                                |
+| SQ                | pounce, improved grab, rake, scent, low-light vision |
+| AL                | none or owner                                        |
+| Fort              | +5                                                   |
+| Ref               | +7                                                   |
+| Will              | +2                                                   |
+| AP                | 0                                                    |
+| Rep               | +0                                                   |
+| Str               | 16                                                   |
+| Dex               | 19                                                   |
+| Con               | 15                                                   |
+| Int               | 2                                                    |
+| Wis               | 12                                                   |
+| Cha               | 6                                                    |
 
 **Skills**: Balance +12, Climb +11, Hide +9, Jump +7, Listen +6, Move
 Silently +9, Spot +6.

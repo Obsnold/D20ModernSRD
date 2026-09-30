@@ -1,16 +1,16 @@
 # Tongues
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Acolyte 4, Mage 3 |
-| Components | V, M/DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 10 minutes/level |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | No |
+| Stat             | Value                   |
+| ---------------- | ----------------------- |
+| School           | Divination              |
+| Level            | Acolyte 4, Mage 3       |
+| Components       | V, M/DF                 |
+| Casting Time     | Attack action           |
+| Range            | Touch                   |
+| Target           | Creature touched        |
+| Duration         | 10 minutes/level        |
+| Saving Throw     | Will negates (harmless) |
+| Spell Resistance | No                      |
 
 This spell grants the creature touched the ability to speak and
 understand the language of any intelligent creature, whether it is a

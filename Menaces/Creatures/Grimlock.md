@@ -28,39 +28,39 @@ or underground.
 
 ## Grimlock
 
-| Stat | Value |
-|---|---|
-| CR | 1 |
-| Size | Medium-size |
-| Type | monstrous humanoid |
-| HD | 2d8+2 |
-| hp | 11 |
-| Mas | 13 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +4 natural |
-| BAB | +2 |
-| Grap | +4 |
-| Atk | +5 melee (1d6+2 nonlethal, unarmed strike) or +4 melee (1d8+2, spear) |
-| Full Atk | +5 melee (1d6+2 nonlethal, unarmed strike) or +4 melee (1d8+2, spear) or +3 ranged (1d8+2, spear) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | blindsight 40 ft., immunities, scent |
-| AL | evil |
-| Fort | +1 |
-| Ref | +4 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 13 |
-| Con | 13 |
-| Int | 10 |
-| Wis | 8 |
-| Cha | 6 |
+| Stat              | Value                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| CR                | 1                                                                                                 |
+| Size              | Medium-size                                                                                       |
+| Type              | monstrous humanoid                                                                                |
+| HD                | 2d8+2                                                                                             |
+| hp                | 11                                                                                                |
+| Mas               | 13                                                                                                |
+| Init              | +1                                                                                                |
+| Spd               | 30 ft.                                                                                            |
+| Defense           | 15                                                                                                |
+| Touch             | 11                                                                                                |
+| Flat-Footed       | 14                                                                                                |
+| Defense Breakdown | +1 Dex, +4 natural                                                                                |
+| BAB               | +2                                                                                                |
+| Grap              | +4                                                                                                |
+| Atk               | +5 melee (1d6+2 nonlethal, unarmed strike) or +4 melee (1d8+2, spear)                             |
+| Full Atk          | +5 melee (1d6+2 nonlethal, unarmed strike) or +4 melee (1d8+2, spear) or +3 ranged (1d8+2, spear) |
+| FS                | 5 ft. by 5 ft.                                                                                    |
+| Reach             | 5 ft.                                                                                             |
+| SQ                | blindsight 40 ft., immunities, scent                                                              |
+| AL                | evil                                                                                              |
+| Fort              | +1                                                                                                |
+| Ref               | +4                                                                                                |
+| Will              | +2                                                                                                |
+| AP                | 0                                                                                                 |
+| Rep               | +0                                                                                                |
+| Str               | 15                                                                                                |
+| Dex               | 13                                                                                                |
+| Con               | 13                                                                                                |
+| Int               | 10                                                                                                |
+| Wis               | 8                                                                                                 |
+| Cha               | 6                                                                                                 |
 
 **Skills:** Climb +7, Hide +6 (+16 in rocky terrain or underground),
 Listen +4, Search +5, Speak English, Survival +2.
@@ -73,39 +73,39 @@ Listen +4, Search +5, Speak English, Survival +2.
 
 ## Grimlock Strong Hero 3
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Medium-size |
-| Type | monstrous humanoid |
-| HD | 2d8+2 plus 3d8+3 |
-| hp | 27 |
-| Mas | 13 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +4 natural |
-| BAB | +5 |
-| Grap | +7 |
-| Atk | +9 melee (1d8+4 nonlethal, unarmed strike) or +8 melee (1d8+4, spear) |
-| Full Atk | +9 melee (1d8+4 nonlethal, unarmed strike) or +8 melee (1d8+4, spear) or +6 ranged (1d8+2, compound bow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | blindsight 40 ft., immunities, scent |
-| AL | evil |
-| Fort | +3 |
-| Ref | +5 |
-| Will | +3 |
-| AP | 1 |
-| Rep | +0 |
-| Str | 15 |
-| Dex | 13 |
-| Con | 13 |
-| Int | 10 |
-| Wis | 8 |
-| Cha | 6 |
+| Stat              | Value                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                        |
+| Size              | Medium-size                                                                                              |
+| Type              | monstrous humanoid                                                                                       |
+| HD                | 2d8+2 plus 3d8+3                                                                                         |
+| hp                | 27                                                                                                       |
+| Mas               | 13                                                                                                       |
+| Init              | +1                                                                                                       |
+| Spd               | 30 ft.                                                                                                   |
+| Defense           | 15                                                                                                       |
+| Touch             | 11                                                                                                       |
+| Flat-Footed       | 14                                                                                                       |
+| Defense Breakdown | +1 Dex, +4 natural                                                                                       |
+| BAB               | +5                                                                                                       |
+| Grap              | +7                                                                                                       |
+| Atk               | +9 melee (1d8+4 nonlethal, unarmed strike) or +8 melee (1d8+4, spear)                                    |
+| Full Atk          | +9 melee (1d8+4 nonlethal, unarmed strike) or +8 melee (1d8+4, spear) or +6 ranged (1d8+2, compound bow) |
+| FS                | 5 ft. by 5 ft.                                                                                           |
+| Reach             | 5 ft.                                                                                                    |
+| SQ                | blindsight 40 ft., immunities, scent                                                                     |
+| AL                | evil                                                                                                     |
+| Fort              | +3                                                                                                       |
+| Ref               | +5                                                                                                       |
+| Will              | +3                                                                                                       |
+| AP                | 1                                                                                                        |
+| Rep               | +0                                                                                                       |
+| Str               | 15                                                                                                       |
+| Dex               | 13                                                                                                       |
+| Con               | 13                                                                                                       |
+| Int               | 10                                                                                                       |
+| Wis               | 8                                                                                                        |
+| Cha               | 6                                                                                                        |
 
 **Occupation:** Rural (class skills: Climb, Swim).
 

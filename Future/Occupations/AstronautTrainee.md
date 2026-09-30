@@ -7,11 +7,11 @@ opportunity to hurl themselves into the void to advance humanity’s
 understanding of science and shed light on the mysteries of the
 universe.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 21+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 21+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

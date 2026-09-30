@@ -18,13 +18,13 @@ its type, as shown in Table: Destruction Threshold.
 
 **Table: Destruction Threshold**
 
-| Ship Type | Destroyed At |
-|---|---|
-| Ultralight | –20 hp |
-| Light | –40 hp |
-| Mediumweight | –60 hp |
-| Heavy | –80 hp |
-| Superheavy | –100 hp |
+| Ship Type    | Destroyed At |
+| ------------ | ------------ |
+| Ultralight   | –20 hp       |
+| Light        | –40 hp       |
+| Mediumweight | –60 hp       |
+| Heavy        | –80 hp       |
+| Superheavy   | –100 hp      |
 
 ## Disabled (0 Hit Points)
 

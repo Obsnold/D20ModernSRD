@@ -11,19 +11,19 @@ their occupants. The operative skill for cars is Drive.
 
 **Table: Civilian Cars**
 
-| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 6: Fusion Age** | | | | | | | | | | | | |
-| AutoMac taxi | 0 | 6 | L | –3 | –2 | 175 (17) | 8 | 5 | 34 | H | 31 | Lic (+1) |
-| Kirsch Sunflower | 1 | 2 | S | –4 | –2 | 160 (16) | 9 | 5 | 25 | L | 27 | Lic (+1) |
-| Nakazawa Delta-9 | 1 | 4 | L | –2 | –1 | 245 (24) | 8 | 5 | 34 | H | 31 | Lic (+1) |
-| SKG Lamplighter | 1 | 4 | M | –1 | –1 | 210 (21) | 8 | 5 | 32 | H | 28 | Lic (+1) |
-| **Progress Level 7: Gravity Age** | | | | | | | | | | | | |
-| Bendel Motors Spirit | 1 | 4 | M | –2 | +0 | 290 (29) | 8 | 5 | 36 | H | 29 | Lic (+1) |
-| Stradtler Hlidskjalf | 1 | 4 | L | –1 | +1 | 255 (25) | 8 | 5 | 35 | H | 36 | Lic (+1) |
-| TM Willow | 1 | 4 | M | –2 | –2 | 205 (20) | 8 | 5 | 35 | H | 28 | Lic (+1) |
-| **Progress Level 8: Energy Age** | | | | | | | | | | | | |
-| SKG Metropolitan | 1 | 7 | L | –2 | –2 | 215 (21) | 6 | 6 | 41 | G | 42 | Lic (+1) |
+| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
+| --------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | ---- | ---------- | ---- | ----------- | ----------- |
+| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
+| AutoMac taxi                      | 0    | 6    | L     | –3   | –2       | 175 (17)  | 8       | 5    | 34         | H    | 31          | Lic (+1)    |
+| Kirsch Sunflower                  | 1    | 2    | S     | –4   | –2       | 160 (16)  | 9       | 5    | 25         | L    | 27          | Lic (+1)    |
+| Nakazawa Delta-9                  | 1    | 4    | L     | –2   | –1       | 245 (24)  | 8       | 5    | 34         | H    | 31          | Lic (+1)    |
+| SKG Lamplighter                   | 1    | 4    | M     | –1   | –1       | 210 (21)  | 8       | 5    | 32         | H    | 28          | Lic (+1)    |
+| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
+| Bendel Motors Spirit              | 1    | 4    | M     | –2   | +0       | 290 (29)  | 8       | 5    | 36         | H    | 29          | Lic (+1)    |
+| Stradtler Hlidskjalf              | 1    | 4    | L     | –1   | +1       | 255 (25)  | 8       | 5    | 35         | H    | 36          | Lic (+1)    |
+| TM Willow                         | 1    | 4    | M     | –2   | –2       | 205 (20)  | 8       | 5    | 35         | H    | 28          | Lic (+1)    |
+| **Progress Level 8: Energy Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
+| SKG Metropolitan                  | 1    | 7    | L     | –2   | –2       | 215 (21)  | 6       | 6    | 41         | G    | 42          | Lic (+1)    |
 
 ## Automac Taxi (pl 6)
 

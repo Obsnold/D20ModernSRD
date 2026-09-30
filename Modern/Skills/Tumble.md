@@ -1,10 +1,10 @@
 # Tumble
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dex |
-| Trained Only | Yes |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Dex   |
+| Trained Only  | Yes   |
+| Armor Penalty | Yes   |
 
 ## Check
 

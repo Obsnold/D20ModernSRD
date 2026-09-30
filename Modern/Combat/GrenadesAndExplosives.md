@@ -21,11 +21,11 @@ explosive bounces to.
 **Thrown Explosives (Hit)**
 
 | Roll on d4 | Corner of targeted square |
-|---|---|
-| 1 | Upper Left |
-| 2 | Upper Right |
-| 3 | Lower Right |
-| 4 | Lower Left |
+| ---------- | ------------------------- |
+| 1          | Upper Left                |
+| 2          | Upper Right               |
+| 3          | Lower Right               |
+| 4          | Lower Left                |
 
 If the target square is more than one range increment away, make an
 attack roll. The square has an effective Defense of 10. Thrown weapons
@@ -41,35 +41,35 @@ three range increments (11 to 30 feet), roll 1d8.
 
 **Thrown Explosive (Miss 2 to 3 Range Increments)**
 
-| Roll on d8 | Location Struck |
-|---|---|
-| 1 | upper right corner, one square beyond target |
-| 2 | upper right corner, one square right of target |
-| 3 | lower right corner, one square right of target |
-| 4 | lower right corner, one square short of target |
-| 5 | lower left corner, one square short of target |
-| 6 | lower left corner, one square left of target |
-| 7 | upper left corner, one square left of target |
-| 8 | upper left corner, one square beyond target |
+| Roll on d8 | Location Struck                                |
+| ---------- | ---------------------------------------------- |
+| 1          | upper right corner, one square beyond target   |
+| 2          | upper right corner, one square right of target |
+| 3          | lower right corner, one square right of target |
+| 4          | lower right corner, one square short of target |
+| 5          | lower left corner, one square short of target  |
+| 6          | lower left corner, one square left of target   |
+| 7          | upper left corner, one square left of target   |
+| 8          | upper left corner, one square beyond target    |
 
 For ranges of up to five range increments (31 to 50 feet), roll 1d12.
 
 **Thrown Explosives (Miss 4 to 5 Range Increments)**
 
-| Roll on d12 | Location Struck |
-|---|---|
-| 1 | upper right corner, two squares beyond target |
-| 2 | upper right corner, one square beyond and right of target |
-| 3 | upper right corner, two squares right of target |
-| 4 | lower right corner, two squares right of target |
-| 5 | lower right corner, one square short and right of target |
-| 6 | lower right corner, two squares short of target |
-| 7 | lower left corner, two squares short of target |
-| 8 | lower left corner, one square short and left of target |
-| 9 | lower left corner, two squares left of target |
-| 10 | upper left corner, two squares left of target |
-| 11 | upper left corner, one square beyond and left of target |
-| 12 | upper left corner, two squares beyond target |
+| Roll on d12 | Location Struck                                           |
+| ----------- | --------------------------------------------------------- |
+| 1           | upper right corner, two squares beyond target             |
+| 2           | upper right corner, one square beyond and right of target |
+| 3           | upper right corner, two squares right of target           |
+| 4           | lower right corner, two squares right of target           |
+| 5           | lower right corner, one square short and right of target  |
+| 6           | lower right corner, two squares short of target           |
+| 7           | lower left corner, two squares short of target            |
+| 8           | lower left corner, one square short and left of target    |
+| 9           | lower left corner, two squares left of target             |
+| 10          | upper left corner, two squares left of target             |
+| 11          | upper left corner, one square beyond and left of target   |
+| 12          | upper left corner, two squares beyond target              |
 
 After determining where the explosive landed, it deals its damage to all
 targets within the burst radius of the weapon. The targets may make

@@ -1,14 +1,14 @@
 # Seed: Animate Dead
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Knowledge (arcane lore) DC | 34 |
-| Range | Touch |
-| Targets | One or more corpses touched |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat                       | Value                       |
+| -------------------------- | --------------------------- |
+| School                     | Necromancy                  |
+| Knowledge (arcane lore) DC | 34                          |
+| Range                      | Touch                       |
+| Targets                    | One or more corpses touched |
+| Duration                   | Instantaneous               |
+| Saving Throw               | None                        |
+| Spell Resistance           | No                          |
 
 You can turn the bones or bodies of dead creatures into undead that
 follow your spoken commands. The undead can follow you, or they can
@@ -41,27 +41,27 @@ Knowledge (arcane lore) check DC, according to the chart below. The GM
 must set the Knowledge (arcane lore) check DC for undead not included on
 the chart, using similar undead as a basis for comparison.
 
-| Undead | Knowledge (arcane lore) DC Modifier |
-|---|---|
-| Medium or smaller skeleton | –12 |
-| Medium or smaller zombie | –12 |
-| Animating spirit | –10 |
-| Frightful spirit | –8 |
-| Large skeleton | –8 |
-| Large zombie | –6 |
-| Groaning spirit | –6 |
-| Small or smaller liquefied zombie | –4 |
-| Medium liquefied zombie | –2 |
-| Weakening spirit | +0 |
-| Mummy | +0 |
-| Large liquefied zombie | +0 |
-| Possessing spirit | +2 |
-| Huge skeleton | +2 |
-| Huge liquefied zombie | +2 |
-| Ash wraith | +4 |
-| Huge zombie | +4 |
-| Gargantuan or Colossal skeleton | +6 |
-| Gargantuan or Colossal zombie | +8 |
-| Gargantuan liquefied zombie | +8 |
-| Colossal liquefied zombie | +10 |
-| Vampire | Hit Dice +4 |
+| Undead                            | Knowledge (arcane lore) DC Modifier |
+| --------------------------------- | ----------------------------------- |
+| Medium or smaller skeleton        | –12                                 |
+| Medium or smaller zombie          | –12                                 |
+| Animating spirit                  | –10                                 |
+| Frightful spirit                  | –8                                  |
+| Large skeleton                    | –8                                  |
+| Large zombie                      | –6                                  |
+| Groaning spirit                   | –6                                  |
+| Small or smaller liquefied zombie | –4                                  |
+| Medium liquefied zombie           | –2                                  |
+| Weakening spirit                  | +0                                  |
+| Mummy                             | +0                                  |
+| Large liquefied zombie            | +0                                  |
+| Possessing spirit                 | +2                                  |
+| Huge skeleton                     | +2                                  |
+| Huge liquefied zombie             | +2                                  |
+| Ash wraith                        | +4                                  |
+| Huge zombie                       | +4                                  |
+| Gargantuan or Colossal skeleton   | +6                                  |
+| Gargantuan or Colossal zombie     | +8                                  |
+| Gargantuan liquefied zombie       | +8                                  |
+| Colossal liquefied zombie         | +10                                 |
+| Vampire                           | Hit Dice +4                         |

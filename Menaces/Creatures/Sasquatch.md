@@ -14,39 +14,39 @@ sasquatch gains a +4 species bonus on Intimidate checks.
 
 ## Sasquatch (Weren)
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Large |
-| Type | giant |
-| HD | 3d8+9 |
-| hp | 22 |
-| Mas | 17 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 11 |
-| Touch | 8 |
-| Flat-Footed | 11 |
+| Stat              | Value                       |
+| ----------------- | --------------------------- |
+| CR                | 2                           |
+| Size              | Large                       |
+| Type              | giant                       |
+| HD                | 3d8+9                       |
+| hp                | 22                          |
+| Mas               | 17                          |
+| Init              | +0                          |
+| Spd               | 30 ft.                      |
+| Defense           | 11                          |
+| Touch             | 8                           |
+| Flat-Footed       | 11                          |
 | Defense Breakdown | –1 size, –1 Dex, +3 natural |
-| BAB | +2 |
-| Grap | +12 |
-| Atk | +7 melee (1d4+6, slam) |
-| Full Atk | +7 melee (1d4+6, 2 slams) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | low-light vision |
-| AL | any |
-| Fort | +6 |
-| Ref | –1 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 9 |
-| Con | 17 |
-| Int | 6 |
-| Wis | 12 |
-| Cha | 10 |
+| BAB               | +2                          |
+| Grap              | +12                         |
+| Atk               | +7 melee (1d4+6, slam)      |
+| Full Atk          | +7 melee (1d4+6, 2 slams)   |
+| FS                | 5 ft. by 5 ft.              |
+| Reach             | 10 ft.                      |
+| SQ                | low-light vision            |
+| AL                | any                         |
+| Fort              | +6                          |
+| Ref               | –1                          |
+| Will              | +2                          |
+| AP                | 0                           |
+| Rep               | +0                          |
+| Str               | 22                          |
+| Dex               | 9                           |
+| Con               | 17                          |
+| Int               | 6                           |
+| Wis               | 12                          |
+| Cha               | 10                          |
 
 **Skills:** Climb +8, Intimidate +4, Listen +5, Speak Weren, Spot +5.
 
@@ -58,36 +58,36 @@ sasquatch gains a +4 species bonus on Intimidate checks.
 
 ## Sasquatch Strong Hero 3/Soldier 3
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Large |
-| Type | giant |
-| HD | 3d8+12 plus 3d8+12 plus 3d10+12 |
-| hp | 72 |
-| Mas | 21 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 16 |
-| Touch | 13 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –1 size, +4 class, +3 natural |
-| BAB | +7 |
-| Grap | +17 |
-| Atk | +13 melee (1d4+9, slam) |
-| Full Atk | +13 melee (1d4+9, 2 slams) or +6 ranged (1d10/19–20, crossbow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | low-light vision |
-| AL | anyV Fort +7, Ref –1, Will +2 |
-| AP | 3 |
-| Rep | +0 |
-| Str | 22 |
-| Dex | 10 |
-| Con | 18 |
-| Int | 6 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                          |
+| ----------------- | -------------------------------------------------------------- |
+| CR                | 8                                                              |
+| Size              | Large                                                          |
+| Type              | giant                                                          |
+| HD                | 3d8+12 plus 3d8+12 plus 3d10+12                                |
+| hp                | 72                                                             |
+| Mas               | 21                                                             |
+| Init              | +0                                                             |
+| Spd               | 30 ft.                                                         |
+| Defense           | 16                                                             |
+| Touch             | 13                                                             |
+| Flat-Footed       | 16                                                             |
+| Defense Breakdown | –1 size, +4 class, +3 natural                                  |
+| BAB               | +7                                                             |
+| Grap              | +17                                                            |
+| Atk               | +13 melee (1d4+9, slam)                                        |
+| Full Atk          | +13 melee (1d4+9, 2 slams) or +6 ranged (1d10/19–20, crossbow) |
+| FS                | 5 ft. by 5 ft.                                                 |
+| Reach             | 10 ft.                                                         |
+| SQ                | low-light vision                                               |
+| AL                | anyV Fort +7, Ref –1, Will +2                                  |
+| AP                | 3                                                              |
+| Rep               | +0                                                             |
+| Str               | 22                                                             |
+| Dex               | 10                                                             |
+| Con               | 18                                                             |
+| Int               | 6                                                              |
+| Wis               | 12                                                             |
+| Cha               | 10                                                             |
 
 **Occupation:** Military (class skills: Hide, Move Silently).
 

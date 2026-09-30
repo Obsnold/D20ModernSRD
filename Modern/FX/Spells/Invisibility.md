@@ -1,16 +1,16 @@
 # Invisibility
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Level | Mage 2 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Personal or touch |
-| Target | You or a creature or object weighing no more than 100 lb./level |
-| Duration | 1 minute/level (D) |
-| Saving Throw | Will negates (harmless) or Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless) or Yes (harmless, object) |
+| Stat             | Value                                                           |
+| ---------------- | --------------------------------------------------------------- |
+| School           | Illusion                                                        |
+| Level            | Mage 2                                                          |
+| Components       | V, S, M                                                         |
+| Casting Time     | Attack action                                                   |
+| Range            | Personal or touch                                               |
+| Target           | You or a creature or object weighing no more than 100 lb./level |
+| Duration         | 1 minute/level (D)                                              |
+| Saving Throw     | Will negates (harmless) or Will negates (harmless, object)      |
+| Spell Resistance | Yes (harmless) or Yes (harmless, object)                        |
 
 The creature or object touched vanishes from sight, even from
 darkvision. If the recipient is a creature carrying gear, the gear

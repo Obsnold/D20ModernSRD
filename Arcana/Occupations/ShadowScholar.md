@@ -4,11 +4,11 @@ Shadow scholars fall into two categories—learned Shadowkind and mundane
 folk who have spent time studying Shadow culture, magic, and other
 supernatural occurrences.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

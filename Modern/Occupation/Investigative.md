@@ -5,11 +5,11 @@ investigative reporters, photojournalists, private investigators, police
 detectives, criminologists, criminal profilers, espionage agents, and
 others who use their skills to gather evidence and analyze clues.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 23+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 23+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +2      |
 
 ## Skills
 

@@ -47,18 +47,18 @@ one), Speak Draconic, Speak Language (any one).
 
 **Table: Half-Dragons**
 
-| Type | Breath Weapon¹ | Energy Immunity |
-|---|---|---|
-| Black | 60-foot line of acid (6d4 points of acid damage; Reflex half) | Acid |
-| Blue | 60-foot line of electricity (6d8 points of electricity damage; Reflex half) | Electricity |
-| Brass | 30-foot cone of *sleep* gas (fall asleep for 1d6 rounds; Will negates) | Fire² |
-| Bronze | 30-foot cone of *repulsion* gas (move away for 1d6 rounds; Will negates) | Electricity |
-| Copper | 30-foot cone of *slow* gas (slowed, as the spell, for 1d6 rounds; Will negates) | Acid |
-| Gold | 30-foot cone of weaknening gas (1d2 temporary Str damage; Fortitude negates) | Fire² |
-| Green | 30-foot cone of corrosive gas (6d6 points of acid damage; Reflex half) | Acid |
-| Red | 30-foot cone of fire (6d10 points of fire damage; Reflex half) | Fire² |
-| Silver | 30-foot cone of paralyzing gas (paralyzed for 1d6 rounds; Fortitude negates) | Cold³ |
-| White | 30-foot cone of cold (6d6 points of cold damage; Reflex half) | Cold³ |
+| Type   | Breath Weapon¹                                                                  | Energy Immunity |
+| ------ | ------------------------------------------------------------------------------- | --------------- |
+| Black  | 60-foot line of acid (6d4 points of acid damage; Reflex half)                   | Acid            |
+| Blue   | 60-foot line of electricity (6d8 points of electricity damage; Reflex half)     | Electricity     |
+| Brass  | 30-foot cone of *sleep* gas (fall asleep for 1d6 rounds; Will negates)          | Fire²           |
+| Bronze | 30-foot cone of *repulsion* gas (move away for 1d6 rounds; Will negates)        | Electricity     |
+| Copper | 30-foot cone of *slow* gas (slowed, as the spell, for 1d6 rounds; Will negates) | Acid            |
+| Gold   | 30-foot cone of weaknening gas (1d2 temporary Str damage; Fortitude negates)    | Fire²           |
+| Green  | 30-foot cone of corrosive gas (6d6 points of acid damage; Reflex half)          | Acid            |
+| Red    | 30-foot cone of fire (6d10 points of fire damage; Reflex half)                  | Fire²           |
+| Silver | 30-foot cone of paralyzing gas (paralyzed for 1d6 rounds; Fortitude negates)    | Cold³           |
+| White  | 30-foot cone of cold (6d6 points of cold damage; Reflex half)                   | Cold³           |
 
 ¹ All lines are 5 feet high, 5 feet wide, and 60 feet long. All cones are 30 feet long and 30 feet wide at the base.
 2 Dragons with fire immunity take 50% more damage against cold-based attacks.

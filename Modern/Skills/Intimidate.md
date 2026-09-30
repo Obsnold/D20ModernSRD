@@ -1,10 +1,10 @@
 # Intimidate
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 

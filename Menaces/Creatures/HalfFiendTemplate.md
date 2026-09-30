@@ -23,17 +23,17 @@ claw attacks, use the base damage values in the table below. Otherwise,
 use the values below or the base creature’s base damage, whichever is
 greater.
 
-| Size | Bite Damage | Claw Damage |
-|---|---|---|
-| Fine | 1 | — |
-| Diminutive | 1d2 | 1 |
-| Tiny | 1d3 | 1d2 |
-| Small | 1d4 | 1d3 |
-| Medium-size | 1d6 | 1d4 |
-| Large | 1d8 | 1d6 |
-| Huge | 2d6 | 1d8 |
-| Gargantuan | 2d8 | 2d6 |
-| Colossal | 4d6 | 2d8 |
+| Size        | Bite Damage | Claw Damage |
+| ----------- | ----------- | ----------- |
+| Fine        | 1           | —           |
+| Diminutive  | 1d2         | 1           |
+| Tiny        | 1d3         | 1d2         |
+| Small       | 1d4         | 1d3         |
+| Medium-size | 1d6         | 1d4         |
+| Large       | 1d8         | 1d6         |
+| Huge        | 2d6         | 1d8         |
+| Gargantuan  | 2d8         | 2d6         |
+| Colossal    | 4d6         | 2d8         |
 
 **Special Qualities:** A half-fiend retains all the special qualities of
 the base creature and gains the additional special qualities described
@@ -66,13 +66,13 @@ score of 8 or higher possesses spell-like abilities according to its
 character level, as given on the table below. Unless otherwise
 indicated, each ability is usable once per day.
 
-| Level | Abilities | Level | Abilities |
-|---|---|---|---|
-| 1–2 | *Mage hand* 3/day | 11–12 | *Levitate* |
-| 3–4 | *Daze* 3/day | 13–14 | *Displacement* |
-| 5–6 | *Change self* | 15–16 | *Tongues* |
-| 7–8 | *Cause fear* | 17–18 | *Bestow curse* |
-| 9–10 | *Blur* | 19+ | *Animate dead* |
+| Level | Abilities         | Level | Abilities      |
+| ----- | ----------------- | ----- | -------------- |
+| 1–2   | *Mage hand* 3/day | 11–12 | *Levitate*     |
+| 3–4   | *Daze* 3/day      | 13–14 | *Displacement* |
+| 5–6   | *Change self*     | 15–16 | *Tongues*      |
+| 7–8   | *Cause fear*      | 17–18 | *Bestow curse* |
+| 9–10  | *Blur*            | 19+   | *Animate dead* |
 
 *Telepathy* (Su): A half-fiend with an Intelligence score of 12 or
 higher can communicate telepathically with any living creature within

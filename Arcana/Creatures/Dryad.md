@@ -28,38 +28,38 @@ unfriendly.
 
 ## Dryad
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size/Type | Medium fey |
-| HD | 4d6 |
-| hp | 14 |
-| Mas | 11 |
-| Init | +8 |
-| Spd | 30 ft. |
-| Defense | 17 |
-| Touch | 12 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +4 Dex, +3 natural |
-| BAB | +1 |
-| Grap | +1 |
-| Atk | +2 melee (1d4, dagger) or +6 ranged (1d8, masterwork longbow) |
-| Full Atk | +2 melee (1d4, dagger) or +6 ranged (1d8, masterwork longbow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | DR 5/+1, spell-like abilities, tree dependent, wild empathy |
-| AL | chaotic good, nature |
-| Fort | +3 |
-| Ref | +8 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 19 |
-| Con | 11 |
-| Int | 14 |
-| Wis | 15 |
-| Cha | 18 |
+| Stat              | Value                                                         |
+| ----------------- | ------------------------------------------------------------- |
+| CR                | 3                                                             |
+| Size/Type         | Medium fey                                                    |
+| HD                | 4d6                                                           |
+| hp                | 14                                                            |
+| Mas               | 11                                                            |
+| Init              | +8                                                            |
+| Spd               | 30 ft.                                                        |
+| Defense           | 17                                                            |
+| Touch             | 12                                                            |
+| Flat-Footed       | 13                                                            |
+| Defense Breakdown | +4 Dex, +3 natural                                            |
+| BAB               | +1                                                            |
+| Grap              | +1                                                            |
+| Atk               | +2 melee (1d4, dagger) or +6 ranged (1d8, masterwork longbow) |
+| Full Atk          | +2 melee (1d4, dagger) or +6 ranged (1d8, masterwork longbow) |
+| FS                | 5 ft. by 5 ft.                                                |
+| Reach             | 5 ft.                                                         |
+| SQ                | DR 5/+1, spell-like abilities, tree dependent, wild empathy   |
+| AL                | chaotic good, nature                                          |
+| Fort              | +3                                                            |
+| Ref               | +8                                                            |
+| Will              | +6                                                            |
+| AP                | 0                                                             |
+| Rep               | +0                                                            |
+| Str               | 10                                                            |
+| Dex               | 19                                                            |
+| Con               | 11                                                            |
+| Int               | 14                                                            |
+| Wis               | 15                                                            |
+| Cha               | 18                                                            |
 
 **Skills:** Escape Artist +11, Handle Animal +11, Hide
 +11, Knowledge (life science) +11, Listen +9, Move Silently +11, Ride

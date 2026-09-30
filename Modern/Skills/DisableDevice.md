@@ -1,10 +1,10 @@
 # Disable Device
 
-| Stat | Value |
-|---|---|
-| Key Ability | Int |
-| Trained Only | Yes |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Int   |
+| Trained Only  | Yes   |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -16,13 +16,13 @@ combination locks, and bypass electronic locks. The character must have
 a lockpick set (for a mechanical lock) or an electrical tool kit (for an
 electronic lock). The DC depends on the quality of the lock.
 
-| Lock Type (Example) | DC |
-|---|---|
-| Cheap (briefcase lock) | 20 |
-| Average (home deadbolt) | 25 |
-| High quality (business deadbolt) | 30 |
-| High security (branch bank vault) | 40 |
-| Ultra-high security (bank headquarters vault) | 50 |
+| Lock Type (Example)                           | DC  |
+| --------------------------------------------- | --- |
+| Cheap (briefcase lock)                        | 20  |
+| Average (home deadbolt)                       | 25  |
+| High quality (business deadbolt)              | 30  |
+| High security (branch bank vault)             | 40  |
+| Ultra-high security (bank headquarters vault) | 50  |
 
 **Disable Security Device:** A character can disable a security device,
 such as an electric fence, motion sensor, or security camera. The
@@ -34,13 +34,13 @@ When disabling a monitored device, the character can prevent his or her
 tampering from being noticed. Doing so requires 10 minutes and an
 electrical tool kit, and increases the DC of the check by +10.
 
-| Device Type (Example) | DC |
-|---|---|
-| Cheap (home door alarm) | 20 |
-| Average (store security camera) | 25 |
-| High quality (art museum motion detector) | 30 |
-| High security (bank vault alarm) | 35 |
-| Ultrahigh security (motion detector at Area 51) | 40 |
+| Device Type (Example)                           | DC  |
+| ----------------------------------------------- | --- |
+| Cheap (home door alarm)                         | 20  |
+| Average (store security camera)                 | 25  |
+| High quality (art museum motion detector)       | 30  |
+| High security (bank vault alarm)                | 35  |
+| Ultrahigh security (motion detector at Area 51) | 40  |
 
 **Traps and Sabotage:** Disabling (or rigging or jamming) a simple
 mechanical device has a DC of 10. More intricate and complex devices

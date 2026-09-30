@@ -6,16 +6,16 @@ in modern-day society.
 
 **Table: Melee Weapons: Archaic Weapons (require the Archaic Weapons Proficiency feat)**
 
-| Weapon | Damage | Critical | Damage Type | Range Increment | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|
-| Bayonet (fixed)¹ | 1d4/1d6 | 20 | Piercing | — | Large | 1 lb. | 7 | — |
-| Hatchet | 1d6 | 20 | Slashing | 10 ft. | Small | 4 lb. | 4 | — |
-| Longsword | 1d8 | 19–20 | Slashing | — | Med | 4 lb. | 11 | — |
-| Machete | 1d6 | 19–20 | Slashing | — | Small | 2 lb. | 5 | — |
-| Rapier | 1d6 | 18–20 | Piercing | — | Med | 3 lb. | 10 | — |
-| Spear | 1d8 | 20 | Piercing | — | Large | 9 lb. | 6 | — |
-| Straight razor | 1d4 | 19–20 | Slashing | — | Tiny | 0.5 lb. | 4 | — |
-| Sword cane¹ | 1d6 | 18–20 | Piercing | — | Med | 3 lb. | 9 | — |
+| Weapon           | Damage  | Critical | Damage Type | Range Increment | Size  | Weight  | Purchase DC | Restriction |
+| ---------------- | ------- | -------- | ----------- | --------------- | ----- | ------- | ----------- | ----------- |
+| Bayonet (fixed)¹ | 1d4/1d6 | 20       | Piercing    | —               | Large | 1 lb.   | 7           | —           |
+| Hatchet          | 1d6     | 20       | Slashing    | 10 ft.          | Small | 4 lb.   | 4           | —           |
+| Longsword        | 1d8     | 19–20    | Slashing    | —               | Med   | 4 lb.   | 11          | —           |
+| Machete          | 1d6     | 19–20    | Slashing    | —               | Small | 2 lb.   | 5           | —           |
+| Rapier           | 1d6     | 18–20    | Piercing    | —               | Med   | 3 lb.   | 10          | —           |
+| Spear            | 1d8     | 20       | Piercing    | —               | Large | 9 lb.   | 6           | —           |
+| Straight razor   | 1d4     | 19–20    | Slashing    | —               | Tiny  | 0.5 lb. | 4           | —           |
+| Sword cane¹      | 1d6     | 18–20    | Piercing    | —               | Med   | 3 lb.   | 9           | —           |
 
 ¹ See the description of this weapon for special rules.
 

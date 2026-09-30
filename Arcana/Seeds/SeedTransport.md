@@ -1,15 +1,15 @@
 # Seed: Transport
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Teleporting |
-| Knowledge (arcane lore) DC | 32 |
-| Range | Touch |
-| Target | You and touched objects or other touched willing creatures weighing up to 500 lb. |
-| Duration | Instantaneous |
-| Saving Throw | None and Will negates (object, subject) |
-| Spell Resistance | No and Yes (object, subject) |
+| Stat                       | Value                                                                             |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| School                     | Conjuration                                                                       |
+| Subschool                  | Teleporting                                                                       |
+| Knowledge (arcane lore) DC | 32                                                                                |
+| Range                      | Touch                                                                             |
+| Target                     | You and touched objects or other touched willing creatures weighing up to 500 lb. |
+| Duration                   | Instantaneous                                                                     |
+| Saving Throw               | None and Will negates (object, subject)                                           |
+| Spell Resistance           | No and Yes (object, subject)                                                      |
 
 Incantations using the *transport* seed instantly transport you to a
 designated destination up to 1,000 miles away. For each additional 500

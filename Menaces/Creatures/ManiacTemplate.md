@@ -17,17 +17,17 @@ base creature did not have a slam attack, use the base damage values in
 the table below. Otherwise, use the values below or the base creature’s
 base damage, whichever is greater.
 
-| Size | Slam Damage |
-|---|---|
-| Fine | 1 |
-| Diminutive | 1d2 |
-| Tiny | 1d3 |
-| Small | 1d4 |
-| Medium-size | 1d6 |
-| Large | 1d8 |
-| Huge | 2d6 |
-| Gargantuan | 2d8 |
-| Colossal | 4d6 |
+| Size        | Slam Damage |
+| ----------- | ----------- |
+| Fine        | 1           |
+| Diminutive  | 1d2         |
+| Tiny        | 1d3         |
+| Small       | 1d4         |
+| Medium-size | 1d6         |
+| Large       | 1d8         |
+| Huge        | 2d6         |
+| Gargantuan  | 2d8         |
+| Colossal    | 4d6         |
 
 **Special Qualities:** A maniac retains all the special qualities of the
 base creature and gains the additional qualities described below.
@@ -65,38 +65,38 @@ bonus feats.
 
 ## Maniac (Strong Hero 2/Tough Hero 3)
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size/Type | Medium-size humanoid |
-| HD | 5d12+20 plus 3 (robust) plus 3 (Toughness) |
-| hp | 58 |
-| Mas | 22 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +1 Dex, +4 class |
-| BAB | +4 |
-| Grap | +8 |
-| Atk | +8 melee (1d4+5/19–20 nonlethal, improved unarmed strike) or +8 melee (1d6+5, slam) or +8 melee (3d6+5, chain saw) |
-| Full Atk | +8 melee (1d4+5/19–20 nonlethal, improved unarmed strike) or +8 melee (1d6+5, slam) or +8 melee (3d6+5, chain saw) or +5 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | ability surge, damage reduction 5/–, immunities, resistance to massive damage |
-| AL | chaos, evil |
-| Fort | +12 |
-| Ref | +2 |
-| Will | +2 |
-| AP | 2 |
-| Rep | +1 |
-| Str | 18 |
-| Dex | 13 |
-| Con | 19 |
-| Int | 8 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                           |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                                                               |
+| Size/Type         | Medium-size humanoid                                                                                                            |
+| HD                | 5d12+20 plus 3 (robust) plus 3 (Toughness)                                                                                      |
+| hp                | 58                                                                                                                              |
+| Mas               | 22                                                                                                                              |
+| Init              | +1                                                                                                                              |
+| Spd               | 30 ft.                                                                                                                          |
+| Defense           | 15                                                                                                                              |
+| Touch             | 15                                                                                                                              |
+| Flat-Footed       | 14                                                                                                                              |
+| Defense Breakdown | +1 Dex, +4 class                                                                                                                |
+| BAB               | +4                                                                                                                              |
+| Grap              | +8                                                                                                                              |
+| Atk               | +8 melee (1d4+5/19–20 nonlethal, improved unarmed strike) or +8 melee (1d6+5, slam) or +8 melee (3d6+5, chain saw)              |
+| Full Atk          | +8 melee (1d4+5/19–20 nonlethal, improved unarmed strike) or +8 melee (1d6+5, slam) or +8 melee (3d6+5, chain saw) or +5 ranged |
+| FS                | 5 ft. by 5 ft.                                                                                                                  |
+| Reach             | 5 ft.                                                                                                                           |
+| SQ                | ability surge, damage reduction 5/–, immunities, resistance to massive damage                                                   |
+| AL                | chaos, evil                                                                                                                     |
+| Fort              | +12                                                                                                                             |
+| Ref               | +2                                                                                                                              |
+| Will              | +2                                                                                                                              |
+| AP                | 2                                                                                                                               |
+| Rep               | +1                                                                                                                              |
+| Str               | 18                                                                                                                              |
+| Dex               | 13                                                                                                                              |
+| Con               | 19                                                                                                                              |
+| Int               | 8                                                                                                                               |
+| Wis               | 12                                                                                                                              |
+| Cha               | 10                                                                                                                              |
 
 **Skills:** Climb +9, Jump +9, Read/Write English, Speak English, Spot
 +4, Survival +4.

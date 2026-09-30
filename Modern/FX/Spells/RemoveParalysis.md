@@ -1,17 +1,17 @@
 # Remove Paralysis
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Healing |
-| Level | Acolyte 2 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Targets | Up to four creatures, no two of which can be more than 30 ft. apart |
-| Duration | Instantaneous |
-| Saving Throw | Will negates (harmless) |
-| Spell Resistance | Yes (harmless) |
+| Stat             | Value                                                               |
+| ---------------- | ------------------------------------------------------------------- |
+| School           | Conjuration                                                         |
+| Subschool        | Healing                                                             |
+| Level            | Acolyte 2                                                           |
+| Components       | V, S                                                                |
+| Casting Time     | Attack action                                                       |
+| Range            | Close (25 ft. + 5 ft./2 levels)                                     |
+| Targets          | Up to four creatures, no two of which can be more than 30 ft. apart |
+| Duration         | Instantaneous                                                       |
+| Saving Throw     | Will negates (harmless)                                             |
+| Spell Resistance | Yes (harmless)                                                      |
 
 The caster can free one or more creatures from the effects of any
 temporary paralysis or related magic, including a hold spell or a slow

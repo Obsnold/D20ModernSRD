@@ -1,17 +1,17 @@
 # Satellite Tracking
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Skill Check | Knowledge (arcane lore) DC 34, 6 successes, and Computer Use DC 34, 2 successes |
-| Failure | Two consecutive failed skill checks |
-| Components | V, S, F |
-| Casting Time | 80 minutes (minimum) |
-| Range | Unlimited |
-| Target | One living creature or object |
-| Duration | Instantaneous |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                                           |
+| ---------------- | ------------------------------------------------------------------------------- |
+| School           | Divination                                                                      |
+| Skill Check      | Knowledge (arcane lore) DC 34, 6 successes, and Computer Use DC 34, 2 successes |
+| Failure          | Two consecutive failed skill checks                                             |
+| Components       | V, S, F                                                                         |
+| Casting Time     | 80 minutes (minimum)                                                            |
+| Range            | Unlimited                                                                       |
+| Target           | One living creature or object                                                   |
+| Duration         | Instantaneous                                                                   |
+| Saving Throw     | None                                                                            |
+| Spell Resistance | No                                                                              |
 
 A *satellite tracking* incantation is among the most powerful means of
 locating creatures or objects. You learn the exact location of a single
@@ -20,7 +20,7 @@ protection from scrying or location.
 
 The incantation reveals global positioning system (GPS) coordinates for
 the subject, and a successful computer search (Computer Use check, DC
-15) supplies the name of the location (place, name, business name,
+15\) supplies the name of the location (place, name, business name,
 building name, or the like), community, county (or similar political
 division), and country where the subject lies.
 

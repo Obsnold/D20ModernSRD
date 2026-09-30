@@ -5,11 +5,11 @@ athletes of all types, including gymnasts, weight trainers, wrestlers,
 boxers, martial artists, swimmers, skaters, and those who engage in any
 type of competitive sport.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Strength 13 or Dexterity 13 |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value                       |
+| ------------------------- | --------------------------- |
+| Prerequisite              | Strength 13 or Dexterity 13 |
+| Reputation Bonus Increase | —                           |
+| Wealth Bonus Increase     | +1                          |
 
 ## Skills
 

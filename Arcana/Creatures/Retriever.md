@@ -51,39 +51,39 @@ how it usually “retrieves” things.
 
 ## Retriever
 
-| Stat | Value |
-|---|---|
-| CR | 11 |
-| Size | Huge |
-| Type | construct |
-| HD | 10d10+40 |
-| hp | 95 |
-| Mas | — |
-| Init | +3 |
-| Spd | 50 ft. |
-| Defense | 21 |
-| Touch | 11 |
-| Flat-Footed | 18 |
-| Defense Breakdown | –2 size, +3 Dex, +10 natural |
-| BAB | +7 |
-| Grap | +25 |
-| Atk | +15 melee (2d4+10, claw) or +8 ranged touch (special, eye ray) |
-| Full Atk | +15 melee (2d4+10, 4 claws), +10 melee (1d6+5, bite) or +8 ranged touch (special, eye ray) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | construct, eye rays (DC 18), fast healing 5, *find target*, improved grab |
-| AL | evil, master |
-| Fort | +3 |
-| Ref | +6 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 31 |
-| Dex | 17 |
-| Con | — |
-| Int | — |
-| Wis | 11 |
-| Cha | 1 |
+| Stat              | Value                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| CR                | 11                                                                                         |
+| Size              | Huge                                                                                       |
+| Type              | construct                                                                                  |
+| HD                | 10d10+40                                                                                   |
+| hp                | 95                                                                                         |
+| Mas               | —                                                                                          |
+| Init              | +3                                                                                         |
+| Spd               | 50 ft.                                                                                     |
+| Defense           | 21                                                                                         |
+| Touch             | 11                                                                                         |
+| Flat-Footed       | 18                                                                                         |
+| Defense Breakdown | –2 size, +3 Dex, +10 natural                                                               |
+| BAB               | +7                                                                                         |
+| Grap              | +25                                                                                        |
+| Atk               | +15 melee (2d4+10, claw) or +8 ranged touch (special, eye ray)                             |
+| Full Atk          | +15 melee (2d4+10, 4 claws), +10 melee (1d6+5, bite) or +8 ranged touch (special, eye ray) |
+| FS                | 15 ft. by 15 ft.                                                                           |
+| Reach             | 10 ft.                                                                                     |
+| SQ                | construct, eye rays (DC 18), fast healing 5, *find target*, improved grab                  |
+| AL                | evil, master                                                                               |
+| Fort              | +3                                                                                         |
+| Ref               | +6                                                                                         |
+| Will              | +3                                                                                         |
+| AP                | 0                                                                                          |
+| Rep               | +0                                                                                         |
+| Str               | 31                                                                                         |
+| Dex               | 17                                                                                         |
+| Con               | —                                                                                          |
+| Int               | —                                                                                          |
+| Wis               | 11                                                                                         |
+| Cha               | 1                                                                                          |
 
 **Skills:** None.
 
@@ -96,39 +96,39 @@ how it usually “retrieves” things.
 
 ## Advanced Retriever
 
-| Stat | Value |
-|---|---|
-| CR | 13 |
-| Size | Gargantuan |
-| Type | construct |
-| HD | 18d10+80 |
-| hp | 179 |
-| Mas | — |
-| Init | +3 |
-| Spd | 50 ft. |
-| Defense | 23 |
-| Touch | 9 |
-| Flat-Footed | 20 |
-| Defense Breakdown | –4 size, +3 Dex, +14 natural |
-| BAB | +13 |
-| Grap | +39 |
-| Atk | +23 melee (2d6+14, claw) or +12 ranged touch (special, eye ray) |
-| Full Atk | +23 melee (2d6+14, 4 claws), +19 melee (1d8+7, bite) or +12 ranged touch (special, eye ray) |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | construct, eye rays (DC 22), fast healing 5, *find target*, improved grab |
-| AL | evil, master |
-| Fort | +6 |
-| Ref | +9 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 39 |
-| Dex | 17 |
-| Con | — |
-| Int | — |
-| Wis | 11 |
-| Cha | 1 |
+| Stat              | Value                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| CR                | 13                                                                                          |
+| Size              | Gargantuan                                                                                  |
+| Type              | construct                                                                                   |
+| HD                | 18d10+80                                                                                    |
+| hp                | 179                                                                                         |
+| Mas               | —                                                                                           |
+| Init              | +3                                                                                          |
+| Spd               | 50 ft.                                                                                      |
+| Defense           | 23                                                                                          |
+| Touch             | 9                                                                                           |
+| Flat-Footed       | 20                                                                                          |
+| Defense Breakdown | –4 size, +3 Dex, +14 natural                                                                |
+| BAB               | +13                                                                                         |
+| Grap              | +39                                                                                         |
+| Atk               | +23 melee (2d6+14, claw) or +12 ranged touch (special, eye ray)                             |
+| Full Atk          | +23 melee (2d6+14, 4 claws), +19 melee (1d8+7, bite) or +12 ranged touch (special, eye ray) |
+| FS                | 20 ft. by 20 ft.                                                                            |
+| Reach             | 15 ft.                                                                                      |
+| SQ                | construct, eye rays (DC 22), fast healing 5, *find target*, improved grab                   |
+| AL                | evil, master                                                                                |
+| Fort              | +6                                                                                          |
+| Ref               | +9                                                                                          |
+| Will              | +6                                                                                          |
+| AP                | 0                                                                                           |
+| Rep               | +0                                                                                          |
+| Str               | 39                                                                                          |
+| Dex               | 17                                                                                          |
+| Con               | —                                                                                           |
+| Int               | —                                                                                           |
+| Wis               | 11                                                                                          |
+| Cha               | 1                                                                                           |
 
 **Skills:** None.
 

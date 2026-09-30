@@ -46,39 +46,39 @@ bonus on Balance, Climb, Jump, and Survival checks.
 
 ## Urban Wendigo
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Large |
-| Type | giant |
-| HD | 6d8+24 |
-| hp | 51 |
-| Mas | 19 |
-| Init | +1 |
-| Spd | 40 ft. |
-| Defense | 17 |
-| Touch | 10 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –1 size, +1 Dex, +7 natural |
-| BAB | +4 |
-| Grap | +14 |
-| Atk | +9 melee (1d6+6, claw) or +4 ranged |
-| Full Atk | +9 melee (1d6+6, 2 claws), +4 melee (1d6+3, bite) or +4 ranged |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | rage, rend 2d6+9, ferocity, peripheral invisibility, scent, low-light vision |
-| AL | evil |
-| Fort | +9 |
-| Ref | +3 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 23 |
-| Dex | 13 |
-| Con | 19 |
-| Int | 6 |
-| Wis | 14 |
-| Cha | 6 |
+| Stat              | Value                                                                        |
+| ----------------- | ---------------------------------------------------------------------------- |
+| CR                | 5                                                                            |
+| Size              | Large                                                                        |
+| Type              | giant                                                                        |
+| HD                | 6d8+24                                                                       |
+| hp                | 51                                                                           |
+| Mas               | 19                                                                           |
+| Init              | +1                                                                           |
+| Spd               | 40 ft.                                                                       |
+| Defense           | 17                                                                           |
+| Touch             | 10                                                                           |
+| Flat-Footed       | 16                                                                           |
+| Defense Breakdown | –1 size, +1 Dex, +7 natural                                                  |
+| BAB               | +4                                                                           |
+| Grap              | +14                                                                          |
+| Atk               | +9 melee (1d6+6, claw) or +4 ranged                                          |
+| Full Atk          | +9 melee (1d6+6, 2 claws), +4 melee (1d6+3, bite) or +4 ranged               |
+| FS                | 5 ft. by 5 ft.                                                               |
+| Reach             | 10 ft.                                                                       |
+| SQ                | rage, rend 2d6+9, ferocity, peripheral invisibility, scent, low-light vision |
+| AL                | evil                                                                         |
+| Fort              | +9                                                                           |
+| Ref               | +3                                                                           |
+| Will              | +4                                                                           |
+| AP                | 0                                                                            |
+| Rep               | +0                                                                           |
+| Str               | 23                                                                           |
+| Dex               | 13                                                                           |
+| Con               | 19                                                                           |
+| Int               | 6                                                                            |
+| Wis               | 14                                                                           |
+| Cha               | 6                                                                            |
 
 **Skills:** Balance +12, Climb +18, Hide –1, Jump +18,
 Listen +4, Spot +4, Survival +14.
@@ -98,39 +98,39 @@ Fort +11; Str 27, Con 23; Climb +20, Jump +20.
 
 ## Urban Wendigo Fast Hero 3
 
-| Stat | Value |
-|---|---|
-| CR | 8 |
-| Size | Large |
-| Type | giant |
-| HD | 6d8+24 plus 3d8+12 |
-| hp | 76 |
-| Mas | 19 |
-| Init | +2 |
-| Spd | 45 ft. |
-| Defense | 22 |
-| Touch | 14 |
-| Flat-Footed | 20 |
-| Defense Breakdown | –1 size, +2 Dex, +7 natural, +4 class |
-| BAB | +6 |
-| Grap | +16 |
-| Atk | +11 melee (1d6+6, claw) or +7 ranged (1d10/19–20, crossbow) |
-| Full Atk | +11 melee (1d6+6, 2 claws), +6 melee (1d6+3, bite) or +7 ranged (1d10/19–20, crossbow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 10 ft. |
-| SQ | rage, rend 2d6+9, ferocity, peripheral invisibility, scent, low-light vision |
-| AL | evil |
-| Fort | +9 |
-| Ref | +6 |
-| Will | +4 |
-| AP | 1 |
-| Rep | +1 |
-| Str | 23 |
-| Dex | 14 |
-| Con | 19 |
-| Int | 6 |
-| Wis | 14 |
-| Cha | 6 |
+| Stat              | Value                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| CR                | 8                                                                                      |
+| Size              | Large                                                                                  |
+| Type              | giant                                                                                  |
+| HD                | 6d8+24 plus 3d8+12                                                                     |
+| hp                | 76                                                                                     |
+| Mas               | 19                                                                                     |
+| Init              | +2                                                                                     |
+| Spd               | 45 ft.                                                                                 |
+| Defense           | 22                                                                                     |
+| Touch             | 14                                                                                     |
+| Flat-Footed       | 20                                                                                     |
+| Defense Breakdown | –1 size, +2 Dex, +7 natural, +4 class                                                  |
+| BAB               | +6                                                                                     |
+| Grap              | +16                                                                                    |
+| Atk               | +11 melee (1d6+6, claw) or +7 ranged (1d10/19–20, crossbow)                            |
+| Full Atk          | +11 melee (1d6+6, 2 claws), +6 melee (1d6+3, bite) or +7 ranged (1d10/19–20, crossbow) |
+| FS                | 5 ft. by 5 ft.                                                                         |
+| Reach             | 10 ft.                                                                                 |
+| SQ                | rage, rend 2d6+9, ferocity, peripheral invisibility, scent, low-light vision           |
+| AL                | evil                                                                                   |
+| Fort              | +9                                                                                     |
+| Ref               | +6                                                                                     |
+| Will              | +4                                                                                     |
+| AP                | 1                                                                                      |
+| Rep               | +1                                                                                     |
+| Str               | 23                                                                                     |
+| Dex               | 14                                                                                     |
+| Con               | 19                                                                                     |
+| Int               | 6                                                                                      |
+| Wis               | 14                                                                                     |
+| Cha               | 6                                                                                      |
 
 **Skills:** Balance +14, Climb +19, Hide +4, Jump +19,
 Listen +4, Move Silently +4, Spot +4, Survival +14.

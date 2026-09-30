@@ -7,7 +7,7 @@ reduces the damage the mecha takes from weapons and collisions.
 
 To build a mecha superstructure from scratch, a character must succeed
 at a Craft (mechanical) check (DC 30) and a Craft (structural) check (DC
-30) after investing the requisite amount of assembly time, based on the
+30\) after investing the requisite amount of assembly time, based on the
 mecha’s size: Large 150 hours, Huge 300 hours, Gargantuan 600 hours,
 Colossal 1,200 hours. A character without a mechanical tool kit takes a
 –4 penalty on both skill checks. The character must also make a Wealth
@@ -28,15 +28,15 @@ purchase.
 
 **Table: Superstructure Materials**
 
-| | —— Modified Base Purchase DC —— | | | | |
-|---|---|---|---|---|---|
-| **Superstructure Material** | **Hardness** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
-| Alumisteel (PL 5) | 10 | 36 | 40 | 44 | 56 |
-| Duralloy (PL 6) | 15 | 40 | 44 | 48 | 60 |
-| Vanadium (PL 6) | 20 | 44 | 48 | 52 | 64 |
-| Neovulcanium (PL 7) | 20 | 40 | 44 | 48 | 60 |
-| Neutronite (PL 7) | 25 | 44 | 48 | 52 | 64 |
-| Megatanium (PL 8) | 30 | 40 | 40 | 48 | 60 |
+|                             | —— Modified Base Purchase DC —— |           |          |                |              |
+| --------------------------- | ------------------------------- | --------- | -------- | -------------- | ------------ |
+| **Superstructure Material** | **Hardness**                    | **Large** | **Huge** | **Gargantuan** | **Colossal** |
+| Alumisteel (PL 5)           | 10                              | 36        | 40       | 44             | 56           |
+| Duralloy (PL 6)             | 15                              | 40        | 44       | 48             | 60           |
+| Vanadium (PL 6)             | 20                              | 44        | 48       | 52             | 64           |
+| Neovulcanium (PL 7)         | 20                              | 40        | 44       | 48             | 60           |
+| Neutronite (PL 7)           | 25                              | 44        | 48       | 52             | 64           |
+| Megatanium (PL 8)           | 30                              | 40        | 40       | 48             | 60           |
 
 ## Alumisteel (pl 5)
 

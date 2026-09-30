@@ -1,10 +1,10 @@
 # Jump
 
-| Stat | Value |
-|---|---|
-| Key Ability | Str |
-| Trained Only | No |
-| Armor Penalty | Yes |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Str   |
+| Trained Only  | No    |
+| Armor Penalty | Yes   |
 
 ## Check
 
@@ -41,10 +41,10 @@ feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
 | Long Jump Distance | DC¹ | Long Jump Distance | DC¹ |
-|---|---|---|---|
-| 5 feet | 5 | 20 feet | 20 |
-| 10 feet | 10 | 25 feet | 25 |
-| 15 feet | 15 | 30 feet | 30 |
+| ------------------ | --- | ------------------ | --- |
+| 5 feet             | 5   | 20 feet            | 20  |
+| 10 feet            | 10  | 25 feet            | 25  |
+| 15 feet            | 15  | 30 feet            | 30  |
 
 ¹ Requires a 20-foot move. Without a 20-foot move, double the DC.
 
@@ -64,11 +64,11 @@ feet in a straight line before attempting the jump. If this is not the
 case, the DC for the jump is doubled.
 
 | High Jump Distance | DC¹ | High Jump Distance | DC¹ |
-|---|---|---|---|
-| 1 foot | 4 | 5 feet | 20 |
-| 2 feet | 8 | 6 feet | 24 |
-| 3 feet | 12 | 7 feet | 28 |
-| 4 feet | 16 | 8 feet | 32 |
+| ------------------ | --- | ------------------ | --- |
+| 1 foot             | 4   | 5 feet             | 20  |
+| 2 feet             | 8   | 6 feet             | 24  |
+| 3 feet             | 12  | 7 feet             | 28  |
+| 4 feet             | 16  | 8 feet             | 32  |
 
 ¹ Requires a 20-foot move. Without a running start, double the DC.
 
@@ -86,16 +86,16 @@ creature, a typical human can reach 8 feet without jumping.) If the
 creature is long instead of tall, treat it as one size category smaller.
 
 | Creature Size | Maximum Height |
-|---|---|
-| Colossal | 128 ft. |
-| Gargantuan | 64 ft. |
-| Huge | 32 ft. |
-| Large | 16 ft. |
-| Medium-size | 8 ft. |
-| Small | 4 ft. |
-| Tiny | 2 ft. |
-| Diminutive | 1 ft. |
-| Fine | 0.5 ft. |
+| ------------- | -------------- |
+| Colossal      | 128 ft.        |
+| Gargantuan    | 64 ft.         |
+| Huge          | 32 ft.         |
+| Large         | 16 ft.         |
+| Medium-size   | 8 ft.          |
+| Small         | 4 ft.          |
+| Tiny          | 2 ft.          |
+| Diminutive    | 1 ft.          |
+| Fine          | 0.5 ft.        |
 
 **Hop Up:** The character can jump up onto an object as tall as his or
 her waist with a Jump check (DC 10). Doing so counts as 10 feet of

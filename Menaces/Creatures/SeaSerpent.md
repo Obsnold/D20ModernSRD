@@ -45,39 +45,39 @@ Diminutive or smaller opponents.
 
 ## Sea Serpent
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Huge |
-| Type | magical beast |
-| HD | 9d10+27 |
-| hp | 76 |
-| Mas | 17 |
-| Init | +7 |
-| Spd | swim 60 ft. |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 12 |
-| Defense Breakdown | –2 size, +3 Dex, +4 natural |
-| BAB | +9 |
-| Grap | +25 |
-| Atk | +15 melee (2d6+8, tail slap) |
-| Full Atk | +15 melee (2d6+8, bite or tail slap) |
-| FS | 15 ft. by 15 ft. (coiled) |
-| Reach | 10 ft. |
-| SQ | darkvision 60 ft., hazy outline, improved grab, low-light vision, swallow whole |
-| AL | none |
-| Fort | +9 |
-| Ref | +9 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 26 |
-| Dex | 16 |
-| Con | 17 |
-| Int | 2 |
-| Wis | 15 |
-| Cha | 9 |
+| Stat              | Value                                                                           |
+| ----------------- | ------------------------------------------------------------------------------- |
+| CR                | 7                                                                               |
+| Size              | Huge                                                                            |
+| Type              | magical beast                                                                   |
+| HD                | 9d10+27                                                                         |
+| hp                | 76                                                                              |
+| Mas               | 17                                                                              |
+| Init              | +7                                                                              |
+| Spd               | swim 60 ft.                                                                     |
+| Defense           | 15                                                                              |
+| Touch             | 11                                                                              |
+| Flat-Footed       | 12                                                                              |
+| Defense Breakdown | –2 size, +3 Dex, +4 natural                                                     |
+| BAB               | +9                                                                              |
+| Grap              | +25                                                                             |
+| Atk               | +15 melee (2d6+8, tail slap)                                                    |
+| Full Atk          | +15 melee (2d6+8, bite or tail slap)                                            |
+| FS                | 15 ft. by 15 ft. (coiled)                                                       |
+| Reach             | 10 ft.                                                                          |
+| SQ                | darkvision 60 ft., hazy outline, improved grab, low-light vision, swallow whole |
+| AL                | none                                                                            |
+| Fort              | +9                                                                              |
+| Ref               | +9                                                                              |
+| Will              | +5                                                                              |
+| AP                | 0                                                                               |
+| Rep               | +0                                                                              |
+| Str               | 26                                                                              |
+| Dex               | 16                                                                              |
+| Con               | 17                                                                              |
+| Int               | 2                                                                               |
+| Wis               | 15                                                                              |
+| Cha               | 9                                                                               |
 
 **Skills:** Hide +0 (+10 in water), Listen +7, Spot +7.
 
@@ -87,39 +87,39 @@ Diminutive or smaller opponents.
 
 ## Advanced Sea Serpent
 
-| Stat | Value |
-|---|---|
-| CR | 10 |
-| Size | Colossal |
-| Type | magical beast |
-| HD | 19d10+133 |
-| hp | 237 |
-| Mas | 25 |
-| Init | +7 |
-| Spd | swim 60 ft. |
-| Defense | 18 |
-| Touch | 5 |
-| Flat-Footed | 15 |
-| Defense Breakdown | –8 size, +3 Dex, +13 natural |
-| BAB | +19 |
-| Grap | +51 |
-| Atk | +27 melee (4d6+16, tail slap) |
-| Full Atk | +27 melee (4d6+16, bite or tail slap) |
-| FS | 30 ft. by 30 ft. (coiled) |
-| Reach | 15 ft. |
-| SQ | darkvision 60 ft., hazy outline, improved grab, low-light vision, swallow whole |
-| AL | none |
-| Fort | +18 |
-| Ref | +14 |
-| Will | +8 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 42 |
-| Dex | 16 |
-| Con | 25 |
-| Int | 2 |
-| Wis | 15 |
-| Cha | 9 |
+| Stat              | Value                                                                           |
+| ----------------- | ------------------------------------------------------------------------------- |
+| CR                | 10                                                                              |
+| Size              | Colossal                                                                        |
+| Type              | magical beast                                                                   |
+| HD                | 19d10+133                                                                       |
+| hp                | 237                                                                             |
+| Mas               | 25                                                                              |
+| Init              | +7                                                                              |
+| Spd               | swim 60 ft.                                                                     |
+| Defense           | 18                                                                              |
+| Touch             | 5                                                                               |
+| Flat-Footed       | 15                                                                              |
+| Defense Breakdown | –8 size, +3 Dex, +13 natural                                                    |
+| BAB               | +19                                                                             |
+| Grap              | +51                                                                             |
+| Atk               | +27 melee (4d6+16, tail slap)                                                   |
+| Full Atk          | +27 melee (4d6+16, bite or tail slap)                                           |
+| FS                | 30 ft. by 30 ft. (coiled)                                                       |
+| Reach             | 15 ft.                                                                          |
+| SQ                | darkvision 60 ft., hazy outline, improved grab, low-light vision, swallow whole |
+| AL                | none                                                                            |
+| Fort              | +18                                                                             |
+| Ref               | +14                                                                             |
+| Will              | +8                                                                              |
+| AP                | 0                                                                               |
+| Rep               | +0                                                                              |
+| Str               | 42                                                                              |
+| Dex               | 16                                                                              |
+| Con               | 25                                                                              |
+| Int               | 2                                                                               |
+| Wis               | 15                                                                              |
+| Cha               | 9                                                                               |
 
 **Skills:** Hide –8 (+2 in water), Listen +7, Spot +7.
 

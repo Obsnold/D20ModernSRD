@@ -57,38 +57,38 @@ to natural sunlight.
 
 ## Ash Wraith
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size/Type | Medium undead |
-| HD | 6d12 |
-| hp | 39 |
-| Mas | — |
-| Init | +7 (+3 Dex, +4 Improved Initiative) |
-| Spd | 30 ft., fly 60 ft. (good) |
-| Defense | 15 |
-| Touch | 15 |
-| Flat-Footed | 12 |
-| Defense Breakdown | +3 Dex, +2 deflection |
-| BAB | +3 |
-| Grap | +3 |
-| Atk | +6 melee (3d6 fire, burning touch) |
-| Full Atk | +6 melee (3d6 fire, burning touch) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | undead, incorporeal, burning touch, spawn, unnatural aura, fear of daylight |
-| AL | evil |
-| Fort | +2 |
-| Ref | +5 |
-| Will | +7 |
-| AP | 0 |
-| Rep | +0 |
-| Str | — |
-| Dex | 16 |
-| Con | — |
-| Int | 14 |
-| Wis | 14 |
-| Cha | 15 |
+| Stat              | Value                                                                       |
+| ----------------- | --------------------------------------------------------------------------- |
+| CR                | 6                                                                           |
+| Size/Type         | Medium undead                                                               |
+| HD                | 6d12                                                                        |
+| hp                | 39                                                                          |
+| Mas               | —                                                                           |
+| Init              | +7 (+3 Dex, +4 Improved Initiative)                                         |
+| Spd               | 30 ft., fly 60 ft. (good)                                                   |
+| Defense           | 15                                                                          |
+| Touch             | 15                                                                          |
+| Flat-Footed       | 12                                                                          |
+| Defense Breakdown | +3 Dex, +2 deflection                                                       |
+| BAB               | +3                                                                          |
+| Grap              | +3                                                                          |
+| Atk               | +6 melee (3d6 fire, burning touch)                                          |
+| Full Atk          | +6 melee (3d6 fire, burning touch)                                          |
+| FS                | 5 ft. by 5 ft.                                                              |
+| Reach             | 5 ft.                                                                       |
+| SQ                | undead, incorporeal, burning touch, spawn, unnatural aura, fear of daylight |
+| AL                | evil                                                                        |
+| Fort              | +2                                                                          |
+| Ref               | +5                                                                          |
+| Will              | +7                                                                          |
+| AP                | 0                                                                           |
+| Rep               | +0                                                                          |
+| Str               | —                                                                           |
+| Dex               | 16                                                                          |
+| Con               | —                                                                           |
+| Int               | 14                                                                          |
+| Wis               | 14                                                                          |
+| Cha               | 15                                                                          |
 
 **Skills:** Hide +12, Intimidate +11, Listen +13, Read/Write
 

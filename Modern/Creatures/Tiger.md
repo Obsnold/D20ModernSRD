@@ -20,39 +20,39 @@ their Hide bonus improves to +8.
 
 ## Tiger
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size | Large |
-| Type | animal |
-| HD | 6d8+18 |
-| hp | 45 |
-| Mas | 17 |
-| Init | +2 |
-| Spd | 40 ft. |
-| Defense | 14 |
-| Touch | 11 |
-| Flat-Footed | 12 |
-| Defense Breakdown | –1 size, +2 Dex, +3 natural |
-| BAB | +4 |
-| Grap | +14 |
-| Atk | +9 melee (1d8+6, claw) |
-| Full Atk | +9 melee (1d8+6, 2 claws), +4 melee (2d6+3, bite) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 5 ft. |
-| SQ | pounce, improved grab, rake 1d8+3, low-light vision |
-| AL | none |
-| Fort | +8 |
-| Ref | +7 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 23 |
-| Dex | 15 |
-| Con | 17 |
-| Int | 2 |
-| Wis | 12 |
-| Cha | 6 |
+| Stat              | Value                                               |
+| ----------------- | --------------------------------------------------- |
+| CR                | 4                                                   |
+| Size              | Large                                               |
+| Type              | animal                                              |
+| HD                | 6d8+18                                              |
+| hp                | 45                                                  |
+| Mas               | 17                                                  |
+| Init              | +2                                                  |
+| Spd               | 40 ft.                                              |
+| Defense           | 14                                                  |
+| Touch             | 11                                                  |
+| Flat-Footed       | 12                                                  |
+| Defense Breakdown | –1 size, +2 Dex, +3 natural                         |
+| BAB               | +4                                                  |
+| Grap              | +14                                                 |
+| Atk               | +9 melee (1d8+6, claw)                              |
+| Full Atk          | +9 melee (1d8+6, 2 claws), +4 melee (2d6+3, bite)   |
+| FS                | 10 ft. by 10 ft.                                    |
+| Reach             | 5 ft.                                               |
+| SQ                | pounce, improved grab, rake 1d8+3, low-light vision |
+| AL                | none                                                |
+| Fort              | +8                                                  |
+| Ref               | +7                                                  |
+| Will              | +3                                                  |
+| AP                | 0                                                   |
+| Rep               | +0                                                  |
+| Str               | 23                                                  |
+| Dex               | 15                                                  |
+| Con               | 17                                                  |
+| Int               | 2                                                   |
+| Wis               | 12                                                  |
+| Cha               | 6                                                   |
 
 **Skills:** Balance +6, Hide +5 (+9 in tall grass or undergrowth),
 Listen +3, Move Silently +9, Spot +3, Swim +11.

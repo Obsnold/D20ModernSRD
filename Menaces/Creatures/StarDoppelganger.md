@@ -156,33 +156,33 @@ below.
 
 ## Tiny Star Doppelganger
 
-| Stat | Value |
-|---|---|
-| CR | 1/2 |
-| Size | Tiny |
-| Type | aberration |
-| HD | 1d8 |
-| hp | 4 |
-| Mas | — |
-| Init | +1 |
-| Spd | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft. |
-| Defense | 17 |
-| Touch | 13 |
-| Flat-Footed | 16 |
-| Defense Breakdown | +2 size, +1 Dex, +4 natural |
-| BAB | +0 |
-| Grap | –8 |
-| Atk | +2 melee (1d4, bite) |
-| Full Atk | +2 melee (1d4, bite) and –3 melee (1d3, gore) and –3 melee (1d2, claw) and –3 melee (1, slam) |
-| FS | 2 1/2 ft. by 2 1/2 ft. |
-| Reach | 0 ft. |
-| SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 10), flesh transfer (DC 10), hive mind, immunities, mimic, regeneration 5, split |
-| AL | evil |
-| Fort | +0 |
-| Ref | +1 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
+| Stat              | Value                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 1/2                                                                                                                                                                      |
+| Size              | Tiny                                                                                                                                                                     |
+| Type              | aberration                                                                                                                                                               |
+| HD                | 1d8                                                                                                                                                                      |
+| hp                | 4                                                                                                                                                                        |
+| Mas               | —                                                                                                                                                                        |
+| Init              | +1                                                                                                                                                                       |
+| Spd               | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft.                                                                                                                          |
+| Defense           | 17                                                                                                                                                                       |
+| Touch             | 13                                                                                                                                                                       |
+| Flat-Footed       | 16                                                                                                                                                                       |
+| Defense Breakdown | +2 size, +1 Dex, +4 natural                                                                                                                                              |
+| BAB               | +0                                                                                                                                                                       |
+| Grap              | –8                                                                                                                                                                       |
+| Atk               | +2 melee (1d4, bite)                                                                                                                                                     |
+| Full Atk          | +2 melee (1d4, bite) and –3 melee (1d3, gore) and –3 melee (1d2, claw) and –3 melee (1, slam)                                                                            |
+| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                                                   |
+| Reach             | 0 ft.                                                                                                                                                                    |
+| SQ                | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 10), flesh transfer (DC 10), hive mind, immunities, mimic, regeneration 5, split |
+| AL                | evil                                                                                                                                                                     |
+| Fort              | +0                                                                                                                                                                       |
+| Ref               | +1                                                                                                                                                                       |
+| Will              | +4                                                                                                                                                                       |
+| AP                | 0                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                       |
 
 Str 10, Dex 12, Con 10, Int 16, Wis 15, Cha 10.
 
@@ -197,39 +197,39 @@ Swim +12.
 
 ## Small Star Doppelganger
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Small |
-| Type | aberration |
-| HD | 2d8 |
-| hp | 9 |
-| Mas | — |
-| Init | +0 |
-| Spd | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft. |
-| Defense | 15 |
-| Touch | 11 |
-| Flat-Footed | 15 |
-| Defense Breakdown | +1 size, +4 natural |
-| BAB | +1 |
-| Grap | –2 |
-| Atk | +4 melee (1d6+2, bite) |
-| Full Atk | +4 melee (1d6+2, bite) and –1 melee (1d4+1, gore) and –1 melee (1d3+1, claw) and –1 melee (1d2+1, slam) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 11), flesh transfer (DC 11), hive mind, immunities, mimic, regeneration 5, split |
-| AL | evil |
-| Fort | +0 |
-| Ref | +0 |
-| Will | +5 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 10 |
-| Con | 10 |
-| Int | 16 |
-| Wis | 15 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 2                                                                                                                                                                        |
+| Size              | Small                                                                                                                                                                    |
+| Type              | aberration                                                                                                                                                               |
+| HD                | 2d8                                                                                                                                                                      |
+| hp                | 9                                                                                                                                                                        |
+| Mas               | —                                                                                                                                                                        |
+| Init              | +0                                                                                                                                                                       |
+| Spd               | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft.                                                                                                                          |
+| Defense           | 15                                                                                                                                                                       |
+| Touch             | 11                                                                                                                                                                       |
+| Flat-Footed       | 15                                                                                                                                                                       |
+| Defense Breakdown | +1 size, +4 natural                                                                                                                                                      |
+| BAB               | +1                                                                                                                                                                       |
+| Grap              | –2                                                                                                                                                                       |
+| Atk               | +4 melee (1d6+2, bite)                                                                                                                                                   |
+| Full Atk          | +4 melee (1d6+2, bite) and –1 melee (1d4+1, gore) and –1 melee (1d3+1, claw) and –1 melee (1d2+1, slam)                                                                  |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                           |
+| Reach             | 5 ft.                                                                                                                                                                    |
+| SQ                | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 11), flesh transfer (DC 11), hive mind, immunities, mimic, regeneration 5, split |
+| AL                | evil                                                                                                                                                                     |
+| Fort              | +0                                                                                                                                                                       |
+| Ref               | +0                                                                                                                                                                       |
+| Will              | +5                                                                                                                                                                       |
+| AP                | 0                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                       |
+| Str               | 14                                                                                                                                                                       |
+| Dex               | 10                                                                                                                                                                       |
+| Con               | 10                                                                                                                                                                       |
+| Int               | 16                                                                                                                                                                       |
+| Wis               | 15                                                                                                                                                                       |
+| Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +14, Craft (electronic) +9, Craft (mechanical) +9,
 Drive +4, Listen +8, Hide + 7, Move Silently +7, Pilot +4, Spot +8, Swim
@@ -241,39 +241,39 @@ Drive +4, Listen +8, Hide + 7, Move Silently +7, Pilot +4, Spot +8, Swim
 
 ## Medium-Size Star Doppelganger
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size | Medium-size |
-| Type | aberration |
-| HD | 4d8+4 |
-| hp | 22 |
-| Mas | — |
-| Init | –1 |
-| Spd | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft. |
-| Defense | 13 |
-| Touch | 9 |
-| Flat-Footed | 14 |
-| Defense Breakdown | –1 Dex, +4 natural |
-| BAB | +3 |
-| Grap | +7 |
-| Atk | +7 melee (2d4+4, bite) |
-| Full Atk | +7 melee (2d4+4, bite) and +2 melee (1d6+3, gore) and +2 melee (1d4+2, claw) and +2 melee (1d3+2, slam) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 12), flesh transfer (DC 13), hive mind, immunities, mimic, regeneration 5, split |
-| AL | evil |
-| Fort | +2 |
-| Ref | +0 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 18 |
-| Dex | 8 |
-| Con | 12 |
-| Int | 16 |
-| Wis | 15 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 3                                                                                                                                                                        |
+| Size              | Medium-size                                                                                                                                                              |
+| Type              | aberration                                                                                                                                                               |
+| HD                | 4d8+4                                                                                                                                                                    |
+| hp                | 22                                                                                                                                                                       |
+| Mas               | —                                                                                                                                                                        |
+| Init              | –1                                                                                                                                                                       |
+| Spd               | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft.                                                                                                                          |
+| Defense           | 13                                                                                                                                                                       |
+| Touch             | 9                                                                                                                                                                        |
+| Flat-Footed       | 14                                                                                                                                                                       |
+| Defense Breakdown | –1 Dex, +4 natural                                                                                                                                                       |
+| BAB               | +3                                                                                                                                                                       |
+| Grap              | +7                                                                                                                                                                       |
+| Atk               | +7 melee (2d4+4, bite)                                                                                                                                                   |
+| Full Atk          | +7 melee (2d4+4, bite) and +2 melee (1d6+3, gore) and +2 melee (1d4+2, claw) and +2 melee (1d3+2, slam)                                                                  |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                           |
+| Reach             | 5 ft.                                                                                                                                                                    |
+| SQ                | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 12), flesh transfer (DC 13), hive mind, immunities, mimic, regeneration 5, split |
+| AL                | evil                                                                                                                                                                     |
+| Fort              | +2                                                                                                                                                                       |
+| Ref               | +0                                                                                                                                                                       |
+| Will              | +6                                                                                                                                                                       |
+| AP                | 0                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                       |
+| Str               | 18                                                                                                                                                                       |
+| Dex               | 8                                                                                                                                                                        |
+| Con               | 12                                                                                                                                                                       |
+| Int               | 16                                                                                                                                                                       |
+| Wis               | 15                                                                                                                                                                       |
+| Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +17, Craft (electronic) +9, Craft (mechanical) +9,
 Drive +3, Listen +8, Hide +3, Move Silently +3, Pilot +3, Spot +8, Swim
@@ -285,39 +285,39 @@ Drive +3, Listen +8, Hide +3, Move Silently +3, Pilot +3, Spot +8, Swim
 
 ## Large Star Doppelganger
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Large |
-| Type | aberration |
-| HD | 8d8+24 |
-| hp | 60 |
-| Mas | — |
-| Init | –2 |
-| Spd | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft. |
-| Defense | 13 |
-| Touch | 7 |
-| Flat-Footed | 13 |
-| Defense Breakdown | –1 size, –2 Dex, +6 natural |
-| BAB | +6 |
-| Grap | +18 |
-| Atk | +13 melee (2d6+8, bite) |
-| Full Atk | +13 melee (2d6+8, bite) and +8 melee (1d8+4, gore) and +8 melee (1d6+4, claw) and +8 melee (1d4+4, slam) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 10 ft. |
-| SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 14), flesh transfer (DC 17), hive mind, immunities, mimic, regeneration 5, split |
-| AL | evil |
-| Fort | +5 |
-| Ref | +0 |
-| Will | +8 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 26 |
-| Dex | 6 |
-| Con | 16 |
-| Int | 16 |
-| Wis | 15 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 7                                                                                                                                                                        |
+| Size              | Large                                                                                                                                                                    |
+| Type              | aberration                                                                                                                                                               |
+| HD                | 8d8+24                                                                                                                                                                   |
+| hp                | 60                                                                                                                                                                       |
+| Mas               | —                                                                                                                                                                        |
+| Init              | –2                                                                                                                                                                       |
+| Spd               | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft.                                                                                                                          |
+| Defense           | 13                                                                                                                                                                       |
+| Touch             | 7                                                                                                                                                                        |
+| Flat-Footed       | 13                                                                                                                                                                       |
+| Defense Breakdown | –1 size, –2 Dex, +6 natural                                                                                                                                              |
+| BAB               | +6                                                                                                                                                                       |
+| Grap              | +18                                                                                                                                                                      |
+| Atk               | +13 melee (2d6+8, bite)                                                                                                                                                  |
+| Full Atk          | +13 melee (2d6+8, bite) and +8 melee (1d8+4, gore) and +8 melee (1d6+4, claw) and +8 melee (1d4+4, slam)                                                                 |
+| FS                | 10 ft. by 10 ft.                                                                                                                                                         |
+| Reach             | 10 ft.                                                                                                                                                                   |
+| SQ                | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 14), flesh transfer (DC 17), hive mind, immunities, mimic, regeneration 5, split |
+| AL                | evil                                                                                                                                                                     |
+| Fort              | +5                                                                                                                                                                       |
+| Ref               | +0                                                                                                                                                                       |
+| Will              | +8                                                                                                                                                                       |
+| AP                | 0                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                       |
+| Str               | 26                                                                                                                                                                       |
+| Dex               | 6                                                                                                                                                                        |
+| Con               | 16                                                                                                                                                                       |
+| Int               | 16                                                                                                                                                                       |
+| Wis               | 15                                                                                                                                                                       |
+| Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +23, Craft (electronic) +9, Craft (mechanical) +9,
 Drive +2, Listen +8, Hide –1, Move Silently –1, Pilot +2, Spot +8, Swim
@@ -330,39 +330,39 @@ Proficiency.
 
 ## Huge Star Doppelganger
 
-| Stat | Value |
-|---|---|
-| CR | 10 |
-| Size | Huge |
-| Type | aberration |
-| HD | 16d8+80 |
-| hp | 152 |
-| Mas | — |
-| Init | –3 |
-| Spd | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft. |
-| Defense | 14 |
-| Touch | 5 |
-| Flat-Footed | 14 |
-| Defense Breakdown | –2 size, –3 Dex, +9 natural |
-| BAB | +12 |
-| Grap | +32 |
-| Atk | +22 melee (2d8+12, bite) |
-| Full Atk | +22 melee (2d8+12, bite) and +17 melee (2d6+6, gore) and +17 melee (2d4+6, claw) and +17 melee (1d6+6, slam) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 18), flesh transfer (DC 23), hive mind, immunities, mimic, regeneration 5, split |
-| AL | evil |
-| Fort | +10 |
-| Ref | +2 |
-| Will | +12 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 34 |
-| Dex | 4 |
-| Con | 20 |
-| Int | 16 |
-| Wis | 15 |
-| Cha | 10 |
+| Stat              | Value                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 10                                                                                                                                                                       |
+| Size              | Huge                                                                                                                                                                     |
+| Type              | aberration                                                                                                                                                               |
+| HD                | 16d8+80                                                                                                                                                                  |
+| hp                | 152                                                                                                                                                                      |
+| Mas               | —                                                                                                                                                                        |
+| Init              | –3                                                                                                                                                                       |
+| Spd               | 30 ft., burrow 20 ft. climb 20 ft., swim 20 ft.                                                                                                                          |
+| Defense           | 14                                                                                                                                                                       |
+| Touch             | 5                                                                                                                                                                        |
+| Flat-Footed       | 14                                                                                                                                                                       |
+| Defense Breakdown | –2 size, –3 Dex, +9 natural                                                                                                                                              |
+| BAB               | +12                                                                                                                                                                      |
+| Grap              | +32                                                                                                                                                                      |
+| Atk               | +22 melee (2d8+12, bite)                                                                                                                                                 |
+| Full Atk          | +22 melee (2d8+12, bite) and +17 melee (2d6+6, gore) and +17 melee (2d4+6, claw) and +17 melee (1d6+6, slam)                                                             |
+| FS                | 15 ft. by 15 ft.                                                                                                                                                         |
+| Reach             | 10 ft.                                                                                                                                                                   |
+| SQ                | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 18), flesh transfer (DC 23), hive mind, immunities, mimic, regeneration 5, split |
+| AL                | evil                                                                                                                                                                     |
+| Fort              | +10                                                                                                                                                                      |
+| Ref               | +2                                                                                                                                                                       |
+| Will              | +12                                                                                                                                                                      |
+| AP                | 0                                                                                                                                                                        |
+| Rep               | +0                                                                                                                                                                       |
+| Str               | 34                                                                                                                                                                       |
+| Dex               | 4                                                                                                                                                                        |
+| Con               | 20                                                                                                                                                                       |
+| Int               | 16                                                                                                                                                                       |
+| Wis               | 15                                                                                                                                                                       |
+| Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +30, Craft (electronic) +9, Craft (mechanical) +9,
 Drive +1, Listen +8, Hide –3, Move Silently –3, Pilot +1, Spot +8, Swim

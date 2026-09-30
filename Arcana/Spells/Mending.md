@@ -1,16 +1,16 @@
 # Mending
 
-| Stat | Value |
-|---|---|
-| School | Transmutation |
-| Level | Arcane 0, Divine 0 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | 10 ft. |
-| Target | One object of up to 1 pound/level |
-| Duration | Instantaneous |
-| Saving Throw | Will negates (harmless, object) |
-| Spell Resistance | Yes (harmless, object) |
+| Stat             | Value                             |
+| ---------------- | --------------------------------- |
+| School           | Transmutation                     |
+| Level            | Arcane 0, Divine 0                |
+| Components       | V, S                              |
+| Casting Time     | Attack action                     |
+| Range            | 10 ft.                            |
+| Target           | One object of up to 1 pound/level |
+| Duration         | Instantaneous                     |
+| Saving Throw     | Will negates (harmless, object)   |
+| Spell Resistance | Yes (harmless, object)            |
 
 *Mending* repairs small breaks or tears in objects (not warps). In
 metallic objects, it will weld a broken chain link, a necklace, or a

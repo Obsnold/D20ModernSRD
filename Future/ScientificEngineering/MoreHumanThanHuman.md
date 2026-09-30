@@ -23,12 +23,12 @@ linked to the genetic modification being attempted (at which point he
 permanently gains that special quality). Every time a save fails, the
 subject suffers 2 points of Constitution damage.
 
-| Type of Special Quality | Fort Save DC | Number of Successes |
-|---|---|---|
-| +1 to one ability score | 15 | 10 |
-| Extraordinary ability (Ex) | 15 | 15 |
-| Supernatural ability (Su) | 20 | 25 |
-| Spell-like ability (Sp) | 20 | 50 |
+| Type of Special Quality    | Fort Save DC | Number of Successes |
+| -------------------------- | ------------ | ------------------- |
+| +1 to one ability score    | 15           | 10                  |
+| Extraordinary ability (Ex) | 15           | 15                  |
+| Supernatural ability (Su)  | 20           | 25                  |
+| Spell-like ability (Sp)    | 20           | 50                  |
 
 During therapy, the ability remains latent, so the patient receives no
 benefits from the intended manipulation. Immediately upon completing the
@@ -40,7 +40,7 @@ in many places in fiction.) A short-term treatment automatically takes
 effect in 1d4 minutes and lasts for 1d3 hours. At the end of that time,
 the character reverts to his normal state, is fatigued, and suffers 4
 points of Constitution damage. A successful Fortitude saving throw (DC
-15) reduces this to only 2 points of Constitution damage.
+15\) reduces this to only 2 points of Constitution damage.
 
 The main idea to remember is that according to our best understanding of
 genetics, each gene tends to affect only a single trait (or a small set

@@ -71,18 +71,18 @@ The Acolyte’s class skills are as follows.
 
 **Table: The Acolyte**
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +2 | +0 | +2 | Divine skills, divine spells | +1 | +2 |
-| 2nd | +1 | +3 | +0 | +3 | Turn or rebuke undead, divine spells | +1 | +2 |
-| 3rd | +2 | +3 | +1 | +3 | Bonus feat, divine spells | +2 | +2 |
-| 4th | +3 | +4 | +1 | +4 | Spontaneous cast, divine spells | +2 | +3 |
-| 5th | +3 | +4 | +1 | +4 | Combat casting, divine spells | +3 | +3 |
-| 6th | +4 | +5 | +2 | +5 | Bonus feat, divine spells | +3 | +3 |
-| 7th | +5 | +5 | +2 | +5 | Turn or rebuke magical beast, divine spells | +4 | +4 |
-| 8th | +6 | +6 | +2 | +6 | Turn or rebuke outsider, divine spells | +4 | +4 |
-| 9th | +6 | +6 | +3 | +6 | Bonus feat, divine spells | +5 | +4 |
-| 10th | +7 | +7 | +3 | +7 | Maximize spell, divine spells | +5 | +5 |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +2        | +0       | +2        | Divine skills, divine spells                | +1            | +2               |
+| 2nd         | +1                | +3        | +0       | +3        | Turn or rebuke undead, divine spells        | +1            | +2               |
+| 3rd         | +2                | +3        | +1       | +3        | Bonus feat, divine spells                   | +2            | +2               |
+| 4th         | +3                | +4        | +1       | +4        | Spontaneous cast, divine spells             | +2            | +3               |
+| 5th         | +3                | +4        | +1       | +4        | Combat casting, divine spells               | +3            | +3               |
+| 6th         | +4                | +5        | +2       | +5        | Bonus feat, divine spells                   | +3            | +3               |
+| 7th         | +5                | +5        | +2       | +5        | Turn or rebuke magical beast, divine spells | +4            | +4               |
+| 8th         | +6                | +6        | +2       | +6        | Turn or rebuke outsider, divine spells      | +4            | +4               |
+| 9th         | +6                | +6        | +3       | +6        | Bonus feat, divine spells                   | +5            | +4               |
+| 10th        | +7                | +7        | +3       | +7        | Maximize spell, divine spells               | +5            | +5               |
 
 ## Class Features
 
@@ -136,16 +136,16 @@ description.
 
 **Time:** Unless otherwise indicated, Spellcraft is a move action.
 
-| DC | Task |
-|---|---|
-| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again. |
+| DC               | Task                                                                                                                                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.                                                                                       |
 | 15 + spell level | When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) |
-| 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again. |
-| 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again. |
-| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day. |
-| 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction. |
-| 25 | Identify a potion. This takes 1 minute. |
-| 30 or higher | Understand a strange or unique magical effect. You can’t try again. |
+| 20 + spell level | Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.                                                               |
+| 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.                                                              |
+| 20 + spell level | Decipher a written spell (such as a scroll) without using read magic. One try per day.                                                                                                                   |
+| 25 + spell level | After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.                                                                                |
+| 25               | Identify a potion. This takes 1 minute.                                                                                                                                                                  |
+| 30 or higher     | Understand a strange or unique magical effect. You can’t try again.                                                                                                                                      |
 
 ### Divine Spells
 
@@ -159,28 +159,30 @@ receives bonus spells based on her Wisdom score. Determine the Acolyte’s
 total number of spells per day by consulting the two tables below.
 
 Spells per Day by Spell Level:
-| Acolyte Level | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| 1st | 3 | 2 | — | — | — | — |
-| 2nd | 4 | 3 | — | — | — | — |
-| 3rd | 4 | 3 | 2 | — | — | — |
-| 4th | 5 | 4 | 3 | — | — | — |
-| 5th | 5 | 4 | 3 | 2 | — | — |
-| 6th | 5 | 4 | 4 | 3 | — | — |
-| 7th | 6 | 5 | 4 | 3 | 2 | — |
-| 8th | 6 | 5 | 4 | 4 | 3 | — |
-| 9th | 6 | 5 | 5 | 4 | 3 | 2 |
-| 10th | 6 | 5 | 5 | 4 | 4 | 3 |
+
+| Acolyte Level | 0   | 1   | 2   | 3   | 4   | 5   |
+| ------------- | --- | --- | --- | --- | --- | --- |
+| 1st           | 3   | 2   | —   | —   | —   | —   |
+| 2nd           | 4   | 3   | —   | —   | —   | —   |
+| 3rd           | 4   | 3   | 2   | —   | —   | —   |
+| 4th           | 5   | 4   | 3   | —   | —   | —   |
+| 5th           | 5   | 4   | 3   | 2   | —   | —   |
+| 6th           | 5   | 4   | 4   | 3   | —   | —   |
+| 7th           | 6   | 5   | 4   | 3   | 2   | —   |
+| 8th           | 6   | 5   | 4   | 4   | 3   | —   |
+| 9th           | 6   | 5   | 5   | 4   | 3   | 2   |
+| 10th          | 6   | 5   | 5   | 4   | 4   | 3   |
 
 Bonus Spells by Spell Level:
-| Wis Score | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| 12–13 | — | 1 | — | — | — | — |
-| 14–15 | — | 1 | 1 | — | — | — |
-| 16–17 | — | 1 | 1 | 1 | — | — |
-| 18–19 | — | 1 | 1 | 1 | 1 | — |
-| 20–21 | — | 2 | 1 | 1 | 1 | 1 |
-| 22–23 | — | 2 | 2 | 1 | 1 | 1 |
+
+| Wis Score | 0   | 1   | 2   | 3   | 4   | 5   |
+| --------- | --- | --- | --- | --- | --- | --- |
+| 12–13     | —   | 1   | —   | —   | —   | —   |
+| 14–15     | —   | 1   | 1   | —   | —   | —   |
+| 16–17     | —   | 1   | 1   | 1   | —   | —   |
+| 18–19     | —   | 1   | 1   | 1   | 1   | —   |
+| 20–21     | —   | 2   | 1   | 1   | 1   | 1   |
+| 22–23     | —   | 2   | 2   | 1   | 1   | 1   |
 
 The Acolyte meditates or prays for her spells, receiving them through
 her own strength of faith or as divine inspiration. The Acolyte must
@@ -233,16 +235,16 @@ turning attempt, you can’t turn any creature whose Hit Dice exceeds the
 result of your turning check.
 
 | Turning Check Result | Most Powerful Creature Affected (Maximum Hit Dice) |
-|---|---|
-| 0 or lower | Acolyte level –4 |
-| 1–3 | Acolyte level –3 |
-| 4–6 | Acolyte level –2 |
-| 7–9 | Acolyte level –1 |
-| 10–12 | Acolyte level |
-| 13–15 | Acolyte level +1 |
-| 16–18 | Acolyte level +2 |
-| 19–21 | Acolyte level +3 |
-| 22 or higher | Acolyte level +4 |
+| -------------------- | -------------------------------------------------- |
+| 0 or lower           | Acolyte level –4                                   |
+| 1–3                  | Acolyte level –3                                   |
+| 4–6                  | Acolyte level –2                                   |
+| 7–9                  | Acolyte level –1                                   |
+| 10–12                | Acolyte level                                      |
+| 13–15                | Acolyte level +1                                   |
+| 16–18                | Acolyte level +2                                   |
+| 19–21                | Acolyte level +3                                   |
+| 22 or higher         | Acolyte level +4                                   |
 
 **Turning Damage:** If your turning check result is high enough to let
 you turn at least some of the undead (or other appropriate) creatures

@@ -1,10 +1,10 @@
 # Listen
 
-| Stat | Value |
-|---|---|
-| Key Ability | Wis |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Wis   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -23,24 +23,24 @@ the character failed the check.
 A successful Listen check when there isn’t anything to hear results in
 the character hearing nothing.
 
-| DC | Example Sound |
-|---|---|
-| –20 | Gunfire |
-| –10 | A melee battle |
-| 0 | People talking |
-| 5 | A person in medium armor walking at a slow pace, trying not to make noise |
-| 10 | An unarmored person walking at a slow pace, trying not to make any noise |
-| 15 | A 1st-level Fast hero sneaking up on someone ¹ |
-| 20 | A tiger stalking prey ¹ |
-| 30 | A bird flying through the air |
-| +5 | Through a door |
-| +15 | Through a solid wall |
-¹ This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.
+| DC                                                                                                                          | Example Sound                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| –20                                                                                                                         | Gunfire                                                                   |
+| –10                                                                                                                         | A melee battle                                                            |
+| 0                                                                                                                           | People talking                                                            |
+| 5                                                                                                                           | A person in medium armor walking at a slow pace, trying not to make noise |
+| 10                                                                                                                          | An unarmored person walking at a slow pace, trying not to make any noise  |
+| 15                                                                                                                          | A 1st-level Fast hero sneaking up on someone ¹                            |
+| 20                                                                                                                          | A tiger stalking prey ¹                                                   |
+| 30                                                                                                                          | A bird flying through the air                                             |
+| +5                                                                                                                          | Through a door                                                            |
+| +15                                                                                                                         | Through a solid wall                                                      |
+| ¹ This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature. |                                                                           |
 
-| Condition | Check Penalty |
-|---|---|
-| Per 10 feet of distance | –1 |
-| Listener distracted | –5 |
+| Condition               | Check Penalty |
+| ----------------------- | ------------- |
+| Per 10 feet of distance | –1            |
+| Listener distracted     | –5            |
 
 ## Try Again?
 

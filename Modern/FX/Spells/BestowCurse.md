@@ -1,16 +1,16 @@
 # Bestow Curse
 
-| Stat | Value |
-|---|---|
-| School | Necromancy |
-| Level | Acolyte 3, Mage 4 |
-| Components | V, S |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | Permanent |
-| Saving Throw | Will negates |
-| Spell Resistance | Yes |
+| Stat             | Value             |
+| ---------------- | ----------------- |
+| School           | Necromancy        |
+| Level            | Acolyte 3, Mage 4 |
+| Components       | V, S              |
+| Casting Time     | Attack action     |
+| Range            | Touch             |
+| Target           | Creature touched  |
+| Duration         | Permanent         |
+| Saving Throw     | Will negates      |
+| Spell Resistance | Yes               |
 
 The caster places a curse on the creature touched. The caster chooses
 one of the three following effects, depending on the version selected:

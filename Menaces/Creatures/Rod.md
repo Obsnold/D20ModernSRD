@@ -30,39 +30,39 @@ saves to negate the effects of massive damage.
 
 ## Rod
 
-| Stat | Value |
-|---|---|
-| CR | 1/4 |
-| Size | Diminutive |
-| Type | vermin |
-| HD | 1/8 d8 |
-| hp | 1 |
-| Mas | 4 |
-| Init | +4 |
-| Spd | fly 100 ft. (perfect) |
-| Defense | 18 |
-| Touch | 18 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +4 size, +4 Dex |
-| BAB | +0 |
-| Grap | –17 |
-| Atk | –1 melee (1d2–5, bite) |
-| Full Atk | –1 melee (1d2–5, bite) |
-| FS | 1 ft. by 1 ft. |
-| Reach | 0 ft. |
-| SQ | ballistic path, darkvision 60 ft., *detect psionics*, invisible to naked eye, vermin |
-| AL | none |
-| Fort | –1 |
-| Ref | +4 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 1 |
-| Dex | 18 |
-| Con | 4 |
-| Int | — |
-| Wis | 11 |
-| Cha | 2 |
+| Stat              | Value                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| CR                | 1/4                                                                                  |
+| Size              | Diminutive                                                                           |
+| Type              | vermin                                                                               |
+| HD                | 1/8 d8                                                                               |
+| hp                | 1                                                                                    |
+| Mas               | 4                                                                                    |
+| Init              | +4                                                                                   |
+| Spd               | fly 100 ft. (perfect)                                                                |
+| Defense           | 18                                                                                   |
+| Touch             | 18                                                                                   |
+| Flat-Footed       | 14                                                                                   |
+| Defense Breakdown | +4 size, +4 Dex                                                                      |
+| BAB               | +0                                                                                   |
+| Grap              | –17                                                                                  |
+| Atk               | –1 melee (1d2–5, bite)                                                               |
+| Full Atk          | –1 melee (1d2–5, bite)                                                               |
+| FS                | 1 ft. by 1 ft.                                                                       |
+| Reach             | 0 ft.                                                                                |
+| SQ                | ballistic path, darkvision 60 ft., *detect psionics*, invisible to naked eye, vermin |
+| AL                | none                                                                                 |
+| Fort              | –1                                                                                   |
+| Ref               | +4                                                                                   |
+| Will              | +0                                                                                   |
+| AP                | 0                                                                                    |
+| Rep               | +0                                                                                   |
+| Str               | 1                                                                                    |
+| Dex               | 18                                                                                   |
+| Con               | 4                                                                                    |
+| Int               | —                                                                                    |
+| Wis               | 11                                                                                   |
+| Cha               | 2                                                                                    |
 
 **Skills:** Listen +4, Move Silently +8, Spot +4.
 

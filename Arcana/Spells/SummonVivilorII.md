@@ -1,11 +1,11 @@
 # Summon Vivilor II
 
-| Stat | Value |
-|---|---|
-| School | Conjuration |
-| Subschool | Summoning |
-| Level | Arcane 2, Divine 2 |
-| Effect | One or more summoned creatures, no two of which can be more than 30 ft. apart |
+| Stat      | Value                                                                         |
+| --------- | ----------------------------------------------------------------------------- |
+| School    | Conjuration                                                                   |
+| Subschool | Summoning                                                                     |
+| Level     | Arcane 2, Divine 2                                                            |
+| Effect    | One or more summoned creatures, no two of which can be more than 30 ft. apart |
 
 As *summon vivilor I*, except you can summon one 2nd-level vivilor or
 1d3 1st-level vivilors. If you create more than one vivilor, you can

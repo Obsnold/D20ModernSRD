@@ -45,39 +45,39 @@ double damage from attacks that deal sonic or concussion damage.
 
 ## Crawfordsville Monster
 
-| Stat | Value |
-|---|---|
-| CR | 9 |
-| Size | Huge |
-| Type | ooze |
-| HD | 8d10+52 |
-| hp | 96 |
-| Mas | — |
-| Init | –2 |
-| Spd | 5 ft., fly 30 ft. (average) |
-| Defense | 11 |
-| Touch | 6 |
-| Flat-Footed | 11 |
-| Defense Breakdown | –2 size, –2 Dex, +5 natural |
-| BAB | +6 |
-| Grap | +23 |
-| Atk | +13 melee (2d6+9 plus 1d6 acid, slam) |
-| Full Atk | +13 melee (2d6+9 plus 1d6 acid, 2 slams) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | acidic enzymes, blindsight 60 ft., engulf, immune to piercing weapons, natural invisibility, ooze, sonic/concussion vulnerability |
-| AL | none |
-| Fort | +6 |
-| Ref | +0 |
-| Will | –3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 28 |
-| Dex | 6 |
-| Con | 18 |
-| Int | — |
-| Wis | 1 |
-| Cha | 1 |
+| Stat              | Value                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 9                                                                                                                                 |
+| Size              | Huge                                                                                                                              |
+| Type              | ooze                                                                                                                              |
+| HD                | 8d10+52                                                                                                                           |
+| hp                | 96                                                                                                                                |
+| Mas               | —                                                                                                                                 |
+| Init              | –2                                                                                                                                |
+| Spd               | 5 ft., fly 30 ft. (average)                                                                                                       |
+| Defense           | 11                                                                                                                                |
+| Touch             | 6                                                                                                                                 |
+| Flat-Footed       | 11                                                                                                                                |
+| Defense Breakdown | –2 size, –2 Dex, +5 natural                                                                                                       |
+| BAB               | +6                                                                                                                                |
+| Grap              | +23                                                                                                                               |
+| Atk               | +13 melee (2d6+9 plus 1d6 acid, slam)                                                                                             |
+| Full Atk          | +13 melee (2d6+9 plus 1d6 acid, 2 slams)                                                                                          |
+| FS                | 15 ft. by 15 ft.                                                                                                                  |
+| Reach             | 10 ft.                                                                                                                            |
+| SQ                | acidic enzymes, blindsight 60 ft., engulf, immune to piercing weapons, natural invisibility, ooze, sonic/concussion vulnerability |
+| AL                | none                                                                                                                              |
+| Fort              | +6                                                                                                                                |
+| Ref               | +0                                                                                                                                |
+| Will              | –3                                                                                                                                |
+| AP                | 0                                                                                                                                 |
+| Rep               | +0                                                                                                                                |
+| Str               | 28                                                                                                                                |
+| Dex               | 6                                                                                                                                 |
+| Con               | 18                                                                                                                                |
+| Int               | —                                                                                                                                 |
+| Wis               | 1                                                                                                                                 |
+| Cha               | 1                                                                                                                                 |
 
 **Skills**: None.
 
@@ -87,39 +87,39 @@ double damage from attacks that deal sonic or concussion damage.
 
 ## Advanced Crawfordsville Monster
 
-| Stat | Value |
-|---|---|
-| CR | 12 |
-| Size | Gargantuan |
-| Type | ooze |
-| HD | 19d10+135 |
-| hp | 239 |
-| Mas | — |
-| Init | –2 |
-| Spd | 5 ft., fly 30 ft. (average) |
-| Defense | 13 |
-| Touch | 7 |
-| Flat-Footed | 13 |
-| Defense Breakdown | –4 size, –2 Dex, +9 natural |
-| BAB | +14 |
-| Grap | +39 |
-| Atk | +23 melee (2d8+13 plus 1d6 acid, slam) |
-| Full Atk | +23/+18/+13 melee (2d8+13 plus 1d6 acid, slam) |
-| FS | 20 ft. by 20 ft. |
-| Reach | 15 ft. |
-| SQ | acidic enzymes, blindsight 60 ft., engulf, natural invisibility, ooze, piercing immunity, sonic/concussion vulnerability |
-| AL | none |
-| Fort | +12 |
-| Ref | +4 |
-| Will | +1 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 36 |
-| Dex | 6 |
-| Con | 22 |
-| Int | — |
-| Wis | 1 |
-| Cha | 1 |
+| Stat              | Value                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 12                                                                                                                       |
+| Size              | Gargantuan                                                                                                               |
+| Type              | ooze                                                                                                                     |
+| HD                | 19d10+135                                                                                                                |
+| hp                | 239                                                                                                                      |
+| Mas               | —                                                                                                                        |
+| Init              | –2                                                                                                                       |
+| Spd               | 5 ft., fly 30 ft. (average)                                                                                              |
+| Defense           | 13                                                                                                                       |
+| Touch             | 7                                                                                                                        |
+| Flat-Footed       | 13                                                                                                                       |
+| Defense Breakdown | –4 size, –2 Dex, +9 natural                                                                                              |
+| BAB               | +14                                                                                                                      |
+| Grap              | +39                                                                                                                      |
+| Atk               | +23 melee (2d8+13 plus 1d6 acid, slam)                                                                                   |
+| Full Atk          | +23/+18/+13 melee (2d8+13 plus 1d6 acid, slam)                                                                           |
+| FS                | 20 ft. by 20 ft.                                                                                                         |
+| Reach             | 15 ft.                                                                                                                   |
+| SQ                | acidic enzymes, blindsight 60 ft., engulf, natural invisibility, ooze, piercing immunity, sonic/concussion vulnerability |
+| AL                | none                                                                                                                     |
+| Fort              | +12                                                                                                                      |
+| Ref               | +4                                                                                                                       |
+| Will              | +1                                                                                                                       |
+| AP                | 0                                                                                                                        |
+| Rep               | +0                                                                                                                       |
+| Str               | 36                                                                                                                       |
+| Dex               | 6                                                                                                                        |
+| Con               | 22                                                                                                                       |
+| Int               | —                                                                                                                        |
+| Wis               | 1                                                                                                                        |
+| Cha               | 1                                                                                                                        |
 
 **Skills**: None.
 

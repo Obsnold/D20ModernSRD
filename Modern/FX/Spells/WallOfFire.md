@@ -1,17 +1,17 @@
 # Wall of Fire
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Fire |
-| Level | Mage 4 |
-| Components | V, S, M |
-| Casting Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Effect | Opaque sheet of flame up to 20 ft. long/caster level or a ring of fire with a radius of up to 5 ft./two caster levels; either form 20 ft. high |
-| Duration | Concentration + 1 round/level |
-| Saving Throw | See text |
-| Spell Resistance | Yes |
+| Stat             | Value                                                                                                                                          |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| School           | Evocation                                                                                                                                      |
+| Descriptors      | Fire                                                                                                                                           |
+| Level            | Mage 4                                                                                                                                         |
+| Components       | V, S, M                                                                                                                                        |
+| Casting Time     | Attack action                                                                                                                                  |
+| Range            | Medium (100 ft. + 10 ft./level)                                                                                                                |
+| Effect           | Opaque sheet of flame up to 20 ft. long/caster level or a ring of fire with a radius of up to 5 ft./two caster levels; either form 20 ft. high |
+| Duration         | Concentration + 1 round/level                                                                                                                  |
+| Saving Throw     | See text                                                                                                                                       |
+| Spell Resistance | Yes                                                                                                                                            |
 
 An immobile curtain of fire springs into existence. One side of the
 wall, selected by the caster, sends forth waves of heat, dealing 2d4

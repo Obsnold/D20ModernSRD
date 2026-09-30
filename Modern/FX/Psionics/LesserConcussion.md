@@ -1,17 +1,17 @@
 # Lesser Concussion
 
-| Stat | Value |
-|---|---|
-| Key Ability | Constitution |
-| Level | Battle Mind 1 |
-| Display | Audible |
-| Manifestation Time | Attack action |
-| Range | Medium (100 ft. + 10 ft./level) |
-| Target | One individual |
-| Duration | Instantaneous |
-| Saving Throw | Fortitude half |
-| Power Resistance | Yes |
-| Power Point Cost | 1 |
+| Stat               | Value                           |
+| ------------------ | ------------------------------- |
+| Key Ability        | Constitution                    |
+| Level              | Battle Mind 1                   |
+| Display            | Audible                         |
+| Manifestation Time | Attack action                   |
+| Range              | Medium (100 ft. + 10 ft./level) |
+| Target             | One individual                  |
+| Duration           | Instantaneous                   |
+| Saving Throw       | Fortitude half                  |
+| Power Resistance   | Yes                             |
+| Power Point Cost   | 1                               |
 
 The target is pummeled with telekinetic force for 1d6 points of damage.
 The manifester may choose to have the power deal only nonlethal damage

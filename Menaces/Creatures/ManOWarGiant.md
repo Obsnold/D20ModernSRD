@@ -42,39 +42,39 @@ with the water.
 
 ## Giant Man-’o-War
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Large |
-| Type | animal |
-| HD | 5d8+10 |
-| hp | 32 |
-| Mas | 15 |
-| Init | +3 |
-| Spd | swim 60 ft. |
-| Defense | 17 |
-| Touch | 12 |
-| Flat-Footed | 14 |
-| Defense Breakdown | –1 size, +3 Dex, +5 natural |
-| BAB | +3 |
-| Grap | +9 |
-| Atk | +4 melee (attach, strand) or +4 melee (1d4+2, bite) |
-| Full Atk | +4 melee (attach, 8 strands) and –1 melee (1d4+1, bite) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 5 ft. (100 ft. with strand) |
-| SQ | attach, damage reduction 5/piercing, fire vulnerability, paralysis, strands, wavesense |
-| AL | none |
-| Fort | +6 |
-| Ref | +7 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 16 |
-| Con | 15 |
-| Int | 2 |
-| Wis | 12 |
-| Cha | 4 |
+| Stat              | Value                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| CR                | 7                                                                                      |
+| Size              | Large                                                                                  |
+| Type              | animal                                                                                 |
+| HD                | 5d8+10                                                                                 |
+| hp                | 32                                                                                     |
+| Mas               | 15                                                                                     |
+| Init              | +3                                                                                     |
+| Spd               | swim 60 ft.                                                                            |
+| Defense           | 17                                                                                     |
+| Touch             | 12                                                                                     |
+| Flat-Footed       | 14                                                                                     |
+| Defense Breakdown | –1 size, +3 Dex, +5 natural                                                            |
+| BAB               | +3                                                                                     |
+| Grap              | +9                                                                                     |
+| Atk               | +4 melee (attach, strand) or +4 melee (1d4+2, bite)                                    |
+| Full Atk          | +4 melee (attach, 8 strands) and –1 melee (1d4+1, bite)                                |
+| FS                | 10 ft. by 10 ft.                                                                       |
+| Reach             | 5 ft. (100 ft. with strand)                                                            |
+| SQ                | attach, damage reduction 5/piercing, fire vulnerability, paralysis, strands, wavesense |
+| AL                | none                                                                                   |
+| Fort              | +6                                                                                     |
+| Ref               | +7                                                                                     |
+| Will              | +2                                                                                     |
+| AP                | 0                                                                                      |
+| Rep               | +0                                                                                     |
+| Str               | 14                                                                                     |
+| Dex               | 16                                                                                     |
+| Con               | 15                                                                                     |
+| Int               | 2                                                                                      |
+| Wis               | 12                                                                                     |
+| Cha               | 4                                                                                      |
 
 **Skills:** Hide +9, Move Silently +9.
 

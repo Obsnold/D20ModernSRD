@@ -37,9 +37,9 @@ and pays the power point cost.
 A power’s cost is determined by its level, as shown below. Every power’s
 cost is also noted in its description for easy reference.
 
-| Power Level | 0 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|---|
-| Power point cost | 0/1¹ | 1 | 3 | 5 | 7 | 9 |
+| Power Level      | 0    | 1   | 2   | 3   | 4   | 5   |
+| ---------------- | ---- | --- | --- | --- | --- | --- |
+| Power point cost | 0/1¹ | 1   | 3   | 5   | 7   | 9   |
 
 ¹ A psionic character can manifest any 0-level power he or she knows a
 number of times per day equal to 3 + his or her psionic level;

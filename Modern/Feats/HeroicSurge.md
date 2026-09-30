@@ -9,9 +9,9 @@ depending on his or her character level (as shown below), but never more
 than once per round.
 
 | Character Level | Times per Day |
-|---|---|
-| 1st–4th | 1 |
-| 5th–8th | 2 |
-| 9th–12th | 3 |
-| 13th–16th | 4 |
-| 17th–20th | 5 |
+| --------------- | ------------- |
+| 1st–4th         | 1             |
+| 5th–8th         | 2             |
+| 9th–12th        | 3             |
+| 13th–16th       | 4             |
+| 17th–20th       | 5             |

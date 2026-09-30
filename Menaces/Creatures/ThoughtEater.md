@@ -40,39 +40,39 @@ modifier + power level.
 
 ## Thought Eater
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size | Small |
-| Type | aberration |
-| HD | 3d8+3 |
-| hp | 16 |
-| Mas | 11 |
-| Init | +8 |
-| Spd | 40 ft. |
-| Defense | 17 |
-| Touch | 15 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +1 size, +4 Dex, +2 natural |
-| BAB | +2 |
-| Grap | –2 |
-| Atk | +3 melee touch (6 power points or 1 Int, touch) |
-| Full Atk | +3 melee touch (6 power points or 1 Int, touch) |
-| SQ | dimensional jaunt, eat thoughts, *psionics* |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| AL | none |
-| Fort | +1 |
-| Ref | +5 |
-| Will | +4 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 11 |
-| Dex | 18 |
-| Con | 11 |
-| Int | 7 |
-| Wis | 12 |
-| Cha | 10 |
+| Stat              | Value                                           |
+| ----------------- | ----------------------------------------------- |
+| CR                | 2                                               |
+| Size              | Small                                           |
+| Type              | aberration                                      |
+| HD                | 3d8+3                                           |
+| hp                | 16                                              |
+| Mas               | 11                                              |
+| Init              | +8                                              |
+| Spd               | 40 ft.                                          |
+| Defense           | 17                                              |
+| Touch             | 15                                              |
+| Flat-Footed       | 13                                              |
+| Defense Breakdown | +1 size, +4 Dex, +2 natural                     |
+| BAB               | +2                                              |
+| Grap              | –2                                              |
+| Atk               | +3 melee touch (6 power points or 1 Int, touch) |
+| Full Atk          | +3 melee touch (6 power points or 1 Int, touch) |
+| SQ                | dimensional jaunt, eat thoughts, *psionics*     |
+| FS                | 5 ft. by 5 ft.                                  |
+| Reach             | 5 ft.                                           |
+| AL                | none                                            |
+| Fort              | +1                                              |
+| Ref               | +5                                              |
+| Will              | +4                                              |
+| AP                | 0                                               |
+| Rep               | +0                                              |
+| Str               | 11                                              |
+| Dex               | 18                                              |
+| Con               | 11                                              |
+| Int               | 7                                               |
+| Wis               | 12                                              |
+| Cha               | 10                                              |
 
 **Skills:** Hide +14, Listen +7, Spot +7.
 

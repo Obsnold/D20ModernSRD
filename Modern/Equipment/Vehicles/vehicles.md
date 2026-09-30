@@ -50,12 +50,12 @@ vehicle on the black market.
 
 **Table: Vehicle Weapons**
 
-| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Cannons (require the Exotic Firearms Proficiency [cannons] feat) | | | | | | | | | | |
-| BMP-2 30mm cannon | 4d12 | 20 | Ballistic | 300 ft. | A | Linked | Huge | ¹ | ¹ | ¹ |
-| M1A2 Abrams tank cannon | 10d12 | 20 | Ballistic | 400 ft. | Single | 1 | Huge | ¹ |¹ | ¹ |
-| M2A2 Bradley 25mm cannon | 4d12 | 20 | Ballistic | 350 ft. | A | Linked | Huge | ¹ | ¹ | ¹ |
+| Weapon                                                           | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
+| ---------------------------------------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------ | ----------- | ----------- |
+| Cannons (require the Exotic Firearms Proficiency [cannons] feat) |        |          |             |                 |              |          |      |        |             |             |
+| BMP-2 30mm cannon                                                | 4d12   | 20       | Ballistic   | 300 ft.         | A            | Linked   | Huge | ¹      | ¹           | ¹           |
+| M1A2 Abrams tank cannon                                          | 10d12  | 20       | Ballistic   | 400 ft.         | Single       | 1        | Huge | ¹      | ¹           | ¹           |
+| M2A2 Bradley 25mm cannon                                         | 4d12   | 20       | Ballistic   | 350 ft.         | A            | Linked   | Huge | ¹      | ¹           | ¹           |
 
 ¹ Weight, purchase DC, and restriction rating do not apply. These weapons are part of the vehicles on which they are mounted.
 

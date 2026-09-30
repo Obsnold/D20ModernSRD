@@ -17,8 +17,8 @@ starship and the hazard occupy the same square.
 **Table: Avoid Hazard DCs**
 
 | Hazard Size | Pilot Check DC |
-|---|---|
-| Colossal | 5 |
-| Gargantuan | 20 |
-| Huge | 15 |
-| Large | 10 |
+| ----------- | -------------- |
+| Colossal    | 5              |
+| Gargantuan  | 20             |
+| Huge        | 15             |
+| Large       | 10             |

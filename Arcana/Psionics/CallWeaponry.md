@@ -1,18 +1,18 @@
 # Call Weaponry
 
-| Stat | Value |
-|---|---|
-| Key Ability | Dexterity |
-| Descriptors | Teleportation |
-| Level | Telepath 1/Psionic Agent 1 |
-| Display | Audible, Material |
-| Manifestation Time | Attack action |
-| Range | Touch |
-| Effect | 1 unattended weapon (see text) |
-| Duration | 1 hour/level (see text) (D) |
-| Saving Throw | None |
-| Power Resistance | No |
-| Power Point Cost | 1 (see text) |
+| Stat               | Value                          |
+| ------------------ | ------------------------------ |
+| Key Ability        | Dexterity                      |
+| Descriptors        | Teleportation                  |
+| Level              | Telepath 1/Psionic Agent 1     |
+| Display            | Audible, Material              |
+| Manifestation Time | Attack action                  |
+| Range              | Touch                          |
+| Effect             | 1 unattended weapon (see text) |
+| Duration           | 1 hour/level (see text) (D)    |
+| Saving Throw       | None                           |
+| Power Resistance   | No                             |
+| Power Point Cost   | 1 (see text)                   |
 
 You call a weapon “from thin air” into your waiting hand (actually, it
 is a real weapon hailing from some other random location) as a free
@@ -28,12 +28,12 @@ returns to wherever it originally came from.
 As your level increases, you can summon better weapons, although the
 power point cost is also greater.
 
-| Level | Weapons | Example | Power Points |
-|---|---|---|---|
-| 1–3 | Simple melee | Knife | 1 |
-| 4–6 | Handgun | Colt Python | 3 |
-| 7–9 | SMG, rifle, shotgun | Winchester 94 | 7 |
-| 10 | Exotic or Archaic melee | Katana | 11 |
+| Level | Weapons                 | Example       | Power Points |
+| ----- | ----------------------- | ------------- | ------------ |
+| 1–3   | Simple melee            | Knife         | 1            |
+| 4–6   | Handgun                 | Colt Python   | 3            |
+| 7–9   | SMG, rifle, shotgun     | Winchester 94 | 7            |
+| 10    | Exotic or Archaic melee | Katana        | 11           |
 
 Weapons gained by *call weaponry* are distinctive due to the low hum
 they emit.

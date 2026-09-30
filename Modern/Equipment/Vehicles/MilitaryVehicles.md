@@ -6,13 +6,13 @@ Bell Model 212 helicopter, are commonly seen in military service.
 
 **Table: Vehicles: Military Vehicles**
 
-| Name | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| BMP-2 (tracked APC) | 3 | 7 | 250 lb. | –2 | –2 | 70 (7) | 8 | 10 | 52 | H | 40 | Mil (+3) |
-| M1A2 Abrams (tracked tank) | 4 | 0 | 425 lb. | –4 | –4 | 80 (8) | 6 | 20 | 64 | G | 47 | Mil (+3) |
-| M2A2 Bradley (tracked APC) | 3 | 7 | 425 lb. | –4 | –4 | 70 (7) | 6 | 15 | 58 | G | 45 | Mil (+3) |
-| M113A1 Gavin (tracked APC) | 2 | 11 | 200 lb. | –2 | –2 | 62 (6) | 8 | 10 | 48 | H | 39 | Mil (+3) |
-| UH-60 Black Hawk (helicopter) | 2 | 14 | 9,000 lb. | –4 | –4 | 325 (32) | 6 | 5 | 46 | G | 47 | Mil (+3) |
+| Name                          | Crew | Pass | Cargo     | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
+| ----------------------------- | ---- | ---- | --------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---- | ----------- | ----------- |
+| BMP-2 (tracked APC)           | 3    | 7    | 250 lb.   | –2   | –2       | 70 (7)    | 8       | 10       | 52         | H    | 40          | Mil (+3)    |
+| M1A2 Abrams (tracked tank)    | 4    | 0    | 425 lb.   | –4   | –4       | 80 (8)    | 6       | 20       | 64         | G    | 47          | Mil (+3)    |
+| M2A2 Bradley (tracked APC)    | 3    | 7    | 425 lb.   | –4   | –4       | 70 (7)    | 6       | 15       | 58         | G    | 45          | Mil (+3)    |
+| M113A1 Gavin (tracked APC)    | 2    | 11   | 200 lb.   | –2   | –2       | 62 (6)    | 8       | 10       | 48         | H    | 39          | Mil (+3)    |
+| UH-60 Black Hawk (helicopter) | 2    | 14   | 9,000 lb. | –4   | –4       | 325 (32)  | 6       | 5        | 46         | G    | 47          | Mil (+3)    |
 
 ## BMP-2
 

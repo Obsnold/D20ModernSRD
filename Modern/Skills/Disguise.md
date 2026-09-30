@@ -1,10 +1,10 @@
 # Disguise
 
-| Stat | Value |
-|---|---|
-| Key Ability | Cha |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Cha   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -23,12 +23,12 @@ their Spot checks.)
 The effectiveness of the character’s disguise depends in part on how
 much the character is attempting to change his or her appearance.
 
-| Disguise | Modifier |
-|---|---|
-| Minor details only | +5 |
-| Appropriate uniform or costume | +2 |
-| Disguised as different sex | –2 |
-| Disguised as different age category | –2 ¹ |
+| Disguise                            | Modifier |
+| ----------------------------------- | -------- |
+| Minor details only                  | +5       |
+| Appropriate uniform or costume      | +2       |
+| Disguised as different sex          | –2       |
+| Disguised as different age category | –2 ¹     |
 
 ¹ Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).
 
@@ -36,12 +36,12 @@ If the character is impersonating a particular individual, those who
 know what that person looks like automatically get to make Spot checks.
 Furthermore, they get a bonus on their Spot checks.
 
-| Familiarity | Bonus |
-|---|---|
-| Recognizes on sight | +4 |
-| Friend or associate | +6 |
-| Close friend | +8 |
-| Intimate | +10 |
+| Familiarity         | Bonus |
+| ------------------- | ----- |
+| Recognizes on sight | +4    |
+| Friend or associate | +6    |
+| Close friend        | +8    |
+| Intimate            | +10   |
 
 Usually, an individual makes a Spot check to detect a disguise
 immediately upon meeting the character and each hour thereafter. If the

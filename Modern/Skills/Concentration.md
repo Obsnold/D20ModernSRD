@@ -1,10 +1,10 @@
 # Concentration
 
-| Stat | Value |
-|---|---|
-| Key Ability | Con |
-| Trained Only | No |
-| Armor Penalty | No |
+| Stat          | Value |
+| ------------- | ----- |
+| Key Ability   | Con   |
+| Trained Only  | No    |
+| Armor Penalty | No    |
 
 ## Check
 
@@ -59,17 +59,17 @@ Making a Concentration check doesn’t require an action; it is
 either a reaction (when attempted in response to a distraction) or part
 of another action (when attempted actively).
 
-| Distraction | DC |
-|---|---|
-| Damaged during the action ¹ | 10 + damage dealt |
-| Taking continuous damage during the action² | 10 + half of continuous damage last dealt |
-| Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse) | 10 |
-| Violent motion (very rough vehicle ride, small boat in rapids, on deck of storm-tossed ship, galloping horse) | 15 |
-| Extraordinarily violent motion (earthquake) | 20 |
-| Entangled in net or snare | 15 |
-| Grappling or pinned | 20 |
-| Weather is a high wind carrying blinding rain or sleet | 5 |
-| Weather is wind-driven hail, dust, or debris | 10 |
+| Distraction                                                                                                         | DC                                        |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Damaged during the action ¹                                                                                         | 10 + damage dealt                         |
+| Taking continuous damage during the action²                                                                         | 10 + half of continuous damage last dealt |
+| Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse) | 10                                        |
+| Violent motion (very rough vehicle ride, small boat in rapids, on deck of storm-tossed ship, galloping horse)       | 15                                        |
+| Extraordinarily violent motion (earthquake)                                                                         | 20                                        |
+| Entangled in net or snare                                                                                           | 15                                        |
+| Grappling or pinned                                                                                                 | 20                                        |
+| Weather is a high wind carrying blinding rain or sleet                                                              | 5                                         |
+| Weather is wind-driven hail, dust, or debris                                                                        | 10                                        |
 
 ¹ Such as an activity that requires more than a single full-round action. Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).
 ² Such as from catching on fire.

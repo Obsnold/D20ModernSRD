@@ -29,38 +29,38 @@ round so long as it has at least 1 hit point remaining.
 
 ## Breathsnatcher
 
-| Stat | Value |
-|---|---|
-| CR | 6 |
-| Size/Type | Medium monstrous humanoid |
-| HD | 9d8 |
-| hp | 40 |
-| Mas | 10 |
-| Init | +3 |
-| Spd | 30 ft. |
-| Defense | 17 |
-| Touch | 13 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +3 Dex, +3 natural, +1 equipment |
-| BAB | +9 |
-| Grap | +11 |
-| Atk | +11 melee (1d4+2, knife) or +12 ranged (2d6, MAC Ingram M10) or +8 ranged (4d6, MAC Ingram M10 burst) |
-| Full Atk | +11/+6 melee (1d4+2, knife) or +12/+7 ranged (2d6, MAC Ingram M10) or +8/+3 ranged (4d6, MAC Ingram M10 burst) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | clawing smoke, snatch breath, fast healing 5 |
-| AL | evil |
-| Fort | +3 |
-| Ref | +9 |
-| Will | +9 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 17 |
-| Con | 10 |
-| Int | 13 |
-| Wis | 16 |
-| Cha | 9 |
+| Stat              | Value                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| CR                | 6                                                                                                              |
+| Size/Type         | Medium monstrous humanoid                                                                                      |
+| HD                | 9d8                                                                                                            |
+| hp                | 40                                                                                                             |
+| Mas               | 10                                                                                                             |
+| Init              | +3                                                                                                             |
+| Spd               | 30 ft.                                                                                                         |
+| Defense           | 17                                                                                                             |
+| Touch             | 13                                                                                                             |
+| Flat-Footed       | 14                                                                                                             |
+| Defense Breakdown | +3 Dex, +3 natural, +1 equipment                                                                               |
+| BAB               | +9                                                                                                             |
+| Grap              | +11                                                                                                            |
+| Atk               | +11 melee (1d4+2, knife) or +12 ranged (2d6, MAC Ingram M10) or +8 ranged (4d6, MAC Ingram M10 burst)          |
+| Full Atk          | +11/+6 melee (1d4+2, knife) or +12/+7 ranged (2d6, MAC Ingram M10) or +8/+3 ranged (4d6, MAC Ingram M10 burst) |
+| FS                | 5 ft. by 5 ft.                                                                                                 |
+| Reach             | 5 ft.                                                                                                          |
+| SQ                | clawing smoke, snatch breath, fast healing 5                                                                   |
+| AL                | evil                                                                                                           |
+| Fort              | +3                                                                                                             |
+| Ref               | +9                                                                                                             |
+| Will              | +9                                                                                                             |
+| AP                | 0                                                                                                              |
+| Rep               | +0                                                                                                             |
+| Str               | 14                                                                                                             |
+| Dex               | 17                                                                                                             |
+| Con               | 10                                                                                                             |
+| Int               | 13                                                                                                             |
+| Wis               | 16                                                                                                             |
+| Cha               | 9                                                                                                              |
 
 **Skills:** Hide +14, Listen +14, Move Silently +14, Read/Write English,
 Read/Write Language (any one), Speak English, Speak Language (any one),
@@ -76,38 +76,38 @@ pistol) with suppressor.
 
 ## Breathsnatcher Infiltrator 4
 
-| Stat | Value |
-|---|---|
-| CR | 10 |
-| Size/Type | Medium monstrous humanoid |
-| HD | 9d8 plus 4d8 |
-| hp | 58 |
-| Mas | 10 |
-| Init | +4 |
-| Spd | 30 ft. |
-| Defense | 21 |
-| Touch | 17 |
-| Flat-Footed | 17 |
-| Defense Breakdown | +4 Dex, +3 class, +3 natural, +1 equipment |
-| BAB | +11 |
-| Grap | +13 |
-| Atk | +13 melee (1d4+2/19–20, knife) or +15 ranged (2d6, MAC Ingram M10) or +11 ranged (4d6, MAC Ingram M10 burst) |
-| Full Atk | +13/+8 melee (1d4+2/19–20, knife) or +15/+10 ranged (2d6, MAC Ingram M10) or +11/+6 ranged (4d6, MAC Ingram M10 burst) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | clawing smoke, snatch breath, fast healing 5, sweep, improvised implements, improved evasion |
-| AL | evil |
-| Fort | +4 |
-| Ref | +14 |
-| Will | +10 |
-| AP | 2 |
-| Rep | +2 |
-| Str | 14 |
-| Dex | 18 |
-| Con | 10 |
-| Int | 13 |
-| Wis | 16 |
-| Cha | 9 |
+| Stat              | Value                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| CR                | 10                                                                                                                     |
+| Size/Type         | Medium monstrous humanoid                                                                                              |
+| HD                | 9d8 plus 4d8                                                                                                           |
+| hp                | 58                                                                                                                     |
+| Mas               | 10                                                                                                                     |
+| Init              | +4                                                                                                                     |
+| Spd               | 30 ft.                                                                                                                 |
+| Defense           | 21                                                                                                                     |
+| Touch             | 17                                                                                                                     |
+| Flat-Footed       | 17                                                                                                                     |
+| Defense Breakdown | +4 Dex, +3 class, +3 natural, +1 equipment                                                                             |
+| BAB               | +11                                                                                                                    |
+| Grap              | +13                                                                                                                    |
+| Atk               | +13 melee (1d4+2/19–20, knife) or +15 ranged (2d6, MAC Ingram M10) or +11 ranged (4d6, MAC Ingram M10 burst)           |
+| Full Atk          | +13/+8 melee (1d4+2/19–20, knife) or +15/+10 ranged (2d6, MAC Ingram M10) or +11/+6 ranged (4d6, MAC Ingram M10 burst) |
+| FS                | 5 ft. by 5 ft.                                                                                                         |
+| Reach             | 5 ft.                                                                                                                  |
+| SQ                | clawing smoke, snatch breath, fast healing 5, sweep, improvised implements, improved evasion                           |
+| AL                | evil                                                                                                                   |
+| Fort              | +4                                                                                                                     |
+| Ref               | +14                                                                                                                    |
+| Will              | +10                                                                                                                    |
+| AP                | 2                                                                                                                      |
+| Rep               | +2                                                                                                                     |
+| Str               | 14                                                                                                                     |
+| Dex               | 18                                                                                                                     |
+| Con               | 10                                                                                                                     |
+| Int               | 13                                                                                                                     |
+| Wis               | 16                                                                                                                     |
+| Cha               | 9                                                                                                                      |
 
 **Skills:** Climb +9, Escape Artist +11, Hide +17, Jump +9, Listen +14,
 Move Silently +17, Read/Write English, Read/Write Language (any one),

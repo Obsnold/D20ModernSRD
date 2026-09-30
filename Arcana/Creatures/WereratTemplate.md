@@ -97,38 +97,38 @@ and the bonus feat Weapon Finesse (bite) in rat or hybrid form.
 
 ## Wererat in Humanoid Form (Human Fast Hero 1)
 
-| Stat | Value |
-|---|---|
-| CR | 3 |
-| Size/Type | Medium humanoid |
-| HD | 1d8+2 plus 1d8+2 |
-| hp | 13 |
-| Mas | 15 |
-| Init | +5 |
-| Spd | 30 ft. |
-| Defense | 18 |
-| Touch | 15 |
-| Flat-Footed | 13 |
-| Defense Breakdown | +5 Dex, +3 class |
-| BAB | +0 |
-| Grap | +2 |
-| Atk | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
-| Full Atk | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | alternate form, rat empathy |
-| AL | law, evil, wererats |
-| Fort | +4 |
-| Ref | +8 |
-| Will | +0 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 14 |
-| Dex | 21 |
-| Con | 15 |
-| Int | 8 |
-| Wis | 10 |
-| Cha | 12 |
+| Stat              | Value                                                         |
+| ----------------- | ------------------------------------------------------------- |
+| CR                | 3                                                             |
+| Size/Type         | Medium humanoid                                               |
+| HD                | 1d8+2 plus 1d8+2                                              |
+| hp                | 13                                                            |
+| Mas               | 15                                                            |
+| Init              | +5                                                            |
+| Spd               | 30 ft.                                                        |
+| Defense           | 18                                                            |
+| Touch             | 15                                                            |
+| Flat-Footed       | 13                                                            |
+| Defense Breakdown | +5 Dex, +3 class                                              |
+| BAB               | +0                                                            |
+| Grap              | +2                                                            |
+| Atk               | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
+| Full Atk          | +5 melee (1d4+2/19–20, knife) or +5 ranged (2d6, Colt Python) |
+| FS                | 5 ft. by 5 ft.                                                |
+| Reach             | 5 ft.                                                         |
+| SQ                | alternate form, rat empathy                                   |
+| AL                | law, evil, wererats                                           |
+| Fort              | +4                                                            |
+| Ref               | +8                                                            |
+| Will              | +0                                                            |
+| AP                | 0                                                             |
+| Rep               | +0                                                            |
+| Str               | 14                                                            |
+| Dex               | 21                                                            |
+| Con               | 15                                                            |
+| Int               | 8                                                             |
+| Wis               | 10                                                            |
+| Cha               | 12                                                            |
 
 **Skills:** Balance +9, Climb +11, Escape Artist +9,
 Hide +10, Knowledge (streetwise) +3, Listen +4, Move Silently +8, Search

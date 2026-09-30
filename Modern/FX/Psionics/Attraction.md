@@ -1,18 +1,18 @@
 # Attraction
 
-| Stat | Value |
-|---|---|
-| Key Ability | Charisma |
-| Descriptors | Compulsion, Mind-Affecting |
-| Level | Telepath 1 |
-| Display | Audible |
-| Manifestation Time | Attack action |
-| Range | Close (25 ft. + 5 ft./2 levels) |
-| Target | One living creature |
-| Duration | 1 hour/level |
-| Saving Throw | Will negates |
-| Power Resistance | Yes |
-| Power Point Cost | 1 |
+| Stat               | Value                           |
+| ------------------ | ------------------------------- |
+| Key Ability        | Charisma                        |
+| Descriptors        | Compulsion, Mind-Affecting      |
+| Level              | Telepath 1                      |
+| Display            | Audible                         |
+| Manifestation Time | Attack action                   |
+| Range              | Close (25 ft. + 5 ft./2 levels) |
+| Target             | One living creature             |
+| Duration           | 1 hour/level                    |
+| Saving Throw       | Will negates                    |
+| Power Resistance   | Yes                             |
+| Power Point Cost   | 1                               |
 
 The manifester plants a compelling attraction in the mind of the target.
 The attraction can be toward a particular person, an object, an action,

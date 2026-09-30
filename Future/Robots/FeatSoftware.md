@@ -13,7 +13,7 @@ To write feat software from scratch, a character must possess whatever
 feats the software is designed to emulate. The character obtains the
 necessary software components by making a Wealth check against the
 software’s purchase DC. He must then succeed at a Computer Use check (DC
-30) after investing 12 hours in the software’s creation.
+30\) after investing 12 hours in the software’s creation.
 
 **Feat Prerequisites:** Regardless of the quality of its feat software,
 a robot cannot emulate a feat if it does not meet the feat’s

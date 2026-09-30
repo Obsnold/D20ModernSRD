@@ -1,16 +1,16 @@
 # Undetectable Magical Aura
 
-| Stat | Value |
-|---|---|
-| School | Illusion |
-| Level | Arcane 1 |
-| Components | V, S, F |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Object touched weighing up to 5 lb./level |
-| Duration | 1 day/level (D) |
-| Saving Throw | None (see text) |
-| Spell Resistance | No |
+| Stat             | Value                                     |
+| ---------------- | ----------------------------------------- |
+| School           | Illusion                                  |
+| Level            | Arcane 1                                  |
+| Components       | V, S, F                                   |
+| Casting Time     | Attack action                             |
+| Range            | Touch                                     |
+| Target           | Object touched weighing up to 5 lb./level |
+| Duration         | 1 day/level (D)                           |
+| Saving Throw     | None (see text)                           |
+| Spell Resistance | No                                        |
 
 This glamer allows you to mask a magic item’s aura from detection. It
 fools *detect magical aura* spells such that the item appears

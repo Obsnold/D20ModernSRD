@@ -4,11 +4,11 @@ Psychics can be people with innate, low-level psionic abilities or
 simply con-artists looking to make a buck off those gullible enough to
 believe their ruses.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 15+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +2 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 15+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +2      |
 
 ## Skills
 

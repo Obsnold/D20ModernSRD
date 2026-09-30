@@ -1,17 +1,17 @@
 # Daylight
 
-| Stat | Value |
-|---|---|
-| School | Evocation |
-| Descriptors | Light |
-| Level | Divine 2 |
-| Components | V, DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Object touched |
-| Duration | 10 minutes/level (D) |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                |
+| ---------------- | -------------------- |
+| School           | Evocation            |
+| Descriptors      | Light                |
+| Level            | Divine 2             |
+| Components       | V, DF                |
+| Casting Time     | Attack action        |
+| Range            | Touch                |
+| Target           | Object touched       |
+| Duration         | 10 minutes/level (D) |
+| Saving Throw     | None                 |
+| Spell Resistance | No                   |
 
 The object touched sheds light as bright as full daylight in a 60-foot
 radius. Creatures who suffer penalties in bright light suffer them while

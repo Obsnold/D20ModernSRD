@@ -1,16 +1,16 @@
 # Dataread
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Arcane 2, Divine 2 |
-| Components | V, S, F/DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Effect | Read machinereadable data |
-| Duration | 1 minute/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                     |
+| ---------------- | ------------------------- |
+| School           | Divination                |
+| Level            | Arcane 2, Divine 2        |
+| Components       | V, S, F/DF                |
+| Casting Time     | Attack action             |
+| Range            | Touch                     |
+| Effect           | Read machinereadable data |
+| Duration         | 1 minute/level            |
+| Saving Throw     | None                      |
+| Spell Resistance | No                        |
 
 You run your finger over any machine-readable data source (a barcode, a
 computer disk, a CD, magnetic tape, or any similar record) to understand

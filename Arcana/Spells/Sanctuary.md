@@ -1,16 +1,16 @@
 # Sanctuary
 
-| Stat | Value |
-|---|---|
-| School | Abjuration |
-| Level | Divine 1 |
-| Components | V, S, DF |
-| Casting Time | Attack action |
-| Range | Touch |
-| Target | Creature touched |
-| Duration | 1 round/level |
-| Saving Throw | Will negates |
-| Spell Resistance | No |
+| Stat             | Value            |
+| ---------------- | ---------------- |
+| School           | Abjuration       |
+| Level            | Divine 1         |
+| Components       | V, S, DF         |
+| Casting Time     | Attack action    |
+| Range            | Touch            |
+| Target           | Creature touched |
+| Duration         | 1 round/level    |
+| Saving Throw     | Will negates     |
+| Spell Resistance | No               |
 
 Any opponent attempting to strike or otherwise directly attack the
 warded creature, even with a targeted spell, must attempt a Will save.

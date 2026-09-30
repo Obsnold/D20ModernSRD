@@ -24,39 +24,39 @@ If a creature leaves and reenters the area, a new save is required.
 
 ## Mapinguari
 
-| Stat | Value |
-|---|---|
-| CR | 5 |
-| Size | Large |
-| Type | animal |
-| HD | 8d8+48 |
-| hp | 84 |
-| Mas | 22 |
-| Init | +0 |
-| Spd | 30 ft. |
-| Defense | 15 |
-| Touch | 9 |
-| Flat-Footed | 15 |
-| Defense Breakdown | –1 size, +6 natural |
-| BAB | +6 |
-| Grap | +16 |
-| Atk | +11 melee (1d6+6, slam) |
-| Full Atk | +11 melee (1d6+6, 2 slams) |
-| FS | 10 ft. by 10 ft. |
-| Reach | 10 ft. |
-| SQ | low-light vision, scent, stench |
-| AL | none |
-| Fort | +12 |
-| Ref | +2 |
-| Will | +3 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 23 |
-| Dex | 11 |
-| Con | 22 |
-| Int | 2 |
-| Wis | 12 |
-| Cha | 8 |
+| Stat              | Value                           |
+| ----------------- | ------------------------------- |
+| CR                | 5                               |
+| Size              | Large                           |
+| Type              | animal                          |
+| HD                | 8d8+48                          |
+| hp                | 84                              |
+| Mas               | 22                              |
+| Init              | +0                              |
+| Spd               | 30 ft.                          |
+| Defense           | 15                              |
+| Touch             | 9                               |
+| Flat-Footed       | 15                              |
+| Defense Breakdown | –1 size, +6 natural             |
+| BAB               | +6                              |
+| Grap              | +16                             |
+| Atk               | +11 melee (1d6+6, slam)         |
+| Full Atk          | +11 melee (1d6+6, 2 slams)      |
+| FS                | 10 ft. by 10 ft.                |
+| Reach             | 10 ft.                          |
+| SQ                | low-light vision, scent, stench |
+| AL                | none                            |
+| Fort              | +12                             |
+| Ref               | +2                              |
+| Will              | +3                              |
+| AP                | 0                               |
+| Rep               | +0                              |
+| Str               | 23                              |
+| Dex               | 11                              |
+| Con               | 22                              |
+| Int               | 2                               |
+| Wis               | 12                              |
+| Cha               | 8                               |
 
 **Skills:** Climb +10, Listen +5.
 
@@ -66,39 +66,39 @@ If a creature leaves and reenters the area, a new save is required.
 
 ## Advanced Mapinguari
 
-| Stat | Value |
-|---|---|
-| CR | 7 |
-| Size | Huge |
-| Type | animal |
-| HD | 15d8+120 |
-| hp | 187 |
-| Mas | 26 |
-| Init | –1 |
-| Spd | 30 ft. |
-| Defense | 16 |
-| Touch | 7 |
-| Flat-Footed | 16 |
-| Defense Breakdown | –2 size, –1 Dex, +9 natural |
-| BAB | +11 |
-| Grap | +29 |
-| Atk | +19 melee (2d4+10, slam) |
-| Full Atk | +19 melee (2d4+10, 2 slams) |
-| FS | 15 ft. by 15 ft. |
-| Reach | 10 ft. |
-| SQ | low-light vision, scent, stench |
-| AL | none |
-| Fort | +17 |
-| Ref | +4 |
-| Will | +6 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 31 |
-| Dex | 9 |
-| Con | 26 |
-| Int | 2 |
-| Wis | 12 |
-| Cha | 8 |
+| Stat              | Value                           |
+| ----------------- | ------------------------------- |
+| CR                | 7                               |
+| Size              | Huge                            |
+| Type              | animal                          |
+| HD                | 15d8+120                        |
+| hp                | 187                             |
+| Mas               | 26                              |
+| Init              | –1                              |
+| Spd               | 30 ft.                          |
+| Defense           | 16                              |
+| Touch             | 7                               |
+| Flat-Footed       | 16                              |
+| Defense Breakdown | –2 size, –1 Dex, +9 natural     |
+| BAB               | +11                             |
+| Grap              | +29                             |
+| Atk               | +19 melee (2d4+10, slam)        |
+| Full Atk          | +19 melee (2d4+10, 2 slams)     |
+| FS                | 15 ft. by 15 ft.                |
+| Reach             | 10 ft.                          |
+| SQ                | low-light vision, scent, stench |
+| AL                | none                            |
+| Fort              | +17                             |
+| Ref               | +4                              |
+| Will              | +6                              |
+| AP                | 0                               |
+| Rep               | +0                              |
+| Str               | 31                              |
+| Dex               | 9                               |
+| Con               | 26                              |
+| Int               | 2                               |
+| Wis               | 12                              |
+| Cha               | 8                               |
 
 **Skills:** Climb +14, Listen +5.
 

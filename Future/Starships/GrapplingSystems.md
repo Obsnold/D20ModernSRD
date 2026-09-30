@@ -48,14 +48,14 @@ hold and retract the grapplers as a free action.
 
 **Table: Grappler Pilot Check Dcs**
 
-| Size of Target | Pilot Check DC |
-|---|---|
-| Colossal | 5 + target’s Defense |
-| Gargantuan | 10 + target’s Defense |
-| Huge | 15 + target’s Defense |
-| Large | 20 + target’s Defense |
-| Medium-size | 25 + target’s Defense |
-| Small | 30 + target’s Defense |
+| Size of Target | Pilot Check DC        |
+| -------------- | --------------------- |
+| Colossal       | 5 + target’s Defense  |
+| Gargantuan     | 10 + target’s Defense |
+| Huge           | 15 + target’s Defense |
+| Large          | 20 + target’s Defense |
+| Medium-size    | 25 + target’s Defense |
+| Small          | 30 + target’s Defense |
 
 ## Tractor Beam Emitter (pl 7)
 

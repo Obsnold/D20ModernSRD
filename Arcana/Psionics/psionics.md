@@ -168,7 +168,7 @@ damage.
 **Electric Charge** (Int). Shocking touch deals 2d6 points of damage to
 target.
 
-**Painful Touch (**Str). Unarmed attack deals 1d6 points of additional
+\*\*Painful Touch (\*\*Str). Unarmed attack deals 1d6 points of additional
 nonlethal damage.
 
 ### 3rd-Level Battle Mind Powers

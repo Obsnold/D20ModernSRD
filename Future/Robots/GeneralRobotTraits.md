@@ -86,9 +86,9 @@ upgrades (see Ability Upgrades). It does not retain the previous frame’s
 armor, locomotive means, manipulators, sensors, physical ability score
 upgrades, accessories, or mounted weapons, as these were all destroyed.
 
-| Robot Frame | Repair Check DC |
-|---|---|
-| Armature or Biomorph | 20 |
-| Biodroid | 30 |
-| Bioreplica | 40 |
-| Liquid-State | 50 |
+| Robot Frame          | Repair Check DC |
+| -------------------- | --------------- |
+| Armature or Biomorph | 20              |
+| Biodroid             | 30              |
+| Bioreplica           | 40              |
+| Liquid-State         | 50              |

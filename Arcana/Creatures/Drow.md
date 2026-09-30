@@ -41,38 +41,38 @@ as a bonus feat.
 
 ## Drow
 
-| Stat | Value |
-|---|---|
-| CR | 2 |
-| Size/Type | Medium humanoid (Shadowkind) |
-| HD | 1d8–1 |
-| hp | 3 |
-| Mas | 8 |
-| Init | +1 |
-| Spd | 30 ft. |
-| Defense | 11 |
-| Touch | 11 |
-| Flat-Footed | 10 |
-| Defense Breakdown | +1 Dex |
-| BAB | +0 |
-| Grap | +0 |
-| Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/19–20, machete) |
-| Full Atk | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/19–20, machete) or +1 ranged (1 plus poison, shuriken) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 120 ft., light blindness, spell immunities, SR 11 |
-| AL | varies |
-| Fort | –1 |
-| Ref | +1 |
-| Will | +2 |
-| AP | 0 |
-| Rep | +0 |
-| Str | 10 |
-| Dex | 13 |
-| Con | 8 |
-| Int | 13 |
-| Wis | 11 |
-| Cha | 12 |
+| Stat              | Value                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| CR                | 2                                                                                                                |
+| Size/Type         | Medium humanoid (Shadowkind)                                                                                     |
+| HD                | 1d8–1                                                                                                            |
+| hp                | 3                                                                                                                |
+| Mas               | 8                                                                                                                |
+| Init              | +1                                                                                                               |
+| Spd               | 30 ft.                                                                                                           |
+| Defense           | 11                                                                                                               |
+| Touch             | 11                                                                                                               |
+| Flat-Footed       | 10                                                                                                               |
+| Defense Breakdown | +1 Dex                                                                                                           |
+| BAB               | +0                                                                                                               |
+| Grap              | +0                                                                                                               |
+| Atk               | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/19–20, machete)                                        |
+| Full Atk          | +0 melee (1d3 nonlethal, unarmed strike) or +0 melee (1d6/19–20, machete) or +1 ranged (1 plus poison, shuriken) |
+| FS                | 5 ft. by 5 ft.                                                                                                   |
+| Reach             | 5 ft.                                                                                                            |
+| SQ                | darkvision 120 ft., light blindness, spell immunities, SR 11                                                     |
+| AL                | varies                                                                                                           |
+| Fort              | –1                                                                                                               |
+| Ref               | +1                                                                                                               |
+| Will              | +2                                                                                                               |
+| AP                | 0                                                                                                                |
+| Rep               | +0                                                                                                               |
+| Str               | 10                                                                                                               |
+| Dex               | 13                                                                                                               |
+| Con               | 8                                                                                                                |
+| Int               | 13                                                                                                               |
+| Wis               | 11                                                                                                               |
+| Cha               | 12                                                                                                               |
 
 **Skills:** Craft (chemical) +3, Hide +3, Listen +2,
 Move Silently +3, Read/Write Elven, Read/Write Language (any one),
@@ -92,38 +92,38 @@ negates; initial and secondary 1d2 Con.*
 
 ## Drow Fast Hero 2
 
-| Stat | Value |
-|---|---|
-| CR | 4 |
-| Size/Type | Medium humanoid (Shadowkind) |
-| HD | 2d8 |
-| hp | 12 |
-| Mas | 10 |
-| Init | +3 |
-| Spd | 30 ft. |
-| Defense | 17 |
-| Touch | 17 |
-| Flat-Footed | 14 |
-| Defense Breakdown | +3 Dex, +4 class |
-| BAB | +1 |
-| Grap | +0 |
-| Atk | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d6–1/19–20, machete) |
-| Full Atk | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d6–1/19–20, machete) or +5 ranged (2d6, Glock 17) or +4 ranged (1d4/19–20 plus poison, hand crossbow) |
-| FS | 5 ft. by 5 ft. |
-| Reach | 5 ft. |
-| SQ | darkvision 120 ft., light blindness, spell immunities, SR 13 |
-| AL | varies |
-| Fort | +0 |
-| Ref | +5 |
-| Will | +1 |
-| AP | 1 |
-| Rep | +0 |
-| Str | 8 |
-| Dex | 17 |
-| Con | 10 |
-| Int | 16 |
-| Wis | 13 |
-| Cha | 12 |
+| Stat              | Value                                                                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                                                                              |
+| Size/Type         | Medium humanoid (Shadowkind)                                                                                                                                   |
+| HD                | 2d8                                                                                                                                                            |
+| hp                | 12                                                                                                                                                             |
+| Mas               | 10                                                                                                                                                             |
+| Init              | +3                                                                                                                                                             |
+| Spd               | 30 ft.                                                                                                                                                         |
+| Defense           | 17                                                                                                                                                             |
+| Touch             | 17                                                                                                                                                             |
+| Flat-Footed       | 14                                                                                                                                                             |
+| Defense Breakdown | +3 Dex, +4 class                                                                                                                                               |
+| BAB               | +1                                                                                                                                                             |
+| Grap              | +0                                                                                                                                                             |
+| Atk               | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d6–1/19–20, machete)                                                                                  |
+| Full Atk          | +0 melee (1d3–1 nonlethal, unarmed strike) or +0 melee (1d6–1/19–20, machete) or +5 ranged (2d6, Glock 17) or +4 ranged (1d4/19–20 plus poison, hand crossbow) |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                 |
+| Reach             | 5 ft.                                                                                                                                                          |
+| SQ                | darkvision 120 ft., light blindness, spell immunities, SR 13                                                                                                   |
+| AL                | varies                                                                                                                                                         |
+| Fort              | +0                                                                                                                                                             |
+| Ref               | +5                                                                                                                                                             |
+| Will              | +1                                                                                                                                                             |
+| AP                | 1                                                                                                                                                              |
+| Rep               | +0                                                                                                                                                             |
+| Str               | 8                                                                                                                                                              |
+| Dex               | 17                                                                                                                                                             |
+| Con               | 10                                                                                                                                                             |
+| Int               | 16                                                                                                                                                             |
+| Wis               | 13                                                                                                                                                             |
+| Cha               | 12                                                                                                                                                             |
 
 **Skills:** Drive +7, Hide +8, Knowledge (streetwise)
 +7, Listen +6, Move Silently +8, Read/Write Elven, Read/Write Language

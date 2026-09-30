@@ -8,29 +8,29 @@ proficient in the use of shields.
 
 **Table: Armor And Protective Gear**
 
-| Armor | Type | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Arcane Spell Failure | Speed (30 ft.) | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ***Light Armor*** | | | | | | | | | | |
-| Padded | Impromptu | +1 | +1 | +8 | –3 | 5% | 30 | 10 lb. | 9 | — |
-| Studded leather | Archaic | +3 | +1 | +5 | –1 | 15% | 30 | 20 lb. | 13 | — |
-| NBC suit | Tactical | – | – | +5 | –4 | 40% | 30 | 10 lb. | 15 | Res (+2) |
-| Fire resistant suit | Tactical | – | – | +5 | –4 | 40% | 30 | 10 lb. | 13 | — |
-| ***Medium Armor*** | | | | | | | | | | |
-| Hide | Impromptu | +3 | +2 | +4 | –3 | 20% | 20 | 25 lb. | 10 | — |
-| Lamellar | Archaic | +5 | +2 | +3 | –4 | 30% | 20 | 35 lb. | 20 | — |
-| Scale mail | Archaic | +4 | +2 | +3 | –4 | 25% | 20 | 30 lb. | 16 | — |
-| Breastplate | Archaic | +5 | +2 | +3 | –4 | 25% | 20 | 30 lb. | 18 | — |
-| ***Heavy Armor*** | | | | | | | | | | |
-| Splint mail | Archaic | +6 | +3 | +0 | –7 | 40% | 20 | 45 lb. | 18 | — |
-| Banded mail | Archaic | +6 | +3 | +1 | –6 | 35% | 20 | 35 lb. | 19 | — |
-| Half-plate | Archaic | +7 | +3 | +0 | –7 | 35% | 20 | 50 lb. | 21 | — |
-| O-yoroi | Archaic | +7 | +3 | +2 | –5 | 40% | 20 | 45 lb. | 28 | — |
-| **Shield** |** Type** |** Shield Bonus** |** Nonprof. Bonus** |** Max Dex Bonus** |** Armor Penalty** |** Arcane Spell Failure** |** Speed (30 ft.)** |** Weight** |** Purchase DC** |** Restriction** |
-| Buckler | Shield | +1 | +0 | — | –1 | 5% | — | 5 lb. | 9 | — |
-| Shield, impromptu | Shield | +1 | +0 | — | –2 | 5% | — | varies | — | — |
-| Shield, small | Shield | +1 | +0 | — | –1 | 5% | — | 6 lb. | 5 | — |
-| Shield, large | Shield | +2 | +1 | — | –2 | 15% | — | 15 lb. | 7 | — |
-| Shield, riot | Shield | +3 | +1 | — | –1 | 30% | — | 6 lb. | 10 | Res (+2) |
+| Armor               | Type          | Equipment Bonus       | Nonprof. Bonus          | Max Dex Bonus          | Armor Penalty          | Arcane Spell Failure          | Speed (30 ft.)          | Weight          | Purchase DC          | Restriction          |
+| ------------------- | ------------- | --------------------- | ----------------------- | ---------------------- | ---------------------- | ----------------------------- | ----------------------- | --------------- | -------------------- | -------------------- |
+| ***Light Armor***   |               |                       |                         |                        |                        |                               |                         |                 |                      |                      |
+| Padded              | Impromptu     | +1                    | +1                      | +8                     | –3                     | 5%                            | 30                      | 10 lb.          | 9                    | —                    |
+| Studded leather     | Archaic       | +3                    | +1                      | +5                     | –1                     | 15%                           | 30                      | 20 lb.          | 13                   | —                    |
+| NBC suit            | Tactical      | –                     | –                       | +5                     | –4                     | 40%                           | 30                      | 10 lb.          | 15                   | Res (+2)             |
+| Fire resistant suit | Tactical      | –                     | –                       | +5                     | –4                     | 40%                           | 30                      | 10 lb.          | 13                   | —                    |
+| ***Medium Armor***  |               |                       |                         |                        |                        |                               |                         |                 |                      |                      |
+| Hide                | Impromptu     | +3                    | +2                      | +4                     | –3                     | 20%                           | 20                      | 25 lb.          | 10                   | —                    |
+| Lamellar            | Archaic       | +5                    | +2                      | +3                     | –4                     | 30%                           | 20                      | 35 lb.          | 20                   | —                    |
+| Scale mail          | Archaic       | +4                    | +2                      | +3                     | –4                     | 25%                           | 20                      | 30 lb.          | 16                   | —                    |
+| Breastplate         | Archaic       | +5                    | +2                      | +3                     | –4                     | 25%                           | 20                      | 30 lb.          | 18                   | —                    |
+| ***Heavy Armor***   |               |                       |                         |                        |                        |                               |                         |                 |                      |                      |
+| Splint mail         | Archaic       | +6                    | +3                      | +0                     | –7                     | 40%                           | 20                      | 45 lb.          | 18                   | —                    |
+| Banded mail         | Archaic       | +6                    | +3                      | +1                     | –6                     | 35%                           | 20                      | 35 lb.          | 19                   | —                    |
+| Half-plate          | Archaic       | +7                    | +3                      | +0                     | –7                     | 35%                           | 20                      | 50 lb.          | 21                   | —                    |
+| O-yoroi             | Archaic       | +7                    | +3                      | +2                     | –5                     | 40%                           | 20                      | 45 lb.          | 28                   | —                    |
+| **Shield**          | \*\* Type\*\* | \*\* Shield Bonus\*\* | \*\* Nonprof. Bonus\*\* | \*\* Max Dex Bonus\*\* | \*\* Armor Penalty\*\* | \*\* Arcane Spell Failure\*\* | \*\* Speed (30 ft.)\*\* | \*\* Weight\*\* | \*\* Purchase DC\*\* | \*\* Restriction\*\* |
+| Buckler             | Shield        | +1                    | +0                      | —                      | –1                     | 5%                            | —                       | 5 lb.           | 9                    | —                    |
+| Shield, impromptu   | Shield        | +1                    | +0                      | —                      | –2                     | 5%                            | —                       | varies          | —                    | —                    |
+| Shield, small       | Shield        | +1                    | +0                      | —                      | –1                     | 5%                            | —                       | 6 lb.           | 5                    | —                    |
+| Shield, large       | Shield        | +2                    | +1                      | —                      | –2                     | 15%                           | —                       | 15 lb.          | 7                    | —                    |
+| Shield, riot        | Shield        | +3                    | +1                      | —                      | –1                     | 30%                           | —                       | 6 lb.           | 10                   | Res (+2)             |
 
 ## Banded Mail
 
@@ -95,7 +95,7 @@ minutes without. If an NBC suit takes 4 points of damage from ballistic,
 slashing, or piercing weapons, the benefits it provides are negated. If
 the suit has been exposed to some hazard, it must be cleaned and
 neutralized, taking 1 hour and requiring special chemicals (purchase DC
-15) and high-pressure water hoses.
+15\) and high-pressure water hoses.
 
 ## O-Yoroi
 

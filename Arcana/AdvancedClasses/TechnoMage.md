@@ -59,18 +59,18 @@ The Techno Mage’s class skills are as follows:
 
 **Table: The Techno Mage**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
-|---|---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +0 | Arcane skills, arcane spells | +1 | +0 |
-| 2nd | +1 | +0 | +2 | +0 | Machine empathy, arcane spells | +1 | +0 |
-| 3rd | +1 | +1 | +2 | +1 | Bonus feat, arcane spells, program spell | +2 | +1 |
-| 4th | +2 | +1 | +2 | +1 | Create homunculus, arcane spells | +2 | +1 |
-| 5th | +2 | +1 | +3 | +1 | Arcane spontaneous casting, arcane spells | +3 | +1 |
-| 6th | +3 | +2 | +3 | +2 | Bonus feat, arcane spells | +3 | +2 |
-| 7th | +3 | +2 | +4 | +2 | Spell focus, arcane spells | +4 | +2 |
-| 8th | +4 | +2 | +4 | +2 | Online casting, arcane spells | +4 | +2 |
-| 9th | +4 | +3 | +4 | +3 | Bonus feat, arcane spells | +5 | +3 |
-| 10th | +5 | +3 | +5 | +3 | Quicken spells, arcane spells | +5 | +3 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                   | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------- | ------------- | ---------------- |
+| 1st   | +0                | +0        | +1       | +0        | Arcane skills, arcane spells              | +1            | +0               |
+| 2nd   | +1                | +0        | +2       | +0        | Machine empathy, arcane spells            | +1            | +0               |
+| 3rd   | +1                | +1        | +2       | +1        | Bonus feat, arcane spells, program spell  | +2            | +1               |
+| 4th   | +2                | +1        | +2       | +1        | Create homunculus, arcane spells          | +2            | +1               |
+| 5th   | +2                | +1        | +3       | +1        | Arcane spontaneous casting, arcane spells | +3            | +1               |
+| 6th   | +3                | +2        | +3       | +2        | Bonus feat, arcane spells                 | +3            | +2               |
+| 7th   | +3                | +2        | +4       | +2        | Spell focus, arcane spells                | +4            | +2               |
+| 8th   | +4                | +2        | +4       | +2        | Online casting, arcane spells             | +4            | +2               |
+| 9th   | +4                | +3        | +4       | +3        | Bonus feat, arcane spells                 | +5            | +3               |
+| 10th  | +5                | +3        | +5       | +3        | Quicken spells, arcane spells             | +5            | +3               |
 
 ## Class Features
 
@@ -87,10 +87,10 @@ spell with a somatic component, the chance of arcane spell failure
 depends on the type of armor being worn, as shown below.
 
 | Armor Type | Arcane Spell Failure, Proficient | Arcane Spell Failure, Nonproficient |
-|---|---|---|
-| Light | 0% | 10% |
-| Medium | 10% | 20% |
-| Heavy | 20% | 30% |
+| ---------- | -------------------------------- | ----------------------------------- |
+| Light      | 0%                               | 10%                                 |
+| Medium     | 10%                              | 20%                                 |
+| Heavy      | 20%                              | 30%                                 |
 
 ### Spellfiles
 
@@ -118,7 +118,7 @@ spellbooks.
 
 At 1st level, the Techno Mage gains access to the arcane skill
 Spellcraft and the expansion of the Concentration skill, as described
-under the Mage entry*.*
+under the Mage entry\*.\*
 
 ### Arcane Spells
 
@@ -137,27 +137,27 @@ Intelligence modifier.
 In addition, the Techno Mage receives bonus spells based on his
 Intelligence score, as shown below.
 
-| Int Score | —Bonus Spells by Spell Level— | | | | | |
-|---|---|---|---|---|---|---|
-| | **1** | **2** | **3** | **4** | **5** | |
-| 12–13 | 1 | — | — | — | — | |
-| 14–15 | 1 | 1 | — | — | — | |
-| 16–17 | 1 | 1 | 1 | — | — | |
-| 18–19 | 1 | 1 | 1 | 1 | — | |
-| 20–21 | 2 | 1 | 1 | 1 | 1 | |
-| 22–23 | 2 | 2 | 1 | 1 | 1 | |
-| **Techno Mage Level** | **—Spells per Day by Spell Level—** | | | | | |
-| | **0** | **1** | **2** | **3** | **4** | **5** |
-| 1 | 3 | 1 | — | — | — | — |
-| 2 | 4 | 2 | — | — | — | — |
-| 3 | 4 | 2 | 1 | — | — | — |
-| 4 | 4 | 3 | 2 | — | — | — |
-| 5 | 4 | 3 | 2 | 1 | — | — |
-| 6 | 4 | 3 | 3 | 2 | — | — |
-| 7 | 4 | 4 | 3 | 2 | 1 | — |
-| 8 | 4 | 4 | 3 | 3 | 2 | — |
-| 9 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 10 | 4 | 4 | 4 | 3 | 3 | 2 |
+| Int Score             | —Bonus Spells by Spell Level—       |       |       |       |       |       |
+| --------------------- | ----------------------------------- | ----- | ----- | ----- | ----- | ----- |
+|                       | **1**                               | **2** | **3** | **4** | **5** |       |
+| 12–13                 | 1                                   | —     | —     | —     | —     |       |
+| 14–15                 | 1                                   | 1     | —     | —     | —     |       |
+| 16–17                 | 1                                   | 1     | 1     | —     | —     |       |
+| 18–19                 | 1                                   | 1     | 1     | 1     | —     |       |
+| 20–21                 | 2                                   | 1     | 1     | 1     | 1     |       |
+| 22–23                 | 2                                   | 2     | 1     | 1     | 1     |       |
+| **Techno Mage Level** | **—Spells per Day by Spell Level—** |       |       |       |       |       |
+|                       | **0**                               | **1** | **2** | **3** | **4** | **5** |
+| 1                     | 3                                   | 1     | —     | —     | —     | —     |
+| 2                     | 4                                   | 2     | —     | —     | —     | —     |
+| 3                     | 4                                   | 2     | 1     | —     | —     | —     |
+| 4                     | 4                                   | 3     | 2     | —     | —     | —     |
+| 5                     | 4                                   | 3     | 2     | 1     | —     | —     |
+| 6                     | 4                                   | 3     | 3     | 2     | —     | —     |
+| 7                     | 4                                   | 4     | 3     | 2     | 1     | —     |
+| 8                     | 4                                   | 4     | 3     | 3     | 2     | —     |
+| 9                     | 4                                   | 4     | 4     | 3     | 2     | 1     |
+| 10                    | 4                                   | 4     | 4     | 3     | 3     | 2     |
 
 ### Machine Empathy
 

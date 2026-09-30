@@ -19,36 +19,36 @@ against the weapon’s purchase DC.
 
 **Table: Mecha Weapons**
 
-| Weapon | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **Progress Level 5: Information Age** | | | | | | | | | | |
-| A3X Dragon flame thrower | 4d6 | — | Fire | — | Single | 20 int. | Large | 75 lb. | 21 | Mil (+3) |
-| M-9 Barrage chaingun | 5d6 | 20 | Ballistic | 60 ft. | S, A | Linked | Huge | 100 lb. | 21 | Res (+2) |
-| M-53 Firestar rocket launcher | 10d6 | — | Fire | — | Single | 6 int. | Huge | 35 lb. | 24 | Mil (+3) |
-| M-55 Crud rocket launcher | 10d6 | — | Slashing | — | Single | 6 int. | Huge | 35 lb. | 24 | Mil (+3) |
-| M-87 Talon missile launcher | 15d6 | 20 | Ballistic/ Fire | — | Single | 4 int. | Huge | 20 lb. | 23 | Mil (+3) |
-| PS-15 Panther claws | Varies¹ | 19–20 | Slashing | — | — | — | Varies¹ | — | Varies¹ | — |
-| Thunderbolt shock rod | Varies¹ | 20 | Electricity/ Bludgeoning | — | — | — | Varies¹ | — | Varies¹ | — |
-| Warpath recoilless rifle | 10d6 | 20 | Ballistic | 40 ft. | S, A | 20 box | Huge | 50 lb. | 22 | Mil (+3) |
-| **Progress Level 6: Fusion Age** | | | | | | | | | | |
-| Corona microwave beam | 5d6 | 20 | Fire | 15 ft. | Single | — | Large | 15 lb. | 19 | Res (+2) |
-| LK8 armor-piercing pike | Varies¹ | 3 | Piercing | — | — | — | Varies¹ | — | Varies¹ | — |
-| M-21 Comet autolaser | 8d6 | 20 | Fire | 75 ft. | S, A | — | Huge | 40 lb. | 22 | Mil (+3) |
-| M-70 EMP rocket launcher | 10d6² | 20 | Electricity | — | Single | 6 int. | Huge | 35 lb. | 27 | Mil (+3) |
-| M-75 Cricket rocket launcher | 10d6² | — | Sonic | — | Single | 6 int. | Huge | 35 lb. | 25 | Mil (+3) |
-| NKP Puma pop-up turret | 8d6 | 20 | Fire | 75 ft. | Single | — | Large | 20 lb. | 23 | Mil (+3) |
-| T-95 Cavalcade chaingun | 7d6 | 20 | Ballistic | 60 ft. | S, A | Linked | Huge | 80 lb. | 21 | Res (+2) |
-| Typhoon 240 laser cannon | 10d6 | 20 | Fire | 100 ft. | Single | — | Huge | 80 lb. | 25 | Mil (+3) |
-| **Progress Level 7: Gravity Age** | | | | | | | | | | |
-| Chrysanthemum laser array | 16d6 | — | Fire | — | Single | 1 int. | Huge | 50 lb. | 26 | Mil (+3) |
-| M-300 Rhino mass cannon | 8d12 | 20 | Ballistic | 100 ft. | Single | — | Huge | 65 lb. | 29 | Mil (+3) |
-| PS-25 Tiger claws | Varies¹ | 19–20 | Slashing | — | — | — | Varies¹ | — | Varies¹ | — |
-| Tsunami 480 plasma cannon | 12d6 | See text | Fire | See text | Single | — | Huge | 75 lb. | 25 | Mil (+3) |
-| XJ-A Python electro-whip | Varies¹ | 20 | Electricity | — | — | — | Varies¹ | — | Varies¹ | — |
-| **Progress Level 8: Energy Age** | | | | | | | | | | |
-| Avenger electro-scimitar³ | Varies¹ | 18–20 | Slashing/ Electricity | — | — | — | Varies¹ | — | Varies¹ | — |
-| LT-5 Longshot mass driver | 15d6 | 20 | Ballistic | 120 ft. | Single | 10 box | Huge | 90 lb. | 24 | Mil (+3) |
-| RP-91 Reaper laser scythe³ | Varies¹ | 4 | Slashing/ Fire | — | — | — | Varies¹ | — | Varies¹ | — |
+| Weapon                                | Damage  | Critical | Damage Type              | Range Increment | Rate of Fire | Magazine | Size    | Weight  | Purchase DC | Restriction |
+| ------------------------------------- | ------- | -------- | ------------------------ | --------------- | ------------ | -------- | ------- | ------- | ----------- | ----------- |
+| **Progress Level 5: Information Age** |         |          |                          |                 |              |          |         |         |             |             |
+| A3X Dragon flame thrower              | 4d6     | —        | Fire                     | —               | Single       | 20 int.  | Large   | 75 lb.  | 21          | Mil (+3)    |
+| M-9 Barrage chaingun                  | 5d6     | 20       | Ballistic                | 60 ft.          | S, A         | Linked   | Huge    | 100 lb. | 21          | Res (+2)    |
+| M-53 Firestar rocket launcher         | 10d6    | —        | Fire                     | —               | Single       | 6 int.   | Huge    | 35 lb.  | 24          | Mil (+3)    |
+| M-55 Crud rocket launcher             | 10d6    | —        | Slashing                 | —               | Single       | 6 int.   | Huge    | 35 lb.  | 24          | Mil (+3)    |
+| M-87 Talon missile launcher           | 15d6    | 20       | Ballistic/ Fire          | —               | Single       | 4 int.   | Huge    | 20 lb.  | 23          | Mil (+3)    |
+| PS-15 Panther claws                   | Varies¹ | 19–20    | Slashing                 | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| Thunderbolt shock rod                 | Varies¹ | 20       | Electricity/ Bludgeoning | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| Warpath recoilless rifle              | 10d6    | 20       | Ballistic                | 40 ft.          | S, A         | 20 box   | Huge    | 50 lb.  | 22          | Mil (+3)    |
+| **Progress Level 6: Fusion Age**      |         |          |                          |                 |              |          |         |         |             |             |
+| Corona microwave beam                 | 5d6     | 20       | Fire                     | 15 ft.          | Single       | —        | Large   | 15 lb.  | 19          | Res (+2)    |
+| LK8 armor-piercing pike               | Varies¹ | 3        | Piercing                 | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| M-21 Comet autolaser                  | 8d6     | 20       | Fire                     | 75 ft.          | S, A         | —        | Huge    | 40 lb.  | 22          | Mil (+3)    |
+| M-70 EMP rocket launcher              | 10d6²   | 20       | Electricity              | —               | Single       | 6 int.   | Huge    | 35 lb.  | 27          | Mil (+3)    |
+| M-75 Cricket rocket launcher          | 10d6²   | —        | Sonic                    | —               | Single       | 6 int.   | Huge    | 35 lb.  | 25          | Mil (+3)    |
+| NKP Puma pop-up turret                | 8d6     | 20       | Fire                     | 75 ft.          | Single       | —        | Large   | 20 lb.  | 23          | Mil (+3)    |
+| T-95 Cavalcade chaingun               | 7d6     | 20       | Ballistic                | 60 ft.          | S, A         | Linked   | Huge    | 80 lb.  | 21          | Res (+2)    |
+| Typhoon 240 laser cannon              | 10d6    | 20       | Fire                     | 100 ft.         | Single       | —        | Huge    | 80 lb.  | 25          | Mil (+3)    |
+| **Progress Level 7: Gravity Age**     |         |          |                          |                 |              |          |         |         |             |             |
+| Chrysanthemum laser array             | 16d6    | —        | Fire                     | —               | Single       | 1 int.   | Huge    | 50 lb.  | 26          | Mil (+3)    |
+| M-300 Rhino mass cannon               | 8d12    | 20       | Ballistic                | 100 ft.         | Single       | —        | Huge    | 65 lb.  | 29          | Mil (+3)    |
+| PS-25 Tiger claws                     | Varies¹ | 19–20    | Slashing                 | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| Tsunami 480 plasma cannon             | 12d6    | See text | Fire                     | See text        | Single       | —        | Huge    | 75 lb.  | 25          | Mil (+3)    |
+| XJ-A Python electro-whip              | Varies¹ | 20       | Electricity              | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| **Progress Level 8: Energy Age**      |         |          |                          |                 |              |          |         |         |             |             |
+| Avenger electro-scimitar³             | Varies¹ | 18–20    | Slashing/ Electricity    | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
+| LT-5 Longshot mass driver             | 15d6    | 20       | Ballistic                | 120 ft.         | Single       | 10 box   | Huge    | 90 lb.  | 24          | Mil (+3)    |
+| RP-91 Reaper laser scythe³            | Varies¹ | 4        | Slashing/ Fire           | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
 
 ¹ See the weapon’s description for details.
 2 See the weapon’s description for collateral effects to crew and passengers.
@@ -336,7 +336,7 @@ Reflex save (DC 17) reduces the damage by half.
 
 If a mecha takes any damage from a Cricket rocket, all crew and
 passengers aboard the damaged mecha must succeed at a Fortitude save (DC
-15) or be deafened for 1d6 rounds.
+15\) or be deafened for 1d6 rounds.
 
 **Purchase DC:** 25 for rocket launcher and 6 rockets, 13 per additional
 6-rocket pack.
@@ -499,7 +499,7 @@ The Tsunami 280 plasma cannon has two aperture settings: focused beam
 and wide-angle beam. The mecha operator can switch between settings as a
 move action. The focused beam setting deals 12d6 points of fire damage
 with a successful ranged attack, and it has a critical threat range of
-20. On the wide-angle setting, the weapon automatically hits everything
+20\. On the wide-angle setting, the weapon automatically hits everything
 within a 60-foot cone for 12d6 points of fire damage, but those in the
 area can make a Reflex save (DC 19) to reduce the damage by half.
 Critical hits aren’t possible on the wide-angle setting.

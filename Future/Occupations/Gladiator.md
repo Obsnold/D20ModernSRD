@@ -6,11 +6,11 @@ poverty-stricken hoodlums looking to trade fists for cash, clones bred
 in secret labs to fight from birth, and low-ranking members of a
 society’s warrior caste.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 18+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 18+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 

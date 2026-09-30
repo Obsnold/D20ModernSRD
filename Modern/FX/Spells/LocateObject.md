@@ -1,16 +1,16 @@
 # Locate Object
 
-| Stat | Value |
-|---|---|
-| School | Divination |
-| Level | Acolyte 3 |
-| Components | V, S, DF |
-| Casting Time | Attack action |
-| Range | Long (400 ft. + 40 ft./level) |
-| Area | Circle, centered on you, with a radius of 400 ft. + 40 ft./level |
-| Duration | 1 minute/level |
-| Saving Throw | None |
-| Spell Resistance | No |
+| Stat             | Value                                                            |
+| ---------------- | ---------------------------------------------------------------- |
+| School           | Divination                                                       |
+| Level            | Acolyte 3                                                        |
+| Components       | V, S, DF                                                         |
+| Casting Time     | Attack action                                                    |
+| Range            | Long (400 ft. + 40 ft./level)                                    |
+| Area             | Circle, centered on you, with a radius of 400 ft. + 40 ft./level |
+| Duration         | 1 minute/level                                                   |
+| Saving Throw     | None                                                             |
+| Spell Resistance | No                                                               |
 
 The caster senses the direction of a well-known or clearly visualized
 object. The caster can search for general items, in which case the

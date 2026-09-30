@@ -5,11 +5,11 @@ precious cargo safely from one destination to another. They treat their
 vehicles as extensions of their bodies and are most comfortable behind
 the wheels of skycabs or the thruster controls of cargo shuttles.
 
-| Stat | Value |
-|---|---|
-| Prerequisite | Age 18+ |
-| Reputation Bonus Increase | — |
-| Wealth Bonus Increase | +1 |
+| Stat                      | Value   |
+| ------------------------- | ------- |
+| Prerequisite              | Age 18+ |
+| Reputation Bonus Increase | —       |
+| Wealth Bonus Increase     | +1      |
 
 ## Skills
 
