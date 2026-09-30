@@ -15,32 +15,49 @@ following criteria.
 (arcane law, business, current events, popular culture, or streetwise) 6
 ranks.
 
-**Class Information**
+## Class Information
 
 The following information pertains to the Arcane Arranger advanced
 class.
 
-**Hit Die**
+### Hit Die
 
 Arcane Arrangers gain 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 Arcane Arrangers gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-## Class Skills
+### Class Skills
 
-The Arcane Arranger’s class skills are: Bluff (Cha), Computer Use (Int),
-Decipher Script (Int), Diplomacy (Cha), Forgery (Int), Gather
-Information (Cha), Intimidate (Cha), Knowledge (arcane lore, business,
-current events, popular culture, streetwise) (Int), Listen (Wis),
-Profession (Wis), Read/Write Language (none), Repair (Int), Research
-(Int), Sense Motive (Wis), Speak Language (none).
+The Arcane Arranger’s class skills are:
+
+- Bluff (Cha)
+- Computer Use (Int)
+- Decipher Script (Int)
+- Diplomacy (Cha)
+- Forgery (Int)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (business) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Listen (Wis)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Arcane Arranger**
 
@@ -61,7 +78,7 @@ Profession (Wis), Read/Write Language (none), Repair (Int), Research
 
 The following features pertain to the Arcane Arranger advanced class.
 
-**Word on the Street**
+### Word on the Street
 
 The Arcane Arranger filters information constantly and remembers
 everything. Through regular contacts, gossip, internet chats, and other
@@ -75,7 +92,7 @@ Protected information still requires 1d4+1 hours for a check.
 
 The purchase DC for using Gather Information is reduced by 10.
 
-**False Allegiance**
+### False Allegiance
 
 The Arcane Arranger fits in with whatever group he chooses to be with.
 At 2nd level, the Arcane Arranger can successfully emulate an allegiance
@@ -86,17 +103,27 @@ failed, at which point the false allegiance is revealed. Supernatural
 and spell-like abilities that determine allegiance are not affected by
 the Arcane Arranger’s false allegiance ability.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Arcane Arranger gets a bonus feat. The
 bonus feat must be selected from the following list, and the Arcane
 Arranger must meet all of the prerequisites for the feat to select it.
 
-Arcane Skills, Armor Proficiency (light), Attentive, Builder, Combat
-Expertise, Educated, Gearhead, Improved Disarm, Jack of All Trades,
-Renown, Studious, Trustworthy, Windfall.
+- Arcane Skills
+- Armor Proficiency (light)
+- Attentive
+- Builder
+- Combat Expertise
+- Educated
+- Gearhead
+- Improved Disarm
+- Jack of All Trades
+- Renown
+- Studious
+- Trustworthy
+- Windfall
 
-**Shadow Resources**
+### Shadow Resources
 
 At 4th level, the Arcane Arranger is well-enough wired into the social
 system to be able to get the names and numbers of individuals with
@@ -128,14 +155,14 @@ through more traditional methods. The resource the Arcane Arranger knows
 about will have total ranks in the needed skill of at least the Arcane
 Arranger’s total character level +3.
 
-**Pack Rat**
+### Pack Rat
 
 At 5th level, the Arcane Arranger is considered to have considerable
 material resources either at hand or easily and cheaply acquired. When
 making a Wealth check to determine if a particular item is “at hand,”
 add the Arcane Arranger class levels as a circumstance bonus.
 
-**Expert in Your Field**
+### Expert in Your Field
 
 At 7th level, the Arcane Arranger is considered a master of connections,
 such that his reputation precedes him in his dealings with others. The
@@ -144,7 +171,7 @@ when making skill checks that are directly involved with Gather
 Information and Diplomacy skills. In addition, the Arcane Arranger may
 add his Reputation bonus on Wealth checks for new purchases.
 
-**Up My Sleeve**
+### Up My Sleeve
 
 At 8th level, the Arcane Arranger gains the supernatural ability to pull
 a specific item out of thin air. As a move action, the Arcane Arranger

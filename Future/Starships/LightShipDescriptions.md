@@ -40,7 +40,7 @@ missiles –3 ranged (9d12/19–20) and 2 fire-linked fusion beams –8 ranged
 
 **Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -100,7 +100,7 @@ and 2 fire-linked heavy neutron guns –6 melee (20d8) and needle driver
 
 **Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -160,7 +160,7 @@ unlinked heavy neutron guns –6 ranged (10d8) and needle driver –6 ranged
 
 **Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -216,7 +216,7 @@ at the expense of crew quarters and armaments.
 
 **Attack of Opportunity:** Point-defense system +3 ranged (2d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 

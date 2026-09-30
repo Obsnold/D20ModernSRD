@@ -17,30 +17,54 @@ Concentration 12 ranks.
 
 The following information pertains to the Archmage prestige class.
 
-**Hit Die**
+### Hit Die
 
 Archmages gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Archmage gain a number of action points equal to 7 plus one-half their
 character level, rounded down, every time they advance a level in this
 class.
 
-**Class Skills**
+### Class Skills
 
-The Archmage’s class skills are as follows: Computer Use (Int),
-Concentration (Con), Craft (chemical, electronic, mechanical,
-pharmaceutical) (Int), Decipher Script (Int), Demolitions (Int), Disable
-Device (Int), Investigate (Int), Knowledge (arcane lore, art, behavioral
-sciences, business, civics, current events, earth and life sciences,
-history, physical sciences, popular culture, streetwise, technology,
-theology and philosophy) (Int), Profession (Wis), Read/Write Language
-(none), Repair (Int), Research (Int), Speak Language (none), Spellcraft
-(Int).
+The Archmage’s class skills are as follows:
+
+- Computer Use (Int)
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Decipher Script (Int)
+- Demolitions (Int)
+- Disable Device (Int)
+- Investigate (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (business) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (technology) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Speak Language (none)
+- Spellcraft (Int)
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Archmage**
 
@@ -56,12 +80,12 @@ theology and philosophy) (Int), Profession (Wis), Read/Write Language
 
 The following features pertain to the Archmage prestige class.
 
-**Total Spellcasting**
+### Total Spellcasting
 
 Count all character caster levels when determining the Archmage’s
 casting level for arcane spells.
 
-**Increased Spells/Day**
+### Increased Spells/Day
 
 At 2nd level, the Archmage increases the base number of arcane spells
 per day by one half (round down). This increase occurs before
@@ -70,13 +94,13 @@ the Archmage again increases the number of arcane spells available per
 day, this time to a total of twice what he would normally have. As
 before, this increase happens prior to any modifications or alterations.
 
-**Gifted Incantations**
+### Gifted Incantations
 
 At 3rd level, the Archmage can spend an action point on an incantation
 to gain an additional +1d6 on all skill checks to complete the
 incantation.
 
-**Granted Incantations**
+### Granted Incantations
 
 At 5th level, failure during an Incantation holds no penalty for the
 Archmage.

@@ -231,7 +231,7 @@ Will.
 
 **Advancement:** None.
 
-**Vivilor Menu A**
+## Vivilor Menu A
 
 **Aquatic:** The vivilor gains a swim speed of 60 feet.
 The vivilor can move in water without making Swim checks and cannot
@@ -257,7 +257,7 @@ tentacles that increase its reach by +5 feet.
 **Tougher Skin:** The vivilor’s natural armor bonus to
 Defense increases by +1.
 
-**Vivilor Menu B**
+## Vivilor Menu B
 
 **Amorphous:** The vivilor is immune to critical hits
 and massive damage. It cannot be flanked.

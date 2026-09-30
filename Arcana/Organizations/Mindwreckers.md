@@ -35,12 +35,18 @@ Members of the Mindwreckers have access to the following psionic power:
 
 ## Memory Block
 
-Charisma
-
-**Level:** Telepath 4;** Display:** Visual, Audible;** Manifestation
-Time:** 1 action;** Range:** Touch;** Target:** One living creature;
-**Duration:** 1 day + 1 hour/level;** Saving Throw:** Will negates;
-**Power Resistance:** Yes;** Power Points:** 10
+| Stat               | Value                |
+|---|---|
+| Key Ability        | Charisma             |
+| Level              | Telepath 4           |
+| Display            | Visual, Audible      |
+| Manifestation Time | 1 action             |
+| Range              | Touch                |
+| Target             | One living creature  |
+| Duration           | 1 day + 1 hour/level |
+| Saving Throw       | Will negates         |
+| Power Resistance   | Yes                  |
+| Power Point Cost   | 10                   |
 
 You form a psionic barrier within the target’s memory, creating near
 total amnesia. The target cannot remember his name or any pertinent

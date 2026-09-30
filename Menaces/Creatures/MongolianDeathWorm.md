@@ -46,7 +46,7 @@ location of anything within 60 feet that is in contact with the ground.
 | Atk | +5 melee (1d4–1 plus poison, bite) |
 | Full Atk | +5 melee (1d4–1 plus poison, bite) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | darkvision 60 ft., death touch (DC 14), l o w - l i g h t vision, poison (DC 14), poison spray, tremorsense |
 | AL | none |
 | Fort | +6 |
@@ -65,7 +65,7 @@ location of anything within 60 feet that is in contact with the ground.
 
 **Feats:** Weapon Finesse (bite).
 
-**Advancement:** 3–5 HD (Small); 6–10 HD (Mediumsize); 11–15 HD (Large).
+**Advancement:** 3–5 HD (Small); 6–10 HD (Medium-size); 11–15 HD (Large).
 
 ## Advanced Mongolian Death Worm
 
@@ -88,7 +88,7 @@ location of anything within 60 feet that is in contact with the ground.
 | Atk | +7 melee (1d6+1 plus poison, bite) |
 | Full Atk | +7 melee (1d6+1 plus poison, bite) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | darkvision 60 ft., death touch (DC 17), low-light vision, poison (DC 17), poison spray, tremorsense |
 | AL | none |
 | Fort | +9 |

@@ -20,30 +20,49 @@ streetwise) 6 ranks, Survival 6 ranks.
 
 The following information pertains to the Tracer advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Tracer gains 1d8 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 The Tracer gains a number of action points equal to 6 + one-half his
 character level, rounded down, every time he attains a new level in this
 class.
 
-**Class Skills**
+### Class Skills
 
 The Tracer’s class skills are as follows.
 
-Climb (Str), Computer Use (Int), Disable Device (Int), Disguise (Cha),
-Drive (Dex), Gather Information (Cha), Hide (Dex), Investigate (Int),
-Jump (Str), Knowledge (behavioral sciences, civics, streetwise, tactics)
-(Int), Listen (Wis), Move Silently (Dex), Navigate (Int), Pilot (Dex),
-Research (Int), Search (Int), Sense Motive (Wis), Spot (Wis), Survival
-(Wis), Swim (Str).
+- Climb (Str)
+- Computer Use (Int)
+- Disable Device (Int)
+- Disguise (Cha)
+- Drive (Dex)
+- Gather Information (Cha)
+- Hide (Dex)
+- Investigate (Int)
+- Jump (Str)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (tactics) (Int)
+- Listen (Wis)
+- Move Silently (Dex)
+- Navigate (Int)
+- Pilot (Dex)
+- Research (Int)
+- Search (Int)
+- Sense Motive (Wis)
+- Spot (Wis)
+- Survival (Wis)
+- Swim (Str)
 
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Tracer**
 
@@ -64,7 +83,7 @@ nonhumans).
 
 The following class features pertain to the Tracer advanced class.
 
-**Target Species**
+### Target Species
 
 At 1st level, a Tracer selects a species or specific kind of creature
 his “target species. The Tracer must have previously encountered at
@@ -77,11 +96,11 @@ against such creatures.
 As a free action, a Tracer may spend an action point to change his
 target species.
 
-**Urban Tracking**
+### Urban Tracking
 
 At 1st level, a Tracer gains the bonus feat Urban Tracking.
 
-**Swift Strike**
+### Swift Strike
 
 At 2nd level, the Tracer becomes skilled at taking down unwary targets
 quickly. He deals +1d6 points of damage on successful melee and ranged
@@ -91,21 +110,39 @@ the manner in which it’s used.
 
 The extra damage increases to +2d6 at 5th level and +3d6 at 8th level.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Tracer gets a bonus feat. The bonus feat
 must be selected from the following list, and the Tracer must meet all
 the prerequisites of the feat to select it.
 
-Advanced Combat Martial Arts, Advanced Firearms Proficiency, Aircraft
-Operation (spacecraft), Alertness, Armor Proficiency (light), Armor
-Proficiency (medium), Armor Proficiency (powered), Athletic, Combat
-Throw, Dead Aim, Double Tap, Elusive Target, Far Shot, Improved Combat
-Martial Arts, Improved Combat Throw, Improved Initiative, Low Profile,
-Nerve Pinch, Precise Shot, Shot on the Run, Skip Shot, Spacer, Stealthy,
-Trustworthy, Unbalance Opponent.
+- Advanced Combat Martial Arts
+- Advanced Firearms Proficiency
+- Aircraft Operation (spacecraft)
+- Alertness
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Armor Proficiency (powered)
+- Athletic
+- Combat Throw
+- Dead Aim
+- Double Tap
+- Elusive Target
+- Far Shot
+- Improved Combat Martial Arts
+- Improved Combat Throw
+- Improved Initiative
+- Low Profile
+- Nerve Pinch
+- Precise Shot
+- Shot on the Run
+- Skip Shot
+- Spacer
+- Stealthy
+- Trustworthy
+- Unbalance Opponent
 
-**Uncanny Stealth**
+### Uncanny Stealth
 
 Tracers learn to move quickly yet quietly.
 
@@ -116,7 +153,7 @@ At 7th level, a Tracer suffers only a –10 penalty on Hide and Move
 Silently checks while running or charging (instead of the normal –20
 penalty).
 
-**Swift Tracking**
+### Swift Tracking
 
 At 10th level, the Tracer can move a full speed without penalty when
 using the Survival skill to track. He can move at twice normal speed

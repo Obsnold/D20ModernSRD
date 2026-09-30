@@ -28,27 +28,44 @@ aspects of his faith.
 The following information pertains to the Holy/Unholy Knight prestige
 class.
 
-**Hit Die**
+### Hit Die
 
 Holy/Unholy Knights gain 1d10 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 Holy/Unholy Knights gain a number of action points equal to 7 plus
 one-half their character level, rounded down, every time they advance a
 level in this class.
 
-**Class Skills**
+### Class Skills
 
-The Holy/Unholy Knight’s class skills are as follows: Climb (Str),
-Diplomacy (Cha), Handle Animal (Cha),Intimidate (Cha), Jump (Str),
-Knowledge (arcane lore, current events, history, popular culture,
-streetwise, tactics, technology, theology and philosophy) (Int),
-Profession (Wis), Read/Write Language (none), Ride (Dex), Sense Motive
-(Wis), Speak Language (none), Treat Injury (Wis).
+The Holy/Unholy Knight’s class skills are as follows:
+
+- Climb (Str)
+- Diplomacy (Cha)
+- Handle Animal (Cha)
+- Intimidate (Cha)
+- Jump (Str)
+- Knowledge (arcane lore) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (tactics) (Int)
+- Knowledge (technology) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Ride (Dex)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Treat Injury (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Holy/Unholy Knight**
 
@@ -64,7 +81,7 @@ Profession (Wis), Read/Write Language (none), Ride (Dex), Sense Motive
 
 The following features pertain to the Holy/Unholy Knight prestige class.
 
-**Divine Spells**
+### Divine Spells
 
 The Holy/Unholy Knight casts divine spells. Unless noted below, the
 Holy/Unholy Knight’s ability functions identically to the Acolyte’s
@@ -92,12 +109,12 @@ higher ability scores.
 | 4 | 4 | 3 | 2 | — |
 | 5 | 4 | 3 | 2 | 1 |
 
-**Divine Grace**
+### Divine Grace
 
 At 1st level, a Holy/Unholy Knight applies his Charisma modifier (if
 positive) as a bonus on all saving throws.
 
-**Sense Allegiance**
+### Sense Allegiance
 
 At 2nd level, The Holy/Unholy Knight cans sense the presence of
 characters, creatures, and items of both his chosen allegiance, and his
@@ -108,7 +125,7 @@ around the Knight, but may be concentrated to a quarter circle emanating
 forward from the Knight. You can pinpoint allegiance more finely with a
 successful Search check (DC 25).
 
-**Smite Allegiance**
+### Smite Allegiance
 
 At 3rd level, the Holy/Unholy Knight gains the ability to smite
 characters, creatures, or items of opposing allegiance with a single
@@ -125,7 +142,7 @@ action point is expended if the Holy/Unholy Knight uses it and strikes a
 target that does not have an opposing allegiance. Smite allegiance is
 considered a supernatural ability.
 
-**Divine Touch**
+### Divine Touch
 
 At 4th level, the Holy/Unholy Knight gains the ability to channel divine
 energy through his body and apply it directly to himself or another
@@ -142,7 +159,7 @@ Use of this ability may be guided by the Holy/Unholy Knight’s
 allegiance, and widespread abuse may cause the Holy/Unholy Knight to
 lose his chosen allegiance.
 
-**Turn Undead**
+### Turn Undead
 
 At 5th level, the Holy/Unholy Knight can turn undead in the same manner
 as the Acolyte. The Holy Knight affects undead in the same manner as an
@@ -151,7 +168,7 @@ Unholy Knight affects undead in the same manner as an Acolyte with evil
 allegiance (rebuking or commanding them). Count all Holy/Unholy Knight
 and Acolyte levels when determining level for purposes of turning.
 
-**Former Knights**
+### Former Knights
 
 A Holy/Unholy Knight who loses his chosen allegiance, intentionally or
 not, loses all Holy/Unholy Knight special abilities, including the

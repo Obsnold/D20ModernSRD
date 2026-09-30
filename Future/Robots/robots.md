@@ -1,7 +1,5 @@
 # ROBOTS
 
-## Robots
-
 - [Evolution of Robotics](EvolutionOfRobotics.md)
 - [Robots as Heroes](RobotsAsHeroes.md)
 - [Biodroid (“Android”)](BiodroidAndroid.md)

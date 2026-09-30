@@ -37,8 +37,8 @@ halves the damage.
 
 **Magic Immunity (Ex):** A gear golem is immune to all
 spells, spell-like abilities, and supernatural effects, except as
-follows. An electricity effect slows it (as the *slow
-*spell) for 3 rounds, with no saving throw. A fire effect
+follows. An electricity effect slows it (as the *slow*
+spell) for 3 rounds, with no saving throw. A fire effect
 breaks any slow effect on the golem and cures 1 point of damage for each
 3 points of damage it would otherwise deal. The golem rolls no saving
 throw against fire effects.
@@ -59,7 +59,7 @@ normal sight, and gear golems can function with no light at all.
 | CR | 11 |
 | Size | Large |
 | Type | construct |
-| ?? | HD18d10+20 |
+| HD | 18d10+20 |
 | hp | 119 |
 | Mas | — |
 | Init | –1 |

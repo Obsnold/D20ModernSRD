@@ -17,8 +17,8 @@ creature) entering the place. The undead remain animated until they are
 destroyed. (A destroyed undead can’t be animated again.) Intelligent
 undead can follow more sophisticated commands.
 
-The *animate dead* seed (which is more potent than the *animate dead
-*spell) allows you create 20 HD of undead. For each additional 1 HD of
+The *animate dead* seed (which is more potent than the *animate dead*
+spell) allows you create 20 HD of undead. For each additional 1 HD of
 undead created, increase the Knowledge (arcane lore) check DC by +1. The
 undead you create remain under your control indefinitely.
 
@@ -36,7 +36,7 @@ you want to both create and control more than 20 HD of undead, increase
 the Knowledge (arcane lore) DC by +3 per additional 2 HD of undead.
 
 **Type of Undead:** All types of undead can be created with the *animate
-dead *seed, although creating more powerful undead increases the
+dead* seed, although creating more powerful undead increases the
 Knowledge (arcane lore) check DC, according to the chart below. The GM
 must set the Knowledge (arcane lore) check DC for undead not included on
 the chart, using similar undead as a basis for comparison.

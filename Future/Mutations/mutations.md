@@ -21,7 +21,7 @@ All special qualities granted by mutations are considered extraordinary
 abilities. Using an extraordinary ability is a free action unless noted
 otherwise.
 
-MUTATION POINTS
+## Mutation Points
 
 Mutation Points (MP) provide a simple method of selecting mutations
 while preserving game balance. All creatures (including heroes) begin

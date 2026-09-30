@@ -1,7 +1,5 @@
 # STARSHIPS
 
-STARSHIPS
-
 The rules for starship combat are based on the rules for character
 combat. Like character-scale combat, starship battles unfold on a square
 grid, with each starship occupying one or more squares on the grid. As
@@ -9,14 +7,12 @@ with character-scale combat, starship battles play out in rounds.
 
 The starship combat system presented here strikes a balance between
 realism and ease of play. The system can be made more realistic by
-adapting bits and pieces of the vehicle movement and combat rules* *to
+adapting bits and pieces of the vehicle movement and combat rules to
 the 500-feet-per-square starship scale.
 
 These basic starship combat rules also assume that all starships
 involved in the battle are crewed by nonheroic characters. What happens
 when heroes take the controls is discussed later.
-
-## Starships
 
 - [Starship Types and Subtypes](StarshipTypesAndSubtypes.md)
 - [Starship Fighting Space](StarshipFightingSpace.md)

@@ -35,7 +35,7 @@ receive a –3 penalty. However, they will always volunteer to let heroes
 use any equipment at any of their facilities, as long as it is for a
 service that will aid the Shadow community.
 
-**Friends of the Displaced**
+## Friends of the Displaced
 
 Members of the organization receive a small booklet containing the
 contact information for local organizations, companies, and individuals

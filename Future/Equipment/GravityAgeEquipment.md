@@ -2,7 +2,7 @@
 
 The following equipment is available at PL 7 and later.
 
-**Chemical, Biocort**
+## Chemical, Biocort
 
 Biocort is a unique chemical compound that enhances the human body’s
 natural ability to heal. Biocort pushes the immune system into
@@ -10,7 +10,7 @@ overdrive, and can cause the character to heal from grievous wounds at a
 greatly increased rate. Any character injected with biocort heals at
 twice the normal rate for a 24-hour period.
 
-**Galpos Device**
+## Galpos Device
 
 The GalPos device is the Gravity Age equivalent of the GPS system of the
 modern era. Equipped with star charts and a link to the galactic
@@ -25,7 +25,7 @@ what star system she is in (if not on a planet).
 A GalPos device with the satellite uplink gadget can function as a GPS
 receiver on worlds where such systems are available.
 
-**Grappling Tether**
+## Grappling Tether
 
 Replacing duracable and the grappling tag, the grappling tether is
 another application of gravity technology put to practical use. The
@@ -42,7 +42,7 @@ is smaller in mass than the character), or pull herself to the object
 attached to a wall, ceiling, or other fixed surface). The anchor is
 released with a simple push of a button.
 
-**Piercing Visor**
+## Piercing Visor
 
 The piercing visor allows a person to see through solid objects. Through
 a combination motion-sensor data, gravity fluctuations, ambient light
@@ -57,7 +57,7 @@ The visor can penetrate 6 inches of metal (except lead, which it cannot
 see through) and 1 foot of other materials, including concrete, wood,
 and plaster.
 
-**Power Backpack**
+## Power Backpack
 
 The power backpack is essentially a portable generator. While worn, the
 power backpack can replace the power packs used by laser and plasma
@@ -65,7 +65,7 @@ weapons, granting an infinite supply of ammunition while attached.
 Additionally, the power backpack can provide energy to almost any device
 requiring electrical power.
 
-**Projectile Deflector**
+## Projectile Deflector
 
 A defensive item that is in many ways the predecessor to the personal
 shield, the projectile deflector generates a field of gravity-altering
@@ -75,7 +75,7 @@ making the target harder to hit. The projectile deflector grants a +4
 equipment bonus to Defense against ranged attacks. Melee attacks are
 unaffected by this device.
 
-**Sensor, Armacomp**
+## Sensor, Armacomp
 
 The armacomp sensor is a hand-held computer or computerized gauntlet
 designed to detect and locate weapons of all types. It grants a +6
@@ -86,7 +86,7 @@ equipment bonus on all Repair checks made on weapons. This does not
 include explosives and other demolitions devices, which are covered
 under the democomp sensor.
 
-**Sensor, Democomp**
+## Sensor, Democomp
 
 The democomp sensor is a hand-held computer or computerized gauntlet
 designed to detect and locate explosives of all types. It grants a +6
@@ -96,7 +96,7 @@ types makes it a valuable resource when planting them, granting a +4
 equipment bonus on all Demolitions and Disable Device checks made
 involving explosives.
 
-**Sensor, Electricomp**
+## Sensor, Electricomp
 
 The electricomp sensor is a hand-held computer or computerized gauntlet
 designed to detect and locate electronic devices of all types, including
@@ -108,7 +108,7 @@ granting a +4 equipment bonus on all Repair checks made on them.
 Additionally, the electricomp can be used to identify any flaws in
 cybernetics.
 
-**Sensor, Mechanicomp**
+## Sensor, Mechanicomp
 
 The mechanicomp sensor is a hand-held computer or computerized gauntlet
 designed to assist in the evaluation and repairs of mechanical devices.
@@ -118,7 +118,7 @@ extensive library of mechanical blueprints, any repairs made using the
 mechanicomp as a reference are more efficient, granting a +4 equipment
 bonus on all Repair checks made to vehicles, starships, and mecha.
 
-**Sensor, Medicomp**
+## Sensor, Medicomp
 
 The mechanicomp sensor is a hand-held computer or computerized gauntlet
 designed to assist in the evaluation and healing of the human body. The

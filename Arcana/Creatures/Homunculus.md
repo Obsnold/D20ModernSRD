@@ -59,7 +59,7 @@ homunculi perishes, its death deals 2d10 points of damage to the Techno
 Mage. Homunculi are constructs and, as such, may be stored until
 needed.
 
-**Biochemical Homunculus**
+## Biochemical Homunculus
 
 A biochemical homunculus is made using the Craft (pharmaceutical)
 skill and appears as a roughly humanoid wisp of vapor. It can merge with
@@ -93,8 +93,6 @@ the host creature. If a melded biochemical homunculus is taken more than
 action and returns to its master with all due haste. If its host
 creature is slain, the melded biochemical homunculus is immediately
 destroyed as well.
-
-## Biochemical Homunculus
 
 | Stat | Value |
 |---|---|
@@ -136,7 +134,7 @@ destroyed as well.
 
 **Advancement:** 3–6 HD (Tiny).
 
-**Digital Homunculus**
+## Digital Homunculus
 
 A digital homunculus is made with the Craft (electronic) skill and
 resembles a mechanical insect. It has the ability to uplink with
@@ -155,8 +153,6 @@ these skills are applied.
 The digital homunculus must succeed at a melee touch attack to
 attach to any device in another creature’s possession. It loses its
 Dexterity bonus to Defense while connected to a device.
-
-## Digital Homunculus
 
 | Stat | Value |
 |---|---|
@@ -198,7 +194,7 @@ Dexterity bonus to Defense while connected to a device.
 
 **Advancement:** 3–6 HD (Tiny).
 
-**Flesh Homunculus**
+## Flesh Homunculus
 
 A flesh homunculus is formed from the living tissue of the Techno
 Mage. It resembles an emaciated, bipedal bat with needlelike fangs that
@@ -215,8 +211,6 @@ ignores the first 5 points of damage dealt by a nonmagical weapon.
 **Fast Healing 3 (Ex):** A flesh homunculus heals 3
 points of damage each round so long as its master is alive and the
 homunculus has at least 1 hit point.
-
-## Flesh Homunculus
 
 | Stat | Value |
 |---|---|
@@ -258,7 +252,7 @@ homunculus has at least 1 hit point.
 
 **Advancement:** 3–6 HD (Tiny).
 
-**Mechanical Homunculus**
+## Mechanical Homunculus
 
 A mechanical homunculus is made of metal and resembles a miniature
 robot. It is constructed using the Craft (mechanical) skill. This
@@ -282,8 +276,6 @@ Speak Language (any), and Spot. No skill can have more than 5 ranks
 assigned to it, and all of the skills are treated as class skills. A
 damaged mechanical homunculus with one or more ranks of Repair can
 attempt to repair itself or aid another’s attempts to repair it.
-
-## Mechanical Homunculus
 
 | Stat | Value |
 |---|---|

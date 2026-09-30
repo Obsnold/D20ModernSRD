@@ -55,7 +55,7 @@ only.
 
 **Purchase DC Modifier:** +3.
 
-Booby Trapped
+## Booby Trapped
 
 Those characters with a more paranoid outlook on life may consider the
 booby trapped gadget for protecting their personal belongings. Any
@@ -88,7 +88,7 @@ trigger an explosive device.
 
 **Purchase DC Modifier:** +6.
 
-Collapsible
+## Collapsible
 
 In situations that call for stealth and deception, it is of great value
 to be able to separate an item into its parts and transport them in
@@ -105,7 +105,7 @@ weapon for what it really is.
 
 **Purchase DC Modifier:** +2.
 
-Compact
+## Compact
 
 By eliminating wasted space and using smaller components, some engineers
 are capable of producing weapons far smaller than their standard
@@ -119,7 +119,7 @@ rely on size and mass to deliver damage.
 
 **Purchase DC Modifier:** +2.
 
-Expanded Magazine
+## Expanded Magazine
 
 Some weapon engineers recognize that stopping to reload a weapon in
 combat is a dangerous and potentially life-threatening maneuver. Taking
@@ -133,7 +133,7 @@ gadget may only be taken once per weapon.
 
 **Purchase DC Modifier:** +2.
 
-Genetic Tags
+## Genetic Tags
 
 Some law enforcement agencies and military units go out of their way to
 track the exact actions of their members by placing an identifying
@@ -149,7 +149,7 @@ identifying the attacker to any forensic analysis.
 
 **Purchase DC Modifier:** +2.
 
-Integrated Equipment
+## Integrated Equipment
 
 A particular piece of nonweapon equipment has been integrated into the
 weapon and can be used by the weapon’s bearer at any time. This gadget
@@ -171,7 +171,7 @@ modification is made.
 
 **Purchase DC Modifier:** +1.
 
-Miniaturized
+## Miniaturized
 
 By eliminating wasted space and using microscopic components, some
 engineers are capable of producing weapons vastly smaller than normal.
@@ -189,7 +189,7 @@ rely on size and mass to deliver damage.
 
 **Purchase DC Modifier:** +5.
 
-Scope, Rangefinding Laser
+## Scope, Rangefinding Laser
 
 One of the most valuable additions to any weapon is a scope, allowing
 the bearer to target opponents farther away than normal. What makes the
@@ -208,7 +208,7 @@ the exact position of a target and ensures greater accuracy.
 
 **Purchase DC Modifier:** +1.
 
-Sensor Baffling
+## Sensor Baffling
 
 From simple metal detectors to advanced x-ray scanners, there’s a way to
 detect every weapon. As the technology level increases, so does the
@@ -222,7 +222,7 @@ devices.
 
 **Purchase DC Modifier:** +2.
 
-Spring-Loaded
+## Spring-Loaded
 
 Some weapons are designed to be concealed from sight and then quickly
 drawn into the hand at a moment’s notice. The spring-loaded gadget
@@ -236,7 +236,7 @@ character’s person.
 
 **Purchase DC Modifier:** +2
 
-Stun Module
+## Stun Module
 
 One advantage of energy weapons over their ballistic and physical
 counterparts is that they are capable of altering their own output on
@@ -253,7 +253,7 @@ Fortitude save (DC determined by cost of the gadget) or be stunned for
 **Purchase DC Modifier:** +2 (Fort DC 12); +4 (Fort DC 15); +6 (Fort DC
 18).
 
-Techno-Organic Makeup
+## Techno-Organic Makeup
 
 Though the technology of Earth is based on electronics and mechanics,
 some alien cultures may have developed technology based on living
@@ -274,7 +274,7 @@ techno-organic material.
 
 **Purchase DC Modifier:** +2.
 
-Variable Ammunition
+## Variable Ammunition
 
 Firearms typically draw their ammunition from a single source and do so
 until they are reloaded with a fresh magazine. The variable ammunition
@@ -290,7 +290,7 @@ additional magazine capacity for a different type of ammunition.
 
 **Purchase DC Modifier:** +4.
 
-Variable Charge
+## Variable Charge
 
 As with the stun module gadget, the variable charge gadget takes
 advantage of an energy weapon’s ability to modify the damage caused by
@@ -309,7 +309,7 @@ When this occurs, the weapon is completely destroyed.
 
 **Purchase DC Modifier:** +6.
 
-Voice Recognition System
+## Voice Recognition System
 
 A countermeasure commonly built into weapons is the voice recognition
 system gadget. It requires any user to speak a command word to unlock

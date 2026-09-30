@@ -30,7 +30,7 @@ of their type.
 
 Swarms have the following traits:
 
-**Swarm***: *Swarms are not subject to
+**Swarm:** Swarms are not subject to
 critical hits or flanking. A swarm takes half damage from ballistic,
 slashing, and piercing weapons. It is immune to any spell or effect that
 targets a specific number of creatures (including single-target spells
@@ -85,7 +85,7 @@ mind-affecting spells as if it was a single intelligent creature.
 Sentient swarms have skills as a magical beast (2 xInt score, plus 1
 additional skill point per HD beyond 1 HD).
 
-**Monstrous Spider Swarm**
+## Monstrous Spider Swarm
 
 **Vermin:** A monstrous spider swarm is immune to
 mindaffecting attacks.
@@ -101,8 +101,6 @@ effects of massive damage.
 the dark up to 60 feet. Darkvision is black and white only, but it is
 otherwise like normal sight, and the spiders can function with no light
 at all.
-
-## Monstrous Spider Swarm
 
 | Stat | Value |
 |---|---|
@@ -143,7 +141,7 @@ at all.
 
 **Advancement:** None.
 
-**Piranha Swarm**
+## Piranha Swarm
 
 **Aquatic:** A swarm of piranha can move in water
 without making Swim checks and cannot drown in water.
@@ -152,8 +150,6 @@ without making Swim checks and cannot drown in water.
 twice as far as a human in starlight, moonlight, torchlight, and similar
 conditions of poor illumination. It retains the ability to distinguish
 color and detail under these conditions.
-
-## Piranha Swarm
 
 | Stat | Value |
 |---|---|
@@ -170,7 +166,8 @@ color and detail under these conditions.
 | Defense Breakdown | +3 Dex, +1 natural |
 | BAB | +4 |
 | Grap | — |
-| Atk | swarm (2d6, swarm), Full Atk swarm (2d6, swarm) |
+| Atk | swarm (2d6, swarm) |
+| Full Atk | swarm (2d6, swarm) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 0 ft. |
 | SQ | swarm, aquatic, distraction, low-light vision |
@@ -187,7 +184,7 @@ AP 0; Rep +0; Str 1, Dex 17, Con 12, Int 1, Wis 10, Cha 1.
 
 **Advancement:** None.
 
-**Sentient Killer Bee Swarm**
+## Sentient Killer Bee Swarm
 
 The killer bees in this swarm possess a hive mind. If dispersed,
 the bee swarm loses its intelligence (as individual
@@ -205,8 +202,6 @@ effects of massive damage.
 in the dark up to 60 feet. Darkvision is black and white only, but it is
 otherwise like normal sight, and the killer bees can function with no
 light at all.
-
-## Sentient Killer Bee Swarm
 
 | Stat | Value |
 |---|---|
@@ -247,7 +242,7 @@ Silently +7, Spot +7.
 
 **Advancement:** None.
 
-**Shadowmoth Swarm**
+## Shadowmoth Swarm
 
 **Vermin:** A shadowmoth swarm is immune to
 mind-affecting attacks.
@@ -260,8 +255,6 @@ of massive damage.
 dark up to 60 feet. Darkvision is black and white only, but it is
 otherwise like normal sight, and the shadowmoths can function with no
 light at all.
-
-## Shadowmoth Swarm
 
 | Stat | Value |
 |---|---|
@@ -302,7 +295,7 @@ light at all.
 
 **Advancement:** None.
 
-**Skeletal Rat Swarm**
+## Skeletal Rat Swarm
 
 **Undead:** Skeletal rat swarms are immune to poison,
 sleep, paralysis, stunning, disease, necromantic effects, and
@@ -311,7 +304,7 @@ damage, ability damage, ability drain, energy drain, or effects of
 massive damage, or any effect requiring a Fortitude save unless the
 effect also works on objects or is harmless. They may be healed by
 application of negative energy (such as an *inflict light
-wounds *spell). The swarm is destroyed if reduced to 0 hit
+wounds* spell). The swarm is destroyed if reduced to 0 hit
 points or less.
 
 **Immunities:** A skeletal rat swarm is immune to cold
@@ -322,8 +315,6 @@ weapons.
 dark up to 60 feet. Darkvision is black and white only, but it is
 otherwise like normal sight, and the skeletal rats can function with no
 light at all.
-
-## Skeletal Rat Swarm
 
 | Stat | Value |
 |---|---|
@@ -364,7 +355,7 @@ light at all.
 
 **Advancement:** None.
 
-**West Nile Mosquito Swarm**
+## West Nile Mosquito Swarm
 
 This cloud of mosquitos drains blood from its victims and also
 carries a deadly virus.
@@ -385,8 +376,6 @@ effects of massive damage.
 in the dark up to 60 feet. Darkvision is black and white only, but it is
 otherwise like normal sight, and the mosquitos can function with no
 light at all.
-
-## West Nile Mosquito Swarm
 
 | Stat | Value |
 |---|---|

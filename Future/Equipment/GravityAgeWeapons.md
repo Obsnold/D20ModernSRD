@@ -2,7 +2,7 @@
 
 The following weapons are available at PL 7 and later.
 
-**Ammunition, Deflecting**
+## Ammunition, Deflecting
 
 Deflecting ammunition creates a gravity deflection field that causes the
 bullets to bounce off walls. When used properly, deflecting ammunition
@@ -12,14 +12,14 @@ and so forth for maximum penetration potential.
 Any character using deflecting ammunition immediately gains the benefit
 of the Skip Shot feat.
 
-**Ammunition, Plasma-Coated**
+## Ammunition, Plasma-Coated
 
 Consisting of an armor-piercing round enveloped in superheated plasma,
 this type of ammunition reduces the Defense bonus provided by armor by
 2, to a minimum of +1. Half of the damage it deals is fire damage, and
 half of the damage is ballistic damage.
 
-**Ammunition, Seeker**
+## Ammunition, Seeker
 
 Each round of seeker ammunition contains a microscopic computer and
 gravity-bending generators. When seeking ammunition leaves the chamber,
@@ -28,7 +28,7 @@ target moves, the gravity generators nudge the bullet into a new
 trajectory to intercept its target at its new location. Seeking
 ammunition grants a +1 bonus on all ranged attacks.
 
-**Concussion Rifle**
+## Concussion Rifle
 
 A concussion rifle fires an artificial gravity pulse at the target with
 enough force to hurl it through the air (along a path away from the
@@ -41,7 +41,7 @@ dealt by the weapon. The target must also succeed in a Fortitude save
 wall or other solid surface, it takes damage as though it had fallen
 from a height equal to the number of feet it was thrown back.
 
-**Concussion Rod**
+## Concussion Rod
 
 Modeled after the medieval mace, this weapon has a miniature artificial
 gravity generator embedded in its alloy head, which increases in mass at
@@ -49,7 +49,7 @@ the instant of impact. The rod deals 2d8 points of damage with each
 successful hit; half of the damage is bludgeoning damage; half is
 concussive damage.
 
-**Gravity Snare**
+## Gravity Snare
 
 The gravity snare resembles a laser rifle but with two metal prongs
 where the muzzle should be. When fired, the prongs generate a strip of
@@ -64,7 +64,7 @@ entangled creature can escape the gravity ring with a successful Escape
 Artist check (DC 40) or break free with a successful Strength check (DC
 30).
 
-**Grenade, Dissolver**
+## Grenade, Dissolver
 
 This grenade releases a cloud of gas that dissolves organic matter,
 dealing 2d6 points of acid damage per round to all living creatures and
@@ -73,14 +73,14 @@ gravity well, the cloud persists until the gravity well collapses after
 1 minute. The gravity well prevents even strong winds from dispersing
 the acid cloud.
 
-**Grenade, Gravitic**
+## Grenade, Gravitic
 
 When this grenade detonates, it releases incredible gravitational
 forces. All creatures within a 10-foot-radius burst are crushed for 6d6
 points of bludgeoning damage. A successful Reflex save (DC 15) halves
 the damage.
 
-**Grenade, Stun**
+## Grenade, Stun
 
 A stun grenade deals no damage, but any creature within its 15-foot
 burst radius that fails a Reflex save (DC 18) must immediately make a
@@ -89,7 +89,7 @@ succeeds on the Reflex save is not required to make a Fortitude save and
 is unaffected by the grenade. A stun grenade has no effect on robots and
 other creatures immune to stunning effects.
 
-**Plasma Weapons**
+## Plasma Weapons
 
 Plasma occurs when gases become electrically charged after losing
 electrons. Plasma weapons condense this electrically charged gas into a
@@ -102,7 +102,7 @@ gasses into a focused plasma round.
 Plasma weapons do not use ammunition, but are instead powered by power
 packs.
 
-**Rail Gun**
+## Rail Gun
 
 The Gravity Age rail gun uses gravity pulses, not magnets, to propel a
 projectile at high velocities. Metal shards are accelerated along the

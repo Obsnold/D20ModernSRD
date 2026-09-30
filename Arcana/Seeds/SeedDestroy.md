@@ -21,8 +21,8 @@ using the *destroy* seed destroys only part of any very large object or
 structure targeted.
 
 The *destroy* seed affects even magical matter, energy fields, and force
-effects that are normally immune to damage, such as *wall of force.
-*Such effects are automatically destroyed. Incantations using the* ward
-*seed may also be destroyed, though you must succeed at an opposed
+effects that are normally immune to damage, such as *wall of force.*
+Such effects are automatically destroyed. Incantations using the *ward*
+seed may also be destroyed, though you must succeed at an opposed
 Knowledge (arcane lore) check against the other caster to bring down
 such an effect.

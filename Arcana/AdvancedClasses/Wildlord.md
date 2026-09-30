@@ -16,27 +16,41 @@ criteria.
 
 The following information pertains to the Wildlord advanced class.
 
-**Hit Die**
+### Hit Die
 
 Wildlords gain 1d8 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Wildlords gain a number of action points equal to 6 plus one-half their
 character level, rounded down, every time they advance a level in this
 class.
 
-**Class Skills**
+### Class Skills
 
-The Wildlord’s class skills are as follows: Climb (Str), Concentration
-(Con), Drive (Dex), Diplomacy (Cha), Handle Animal (Cha), Hide (Dex),
-Knowledge (Behavioral sciences, earth and life sciences, physical
-sciences), Move Silently (Dex), Navigate (Int), Pilot (Dex), Profession
-(Wis), Ride (Dex), Spot (Wis), Survival (Wis), Swim (Str), Treat Injury
-(Wis).
+The Wildlord’s class skills are as follows:
+
+- Climb (Str)
+- Concentration (Con)
+- Drive (Dex)
+- Diplomacy (Cha)
+- Handle Animal (Cha)
+- Hide (Dex)
+- Knowledge (Behavioral sciences, earth and life sciences, physical sciences)
+- Move Silently (Dex)
+- Navigate (Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Ride (Dex)
+- Spot (Wis)
+- Survival (Wis)
+- Swim (Str)
+- Treat Injury (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Wildlord**
 
@@ -57,7 +71,7 @@ sciences), Move Silently (Dex), Navigate (Int), Pilot (Dex), Profession
 
 The following features pertain to the Wildlord advanced class.
 
-**Animal Empathy**
+### Animal Empathy
 
 At 1st level, the Wildlord gains the ability to use her Handle Animal
 skill to improve the attitude of an animal or magical beast. The
@@ -73,12 +87,12 @@ The Wildlord may also seek to influence magical beasts (including those
 she has never encountered before) at a –4 penalty. Animal empathy does
 not function on vermin.
 
-**Track**
+### Track
 
 At 2nd level, the Wildlord gains Track as a bonus feat, if she does not
 already have it.
 
-**Animal Companion**
+### Animal Companion
 
 At 2nd level, the Wildlord may spend an action point to transform an
 encountered animal into an animal companion. This requires a full-round
@@ -105,27 +119,33 @@ regain the action point if the creatures dies. In either case, the
 Wildlord must wait at least 24 hours before attempting to gain another
 animal companion.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Wildlord gets a bonus feat. The bonus
 feat must be selected from the following list, and the Wildlord must
 meet all of the prerequisites for the feat to select it.
 
-Animal Affinity, Athletic, Dodge, Endurance, Focused, Personal Firearms
-Proficiency, Renown, Stealthy.
+- Animal Affinity
+- Athletic
+- Dodge
+- Endurance
+- Focused
+- Personal Firearms Proficiency
+- Renown
+- Stealthy
 
-**Fast Climb**
+### Fast Climb
 
 At 3rd level, the Wildlord becomes an expert at climbing. A successful
 Climb check allows her to move her full speed rather than at half speed
 when climbing.
 
-**Resist Venom**
+### Resist Venom
 
 At 4th level, the Wildlord gains +4 resistance bonus on saving throws
 against natural poisons.
 
-**Call Companion**
+### Call Companion
 
 At 4th level, the Wildlord gains the supernatural ability to call her
 animal companion to her. The animal companion must be in the area
@@ -134,7 +154,7 @@ minutes. Situations which the Wildlord and animal companion are clearly
 separated the animal will express consternation and distress but will
 not be able to respond.
 
-**Skill Mastery**
+### Skill Mastery
 
 At 5th level, the Wildlord designates one skill from her Wildlord class
 skill list. When making a check with this skill, the Wildlord may take
@@ -142,7 +162,7 @@ skill list. When making a check with this skill, the Wildlord may take
 so. She becomes so certain in the use of this skill that she can use it
 reliably even under adverse conditions.
 
-**Expert in Your Field**
+### Expert in Your Field
 
 At 7th level, the Wildlord is considered to be a master of nature lore,
 animals, and plants. The Wildlord gains a circumstance bonus equal to
@@ -151,13 +171,13 @@ with her knowledge of the natural world. Such skills would include
 applicable Knowledge skills, as well as such social skills as Intimidate
 and Bluff when animals are involved.
 
-**Command/Rebuke Animals**
+### Command/Rebuke Animals
 
 At 8th level, the Wildlord may spend an action point to turn, command,
 or rebuke animals. This functions in the same manner as the ability to
 turn undead for the Acolyte*.*
 
-**Transform Companion**
+### Transform Companion
 
 At 9th level, the Wildlord gains the supernatural ability to transform
 her animal companion into a small, inert object, such as a charm, a
@@ -169,7 +189,7 @@ object to the ground and cause it to immediately take its original form.
 The transformed creature is considered a magical beast as long as it
 remains the Wildlord’s companion.
 
-**Command/Rebuke Magical Beasts**
+### Command/Rebuke Magical Beasts
 
 At 10th level, the Wildlord may spend an action point to turn, command,
 or rebuke magical beasts. This functions in the same manner as the
@@ -228,11 +248,3 @@ bonus.
 attack that normally allows a Reflex saving throw for half damage, it
 takes no damage if it makes a successful saving throw and only half
 damage if the saving throw fails.
-
-## PRESTIGE CLASSES
-
-Prestige classes have requirements that are more restrictive than those
-for advanced classes, and therefore reflect deeper specialization. In
-general, prestige classes are usually accessible only after 8 to 10
-character levels and often have requirements only found in advanced
-classes.

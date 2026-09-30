@@ -254,7 +254,7 @@ mode).
 
 **Purchase DC:** 27.
 
-**Restriction:** Licensed (+1).** Oracle Targeting System**
+**Restriction:** Licensed (+1). **Oracle Targeting System**
 
 ## Class V Sensor System (pl 7)
 

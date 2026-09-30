@@ -39,7 +39,7 @@ fingers or a portion of a face projecting from its surface.
 
 **Immunities (Ex):** Montauk monsters are immune to fire and
 electricity. They are also immune to force effects such as *mage armor,
-magic missile, *and* wall of force. *The creatures and their melee
+magic missile*, and *wall of force.* The creatures and their melee
 attacks pass through such effects unharmed and unhindered.
 
 **Invisibility (Su):** A montauk monster is naturally invisible, as
@@ -69,7 +69,7 @@ once per round.
 | Atk | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, energy claw) |
 | Full Atk | +11 melee (1d8+6 plus 1d6 fire plus 1d6 electricity, 2 energy claws) |
 | FS | 10 ft. by 10 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 15), immunities, invisibility |
 | AL | evil |
 | Fort | +6 |
@@ -111,7 +111,7 @@ once per round.
 | Atk | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, energy claw) |
 | Full Atk | +22 melee (2d6+10 plus 1d6 fire plus 1d6 electricity, 2 energy claws) |
 | FS | 15 ft. by 15 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | damage reduction 20/+1, darkvision 60 ft., elemental, energy claw, energy form, fast healing 3, fire subtype, fuse (DC 24), immunities, invisibility |
 | AL | evil |
 | Fort | +11 |

@@ -15,8 +15,8 @@
 
 A pale glow surrounds and outlines the subjects. Outlined subjects shed
 light as candles. Outlined creatures do not benefit from the concealment
-normally caused by darkness (but not magical *darkness*),* blur,
-displacement, invisibility, *or similar effects.
+normally caused by darkness (but not magical *darkness*), *blur,
+displacement, invisibility*, or similar effects.
 
 The light is too dim to have any special effect on undead or
 darkdwelling creatures. The *faerie fire* can be blue, green, or violet,

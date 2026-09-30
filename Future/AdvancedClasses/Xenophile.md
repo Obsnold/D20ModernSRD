@@ -17,29 +17,42 @@ criteria.
 
 The following information pertains to the Xenophile advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Xenophile gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Xenophile gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
-**Class Skills**
+### Class Skills
 
 The Xenophile’s class skills are as follows.
 
-Bluff (Cha), Computer Use (Int), Craft (pharmaceutical) (Int), Decipher
-Script (Int), Diplomacy (Cha), Knowledge (arcane lore, behavioral
-sciences, earth and life sciences, history, technology, theology and
-philosophy) (Int), Read/Write Language (none), Research (Int), Sense
-Motive (Wis), Speak Language (none), Treat Injury (Wis).
+- Bluff (Cha)
+- Computer Use (Int)
+- Craft (pharmaceutical) (Int)
+- Decipher Script (Int)
+- Diplomacy (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (technology) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Read/Write Language (none)
+- Research (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Treat Injury (Wis)
 
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Xenophile**
 
@@ -60,7 +73,7 @@ nonhumans).
 
 The following class features pertain to the Xenophile advanced class.
 
-**Xenolore**
+### Xenolore
 
 A Xenophile can make a Knowledge check to identify certain
 characteristics of a xenomorph, including any special attacks, special
@@ -83,7 +96,7 @@ plants, vermin.
 
 **Knowledge (theology and philosophy):** Outsiders, undead.
 
-**Xenotype**
+### Xenotype
 
 A Xenophile studies the behaviors and weaknesses of particular
 xenomorphs and knows how to exploit them.
@@ -126,23 +139,31 @@ as a xenotype must also specify a particular species.
 
 ¹ Choose a specific humanoid species.
 
-**Xenoresistance**
+### Xenoresistance
 
 At 2nd level, a Xenophile gains a +1 bonus on saving throws to resist
 the extraordinary, spell-like, or supernatural attacks of species other
 than her own. This bonus increases to +2 at 5th level and +3 at 8th
 level.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Xenophile gets a bonus feat. The bonus
 feat must be selected from the following list, and the Xenophile must
 meet all the prerequisites of the feat to select it.
 
-Alien Weapons Proficiency, Combat Reflexes, Dodge, Educated, Medical
-Expert, Mobility, Studious, Surgery, Weapon Focus, Xenomedic.
+- Alien Weapons Proficiency
+- Combat Reflexes
+- Dodge
+- Educated
+- Medical Expert
+- Mobility
+- Studious
+- Surgery
+- Weapon Focus
+- Xenomedic
 
-**Xenodefense**
+### Xenodefense
 
 At 5th level, during her action, the Xenophile can designate an opponent
 and receive a +1 insight bonus to Defense against any subsequent attacks

@@ -5,7 +5,7 @@ effects only the bearer.
 
 Sample tattoos include the following:
 
-**Broken Arrow Tattoo**
+## Broken Arrow Tattoo
 
 The bearer of the tattoo, which usually looks like a broken arrow, gains
 damage reduction 10/+2 against ranged weapons that fire arrows, bolts,
@@ -15,7 +15,7 @@ effect lasts for 50 minutes.
 *Type:* Tattoo (magic); *Caster Level:* 5th (arcane); *Purchase DC:* 20;
 *Weight:* —.
 
-**Bullseye Tattoo**
+## Bullseye Tattoo
 
 The bearer of this bullseye tattoo gains a +20 insight bonus on her next
 single attack, as per the *true strike* spell. The attack ignores any
@@ -24,7 +24,7 @@ miss chance that applies to attacks against a concealed target.
 *Type:* Tattoo (magic); *Caster Level:* 1st (arcane); *Purchase DC:* 17;
 *Weight:* —.
 
-**Caduceus Tattoo**
+## Caduceus Tattoo
 
 This tattoo is usually shaped like a medical caduceus (a pair of
 serpents entwined around a staff). Activating the tattoo triggers a
@@ -43,12 +43,12 @@ damage. A single tattoo is enough to simultaneously achieve all these
 effects. The tattoo’s magic also removes negative levels, but it does
 not restore permanently drained levels.
 
-*Type:* Tattoo (magic); *Caster Level:* 11th\*;* Purchase DC: *26;
+*Type:* Tattoo (magic); *Caster Level:* 11th\*; *Purchase DC:* 26;
 *Weight:* —.
 
 \**See the Incantation-Based FX Items sidebar.*
 
-**Tattoo of Spell Resistance**
+## Tattoo of Spell Resistance
 
 This tattoo comes in various patterns, although tribal bands around the
 forearm or bicep are the most common. The bearer of this tattoo gains SR

@@ -18,26 +18,35 @@ following criteria.
 
 The following information pertains to the Dreadnought advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Dreadnought gains 1d12 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Dreadnought gains a number of action points equal to 6 + one-half
 her character level, rounded down, every time she attains a new level in
 this class.
 
-**Class Skills**
+### Class Skills
 
 The Dreadnought’s class skills are as follows.
 
-Balance (Dex), Climb (Str), Concentration (Con), Intimidate (Cha), Jump
-(Str), Profession (Wis), Survival (Wis), Swim (Str), Tumble (Dex).
+- Balance (Dex)
+- Climb (Str)
+- Concentration (Con)
+- Intimidate (Cha)
+- Jump (Str)
+- Profession (Wis)
+- Survival (Wis)
+- Swim (Str)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 3 + Int modifier (2 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Dreadnought**
 
@@ -58,22 +67,22 @@ nonhumans).
 
 The following class features pertain to the Dreadnought advanced class.
 
-**Fearless**
+### Fearless
 
 The Dreadnought is immune to fear effects.
 
-**Stability**
+### Stability
 
 The Dreadnought is incredibly sure-footed. She gains a +4 stability
 bonus on all rolls made to resist being tripped, overrun, knocked prone,
 or pushed back by a bull rush attack.
 
-**Unhindered**
+### Unhindered
 
 The Dreadnought treats any suit of armor worn as though its armor
 penalty is 2 better.
 
-**Ability Surge**
+### Ability Surge
 
 At 2nd level, the Dreadnought can temporarily increase her Strength, but
 at a penalty to Defense. At 5th and 8th level, she can use this ability
@@ -88,31 +97,58 @@ by spending an action point. The Dreadnought may use the ability surge
 once per day at 2nd level, twice per day at 5th level, and three times
 per day at 8th level.
 
-**Steamroller**
+### Steamroller
 
 Starting at 2nd level, the Dreadnought does not need to move before
 making an overrun attempt against an opponent. She also gains a +2 bonus
 on any trip attack made against an opponent who blocks her overrun
 attempt.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Dreadnought gets a bonus feat. The bonus
 feat must be selected from the following list, and the Dreadnought must
 meet all the prerequisites of the feat to select it.
 
-Action Boost, Advanced Combat Martial Arts, Advanced Firearms
-Proficiency, Advanced Two-Weapon Fighting, Armor Proficiency (light),
-Armor Proficiency (medium), Armor Proficiency (heavy), Armor Proficiency
-(powered), Athletic, Brawl, Burst Fire, Cleave, Combat Expertise, Combat
-Martial Arts, Combat Reflexes, Endurance, Frightful Presence, Great
-Cleave, Improved Brawl, Improved Bull Rush, Improved Combat Martial
-Arts, Improved Combat Throw, Improved Disarm, Improved Knockout Punch,
-Improved Trip, Improved Two-Weapon Fighting, Knockout Punch, Mobility,
-Power Attack, Run, Spring Attack, Strafe, Streetfighting, Sunder,
-Toughness, Two-Weapon Fighting, Ultra Immune System.
+- Action Boost
+- Advanced Combat Martial Arts
+- Advanced Firearms Proficiency
+- Advanced Two-Weapon Fighting
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Armor Proficiency (heavy)
+- Armor Proficiency (powered)
+- Athletic
+- Brawl
+- Burst Fire
+- Cleave
+- Combat Expertise
+- Combat Martial Arts
+- Combat Reflexes
+- Endurance
+- Frightful Presence
+- Great Cleave
+- Improved Brawl
+- Improved Bull Rush
+- Improved Combat Martial Arts
+- Improved Combat Throw
+- Improved Disarm
+- Improved Knockout Punch
+- Improved Trip
+- Improved Two-Weapon Fighting
+- Knockout Punch
+- Mobility
+- Power Attack
+- Run
+- Spring Attack
+- Strafe
+- Streetfighting
+- Sunder
+- Toughness
+- Two-Weapon Fighting
+- Ultra Immune System
 
-**Master Defender**
+### Master Defender
 
 Starting at 4th level, the Dreadnought becomes especially skilled in
 defensive fighting. Whenever she fights defensively or takes the total
@@ -125,14 +161,14 @@ this bonus.
 
 The bonus increases to +4 at 7th level and +6 and 10th level.
 
-**Knockdown**
+### Knockdown
 
 At 5th level and beyond, whenever the Dreadnought is allowed to apply
 her Strength modifier to damage, she forces the target of her successful
 attack to make at a Fortitude save (DC = damage dealt) or be knocked
 prone by the force of the blow.
 
-**Heavy Artillery**
+### Heavy Artillery
 
 Beginning at 8th level, a Dreadnought treats all weapons as one size
 category smaller for purposes of determining whether or not she can

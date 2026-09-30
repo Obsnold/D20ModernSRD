@@ -23,7 +23,7 @@ To create the duplicate, you must have a piece of flesh (not hair,
 nails, scales, or the like) taken from the original’s living body, with
 a volume of at least 1 cubic inch. The piece of flesh need not be fresh,
 but it must be kept from rotting (through periodic applications of *cure
-minor wounds *or more advanced medical means). Prior to the incantation
+minor wounds* or more advanced medical means). Prior to the incantation
 being cast, the duplicate body must be grown in a laboratory for 2d4
 months.
 

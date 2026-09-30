@@ -26,7 +26,7 @@ raised step in Progress Level, reduce the purchase DC by 2.
 replacement legally, and an appropriate black market purchase DC
 modifier.
 
-Artificial Organ (PL 5)
+## Artificial Organ (PL 5)
 
 An artificial organ fully replaces a defective or destroyed biological
 organ, such as a heart, lung, eye, or ear.
@@ -42,7 +42,7 @@ biological counterpart. It provides no special game benefits.
 
 **Restriction:** None.
 
-Prosthetic Arm (PL 5)
+## Prosthetic Arm (PL 5)
 
 A prosthetic arm fully replaces a lost or destroyed biological arm. The
 prosthetic arm may begin at the shoulder, elbow, or wrist.
@@ -58,7 +58,7 @@ biological counterpart. It provides no special game benefits.
 
 **Restriction:** None.
 
-Prosthetic Leg (PL 5)
+## Prosthetic Leg (PL 5)
 
 A prosthetic leg fully replaces a lost or destroyed biological leg. The
 prosthetic leg may begin at the thigh, knee, or ankle.
@@ -74,7 +74,7 @@ biological counterpart. It provides no special game benefits.
 
 **Restriction:** None.
 
-Artificial Organ Upgrade (PL 6)
+## Artificial Organ Upgrade (PL 6)
 
 This upgraded version of the PL 5 artificial organ not only replaces a
 defective or destroyed biological organ but is also more resilient than
@@ -92,7 +92,7 @@ massive damage (see Massive Damage Effects).
 
 **Restriction:** None.
 
-Prosthetic Arm Upgrade (PL 6)
+## Prosthetic Arm Upgrade (PL 6)
 
 This upgraded version of the PL 5 prosthetic arm not only replaces a
 lost or destroyed arm but is also more resilient than its technological
@@ -110,7 +110,7 @@ than the basic PL 5 prosthesis.
 
 **Restriction:** None.
 
-Prosthetic Leg Upgrade (PL 6)
+## Prosthetic Leg Upgrade (PL 6)
 
 This upgraded version of the PL 5 prosthetic leg not only replaces a
 lost or destroyed leg but is also more resilient than its technological
@@ -128,7 +128,7 @@ than the basic PL 5 prosthesis.
 
 **Restriction:** None.
 
-Advanced Artificial Organ (PL 7)
+## Advanced Artificial Organ (PL 7)
 
 This advanced version of the PL 5 artificial organ and PL 6 upgrade not
 only replaces a defective or destroyed biological organ but is also more
@@ -149,7 +149,7 @@ Attachments).
 
 **Restriction:** None.
 
-Advanced Prosthetic Arm (PL 7)
+## Advanced Prosthetic Arm (PL 7)
 
 This upgraded version of the PL 5 prosthetic arm and PL 6 upgrade not
 only replaces a lost or destroyed arm but is also more resilient and
@@ -168,7 +168,7 @@ can have before taking negative levels (see Number of Attachments).
 
 **Restriction:** None.
 
-Advanced Prosthetic Leg (PL 7)
+## Advanced Prosthetic Leg (PL 7)
 
 This upgraded version of the PL 5 prosthetic leg and PL 6 upgrade not
 only replaces a lost or destroyed leg but is also more resilient and

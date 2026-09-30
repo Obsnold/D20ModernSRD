@@ -175,7 +175,7 @@ below.
 | Atk | +2 melee (1d4, bite) |
 | Full Atk | +2 melee (1d4, bite) and –3 melee (1d3, gore) and –3 melee (1d2, claw) and –3 melee (1, slam) |
 | FS | 2 1/2 ft. by 2 1/2 ft. |
-| Reach | 0 ft |
+| Reach | 0 ft. |
 | SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 10), flesh transfer (DC 10), hive mind, immunities, mimic, regeneration 5, split |
 | AL | evil |
 | Fort | +0 |
@@ -216,7 +216,7 @@ Swim +12.
 | Atk | +4 melee (1d6+2, bite) |
 | Full Atk | +4 melee (1d6+2, bite) and –1 melee (1d4+1, gore) and –1 melee (1d3+1, claw) and –1 melee (1d2+1, slam) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 11), flesh transfer (DC 11), hive mind, immunities, mimic, regeneration 5, split |
 | AL | evil |
 | Fort | +0 |
@@ -260,7 +260,7 @@ Drive +4, Listen +8, Hide + 7, Move Silently +7, Pilot +4, Spot +8, Swim
 | Atk | +7 melee (2d4+4, bite) |
 | Full Atk | +7 melee (2d4+4, bite) and +2 melee (1d6+3, gore) and +2 melee (1d4+2, claw) and +2 melee (1d3+2, slam) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 12), flesh transfer (DC 13), hive mind, immunities, mimic, regeneration 5, split |
 | AL | evil |
 | Fort | +2 |
@@ -304,7 +304,7 @@ Drive +3, Listen +8, Hide +3, Move Silently +3, Pilot +3, Spot +8, Swim
 | Atk | +13 melee (2d6+8, bite) |
 | Full Atk | +13 melee (2d6+8, bite) and +8 melee (1d8+4, gore) and +8 melee (1d6+4, claw) and +8 melee (1d4+4, slam) |
 | FS | 10 ft. by 10 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 14), flesh transfer (DC 17), hive mind, immunities, mimic, regeneration 5, split |
 | AL | evil |
 | Fort | +5 |
@@ -349,7 +349,7 @@ Proficiency.
 | Atk | +22 melee (2d8+12, bite) |
 | Full Atk | +22 melee (2d8+12, bite) and +17 melee (2d6+6, gore) and +17 melee (2d4+6, claw) and +17 melee (1d6+6, slam) |
 | FS | 15 ft. by 15 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | absorb, alien physiology, cold resistance 10, convert, darkvision 60 ft., fear aura (DC 18), flesh transfer (DC 23), hive mind, immunities, mimic, regeneration 5, split |
 | AL | evil |
 | Fort | +10 |

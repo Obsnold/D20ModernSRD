@@ -23,7 +23,7 @@ when he’s caught flat-footed, he loses this dodge bonus, too.
 throws against Illusion spells cast by gnomes.
 
 ***Speak with Animals:*** Once per day, a gnome can use *speak with
-animals *to speak with a burrowing mammal (a mole, gopher, ground hog,
+animals* to speak with a burrowing mammal (a mole, gopher, ground hog,
 and so forth). It has a duration of 1 minute, and the gnome is
 considered a 1st-level caster when he uses this spell-like ability,
 regardless of his actual level.

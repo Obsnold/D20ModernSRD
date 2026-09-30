@@ -2,7 +2,7 @@
 
 The following weapons are available at PL 6 and later.
 
-**Ammunition, Bio-Agent**
+## Ammunition, Bio-Agent
 
 Unfortunately for its victims, biological warfare continues to be a
 common part of combat even in the Fusion Age. Bio-agent ammunition is a
@@ -15,7 +15,7 @@ ammunition causes a –1 penalty to damage. However, any living creature
 damaged by the round is injected with a poisonous bio-agent with effects
 identical to cyanogen gas.
 
-**Grenade, Concussion**
+## Grenade, Concussion
 
 Law enforcement officers in the Fusion Age use concussion grenades to
 knock out threatening targets. Living creatures within the concussion
@@ -23,7 +23,7 @@ grenade’s 10-foot burst radius take 4d6 points of nonlethal concussion
 damage, or half damage on a successful Reflex save (DC 15). Concussion
 grenades do not affect robots or other nonliving creatures.
 
-**Grenade, EMP**
+## Grenade, EMP
 
 An EMP grenade releases an electromagnetic pulse that instantly shorts
 out all electronic devices (including computers) within a 20-foot burst
@@ -40,7 +40,7 @@ attachments takes 1d6 points of electricity damage as well.
 An EMP grenade deals 5d6 points of electricity damage to a mecha or
 robot.
 
-**Grenade, Fireflush**
+## Grenade, Fireflush
 
 A fireflush grenade contains a chemical compound that combusts
 immediately upon contact with oxygen
@@ -50,7 +50,7 @@ fill a 10-foot burst radius. All creatures and objects within the burst
 radius take 3d6 points of fire damage. The blast also ignites clothing
 and other flammable items.
 
-**Grenade, Tangler**
+## Grenade, Tangler
 
 The tangler grenade operates on the same principle as the tangler gun,
 but targets an area rather than one specific character. Any time a
@@ -66,7 +66,7 @@ from tangler grenades stack with those from tangler guns.
 Hardened compound dissolves naturally after 8 hours or can be removed by
 using solvaway chemical or some other spray solvent.
 
-**High Frequency Sword**
+## High Frequency Sword
 
 One of the few melee weapons to be developed in the Fusion Age, the high
 frequency sword is made of a durable metal alloy many times tougher than
@@ -77,7 +77,7 @@ from these vibrations by a soft hilt, any character or object struck by
 the high frequency sword finds that the weapon is given extra cutting
 power thanks to its technological enhancements.
 
-**Laser Weapons**
+## Laser Weapons
 
 Laser weapons come in many shapes and sizes, from pistols to rifles and
 other longarms. Many different forms of technology can be used to create
@@ -91,7 +91,7 @@ Laser weapons do not use ammunition, but are instead powered
 
 by power packs.
 
-**Mini-Grenade Launcher**
+## Mini-Grenade Launcher
 
 Though personal grenade launchers were commonly found in the Information
 Age, the mini-grenade launcher is somewhat different in that it is
@@ -104,7 +104,7 @@ Information Age, the mini-rocket launcher is somewhat different in that
 it is reduced to roughly the size of a large pistol. Additionally, the
 ammunition it uses is reduced in size to match the weapon.
 
-**Stun Baton**
+## Stun Baton
 
 The stun baton is a long rod similar to those carried by modern-day
 police officers, though on one end of the baton a metal cap that emits a
@@ -112,7 +112,7 @@ pulse of stunning energy when it strikes a target. Any creature hit by a
 stun baton takes 1d6 points of bludgeoning damage and must succeed on a
 Fortitude save (DC 10 + damage dealt) or be stunned for 1d4 rounds.
 
-**Tangler Gun**
+## Tangler Gun
 
 A unique nonlethal weapon eagerly adopted by law enforcement agencies
 around the world, the tangler gun fires condensed balls of an incredibly

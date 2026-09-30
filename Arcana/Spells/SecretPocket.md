@@ -14,8 +14,8 @@
 | Spell Resistance | No |
 
 The *secret pocket* spell creates an extradimensional space that only
-you can reach through a pocket in the target garment. The *secret pocket
-*can hold 1 pound per caster level, and you can put anything in it that
+you can reach through a pocket in the target garment. The *secret pocket*
+can hold 1 pound per caster level, and you can put anything in it that
 will physical fit through the pocket opening. The item can be of any
 length and isn’t otherwise restricted by the pocket’s actual
 dimensions—it just has to be able to fit through the opening. The

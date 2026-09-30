@@ -5,15 +5,26 @@ move between cities or star systems, working odd jobs until boredom or
 fate leads them elsewhere. Along the way, they learn strange customs and
 pick up interesting and diverse skills.
 
-**Prerequisite:** Age 15+.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 15+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +2 |
 
-**Skills:** Choose three of the following skills as permanent class
-skills. If a skill you select is already a class skill, you gain a +1
-competence bonus on checks using that skill.
+## Skills
 
-Bluff (Cha), Decipher Script (Int), Disable Device (Int), Disguise
-(Cha), Forgery (Int), Gamble (Wis), Gather Information (Cha), Hide
-(Dex), Knowledge (streetwise) (Int), Navigate (Int), Sleight of Hand
-(Dex).
+Choose three of the following skills as permanent class skills. If a
+skill you select is already a class skill, you gain a +1 competence
+bonus on checks using that skill.
 
-**Wealth Bonus Increase:** +2.
+- Bluff (Cha)
+- Decipher Script (Int)
+- Disable Device (Int)
+- Disguise (Cha)
+- Forgery (Int)
+- Gamble (Wis)
+- Gather Information (Cha)
+- Hide (Dex)
+- Knowledge (streetwise) (Int)
+- Navigate (Int)
+- Sleight of Hand (Dex)

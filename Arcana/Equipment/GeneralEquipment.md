@@ -25,7 +25,7 @@ General Equipment).
 | ***Clothing*** | | | |
 | **Clothing outfit** | | | |
 | Business | 3 lb. | 12 | — |
-| Double-sided | * | +1* | — |
+| Double-sided | \* | +1\* | — |
 | Stealth | 2 lb. | 9 | — |
 | ***Surveillance Gear*** | | | |
 | Bug sweeper | 4.5 lb. | 21 | — |
@@ -76,18 +76,18 @@ General Equipment).
 
 See item description for more information.
 
-Clothing
+## Clothing
 
 Here are some additional outfits that heroes might wear during their
 adventures.
 
-**Stealth**
+## Stealth
 
 Worn by anyone who wants to go someplace without being seen. Includes
 long-sleeved shirt, cargo pants, tabi shoes, and ski mask. All these
 items are tight-fitting and matte black.
 
-**Double-sided**
+## Double-sided
 
 Any type of clothing can be made double-sided, allowing quick-change
 artists to switch outfits by turning their clothes inside out. It takes
@@ -95,18 +95,18 @@ one minute to swap clothing to the other side and grants a +2 equipment
 bonus on Disguise checks. Double-sided clothing adds +1 to the purchase
 DC of an outfit, but does not change the weight.
 
-Surveillance Equipment
+### Surveillance Equipment
 
 Keeping an eye on suspects or tracking the moves of potential enemies is
 a crucial part of the modern adventurer’s job.
 
-**Bug Sweeper**
+## Bug Sweeper
 
 A bug sweeper is a handheld device that measures radio frequency signals
 and looks for “suspicious” wavelengths. It gives a +5 equipment bonus on
 Search checks when trying to find microtransmitters.
 
-**Fiber Optic Camera**
+## Fiber Optic Camera
 
 This tiny camera mounted on a flexible cable allows a person to peer
 into places without being spotted or getting in harm’s way (such as
@@ -114,14 +114,14 @@ slipping it under a door or through an air vent). It includes a small
 viewer and can be connected to a video camera or monitor. It requires a
 Computer Use check (DC 10) to use properly.
 
-**Microphone, Contact**
+## Microphone, Contact
 
 Originally designed for bomb-disposal applications, contact mikes allow
 the operator to hear through walls, packages, doors, and so on, merely
 by placing the suction-cup microphone in contact with the surface in
 question. It can listen through 6 inches of material.
 
-**Microphone, Laser**
+## Microphone, Laser
 
 Trying to hear someone from a distance is fine, unless there is
 something in the way. A laser microphone bypasses this by measuring the
@@ -129,26 +129,26 @@ vibrations on a glass surface (such as a window). The listener can hear
 past a glass window and 10 feet around that area. It does not work on
 any other type of surface. A laser microphone has a range of 100 feet.
 
-**Microphone, Parabolic**
+## Microphone, Parabolic
 
 The specific function of this microphone is to pick up quiet sounds at a
 distance. Otherwise, it functions just like an ordinary pickup
 microphone. It has a range of 50 feet.
 
-**Microphone, Pick Up**
+## Microphone, Pick Up
 
 The standard microphone, designed to pick up sounds within a few meters.
 A standard pick up microphone can hear all sounds within 10 feet,
 granting a +5 equipment bonus on Listen checks.
 
-**Microphone, Shotgun**
+## Microphone, Shotgun
 
 A shotgun mike can pick up sounds up to 100 feet away, but must be
 pointed directly at the target. It has a very narrow corridor, roughly
 three feet across, and cannot pick up anything beyond that range. A
 shotgun mike gives a +5 equipment bonus on Listen checks.
 
-**Microtransmitter**
+## Microtransmitter
 
 Commonly called a “bug,” this tiny microphone is the size of a nickel
 and sends a signal to a waiting transmitter. Average quality bugs have a
@@ -160,26 +160,26 @@ opposed by the Hide skill of the person who planted it. A good quality
 microtransmitter grants a +2 equipment bonus on Hide checks. An amazing
 quality microtransmitter provides a +4 equipment bonus on Hide checks.
 
-**Police Scanner**
+## Police Scanner
 
 A police scanner allows a person to listen to emergency broadcast
 frequencies—fire, medical, animal control, and so forth. It has a range
 of 10 miles.
 
-**Video Shades**
+## Video Shades
 
 Incorporating a tiny pinhole camera and a microtransmitter, these
 otherwise ordinary sunglasses see whatever the wearer sees. There are
 two models—one transmits in black and white and the other in color. They
 include a microtransmitter with a range of 150 feet.
 
-Professional Equipment
+### Professional Equipment
 
 This category covers a wide variety of specialized equipment used by
 professionals in adventure-related fields. Some of these are kits that
 contain a variety of items bundled in one package.
 
-**Breaking and Entering Kit**
+## Breaking and Entering Kit
 
 This kit is designed for stealthy individuals who try to get into
 someplace without being seen and while making minimal noise. It includes
@@ -188,7 +188,7 @@ opening kit, contact microphone, penlight, lockpick set, lock release
 gun, microphone headset (walkie-talkie bought separately), and a
 multipurpose tool.
 
-**Capture Kit**
+## Capture Kit
 
 This kit is designed for neutralizing and capturing a live, dangerous
 target. Additional methods of incarceration are up to the hero—cages,
@@ -198,7 +198,7 @@ Mossberg shotgun with 12 beanbag rounds, air rifle, 6 tranquilizer darts
 handcuffs, 25 zip-ties, ketch-all pole, taser, duct tape, net launcher,
 and an additional net pack.
 
-**Concertina Wire**
+## Concertina Wire
 
 So named because it folds up like a squeezebox, concertina wire is the
 latest generation of barbed wire. It comes in 20-foot-long rolls that
@@ -208,7 +208,7 @@ section that a person tries to cross, he or she must make a Reflex save
 has hardness 2, 5 hp, and can only be damaged by slashing weapons or cut
 with a tool like boltcutters.
 
-**Fiend Hunter’s Kit**
+## Fiend Hunter’s Kit
 
 Considered by some to be the most dangerous of prey, fiends require
 extreme force and quick thinking to bring down. This kit contains a
@@ -217,13 +217,13 @@ rounds, 2 white phosphorous grenades, 2 fragmentation grenades, night
 vision goggles, holy symbols (various faiths), and 5 vials of holy
 water, all contained in a duffle bag.
 
-**Generator, Portable**
+## Generator, Portable
 
 A single cylinder, gas-powered generator on wheels that can produce
 enough electricity to power a house for eight hours. It requires two
 gallons of gasoline to operate and is noisy.
 
-**Glasscutter, Circular**
+## Glasscutter, Circular
 
 This special device allows a person to cut through glass panes without
 cracking or shattering them in the process. It fits onto the glass with
@@ -233,13 +233,13 @@ pulling out the circle of glass. The user makes a Dexterity check (DC
 10) to create a hole without shattering the glass. If the check fails,
 the glass shatters with a loud crash.
 
-**Hydraulic Compressor**
+## Hydraulic Compressor
 
 A hydraulic compressor is used to provide power to tools like the jaws
 of life, jackhammers, pumps, and the like. Without a compressor, many of
 these items will not operate.
 
-**Headset, Microphone**
+## Headset, Microphone
 
 This is a small, unobtrusive microphone and earphone headset, often
 hooked up to a professional walkie-talkie or cell phone (which must be
@@ -247,7 +247,7 @@ purchased separately). It allows a person to keep their hands free while
 engaging in conversation. Better quality versions also include a small,
 powerful flashlight attachment or tiny video camera.
 
-**Holy Water**
+## Holy Water
 
 Holy water damages undead and evil outsiders almost as if it were acid.
 Typically, a flask of holy water deals 2d4 points of damage to an undead
@@ -261,14 +261,14 @@ you can only douse an incorporeal creature with holy water if you are
 adjacent to it. Doing so is a ranged touch attack that does not provoke
 an attack of opportunity.
 
-**Jaws of Life**
+## Jaws of Life
 
 This rescue tool is used by firefighters and aid personnel to pry open
 the mangled doors of auto accidents. It requires a hydraulic compressor
 to work, but gives a +10 equipment bonus on Strength checks to open
 doors, bust through gates, and the like.
 
-**Liquid Metal Embrittlement Sprayer**
+## Liquid Metal Embrittlement Sprayer
 
 Although superficially resembling a flamethrower, this tool is used to
 spray a special liquid that makes metal brittle. It has a range of 10
@@ -277,14 +277,14 @@ minutes, the liquid reduces the hardness of the metal permanently by
 half (round down). The tank holds enough liquid to coat 50 square feet
 of surface. The liquid has no effect on any other type of substance.
 
-**Ram, Portable**
+## Ram, Portable
 
 This modern ram is the perfect tool for battering down doors. Not only
 does it give you a +4 circumstance bonus on your Strength check to break
 open a door, but it allows a second person to help you without having to
 make an aid another check, adding another +2 bonus to your check.
 
-**Road Flare**
+## Road Flare
 
 Road flares are small chemical sticks that produce a brilliant red
 light. They are lit by striking the cap against the stick. A road flare
@@ -292,7 +292,7 @@ lasts for an hour before being completely consumed and fills a 5-foot
 square with flickering red light. Anyone struck with a road flare takes
 1d6 points of fire damage. Road flares are sold in packs of three.
 
-**Forced Entry Kit**
+## Forced Entry Kit
 
 Sometimes it’s necessary to enter an area that someone really doesn’t
 want you to get into. This kit is not subtle, but effective, relying on
@@ -303,7 +303,7 @@ flashlight, 10 high-explosive shells, 5 beanbag rounds, boltcutters,
 liquid metal embrittlement sprayer, portable ram, sledgehammer
 (equivalent to warhammer), and chainsaw.
 
-**Marbles, Bag of**
+## Marbles, Bag of
 
 About two dozen assorted glass spheres in a pouch. Commonly used as a
 toy, but also useful for checking slopes (just set one down and see
@@ -312,7 +312,7 @@ covers a 5-foot square. Creatures moving through or fighting in the area
 must make a Balance check (DC 15) every round they remain within that
 area or fall prone.
 
-**Vampire Slayer’s Kit**
+## Vampire Slayer’s Kit
 
 This kit is specially tailored for dealing with undead bloodsuckers.
 Because not all vampires are vulnerable to the same things the kit
@@ -322,7 +322,7 @@ silver holy symbols (various faiths), hand crossbow, 5 bolts with wooden
 tips, small metal mirror, garlic clove necklace. All this is packaged in
 an aluminum travel case.
 
-**Winch, Portable**
+## Winch, Portable
 
 This small, portable electrical winch and cable has a solid hook on the
 end. If properly bolted down (such as being mounted to the front of a
@@ -331,13 +331,13 @@ tree out of the ground (an equivalent Strength 30). The cable is 150
 feet long and has hardness 4 and 5 hp. The cable can only be damaged
 with slashing weapons or a boltcutter.
 
-Sports Equipment
+### Sports Equipment
 
 Extreme sports and extreme danger go hand-in-hand. The following items
 are sports and recreational equipment that heroes might use in their
 adventures.
 
-**In-Line Skates**
+## In-Line Skates
 
 In-line skates allow a character to increase his or her speed by an
 additional 20 feet per round on level ground and an additional 30 feet
@@ -349,7 +349,7 @@ the GM determines the maneuver to be. A failed check means that he
 falls, taking damage as if he fell 10 feet vertically for every 20 feet
 of movement.
 
-**Skateboard**
+## Skateboard
 
 The skateboard has become a ubiquitous part of city living. On level
 ground, a skateboard increases a person’s speed by an additional 10 feet
@@ -360,7 +360,7 @@ make a Balance check (DC 15). The DC can increase based on how difficult
 a maneuver he is attempting. A failed check means that he falls, taking
 damage as if he fell 10 feet vertically for every 20 feet of movement.
 
-**Skis and Snowboards**
+## Skis and Snowboards
 
 For game purposes, skis and snowboards operate the same way. When moving
 downhill on snow or icy terrain, the character’s speed increases by an

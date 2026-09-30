@@ -17,7 +17,7 @@ accordingly.
 
 | | —————————————— Time to Destination —————————————— | | | | | |
 |---|---|---|---|---|---|---|
-| Distance | **PL 5 Engine** |** PL 6 Engine** |** PL 7 Engine** |** PL 8 Engine¹** |** PL 9 Engine²** |** Light Speed** |
+| Distance | **PL 5 Engine** | **PL 6 Engine** | **PL 7 Engine** | **PL 8 Engine¹** | **PL 9 Engine²** | **Light Speed** |
 | Earth to the Moon (240,000 mi.) | 40 hrs. | 8 hrs. | 2 hrs. | 1.96 min. | 9.2 sec. | 1.29 sec. |
 | Earth to the Sun (1 AU) (93,000,000 mi.) | 645.8 days | 129.2 days | 32.3 days | 12.6 hrs. | 59.3 min. | 8.3 min. |
 | Earth to Mercury (56,950,000 mi.) | 395.5 days | 79.1 days | 19.8 days | 7.7 hrs. | 36.4 min. | 5.1 min. |

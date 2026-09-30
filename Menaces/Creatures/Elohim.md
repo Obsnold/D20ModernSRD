@@ -131,7 +131,7 @@ Simple Weapons Proficiency.
 | Atk | +8 melee (2d6+2 plus 3d6 fire, flame sword) or +9 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield) |
 | Full Atk | +8/+3 melee (2d6+2 plus 3d6 fire, flame sword) or +9/+4 ranged (2d6, HK MP5) or +8 ranged touch (3d6 fire, flame shield) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | damage reduction 10/+1 (fire form only), darkvision 60 ft., elemental traits, fear aura (DC 20), fire form (DC 20), fire subtype, flame shield (DC 20), flame sword, telepathy |
 | AL | evil, elohim or any |
 | Fort | +7 |

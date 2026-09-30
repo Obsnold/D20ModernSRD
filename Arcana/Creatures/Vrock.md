@@ -28,12 +28,12 @@ save (DC 15) halves the damage. Forcing the vrocks to break the circle
 stops the dance.
 
 **Spell-like Abilities:** At will—*darkness,
-detect magical aura, displacement, telekinesis *(DC 17).
+detect magical aura, displacement, telekinesis* (DC 17).
 These abilities are as the spells cast by a 10th-level Mage. The DCs are
 Intelligence-based.
 
-**Psionic Abilities:** At will—*charm person
-*(DC 12),* suggestion *(DC 14). These
+**Psionic Abilities:** At will—*charm person*
+(DC 12), *suggestion* (DC 14). These
 abilities are as the psionic powers manifested by a 10th-level Telepath.
 The DCs are Charismabased.
 
@@ -44,8 +44,8 @@ just been summoned cannot use its own summon ability for 1 hour.
 
 **Teleport (Sp):** A vrock can teleport
 itself (plus 50 pounds of objects) to a specific destination up to 1,000
-miles away. This ability is similar to the *teleport
-*incantation except the vrock cannot teleport other
+miles away. This ability is similar to the *teleport*
+incantation except the vrock cannot teleport other
 creatures, need not make skill checks to succeed, and does not require
 any components to activate the ability. The vrock may teleport as a
 full-round action, at will.
@@ -96,7 +96,7 @@ Listen and Spot checks.
 | Full Atk | +11 melee (1d8+4, 2 claws), +9 melee (1d6+2, bite), +9 melee (1d4+2, 2 talons) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
-| SQ | spores, stunning screech (DC 17), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 20, telepathy, darkvision 60 ft. |
+| SQ | spores, stunning screech (DC 17), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport*, immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 20, telepathy, darkvision 60 ft. |
 | AL | chaos, evil |
 | Fort | +9 |
 | Ref | +8 |
@@ -143,7 +143,7 @@ Power Attack.
 | Full Atk | +30 melee (2d6+8/19–20, 2 claws), +25 melee (1d8+4/19–20, bite), +25 melee (1d6+4, 2 talons) |
 | FS | 15 ft. by 15 ft. |
 | Reach | 10 ft. |
-| SQ | spores, stunning screech (DC 27), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport,* immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 36, telepathy, darkvision 60 ft. |
+| SQ | spores, stunning screech (DC 27), dance of ruin, spell-like abilities, psionic abilities, *summon vrock, teleport*, immune to electricity and poison, damage reduction 20/+2, acid resistance 10, cold resistance 10, fire resistance 10, SR 36, telepathy, darkvision 60 ft. |
 | AL | chaos, evil |
 | Fort | +18 |
 | Ref | +14 |

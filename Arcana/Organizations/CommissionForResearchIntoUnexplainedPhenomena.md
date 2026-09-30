@@ -81,13 +81,11 @@ strengths, weaknesses, and any way that they can be exploited by the
 government. She has personally led expeditiong to capture specimens of
 numerous Shadow species and take them back to the laboratory for study.
 
-## Dr. Astrid Kolgrim
-
 | Stat | Value |
 |---|---|
-| ?? | Smart 4/Field Scientist 7 |
-| Size/Type | CR 11 |
-| ?? | Medium humanoid |
+| Class | Smart 4/Field Scientist 7 |
+| CR | 11 |
+| Size/Type | Medium humanoid |
 | HD | 4d6 plus 7d8 |
 | hp | 52 |
 | Mas | 10 |

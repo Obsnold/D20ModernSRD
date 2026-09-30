@@ -188,7 +188,7 @@ when using these skills against creatures of this type. He also gets a
 At each level after 5th, the Shadow Slayer may add +1 to the value of
 the bonus against each of his favored enemy types.
 
-**Shadow Enemy Type**
+#### Shadow Enemy Type
 
 - Aberration
 - Construct

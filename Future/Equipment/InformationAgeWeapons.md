@@ -2,7 +2,7 @@
 
 The following weapons are available at PL 5 and later.
 
-**Falcon .45**
+## Falcon .45
 
 The law enforcement response to the ever-growing firepower found in the
 hands of criminals and gang members, the Falcon pistol not only
@@ -10,7 +10,7 @@ possesses increased stopping power but also integrates the ability to
 fire in full automatic mode. Additionally, the Falcon is lightweight and
 easy to carry.
 
-**Grenade, Shrapnel**
+## Grenade, Shrapnel
 
 Similar in concept to the standard fragmentation grenade, the shrapnel
 grenade propels dangerous shards of metal outward at high velocity when
@@ -21,7 +21,7 @@ result is a calculated field of flying shrapnel that is far more
 effective than the simple pop-and-spray chaos of a fragmentation
 grenade.
 
-**Grenade, Sonic Pulse**
+## Grenade, Sonic Pulse
 
 A sonic pulse grenade deals 3d6 points of nonlethal sonic damage to any
 living creature in the burst radius. (Robots and other nonliving
@@ -29,7 +29,7 @@ creatures are not affected.) In addition, creatures that take damage
 from the sonic pulse grenade must also succeed on a Fortitude save (DC
 12) or be shaken for 1d4 rounds.
 
-**Oicw Assault Rifle**
+## Oicw Assault Rifle
 
 One of the most technologically advanced weapons to ever reach
 production during the Information Age, the OICW (Objective Individual
@@ -66,7 +66,7 @@ the feat, you make a normal attack, and the extra two bullets
 not have the automatic rate of fire, this weapon cannot be used to make
 autofire attacks.
 
-**Tactical Military (TACMIL) Sniper Rifle**
+## Tactical Military (TACMIL) Sniper Rifle
 
 With the success of the OICW assault rifle, a sniper rifle equivalent
 was developed. The rifle itself fires a standard 7.62mm round and sports
@@ -75,7 +75,7 @@ connect to a Land Warrior combat armor computer. Additionally, the
 TacMil sniper rifle features a flash suppressor as well as an effective
 sound suppressor, ensuring maximum stealth.
 
-**Twin Thunder Machine Gun**
+## Twin Thunder Machine Gun
 
 The Twin Thunder is a reduced-recoil .50 caliber machine gun capable of
 dispensing roughly 260 rounds per minute. The machine gun is designed

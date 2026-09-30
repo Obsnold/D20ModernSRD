@@ -15,29 +15,40 @@ criteria.
 
 The following information pertains to the Engineer advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Engineer gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Engineer gains a number of action points equal to 6 + one-half his
 character level, rounded down, every time he attains a new level in this
 class.
 
-**Class Skills**
+### Class Skills
 
 The Engineer’s class skills are as follows.
 
-Computer Use (Int), Craft (electronic, mechanical, structural) (Int),
-Disable Device (Int), Drive (Dex), Knowledge (physical sciences,
-technology) ( Int) , Navigate ( Int) , Pilot (Dex) , Profession (Wis),
-Read/Write Language (none), Repair (Int), Search (Int), Speak Language
-(none).
+- Computer Use (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (structural) (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Knowledge (physical sciences, technology) ( Int)
+- Navigate ( Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Search (Int)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Engineer**
 
@@ -58,11 +69,11 @@ nonhumans).
 
 The following class features pertain to the Engineer advanced class.
 
-**Builder**
+### Builder
 
 At 1st level, the Engineer gains the bonus feat Builder.
 
-**Improve Kit (+1)**
+### Improve Kit (+1)
 
 An engineer can use his know-how to upgrade an electrical or mechanical
 tool kit at no additional cost.
@@ -89,7 +100,7 @@ equipment bonus (instead of the usual +2 equipment bonus) on all Repair
 checks made to fix mechanical devices and a +1 equipment bonus on all
 Craft (mechanical) and Craft (structural) checks.
 
-## Quick Craft
+### Quick Craft
 
 At 2nd level, an engineer learns how to craft ordinary scratch-built
 electronic, mechanical, and structural objects more quickly than normal.
@@ -101,7 +112,7 @@ reduces the building time by one-quarter.
 At 5th level, the Engineer reduces the building time of ordinary objects
 and mastercraft objects by half.
 
-**Superior Repair**
+### Superior Repair
 
 At 2nd level, an Engineer learns improved ways of repairing robots,
 vehicles, mecha, starships, and cybernetic attachments.
@@ -125,23 +136,29 @@ cybernetic attachment.
 | 30–39 | 3d6 + Engineer class level |
 | 40+ | 4d6 + Engineer class level |
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Engineer gets a bonus feat. The bonus
 feat must be selected from the following list, and the Engineer must
 meet all the prerequisites of the feat to select it.
 
-Aircraft Operation (spacecraft), Builder, Cautious, Gearhead,
-Mastercrafter, Salvage, Surface Vehicle Operation, Vehicle Expert,
-Zero-G Training.
+- Aircraft Operation (spacecraft)
+- Builder
+- Cautious
+- Gearhead
+- Mastercrafter
+- Salvage
+- Surface Vehicle Operation
+- Vehicle Expert
+- Zero-G Training
 
-**Improve Kit (+2)**
+### Improve Kit (+2)
 
 At 4th level, the Engineer can assemble mastercraft (+2) electrical and
 mechanical tool kits. This ability works as the 1st-level improve kit
 class feature, except the equipment bonuses improve by an additional +1.
 
-**Reconfigure Weapon**
+### Reconfigure Weapon
 
 At 4th level, an Engineer can reconfigure a melee or ranged weapon,
 improving one aspect of it. Reconfiguring a weapon requires 1 hour of
@@ -178,7 +195,7 @@ reconfigured, it imparts a new benefit. Undoing an Engineer’s weapon
 reconfiguration requires 1 hour and a successful Disable Device check
 (DC 20 + the Engineer’s class level).
 
-**Sabotage**
+### Sabotage
 
 At 4th level and beyond, the Engineer can sabotage an electrical or
 mechanical object so that it operates poorly. The Engineer must succeed
@@ -199,7 +216,7 @@ a weapon so that it misfires or breaks the next time it is used. A
 sabotaged weapon cannot be used effectively until repaired. This use of
 sabotage also applies to vehicle and starship weapons.
 
-**Craft XP Reserve**
+### Craft XP Reserve
 
 Starting at 5th level, an Engineer with the Mastercrafter feat can build
 mastercraft electronic and mechanical devices without investing as much
@@ -215,20 +232,20 @@ An Engineer must spend the extra experience points he gains at each
 level, for when the Engineer gains a level, he loses any unspent
 experience points in his reserve.
 
-**Improve Kit (+3)**
+### Improve Kit (+3)
 
 At 7th level, the Engineer can assemble mastercraft (+3) electrical and
 mechanical tool kits. This ability works as the 4th-level improve kit
 class feature, except the equipment bonuses improve by an additional +1.
 
-**Quick Fix**
+### Quick Fix
 
 At 7th level, the Engineer can repair a mechanical or electrical device
 in half the normal time; see the Repair skill description for normal
 repair times. However, cutting the repair time increases the Repair
 check DC by 5.
 
-**Weapon Upgrade**
+### Weapon Upgrade
 
 At 8th level, an Engineer can upgrade handheld or robot-installed
 weapons, as well as weapon systems aboard vehicles, mecha, or starships.
@@ -257,7 +274,7 @@ has a 10% chance of breaking after each time it is used; it cannot be
 used again until repaired, and repairing it requires 1 hour and a
 successful Repair check (DC 40).
 
-## Unflustered
+### Unflustered
 
 A 10th-level Engineer can perform complicated tasks without provoking
 attacks of opportunity from adjacent foes.

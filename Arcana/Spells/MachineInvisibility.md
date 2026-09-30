@@ -46,7 +46,7 @@ becomes visible to machines.
 While *machine invisibility* is useful for many tasks requiring stealth,
 it sometimes makes the subject’s life more difficult. A stoplight sensor
 under an intersection might not pick up a motorcycle with *machine
-invisibility. *Automatic sliding doors at the supermarket won’t open for
+invisibility.* Automatic sliding doors at the supermarket won’t open for
 the subject of *machine invisibility.* Talking on the telephone or radio
 is impossible.
 

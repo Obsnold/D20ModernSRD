@@ -41,7 +41,7 @@ and a +4 species bonus on Jump checks.
 | Atk | +3 melee (1d4+2, bite) |
 | Full Atk | +3 melee (1d4+2, bite) and –1 melee (1d2+1, 2 slams) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | improved grab, low-light vision |
 | AL | none or trainer |
 | Fort | +3 |

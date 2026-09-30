@@ -25,7 +25,7 @@ raised step in Progress Level, reduce the purchase DC by 2.
 enhancement legally, and an appropriate black market purchase DC
 modifier.
 
-Anti-Shock Implant (PL 6)
+## Anti-Shock Implant (PL 6)
 
 This tiny implant, embedded near the recipient’s brain stem, protects
 itself and other cybernetic hardware against electricity damage.
@@ -41,7 +41,7 @@ to electricity (see Benefits and Drawbacks, above).
 
 **Restriction:** None.
 
-External Weapon Mount (PL 6)
+## External Weapon Mount (PL 6)
 
 The recipient’s prosthetic arm ends in a weapon instead of a hand.
 
@@ -59,7 +59,7 @@ purchase DC does not include the prosthetic arm or weapon).
 
 **Restriction:** Military (+3).
 
-Identity Chip (PL 6)
+## Identity Chip (PL 6)
 
 Identity chips provide identification without requiring visual
 recognition— high-tech ID cards that function even when the wearer is
@@ -77,7 +77,7 @@ funds.
 
 **Restriction:** None.
 
-Injector Unit (PL 6)
+## Injector Unit (PL 6)
 
 This unit, attached the recipient’s forearm or thigh, incorporates three
 medical hypo-syringes. Upon command, the unit can inject any or all of
@@ -99,7 +99,7 @@ full-round action.
 
 **Restriction:** Licensed (+1).
 
-Nightvision Optics (PL 6)
+## Nightvision Optics (PL 6)
 
 The recipient’s eyes are replaced with ocular implants that enable the
 character to see better in the dark. All of the recipient’s eyes must be
@@ -115,7 +115,7 @@ replaced to gain any benefit.
 
 **Restriction:** None.
 
-Skill Implant (PL 6)
+## Skill Implant (PL 6)
 
 This small brain implant enables its recipient to perform a specific
 skill more adroitly.
@@ -136,7 +136,7 @@ separate cybernetic attachment.
 
 **Restriction:** None.
 
-Stabilizer (PL 6)
+## Stabilizer (PL 6)
 
 A stabilizer releases chemical coagulants into a dying recipient’s
 bloodstream to prevent excess blood loss, effectively stabilizing him. A
@@ -153,7 +153,7 @@ automatically stabilizes.
 
 **Restriction:** None.
 
-Subcutaneous Body Armor (PL 6)
+## Subcutaneous Body Armor (PL 6)
 
 Subcutaneous body armor consists of small plates of flexible armor
 implanted under the recipient’s skin.
@@ -171,7 +171,7 @@ hit points of the recipient.
 
 **Restriction:** Military (+3).
 
-Subcutaneous Cell Phone (PL 6)
+## Subcutaneous Cell Phone (PL 6)
 
 The recipient has a small transceiver installed underneath the skin of
 her throat. The transceiver is connected to a tiny speaker located in
@@ -191,7 +191,7 @@ side of the conversation, but others cannot.
 
 **Restriction:** None.
 
-Telescopic Optics (PL 6)
+## Telescopic Optics (PL 6)
 
 The recipient’s eyes are replaced with ocular implants that simulate the
 effects of binoculars, enabling the recipient to perceive distant
@@ -209,7 +209,7 @@ to –1 for every 30 feet of distance (instead of –1 for every 10 feet).
 
 **Restriction:** None.
 
-Voice Stress Analyzer (PL 6)
+## Voice Stress Analyzer (PL 6)
 
 Sensors attached to the recipient’s optic nerves and inner ear analyze
 minute physical indicators from living beings (including increased pulse
@@ -227,7 +227,7 @@ Motive checks.
 
 **Restriction:** None.
 
-Anti-Flare Implants (PL 7)
+## Anti-Flare Implants (PL 7)
 
 The recipient’s corneas are replaced with artificial ones equipped with
 flare suppressors that react instantly to bright flashes of light.
@@ -243,7 +243,7 @@ or debilitating effect on the recipient.
 
 **Restriction:** None.
 
-Anti-Stun Implant (PL 7)
+## Anti-Stun Implant (PL 7)
 
 This implant, embedded near the spine, shields the recipient’s nervous
 system against stunning attacks.
@@ -258,7 +258,7 @@ system against stunning attacks.
 
 **Restriction:** Military (+3).
 
-Body Repair Weave (PL 7)
+## Body Repair Weave (PL 7)
 
 A delicate weave of subdermal biowires stimulates and repairs the body’s
 damaged tissue.
@@ -273,7 +273,7 @@ damaged tissue.
 
 **Restriction:** Licensed (+1).
 
-Data Archive (PL 7)
+## Data Archive (PL 7)
 
 A data archive is a microcomputer implanted in the recipient’s skull. It
 contains skill-related information stored on a series of biological data
@@ -291,7 +291,7 @@ grants a +4 equipment bonus on all Knowledge checks.
 
 **Restriction:** None.
 
-Feat Implant (PL 7)
+## Feat Implant (PL 7)
 
 Thanks to a chip implanted in the recipient’s brain or a series of
 implants wired to the recipient’s nervous system, the recipient gains
@@ -310,7 +310,7 @@ implant cannot duplicate a metamagic or psionic feat.
 
 **Restriction:** Military (+3).
 
-Fortified Skeleton (PL 7)
+## Fortified Skeleton (PL 7)
 
 The recipient’s skeleton is fortified with high-impact polymers,
 increasing his ability to shrug off physical damage.
@@ -326,7 +326,7 @@ one-quarter the maximum hit points of the recipient.
 
 **Restriction:** Military (+3).
 
-Initiative Implant (PL 7)
+## Initiative Implant (PL 7)
 
 The initiative implant consists of a series of wires threaded around the
 recipient’s spinal cord and attached to the recipient’s nervous system.
@@ -343,7 +343,7 @@ checks.
 
 **Restriction:** Military (+3).
 
-Internal Weapon Mount (PL 7)
+## Internal Weapon Mount (PL 7)
 
 The recipient has a subcutaneous weapon embedded in her body, usually in
 a prosthetic forearm or hand. The weapon extends from the prosthesis and
@@ -367,7 +367,7 @@ purchase DC does not include the prosthesis or weapon).
 
 **Restriction:** Military (+3).
 
-Laser Optics (PL 7)
+## Laser Optics (PL 7)
 
 The recipient’s eyes are replaced with ocular implants capable of firing
 thin laser beams.
@@ -389,7 +389,7 @@ simultaneously at the same target.
 
 **Restriction:** Military (+3).
 
-Luminous Skin (PL 7)
+## Luminous Skin (PL 7)
 
 Special skin grafts create luminous displays on the recipient’s flesh.
 Most recipients use it purely for decoration, but the same technology
@@ -410,7 +410,7 @@ recipient is killed).
 
 **Restriction:** None.
 
-Microcomputer (PL 7)
+## Microcomputer (PL 7)
 
 The recipient has a miniature computer attached to his nervous system,
 usually at the base of the skull.
@@ -430,7 +430,7 @@ benefit of a modem.
 
 **Restriction:** Restricted (+2).
 
-Mindscreen Implant (PL 7)
+## Mindscreen Implant (PL 7)
 
 A small implant in the recipient’s brain protects him against mental
 attacks.
@@ -446,7 +446,7 @@ against mind-affecting attacks.
 
 **Restriction:** Military (+3).
 
-Prosthetic Enhancer (PL 7)
+## Prosthetic Enhancer (PL 7)
 
 This implant attaches to a prosthetic arm or leg, making it stronger.
 
@@ -472,7 +472,7 @@ levels (see Number of Attachments).
 
 **Restriction:** None.
 
-Rage Implant (PL 7)
+## Rage Implant (PL 7)
 
 This brain implant dramatically increases the amount of adrenaline and
 testosterone the recipient’s body produces, temporarily boosting his
@@ -512,7 +512,7 @@ attachments.
 
 **Restriction:** Restricted (+2).
 
-Skill Plexus (PL 7)
+## Skill Plexus (PL 7)
 
 This unit, implanted in the recipient’s brain, allows multiple skill
 implants to function as a single cybernetic attachment (see Skill
@@ -531,7 +531,7 @@ the attached skill implants are destroyed as well.
 
 **Restriction:** None.
 
-Targeting Optics (PL 7)
+## Targeting Optics (PL 7)
 
 The recipient’s eyes are replaced with ocular implants that use a
 projected targeting reticle to improve the recipient’s aim. All of the
@@ -548,7 +548,7 @@ with ranged weapons.
 
 **Restriction:** Military (+3).
 
-Feat Plexus (PL 8)
+## Feat Plexus (PL 8)
 
 This unit, implanted in the recipient’s brain, allows multiple feat
 implants to function as a single cybernetic attachment (see Feat
@@ -567,7 +567,7 @@ attached feat implants are destroyed as well.
 
 **Restriction:** Military (+3).
 
-Invisiware (PL 8)
+## Invisiware (PL 8)
 
 This technology enables its recipient to turn invisible for a short
 time. Invisiware uses crystalline refractors grafted to the skin and
@@ -597,7 +597,7 @@ during which time the invisiware cannot be activated.
 
 **Restriction:** Military (+3).
 
-Psi Implant (PL 8)
+## Psi Implant (PL 8)
 
 This brain implant stimulates neuron activity in underdeveloped regions
 of the recipient’s brain, unlocking latent psionic abilities.

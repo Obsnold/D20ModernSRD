@@ -13,8 +13,8 @@ of the *reflect* seed in an incantation is effective against one type of
 attack only: spells (and incantations and spell-like effects), ranged
 attacks, or melee attacks. To reflect an area spell, where you are not
 the target but are caught in the vicinity, increase the Knowledge
-(arcane lore) check DC by +8. A single successful use of *reflect
-*expends its protection.
+(arcane lore) check DC by +8. A single successful use of *reflect*
+expends its protection.
 
 Incantations developed with the *reflect* seed against spells and
 spell-like effects return spell effects of up to 1st level. For each

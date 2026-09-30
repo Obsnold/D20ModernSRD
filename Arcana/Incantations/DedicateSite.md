@@ -33,7 +33,7 @@ again.
 Spell effects that may be tied to a dedicated site include *aid, bane,
 bless, cause fear, darkness, daylight, detect magical aura, discern
 lies, dispel magic, freedom of movement, remove fear, resist energy,
-silence, tongues, *and* zone of truth. *Saving throws and spell
+silence, tongues*, and *zone of truth.* Saving throws and spell
 resistance might apply to these spells’ effects. (See the individual
 spell descriptions for details.)
 
@@ -48,5 +48,5 @@ spell effect) at a time.
 *Backlash:* All casters are exhausted.
 
 *Failure:* Hostile spell. The primary caster is targeted with a *bestow
-curse *spell, but does not get a saving throw or spell resistance. The
+curse* spell, but does not get a saving throw or spell resistance. The
 GM chooses the exact curse.

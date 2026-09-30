@@ -2,7 +2,7 @@
 
 The following armors are available at PL 8.
 
-**Boost Armor**
+## Boost Armor
 
 Boost armor is powered armor that augments the character’s physical
 abilities. A character wearing boost armor is stronger, faster, and more
@@ -16,7 +16,7 @@ to move quickly, increasing the character’s movement speed by 10 feet.
 Boost armor is lightweight and form-fitting, and provides less
 protection than heavier combat armors.
 
-**Unisoldier Heavy Combat Armor**
+## Unisoldier Heavy Combat Armor
 
 The ultimate step in the creation of the one-soldier army, unisoldier
 heavy combat armor is an all-in-one package that makes the wearer a

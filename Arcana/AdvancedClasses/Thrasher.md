@@ -18,25 +18,37 @@ criteria.
 
 The following information pertains to the Thrasher advanced class.
 
-**Hit Die**
+### Hit Die
 
 Thrashers gain 1d12 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Thrashers gain a number of action points equal to 6 plus one-half their
 character level, rounded down, every time they advance a level in this
 class.
 
-**Class Skills**
+### Class Skills
 
-The Thrasher’s class skills are as follows: Balance (Dex), Climb (Str),
-Concentration (Con), Drive (Dex), Profession (Wis), Read/Write Languages
-(none), Ride (Dex), Speak Language (none), Spot (Wis), Swim (Str),
-Survival (Wis), Tumble (Dex).
+The Thrasher’s class skills are as follows:
+
+- Balance (Dex)
+- Climb (Str)
+- Concentration (Con)
+- Drive (Dex)
+- Profession (Wis)
+- Read/Write Languages (none)
+- Ride (Dex)
+- Speak Language (none)
+- Spot (Wis)
+- Swim (Str)
+- Survival (Wis)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 3 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Thrasher**
 
@@ -57,14 +69,14 @@ Survival (Wis), Tumble (Dex).
 
 The following features pertain to the Thrasher advanced class.
 
-**Tough Defense**
+### Tough Defense
 
 Using his constitution instead of his dexterity, the Thrasher applies
 his Constitution bonus to his Defense instead of his Dexterity bonus.
 Any situation that would deny the Thrasher his Dexterity bonus to
 Defense denies the Constitution bonus.
 
-**Ability Surge**
+### Ability Surge
 
 At 2nd, 5th, and 8th level, the Thrasher can temporarily increase his
 Strength and Dexterity, but at a penalty to saving throws. The Thrasher
@@ -78,17 +90,28 @@ this penalty as a free action by spending an action point.
 The Thrasher may use the ability surge once per day at 2nd level, twice
 per day at 5th level, and three times per day at 8th level.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Thrasher gets a bonus feat. The bonus
 feat must be selected from the following list, and the Thrasher must
 meet all of the prerequisites for the feat to select it.
 
-Alertness, Blind-Fight, Brawl, Cleave, Combat Expertise, Combat
-Reflexes, Far Shot, Focused, Great Cleave, Improved Brawl, Improved
-Knockout Punch, Improved Trip, Knockout Punch, Power Attack.
+- Alertness
+- Blind-Fight
+- Brawl
+- Cleave
+- Combat Expertise
+- Combat Reflexes
+- Far Shot
+- Focused
+- Great Cleave
+- Improved Brawl
+- Improved Knockout Punch
+- Improved Trip
+- Knockout Punch
+- Power Attack
 
-**Uncanny Dodge X**
+### Uncanny Dodge X
 
 The Thrasher gains the ability of Uncanny Dodge, or increases the
 potency of this ability if he already has it.
@@ -106,7 +129,7 @@ of himself as easily as he can react to a single attacker.
 If the Thrasher already has Uncanny Dodge 2, then he gains no further
 benefit from this ability.
 
-**Damage Reduction**
+### Damage Reduction
 
 Starting at 7th level, the Thrasher gains the ability to use the ambient
 magic around him to shrug off some amount of injury from each attack.

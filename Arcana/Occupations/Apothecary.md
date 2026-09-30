@@ -1,20 +1,37 @@
 # Apothecary
 
 Apothecaries are people who study the science of mixing chemicals,
-elements, and naturally occurring
+elements, and naturally occurring materials together for predictable
+results. They often go on to be research scientists, inventors,
+pharmacists, or alchemists.
 
-materials together for predictable results. They often go on to be
-research scientists, inventors, pharmacists, or alchemists.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 20+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +3 |
 
-**Prerequisite:** Age 20+.
+## Skills
 
-**Skills:** Choose three of the following skills as permanent class
-skills. If a skill you select is already a class skill, you receive a +1
-competence bonus on checks using that skill. Craft (chemical,
-mechanical, pharmaceutical, or writing), Disable Device, Knowledge
-(arcane lore, earth and life sciences, history, or physical sciences),
-Repair, Research.
+Choose three of the following skills as permanent class skills. If a
+skill you select is already a class skill, you receive a +1 competence
+bonus on checks using that skill.
 
-**Bonus Feat:** Select either Arcane Skills or Educated.
+- Craft (chemical)
+- Craft (mechanical)
+- Craft (pharmaceutical)
+- Craft (writing)
+- Disable Device
+- Knowledge (arcane lore)
+- Knowledge (earth and life sciences)
+- Knowledge (history)
+- Knowledge (physical sciences)
+- Repair
+- Research
 
-**Wealth Bonus:** +3.
+## Bonus Feat
+
+Select one of the following:
+
+- Arcane Skills
+- Educated

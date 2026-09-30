@@ -61,7 +61,7 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 | Atk | +18 melee (1d6+11, tail slap) |
 | Full Atk | +18 melee (1d6+11, tail slap) and +13 melee (2d6+5, bite) |
 | FS | 15 ft. by 15 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | constrict (1d6+16), improved grab, low-light vision, scent, swallow whole |
 | AL | none |
 | Fort | +13 |
@@ -104,7 +104,7 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 | Atk | +33 melee (1d8+15, tail slap) |
 | Full Atk | +33 melee (1d8+15, tail slap) and +28 melee (2d8+7, bite) |
 | FS | 20 ft. by 20 ft. |
-| Reach | 15 ft |
+| Reach | 15 ft. |
 | SQ | constrict (1d8+22), improved grab, low-light vision, scent, swallow whole |
 | AL | none |
 | Fort | +24 |

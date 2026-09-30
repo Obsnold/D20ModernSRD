@@ -3,7 +3,7 @@
 The fastest path into this advanced class is from the Dedicated hero
 basic class, though other paths are possible.
 
-**Requirements**
+## Requirements
 
 To qualify to become a Shadow Hunter, a character must fulfill the
 following criteria. High Strength and Charisma scores are also useful.
@@ -16,33 +16,49 @@ lore) 3 ranks.
 **Feats:** Track, and Personal Firearms Proficiency or Archaic Weapons
 Proficiency.
 
-**Class Information**
+## Class Information
 
 The following information pertains to the Shadow Hunter advanced class.
 
-**Hit Die**
+### Hit Die
 
 Shadow Hunters gain 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 Shadow Hunters gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Shadow Hunter’s class skills are as follows: Bluff (Cha), Diplomacy
-(Cha), Gather Information (Cha), Intimidate (Cha), Investigate (Int),
-Knowledge (arcane lore, current events, popular cultures, streetwise)
-(Int), Listen (Wis), Profession (Wis), Read/ Write Language (none),
-Research (Int), Search (Int), Sense Motive (Wis), Speak Language (none),
-Spot (Wis), Survival (Wis).
+The Shadow Hunter’s class skills are as follows:
+
+- Bluff (Cha)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Investigate (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular cultures) (Int)
+- Knowledge (streetwise) (Int)
+- Listen (Wis)
+- Profession (Wis)
+- Read/ Write Language (none)
+- Research (Int)
+- Search (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Spot (Wis)
+- Survival (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-**Table:The Shadow Hunter**
+### Class Table
+
+**Table: The Shadow Hunter**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
@@ -57,11 +73,11 @@ Spot (Wis), Survival (Wis).
 | 9th | +6 | +4 | +4 | +4 | Bonus feat | +6 | +2 |
 | 10th | +7 | +5 | +5 | +5 | Locate target | +7 | +2 |
 
-**Class Features**
+## Class Features
 
 The following features pertain to the Shadow Hunter advanced class.
 
-**Target Bonus**
+### Target Bonus
 
 The Shadow Hunter, as a full-round action, may designate an individual
 as a target. He spends one action point to select a target, and
@@ -80,22 +96,29 @@ Search, Sense Motive, and Spot. The target bonus applies to a single
 individual and lasts until the Shadow Hunter chooses a new target. The
 bonus is +1 at 1st level, +2 at 4th, and +3 at 7th level.
 
-**Swift Track**
+### Swift Track
 
 At 2nd level, the Shadow Hunter may move at normal speed while using
 Track without taking the –5 penalty.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th levels, the Shadow Hunter gets a bonus feat. The
 bonus feat must be selected from the following list, and the Shadow
 Hunter must meet all of the prerequisites for the feat to select it.
 
-Armor Proficiency (archaic, light, medium), Brawl, Improved Brawl,
-Improved Feint, Improved Grapple, Improved Knockout Punch, Knockout
-Punch, Streetfighting.
+- Armor Proficiency (archaic)
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Brawl
+- Improved Brawl
+- Improved Feint
+- Improved Grapple
+- Improved Knockout Punch
+- Knockout Punch
+- Streetfighting
 
-**No Trace**
+### No Trace
 
 At 4th level, the Shadow Hunter knows how to hide his own tracks, and
 may, at his choice, move into “No Trace” mode. All attempts to use the
@@ -105,7 +128,7 @@ attempts to use Computer Use, Gather Information, Investigate, and
 Research on matters involving the Shadow Hunter are increased by the
 Shadow Hunter’s levels in this advanced class.
 
-**Play a Hunch**
+### Play a Hunch
 
 At 5th level, the Shadow Hunter gains the supernatural ability to make a
 guess and be assured that it is correct. The Shadow Hunter may, as a
@@ -127,13 +150,13 @@ truth, and will not stand up in a court of law. Rather it is an obvious
 fact to the Shadow Hunter alone. Finding proof of an assumption would
 require additional work.
 
-**Detect Magical Aura**
+### Detect Magical Aura
 
 At 8th level, the Shadow Hunter gains the spell-like ability to *detect
 magical aura*. The Shadow Hunter may use this effect up to three times
 per day, and each use lasts for 20 minutes.
 
-**Locate Target**
+### Locate Target
 
 At 10th level, the Shadow Hunter gains the supernatural ability to know
 where his target is, if in the target is in the general vicinity (1,000

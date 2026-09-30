@@ -4,7 +4,7 @@ Lifestyle items include travel expenses, entertainment and meals beyond
 the ordinary, and housing, for those characters interested in buying a
 home rather than renting. Lifestyle items are shown on the table below.
 
-**Table : Lifestyle Items**
+**Table: Lifestyle Items**
 
 | Housing | Purchase DC |
 |---|---|

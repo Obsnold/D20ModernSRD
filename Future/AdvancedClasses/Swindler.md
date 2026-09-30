@@ -17,12 +17,12 @@ Coordinate, Fast-Talk.
 
 The following information pertains to the Swindler advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Swindler gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Swindler gains a number of action points equal to 7 + one-half his
 character level, rounded down, every time he attains a new level in this
@@ -30,19 +30,37 @@ class. (The Swindler’s ability to manipulate probability entitles him to
 a higher number of action points per class level than other advanced
 classes.)
 
-**Class Skills**
+### Class Skills
 
 The Swindler’s class skills are as follows.
 
-Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex),
-Forgery (Int), Gamble (Wis), Gather Information (Cha), Knowledge
-(behavioral sciences, business, civics, current events, history, popular
-culture, streetwise, theology and philosophy) (Int), Perform (act)
-(Cha), Read/Write Language (none), Research (Int), Sense Motive (Wis),
-Sleight of Hand (Dex), Speak Language (none), Tumble (Dex).
+- Bluff (Cha)
+- Diplomacy (Cha)
+- Disguise (Cha)
+- Escape Artist (Dex)
+- Forgery (Int)
+- Gamble (Wis)
+- Gather Information (Cha)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (business) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Perform (act) (Cha)
+- Read/Write Language (none)
+- Research (Int)
+- Sense Motive (Wis)
+- Sleight of Hand (Dex)
+- Speak Language (none)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 7 + Int modifier (6 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Swindler**
 
@@ -63,30 +81,38 @@ nonhumans).
 
 The following class features pertain to the Swindler advanced class.
 
-**Cheat Fate**
+### Cheat Fate
 
 Fortune favors the Swindler. Once per day, he may reroll one roll that
 he has just made before the success or failure of the result is
 announced. The Swindler must take the result of the reroll, even if it’s
 worse than the original roll.
 
-**Thousand Faces**
+### Thousand Faces
 
 A Swindler’s ability to manipulate probability makes him unpopular in
 certain circles, increasing the need for a ready number of disguises. At
 2nd level, the Swindler becomes a master of the quick disguise. He can
 don a convincing disguise in one-tenth the normal time (1d4 minutes).
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Swindler gets a bonus feat. The bonus
 feat must be selected from the following list, and the Swindler must
 meet all the prerequisites of the feat to select it.
 
-Action Boost, Blind-Fight, Confident, Deceptive, Educated, Elusive
-Target, Low Profile, Nimble, Renown, Trustworthy.
+- Action Boost
+- Blind-Fight
+- Confident
+- Deceptive
+- Educated
+- Elusive Target
+- Low Profile
+- Nimble
+- Renown
+- Trustworthy
 
-**Fortune’s Favor**
+### Fortune’s Favor
 
 Starting at 4th level, the Swindler learns to subtly manipulate the
 fortunes of his adversaries, making him harder to strike in combat. He
@@ -98,7 +124,7 @@ uses this ability instead of Dodge on his turn.
 The luck bonus to Defense increases to +4 at 7th level and +6 at 10th
 level.
 
-**Warp Probability**
+### Warp Probability
 
 At 5th level, the Swindler can affect another creature’s attack roll,
 skill check, ability check, level check, or saving throw. As a free

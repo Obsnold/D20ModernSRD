@@ -66,7 +66,7 @@ components to a robot.
 | Basic electrical kit | +2 |
 | Searchlight | +1 |
 | **Armor** | |
-| Natural armor bonus +2 | +2* |
+| Natural armor bonus +2 | +2\* |
 
 \*This component can be purchased a number of times equal to the robot’s
 size category (counted up from Diminutive).

@@ -109,14 +109,11 @@ feathers, shells, and carved pieces of wood. She does not use guns,
 preferring to use a magic longbow of exquisite quality and a brace of
 throwing knives.
 
-## Black Feather
-
 | Stat | Value |
 |---|---|
-| ?? | Female Elf |
-| Size/Type | Tough 2/Fast 3/Charismatic 3/Wildlord 6 |
-| ?? | CR 14 |
-| ?? | Medium humanoid (elf, Shadowkind) |
+| Class | Female Elf, Tough 2/Fast 3/Charismatic 3/Wildlord 6 |
+| CR | 14 |
+| Size/Type | Medium humanoid (elf, Shadowkind) |
 | HD | 2d10 plus 3d8 plus 3d6 plus 6d8 |
 | hp | 66 |
 | Mas | 10 |
@@ -165,7 +162,7 @@ Stealthy, Track.
 **Talents (Wildlord):** Animal empathy, animal companion, fast climb,
 resist venom, call companion, skill mastery (handle animal).
 
-**Possessions**: *+2 longbow*, 12* +1 arrows*, 4 knives,* ghostshirt*,
+**Possessions**: *+2 longbow*, 12 *+1 arrows*, 4 knives, *ghostshirt*,
 *medicine bundle*, casual outfit, backpack, 2- person dome tent, Jeep
 Wrangler.
 
@@ -173,8 +170,6 @@ Wrangler.
 
 Whitetooth is Black Feather’s mountain lion animal companion. He is
 fanatically loyal to his master and will defend her to the death.
-
-## Whitetooth
 
 | Stat | Value |
 |---|---|

@@ -100,7 +100,7 @@ concealed carry holster, formal outfit.
 | Stat | Value |
 |---|---|
 | CR | 5 |
-| Size/Type | Mediumsize monstrous humanoid |
+| Size/Type | Medium-size monstrous humanoid |
 | HD | 2d8–2 plus 1d6–2 plus 2d6–2 |
 | hp | 15 |
 | Mas | 9 |

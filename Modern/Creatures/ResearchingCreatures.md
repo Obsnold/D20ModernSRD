@@ -77,16 +77,16 @@ the following effects (GM’s choice):
 - Creature loses 10% of its current hit points.
 
 - Blindness: The creature has a 50% miss chance in combat, loses any
-Dexterity bonus to Defense, moves at half speed, takes a –4 penalty on
-Strength and Dexterity-based skills, and cannot make Spot checks. Foes
-gain a +2 bonus on attack rolls to hit the creature.
+  Dexterity bonus to Defense, moves at half speed, takes a –4 penalty on
+  Strength and Dexterity-based skills, and cannot make Spot checks. Foes
+  gain a +2 bonus on attack rolls to hit the creature.
 
 - Deafness: The creature takes a –4 penalty to initiative checks and has
-a 20% chance of spell failure when casting spells with verbal
-components. The creature cannot make Listen checks.
+  a 20% chance of spell failure when casting spells with verbal
+  components. The creature cannot make Listen checks.
 
 - Creature loses one of its extraordinary, supernatural, or spell-like
-special qualities.
+  special qualities.
 
 Each effect lasts 1d4 hours. Even creatures immune to mind-affecting
 effects are susceptible to a source-induced addiction.
@@ -115,7 +115,7 @@ source suffers one or more of the following effects (GM’s choice):
 - Creature takes a –2 morale penalty to Strength and Dexterity.
 
 - Creature takes a –2 morale penalty on attack rolls, damage rolls, and
-skill checks.
+  skill checks.
 
 - Creature takes a –2 penalty to Defense.
 
@@ -124,7 +124,7 @@ skill checks.
 - Deafness: See Addiction, above.
 
 - Creature loses one of its extraordinary, supernatural or spell-like
-special qualities.
+  special qualities.
 
 Each effect lasts until the creature leaves the affected area and for
 1d4 rounds afterward. Even creatures immune to mind-affecting effects
@@ -160,20 +160,20 @@ takes damage instead. GMs may choose one of the following effects or
 invent their own:
 
 - Blindness and deafness: See Addiction, above. The blindness and
-deafness last 1d4 hours.
+  deafness last 1d4 hours.
 
 - Creature loses all of its supernatural and spell-like special
-qualities.
+  qualities.
 
 - Creature is turned to stone instantly.
 
 - Creature loses 50% of its current hit points.
 
 - Creature drops dead. On a successful save, the creature takes 3d6+15
-points of damage instead.
+  points of damage instead.
 
 - Creature is disintegrated. On a successful save, the creature takes
-5d6 points of damage instead.
+  5d6 points of damage instead.
 
 Even creatures immune to effects that require Fortitude saves are
 susceptible to source-induced harm.

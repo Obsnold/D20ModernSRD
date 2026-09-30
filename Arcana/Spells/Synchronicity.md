@@ -14,15 +14,15 @@
 
 The *synchronicity* spell subtly rearranges reality so that the subject
 isn’t inconvenienced by the minor delays in modern life. For the subject
-of *synchronicity,* the traffic light is always green and there’s always
+of *synchronicity*, the traffic light is always green and there’s always
 a waiting elevator. On a city street, *synchronicity* ensures that a
 taxicab pulls up within 1 round of the subject standing on the curb. The
-subway trains always run on time for the subject of *synchronicity,* and
+subway trains always run on time for the subject of *synchronicity*, and
 waiters and clerks promptly arrive whenever they’re needed.
 
 Though designed for convenience, the *synchronicity* spell offers
-advantages for a caster in harm’s way. The subject of *synchronicity
-*can run at full speed through even through a dense crowd, because
+advantages for a caster in harm’s way. The subject of *synchronicity*
+can run at full speed through even through a dense crowd, because
 people subconsciously move aside. The *synchronicity* spell also
 provides a +4 bonus to Defense when the subject’s movement provokes an
 attack of opportunity (just like the Mobility feat), because even

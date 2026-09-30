@@ -32,8 +32,8 @@ complete silence and cannot be heard at all.
 
 **Locate Killer (Su):** If the charred one was created as the result of
 arson or careless use of fire, it gains the ability to hunt down the
-perpetrator. This ability is similar to the effect of a *locate object
-*spell (as if cast by a 5th-level Acolyte), but the creature can locate
+perpetrator. This ability is similar to the effect of a *locate object*
+spell (as if cast by a 5th-level Acolyte), but the creature can locate
 only the creature responsible for its death. A charred one can use this
 ability once per day.
 

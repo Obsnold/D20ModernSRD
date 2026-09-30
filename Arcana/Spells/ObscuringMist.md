@@ -21,7 +21,7 @@ and the attacker cannot use sight to locate the target).
 
 A moderate wind (11+ mph) disperses the fog in 4 rounds. A strong wind
 (21+ mph) disperses the fog in 1 round. A *fireball, flaming wrath*, or
-similar spell burns away the fog in the spell’s area. A *wall of fire
-*burns away the fog in the area into which it deals damage.
+similar spell burns away the fog in the spell’s area. A *wall of fire*
+burns away the fog in the area into which it deals damage.
 
 This spell does not function underwater.

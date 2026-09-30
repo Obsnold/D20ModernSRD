@@ -3,7 +3,7 @@
 ## Species Traits
 
 **Body Thief (Sp):** After rendering its victim helpless with its
-*mental blast,* an intellect devourer cracks open the victim’s skull,
+*mental blast*, an intellect devourer cracks open the victim’s skull,
 devours the brain within, and physically takes its place, sloughing off
 part of its own body to fit into the cavity. Once safely in control of
 the victim’s body, the intellect devourer closes the victim’s wounds
@@ -39,7 +39,7 @@ first 15 points of electricity damage from any single attack.
 **Invisibility (Sp):** The intellect devourer can become invisible at
 will, as the *invisibility* spell (caster level 10th).
 
-**Psionics (Sp):** At will—*domination*,* lesser body adjustment*,
+**Psionics (Sp):** At will—*domination*, *lesser body adjustment*,
 *mental blast*. Manifester level 10th; save DC 10 + intellect devourer’s
 key ability modifier + power level.
 
@@ -70,7 +70,7 @@ creature.
 | Full Atk | +6 melee (1d3+1, claw) or +9 ranged |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
-| SQ | *body thief,* damage reduction 10/+1, electricity resistance 15, fire immunity, *invisibility, psionics* |
+| SQ | *body thief*, damage reduction 10/+1, electricity resistance 15, fire immunity, *invisibility, psionics* |
 | AL | chaos, evil |
 | Fort | +4 |
 | Ref | +6 |

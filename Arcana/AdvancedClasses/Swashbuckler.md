@@ -18,26 +18,39 @@ following criteria.
 
 The following information pertains to the Swashbuckler advanced class.
 
-**Hit Die**
+### Hit Die
 
 Swashbucklers gain 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 Swashbucklers gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Swashbuckler’s class skills are as follows: Balance (Dex), Climb
-(Str), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (current
-events, history, popular culture), Listen (Wis), Move Silently (Dex),
-Navigate (Int), Pilot (Dex), Profession (Wis), Sleight of Hand (Dex),
-Swim (Str), Tumble (Dex).
+The Swashbuckler’s class skills are as follows:
+
+- Balance (Dex)
+- Climb (Str)
+- Escape Artist (Dex)
+- Hide (Dex)
+- Jump (Str)
+- Knowledge (current events, history, popular culture)
+- Listen (Wis)
+- Move Silently (Dex)
+- Navigate (Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Sleight of Hand (Dex)
+- Swim (Str)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Swashbuckler**
 
@@ -58,36 +71,46 @@ Swim (Str), Tumble (Dex).
 
 The following features pertain to the Swashbuckler advanced class.
 
-**Weapon Focus**
+### Weapon Focus
 
 At 1st level, the Swashbuckler gets the Weapon Focus feat for a weapon
 which he has Weapon Finesse. If he already has Weapon Focus for this
 weapon, then he gains Weapon Focus in another light melee weapon or
 smaller of his choice.
 
-**Quick Weapon Draw**
+### Quick Weapon Draw
 
 At 2nd level, the Swashbuckler gains the ability to draw his weapon as a
 free action. This applies only to the weapons for which the Swashbuckler
 has Weapon Focus.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th levels, the Swashbuckler gets a bonus feat. The
 bonus feat must be selected from the following list, and the
 Swashbuckler must meet all of the prerequisites for the feat to select
-it. Blind-Fight, Combat Expertise, Combat Reflexes, Dodge, Exotic Melee
-Weapon Proficiency, Improved Damage Threshold, Improved Disarm, Improved
-Trip, Mobility, Spring Attack, Whirlwind Attack.
+it.
 
-**Weapon Specialization**
+- Blind-Fight
+- Combat Expertise
+- Combat Reflexes
+- Dodge
+- Exotic Melee Weapon Proficiency
+- Improved Damage Threshold
+- Improved Disarm
+- Improved Trip
+- Mobility
+- Spring Attack
+- Whirlwind Attack
+
+### Weapon Specialization
 
 At 4th level, the Swashbuckler gains the Weapon Specialization feat. He
 gains a +2 bonus on damage rolls with a chosen light slashing or
 piercing melee weapon. The Swashbuckler must have Weapon Focus in that
 weapon in order to gain Weapon Specialization.
 
-**Find the Mark**
+### Find the Mark
 
 The Swashbuckler increases his threat range by one when using any melee
 weapon with which he has Weapon Finesse. A weapon that would threaten a
@@ -95,14 +118,14 @@ critical on 20 would now do so on a 19 or 20, and one which threatens on
 a 19 or 20 would now do so on an 18 to 20. This ability works with other
 abilities which increase threat ranges.
 
-**Greater Weapon Specialization**
+### Greater Weapon Specialization
 
 At 7th level, the Swashbuckler gains Greater Weapon Specialization with
 a light or smaller melee weapon with which he has Weapon Specialization.
 This ability increases the bonus on damage rolls to +4 when using the
 selected weapon.
 
-**Deflect Missiles**
+### Deflect Missiles
 
 At 8th level, the Swashbuckler can use his weapon to deflect missiles in
 the air, including arrows, spears, bolts, and bullets. This is a
@@ -117,7 +140,7 @@ exceptional missiles (such as *magic missiles* or particularly large
 items). If used successfully against a grenade attack the grenade
 automatically scatters (as normal rules) and then explodes.
 
-**Touché**
+### Touché
 
 At 10th level, the Swashbuckler is so adept are using his chosen weapon
 (with which he has Greater Weapon Focus) that attacks with that weapon

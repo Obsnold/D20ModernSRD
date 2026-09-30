@@ -62,7 +62,7 @@ distinctive halfling idioms.
 debased version of Elven is spoken by countless subterranean species,
 usually for the purpose of doing business with one another.
 
-**TABLE: LANGUAGES OF SHADOW BY FAMILY**
+**Table: Languages of Shadow by Family**
 
 | Language | Typical Speakers | Alphabet/Family |
 |---|---|---|
@@ -72,7 +72,7 @@ usually for the purpose of doing business with one another.
 | Celestial | Creatures with good allegiance | Celestial |
 | Common | Various Shadowkind species | Common |
 | Draconic | Dragons and other reptilian creatures | Draconic |
-| Drow Sign Language | Drow | None* |
+| Drow Sign Language | Drow | None\* |
 | Dwarven | Dwarves | Dwarven |
 | Elven | Elves, drow, and half-elves | Elven |
 | Giant | Giants, trolls, ogres | Dwarven |

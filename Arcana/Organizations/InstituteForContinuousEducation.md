@@ -30,7 +30,7 @@ equipment from the Institute with an appropriate level check. These
 checks receive a +2 bonus if they are valid requests for the course a
 character is teaching, or a –5 penalty if they are frivolous.
 
-***Dr. Allison’s Guide to the Mystic Arts***
+## *Dr. Allison’s Guide to the Mystic Arts*
 
 The primary text for all courses taught at the Institute for Continuous
 Education, this book by Rose Allison, PhD has also become an

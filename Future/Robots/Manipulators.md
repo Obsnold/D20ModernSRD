@@ -40,7 +40,7 @@ above).
 
 | | ——————————————— Robot Size ——————————————— | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-| **Manipulator Type** | **Fine** |** Diminutive** |** Tiny** |** Small** |** Medium-size** |** Large** |** Huge** |** Gargantuan** |** Colossal** |
+| **Manipulator Type** | **Fine** | **Diminutive** | **Tiny** | **Small** | **Medium-size** | **Large** | **Huge** | **Gargantuan** | **Colossal** |
 | Advanced Hand**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
 | Claw | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 |
 | Hand**¹** | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |

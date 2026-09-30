@@ -61,7 +61,7 @@ nullifies a specific spell (or specific set of spells). For each
 specific spell so nullified, increase the Knowledge (arcane lore) check
 DC by only +1 per spell level above 1st. For example, if you want to
 create an incantation that protects you specifically against *charm
-person *and* dominate*, the Knowledge (arcane lore) check DC would
+person* and *dominate*, the Knowledge (arcane lore) check DC would
 increase by +0 and +4, respectively.
 
 The ward could be brought down by a targeted *dispel magic* spell.

@@ -49,14 +49,14 @@ do for free.
 | Feint (see Bluff skill) | No |
 | Grapple another ship¹ | Yes |
 | Total defense | No |
-| **Move Actions** |** Attack of Opportunity?²** |
+| **Move Actions** | **Attack of Opportunity?²** |
 | Damage control | No |
 | Move at tactical speed | No |
 | Operate sensors | No |
 | Ram³ | Yes |
 | Sending/jamming a transmission | No |
 | Start/complete a full-round action | Varies |
-| **Full-Round Actions** |** Attack of Opportunity?²** |
+| **Full-Round Actions** | **Attack of Opportunity?²** |
 | Jump to cruising speed | Yes |
 | Surge forward | Yes |
 | Withdraw | No |

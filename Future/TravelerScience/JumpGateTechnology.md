@@ -31,7 +31,7 @@ have developed the technology to map the exit points of wormholes. With
 a theoretical advance in astrophysics, humanity might be ready to make
 the first safe jump by Progress Level 7.
 
-Jump Holes
+## Jump Holes
 
 In theory, a collapsing wormhole in a strong enough gravitational field
 could remain open of its own accord, creating a kind of natural jump

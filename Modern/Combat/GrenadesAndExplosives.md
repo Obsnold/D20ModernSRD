@@ -18,7 +18,7 @@ within one range increment, you do not need to make an attack roll. Roll
 1d4 and consult the table to see which corner of the square the
 explosive bounces to.
 
-**Thrown Explosives (hit)**
+**Thrown Explosives (Hit)**
 
 | Roll on d4 | Corner of targeted square |
 |---|---|
@@ -54,7 +54,7 @@ three range increments (11 to 30 feet), roll 1d8.
 
 For ranges of up to five range increments (31 to 50 feet), roll 1d12.
 
-**Thrown Explosives (Miss 4 to5 Range Increments)**
+**Thrown Explosives (Miss 4 to 5 Range Increments)**
 
 | Roll on d12 | Location Struck |
 |---|---|

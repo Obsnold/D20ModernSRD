@@ -31,11 +31,8 @@ weapons if it is grappling.
 | Flat-Footed | 17 |
 | Defense Breakdown | –1 size, +8 equipment |
 | BAB | +4 |
-| ?? | Grp +13 |
-| Atk | +8 melee (1d4+5 nonlethal, 2 hands) or +3 ranged (2d8, OICW assault rifle) |
-| ?? | or +3 ranged (2d8, laser pistol) |
-| ?? | or +3 ranged (4d6 nonlethal, M79 grenade launcher with concussion grenade) |
-| ?? | or +3 ranged (2d8, OICW assault rifle or laser pistol) and –2 ranged (4d6 nonlethal, mini-grenade launcher with concussion grenade) |
+| Grap | +13 |
+| Atk | +8 melee (1d4+5 nonlethal, 2 hands) or +3 ranged (2d8, OICW assault rifle); or +3 ranged (2d8, laser pistol); or +3 ranged (4d6 nonlethal, M79 grenade launcher with concussion grenade); or +3 ranged (2d8, OICW assault rifle or laser pistol) and –2 ranged (4d6 nonlethal, mini-grenade launcher with concussion grenade) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
 | SQ | construct traits, critical systems, darkvision 60 ft. |

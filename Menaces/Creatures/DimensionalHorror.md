@@ -75,9 +75,9 @@ horrors often take care to hide their victims’ bodies in caverns and
 other open spaces deep underground or in hollow trees, so that when they
 automatically shift back to the normal world, they will not be obvious.
 
-*True seeing, see invisibility,* and similar effects make dimensionally
+*True seeing, see invisibility*, and similar effects make dimensionally
 shifted creatures visible to creatures in the normal world, and *dispel
-magic *returns them there, automatically breaking the grapple of any
+magic* returns them there, automatically breaking the grapple of any
 dimensional horrors that hold them.
 
 Attempts by scientists to harness the dimensional horrors’ alternate
@@ -107,7 +107,7 @@ beyond (New FX Equipment, below).
 | Atk | +11 melee (1d6+9, claw) |
 | Full Atk | +11 melee (1d6+6, 2 claws) and +9 melee (1d8+3, 2 bites) |
 | FS | 10 ft. by 10 ft. |
-| Reach | 10 ft |
+| Reach | 10 ft. |
 | SQ | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 15) |
 | AL | none |
 | Fort | +8 |
@@ -151,7 +151,7 @@ Spot +11, Survival +11.
 | Atk | +23 melee (2d6+19, claw) |
 | Full Atk | +23 melee (2d6+13, 2 claws) and +21 melee (2d8+6, 2 bites) |
 | FS | 20 ft. by 20 ft. |
-| Reach | 15 ft |
+| Reach | 15 ft. |
 | SQ | blindsight 30 ft., darkvision 60 ft., improved grab, scent, shift dimension (DC 19) |
 | AL | none |
 | Fort | +16 |
@@ -171,7 +171,7 @@ Spot +11, Survival +11.
 
 **Feats:** Cleave, Multiattack, Power Attack, Track.
 
-New Equipment
+## New Equipment
 
 The scientific experimentation needed to develop the equipment below
 frequently attracted attention from the very horrors that the items were

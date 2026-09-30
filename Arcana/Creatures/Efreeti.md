@@ -1,7 +1,7 @@
 # Efreeti
 
-An efreeti typically uses its *polymorph
-*ability to conceal its true form: that of a 12-foot-tall
+An efreeti typically uses its *polymorph*
+ability to conceal its true form: that of a 12-foot-tall
 giant with brick-red skin, fiery eyes, small horns, and jutting tusks.
 The average efreeti weighs about 2,000 pounds. Efreet read, write, and
 speak Auran, Ignan, and Infernal, and one or more common or local
@@ -16,7 +16,7 @@ fire damage whenever it hits in melee or each round it maintains a hold
 while grappling.
 
 **Spell-like Abilities:** 1/day—*detect
-magical aura, gaseous form, invisibility, wall of fire *(save
+magical aura, gaseous form, invisibility, wall of fire* (save
 DC 16). These abilities are as the spells cast by a 10th-level Mage
 (save DC 12 + spell level). The DCs are Charisma-based.
 
@@ -138,7 +138,7 @@ as character class.
 | Full Atk | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +20/+15/+10 melee (2d6+12/18–20 plus 1d6 fire, Huge falchion) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
-| SQ | heat, spell-like abilities, *polymorph* (self only), *grant wishes,* immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
+| SQ | heat, spell-like abilities, *polymorph* (self only), *grant wishes*, immune to fire, cold vulnerability, telepathy, darkvision 60 ft., imbue weapon +1, quick weapon draw, expert in your field (falchions) |
 | AL | evil, law |
 | Fort | +13 |
 | Ref | +11 |

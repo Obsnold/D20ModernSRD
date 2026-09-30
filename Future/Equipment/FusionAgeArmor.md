@@ -10,7 +10,7 @@ a reinforced blast vest, shoulder and upper arm pads, thigh and abdomen
 pads, and kneepads. Some light combat armors also include helmets and
 visors, though not all incorporate this aspect of the armor.
 
-**Scout Armor**
+## Scout Armor
 
 Scout armor is similar in many ways to light combat armor, but with a
 few notable exceptions. Scout armor is painted with camouflage patterns:
@@ -23,7 +23,7 @@ combat armor, increasing mobility but decreasing protection to the lower
 body. Scout armor more often incorporates survival gadgets as fits the
 terrain for which it is designed.
 
-**Survival Suit**
+## Survival Suit
 
 The survival suit is the natural evolution of wilderness survival gear
 popularized in the Information Age. Thanks to the continued

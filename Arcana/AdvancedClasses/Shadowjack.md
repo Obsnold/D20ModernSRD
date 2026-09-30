@@ -3,7 +3,7 @@
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.
 
-**Requirements**
+## Requirements
 
 To qualify to become a Shadowjack, a character must fulfill the
 following criteria.
@@ -11,32 +11,50 @@ following criteria.
 **Skills:** Computer Use 6 ranks, Craft (electronic) 6 ranks, and
 Disable Device 6 ranks.
 
-**Class Information**
+## Class Information
 
 The following information pertains to the Shadowjack advanced class.
 
-**Hit Die**
+### Hit Die
 
 Shadowjacks gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Shadowjacks gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Shadowjack’s class skills are as follows: Computer Use (Int), Craft
-(electronic, mechanical, writing) (Int), Decipher Script (Int), Disable
-Device (Int), Forgery (Int), Gamble (Wis), Gather Information (Cha),
-Intimidate (Cha), Knowledge (arcane lore, current events, history,
-popular culture, technology) (Int), Profession (Wis), Read/Write
-Language (none), Repair (Int), Research (Int), Speak Language (none),
-Search (Int).
+The Shadowjack’s class skills are as follows:
+
+- Computer Use (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Disable Device (Int)
+- Forgery (Int)
+- Gamble (Wis)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (technology) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Speak Language (none)
+- Search (Int)
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Shadowjack**
 
@@ -53,11 +71,11 @@ Search (Int).
 | 9th | +4 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
 | 10th | +5 | +3 | +3 | +7 | Virtual incantations | +5 | +3 |
 
-**Class Features**
+## Class Features
 
 The following features pertain to the Shadowjack advanced class.
 
-**Read/Write Code**
+### Read/Write Code
 
 Beginning at 1st level, the Shadowjack can understand both the nature of
 raw computer code and what the program is intended to accomplish when
@@ -67,7 +85,7 @@ the function of the program and any bugs or potential weak points in the
 design. If weak points are found, the Shadowjack gains a +2 insight
 bonus on Computer Use checks attempting to degrade the program.
 
-**Online Presence**
+### Online Presence
 
 Beginning at 2nd level, when attempting to use a Charism-abased skill
 such a Bluff, Intimidate, Diplomacy, or Gather
@@ -75,15 +93,26 @@ such a Bluff, Intimidate, Diplomacy, or Gather
 Information in an online situation, the Shadowjack adds any Shadowjack
 levels as a circumstance bonus.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Shadowjack gets a bonus feat. The bonus
 feat must be selected from the following list, and the Shadowjack must
-meet all of the prerequisites for the feat to select it. Alertness,
-Arcane Skills, Builder, Cautious, Educated, Gearhead, Lightning
-Reflexes, Low Profile, Meticulous, Renown, Studious, Windfall.
+meet all of the prerequisites for the feat to select it.
 
-**Shadowjack Abilities**
+- Alertness
+- Arcane Skills
+- Builder
+- Cautious
+- Educated
+- Gearhead
+- Lightning Reflexes
+- Low Profile
+- Meticulous
+- Renown
+- Studious
+- Windfall
+
+### Shadowjack Abilities
 
 Beginning at 4th level, the Shadowjack gains the following abilities:
 
@@ -158,7 +187,7 @@ cyberspace. He may spend an action point and then substitute his
 Computer Use score instead of a Knowledge score for the purposes of one
 check.
 
-**Virtual Incantations**
+### Virtual Incantations
 
 At 10th level, the Shadowjack gains the spell-like ability to use a
 computer to cast incantations. This process reduces the number of

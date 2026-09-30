@@ -1,6 +1,6 @@
 # FEATS
 
-## Feat Descriptions
+## Feat Description Format
 
 Here is the format for feat descriptions.
 
@@ -24,7 +24,7 @@ possessing the feat, this entry is absent.
 
 **Special:** Additional facts about the feat.
 
-## Feats
+## Feat Descriptions
 
 - [Acrobatic](Acrobatic.md)
 - [Advanced Combat Martial Arts](AdvancedCombatMartialArts.md)

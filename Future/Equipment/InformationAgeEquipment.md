@@ -12,7 +12,7 @@ and features one or two earpieces that wrap around the back of the ear.
 The glasses are semitransparent and allow the wearer to see both the
 display and the user’s surroundings simultaneously.
 
-**Duracable**
+### Duracable
 
 Strong as steel, flexible as rubber, and almost as light as normal rope,
 duracable replaces most cables and ropes as the standard device for
@@ -21,7 +21,7 @@ durable wiring wrapped hundreds of times in a swirl that reinforces
 itself as more stress is placed on the coil. Duracable is able to
 support up to 10 metric tons of weight.
 
-**Grappler Tag**
+### Grappler Tag
 
 Often used in conjunction with duracable, the grappler tag is a small
 disc roughly six inches in diameter. When placed against a solid
@@ -31,7 +31,7 @@ not). The tag can then be attached to duracable and used as an anchor
 for climbing, pulling, or any other purpose. A button on the top of the
 disc releases the grappler tag’s hold.
 
-**Explorer Outfit**
+### Explorer Outfit
 
 The explorer’s outfit is the standard uniform for bold adventurers
 taking their first steps into the unknown. It includes a set of cargo
@@ -43,7 +43,7 @@ a belt that holds pouches of all kinds. The chief premise of the
 explorer’s outfit is versatility, giving the explorer a basic set of
 clothing that can be added to and augmented for each particular mission.
 
-**Hackcard**
+### Hackcard
 
 A marvel of computer technology, the hackcard is a disposable, one-use
 item designed to allow those who are not computer savvy to bypass
@@ -63,7 +63,7 @@ character’s. After a single use, the card triggers small fibers of
 combustible material and the hackcard self-destructs, leaving behind no
 trace of tampering.
 
-**Heads-Up Display (HUD)**
+### Heads-Up Display (HUD)
 
 One of the most valuable innovations in portable information technology
 is the personal heads-up display (HUD). A HUD is composed of optical
@@ -85,7 +85,7 @@ HUD can freely send data and images to the wearer at any time.
 Individual software packages (represented as gadgets) can further
 augment the abilities of a HUD.
 
-**Laser Tripwire**
+### Laser Tripwire
 
 The laser tripwire is a simple device that replaces the standard
 physical tripwire. A single focused beam of light is projected out from
@@ -96,7 +96,7 @@ used to activate an alarm, trigger an explosive device, or even just
 turn on the lights in a particular room, depending on what event the
 signal is set to trigger.
 
-**Nanobeacon**
+### Nanobeacon
 
 An invaluable device used in tracking and search and rescue, the
 nanobeacon is a small microchip that is placed on a target’s body (or on
@@ -108,7 +108,7 @@ squads, track wanted criminals, and even to help recover kidnapped or
 lost children. A beacon can be placed on any character or object by
 making a simple touch attack against the target.
 
-**Portable Environment Generator**
+### Portable Environment Generator
 
 As an important piece of survival gear that can be taken on almost any
 expedition, the portable environment generator is an all-in-one device
@@ -126,7 +126,7 @@ generator can produce a sphere inside which a group of people can be
 relatively comfortable despite extremely harsh conditions outside the
 generator’s influence.
 
-**Portable Glow Lamp**
+### Portable Glow Lamp
 
 The portable glow lamp is the most efficient and beneficial form of
 lighting equipment known to man. It can function as a directional
@@ -141,7 +141,7 @@ that removes impurities from water food. The puritizer’s onboard
 computer recognizes chemicals that can be harmful to the human body and
 separates them from the food and drink.
 
-**Shepherd Chip**
+### Shepherd Chip
 
 The shepherd chip is a tiny microchip implanted beneath the surface of
 the wrist. It contains the bearer’s identification information. Some
@@ -171,7 +171,7 @@ stolen shepherd chips emerged as soon as the chips themselves became
 widespread, making identity theft and falsification an ever-present
 crime in some communities.
 
-**Soother Pulse**
+### Soother Pulse
 
 A small box that fits in one hand, the soother pulse emits sub-audible
 noises and subtle vibrations that can soothe almost any animal. It
@@ -181,7 +181,7 @@ whenever they are discovered. A character using the soother pulse gains
 a +6 equipment bonus on all Handle Animal checks when dealing with an
 animal identified in the soother pulse’s database.
 
-**Spray LCD**
+### Spray LCD
 
 The rise to prominence of paint-on LCDs allowed many people freedom and
 portability with computing never before felt. The spray LCD is the

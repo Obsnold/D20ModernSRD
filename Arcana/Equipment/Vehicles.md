@@ -61,7 +61,7 @@ weapon damage dealt to the vehicle.
 | **General Purpose Trucks** | | | | | | | | | | | | |
 | Jeep Wrangler (SUV) | 1 | 3 | 800 | –2 | –2 | 140 (14) | 8 | 5 | 32 | H | 28 | Lic (+1) |
 | Ford Econoline 150 (van) | 1 | 8 | 4800 | –2 | –2 | 195 (19) | 8 | 5 | 34 | H | 29 | Lic (+1) |
-| Peterbilt Model 379 (tractor trailer) | 1 | 1 | 80,000* | –4 | –4 | 130 (13) | 6 | 5 | 85 | G | 33 | Lic (+1) |
+| Peterbilt Model 379 (tractor trailer) | 1 | 1 | 80,000\* | –4 | –4 | 130 (13) | 6 | 5 | 85 | G | 33 | Lic (+1) |
 | **General Purpose Water Vehicles** | | | | | | | | | | | | |
 | Tug boat | 5 | 5 | 4000 tons | –4 | –4 | 30 (3) | 6 | 5 | 150 | G | 38 | Lic (+1) |
 | Fishing trawler | 9 | 2 | 100 tons | –4 | –4 | 30 (3) | 6 | 5 | 175 | G | 43 | Lic (+1) |
@@ -70,23 +70,23 @@ weapon damage dealt to the vehicle.
 | Emergency aid vehicle | 2 | 2 | 1000 | –2 | –2 | 160 (16) | 8 | 5 | 34 | H | 30 | Res (+2) |
 | Fire truck | 4 | 2 | 2500 | –4 | –4 | 105 (10) | 6 | 5 | 80 | G | 35 | Res (+2) |
 | Police peacekeeper | 3 | 10 | 250 | –2 | –2 | 95 (10) | 8 | 10 | 48 | H | 40 | Res (+2) |
-| Tow truck | 1 | 1 | 50,000* | –2 | –4 | 130 (13) | 6 | 5 | 39 | G | 31 | Lic (+1) |
+| Tow truck | 1 | 1 | 50,000\* | –2 | –4 | 130 (13) | 6 | 5 | 39 | G | 31 | Lic (+1) |
 
 Towing and/or hauling capacity
 
-General Purpose Aircraft
+## General Purpose Aircraft
 
 There are many models of civilian aircraft—from single-engine propeller
 planes to jumbo jets. All use the Pilot skill to operate.
 
-**Maulle M-7-260C Seaplane**
+## Maulle M-7-260C Seaplane
 
 The Maulle M-7-260C seaplane has a fast cruise speed and low stall
 speed, making it ideal for water landings. With twin pontoons instead of
 wheels, landing a seaplane on anything but water would be disastrous. A
 seaplane is six squares wide and six squares long.
 
-**Ultralight**
+## Ultralight
 
 Ultralights are essentially powered hang gliders. An ultralight only
 requires 100 feet or so to land and take off, depending on wind
@@ -96,33 +96,33 @@ minutes to assemble it. An ultralight is two squares wide and two
 squares long. The vehicle is very fragile and provides no cover to its
 pilot.
 
-General Purpose Bicycles
+### General Purpose Bicycles
 
 Bicycles are common in urban settings and have the main advantage of
 being able to skirt past traffic jams. See additional rules on operating
 a bicycle below.
 
-**Diamondback X-20 Mountain Bike**
+## Diamondback X-20 Mountain Bike
 
 The Diamondback X-20 is a rugged mountain bike that works equally well
 on smooth streets or rough terrain. The rider suffers no additional
 penalties for taking the bike offroad. A mountain bike is one square
 wide and one square long.
 
-**LeMond Victoire Racing Bike**
+## LeMond Victoire Racing Bike
 
 The LeMond Victoire is a top of the line, aerodynamic 10-speed bicycle
 designed for riding on streets and highways. A rider suffers a –4
 penalty on Balance checks if they take the bike offroad. A racing bike
 is one square wide and one square long.
 
-**Mongoose Pro Fuzz BMX Bike**
+## Mongoose Pro Fuzz BMX Bike
 
 A typical BMX bike used for offroad trails and stunt riding. The rider
 suffers no additional penalties for going offroad with this bicycle. A
 BMX bike is one square wide and one square long.
 
-**Police Bicycle**
+## Police Bicycle
 
 A police bicycle is a mountain bike (usually black and emblazoned with
 “POLICE” on the side) that includes large saddlebags that hold a small
@@ -130,7 +130,7 @@ amount of equipment: 6 zip-ties, 3 road flares, a multipurpose tool, a
 first-aid kit, and a flashlight. A police bicycle is one square wide and
 one square long.
 
-Operating a Bicycle
+### Operating a Bicycle
 
 Operating a bicycle uses the same rules as any other vehicle, but with a
 few special rules:
@@ -158,7 +158,7 @@ the vehicle statistics on Table: Vehicles.)
 
 • Bicycle tires have 2 hit points each.
 
-General Purpose Cars
+### General Purpose Cars
 
 Most new general purpose cars include such standard features as air
 conditioning, air bags, antilock brakes, cruise control, keyless entry,
@@ -172,21 +172,21 @@ their occupants (although passengers who lean out of windows or
 sunroofs, perhaps to fire weapons, may be reduced to one-half or even
 one-quarter cover).
 
-**1967 Chevrolet Camaro**
+## 1967 Chevrolet Camaro
 
 A good example of a “muscle car,” a 1967 Chevy Camaro has a 350 cubic
 inch V8 engine that produces 295 horsepower. This does not include
 additional upgrades such as turbocharging and racing tires. A Camaro is
 two squares wide and four squares long.
 
-**Police Cruiser**
+## Police Cruiser
 
 This version is based on the Ford Crown Victoria, with a strengthened
 chassis and improved engine. It is the typical police vehicle found in
 cities and other urban areas. The police cruiser is two squares wide and
 four squares long.
 
-**Dodge Intrepid Police Interceptor**
+## Dodge Intrepid Police Interceptor
 
 With faster sports cars on the streets, the police occasionally need
 faster cars to catch them. Only the largest and best-funded police
@@ -194,28 +194,28 @@ departments can afford this vehicle. It contains the same equipment as a
 regular police cruiser. Police interceptors are two squares wide and
 four squares long.
 
-General Purpose Trucks
+### General Purpose Trucks
 
 Trucks include pickups, sport-utility vehicles, vans and minivans. They
 generally have the same range of features as civilian cars. Like cars,
 trucks generally provide three-quarters cover to their occupants. The
 rear beds of pickup trucks, however, provide only one-half cover.
 
-**Ford Econoline 150**
+## Ford Econoline 150
 
 A typical full-sized van used for hauling cargo or passengers, the Ford
 Econoline 150 comes with two conventional doors up front, sliding doors
 on the side, and a rear hatch-style door. It is two squares wide and
 four squares long.
 
-**Jeep Wrangler**
+## Jeep Wrangler
 
 The Wrangler is a small truck designed for serious off-roading. It
 sports oversized tires, a roll bar, and heavy-duty shock absorbers. It’s
 not fast, but can get through difficult terrain much better than a
 normal car. A Wrangler is two squares wide and three squares long.
 
-**Peterbilt 379**
+## Peterbilt 379
 
 The cab of this 18-wheeler has the classic long nose of most big rigs.
 It is spacious, powerful, and comfortable. This model includes a sleeper
@@ -227,7 +227,7 @@ squares long, including a full-sized trailer. The cab alone is five
 squares long. The cab provides three-quarters cover to its occupants,
 and being in the trailer provides full cover.
 
-**Tow Truck**
+## Tow Truck
 
 A tow truck is a large diesel-powered vehicle with a professional grade
 tow bar/winch used for hauling inoperative cars. It takes 2d10 minutes
@@ -236,20 +236,20 @@ halve the time. Most tow trucks also carry a basic mechanical tool kit,
 CB radio, and one-gallon gas can. A tow truck is two squares wide and
 four squares long.
 
-General Purpose Motorcycles
+### General Purpose Motorcycles
 
 Unlike getting into a car, mounting a motorcycle is a free action.
 Motorcycles tend to perform better than automobiles, but they provide no
 cover to their occupants.
 
-**V-Rod**
+## V-Rod
 
 The V-Rod combines the aesthetics of a traditional Harley with the
 engine of a racing bike. Using a liquid-cooled engine that kicks out 115
 horsepower, this monster combines the “biker” mystique with the speed of
 a racing bike. The V-Rod is one square wide by two squares long.
 
-**Police Motorcycle**
+## Police Motorcycle
 
 Most police departments use Harley-Davidson motorcycles, specially
 altered to suit the department’s needs and painted to look obvious. It
@@ -258,20 +258,20 @@ cc engine. It has two large saddlebags that contain the following items:
 6 zip-ties, 3 road flares, a multipurpose tool, a first-aid kit, and a
 flashlight. A police motorcycle is one square wide by two squares long.
 
-**Vespa ET4**
+## Vespa ET4
 
 A compromise between a bicycle and a motorcycle, scooters are useful for
 getting through clogged city streets. Because they only have small,
 single-cylinder engines, scooters are not allowed on highways. A scooter
 is one square wide and one square long.
 
-General Purpose Water Vehicles
+### General Purpose Water Vehicles
 
 Piloting a water vehicle is covered by the Drive skill. Because of their
 size, most large boats are more likely to be used as places to stage an
 adventure rather than as a vehicle to get around.
 
-**Avanti 39 Cigarette Boat**
+## Avanti 39 Cigarette Boat
 
 Long and sleek, this expensive and high-powered boat is designed to move
 fast and look good. It is commonly used for smuggling cargo between
@@ -279,7 +279,7 @@ ports that are not likely to stop something that obviously belongs to an
 “upstanding citizen.” A cigarette boat is two squares wide and eight
 squares long.
 
-**Fishing Trawler**
+## Fishing Trawler
 
 Fishing trawlers are found around commercial fishing ports. They are
 huge boats with most of their space dedicated to equipment that harvests
@@ -287,14 +287,14 @@ and stores fish. They are slow, but handle well in rough water (+2 bonus
 on Drive checks in rough seas). A fishing boat is four squares wide and
 sixteen squares long.
 
-**Tug Boat**
+## Tug Boat
 
 Common around ports, tug boats help guide larger vessels to and from the
 docks. They are slow but incredibly powerful, being able to nudge huge
 ships with their oversized and overtorqued engines. A tug boat is four
 squares wide and eighteen squares long.
 
-Other Vehicles
+### Other Vehicles
 
 A few types of vehicles don’t fit neatly into the categories covered
 above. Many of these (like the emergency aid vehicle and urban assault
@@ -302,20 +302,20 @@ vehicle) are usually custom built, so the model name isn’t specified as
 it is with most other vehicles. The description and statistics reflect a
 typical design.
 
-**Emergency Aid Vehicle**
+## Emergency Aid Vehicle
 
 When someone needs medical attention, this is what shows up. It contains
 a large amount of medical and emergency rescue supplies. An emergency
 aid vehicle is two squares wide and four squares long.
 
-**Fire Truck**
+## Fire Truck
 
 There are technically two types of fire trucks—pumpers, which have large
 water tanks, and ladder trucks, which mount enormous ladders for getting
 firefighters up high. A fire truck is two squares wide and six squares
 long.
 
-**Police Peacekeeper**
+## Police Peacekeeper
 
 When mobs are rioting in the streets, some police departments roll out
 these armored personnel carriers to help quell violence. In addition to
@@ -328,7 +328,7 @@ takes one full-round action to enter an APC through a top hatch, and
 another full-round action to start it moving. Police armored personnel
 carriers are two squares wide and four squares long.
 
-What a Police Officer Carries
+### What a Police Officer Carries
 
 Police and other law-enforcement officers carry a large amount of
 equipment with them at all times. Here is a sample list of the typical
@@ -360,7 +360,7 @@ situations, such as a raid or SWAT action.
 
 • Citation book
 
-What is Inside a Police Cruiser
+### What is Inside a Police Cruiser
 
 Police vehicles vary in terms of what equipment they carry, depending on
 whether they belong to state, county, or city precincts. Despite this,
@@ -424,7 +424,7 @@ tool)
 
 • Spike strip (50% chance)
 
-What is in an Emergency Aid Vehicle
+### What is in an Emergency Aid Vehicle
 
 Obviously, aid vehicles are loaded with a huge variety of medical
 equipment. Instead of listing every single item, assume that the
@@ -480,7 +480,7 @@ mounted on vehicle)
 
 • Tire chains (+2 bonus on Drive checks on icy surfaces)
 
-What is Inside a Fire Truck
+### What is Inside a Fire Truck
 
 Fire trucks are enormous vehicles that carry a tremendous amount of
 firefighting, medical, and search and rescue equipment. Obviously, most

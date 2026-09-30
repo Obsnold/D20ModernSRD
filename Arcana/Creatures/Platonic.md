@@ -35,9 +35,9 @@ cannot be affected again by that platonic’s aura for one day.
 
 **Spell-Like Abilities:** At will—*bestow
 curse, change self, detect magic, dispel magic, fear, status,
-telekinesis, teleport. *In addition, platonics generally have
+telekinesis, teleport.* In addition, platonics generally have
 four additional spell-like abilities (each usable at will) chosen from
-the spell lists* *and three spelllike abilities
+the spell lists and three spelllike abilities
 (each usable once per day) chosen from among the incantations. These
 seven spell-like abilities relate to the platonic’s cause in some way,
 and they tend to be split evenly between offense, defense, and utility
@@ -45,8 +45,8 @@ abilities. A platonic’s spell-like abilities are as the spells cast by a
 10th-level Mage or Acolyte.
 
 **Tongues (Su):** All platonics can speak with any
-creature that has a language, as though using a *tongues
-*spell cast by a 10th-level caster. This ability is always
+creature that has a language, as though using a *tongues*
+spell cast by a 10th-level caster. This ability is always
 active.
 
 **Extradimensional Storage (Su):** Platonics can store
@@ -76,9 +76,7 @@ damage each round so long as it has at least 1 hit point.
 **Bonus Feat:** Platonics gain the bonus feat Archaic
 Weapons Proficiency.
 
-**Sraosha (Platonic of Contract Enforcement)**
-
-## Sraosha
+## Sraosha (Platonic of Contract Enforcement)
 
 | Stat | Value |
 |---|---|
@@ -95,8 +93,8 @@ Weapons Proficiency.
 | Defense Breakdown | +5 Dex, +15 natural, +2 deflection |
 | BAB | +15 |
 | Grap | +21 |
-| Atk | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3,* +3 M–16A2*) or +19 ranged (4d8+3,* +2 M–16A2 *burst) |
-| Full Atk | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3,* +2 M–16A2*) or +19/+14/+9 ranged (4d8+3,* +2 M16A2 *burst) |
+| Atk | +24 melee (1d8+12/19–20, *+3 longsword*) or +21 melee (1d4+6, unarmed strike) or +23 ranged (2d8+3, *+3 M–16A2*) or +19 ranged (4d8+3, *+2 M–16A2* burst) |
+| Full Atk | +24/+19/+14 melee (1d8+12/19–20, *+3 longsword*) or +21/+16/+11 melee (1d4+6, unarmed strike) or +23/+18/+13 ranged (2d8+3, *+2 M–16A2*) or +19/+14/+9 ranged (4d8+3, *+2 M16A2* burst) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
 | SQ | aura of menace, spell-like abilities, tongues, extradimensional storage, keen vision, immunities, acid and fire resistance 20, damage reduction 30/+3, SR 25, fast healing 10 |
@@ -124,13 +122,13 @@ Proficiency, Simple Weapons Proficiency.
 **Spell-Like Abilities:** At will—*bestow
 curse (DC 21), break enchantment, change self, detect magical aura,
 discern lies, dispel magic, fear (DC 21), hold person (DC 20), status,
-telekinesis (DC 22), teleport, wall of force;
-*1/day—*baleful polymorph (DC 24), greater dispel
-magic, teleport. *Caster level 10th; save DC 17 + spell
+telekinesis (DC 22), teleport, wall of force*;
+1/day—*baleful polymorph (DC 24), greater dispel
+magic, teleport.* Caster level 10th; save DC 17 + spell
 level.
 
-**Possessions:** *+3 longsword, +3 M16A2
-*(both items stored extradimensionally),* +2 ring
+**Possessions:** *+3 longsword, +3 M16A2*
+(both items stored extradimensionally), *+2 ring
 of protection*.
 
 **Advancement:** By character class.

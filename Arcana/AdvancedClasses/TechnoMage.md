@@ -15,28 +15,47 @@ following criteria.
 
 The following information pertains to the Techno Mage advanced class.
 
-**Hit Die**
+### Hit Die
 
 Techno Mages gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Techno Mages gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Techno Mage’s class skills are as follows: Computer Use (Int),
-Concentration (Con), Craft (chemical, electronic, mechanical,
-pharmaceutical) (Int), Decipher Script (Int), Demolitions (Int), Disable
-Device (Int), Investigate (Int), Knowledge (arcane lore, art, current
-events, history, popular culture, streetwise, technology) (Int),
-Read/Write Language (none), Repair (Int), Research (Int), Speak Language
-(none), Spellcraft (Int).
+The Techno Mage’s class skills are as follows:
+
+- Computer Use (Int)
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Decipher Script (Int)
+- Demolitions (Int)
+- Disable Device (Int)
+- Investigate (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (technology) (Int)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Speak Language (none)
+- Spellcraft (Int)
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Techno Mage**
 
@@ -57,7 +76,7 @@ Read/Write Language (none), Repair (Int), Research (Int), Speak Language
 
 The following features pertain to the Techno Mage advanced class.
 
-**Arcane Spells and Armor**
+### Arcane Spells and Armor
 
 The Techno Mage can become proficient in the use of armor, and while his
 limitations are not as great as the traditional Mage, he still has a
@@ -73,7 +92,7 @@ depends on the type of armor being worn, as shown below.
 | Medium | 10% | 20% |
 | Heavy | 20% | 30% |
 
-**Spellfiles**
+### Spellfiles
 
 The Techno Mage must study her spellfiles each day to prepare her
 spells. The Techno Mage can’t prepare any spell not recorded in her
@@ -95,13 +114,13 @@ usually kept in another location (such as a safety deposit box). Hard
 copy is also used for storage of spellfiles, sometimes bound in
 spellbooks.
 
-**Arcane Skills**
+### Arcane Skills
 
 At 1st level, the Techno Mage gains access to the arcane skill
 Spellcraft and the expansion of the Concentration skill, as described
 under the Mage entry*.*
 
-**Arcane Spells**
+### Arcane Spells
 
 The Techno Mage’s key talent is the ability to cast arcane spells.
 
@@ -120,15 +139,15 @@ Intelligence score, as shown below.
 
 | Int Score | —Bonus Spells by Spell Level— | | | | | |
 |---|---|---|---|---|---|---|
-| | **1** |** 2** |** 3** |** 4** |** 5** | |
+| | **1** | **2** | **3** | **4** | **5** | |
 | 12–13 | 1 | — | — | — | — | |
 | 14–15 | 1 | 1 | — | — | — | |
 | 16–17 | 1 | 1 | 1 | — | — | |
 | 18–19 | 1 | 1 | 1 | 1 | — | |
 | 20–21 | 2 | 1 | 1 | 1 | 1 | |
 | 22–23 | 2 | 2 | 1 | 1 | 1 | |
-| **Techno Mage Level** |** —Spells per Day by Spell Level—** | | | | | |
-| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
+| **Techno Mage Level** | **—Spells per Day by Spell Level—** | | | | | |
+| | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1 | 3 | 1 | — | — | — | — |
 | 2 | 4 | 2 | — | — | — | — |
 | 3 | 4 | 2 | 1 | — | — | — |
@@ -140,13 +159,13 @@ Intelligence score, as shown below.
 | 9 | 4 | 4 | 4 | 3 | 2 | 1 |
 | 10 | 4 | 4 | 4 | 3 | 3 | 2 |
 
-**Machine Empathy**
+### Machine Empathy
 
 At 2nd Level, the Techno Mage is so comfortable with technology that she
 gains a +2 competence bonus with any electronic or mechanical device,
 and in addition may use any skill that involves technology untrained.
 
-**Program Spell**
+### Program Spell
 
 At 3rd level, the Techno Mage may spend an action point to insert a
 spell within a particular analog or digital device, such that by
@@ -156,19 +175,27 @@ variables of the spell are set at the time of casting.
 Casting a spell takes the normal amount of time; discharging a
 programmed spell is an attack action.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Techno Mage gets a bonus feat. The bonus
 feat must be selected from the following list, and the Techno Mage must
 meet all of the prerequisites for the feat to select it.
 
-Armor Proficiency (light), Builder, Educated, Gearhead, Greater Spell
-Focus, Greater Spell Penetration, Personal Firearms Proficiency, Spell
-Focus, Spell Penetration, Studious, Windfall.
+- Armor Proficiency (light)
+- Builder
+- Educated
+- Gearhead
+- Greater Spell Focus
+- Greater Spell Penetration
+- Personal Firearms Proficiency
+- Spell Focus
+- Spell Penetration
+- Studious
+- Windfall
 
 The Techno Mage may also take any metamagic feats as bonus feats.
 
-**Create Homunculus**
+### Create Homunculus
 
 At 4th level, the Techno Mage can create a homunculus. The homunculus
 may be flesh, digital, chemical, or biochemical in nature.
@@ -192,7 +219,7 @@ The Techno Mage may create any number of homunculi. However, when a
 homunculi perishes, its death deals 2d10 points of damage to the Techno
 Mage, so caution is usually the by-word in homunculus creation.
 
-**Arcane Spontaneous Casting**
+### Arcane Spontaneous Casting
 
 At 5th, the Techno Mage chooses a number of spells she already knows
 equal to her Intelligence modifier. From that point on, the Techno Mage
@@ -200,11 +227,11 @@ can cast those spells in place of already-chosen spells of the same
 level. The Techno Mage “loses” a prepared spell to cast another spell of
 the same level or lower.
 
-**Spell Focus**
+### Spell Focus
 
 At 7th level, the Techno Mage gains Spell Focus as a bonus feat.
 
-**Online Casting**
+### Online Casting
 
 At 8th level, the Techno Mage can cast spells through electronic
 devices, including cameras, cell phones, and modems.
@@ -221,7 +248,7 @@ the keyboard” is a suitable target). Spells cast online are less
 effective, such that the target gets a +4 circumstance bonus on saving
 throws.
 
-**Quicken Spell**
+### Quicken Spell
 
 At 10th level, the Techno Mage learns to cast some spells as free
 actions. With but a moment’s thought (and the proper verbal, somatic,

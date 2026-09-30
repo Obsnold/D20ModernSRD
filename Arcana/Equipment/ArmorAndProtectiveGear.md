@@ -32,7 +32,7 @@ proficient in the use of shields.
 | Shield, large | Shield | +2 | +1 | — | –2 | 15% | — | 15 lb. | 7 | — |
 | Shield, riot | Shield | +3 | +1 | — | –1 | 30% | — | 6 lb. | 10 | Res (+2) |
 
-**Banded Mail**
+## Banded Mail
 
 This armor is made of overlapping strips of metal sewn to a backing of
 leather and chainmail. The strips cover vulnerable areas, while the
@@ -40,14 +40,14 @@ chain and leather protect the joints and provide freedom of movement.
 Straps and buckles distribute the weight evenly. A suit of this armor
 includes gauntlets.
 
-**Breastplate**
+## Breastplate
 
 A breastplate covers your front and your back. It comes with a helmet
 and greaves (plates to cover your lower legs). A light suit or skirt of
 studded leather beneath the breastplate protects your limbs without
 overly restricting movement.
 
-**Buckler**
+## Buckler
 
 This small metal shield is strapped to your forearm. You can use a
 pistol, longarm, or melee weapon without penalty. You can also use an
@@ -57,13 +57,13 @@ fighting with your offhand and for fighting with two weapons. In any
 case, if you use a weapon in your off-hand, you don’t get the buckler’s
 shield bonus for the rest of the round.
 
-**Fire Resistant Suit**
+## Fire Resistant Suit
 
 This bulky, silver-coated suit provides fire resistance 10, but does not
 protect against any other type of damage. It is used primarily by fire
 fighters.
 
-**Half-Plate**
+## Half-Plate
 
 This armor is a combination of chainmail with metal plates (breastplate,
 epaulettes, elbow guards, gauntlets, tasses, and greaves) covering vital
@@ -71,19 +71,19 @@ areas. Buckles and straps hold the whole suit together and distribute
 the weight, but the armor still hangs more loosely than full plate. It
 includes gauntlets.
 
-**Hide**
+## Hide
 
 This armor is prepared from multiple layers of leather and animal hides.
 It is stiff and hard to move in. Shadow creatures and other primitive
 individuals that are unconcerned about appearance or hygiene commonly
 wear hide armor.
 
-**Lamellar**
+## Lamellar
 
 Similar to splint armor, lamellar consists of small, overlapping plates
 of metal sewn together or stitched to a backing of leather or cloth.
 
-**NBC Suit**
+## NBC Suit
 
 Although technically not armor, this oversized suit does protect the
 wearer from nuclear (radiation), biological, and chemical hazards. When
@@ -97,7 +97,7 @@ the suit has been exposed to some hazard, it must be cleaned and
 neutralized, taking 1 hour and requiring special chemicals (purchase DC
 15) and high-pressure water hoses.
 
-**O-Yoroi**
+## O-Yoroi
 
 O-yoroi, also called great armor, is a full suit of armor formed from
 small metal plates tied together with colored leather lacings and
@@ -109,13 +109,13 @@ cover the thighs and knees (haidate), a great helmet with a face mask
 great armor is a badge of honor for bushi of the samurai caste of Japan,
 and they frown on anyone else wearing such a suit.
 
-**Padded**
+## Padded
 
 Padded armor features layers of cloth and batting. Armor used for
 training attack dogs and extremely heavy winter clothing fall under this
 classification of armor.
 
-**Scale Mail**
+## Scale Mail
 
 This is a coat and leggings (and perhaps a separate skirt) of leather
 covered with overlapping pieces of metal, much like the scales of a
@@ -141,13 +141,13 @@ hits (hardness 5, 3 hp).
 *Riot*: A riot shield is a large shield made of tough, transparent
 plastic, providing cover without hindering sight.
 
-**Splint Mail**
+## Splint Mail
 
 This armor is made of narrow vertical strips of metal riveted to a
 backing of leather that is worn over cloth padding. Flexible chainmail
 protects the joints. It includes gauntlets.
 
-**Studded Leather**
+## Studded Leather
 
 This armor is made from tough but flexible leather (not hardened leather
 as with normal leather armor) reinforced with close-set metal rivets.

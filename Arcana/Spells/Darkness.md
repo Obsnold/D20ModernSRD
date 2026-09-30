@@ -18,7 +18,7 @@ radius. Not even creatures who can normally see in the dark (such as
 with darkvision) can see in an area shrouded in magical *darkness*.
 Normal lights (flashlights, candles, lanterns, and so forth) do not
 illuminate the darkened area, nor do light spells of lower level (such
-as *light* and *dancing lights*).* Darkness *and the 2nd-level spell
+as *light* and *dancing lights*). *Darkness* and the 2nd-level spell
 *daylight* cancel each other, leaving whatever light conditions normally
 prevail in the overlapping areas of the spells.
 

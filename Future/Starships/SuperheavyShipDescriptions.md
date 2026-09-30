@@ -41,7 +41,7 @@ plasma missiles +0 ranged (18d8/18–20) and battery of 4 particle beams
 
 **Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Particle impulse engine, photon sails, thrusters
 
@@ -98,7 +98,7 @@ reaction missiles –4 ranged (20d8/18–20)
 
 **Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Induction engine, thrusters
 
@@ -164,7 +164,7 @@ of 4 antimatter guns –1 ranged (10d8/19–20)
 
 **Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Induction engine, thrusters
 
@@ -218,7 +218,7 @@ super-transport.
 
 **Attack of Opportunity:** Point-defense system +5 ranged (5d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Particle impulse engine, thrusters
 

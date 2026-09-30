@@ -48,7 +48,7 @@ Members of the group do not get any special bonus to level checks for
 requisitioning materials, but they can count on the *complete* support
 of other lodge members.
 
-***Ashe’s Field Guide***
+## *Ashe’s Field Guide*
 
 Carlton Ashe was one of the founding members of the Fraternal Order of
 Vigilance. He was an otherwise mundane man who had the ability to see

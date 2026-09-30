@@ -111,9 +111,9 @@ Proficiency, Stealthy, Track.
 
 **Talents (Dedicated Hero):** Aware, skill emphasis (Survival).
 
-**Acolyte Spells** (4/4/3): 0— *cure minor wounds*,* detect magical
-aura*,* light*,* resistance*; 1st—*bane*,* cause fear*,* comprehend
-languages*,* cure light wounds*; 2nd—*cure moderate wounds*,* hold
-person*,* shatter*. Caster level 3rd; save DC 12 + spell level.
+**Acolyte Spells** (4/4/3): 0— *cure minor wounds*, *detect magical
+aura*, *light*, *resistance*; 1st—*bane*, *cause fear*, *comprehend
+languages*, *cure light wounds*; 2nd—*cure moderate wounds*, *hold
+person*, *shatter*. Caster level 3rd; save DC 12 + spell level.
 
 **Possessions:** Various personal items.

@@ -36,7 +36,7 @@ regular runs between densely populated systems.
 
 **Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -88,7 +88,7 @@ top-of-the-line engines for the best possible speed.
 
 **Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -148,7 +148,7 @@ of 3 CHE missiles –6 ranged (6d12/18–20); or Battery of 3 CHE missiles
 
 **Attack of Opportunity:** Point-defense system +3 ranged (3d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -209,7 +209,7 @@ plasma missiles +3 ranged (18d8/18–20) and battery of 4 antimatter guns
 
 **Attack of Opportunity:** Point-defense system +5 ranged (3d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Particle impulse engine, thrusters
 

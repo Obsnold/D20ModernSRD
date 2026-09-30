@@ -2,6 +2,7 @@ This material is Open Game Content, and is licensed for public use
 under the terms of the Open Game License v1.0a.
 
 # SHADOW CREATURES
+
 ## SHADOW CREATURES AND THE MODERN WORLD
 
 Humans cling steadfastly to the reality that they wish to be true,
@@ -66,6 +67,8 @@ reclaims them.
 - [Squid](Squid.md)
 - [Swarm](Swarm.md)
 - [Toxyderm](Toxyderm.md)
+- [Urban Wendigo](UrbanWendigo.md)
 - [Vivilor](Vivilor.md)
 - [Vrock](Vrock.md)
 - [Wererat (Template)](WereratTemplate.md)
+- [Zombie, Liquefied (Template)](ZombieLiquefiedTemplate.md)

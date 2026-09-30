@@ -55,12 +55,18 @@ against prone combatants.
 
 ## Create Crawling Claw
 
-Transmutation \[Evil\]
-
-**Level:** Mage 3;** Components:** V, S, M;** Casting Time:** 1 hour;
-**Range:** Close (25 ft. + 5 ft./2 levels);** Targets:** Severed human
-left hands within a 5-foot-radius circle; **Duration:** Instantaneous;
-**Saving Throw:** None;** Spell Resistance:** Yes (harmless)
+| Stat | Value |
+|---|---|
+| School | Transmutation |
+| Descriptors | Evil |
+| Level | Mage 3 |
+| Components | V, S, M |
+| Casting Time | 1 hour |
+| Range | Close (25 ft. + 5 ft./2 levels) |
+| Targets | Severed human left hands within a 5-foot-radius circle |
+| Duration | Instantaneous |
+| Saving Throw | None |
+| Spell Resistance | Yes (harmless) |
 
 You create a number of crawling claws up to twice your caster level. The
 hands to be transformed must all be within a 5-foot-radius circle. Once

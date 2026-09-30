@@ -1,6 +1,6 @@
 # FEATS
 
-## NEW BONUS FEATS FOR ADVANCED CLASSES
+## New Bonus Feats for Advanced Classes
 
 **The Mage** advanced class may consider Greater Spell Focus, Greater
 Spell Penetration, Spell Focus, Spell Penetration, and any of the
@@ -14,17 +14,17 @@ as potential bonus feats.
 **The Shadow Slayer** advanced class may consider Supernatural Strike as
 a potential bonus feat.
 
-**The Battle Mind** and** Telepath** advanced classes may take any
+**The Battle Mind** and **Telepath** advanced classes may take any
 metapsionic feat as a bonus feat, in addition to the bonus feats listed
 for those classes.
 
-INITIAL FEATS
+## Initial Feats
 
 Some feats are listed as “Initial” and may be taken only when the
 character begins play. They represent background and heritage, and as
 such cannot be gained after play begins.
 
-METAMAGIC FEATS
+## Metamagic Feats
 
 As a spellcaster’s knowledge of magic grows, he or she can learn to cast
 spells in ways slightly different from how the spells were originally
@@ -39,7 +39,7 @@ noted in Table: Metamagic Spell Level Adjustments.
 Metamagic feats cannot be used for all spells. See the specific feat
 descriptions for the spells that a particular feat can’t modify.
 
-## Table: Metamagic Spell Level Adjustments
+**Table: Metamagic Spell Level Adjustments**
 
 | Feat | Level Adjustment |
 |---|---|
@@ -117,7 +117,7 @@ Changes to its level are cumulative.
 A spell enhanced by a metamagic feat does not affect its vulnerability
 to counterspelling or its ability to counterspell another spell.
 
-**Psionic Feats**
+### Psionic Feats
 
 Some spell-related feats are equally applicable to psionics. The
 following psionic feats function as the named spell-related feats. Treat
@@ -138,7 +138,7 @@ same way as metamagic feats. However, they require the additional
 expenditure of power points (as opposed to increased spell levels) and
 as a result are presented here.
 
-**Metapsionic Feats**
+### Metapsionic Feats
 
 Metapsionic feats are to psionics as metamagic feats are to spells.
 Metapsionic feats allow a psionic character to enhance the manifestation
@@ -153,28 +153,11 @@ level minus one (minimum 1).
 With the proper item creation feat, you can store a power enhanced by a
 metapsionic feat in an item, such as a psionic tattoo.
 
-## FEAT DESCRIPTIONS
-
 New feats are described below.
-
-ARCANE SKILLS
-
-You have access to arcane skills.
-
-**Benefit:** The character gains the following class skills, as
-described under the Mage advanced class: Concentration, Craft
-(chemical), and Spellcraft. Further, the character gains Use Magic
-Device as a class skill, as described under the Occultist advanced
-class.
-
-This feat does not in and of itself grant spellcasting ability.
-
-**Normal:** Arcane skills are special class skills available to the
-Acolyte, Occultist, Mage, Mystic, and Techno Mage advanced classes.
-Other classes may not buy ranks in these skills without this feat.
 
 ## Feat Descriptions
 
+- [Arcane Skills](ArcaneSkills.md)
 - [Delay Power [METAPSIONIC]](DelayPower.md)
 - [Divine Heritage [INITIAL]](DivineHeritage.md)
 - [Empower Spell [METAMAGIC]](EmpowerSpell.md)
@@ -202,6 +185,7 @@ Other classes may not buy ranks in these skills without this feat.
 - [Persistent Power [METAPSIONIC]](PersistentPower.md)
 - [Power Crit](PowerCrit.md)
 - [Precise Strike](PreciseStrike.md)
+- [Psionic Skills](PsionicSkills.md)
 - [Quicken Power [METAPSIONIC]](QuickenPower.md)
 - [Reach Spell [METAMAGIC]](ReachSpell.md)
 - [Sacred Spell [METAMAGIC]](SacredSpell.md)

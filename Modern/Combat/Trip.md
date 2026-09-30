@@ -22,7 +22,7 @@ If the character loses, the target may immediately react and make a
 Strength check opposed by the character’s Dexterity check or Strength
 check to try to trip the character.
 
-**Being Tripped (Prone)**
+### Being Tripped (Prone)
 
 A tripped character is prone (see Table: Defense Modifiers). Standing up
 from a prone position is a move action.

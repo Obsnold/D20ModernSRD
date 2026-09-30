@@ -4,7 +4,7 @@ The following gadgets are found in the Fusion Age and can apply to
 weapons of that era or later, provided all gadget-specific restrictions
 are observed.
 
-Scope, Video
+## Scope, Video
 
 The video scope is a special modification to ranged weapons that
 provides an easier way to survey remote portions of the battlefield from

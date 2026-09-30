@@ -33,9 +33,9 @@ your line of effect is obstructed, the incantation ends.
 Increase the Knowledge (arcane lore) check DC by +6 if you use the
 *reveal* seed to pierce illusions and see things as they really are. You
 can see through normal and magical darkness, notice secret doors hidden
-by magic, see the exact locations of creatures or objects under *blur
-*or* displacement *effects, see invisible creatures or objects normally,
+by magic, see the exact locations of creatures or objects under *blur*
+or *displacement* effects, see invisible creatures or objects normally,
 see through illusions, and see the true form of polymorphed, changed, or
-transmuted things. The range of such sight is 120 feet. The *reveal
-*seed cannot identify creatures or objects within extradimensional
+transmuted things. The range of such sight is 120 feet. The *reveal*
+seed cannot identify creatures or objects within extradimensional
 spaces.

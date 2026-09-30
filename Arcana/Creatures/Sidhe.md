@@ -7,8 +7,8 @@ Use the information on Fey to create new sidhe.
 Sidhe have the following traits.
 
 **Change Self (Sp):** A sidhe can change
-its appearance at will, as per the *change self
-*spell cast by a 10th-level Mage.
+its appearance at will, as per the *change self*
+spell cast by a 10th-level Mage.
 
 **Immunities (Ex):** A sidhe is immune to one or more
 specific types of energy or weapon damage. Sidhe roll on the immunity
@@ -63,7 +63,7 @@ read and write these languages.
 | 61–66 | Radiation damage | 64–66 | Fire resistance 20 |
 | 67–100 | Choose one, and roll again | 67–100 | Choose one, and roll again |
 
-**Dreamghast**
+## Dreamghast
 
 **Fascinate (Sp):** A dreamghast can
 fascinate onlookers by staring at the targets and speaking softly. The
@@ -117,8 +117,8 @@ succeed at a Will save (DC 21) or be affected as though by a
 Telepath. The dreamghast commands the enslaved victim telepathically
 when the victim sleeps; when the victim is awake, it acts on previous
 orders but can’t be given new ones. An enslaved creature obeys the
-dreamghast’s commands until freed by a *dispel magic
-*or* remove curse *spell or a
+dreamghast’s commands until freed by a *dispel magic*
+or *remove curse* spell or a
 *negate psionics* power. The enslaved creature can
 also attempt a new Will save every 24 hours to break free. The control
 is also broken if the dreamghast dies or travels more than 1 mile from
@@ -131,16 +131,14 @@ victim has no memory of his identity, background, family, friends, and
 so forth. The memory loss has no effect on languages known,
 class-related talents, or other class features. The subject temporarily
 loses all Knowledge skills but retains all other skills. The memory loss
-persists until the victim receives a *break enchantment
-*spell or undergoes 1d6 months of therapy.
+persists until the victim receives a *break enchantment*
+spell or undergoes 1d6 months of therapy.
 
 **Immunities (Ex):** A dreamghast is immune to ballistic
 damage.
 
 **Fire Resistance 10 (Ex):** Dreamghasts ignore the
 first 10 points of fire damage dealt by any single attack.
-
-## Dreamghast (Sidhe)
 
 | Stat | Value |
 |---|---|
@@ -161,7 +159,7 @@ first 10 points of fire damage dealt by any single attack.
 | Full Atk | +4 melee (1d6+1/19–20, machete), +0 melee (1d6/19–20, 3 machetes) or +6 ranged |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
-| SQ | fascinate, *change self,* despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
+| SQ | fascinate, *change self*, despair, *detect dreams*, dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance 10, immunities, low-light vision |
 | AL | chaos, evil |
 | Fort | +4 |
 | Ref | +5 |
@@ -191,7 +189,7 @@ penalty.
 
 **Advancement:** By character class.
 
-**Faun**
+## Faun
 
 **Enchanting Music (Su):** Music is magical to fauns,
 and they can create a variety of enchanting effects on listeners with a
@@ -217,8 +215,6 @@ points of cold damage dealt by any single attack.
 **Skill Bonuses:** Fauns gain a +4 species bonus on
 Hide, Listen, Move Silently, Perform, and Spot checks.
 
-## Faun (Sidhe)
-
 | Stat | Value |
 |---|---|
 | CR | 4 |
@@ -238,8 +234,8 @@ Hide, Listen, Move Silently, Perform, and Spot checks.
 | Full Atk | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
-| SA | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, lowlight vision* |
-| ?? | *AL chaos |
+| SA | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, lowlight vision |
+| AL | chaos |
 | Fort | +3 |
 | Ref | +3 |
 | Will | +3 |

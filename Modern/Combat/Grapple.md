@@ -191,7 +191,7 @@ opposed grapple check and move in to be part of the grapple.
 If multiple enemies are already involved in the grapple, the character
 picks one against whom to make the opposed grapple check.
 
-**Multiple Grapplers**
+### Multiple Grapplers
 
 Several combatants can be in a single grapple. Up to four combatants can
 grapple a single opponent in a given round. Creatures that are one size

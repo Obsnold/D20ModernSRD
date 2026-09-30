@@ -13,7 +13,7 @@ on the quality of the system’s AI software; see Table: Gunner Autocomps
 for details.
 
 **Purchase DC:** See Table, and increase the purchase DC by +1 for each
-additional weapon after the first.** Restriction:** Licensed (+1).
+additional weapon after the first. **Restriction:** Licensed (+1).
 
 **Table: Gunner Autocomps**
 

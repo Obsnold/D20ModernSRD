@@ -4,11 +4,11 @@
 
 Dryads have the following traits:
 
-**Spell-Like Abilities:** At will—*entangle
-*(DC 13),* speak with plants, tree shape;
-*3/day—*charm person* (DC 13),
-*deep slumber* (DC 15), *tree stride;
-*1/day—*suggestion* (DC
+**Spell-Like Abilities:** At will—*entangle*
+(DC 13), *speak with plants, tree shape*;
+3/day—*charm person* (DC 13),
+*deep slumber* (DC 15), *tree stride*;
+1/day—*suggestion* (DC
 15)*.* 6th-level caster. The save DCs are
 Wisdom-based.
 

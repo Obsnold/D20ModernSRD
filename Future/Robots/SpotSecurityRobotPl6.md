@@ -27,7 +27,7 @@ dog at distances of 100 feet or more.
 | Flat-Footed | 16 |
 | Defense Breakdown | +1 Dex, +6 equipment |
 | BAB | +0 |
-| ?? | Grp +2 |
+| Grap | +2 |
 | Atk | +2 melee (1d4+2, jaws) or +1 ranged |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |

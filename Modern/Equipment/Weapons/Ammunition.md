@@ -26,7 +26,7 @@ Ammunition.
 | Arrow (12) | 8 |
 | Crossbow bolt (12) | 7 |
 
-**5.56mm, 7.62mm, 7.62mmR, .444, .50**
+## 5.56mm, 7.62mm, 7.62mmR, .444, .50
 
 These calibers of ammunition are generally used in rifles, assault
 rifles, or machine guns, and are sold in boxes of 20 bullets each. The
@@ -35,13 +35,13 @@ compatible with the larger 7.62mm cartridge. The .50 caliber is a huge
 cartridge generally fired from heavy machine guns, but also adapted to a
 few models of powerful sniper rifles.
 
-**9mm, 10mm, .22, .32, .38 S, .357, .44, .45, .50AE**
+## 9mm, 10mm, .22, .32, .38 S, .357, .44, .45, .50AE
 
 These calibers are generally used in pistols or submachine guns, and are
 sold in boxes of 50 bullets each. The .50AE pistol round is not
 compatible with the much larger .50 rifle-caliber cartridge (see above).
 
-**10-gauge Buckshot, 12-gauge Buckshot**
+## 10-gauge Buckshot, 12-gauge Buckshot
 
 Shotgun cartridges, also known as buckshot, are sold in boxes of ten.
 

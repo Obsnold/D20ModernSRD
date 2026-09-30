@@ -28,7 +28,7 @@ languages.
 
 **Special:** Fiends cannot be raised from the dead.
 
-Baal (Unique Archfiend)
+### Baal (Unique Archfiend)
 
 The archfiend Baal feeds on the corruption of mortals who hunger for
 wealth and power. As the gap between rich and poor grows ever wider,
@@ -42,8 +42,8 @@ form indefinitely.
 
 **Aura of Greed (Su):** Once per day as a free action, Baal can create
 an aura of greed extending out from his body in a 20-foot radius. Except
-as noted here, the effect functions like the psionic power *domination
-*(manifester level 10th). Each creature within this area must make a
+as noted here, the effect functions like the psionic power *domination*
+(manifester level 10th). Each creature within this area must make a
 successful Will save (DC 21) or be overcome with greed. A creature that
 fails its saving throw must immediately attack another random creature
 within 60 feet (possibly even Baal himself) and attempt to take its
@@ -71,14 +71,14 @@ Baal’s fear aura for 24 hours.
 **Resistances (Ex):** Baal has cold resistance 20 and electricity
 resistance 20.
 
-**Spell-Like Abilities:** At will—*augury*,* bane*,* bestow curse*,
-*command*,* comprehend languages*,* confusion*,* detect magical aura*,
-*discern lies*,* dispel magic*,* enhance ability*,* faith’s fury*,
-*fireball*,* flaming projectiles*,* flaming wrath*,* greater command*,
-*hold monster*,* inflict critical wounds*,* inflict light wounds*,
-*inflict moderate wounds*,* inflict serious wounds*,* knock*,* mass
-inflict light wounds*,* passwall*,* prestidigitation*,* read magic*,
-*see invisibility*,* telekinesis*,* true seeing*,* wall of fire*. Caster
+**Spell-Like Abilities:** At will—*augury*, *bane*, *bestow curse*,
+*command*, *comprehend languages*, *confusion*, *detect magical aura*,
+*discern lies*, *dispel magic*, *enhance ability*, *faith’s fury*,
+*fireball*, *flaming projectiles*, *flaming wrath*, *greater command*,
+*hold monster*, *inflict critical wounds*, *inflict light wounds*,
+*inflict moderate wounds*, *inflict serious wounds*, *knock*, *mass
+inflict light wounds*, *passwall*, *prestidigitation*, *read magic*,
+*see invisibility*, *telekinesis*, *true seeing*, *wall of fire*. Caster
 level 10th; save DC 17 + spell level.
 
 ## Baal, Charismatic Hero 10/Negotiator 8
@@ -143,7 +143,7 @@ greater inspiration, inspiration.
 **Possessions:** Vast personal and corporate wealth, collection of
 ancient Middle Eastern religious artifacts.
 
-Fleshraker (Knife Fiend)
+## Fleshraker (Knife Fiend)
 
 **Bonus Feat:** A fleshraker gains Archaic Weapons Proficiency as a
 bonus feat.
@@ -172,8 +172,6 @@ points of damage per round, and so on). A successful Treat Injury check
 weapon does not retain this ability outside the grasp of a knife fiend,
 although any bleeding wounds it has inflicted continue to bleed if the
 fleshraker is disarmed.
-
-## Fleshraker (knife fiend)
 
 | Stat | Value |
 |---|---|
@@ -270,7 +268,7 @@ Simple Weapons Proficiency, Weapon Finesse (knife), Weapon Focus
 
 **Possessions:** Leather jacket, casual outfit, hat, 12 knives.
 
-Harriken (Headsnatcher Fiend)
+## Harriken (Headsnatcher Fiend)
 
 A harriken can detach its head from its body and replace it with the
 decapitated head of any humanoid creature. In so doing, it can assume
@@ -328,8 +326,6 @@ body is instantly slain.
 **Telepathy (Su):** A harriken can communicate telepathically with any
 creature within 100 feet that has a language.
 
-## Harriken (headsnatcher fiend)
-
 | Stat | Value |
 |---|---|
 | CR | 4 |
@@ -373,7 +369,7 @@ Speak Abyssal, Speak Languages (any three), Spot +6.
 
 **Advancement:** By character class.
 
-Jumping Jack (Blood Fiend)
+## Jumping Jack (Blood Fiend)
 
 **Breath Weapon (Su):** Once every 1d4 rounds, the jumping jack can
 breathe a 15-foot cone of fire. Each creature in the area takes 2d6
@@ -390,8 +386,6 @@ poison.
 **Prodigious Leap (Ex):** The jumping jack can ignore the 20-foot move
 requirement for making long and high jumps. If it does move 20 feet
 before attempting a jump, the distance jumped is doubled.
-
-## Jumping Jack (blood fiend)
 
 | Stat | Value |
 |---|---|
@@ -484,7 +478,7 @@ uncanny dodge 2.
 
 **Possessions:** Colt Python (fully loaded).
 
-Kwevencha (Spider Fiend)
+## Kwevencha (Spider Fiend)
 
 **Damage Reduction 5/Silver (Ex):** A kwevencha ignores the first 5
 points of damage dealt by any unsilvered weapon.
@@ -522,8 +516,6 @@ like amount of damage to the creature trapped inside.
 
 **Skill Bonuses:** A kwevencha gains a +4 species bonus on Balance,
 Climb, Jump, and Spot checks.
-
-## Kwevencha (spider fiend)
 
 | Stat | Value |
 |---|---|
@@ -568,7 +560,7 @@ Listen +8, Move Silently +7, Read/Write Abyssal, Speak Abyssal, Spot
 **Advancement:** 9–14 HD (Large); 15–21 HD (Huge); or by character
 class.
 
-Murdergaunt (Whistling Fiend)
+## Murdergaunt (Whistling Fiend)
 
 **Damage Reduction 10/+1 (Ex):** A murdergaunt ignores the first 10
 points of damage dealt by any nonmagical weapon. In campaigns without
@@ -613,8 +605,6 @@ A creature that saves against the murdergaunt’s whistle cannot be
 affected by the same murdergaunt’s whistle for 24 hours. The save DC for
 the whistle is Charisma-based.
 
-## Murdergaunt (whistling fiend)
-
 | Stat | Value |
 |---|---|
 | CR | 9 |
@@ -658,7 +648,7 @@ Tumble +12.
 
 **Advancement:** By character class.
 
-Stygilor (Tumor Fiend)
+## Stygilor (Tumor Fiend)
 
 **Damage Reduction 5/Piercing (Ex):** A stygilor ignores the first 5
 points of damage dealt by any nonpiercing weapon.
@@ -694,8 +684,6 @@ take 1d4+2 points of damage, as though struck by one of the stygilor’s
 horrible claws. The target need not be looking at the stygilor, and
 wounds inflicted by this attack leave nasty scars once healed. This is a
 mind-affecting ability. The save DC is Charisma-based.
-
-## Stygilor (tumor fiend)
 
 | Stat | Value |
 |---|---|

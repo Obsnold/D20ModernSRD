@@ -7,6 +7,7 @@ impossible to describe because it can alter its appearance based on the
 specific fears of its victim.
 
 ## Species Traits
+
 **Bonus Feat:** A night terror gains Simple Weapons Proficiency as a
 bonus feat.
 

@@ -505,7 +505,7 @@ Level for Nonhumans.
 class levels advance as human characters do, but they gain only one
 bonus feat at 1st level instead of two.
 
-**Talents and Abilities**
+### Talents and Abilities
 
 Creatures that advance by character class gain special talents and
 abilities, which are noted here.

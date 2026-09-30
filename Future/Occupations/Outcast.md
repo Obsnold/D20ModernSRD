@@ -7,15 +7,25 @@ finds deviant or abhorrent. Outcasts lurk on the fringes of
 civilization. Some strive for acceptance, while others are trapped by
 their own feelings of resentment, self-loathing, or hopelessness.
 
-**Prerequisites:** Age 15+.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 15+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +1 |
 
-**Skills:** Choose one of the following skills as a permanent class
-skill. If a skill you select is already a class skill, you gain a +1
-competence bonus on checks using that skill.
+## Skills
 
-Disguise (Cha), Hide (Dex), Knowledge (streetwise) (Int), Search (Int),
-Survival (Wis), Treat Injury (Wis).
+Choose one of the following skills as a permanent class skill. If a
+skill you select is already a class skill, you gain a +1 competence
+bonus on checks using that skill.
 
-**Bonus Feat:** Toughness.
+- Disguise (Cha)
+- Hide (Dex)
+- Knowledge (streetwise) (Int)
+- Search (Int)
+- Survival (Wis)
+- Treat Injury (Wis)
 
-**Wealth Bonus Increase:** +1.
+## Bonus Feat
+
+Toughness.

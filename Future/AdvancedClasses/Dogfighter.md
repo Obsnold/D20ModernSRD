@@ -18,27 +18,37 @@ following criteria.
 
 The following information pertains to the Dogfighter advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Dogfighter gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Dogfighter gains a number of action points equal to 6 + one-half his
 character level, rounded down, every time he attains a new level in this
 class.
 
-**Class Skills**
+### Class Skills
 
 The Dogfighter’s class skills are as follows.
 
-Bluff (Cha), Computer Use (Int), Craft (electronic, mechanical) (Int),
-Knowledge (popular culture, streetwise, technology) (Int), Navigate
-(Int), Pilot (Dex), Profession (Wis), Repair (Int).
+- Bluff (Cha)
+- Computer Use (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (technology) (Int)
+- Navigate (Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Repair (Int)
 
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Dogfighter**
 
@@ -61,23 +71,34 @@ The following class features pertain to the Dogfighter advanced
 
 class.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 1st, 3rd, 6th, and 9th level, the Dogfighter gets a bonus feat. The
 bonus feat must be selected from the following list, and the Dogfighter
 must meet all the prerequisites of the feat to select it.
 
-Blind-Fight, Brawl, Gearhead, Improved Brawl, Improved Feint, Spacer,
-Starship Battle Run, Starship Dodge, Starship Feint, Starship Gunnery,
-Starship Mobility, Starship Operation, Starship Strafe, Zero-G Training.
+- Blind-Fight
+- Brawl
+- Gearhead
+- Improved Brawl
+- Improved Feint
+- Spacer
+- Starship Battle Run
+- Starship Dodge
+- Starship Feint
+- Starship Gunnery
+- Starship Mobility
+- Starship Operation
+- Starship Strafe
+- Zero-G Training
 
-**Defender Of The Universe**
+### Defender Of The Universe
 
 Starting at 2nd level, a Dogfighter applies his Reputation bonus to the
 die result whenever he spends an action point to modify an attack roll,
 skill check, ability check, or saving throw made aboard a starship.
 
-**Shake, Rattle, And Roll**
+### Shake, Rattle, And Roll
 
 At 4th level, a Dogfighter learns how rock an enemy starship with
 weapons fire. The Dogfighter must declare that he is using this ability
@@ -89,13 +110,13 @@ and skill checks for 1 round. A Dogfighter may use this ability once per
 day at 4th level, twice per day at 7th level, and three times per day at
 10th level.
 
-**To the max!**
+### To the max!
 
 At 5th level and beyond, a Dogfighter can coax more thrust out of a
 ship’s engines, increasing its tactical speed by +500 feet. The
 Dogfighter must be piloting the ship to increase its tactical speed.
 
-**Keep It Together**
+### Keep It Together
 
 At 8th level, a Dogfighter can continue to operate a starship even after
 it has been reduced to negative hit points and has begun breaking apart.

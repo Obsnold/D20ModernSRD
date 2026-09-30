@@ -144,7 +144,7 @@ Str +2, Dex +2.
 | Atk | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10) |
 | Full Atk | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10) |
 | FS | 5 ft. by 5 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | darkvision 60 ft., electricity resistance 20, fast ability healing 1, fast healing 3, fortification, fugue, hot running, immunities, network mind, selfdestruct, stasis, telepathy |
 | AL | etoile |
 | Fort | +5 |

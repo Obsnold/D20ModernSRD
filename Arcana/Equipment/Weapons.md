@@ -1,6 +1,6 @@
 # Weapons
 
-Ranged Weapons
+## Ranged Weapons
 
 Descriptions of ranged weapons follow. Some are considered simple
 weapons (covered by the Simple Weapon Proficiency feat), some are
@@ -11,27 +11,27 @@ special in that they do not require a feat to be used effectively.
 
 | Nonfirearms (feat needed listed in parentheses) | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Weapon** | **Damage** | Critical |** Damage Type** |** Range Increment** |** Rate of Fire** |** Magazine** |** Size** |** Weight** |** Purchase DC** |** Restriction** |
-| Air pistol (simple)* | 1d2 | 20 | Piercing | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 7 | — |
-| Air rifle (simple)* | 1d2 | 20 | Piercing | 50 ft. | 1 | 1 Int. | Large | 5 lb. | 8 | — |
-| Blowgun (simple)* | 1 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Small | 2 lb. | 4 | — |
-| Bolas (archaic)* |* | — | * | 10 ft. | 1 | — | Small | 2 lb. | 3 | — |
-| Crossbow, grapple-firing (archaic)* | 1d3 |* | Piercing | 120 ft. | 1 | 1 Int. | Med. | 12 lb. | 12 | — |
+| **Weapon** | **Damage** | Critical | **Damage Type** | **Range Increment** | **Rate of Fire** | **Magazine** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
+| Air pistol (simple)\* | 1d2 | 20 | Piercing | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 7 | — |
+| Air rifle (simple)\* | 1d2 | 20 | Piercing | 50 ft. | 1 | 1 Int. | Large | 5 lb. | 8 | — |
+| Blowgun (simple)\* | 1 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Small | 2 lb. | 4 | — |
+| Bolas (archaic)\* |\* | — | \* | 10 ft. | 1 | — | Small | 2 lb. | 3 | — |
+| Crossbow, grapple-firing (archaic)\* | 1d3 |\* | Piercing | 120 ft. | 1 | 1 Int. | Med. | 12 lb. | 12 | — |
 | Crossbow, hand (archaic) | 1d4 | 19–20 | Piercing | 30 ft. | 1 | 1 Int. | Tiny | 3 lb. | 11 | — |
 | Crossbow, repeating (exotic) | 1d8 | 19–20 | Piercing | 80 ft. | 1 | 5 Int. | Med. | 16 lb. | 13 | — |
-| Flare gun (simple)* | 1d8 | 20 | Fire | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 11 | — |
-| Net (archaic)* |* | — | * | 10 ft.* | 1 | — | Med. | 10 lb. | 6 | — |
-| Net launcher (grenade launcher) | * | — | — | 10 ft. | 1 | 1 Int. | Large | 20 lb. | 15 | Lic (+1) |
-| Paint ball gun (simple) | — | 20* |* | 30 ft. | Semi | 40 Int. | Small | 2 lb. | 8 | |
+| Flare gun (simple)\* | 1d8 | 20 | Fire | 30 ft. | 1 | 1 Int. | Small | 2 lb. | 11 | — |
+| Net (archaic)\* |\* | — | \* | 10 ft.\* | 1 | — | Med. | 10 lb. | 6 | — |
+| Net launcher (grenade launcher) | \* | — | — | 10 ft. | 1 | 1 Int. | Large | 20 lb. | 15 | Lic (+1) |
+| Paint ball gun (simple) | — | 20\* |\* | 30 ft. | Semi | 40 Int. | Small | 2 lb. | 8 | |
 | Sling (archaic) | 1d4 | 20 | Ballistic | 50 ft. | 1 | — | Small | — | 3 | — |
 | Slingshot (simple) | 1d3 | 20 | Ballistic | 50 ft. | 1 | — | Tiny | 1 lb. | 4 | — |
-| Speargun (simple)* | 2d6 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Large | 5 lb. | 10 | — |
-| Super watergun (no feat required)* |* | * |* | 10 ft. | 1 | 5 Int. | Med. | 2 lb. | 4 | — |
-| Water cannon (simple)* |* | — | * | 10 ft. |* | 20 Int. | Huge | 50 lb. | 19 | Lic (+1) |
+| Speargun (simple)\* | 2d6 | 20 | Piercing | 10 ft. | 1 | 1 Int. | Large | 5 lb. | 10 | — |
+| Super watergun (no feat required)\* |\* | \* |\* | 10 ft. | 1 | 5 Int. | Med. | 2 lb. | 4 | — |
+| Water cannon (simple)\* |\* | — | \* | 10 ft. |\* | 20 Int. | Huge | 50 lb. | 19 | Lic (+1) |
 
 See weapon description for more information.
 
-**Air Pistols and Air Rifles**
+## Air Pistols and Air Rifles
 
 These low powered weapons are used to fire darts or pellets, typically
 to deliver a chemical payload (see Craft (chemical)). They are very
@@ -39,7 +39,7 @@ quiet when fired. Air pistols require a CO2 cartridge to operate, which
 allows the gun to fire 10 times before needing to be replaced (purchase
 DC 3).
 
-**Bolas**
+## Bolas
 
 A bolas consists of two or more wooden spheres connected by lengths of
 cord. The bolas is a ranged weapon that can be used to entangle a Small
@@ -55,13 +55,13 @@ If you entangle a creature with the bolas, you may attempt to trip it on
 your next attack. A failed trip with bolas does not allow the target to
 make a trip attack against you.
 
-**Blowgun**
+## Blowgun
 
 The blowgun is a long tube through which you fire needles. A needle can
 deliver poison of either the injury or contact type (see Craft
-\[chemical\]* *for poisons).
+\[chemical\] for poisons).
 
-**Crossbow, Grapple-Firing**
+## Crossbow, Grapple-Firing
 
 This device helps heroes scale unclimbable walls, bridge chasms, escape
 down buildings, and the like. A grapplefiring crossbow is a heavy
@@ -86,28 +86,28 @@ A character can easily anchor a grapple-bolt by hand in a niche or use
 pitons to secure it on smooth stone. This provides the same aid for
 descent without the need to fire the weapon.
 
-**Crossbow, Hand**
+## Crossbow, Hand
 
 This exotic weapon is common among spies and others who favor stealth
 over power. Assassins also use these weapons to launch poison-coated
 bolts at the target. You can draw a hand crossbow back manually. Loading
 a hand crossbow is a move action that provokes attacks of opportunity.
 
-**Crossbow, Repeating**
+## Crossbow, Repeating
 
 The repeating crossbow holds five crossbow bolts. When loaded, you can
 shoot the crossbow according to your normal number of attacks without
 reloading. Loading a new case of five bolts is a full-round action that
 provokes attacks of opportunity.
 
-**Flare Gun**
+## Flare Gun
 
 Normally used as a signaling device, a flare gun can be used as a weapon
 in a pinch. If fired in the air, it releases a brightly colored flame
 that can be seen for miles, depending on surrounding terrain. A flare
 gun automatically ignites flammable items.
 
-**Net**
+## Net
 
 A fighting net has small barbs in the weave and a trailing rope to
 control netted opponents. You use it to entangle opponents.
@@ -139,7 +139,7 @@ the net is unfolded, you suffer a –4 penalty on attack rolls with it. It
 takes 2 rounds for a proficient user to fold a net and twice that long
 for a nonproficient one to do so.
 
-**Net Launcher**
+## Net Launcher
 
 This is a bulky, compressed air rifle with a conical muzzle that throws
 a weighted net when fired. Police and animal control personnel use net
@@ -151,7 +151,7 @@ takes 10 minutes to reset a net that was previously fired or 1 minute to
 set the net launcher with a prepackaged net (purchase DC 6, 2 lb. per
 package).
 
-**Paintball Gun**
+## Paintball Gun
 
 Paintball guns offer a way for the average person to experience what
 it’s like to be in a “live fire” scenario, but without the possibility
@@ -164,7 +164,7 @@ an actual bullet.
 A critical hit with a paintball gun deals 1d6 points of nonlethal
 damage.
 
-**Sling**
+## Sling
 
 The sling, commonly used by primitive people, hurls lead bullets to kill
 small game. It’s not as easy to use as the crossbow or as powerful as a
@@ -174,14 +174,14 @@ You can hurl ordinary stones with a sling. Stones are not as dense or as
 round as bullets, so you deal only 1d3 points of damage and suffer a –1
 penalty on attack rolls.
 
-**Slingshot**
+## Slingshot
 
 Less powerful than a regular sling, a slingshot has a strong pair of
 rubber bands attached to a V-shaped handle. The damage listed in the
 table is for lead bullets (as the sling above), but you can also hurl
 other small objects like firecrackers, paintballs, rocks, and the like.
 
-**Speargun**
+## Speargun
 
 A speargun uses a powerful set of bands to propel a stainless steel
 shaft at the target. Most speargun shafts are tied to a thin, strong
@@ -202,7 +202,7 @@ The speared creature can pull the shaft from its wound if it takes a
 full-round action, but in so doing it deals 2d6 points of damage to
 itself. Reloading a speargun is a full-round action.
 
-**Sticky Foam Sprayer**
+## Sticky Foam Sprayer
 
 This bulky and unusual weapon looks similar to a flamethrower, with a
 fuel tank and sprayer nozzle. However, instead of jellied flaming fuel,
@@ -231,7 +231,7 @@ A character capable of spellcasting who is bound by the sticky foam must
 make a Concentration check (DC 15) to cast a spell. The sticky foam
 becomes brittle and breaks apart easily after 10 minutes.
 
-**Super Watergun**
+## Super Watergun
 
 The super watergun is a toy gun that shoots a thin stream of water. The
 tank holds enough water to shoot 5 times before needing to be refilled.
@@ -253,7 +253,7 @@ acid, which will eat through the thin plastic tank in a matter of
 seconds. The entire tank of water must contain the given substance to be
 effective— mixing with regular water will negate the effect.
 
-**Water Cannon**
+## Water Cannon
 
 Used for crowd control and riot dispersion, water cannons are
 essentially mounted fire hoses built into vehicles with a large tank. A
@@ -266,7 +266,7 @@ the force of the blast. A water cannon that is attached to a vehicle
 cannot be removed. Use these same statistics if attacking someone with a
 firehose.
 
-Ammunition
+### Ammunition
 
 This section covers unique and exotic ammunition that a hero might use
 during an adventure.
@@ -285,54 +285,54 @@ during an adventure.
 | Silver | +6 | — |
 | Subsonic | +4 | Mil (+3) |
 | Tracer | +1 | Mil (+3) |
-| Tranquilizer | 7* | Res (+2) |
+| Tranquilizer | 7\* | Res (+2) |
 | White Phosphorous (WP) | +5 | Mil (+3) |
 
 This is the regular purchase DC, not modifier.
 
-**Armor Piercing**
+## Armor Piercing
 
 Armor-piercing ammunition reduces the effectiveness of armor. When fired
 at an opponent wearing any type of armor, the attack receives a +2
 bonus. It has no benefit against targets that are not wearing armor.
 
-**Beanbag**
+## Beanbag
 
 Riot police use this type of ammunition for crowd control. Loads are
 available for shotguns and grenade launchers only. It deals the same
 amount of damage as a normal load, but the damage dealt is nonlethal.
 
-**Birdshot**
+## Birdshot
 
 This is a lighter shotgun ammunition. It reduces the damage dealt by a
 shotgun by 1 die.
 
-**Flechette**
+## Flechette
 
 Flechette rounds fire bundles of razor-sharp, fin-stabilized tungsten
 darts. A weapon that fires this ammunition improves its critical threat
 range by one, but takes a –1 penalty on attack rolls.
 
-**Frangible**
+## Frangible
 
 This ammunition scatters through a target rather than punching through
 and hitting something else. It increases the damage dealt to unarmored
 targets by +1. This bonus is negated if the target is wearing any sort
 of armor or has a natural armor bonus of +2 or more.
 
-**High Explosive**
+## High Explosive
 
 High explosive ammunition is used mostly in grenade launchers and
 occasionally shotguns, but can be found for other weapons. It is very
 expensive and difficult to come by. High explosive ammunition deals 1
 extra die of damage of the appropriate type for the weapon.
 
-**Rubber Rounds**
+## Rubber Rounds
 
 Rubber rounds exist for all types of handguns and longarms. Rubber
 ammunition deals nonlethal damage.
 
-**Silver**
+## Silver
 
 Silver ammunition is useful for dealing with some types of Shadow
 creatures. Silvered ammunition deals lethal damage to regular targets
@@ -342,7 +342,7 @@ by its high cost. Because silvered ammunition must be manufactured by
 hand, it is not licensed. It requires a Craft (mechanical) check (DC 12)
 to manufacture a single silver bullet.
 
-**Subsonic**
+## Subsonic
 
 Assassins and snipers use subsonic ammunition; it is rarely found
 outside those circles. Its primary use is to reduce the noise of a shot,
@@ -352,7 +352,7 @@ Listen checks to hear the gunshot is increased by +10. Subsonic
 ammunition decreases the range increment by 20 feet. It is available for
 handguns and longarms, except shotguns.
 
-**Tracer**
+## Tracer
 
 These phosphorous-coated rounds aid the shooter of an automatic weapon
 in leading bullets to a target, but makes them easier to spot in turn.
@@ -360,21 +360,21 @@ Tracer ammunition provides a +1 bonus to attack rolls made with a weapon
 when fired on autofire only. Opponents gain a +5 circumstance bonus on
 Spot checks when trying to find someone firing tracer ammunition.
 
-**Tranquilizer**
+## Tranquilizer
 
 This ammunition is actually a large dart with a reservoir that is used
 to deliver a tranquilizer (or poison) to the target. It is only
 available for air rifles and pistols. For more information on poisons,
 see the Craft (chemical) skill.
 
-**White Phosphorous (WP)**
+## White Phosphorous (WP)
 
 White phosphorous-tipped rounds can inflict terrible burns on a target.
 These rounds go off if they strike anything between the shooter and the
 target. Any target damaged by a “Willie P” shot takes an additional 1d6
 points of fire damage and risks catching on fire.
 
-Melee Weapons
+### Melee Weapons
 
 Melee weapons are used in close combat and are generally among the
 simplest weapons to use. The feat that provides proficiency with these
@@ -390,26 +390,26 @@ the Exotic Melee Weapons feat).
 | **Simple Weapons** | | | | | | | | |
 | Club, spiked | 1d8 | 20 | Bludgeoning, Piercing | — | Med. | 8 lb. | 5 | — |
 | Dagger, punching | 1d4 | 20/x3 | Piercing | — | Tiny | 2 lb. | 5 | — |
-| Gauntlet | * |* | Bludgeoning | — | * | 2 lb. | 5 | — |
+| Gauntlet | \* |\* | Bludgeoning | — | \* | 2 lb. | 5 | — |
 | Gauntlet, spiked | 1d4 | 20 | Piercing | — | Tiny | 2 lb. | 6 | — |
-| Ketch-all pole* | 1d4* | 20 | Bludgeoning | — | Large | 8 lb. | 11 | — |
+| Ketch-all pole\* | 1d4\* | 20 | Bludgeoning | — | Large | 8 lb. | 11 | — |
 | Mace, heavy | 1d8 | 20 | Bludgeoning | — | Med. | 8 lb. | 5 | — |
 | Mace, light | 1d6 | 20 | Bludgeoning | — | Small | 6 lb. | 4 | — |
-| Quarterstaff*‡ | 1d6/1d6 | 20 | Bludgeoning | — | Large | 4 lb. | 3 | — |
+| Quarterstaff\*‡ | 1d6/1d6 | 20 | Bludgeoning | — | Large | 4 lb. | 3 | — |
 | Shortspear | 1d8 | 20/x3 | Piercing | 20 ft. | Large | 5 lb. | 5 | — |
 | Sickle | 1d6 | 20 | Slashing | — | Small | 3 lb. | 3 | — |
 | **Archaic Weapons** | | | | | | | | |
 | Battleaxe | 1d8 | 20/x3 | Slashing | — | Med. | 7 lb. | 11 | — |
-| Cutlass* | 1d6 | 19–20 | Piercing, Slashing | — | Small | 3 lb. | 11 | — |
+| Cutlass\* | 1d6 | 19–20 | Piercing, Slashing | — | Small | 3 lb. | 11 | — |
 | Falchion | 2d4 | 18–20 | Slashing | — | Large | 16 lb. | 12 | — |
-| Flail, heavy* | 1d10 | 19–20 | Bludgeoning | — | Large | 20 lb. | 8 | — |
-| Flail, light* | 1d8 | 20 | Bludgeoning | — | Med. | 5 lb. | 7 | — |
+| Flail, heavy\* | 1d10 | 19–20 | Bludgeoning | — | Large | 20 lb. | 8 | — |
+| Flail, light\* | 1d8 | 20 | Bludgeoning | — | Med. | 5 lb. | 7 | — |
 | Glaive† | 1d10 | 20/x3 | Slashing | — | Large | 15 lb. | 9 | — |
 | Greataxe | 1d12 | 20/x3 | Slashing | — | Large | 20 lb. | 12 | — |
 | Greatclub | 1d10 | 20 | Bludgeoning | — | Large | 10 lb. | 6 | — |
 | Greatsword | 2d6 | 19–20 | Slashing | — | Large | 15 lb. | 13 | — |
-| Guisarme*† | 2d4 | 20/x3 | Slashing | — | Large | 15 lb. | 9 | — |
-| Halberd*† | 1d10 | 20/x3 | Piercing, Slashing | — | Large | 15 lb. | 10 | — |
+| Guisarme\*† | 2d4 | 20/x3 | Slashing | — | Large | 15 lb. | 9 | — |
+| Halberd\*† | 1d10 | 20/x3 | Piercing, Slashing | — | Large | 15 lb. | 10 | — |
 | Lance, heavy | 1d8 | 20/x3 | Piercing | — | Med. | 10 lb. | 7 | — |
 | Lance, light | 1d6 | 20/x3 | Piercing | — | Small | 5 lb. | 6 | — |
 | Maul | 1d10 | 20/x3 | Bludgeoning | — | Large | 20 lb. | 10 | — |
@@ -417,7 +417,7 @@ the Exotic Melee Weapons feat).
 | Pick | 1d4 | 20/x4 | Piercing | — | Small | 4 lb. | 6 | — |
 | Pickaxe | 1d6 | 20/x4 | Piercing | — | Med. | 6 lb. | 7 | — |
 | Ranseur† | 2d4 | 20/x3 | Piercing | — | Large | 15 lb. | 9 | — |
-| Saber* | 1d8 | 19–20 | Slashing, Piercing | — | Med. | 4 lb. | 11 | — |
+| Saber\* | 1d8 | 19–20 | Slashing, Piercing | — | Med. | 4 lb. | 11 | — |
 | Scimitar | 1d6 | 18–20 | Slashing | — | Med. | 4 lb. | 12 | — |
 | Scythe | 2d4 | 20/x4 | Piercing, Slashing | — | Large | 12 lb. | 7 | — |
 | Sword, short | 1d6 | 19–20 | Piercing | — | Small | 3 lb. | 10 | — |
@@ -425,23 +425,23 @@ the Exotic Melee Weapons feat).
 | Wakizashi | 1d6 | 19–20 | Slashing | — | Small | 3 lb. | 11 | — |
 | Warhammer | 1d8 | 20/x3 | Bludgeoning | — | Med. | 8 lb. | 9 | — |
 | **Exotic Melee Weapons** | | | | | | | | |
-| Axe, orc double*‡ | 1d8/1d8 | 20/x3 | Slashing | — | Large | 25 lb. | 15 | — |
-| Flail, dire*‡ | 1d8/1d8 | 20 | Bludgeoning | — | Large | 20 lb. | 15 | — |
-| Hammer, gnome hooked*‡ | 1d6/1d4 | x3/x4* | Bludgeoning, Piercing | — | Med. | 6 lb. | 15 | — |
-| Khopesh* | 1d8 | 19–20 | Slashing | — | Med. | 12 lb. | 11 | — |
-| Nekode* | 1d4 | 20 | Piercing | — | Tiny | 2 lb. | 8 | — |
-| Ninja-to* | 1d6 | 19–20 | Slashing | — | Small | 3 lb. | 10 | — |
-| Scourge* | 1d8 | 20 | Slashing | — | Med. | 2 lb. | 6 | — |
+| Axe, orc double\*‡ | 1d8/1d8 | 20/x3 | Slashing | — | Large | 25 lb. | 15 | — |
+| Flail, dire\*‡ | 1d8/1d8 | 20 | Bludgeoning | — | Large | 20 lb. | 15 | — |
+| Hammer, gnome hooked\*‡ | 1d6/1d4 | x3/x4\* | Bludgeoning, Piercing | — | Med. | 6 lb. | 15 | — |
+| Khopesh\* | 1d8 | 19–20 | Slashing | — | Med. | 12 lb. | 11 | — |
+| Nekode\* | 1d4 | 20 | Piercing | — | Tiny | 2 lb. | 8 | — |
+| Ninja-to\* | 1d6 | 19–20 | Slashing | — | Small | 3 lb. | 10 | — |
+| Scourge\* | 1d8 | 20 | Slashing | — | Med. | 2 lb. | 6 | — |
 | Shikomi-zue | 1d8 | 20/x3 | Piercing | — | Large | 5 lb. | 12 | — |
-| Sword, bastard* | 1d10 | 19–20 | Slashing | — | Med. | 10 lb. | 15 | — |
-| Sword, two-bladed*‡ | 1d8/1d8 | 19–20 | Slashing | — | Large | 15 lb. | 16 | — |
-| Urgosh, dwarven*‡ | 1d8/1d6 | 20/x3 | Slashing, Piercing | — | Large | 15 lb. | 15 | — |
-| Waraxe, dwarven* | 1d10 | 20/x3 | Slashing | — | Med. | 15 lb. | 15 | — |
-| War fan* | 1d6 | 20/x3 | Slashing | — | Small | 3 lb. | 12 | — |
+| Sword, bastard\* | 1d10 | 19–20 | Slashing | — | Med. | 10 lb. | 15 | — |
+| Sword, two-bladed\*‡ | 1d8/1d8 | 19–20 | Slashing | — | Large | 15 lb. | 16 | — |
+| Urgosh, dwarven\*‡ | 1d8/1d6 | 20/x3 | Slashing, Piercing | — | Large | 15 lb. | 15 | — |
+| Waraxe, dwarven\* | 1d10 | 20/x3 | Slashing | — | Med. | 15 lb. | 15 | — |
+| War fan\* | 1d6 | 20/x3 | Slashing | — | Small | 3 lb. | 12 | — |
 
-See the description of this weapon for special rules. *†*Reach weapon.* ‡*Double weapon.
+See the description of this weapon for special rules. *†*Reach weapon. *‡*Double weapon.
 
-**Axe, Orc Double**
+## Axe, Orc Double
 
 An orc double axe is a double weapon. You can fight with it as if
 fighting with two weapons, but if you do, you incur all the normal
@@ -450,33 +450,33 @@ were wielding a one-handed weapon and a light weapon A creature using a
 double weapon in one hand, such as an ogre using an orc double axe,
 can’t use it as a double weapon.
 
-**Battleaxe**
+## Battleaxe
 
 The battleaxe has a large metal head and is popular with cultists and
 others who like to leave big, bloody wounds.
 
-**Club, Spiked**
+## Club, Spiked
 
 Also called a morningstar, this simple weapon combines the impact of a
 club with the piercing force of spikes.
 
-**Cutlass**
+## Cutlass
 
 The cutlass is a short, heavy, slightly curved blade useful for both
 stabbing and slashing. Its heavy basket hilt gives the wielder a +2
 equipment bonus on any checks to resist being disarmed.
 
-**Dagger, Punching**
+## Dagger, Punching
 
 Also called a katar, the punching dagger puts the full force of the
 wielder’s punch behind it, making it capable of deadly strikes.
 
-**Falchion**
+## Falchion
 
 This sword, which is essentially a two-handed scimitar, has a curve that
 gives it a keener edge.
 
-**Flail, Dire**
+## Flail, Dire
 
 A dire flail is a double weapon. You can fight with it as if fighting
 with two weapons, but if you do, you incur all the normal attack
@@ -492,7 +492,7 @@ You can also use this weapon to make trip attacks. If you are tripped
 during your own trip attempt, you can drop the dire flail to avoid being
 tripped.
 
-**Flail, Light and Heavy**
+## Flail, Light and Heavy
 
 With a flail, you gain a +2 bonus on your opposed attack roll when
 attempting to disarm an enemy (including the roll to avoid being
@@ -500,7 +500,7 @@ disarmed if you fail to disarm your enemy). You can also use this weapon
 to make trip attacks. If you are tripped during your own trip attempt,
 you can drop the flail to avoid being tripped.
 
-**Gauntlet**
+## Gauntlet
 
 These metal gloves protect your hands and let you deal lethal damage
 with unarmed strikes rather than nonlethal damage. A strike with a
@@ -508,33 +508,33 @@ gauntlet is otherwise considered an unarmed attack. The cost and weight
 given are for a single gauntlet. Medium and heavy archaic armors (except
 breastplates) come with gauntlets.
 
-**Gauntlet, Spiked**
+## Gauntlet, Spiked
 
 Your opponent cannot use a disarm action to disarm you of spiked
 gauntlets. The cost and weight given are for a single gauntlet. An
 attack with a spiked gauntlet is considered an armed attack that deals
 lethal damage.
 
-**Glaive**
+## Glaive
 
 A glaive has reach. You can strike opponents 10 feet away with it, but
 you can’t use it against an adjacent foe.
 
-**Greataxe**
+## Greataxe
 
 This big, heavy axe is a favorite of large Shadow creatures or anybody
 else who wants the capability to deal out incredible damage.
 
-**Greatclub**
+## Greatclub
 
 A greatclub is a two-handed version of a regular club.
 
-**Greatsword**
+## Greatsword
 
 This huge sword, including the Scottish claymore, can deal tremendous
 damage in the right hands.
 
-**Guisarme**
+## Guisarme
 
 A guisarme has reach. You can strike opponents 10 feet away with it, but
 you can’t use it against adjacent foes. Because of the guisarme’s curved
@@ -542,7 +542,7 @@ blade, you can also use it to make trip attacks. If you are tripped
 during your own trip attack, you can drop the guisarme to avoid being
 tripped.
 
-**Halberd**
+## Halberd
 
 Halberds are extremely rare outside of ceremonial functions or museums,
 although some Shadow creatures wield them. Normally, you strike with the
@@ -551,7 +551,7 @@ opponents. Because of the hook on the back of the halberd, you can use
 it to make trip attacks. If you are tripped during your own trip
 attempt, you can drop the halberd to avoid being tripped.
 
-**Hammer, Gnome Hooked**
+## Hammer, Gnome Hooked
 
 A gnome hooked hammer is a double weapon. You can fight with it as if
 fighting with two weapons, but if you do, you incur all the normal
@@ -564,7 +564,7 @@ is a piercing weapon that deals 1d4 points of damage (x4 crit). You can
 use either head as the primary weapon head. The other head is the
 off-hand weapon.
 
-**Ketch-All Pole**
+## Ketch-All Pole
 
 A ketch-all pole is designed to capture opponents with a minimum of
 harm. A wielder who hits an opponent with a ketchall pole can
@@ -578,7 +578,7 @@ The ketch-all pole has reach and cannot be used against adjacent
 opponents. A ketch-all pole can only be used against opponents within
 one size category of the wielder.
 
-**Khopesh**
+## Khopesh
 
 This bizarre sword is popular with cultists of Egyptian gods. The
 khopesh looks like a normal longsword whose blade suddenly turns
@@ -586,25 +586,25 @@ sickle-shaped about a foot from the hilt. It is heavy and awkward to use
 without a lot of training. You can use the khopesh to make trip attacks
 due to its hooklike blade.
 
-**Lance, Heavy and Light**
+## Lance, Heavy and Light
 
 A lance deals double damage when used from the back of a charging mount
 or vehicle (like a motorcycle or bicycle). A heavy lance has reach. You
 can strike opponents 10 feet away with it, but you can’t use it against
 an adjacent foe. Light lances are primarily for Small riders.
 
-**Maul**
+## Maul
 
 Bigger than a sledgehammer, the maul is a two-handed warhammer of
 enormous size. Ogres and other brutes favor it.
 
-**Naginata**
+## Naginata
 
 A naginata is a finely crafted Japanese polearm. A naginata has reach.
 You can strike opponents 10 feet away with it, but you can’t use it
 against an adjacent foe.
 
-**Nekode**
+## Nekode
 
 A nekode is a strap or glove fitted with spikes in the palm, favored as
 both a weapon and a climbing tool by ninja. Your opponent cannot use a
@@ -615,7 +615,7 @@ a +1 equipment bonus on Climb checks. This bonus does not stack with the
 similar to the nekode, but wielded more like brass knuckles. Its
 statistics are the same, but it does not give a bonus on Climb checks.
 
-**Ninja-to**
+## Ninja-to
 
 The ninja-to—a short, straight sword similar to a wakizashi —is the
 standard sword of the ninja. True to a ninja’s methods, the scabbard of
@@ -624,18 +624,18 @@ it to be used as a blowpipe for powders or poisons or as a breathing
 tube. It is also stiff and strong, allowing it to be used as the rung of
 a ladder or even as a weapon (use the statistics for a club).
 
-**Pick**
+## Pick
 
 A pick is designed to concentrate its force on a small, penetrating
 point. It is a small, one-handed instrument that includes rock cutting
 picks and picks designed for combat.
 
-**Pickaxe**
+## Pickaxe
 
 This is a heavy, two-handed tool commonly used for mining and digging
 dirt. The version listed here is strengthened for martial use.
 
-**Quarterstaff**
+## Quarterstaff
 
 You can strike with either end of a quarterstaff, allowing you to take
 full advantage of openings in your opponent’s defenses. A quarterstaff
@@ -646,7 +646,7 @@ one-handed weapon and a light weapon. A creature using a double weapon
 in one hand, such as a Large creature using a quarterstaff, can’t use it
 as a double weapon.
 
-**Ranseur**
+## Ranseur
 
 This curious-looking polearm has reach. You can strike opponents 10 feet
 away with it, but you can’t use it against an adjacent foe.
@@ -655,13 +655,13 @@ With a ranseur, you get a +2 bonus on your opposed attack rolls when
 attempting to disarm an opponent (including the roll to avoid being
 disarmed if you fail to disarm your opponent).
 
-**Saber**
+## Saber
 
 The saber is a long, heavy sword specialized for use in mounted combat.
 You gain a +1 equipment bonus on your attack rolls when you use a saber
 while mounted (horse or a vehicle such as a motorcycle).
 
-**Scourge**
+## Scourge
 
 A scourge is a multitailed, barbed whip. The scourge is often dipped in
 a poison delivered via injury. With a scourge, you get a +2 bonus on
@@ -670,23 +670,23 @@ the roll to avoid being disarmed if you fail to disarm your foe). You
 can also use this weapon to make trip attacks. If you are tripped during
 your own trip attempt, you can drop the scourge to avoid being tripped.
 
-**Scimitar**
+## Scimitar
 
 A curved sword. The curve on this blade makes the weapon’s edge
 effectively sharper.
 
-**Scythe**
+## Scythe
 
 The scythe can be a powerful weapon in the right hands. The design of
 the scythe focuses tremendous force on the sharp point as well as
 allowing devastating slashes with the blade edge.
 
-**Sickle**
+## Sickle
 
 This weapon is like a farmer’s sickle, but it is strengthened for use as
 a weapon.
 
-**Shikomi-zue**
+## Shikomi-zue
 
 This ninja weapon appears to be a stout bamboo or wooden staff, but a
 quick twist or press of a button causes a spearhead to spring from one
@@ -694,22 +694,22 @@ end. Without the blade, the shikomizue deals the same damage as a
 quarterstaff (1d6, x2 crit), and can be used as a double weapon. With
 the blade out, it has the statistics shown on Table: Melee Weapons.
 
-**Shortspear**
+## Shortspear
 
 A smaller spear that can be thrown.
 
-**Sword, Bastard**
+## Sword, Bastard
 
 A bastard sword is too large to use in one hand without special
 training, thus it is an exotic weapon. A Medium character can use a
 bastard sword two-handed as a martial weapon, or a Large creature can
 use it one-handed in the same way.
 
-**Sword, Short**
+## Sword, Short
 
 This sword is popular with heroes for its concealability.
 
-**Sword, Two-Bladed**
+## Sword, Two-Bladed
 
 A two-bladed sword is a double weapon. You can fight with it as if
 fighting with two weapons, but if you do, you incur all the normal
@@ -717,13 +717,13 @@ attack penalties associated with fighting with two weapons as if you
 were using a one-handed weapon and a light. A creature using a double
 weapon in one hand can’t use it as a double weapon.
 
-**Trident**
+## Trident
 
 This three-tined piercing weapon can be thrown just as a shortspear can
 be, but its range increment is shorter because it’s not as aerodynamic.
 Scuba divers and aquatic Shadow creatures make use of tridents.
 
-**Urgosh, Dwarven**
+## Urgosh, Dwarven
 
 A dwarven urgrosh is a double weapon. You can fight with it as if
 fighting with two weapons, but if you do, you incur all the normal
@@ -738,7 +738,7 @@ the off-hand weapon. If you use an urgrosh against a charging character,
 the spear head is the part of the weapon that does damage. An urgrosh is
 also called a spear-axe.
 
-**Wakizashi**
+## Wakizashi
 
 The wakizashi is a Japanese masterwork short sword, granting a +1 bonus
 on your attack rolls. A masterwork weapon’s bonus to attack does not
@@ -748,19 +748,19 @@ A samurai’s wakizashi is part of a matched pair with his katana,
 and—like the katana—is an important part of his honor. Its most
 prominent use is in the suicide ritual called seppuku.
 
-**Waraxe, Dwarven**
+## Waraxe, Dwarven
 
 A dwarven waraxe is too large to use in one hand without special
 training; thus, it is an exotic weapon. A Medium character can use a
 dwarven waraxe two-handed as a martial weapon, or a Large creature can
 use it one-handed in the same way.
 
-**Warhammer**
+## Warhammer
 
 This is a one-handed sledge with a large, heavy head. It includes large
 work hammers such as those that can be found around construction sites.
 
-**War Fan**
+## War Fan
 
 This weapon appears to the untrained eye as nothing more than a
 beautifully crafted fan. In fact, the vanes of the fan are crafted from

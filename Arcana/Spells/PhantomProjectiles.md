@@ -21,7 +21,7 @@ Barriers of magical force, such as a *wall of force*, stops them.
 *Phantom bullets* count as having a +3 enhancement bonus for the purpose
 of overcoming damage reduction, although they don’t actually receive the
 enhancement bonus on attacks or damage. Additionally, the *phantom
-bullets *disappear 1d4 rounds after being fired, making it impossible to
+bullets* disappear 1d4 rounds after being fired, making it impossible to
 gather ballistic evidence.
 
 *Material Component:* In addition to the bullets, the caster needs a

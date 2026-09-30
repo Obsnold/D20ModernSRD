@@ -18,28 +18,35 @@ following criteria.
 
 The following information pertains to the Field Officer advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Field Officer gains 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Field Officer gains a number of action points equal to 6 + one-half
 his character level, rounded down, every time he attains a new level in
 this class.
 
-**Class Skills**
+### Class Skills
 
 The Field Officer’s class skills are as follows.
 
-Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information
-(Cha), Intimidate (Cha), Knowledge (behavioral sciences, civics,
-history, physical sciences, tactics, theology and philosophy),
-Read/Write Language (none), Sense Motive (Wis), Speak Language (none).
+- Bluff (Cha)
+- Computer Use (Int)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (behavioral sciences, civics, history, physical sciences, tactics, theology and philosophy)
+- Read/Write Language (none)
+- Sense Motive (Wis)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Field Officer**
 
@@ -61,7 +68,7 @@ nonhumans).
 The following class features pertain to the Field Officer advanced
 class.
 
-**Leadership**
+### Leadership
 
 By providing supervision and guidance, a Field Officer can improve an
 ally’s chances of succeeding at a skill check. Instead of making a skill
@@ -74,7 +81,7 @@ understand him.
 
 A Field Officer cannot use this ability on himself.
 
-**Uncanny Survival**
+### Uncanny Survival
 
 Beginning at 2nd level, a Field Officer can add one-half his class level
 to his Defense for 1 round, once per day. (The bonus applies to the
@@ -82,18 +89,28 @@ Field Officer’s touch and flat-footed Defense, as well.) He must declare
 he is doing this at the beginning of his turn, and the Defense bonus
 lasts until his next round of actions.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Field Officer gets a bonus feat. The
 bonus feat must be selected from the following list, and the Field
 Officer must meet all the prerequisites of the feat to select it.
 
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor
-Proficiency (medium), Armor Proficiency (heavy), Armor Proficiency
-(powered), Combat Expertise, Dodge, Improved Initiative, Iron Will,
-Mobility, Precise Shot, Quick Draw, Renown, Shot on the Run.
+- Advanced Firearms Proficiency
+- Armor Proficiency (light)
+- Armor Proficiency (medium)
+- Armor Proficiency (heavy)
+- Armor Proficiency (powered)
+- Combat Expertise
+- Dodge
+- Improved Initiative
+- Iron Will
+- Mobility
+- Precise Shot
+- Quick Draw
+- Renown
+- Shot on the Run
 
-**Tactical Expertise**
+### Tactical Expertise
 
 Starting at 4th level, as a full-round action, a Field Officer can use
 his tactical knowledge to coordinate allies. Allies to be affected must
@@ -113,19 +130,19 @@ action is still spent.
 
 A Field Officer cannot apply the benefits of this ability to himself.
 
-**August Leadership**
+### August Leadership
 
 The Field Officer gains this ability at 5th level. It works like the
 leadership ability (see above), except the Field Officer adds his
 Charisma bonus and his Reputation bonus to the ally’s skill check.
 
-**Tactical Mastery**
+### Tactical Mastery
 
 At 7th level, the Field Officer requires less time to direct his allies.
 This ability is similar to tactical expertise (see Tactical Expertise,
 above) but requires an attack action instead of a full-round action.
 
-**Commanding Presence**
+### Commanding Presence
 
 At 8th level and beyond, a Field Officer can use an attack action and
 his commanding presence to enable an ally or weaken a single foe’s
@@ -149,7 +166,7 @@ and must be able to understand him. A target that resists the Field
 Officer’s attempt to weaken its resolve is immune to the Field Officer’s
 use of this ability for 24 hours.
 
-**Action Trust**
+### Action Trust
 
 At 10th level, the Field Officer’s mere presence inspires, safeguards,
 and motivates his allies.

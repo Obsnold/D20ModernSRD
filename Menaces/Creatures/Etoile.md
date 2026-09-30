@@ -109,7 +109,7 @@ their human agents to act as interpreters.
 | Atk | +7 melee (1d3–2 plus 1d6 electricity, pincer) |
 | Full Atk | +7 melee (1d3–2 plus 1d6 electricity, 3 pincers) |
 | FS | 2 1/2 ft. by 2 1/2 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 16), telepathy |
 | AL | etoile, evil |
 | Fort | +4 |
@@ -154,7 +154,7 @@ Repair +13, Treat Injury +7.
 | Atk | +9 melee (1d3–1 plus 1d6 electricity, pincer) |
 | Full Atk | +9 melee (1d3–1 plus 1d6 electricity, 3 pincers) |
 | FS | 2 1/2 ft. by 2 1/2 ft. |
-| Reach | 5 ft |
+| Reach | 5 ft. |
 | SQ | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 19), telepathy |
 | AL | etoile, evil |
 | Fort | +7 |

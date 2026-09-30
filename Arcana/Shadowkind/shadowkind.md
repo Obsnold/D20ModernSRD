@@ -10,11 +10,11 @@ Characters who enter our world through Shadow have no way of returning
 home and are forced to adapt to their new environment. Moreover, they
 retain only a few hazy memories of the place from whence they came.
 
-## PLAYING A SHADOWKIND
+## Playing a Shadowkind
 
 Shadowkind characters share several traits, as noted below.
 
-**Creature of Shadow**
+### Creature of Shadow
 
 Creatures brought to our world by Shadow are reclaimed by the tides of
 Shadow after they die. As a general rule, a creature of Shadow vanishes
@@ -34,7 +34,7 @@ A Shadowkind character is treated as a “creature of Shadow” with regard
 to special abilities, spells, and psionic powers that affect creatures
 of Shadow.
 
-### TABLE: SKILL POINTS/LEVEL FOR SHADOWKIND
+**Table: Skill Points/Level for Shadowkind**
 
 | Strong | 2 + Int modifier |
 |---|---|
@@ -43,7 +43,7 @@ of Shadow.
 | Smart | 8 + Int modifier |
 | Dedicated | 4 + Int modifier |
 | Charismatic | 6 + Int modifier |
-| **Advanced Class** |** Skill Points Per Level** |
+| **Advanced Class** | **Skill Points Per Level** |
 | Soldier | 4 + Int modifier |
 | Martial Artist | 2 + Int modifier |
 | Gunslinger | 4 + Int modifier |
@@ -84,7 +84,7 @@ Shadowkind characters do not gain as many skill points as a human
 character of the same class. Shadowkind characters get 4 fewer skill
 points at 1st level and 1 fewer skill point each level thereafter.
 
-**Native Shadowkind vs. New Arrivals**
+#### Native Shadowkind vs. New Arrivals
 
 Characters can be nonhuman natives of our world—the children of one or
 more Shadowkind parents, born and raised somewhere on Earth—or they can
@@ -96,7 +96,7 @@ they speak bizarre languages unknown to the majority of Earth’s
 population (though they also acquire the common language of the land
 they arrive in as a function of passing through Shadow).
 
-**Starting Occupation**
+#### Starting Occupation
 
 A character who begins play as a newly arrived Shadowkind must select
 from the following starting occupations: hedge wizard, noviate, and
@@ -106,7 +106,7 @@ starting occupation, see Starting Wealth Bonus, below.
 Only humans and Shadowkind characters born and raised in our mundane
 world can select from all starting occupations.
 
-**Starting Wealth Bonus**
+#### Starting Wealth Bonus
 
 A character who begins play as a newly arrived Shadowkind has a starting
 Wealth bonus of +2 to +12 (roll 2d6). However, the character must spend
@@ -119,7 +119,7 @@ and a starting Wealth bonus of +0.
 Shadowkind characters born and raised in our world follow the normal
 rules for determining Wealth bonus.
 
-**Languages Known**
+#### Languages Known
 
 A character who begins play as a newly arrived Shadowkind knows one or
 more languages, most of which are not spoken on Earth. Such languages
@@ -131,7 +131,7 @@ characters do. In addition to one or more local languages, they may know
 one or more languages of Shadow (taught to them by their parents and
 elders).
 
-### SHADOWKIND SPECIES
+### Species Description Format
 
 Each Shadowkind entry consists of a description of the species,
 including appearance and general disposition. It also provides insight
@@ -166,7 +166,7 @@ the species. Shadowkind may learn additional languages, following the
 rules presented under the Speak Language and Read/Write Language skill
 descriptions.
 
-### SMALL CHARACTERS
+### Small Characters
 
 Small characters (such as gnomes, goblins, and halflings) gain a +1 size
 bonus to Defense, a +1 size bonus on attack rolls, and a +4 size bonus
@@ -186,7 +186,7 @@ Armor for Small characters can be chopped down from extant protective
 outfits. It costs the same as Medium armor and weighs half as much. A
 Medium or larger creature cannot wear armor sized for a Small character.
 
-## Large Characters
+### Large Characters
 
 Large characters take a –1 size penalty to Defense, a –1 size penalty on
 attack rolls, and a –4 size penalty on Hide checks. Large characters
@@ -218,9 +218,9 @@ by +2.
 - [Orc](Orc.md)
 - [Shadowkind Human](ShadowkindHuman.md)
 
-## MORE POWERFUL SHADOWKIND
+## More Powerful Shadowkind
 
-### LEVEL ADJUSTMENT AND CHALLENGE RATING
+### Level Adjustment and Challenge Rating
 
 Particularly powerful Shadowkind species have a Level Adjustment, which
 reflects how much more powerful these species are compared to “baseline”
@@ -239,7 +239,7 @@ spells, and abilities that use character levels. However, a character’s
 CR *is* used to determine how many experience points the character needs
 to advance in level (see Experience, below).
 
-## EXPERIENCE
+## Experience
 
 Characters with a Level Adjustment of +1 or higher do not begin play
 with 0 XP, as humans and other “baseline” characters do. As

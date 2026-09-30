@@ -13,7 +13,7 @@
 | Spell Resistance | Yes (harmless, object) |
 
 The warded creature or object becomes difficult to detect by divination
-and detection spells, such as *scrying*.* Nondetection *also prevents
+and detection spells, such as *scrying*. *Nondetection* also prevents
 location by such magic items as crystal balls. If a divination is
 attempted against the warded creature or item, the caster of the
 divination must succeed at a caster level check (1d20 + caster level)

@@ -17,7 +17,7 @@
 
 This incantation, named after the Greek god of pain, allows you to
 scribe a potent rune of power upon a surface. When triggered, the *sigil
-of Algos *causes one or more creatures within 60 feet of the rune (treat
+of Algos* causes one or more creatures within 60 feet of the rune (treat
 as a burst) to suffer wracking pain if they fail a Fortitude save. The
 pain imposes a –4 penalty on attack rolls, skill checks, and saving
 throws. These effects last for 12 hours after the creature leaves the
@@ -33,7 +33,7 @@ again.
 
 Until it is triggered, the *sigil of Algos* is inactive (though visible
 and legible at a range of up to 60 feet). To be effective, a *sigil of
-Algos *must always be placed in plain sight and in a prominent location.
+Algos* must always be placed in plain sight and in a prominent location.
 Covering or hiding the rune renders it ineffective (unless a creature
 removes the covering, in which case the *sigil of Algos* works
 normally).
@@ -82,14 +82,14 @@ cannot inadvertently trigger them.
 Spellcraft check (DC 16). Of course, if the *sigil of Algos* is set to
 be triggered by reading it, this will trigger the symbol.
 
-The *sigil of Algos* can be removed by a successful *dispel magic
-*targeted solely on the rune. A* clean *spell has no effect on a* sigil
-of Algos*. Destruction of the surface where a* sigil of Algos *is
+The *sigil of Algos* can be removed by a successful *dispel magic*
+targeted solely on the rune. A *clean* spell has no effect on a *sigil
+of Algos*. Destruction of the surface where a *sigil of Algos* is
 inscribed destroys the rune but also triggers its effects.
 
 Note: Magic traps such as *sigil of Algos* are hard to detect and
-disable. Characters can use the Search skill to find a *sigil of Algos
-*and the Disable Device skill to thwart it. The DC in each case is 31.
+disable. Characters can use the Search skill to find a *sigil of Algos*
+and the Disable Device skill to thwart it. The DC in each case is 31.
 
 *Material Component:* Rare alchemical paints and herbs (purchase DC 20).
 

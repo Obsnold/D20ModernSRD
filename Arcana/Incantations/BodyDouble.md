@@ -18,7 +18,7 @@ The *body double* incantation creates a duplicate of any creature formed
 from mystic clay, with alchemical blood and an eldritch life of its own.
 At first glance, the duplicate appears to be exactly the same as the
 creature you modeled it after, but there are differences: The *body
-double *has only half the level or Hit Dice (which affects its skills,
+double* has only half the level or Hit Dice (which affects its skills,
 feats, and class features). It has the surface mannerisms and
 personality of the real creature, but its Intelligence, Wisdom, and
 Charisma scores are all 5. Creatures familiar with the original might
@@ -32,8 +32,8 @@ At all times the *body double* remains under your absolute command. No
 special telepathic link exists, so command must be exercised in some
 other manner. The *body double* has no ability to become more powerful.
 It cannot earn experience points. If destroyed, it reverts to clay and
-melts into a vaguely humanoid lump within 1 minute. The *body double
-*doesn’t naturally heal and responds to neither conventional medicine
+melts into a vaguely humanoid lump within 1 minute. The *body double*
+doesn’t naturally heal and responds to neither conventional medicine
 nor natural healing. A complex process requiring at least one day,
 materials (purchase DC 5 + 1 per hit point), and a fully equipped
 magical laboratory can repair damage to the *body double*.

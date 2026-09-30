@@ -39,7 +39,7 @@ himself. However, anyone who *does* get the man’s personal attention (or
 is working on a project in which he takes particular interest) can get
 up to a +15 modifier to level checks to requisition equipment.
 
-**Dragon Eggs**
+## Dragon Eggs
 
 Franz Draco works with a great many people. So many, in fact, that it is
 often difficult for him to find time to check in with even his most
@@ -67,10 +67,10 @@ eggs, no matter where in the world they are. Franz Draco is the only
 person who knows how to make the hub egg work. Draco has the egg brought
 with him wherever he goes.
 
-*Type:*Wondrous item (magic);* Caster Level: *10th;* Purchase DC: *39;
+*Type:*Wondrous item (magic); *Caster Level:* 10th; *Purchase DC:* 39;
 *Weight:* 5 lb.
 
-Franz Draco
+## Franz Draco
 
 Franz Draco is an efreeti—a type of genie that hails from a dimension of
 fire and infernal heat. He is significantly smarter and more ruthless
@@ -105,13 +105,11 @@ Draco spends most of his time *polymorphed* into a human. He appears to
 be in his mid-40s, with red hair, a red beard, and coal-black eyes. He
 dresses in the finest clothing and bits of flashy gold jewelry.
 
-## Franz Draco
-
 | Stat | Value |
 |---|---|
-| ?? | Male Efreeti Smart Hero 3/Charismatic Hero 4 |
-| Size/Type | CR 15 |
-| ?? | Large outsider (fire) |
+| Class | Male Efreeti Smart Hero 3/Charismatic Hero 4 |
+| CR | 15 |
+| Size/Type | Large outsider (fire) |
 | HD | 10d8+20 plus 3d6+6 plus 4d6+8 |
 | hp | 128 |
 | Mas | 17 |
@@ -123,8 +121,8 @@ dresses in the finest clothing and bits of flashy gold jewelry.
 | Defense Breakdown | –1 size, +3 Dex, +6 natural, +2 class, +6 *+3 undercover vest* |
 | BAB | +13 |
 | Grap | +23 |
-| Atk | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6,* +2 fiery blast Uzi*) |
-| Full Atk | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6,* +2 fiery blast Uzi*) |
+| Atk | +19 melee (1d8+9 plus 1d6 fire, slam) or +21 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18 ranged (2d6, *+2 fiery blast Uzi*) |
+| Full Atk | +19/+14/+9 melee (1d8+9 plus 1d6 fire, slam) or +21/+16/+11 melee (1d12+11/x3 plus 1d6 fire, *+2 fiery blast greataxe*) or +18/+13/+8 ranged (2d6, *+2 fiery blast Uzi*) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
 | SQ | heat, spell-like abilities, *polymorph* (self only), immune to fire, cold vulnerability, *grant wishes*, telepathy, darkvision 60 ft. |
@@ -162,16 +160,16 @@ Initiative, Personal Firearms Proficiency, Renown.
 **Talents (Charismatic Hero):** Coordinate, inspiration.
 
 **Spell-Like Abilities:** 1/day—*detect magical aura, gaseous form,
-invisibility, wall of fire *(DC 19). These abilities are as the spells
+invisibility, wall of fire* (DC 19). These abilities are as the spells
 cast by a 10th-level Mage (save DC 15 + spell level). The DCs are
 Charisma-based.
 
 **Possessions**: *+3 undercover vest, +2 fiery blast greataxe, +2 fiery
-blast Uzi *(9mm submachine gun), 100 rounds of 9mm ammunition,* ring of
-surveillance detection*,* wand of lightning bolt *(15 charges), 3
+blast Uzi* (9mm submachine gun), 100 rounds of 9mm ammunition, *ring of
+surveillance detection*, *wand of lightning bolt* (15 charges), 3
 *potions of Strength*, business outfit, cell phone.
 
-Sasha
+## Sasha
 
 To those that meet the woman known as Sasha, her image is forever etched
 into their memory. Sasha is the confidant and lieutenant of Franz Draco,
@@ -198,11 +196,10 @@ tailored to show off her ecsquisite figure without getting in her way
 should trouble arise. And Sasha always has on a pair of designer
 sunglasses (even at night).
 
-## Sasha
-
 | Stat | Value |
 |---|---|
-| ?? | Female Medusa Charismatic Hero 4: CR 11 |
+| Class | Female Medusa Charismatic Hero 4 |
+| CR | 11 |
 | Size/Type | Medium monstrous humanoid |
 | HD | 6d8+6 plus 4d6+4 |
 | hp | 42 |
@@ -245,4 +242,4 @@ Point Blank Shot, Simple Weapons Proficiency, Weapon Finesse (snakes).
 
 **Possessions:** Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
 ammunition, concealed carry holster, firearms license, business
-clothing, overcoat, *eldritch cell phone,* PDA, disguise kit.
+clothing, overcoat, *eldritch cell phone*, PDA, disguise kit.

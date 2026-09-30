@@ -21,4 +21,4 @@ Move action → attack action → move action, or
 
 Move action → move action → attack action, or
 
-Full-round action
+## Full-round action

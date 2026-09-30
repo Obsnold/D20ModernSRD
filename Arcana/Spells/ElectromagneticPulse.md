@@ -13,7 +13,7 @@
 | Saving Throw | Will negates (object) |
 | Spell Resistance | Yes (object) |
 
-When you cast *electromagnetic pulse,* you send a powerful burst of
+When you cast *electromagnetic pulse*, you send a powerful burst of
 energy that ruins electronic circuitry within the spell’s area. Any
 computer, telephone, television, or other device with a computer
 processor inside ceases to function immediately, and the contents of
@@ -40,5 +40,5 @@ You can jury-rig repairs more quickly and cheaply, but the repairs may
 not last. See the description of the Repair skill for details.
 
 Some military gear is immune to energy effects such as *electromagnetic
-pulse *thanks to a process called tempest hardening. Tempest hardening
+pulse* thanks to a process called tempest hardening. Tempest hardening
 adds +1 to the purchase DC of an item and makes it Restricted (+2).

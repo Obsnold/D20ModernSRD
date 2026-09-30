@@ -21,28 +21,47 @@ or negative (evil) energy as an allegiance, but is not required to.
 
 The following information pertains to the Mystic advanced class.
 
-**Hit Die**
+### Hit Die
 
 Mystics gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Mystics gain a number of action points equal to 6 plus one-half their
 character level, rounded down, every time they advance a level in this
 class.
 
-**Class Skills**
+### Class Skills
 
-The Mystic’s class skills are as follows: Concentration (Con), Craft
-(chemical, pharmaceutical, visual arts) (Int), Diplomacy (Cha), Gather
-Information (Cha), Knowledge (art, behavioral sciences, earth and life
-sciences, theology and philosophy) (Int), Perform (act, dance, sing,
-stand-up) (Cha), Profession (Wis), Read/Write Language (none), Sense
-Motive (Wis), Sleight of Hand (Dex), Speak Language (none), Spellcraft
-(Int), Spot (Wis), Treat Injury (Wis).
+The Mystic’s class skills are as follows:
+
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (pharmaceutical) (Int)
+- Craft (visual arts) (Int)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Perform (act) (Cha)
+- Perform (dance) (Cha)
+- Perform (sing) (Cha)
+- Perform (stand-up) (Cha)
+- Profession (Wis)
+- Read/Write Language (none)
+- Sense Motive (Wis)
+- Sleight of Hand (Dex)
+- Speak Language (none)
+- Spellcraft (Int)
+- Spot (Wis)
+- Treat Injury (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Mystic**
 
@@ -63,13 +82,13 @@ Motive (Wis), Sleight of Hand (Dex), Speak Language (none), Spellcraft
 
 The following features pertain to the Mystic advanced class.
 
-**Arcane Skills**
+### Arcane Skills
 
 At 1st level, the Mystic gains the Arcane Skills feat, granting access
 to the following skills: Spellcraft, Use Magic Device, and the arcane
 functions of Concentration and Craft (chemical).
 
-**Divine Spells**
+### Divine Spells
 
 The Mystic casts divine spells the same as Acolytes. A Mystic’s
 selection of spells is extremely limited. The Mystic begins play knowing
@@ -118,15 +137,15 @@ dead*
 
 | Cha Score | —Bonus Spells by Spell Level— | | | | | |
 |---|---|---|---|---|---|---|
-| | **1** |** 2** |** 3** |** 4** |** 5** | |
+| | **1** | **2** | **3** | **4** | **5** | |
 | 12–13 | 1 | — | — | — | — | |
 | 14–15 | 1 | 1 | — | — | — | |
 | 16–17 | 1 | 1 | 1 | — | — | |
 | 18–19 | 1 | 1 | 1 | 1 | — | |
 | 20–21 | 2 | 1 | 1 | 1 | 1 | |
 | 22–23 | 2 | 2 | 1 | 1 | 1 | |
-| **Mystic Level** |** —Spells per Day by Spell Level—** | | | | | |
-| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
+| **Mystic Level** | **—Spells per Day by Spell Level—** | | | | | |
+| | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1 | 3 | 2 | — | — | — | — |
 | 2 | 4 | 3 | — | — | — | — |
 | 3 | 4 | 3 | 2 | — | — | — |
@@ -137,8 +156,8 @@ dead*
 | 8 | 6 | 5 | 4 | 4 | 3 | — |
 | 9 | 6 | 5 | 5 | 4 | 3 | 2 |
 | 10 | 6 | 5 | 5 | 4 | 4 | 3 |
-| **Mystic Level** |** —Mystic Spells Known—** | | | | | |
-| | **0** |** 1** |** 2** |** 3** |** 4** |** 5** |
+| **Mystic Level** | **—Mystic Spells Known—** | | | | | |
+| | **0** | **1** | **2** | **3** | **4** | **5** |
 | 1 | 4 | 2 | — | — | — | — |
 | 2 | 5 | 2 | — | — | — | — |
 | 3 | 5 | 3 | 1 | — | — | — |
@@ -150,7 +169,7 @@ dead*
 | 9 | 8 | 5 | 4 | 3 | 2 | 1 |
 | 10 | 9 | 5 | 5 | 4 | 3 | 2 |
 
-**Turn or Rebuke Undead**
+### Turn or Rebuke Undead
 
 Starting at 2nd level, the Mystic gains the supernatural ability to
 affect the undead, such as zombies, skeletons, ghosts, and vampires in a
@@ -163,24 +182,36 @@ A Mystic may turn, rebuke, command or bolster the undead. She may
 destroy the undead if of sufficient levels. She cannot dispel the
 turning of an Acolyte.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Mystic gets a bonus feat. The bonus feat
 must be selected from the following list, and the Mystic must meet all
-of the prerequisites for the feat to select it. Alertness, Archaic
-Weapons Proficiency, Armor Proficiency (light), Attentive, Creative,
-Dodge, Educated, Empower Turning, Greater Spell Focus, Greater Spell
-Penetration, Improved Turning, Renown, Spell Focus, Spell Penetration,
-Trustworthy, Windfall. The Mystic may also take any metamagic feats as
-bonus feats.
+of the prerequisites for the feat to select it.
 
-**Combat Casting**
+- Alertness
+- Archaic Weapons Proficiency
+- Armor Proficiency (light)
+- Attentive
+- Creative
+- Dodge
+- Educated
+- Empower Turning
+- Greater Spell Focus
+- Greater Spell Penetration
+- Improved Turning
+- Renown
+- Spell Focus
+- Spell Penetration
+- Trustworthy
+- Windfall. The Mystic may also take any metamagic feats as bonus feats
+
+### Combat Casting
 
 At 4th level, the Mystic becomes adept at casting spells during combat.
 She gets a +4 bonus to Concentration checks made to cast a spell while
 on the defensive.
 
-**Brew Potion**
+### Brew Potion
 
 At 5th level, the Mystic can create potions, which carry spells within
 themselves.
@@ -211,7 +242,7 @@ commensurate cost. In addition to the raw materials cost, the Mystic
 must expend the material component or pay the XP cost when creating the
 potion.
 
-**Discern Lie**
+### Discern Lie
 
 The Mystic develops the ability to gauge whether another character is
 telling the truth by reading facial expressions and interpreting body
@@ -222,7 +253,7 @@ The Mystic can determine whether a spoken statement is true or false
 with a successful Sense Motive check opposed by the subject’s Bluff
 check or DC 10, whichever is greater.
 
-**Turn or Rebuke Humans**
+### Turn or Rebuke Humans
 
 Starting at 8th level, the Mystic gains the supernatural ability to
 affect humans, allowing her to command them or drive them off in the
@@ -235,7 +266,7 @@ A Mystic may turn, rebuke, command or bolster humans. She cannot destroy
 the targeted humans with this ability, nor can she dispel the turning of
 another individual.
 
-**Empower Spell**
+### Empower Spell
 
 At 10th level, the Mystic learns to cast spells to greater effect. All
 variable, numeric effects of an empowered spell are increased by

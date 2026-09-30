@@ -23,7 +23,7 @@ construct immunities, including immunity to critical hits.
 
 | | | | | ——— Base Ability Scores ——— | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Robot Size** |** Base Purchase DC** |** Base Hit Dice** |** Extra Hit Points** | Str |** Dex** |** Con** |** Int** |** Wis** |** Cha** |** Maximum Hit Dice/Purchase DC Modifier** |
+| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
 | Colossal | 44 | 32d10 | 120 | 47 | 6 | — | — | 10 | 1 | 64d10/+3 per HD |
 | Gargantuan | 36 | 16d10 | 80 | 39 | 6 | — | — | 10 | 1 | 31d10/+3 per HD |
 | Huge | 28 | 8d10 | 40 | 31 | 6 | — | — | 10 | 1 | 15d10/+2 per HD |

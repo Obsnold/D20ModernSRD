@@ -2,14 +2,14 @@
 
 The following armors are available at PL 7 and later.
 
-**Medium Combat Armor**
+## Medium Combat Armor
 
 Designed for heavy warfare and dangerous situations, medium combat armor
 covers the user almost head to toe in armor plating. Medium combat armor
 comes with a helmet that fits snugly on the head and does not interfere
 with the soldier’s field of vision.
 
-**Silent Suit**
+## Silent Suit
 
 The silent suit uses cutting-edge sonic dampening technology to increase
 the stealth of the user. Silent suits look like form-fitting bodysuits
@@ -18,7 +18,7 @@ generators are built into the suit, reducing to a minimum the noise made
 by movement. A character wearing a silent suit gains a +10 equipment
 bonus on all Move Silently checks.
 
-**Space Combat Armor**
+## Space Combat Armor
 
 Space combat armor is the first true powered armor to reach common use.
 Space combat armor consists of heavy body armor with an environmental

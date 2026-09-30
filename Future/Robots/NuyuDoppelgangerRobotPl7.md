@@ -27,7 +27,7 @@ period of a few hours or days.
 | Touch | 10 |
 | Flat-Footed | 10 |
 | BAB | +0 |
-| ?? | Grp +1 |
+| Grap | +1 |
 | Atk | +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |

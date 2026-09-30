@@ -41,7 +41,7 @@ driver –6 ranged (8d12)
 
 **Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -106,7 +106,7 @@ batteries of 2 CHE missiles –5 ranged (6d12/18–20)
 
 **Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -164,7 +164,7 @@ ranged (8d8/19–20) and battery of 3 heavy lasers –6 ranged (8d12/19–20)
 
 **Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Fusion torch, thrusters
 
@@ -219,7 +219,7 @@ petrochemicals, or oxygen.
 
 **Attack of Opportunity:** Point-defense system +3 ranged (4d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -273,7 +273,7 @@ battery of 3 plasma missiles –2 ranged (18d8/18–20)
 
 **Attack of Opportunity:** Point-defense +5 ranged (4d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Particle impulse engine, thrusters
 
@@ -330,7 +330,7 @@ number of passengers, usually in varying degrees of luxury.
 
 **Attack of Opportunity:** Point-defense system +5 ranged (4d12×10)
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Induction engine, thrusters
 

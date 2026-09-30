@@ -1,6 +1,6 @@
 # ARCANA MAGIC ITEMS
 
-Magic Items and Mundanes
+## Magic Items and Mundanes
 
 For the most part, magic items won’t function for a mundane. Sure, the
 mundane might feel joy and attachement to such an item, or perhaps fear
@@ -13,7 +13,7 @@ or the person convinces himself that he didn’t really see what he thinks
 he just saw. In some cases, such an event might disturb a mundane to
 such an extent that psychological harm occurs.
 
-Incantation-Based FX Items
+## Incantation-Based FX Items
 
 Making most magic items is a solitary endeavor, one in which the
 spellcaster spends days (perhaps weeks) preparing an item to receive and
@@ -38,7 +38,7 @@ incantation’s description. Failed incantations have all the usual
 repercussions, plus the item has been tarnished and must be prepared
 before another attempt can be made to infuse it with the incantation.
 
-**Determining the Purchase DC**
+## Determining the Purchase DC
 
 Calculating the purchase DCs for items created to hold incantations is
 technically impossible, as incantations have neither caster levels nor

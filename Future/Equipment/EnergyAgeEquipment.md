@@ -2,7 +2,7 @@
 
 The following equipment is available at PL 8.
 
-**Chemical, Plastiflesh**
+## Chemical, Plastiflesh
 
 Contained in a small spray can, plastiflesh bonds with human skin on
 contact and accelerates the healing process by providing a layer of
@@ -10,7 +10,7 @@ artificial skin to seal the wound. The target of the spray immediately
 recovers 1d4 hit points. No Treat Injury check is required to use
 plastiflesh.
 
-**Chemical, Truthtell**
+## Chemical, Truthtell
 
 Truthtell is a specially formulated chemical that targets areas of the
 brain that handle creativity and, particularly, lying. By temporarily
@@ -23,7 +23,7 @@ speak truthfully for the next 3d10 minutes. A subject under the effect
 of truthtell is aware of its influence and may still refuse to answer
 questions.
 
-**Energy Shield**
+## Energy Shield
 
 The energy shield is a potent defense mechanism that protects the user
 from dangerous energy.
@@ -35,7 +35,7 @@ resistance 5. As a move action, the wearer can adjust the shield to
 provide a different type of energy resistance, selected from the list
 above.
 
-**Force Field, Personal**
+## Force Field, Personal
 
 The most reliable and powerful personal defense mechanism in the Energy
 Age, the personal force field projects a defensive bubble around a
@@ -45,7 +45,7 @@ that provides DR 10/—. The device contains a power pack that provides up
 to 2 hours of use. A power backpack may be used to extend this duration
 to 8 hours.
 
-**Hologram Player**
+## Hologram Player
 
 A hologram player is a small disc with several small light projectors
 arranged around its outer edge. When activated, the device projects a
@@ -55,7 +55,7 @@ hooked into a hologram recorder (capable of storing three-dimensional
 images), or even to a unicom to receive three-dimensional images for
 real-time communications.
 
-**Hologram Recorder**
+## Hologram Recorder
 
 A hologram recorder is a cylinder no larger than a pen with a bulbous,
 transparent cap on one end. The device can make a three-dimensional
@@ -68,7 +68,7 @@ hologram recorder is commonly carried by law enforcement agents, as it
 allows for the accurate collection of evidence and can prevent abuse on
 the part of the authorities.
 
-**Hologuise**
+## Hologuise
 
 The hologuise is a combination hologram projector and digital imaging
 computer system that is worn like a headband over the forehead. When
@@ -80,7 +80,7 @@ hologuises are employed by the wealthy elite as well as by criminals and
 spies. An active hologuise grants the wearer a +10 equipment bonus on
 all Disguise checks.
 
-**Matter Shield**
+## Matter Shield
 
 Designed to protect off-world miners from micrometeorites and the debris
 of mining explosions, matter shields were quickly adapted for military
@@ -89,7 +89,7 @@ and law enforcement use.
 The matter shield grants its wearer DR 5/— against ballistic,
 bludgeoning, piercing, and slashing attacks.
 
-**Micro-Aural Communicator (Microcom)**
+## Micro-Aural Communicator (Microcom)
 
 The micro-aural communicator consists of three components. A tiny
 earpiece transmits incoming communications directly into the ear, at a
@@ -101,7 +101,7 @@ for hooking other devices into the microcom.
 Using a microcom does not provoke a normal Listen check and cannot be
 heard by any normal means.
 
-**Neural Computer Link**
+## Neural Computer Link
 
 The most advanced form of computer interface in the Energy Age, the
 neural computer link creates a direct connection between the brain and a
@@ -137,7 +137,7 @@ piloting and driving assisting nanites, these nanites interface directly
 with the neural link and allow the character to give commands simply by
 thinking them.
 
-**Neural Network Jack, Wireless**
+## Neural Network Jack, Wireless
 
 A natural extension of neural computing technology, the wireless neural
 network jack plugs into the neural computer link and allows for remote
@@ -149,7 +149,7 @@ wireless neural network jack is the means of connecting the human mind
 to massive computer networks. A wireless neural network jack is useless
 unless the user also has a neural computer link.
 
-**Neural Recorder**
+## Neural Recorder
 
 A flexible cap that resembles a grasping clawed hand, the neural
 recorder can collect data directly from the human mind. Any visual or
@@ -162,7 +162,7 @@ and stores them as either two-dimensional or three-dimensional
 recordings. An unwilling subject may make a Will save (DC 17) to prevent
 the recorder from functioning.
 
-**Photon Shield**
+## Photon Shield
 
 The photon shield is a technology loosely based on the light-bending
 properties of black holes. By using controlled gravity waves to create
@@ -179,11 +179,11 @@ character wearing a photon shield gains total concealment (50% miss
 chance) against attacks, even if the attackers correctly pinpoint its
 fighting space.
 
-**Polyvox**
+## Polyvox
 
 The polyvox translates the languages of different cultures and species.
 
-**Regen Wand**
+## Regen Wand
 
 A regen wand is a tubular device roughly fifteen inches long. It emits
 waves of energy that promote cellular growth and healing. A character
@@ -191,7 +191,7 @@ can use a regen wand as a first aid kit or medical kit. Because of the
 device’s simplicity, Treat Injury checks made with the regen wand gain a
 +4 equipment bonus.
 
-**Sensor, Robocomp**
+## Sensor, Robocomp
 
 The robocomp sensor is a hand-held computer or computerized gauntlet
 designed to assist in the evaluation and repairs of robots and robotic

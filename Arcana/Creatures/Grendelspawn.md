@@ -26,13 +26,11 @@ detect approaching enemies, sniff out hidden foes, and track by scent.
 **Keen Sight (Ex):** Grendelspawn have darkvision with a
 range of 60 feet and low-light vision.
 
-**Grendelspawn Hunter**
+## Grendelspawn Hunter
 
 Hunters tend to travel in small packs of three to six. Though only
 marginally intelligent, they often display the cunning common to many
 predators.
-
-## Grendelspawn Hunter
 
 | Stat | Value |
 |---|---|
@@ -83,7 +81,7 @@ Full Atk +16 melee (1d4+7, 2 claws), +14 melee (1d6+3, bite); SV Fort
 **Advancement:** 10–15 HD (Medium); 16–27 HD
 (Large).
 
-**Grendelspawn Queen**
+## Grendelspawn Queen
 
 Grendelspawn queens are generally solitary, although sometimes a
 small cluster of them will cooperate long enough to protect a joint
@@ -100,8 +98,6 @@ it can constrict (see below).
 **Constrict (Ex):** A grendelspawn queen deals automatic
 tentacle damage with a successful grapple check against creatures
 smaller than itself.
-
-## Grendelspawn Queen
 
 | Stat | Value |
 |---|---|

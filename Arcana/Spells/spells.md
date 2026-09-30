@@ -1,12 +1,12 @@
 # ARCANA SPELLS
 
-ARCANE SPELLS
+## Arcane Spells
 
 The following spells may be cast by arcane spellcasters.
 
 Spells printed in ***bold italic*** text can be found under Spells.
 
-Casting Spells through Email
+### Casting Spells through Email
 
 Any spell that can be scribed onto a scroll can likewise be saved in
 electronic format—as email. In order to accomplish this, the caster must
@@ -50,7 +50,7 @@ becomes undeliverable. The account that sent the original email will
 receive an email notification of this. If the target opens the email
 after 72 hours have elapsed, the body of the message will be blank.
 
-**0-level Arcane Spells**
+### 0-level Arcane Spells
 
 **Arcane Graffiti.** Inscribes personal rune or short message on object
 or surface.
@@ -78,7 +78,7 @@ feet.
 
 ***Resistance.*** Subject gains +1 on saving throws.
 
-**1st-level Arcane Spells**
+### 1st-level Arcane Spells
 
 ***Burning Hands.*** 1d4 fire damage/ level (max 5d4).
 
@@ -137,7 +137,7 @@ passage.
 
 **Undetectable Magical Aura.** Masks a magic item’s aura from detection.
 
-**2nd-level Arcane Spells**
+### 2nd-level Arcane Spells
 
 ***Arcane Lock.*** Magically locks a portal or chest.
 
@@ -191,7 +191,7 @@ vivilors to fight for you.
 
 ***Web.*** Fills 20-foot-radius spread with sticky spider webs.
 
-**3rd-level Arcane Spells**
+### 3rd-level Arcane Spells
 
 ***Dispel Magic.*** Cancels magical spells and effects.
 
@@ -252,7 +252,7 @@ well as hold and wield weapons.
 
 ***Water Breathing.*** Subjects can breathe underwater.
 
-**4th-level Arcane Spells**
+### 4th-level Arcane Spells
 
 ***Animate Dead.*** Creates undead skeletons and zombies.
 
@@ -310,7 +310,7 @@ hemisphere can trap creatures inside.
 **Wire Walk.** Subjects teleport instantly to the location of a
 telephone you call.
 
-**5th-level Arcane Spells**
+### 5th-level Arcane Spells
 
 ***Cloudkill.*** Kills 3 HD or less; 4–6 HD save or die.
 
@@ -350,13 +350,13 @@ life.
 
 ***Wall of Stone.*** Creates a stone wall that can be shaped.
 
-DIVINE SPELLS
+## Divine Spells
 
 The following spells may be cast by divine spellcasters.
 
 Spells printed in ***bold italic*** text can be found under Spells.
 
-**0-level Divine Spells**
+### 0-level Divine Spells
 
 ***Create Water.*** Creates 2 gallons/level of pure water.
 
@@ -378,7 +378,7 @@ Spells printed in ***bold italic*** text can be found under Spells.
 
 ***Virtue.*** Subject gains 1 temporary hp.
 
-**1st-level Divine Spells**
+### 1st-level Divine Spells
 
 ***Bane.*** Enemies suffer –1 attack, –1 on saves against fear.
 
@@ -423,7 +423,7 @@ for you.
 **Trace Purge.** Removes physical traces of the subject’s presence or
 passage.
 
-**2nd-level Divine Spells**
+### 2nd-level Divine Spells
 
 ***Aid.*** +1 attack, +1 on saves against fear, 1d8 temporary hit
 points.
@@ -476,7 +476,7 @@ vivilors to fight for you.
 
 ***Zone of Truth.*** Subjects within range cannot lie.
 
-**3rd-level Divine Spells**
+### 3rd-level Divine Spells
 
 ***Animate Dead.*** Creates undead skeletons and zombies.
 
@@ -529,7 +529,7 @@ levels; caster gains damage as temporary hit points.
 
 ***Water Breathing.*** Subjects can breathe underwater.
 
-**4th-level Divine Spells**
+### 4th-level Divine Spells
 
 **Crawling Carpet.** Summons a 10-foot-radius carpet of monstrous
 centipedes, scarab beetles, or spiders.
@@ -551,8 +551,8 @@ allegiance.
 ***Inflict Critical Wounds.*** Touch attack, 4d8 +1/level damage (max
 +10).
 
-**Magic Bullets.** Enchants bullets with the power to *cure light wounds
-*or* inflict light wounds*.
+**Magic Bullets.** Enchants bullets with the power to *cure light wounds*
+or *inflict light wounds*.
 
 ***Neutralize Poison.*** Detoxifies venom in or on subject.
 
@@ -571,7 +571,7 @@ to grappled foe; +5 bonus to grapple checks.
 **Wall Walk.** Subject can move on ceilings and walls at normal speed as
 well as hold and wield weapons.
 
-**5th-level Divine Spells**
+### 5th-level Divine Spells
 
 ***Break Enchantment.*** Frees subjects from enchantments, alterations,
 curses, and petrification.

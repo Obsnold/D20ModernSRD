@@ -9,8 +9,8 @@ constructs.
 essence from the objects that form its body, dropping them wherever they
 happen to land, then reappear up to 500 feet away, reconstructing its
 body from garbage and refuse there (assuming enough raw material exists
-in the target location). The litter brute cannot use its *dimension door
-*ability to transport other objects or creatures.
+in the target location). The litter brute cannot use its *dimension door*
+ability to transport other objects or creatures.
 
 **Electricity Immunity (Ex):** A litter brute takes no damage from
 electricity. In fact, a litter brute struck by an electrical attack uses
@@ -69,7 +69,7 @@ attack is slashing damage.
 | Full Atk | +5 melee (1d8+2, 2 slams) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
-| SQ | construct, darkvision 60 ft., *dimension door,* engulf, fast healing 5, garbage growth, sharp implements |
+| SQ | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
 | AL | none |
 | Fort | +2 |
 | Ref | +2 |
@@ -112,7 +112,7 @@ attack is slashing damage.
 | Full Atk | +13 melee (2d6+6, 2 slams) |
 | FS | 15 ft. by 15 ft. |
 | Reach | 10 ft. |
-| SQ | construct, darkvision 60 ft., *dimension door,* engulf, fast healing 5, garbage growth, sharp implements |
+| SQ | construct, darkvision 60 ft., *dimension door*, engulf, fast healing 5, garbage growth, sharp implements |
 | AL | none |
 | Fort | +4 |
 | Ref | +3 |

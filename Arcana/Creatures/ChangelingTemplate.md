@@ -20,7 +20,7 @@ except for qualities tied to its type. In addition to gaining the fey
 type, a changeling has the following special qualities.
 
 *Spell-like Abilities:* 1/day—*charm person,
-object reading; *3/day—*detect magical
+object reading*; 3/day—*detect magical
 aura*. The changeling’s manifester level is equal to his or
 her character level.
 

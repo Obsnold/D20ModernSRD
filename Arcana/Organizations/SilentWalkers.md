@@ -39,7 +39,7 @@ up worldly goods and cares to devote themselves to the perfection of
 mind, body, and spirit. Members may not requisition *any* equipment, but
 the organization does provide all necessities for its members.
 
-**Nakamura Blades**
+## Nakamura Blades
 
 Hundreds of years ago, Nakamura Tenji, a swordsmith of legendary talent,
 petitioned to join the Silent Walkers. In return for his admittance, he
@@ -55,7 +55,7 @@ speak telepathically with their wielders, and will often offer advice
 and suggestions. They do not, however, have the ability to control their
 wielder’s actions.
 
-To determine the personality of a particular *Nakamura blade,* roll on
+To determine the personality of a particular *Nakamura blade*, roll on
 the following chart.
 
 | d20 | Personality |
@@ -71,14 +71,14 @@ the following chart.
 
 Some *Nakamura blades* are more deadly than others, but all give immense
 power to the people who wield them. To determine the abilities of a
-particular *Nakamura blade,* roll once on each of the following charts.
+particular *Nakamura blade*, roll once on each of the following charts.
 
 | d6 | Enhancement Bonus |
 |---|---|
 | 1–3 | +1 |
 | 4–5 | +2 |
 | 6 | +3 |
-| **d%** |** Special Ability** |
+| **d%** | **Special Ability** |
 | 01–05 | Item can Sense Motive (10 ranks) |
 | 06–10 | Wielder has free use of Combat Reflexes |
 | 11–15 | Wielder has free use of Blind-Fight |
@@ -105,7 +105,7 @@ particular *Nakamura blade,* roll once on each of the following charts.
 *Type:* Weapon (magic); *Caster Level:* 10th; *Purchase DC:* 45\*;
 *Weight:* 6 lb.
 
-\**Nakamura blades *are both highly collectable works of art and much
+\**Nakamura blades* are both highly collectable works of art and much
 sought after magic weapons. The Silent Walkers have retained control of
 all but a dozen of them. From time to time, one appears on an auction
 block, but the organization usually steals it before it can be

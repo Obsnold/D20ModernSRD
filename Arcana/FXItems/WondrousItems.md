@@ -5,7 +5,7 @@ including jewelry, tools, books, apparel, and gadgets.
 
 Sample wondrous items include the following:
 
-**Air Duct Infiltration Suit**
+## Air Duct Infiltration Suit
 
 This is a pale blue pair of coveralls, like the kind worn by many
 janitors, that are favored by corporate spies. Four times per day, the
@@ -15,12 +15,12 @@ to travel through a building’s air ducts.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 32;
 *Weight:* 2 lb.
 
-**Animated Tools**
+## Animated Tools
 
 Two different sets of animated tools exist: the “mechanoset” is designed
 for mechanical devices, while the “electroset” is intended for
-electrical devices. When used like ordinary tools, *animated tools
-*operate as a deluxe tool kit of the appropriate type (+2 equipment
+electrical devices. When used like ordinary tools, *animated tools*
+operate as a deluxe tool kit of the appropriate type (+2 equipment
 bonus on Repair checks), although they have the same size and weight as
 a basic kit.
 
@@ -28,14 +28,14 @@ On command, the tool animate and begin repairing a single damaged item
 of the appropriate type. The *animated tools* must be placed within 5
 feet of the item to be repaired, and the user must remain within 30 feet
 for the duration of the repairs. When used in this manner, the *animated
-tools *act as though they have 10 ranks in the Repair skill (Repair
+tools* act as though they have 10 ranks in the Repair skill (Repair
 +10). The *animated tools* have a hardness of 10 and 10 hit points
 (total). They cannot be commanded to attack.
 
 *Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:* 34;
 *Weight:* 12 lb. (electronic) or 22 lb.(mechanical).
 
-**ARCANOBOTS Action Figure**
+## ARCANOBOTS Action Figure
 
 ARCANOBOTS action figures are durable, articulated, collectible robots
 powered by magic (though to most of the world, this is just marketing
@@ -66,10 +66,10 @@ Reach 0 ft.; SQ darkvision 60 ft., construct immunities; AL creator or
 owner; SV Fort +0, Ref +3, Will –5; AP 0; Rep +0; Str 3, Dex 16, Con —,
 Int —, Wis 1, Cha 1.
 
-*Type:*Wondrous Item (magic);* Caster Level: *10th;* Purchase DC: *5
+*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 5
 (does not include magic batteries); *Weight:* 1 lb.
 
-**Backpack of Holding**
+## Backpack of Holding
 
 This appears to be a common daypack, typically used by students and
 hikers. The *backpack of holding* opens into a nondimensional space: Its
@@ -95,10 +95,10 @@ suffocate. Retrieving a specific item from a *backpack of holding* is a
 move action unless the bag contains more than an ordinary backpack would
 hold, in which case retrieving a specific item is a full-round action.
 
-*Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:
-*Varies;* Weight: *Varies.
+*Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:*
+Varies; *Weight:* Varies.
 
-**Bad Hair Day Clip**
+## Bad Hair Day Clip
 
 At first this seems like a cheap, plastic hair clip of the kind found in
 most convenience stores, but closer inspection reveals a tiny rune
@@ -106,16 +106,16 @@ carved into the grip. This cursed item contains a version of the
 *afflict* incantation seed that causes the person wearing it to suffer a
 –4 morale penalty on all saving throws, Charisma checks, and
 Charisma-based skill checks. Removing the hair clip requires a *remove
-curse *or* break enchantment *spell.
+curse* or *break enchantment* spell.
 
-*Type:* Wondrous Item (magic); *Caster Level:* 11th\*;* Purchase DC: *39
+*Type:* Wondrous Item (magic); *Caster Level:* 11th\*; *Purchase DC:* 39
 (often sold as a mundane hair clip, purchase DC 1); *Weight:* —.
 
-**Camera of Soul Stealing**
+## Camera of Soul Stealing
 
 This bulky, old-fashioned instant camera steals the life force of anyone
 caught in its field of view. Once per day, the user of the *camera of
-soul stealing *can take a picture (the camera does not need to be loaded
+soul stealing* can take a picture (the camera does not need to be loaded
 with film). Anyone within a 30-foot cone must succeed at a Will save (DC
 20) or gain 1d4 negative levels. If a creature successfully makes the
 Will save, it is permanently immune to the effects of that *camera of
@@ -126,10 +126,10 @@ and they possess a horrific, mind-bending quality such that people look
 gaunt and haunted, objects are twisted in a sinister way, and shadows
 seem darker and menacing.
 
-*Type:*Wondrous Item (magic);* Caster Level: *10th;* Purchase DC: *37;
+*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* 5 lb.
 
-**Demonic Biker’s Jacket**
+## Demonic Biker’s Jacket
 
 This worn and faded leather jacket is covered with spikes, rivets, and
 metal chains. A large skull shrouded in flame adorns the back. The
@@ -144,7 +144,7 @@ unarmed strike.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 35;
 *Weight:* 4 lb.
 
-**Driving Ace Gloves**
+## Driving Ace Gloves
 
 These snug, leather racing gloves provide a +5 equipment bonus on all
 Drive checks while operating a land vehicle (no benefit for boats,
@@ -154,7 +154,7 @@ effective.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 33;
 *Weight:* —.
 
-**Eagle Eye Sunglasses**
+## Eagle Eye Sunglasses
 
 These stylish sunglasses grant superior vision as well as protecting the
 wearer’s eyes from bright lights and UV rays. The sunglasses grant a +5
@@ -163,7 +163,7 @@ equipment bonus on Spot checks made in brightly lit locations.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* —.
 
-**Eldritch Cell Phone**
+## Eldritch Cell Phone
 
 This cell phone has an unusually long and odd-shaped antenna but is
 otherwise nondescript. It has the ability to connect to any other phone
@@ -182,7 +182,7 @@ be traced by mundane technology.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 32;
 *Weight:* —.
 
-**Fabric of Style**
+## Fabric of Style
 
 This bolt of fine, silky fabric is wrapped around a person’s body. On
 command, *fabric of style* turns into a any sort of outfit of excellent
@@ -196,10 +196,10 @@ removed, the *fabric of style* turns back into the bolt of cloth.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 36;
 *Weight:* 3 lb.
 
-**Fuel Tablets**
+## Fuel Tablets
 
-These amber-colored tablets come in bottles of ten. Each *fuel tablet
-*transforms into liquid or gaseous fuel (gasoline, diesel, kerosine, jet
+These amber-colored tablets come in bottles of ten. Each *fuel tablet*
+transforms into liquid or gaseous fuel (gasoline, diesel, kerosine, jet
 fuel, or propane) when dropped into the fuel tank of a vehicle or other
 machine. The fuel completely fills the tank, but is otherwise like
 regular fuel and is destroyed once used.
@@ -207,7 +207,7 @@ regular fuel and is destroyed once used.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 29
 (per bottle); *Weight:* —.
 
-**Glasses of Minute Seeing**
+## Glasses of Minute Seeing
 
 These normal looking glasses have specially crafted lenses. When worn,
 they grant the wearer a +5 equipment bonus on Search checks to locate or
@@ -216,7 +216,7 @@ identify features such as tiny seams, marks, cracks, or imperfections.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* —.
 
-**Haz-Mat Gloves**
+## Haz-Mat Gloves
 
 These elbow-length, optic yellow gloves are made of coarse, stiff
 material. The wearer gains acid, cold, and fire resistance 10 so long as
@@ -225,7 +225,7 @@ both gloves are worn.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 35;
 *Weight:* 5 lb.
 
-**Hidden Holster**
+## Hidden Holster
 
 This concealed carry holster can hold any handgun and grants a +5
 circumstance bonus on Sleight of Hand checks to conceal the weapon. The
@@ -234,13 +234,13 @@ bonus applies to physical searches as well as casual inspection.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 33;
 *Weight:* 0.5 lb.
 
-**Instant Ice Box**
+## Instant Ice Box
 
 This item looks like an ordinary 1-foot-wide, 3-foot-long, and
 1.5-foot-deep picnic cooler with a 2-inch-thick plastic cover. The only
 apparent difference are the three buttons on the hasp. When the lid is
-closed and one or more of the buttons are pressed, the *instant ice box
-*will magically cool any materials placed inside for as long as the lid
+closed and one or more of the buttons are pressed, the *instant ice box*
+will magically cool any materials placed inside for as long as the lid
 remains closed. If the lid is opened, the effect ends. The cooler has a
 total of 50 charges that can be spent in three different ways.
 
@@ -262,28 +262,28 @@ cooler.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 33;
 *Weight:* 5 lb.
 
-**Invisifinder Goggles**
+## Invisifinder Goggles
 
 These military-grade night vision goggles are carved with runes and
 other occult symbols. In addition to the benefits of regular
-night-vision goggles, they also allow the wearer to *see invisibility
-*as the spell.
+night-vision goggles, they also allow the wearer to *see invisibility*
+as the spell.
 
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* 3 lb.
 
-**Lucky Deck**
+## Lucky Deck
 
 This ordinary looking deck of playing cards usually features a stylized
-genie or similar image on the backs of its cards, The *lucky deck
-*grants its owner a +5 luck bonus on Gamble checks involving card games
+genie or similar image on the backs of its cards, The *lucky deck*
+grants its owner a +5 luck bonus on Gamble checks involving card games
 (such as poker or single-deck blackjack). To become the owner, a person
 must keep the deck on his or her person for 24 continuous hours.
 
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* —.
 
-**Lucky Dice**
+## Lucky Dice
 
 These ordinary looking, casino-grade dice grant a +5 luck bonus on
 Gamble checks when used for any dice games (such as craps). Because they
@@ -293,7 +293,7 @@ throws to avoid suspicion (requiring a separate Sleight of Hand check).
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* —.
 
-**Lucky Suit**
+## Lucky Suit
 
 A polyester suit consisting of a garish plaid jacket and lime green
 pants, the *lucky suit* protects the wearer from ranged attacks as
@@ -305,10 +305,10 @@ melee attacks. The wearer also gains a +2 luck bonus on Reflex saves.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 38;
 *Weight:* 3 lb.
 
-**Magic Billiard-Ball**
+## Magic Billiard-Ball
 
-Once per day, this otherwise normal looking toy *Magic Billiard-ball
-*can be used to cast* augury *(as by a 5th-level Acolyte). To activate
+Once per day, this otherwise normal looking toy *Magic Billiard-ball*
+can be used to cast *augury* (as by a 5th-level Acolyte). To activate
 this ability, the user must state the question out loud and shake the
 *Magic Billiard-ball*. It provides no answers whatsoever if used more
 than once in a 24-hour period.
@@ -316,7 +316,7 @@ than once in a 24-hour period.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 30;
 *Weight:* —.
 
-**Medicine Bundle**
+## Medicine Bundle
 
 This small leather pouch, filled with herbs and crystals, is adorned
 with small beads and feathers. While worn, it provides a +4 resistance
@@ -328,7 +328,7 @@ bonus.
 *Type:* Wondrous Item (magic); *Caster Level:* 1st; *Purchase DC:* 26;
 *Weight:* —.
 
-**Muse Statuette**
+## Muse Statuette
 
 This six-inch-tall statuette of a beautiful woman animates and provides
 suggestions to the controller on ways to improve whatever art form they
@@ -342,7 +342,7 @@ Craft (visual art) and Craft (writing) checks for the next year. A
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* 2 lb.
 
-**Parka of Warmth**
+## Parka of Warmth
 
 This winter parka grants cold resistance 10 to the wearer. Unless the
 wearer takes actual damage, the *parka of warmth* keeps him at a
@@ -352,7 +352,7 @@ with any other cold resistance the wearer might have.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 33;
 *Weight:* 3 lb.
 
-**Pen of Invisible Ink**
+## Pen of Invisible Ink
 
 This pen looks like an old-fashioned calligraphy stylus, but contains
 its own magical supply of black ink. Any letter printed with this pen
@@ -372,16 +372,16 @@ A *pen of invisible ink* holds enough ink for 50 messages.
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 29;
 *Weight:* —.
 
-**Quick-Draw Holster**
+## Quick-Draw Holster
 
 Any handgun placed in this hip holster fits perfectly. The *quick-draw
-holster *allows its wearer to draw or holster the weapon as a free
+holster* allows its wearer to draw or holster the weapon as a free
 action (as though the wearer had the Quick Draw feat).
 
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* 1 lb.
 
-**Replay Mirror**
+## Replay Mirror
 
 This 3-foot-by-3-foot mirror has an attractive, modern frame. Uttering a
 command word causes the mirror to “record” anything within its field of
@@ -399,7 +399,7 @@ images first.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 35;
 *Weight:* 20 lb.
 
-**Rod of Technology**
+## Rod of Technology
 
 This 18-inch-long metal rod is covered in wires and diodes, and topped
 with a large crystal. Six switches are built into its length. Each
@@ -423,38 +423,38 @@ the rod’s crystal tip, duplicating the effects of a *power device* or
 *Type:* Wondrous Item (magic); *Caster Level:* 1st; *Purchase DC:* 29;
 *Weight:* 6 lb.
 
-**Shadow Detector**
+## Shadow Detector
 
 The *Shadow detector* looks like a normal hand-held metal detector, but
 is inscribed with a variety of occult runes. When waved over a living
 creature within 5 feet, it can determine whether it is a creature of
-Shadow (which includes Shadowkind characters). The *Shadow detector
-*works in the same way as a* detect magical aura, *but only detects
+Shadow (which includes Shadowkind characters). The *Shadow detector*
+works in the same way as a *detect magical aura*, but only detects
 creatures of Shadow.
 
 *Type:* Wondrous Item (magic); *Caster Level:* 3rd; *Purchase DC:* 31;
 *Weight:* 2 lb.
 
-**Spectacles of Speed Reading**
+## Spectacles of Speed Reading
 
 These octagonal-framed spectacles resemble ordinary reading glasses, but
-they have been enchanted with a version of the *bibliolalia
-*incantation. While wearing these glasses, a character increases her
+they have been enchanted with a version of the *bibliolalia*
+incantation. While wearing these glasses, a character increases her
 reading speed to 10 pages per minute (or reduces required reading time
 to 20% of the listed time) and, for the 30 minutes following the
 completion of a book, has perfect recall of everything she read. After
 that, she must make a Research check (DC = one-fifth of the book’s page
 count) to remember more than general information.
 
-*Type:* Wondrous Item (magic); *Caster Level:* 11th\*;* Purchase DC:
-*39;* Weight: *—.
+*Type:* Wondrous Item (magic); *Caster Level:* 11th\*; *Purchase DC:*
+39; *Weight:* —.
 
-**Stamps of Delivery**
+## Stamps of Delivery
 
 Normally found in books of six, *stamps of delivery* are large, ornate
 postage stamps bearing the image of the Greek god Hermes. A letter or
-package weighing no more than 5 pounds that bears a *stamp of delivery
-*will instantly transport to the address listed on the label (arriving
+package weighing no more than 5 pounds that bears a *stamp of delivery*
+will instantly transport to the address listed on the label (arriving
 at the appropriate mail slot, box, or in front of the main door if there
 isn’t one). The *stamp of delivery* can be placed on any object (within
 the target weight), as long as it has the target address is labeled
@@ -470,7 +470,7 @@ useless.
 *Type:* Wondrous Item (magic); *Caster Level:* 7th; *Purchase DC:* 32
 (per book); *Weight:* —.
 
-**Tempus Fugit Watch**
+## Tempus Fugit Watch
 
 The *tempus fugit watch* is an antique gold pocket watch with numerous
 hands that do not seem to conform to the standard array of hours,
@@ -497,10 +497,10 @@ lasts.
 There is a 1% chance per use that the watch ceases to function after its
 last use. Once it ceases to function, the watch cannot be repaired.
 
-*Type:*Wondrous Item (magic);* Caster Level: *10th;* Purchase DC: *37;
+*Type:*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* —.
 
-**Token of Friendship**
+## Token of Friendship
 
 *Tokens of friendship* are tiny silver charms in various shapes strung
 on silver necklaces or bracelets. Groups of up to 10 charms (all of the
@@ -510,10 +510,10 @@ can, as a move equivalent action, determine the exact location of any
 other single person wearing another of the matched charms. As per the
 incantation, the charms provide only GPS coordinates.
 
-*Type:*Wondrous Item (magic);* Caster Level: *13th;* Purchase DC: *41;
+*Type:*Wondrous Item (magic); *Caster Level:* 13th; *Purchase DC:* 41;
 *Weight:* —.
 
-**Translator’s Earpiece**
+## Translator’s Earpiece
 
 This tiny molded earpiece (which requires a succcessful Spot check, DC
 20, to notice) lets the wearer speak and understand the language of any
@@ -524,15 +524,15 @@ wearer to understand or transcribe written foreign languages.
 *Type:* Wondrous Item (magic); *Caster Level:* 5th; *Purchase DC:* 33;
 *Weight:* —.
 
-**Trench Coat of Useful Items**
+## Trench Coat of Useful Items
 
 This appears to be an unremarkable black trench coat, but a character
 who dons it notes that it is adorned with small cloth patches in various
 shapes. Only the wearer of trench coat can see these patches, recognize
 them for what items they become, and detach them. One patch can be
 detached each round. Detaching a patch causes it to become an actual
-item, as indicated below. A newly created *trench coat of useful items
-*always has two each of the following patches:
+item, as indicated below. A newly created *trench coat of useful items*
+always has two each of the following patches:
 
 • Flashlight, standard
 
@@ -568,7 +568,7 @@ rolling on the table below.
 *Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:* 35;
 *Weight:* 1 lb.
 
-**Umbrella of Feather Falling**
+## Umbrella of Feather Falling
 
 If this umbrella is open, the user can jump from any height and drift to
 the ground as though affected by a *feather fall* spell. The umbrella
@@ -580,7 +580,7 @@ in time, and the user takes the full damage from the fall.
 *Type:* Wondrous Item (magic); *Caster Level:* 1st; *Purchase DC:* 30;
 *Weight:* 2 lb.
 
-**Universal ID**
+## Universal ID
 
 This blank piece of plastic is the size of a credit card and can
 transform into any form of ID on command, including photo, holographic
@@ -591,7 +591,7 @@ must be held by the user for the image to be changed.
 *Type:* Wondrous Item (magic); *Caster Level:* 1st; *Purchase DC:* 29;
 *Weight:* —.
 
-**Video Camera of True Seeing**
+## Video Camera of True Seeing
 
 This video camera is covered in runes and sigils. In addition to
 operating like a normal video camera, it is also capable of videotaping
@@ -602,7 +602,7 @@ creatures with perfect clarity.
 *Type:* Wondrous Item (magic); *Caster Level:* 9th; *Purchase DC:* 37;
 *Weight:* 2 lb.
 
-**Watch of Speed**
+## Watch of Speed
 
 This modern looking wristwatch improves the wearer’s concept of time,
 granting a +2 equipment bonus on initiative checks. This bonus stacks

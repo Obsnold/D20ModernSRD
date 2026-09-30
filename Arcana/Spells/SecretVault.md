@@ -17,7 +17,7 @@ You hide a briefcase, backpack, dufflebag, or similar item in an
 extradimensional space for up to 60 days and can retrieve it at will.
 The item used as a *secret vault* can contain up to 1 cubic foot of
 material per caster level (regardless of the item’s actual size). If you
-put anything living inside the *secret vault,* the spell fails. Once you
+put anything living inside the *secret vault*, the spell fails. Once you
 cast the spell, the item and its contents disappear. You can retrieve it
 anytime thereafter by concentrating (an attack or move action), and it
 appears next to you.

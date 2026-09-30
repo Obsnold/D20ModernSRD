@@ -1,7 +1,5 @@
 # SCIENTIFIC ENGINEERING
 
-## Scientific Engineering
-
 - [Genetic Manipulation](GeneticManipulation.md)
 - [Performing Experiments](PerformingExperiments.md)
 - [Designer Diseases](DesignerDiseases.md)

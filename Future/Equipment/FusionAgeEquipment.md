@@ -2,7 +2,7 @@
 
 The following equipment is available at PL 6 and later.
 
-**Aquaconverter**
+## Aquaconverter
 
 Also known as “mechanical gills,” the aquaconverter is a simple device
 that takes in water, separates its molecules into hydrogen and oxygen
@@ -11,7 +11,7 @@ into power-generating mechanisms. Worn as a backpack with a breather
 tube placed in the mouth, the aquaconverter is a limitless and
 self-powering way to breathe safely underwater.
 
-**Chemical, Antitox**
+## Chemical, Antitox
 
 A chemical found in many first aid kits, antitox is a special hypodermic
 injection that can be used to save the life of any character infected
@@ -23,7 +23,7 @@ antidote from stored chemical compounds. Once the antitox delivers its
 specially formulated chemicals, the target character is completely cured
 of the poison and its effects in 1d6 rounds.
 
-**Chemical, Boost**
+## Chemical, Boost
 
 A drug that is both beneficial and highly dangerous, boost functions as
 a temporary adrenaline-enhancer. Boost was originally conceived for
@@ -51,7 +51,7 @@ boost while still under the effect of the penalties, the character
 suffers a –4 penalty to Dexterity and –2 on Fortitude saves, and the
 recovery time increases to 48 hours.
 
-**Chemical, Neutrad**
+## Chemical, Neutrad
 
 A chemical found in many first aid kits, neutrad is a special hypodermic
 injection that can be used to neutralize the effects of radiation
@@ -64,7 +64,7 @@ delivers its specially formulated chemicals, the target character is
 completely cured of the radiation poisoning and its effects in 1d4
 hours.
 
-**Chemical, Solvaway**
+## Chemical, Solvaway
 
 Solvaway is a special spray-on chemical designed to break through the
 restricting compound fired by tangler guns and tangler grenades. A
@@ -72,7 +72,7 @@ single application of solvaway completely dissolves any hardened
 compound and frees the character as though the compound had dissolved on
 its own.
 
-**Chemical, Sporekill**
+## Chemical, Sporekill
 
 A chemical found in many first aid kits, sporekill is a special
 hypodermic injection that can be used to neutralize the effects of most
@@ -86,7 +86,7 @@ of the disease and its effects in 1d10 hours. Some genetically
 engineered diseases are created to circumvent sporekill chemical, and
 are unaffected by this piece of gear.
 
-**Computer, Card**
+## Computer, Card
 
 As has been the case since the invention of the computer, the
 miniaturization of technology is most often seen in the area of computer
@@ -95,7 +95,7 @@ bigger than most credit cards or hackcards. The card computer may be
 hooked into any computer interface or display (including paint-on LCDs)
 and functions exactly like a personal computer.
 
-**Disguise Kit, Morphic**
+## Disguise Kit, Morphic
 
 Most people forced to work undercover for extended periods rely on the
 morphic disguise kit. The kit features a pair of contact lenses that
@@ -105,7 +105,7 @@ encoder (vocoder) that is attached to the throat to alter the user’s
 voice. Each component can be altered on command. The morphic disguise
 kit grants a +6 equipment bonus on all Disguise checks while in use.
 
-**Display Contacts**
+## Display Contacts
 
 Like the previous era’s display glasses, display contacts are part of
 the further miniaturization of computers. These contact lenses fit
@@ -116,13 +116,13 @@ is linked to, and is also frequently implemented into the heads-up
 display device (using the multiple use item gadget) to provide real-time
 data on objects and people in the character’s field of vision.
 
-**Medkit, Advanced**
+## Medkit, Advanced
 
 The advanced medkit functions as a combined first aid kit, medical kit,
 and surgery kit. It also grants its user a +2 equipment bonus on all
 Treat Injury checks.
 
-**Medkit, Fast-Use**
+## Medkit, Fast-Use
 
 The fast-use medkit functions as both a first aid kit and a medical kit.
 In addition, specialized computers and sensors prepare exactly what is
@@ -133,7 +133,7 @@ move action.
 
 The fast-use medkit cannot be used as a surgery kit.
 
-**Flash-Seal**
+## Flash-Seal
 
 Flash-seal looks like a block of metal roughly the size of a thin brick.
 It attaches to any door frame. When activated, chemical compounds inside
@@ -145,7 +145,7 @@ solidifies again, essentially welding the door shut. A door that has
 been flash-sealed may not be opened by normal means and must be
 destroyed or cut through as though it were a wall.
 
-**Fusion Torch**
+## Fusion Torch
 
 The fusion torch is the Fusion Age’s equivalent of a blowtorch. The
 fusion torch produces a small, thin gout of flame that burns with such
@@ -158,7 +158,7 @@ whatever he is slicing through. If used as an improvised weapon, the
 fusion torch deals only 1d10 points of damage since it is being wielded
 in a more haphazard fashion.
 
-**Intellipicks**
+## Intellipicks
 
 Though not technically an actual set of lockpicks, intellipicks are a
 cluster of several tiny machines (though not quite small enough to be
@@ -172,14 +172,14 @@ could. Intellipicks have an effective Disable Device modifier of +20
 cannot open electronic or computerized locks, though they can open
 magnetic locks by generating a magnetic field of opposite polarity.
 
-**Jetpack**
+## Jetpack
 
 A jetpack consists of a backpack and fuel cells capable of producing
 powered flight for up to 2 hours. A character equipped with a jetpack
 can fly at a speed of 60 feet (good maneuverability). Replacement fuel
 cells have a purchase DC of 10.
 
-**Neural Scrambler**
+## Neural Scrambler
 
 The neural scrambler is a restraint device used by many law enforcement
 agencies in the place of physical restraints such as handcuffs. The
@@ -190,7 +190,7 @@ normal speed under the command of another individual. When the neural
 scrambler is removed, the character has no knowledge of events that took
 place while she was restrained.
 
-**Plastic Surgery Kit, Personal**
+## Plastic Surgery Kit, Personal
 
 The personal plastic surgery kit is fashionable with society’s elite—and
 its criminal underworld. Consisting of a mask that fits neatly over any
@@ -204,7 +204,7 @@ and then proceeds to alter his face according to the specifications, and
 can even go so far as to permanently alter eye and hair color. Using the
 kit takes one hour, during which the character is unconscious.
 
-**Sensor, Chemicomp**
+## Sensor, Chemicomp
 
 The chemicomp sensor computer is a handheld computer or computerized
 gauntlet designed to find individual chemical compounds. Chemicomps can
@@ -213,14 +213,14 @@ checks when attempting to find
 
 chemical compounds.
 
-**Sensor, Geocomp**
+## Sensor, Geocomp
 
 The geocomp sensor computer is a handheld computer or computerized
 gauntlet designed to find individual minerals. Geocomps can locate a
 specific mineral, providing a +10 equipment bonus on Search checks when
 attempting to find minerals.
 
-**Sensor, Motion**
+## Sensor, Motion
 
 The motion sensor is capable of not only detecting motion but also of
 plotting it on a display screen in relation to other objects. The motion
@@ -228,7 +228,7 @@ sensor plots motion relative to its own position, but can sense motion
 through walls and solid surfaces, indicating the location of any moving
 object within 100 feet.
 
-**Universal Communicator (Unicom)**
+## Universal Communicator (Unicom)
 
 The unicom is an all-in-one piece of equipment that handles the
 communication needs of a single person. Each unicom has its own
@@ -239,7 +239,7 @@ as well as audio and visual communications. In later eras, the unicom
 also frequently incorporates the hologram recorder and projector devices
 (via the multiple use item gadget).
 
-**Violet Rations**
+## Violet Rations
 
 The standard rations of Fusion Age militaries, violet rations are entire
 meals that come in pill form. The pill is placed under the tongue and

@@ -49,7 +49,7 @@ having requisition requests passed their way. On the other hand, if they
 are hired by the gnomes, they S.J.G. will supply all necessary equipment
 for achieving the mission’s goals.
 
-**The Workshop**
+## The Workshop
 
 Although the gnomes of the Swiss Juncture now make their living as
 consultants, their first love will always be tinkering and invention.

@@ -7,13 +7,13 @@ artifacts, for they are items whose power has grown through time. They
 are true objects of legend and, in many cases, instigators or catalysts
 of world change.
 
-Activating an Artifact
+## Activating an Artifact
 
 Unless otherwise noted, activating an artifact takes an attack action
 and does not provoke attacks of opportunity. Artifacts are activated by
 command word or use-activated.
 
-Destroying an Artifact
+## Destroying an Artifact
 
 Artifacts are unnaturally resilient and can only be destroyed by
 extraordinary means. The secret to destroying an artifact is often as
@@ -27,8 +27,8 @@ To illustrate the difficulty of destroying an artifact, several means of
 destruction are presented below (and the GM is encouraged to devise
 other means).
 
-• Locate and retrieve an ancient Babylonian scroll with a *transform
-*seed incantation, which will turn the artifact into something that can
+• Locate and retrieve an ancient Babylonian scroll with a *transform*
+seed incantation, which will turn the artifact into something that can
 be destroyed by conventional means.
 
 • Use a *subjugate outsider* incantation to summon a powerful demon,
@@ -49,7 +49,7 @@ artifact, which will be consumed in the fires of its stomach.
 then use a wish to command the efreeti to smash the artifact with its
 great iron falchion.
 
-Artifact Purchase DCs
+## Artifact Purchase DCs
 
 Artifacts cannot generally be purchased on the open market, although a
 careless vendors might sell one inadvertantly (by failing to realize its
@@ -69,11 +69,11 @@ below:
 | Each effect with a limited number of uses per day, or each +2 enhancement bonus | +7 |
 | Each effect with a limited number of charges, or each +1 enhancement bonus | +5 |
 
-Sample Artifacts
+## Sample Artifacts
 
 Examples of artifacts include the following.
 
-**Caesar’s Shield**
+## Caesar’s Shield
 
 This is the shield that Julius Caesar carried with him from Britain to
 Egypt and back to Rome. The shield is said to have disappeared at
@@ -88,10 +88,10 @@ in its use. It also grants whatever weapon its bearer uses a +3
 enhancement bonus. The bearer has damage reduction 10/+1 while grasping
 *Caesar’s shield* as well.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 70; *Weight:
-*15 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 70; *Weight:*
+15 lb.
 
-**Crescent of the Moon**
+## Crescent of the Moon
 
 Legend says that the stone blade of this ancient scythe is carved from
 rock that came from the moon. Given the age of the specimen, this seems
@@ -138,10 +138,10 @@ somebody else’s action.
 *Waning:* During the period of time between full and new moon, the
 *crescent* grants its wielder the scent special quality.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 68; *Weight:
-*12 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 68; *Weight:*
+12 lb.
 
-**Cup of Curing**
+## Cup of Curing
 
 The origins of this gold chalice, crafted in intricate baroque patters
 and encrusted with dozens of jewels, are as mysterious as its powers. At
@@ -178,10 +178,10 @@ drinking four times in a sitting.
 Drinking from the cup is a move action that provokes attacks of
 opportunity.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 51; *Weight:
-*3 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 51; *Weight:*
+3 lb.
 
-**Dagger of Eternal Unrest**
+## Dagger of Eternal Unrest
 
 The curved, black blade of this dagger leads into a hilt inlaid with
 human bones ending in a large black onyx gem. It is a relic formerly
@@ -194,10 +194,10 @@ grace, the wielder may choose to have the blade cast *animate dead* on
 the victim. This creates a zombie under the control of the dagger’s
 wielder. If the dagger changes hands, so too does the zombie’s loyalty.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 47; *Weight:
-*1 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 47; *Weight:*
+1 lb.
 
-**Houdini’s Watch Fob**
+## Houdini’s Watch Fob
 
 This short length of gold chain with a belt clip on one end and a wooden
 fetish at the other once belonged to the famed stage magician Harry
@@ -218,10 +218,10 @@ a +6 luck bonus on Balance, Bluff, Climb, Disguise, Escape Artist, Move
 Silently, and Tumble checks. Furthermore, the fob grants the wearer the
 Improved Initiative feat.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 50; *Weight:
-*—.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 50; *Weight:*
+—.
 
-**Index of Alexandria**
+## Index of Alexandria
 
 There are four copies of this large, leather-bound, illuminated tome
 believed to exist (although rumors perpetually circulate about more).
@@ -248,10 +248,10 @@ philosophy. (It is up to the GM to decide whether or not a specific
 subject falls into one or more of these categories.) This requires 2d6
 hours and a successful Research check (DC 25).
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 60; *Weight:
-*30 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 60; *Weight:*
+30 lb.
 
-**Sphere of Annihilation**
+## Sphere of Annihilation
 
 A *sphere of annihilation* is a globe of absolute blackness, a ball of
 nothingness 2 feet in diameter. The sphere is actually a hole in the
@@ -295,10 +295,10 @@ points of damage. *Dispel magic* has no effect on the sphere, although a
 sphere as a spell effect created by a 20th-level spellcaster for this
 purpose).
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 40; *Weight:
-*—.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 40; *Weight:*
+—.
 
-**Staff of Sorcerous Might**
+## Staff of Sorcerous Might
 
 A long wooden staff, shod in iron and inscribed with sigils and runes of
 all types, this potent artifact had been sitting in a display case in
@@ -314,46 +314,32 @@ most powerful items that any spellcaster could possess.
 
 The *staff of sorcerous might* gives the wielder spell resistance 23. It
 has several other spell powers, as well. Some the staff’s powers drain
-charges, while others don’t. A fully-charged *staff of sorcerous might
-*has 50 charges. The following powers do not drain charges:
+charges, while others don’t. A fully-charged *staff of sorcerous might*
+has 50 charges. The following powers do not drain charges:
 
-*Detect magical aura*
-
-*Mage armor*
-
-*Hold portal*
-
-*Mage hand*
-
-*Light*
+- *Detect magical aura*
+- *Mage armor*
+- *Hold portal*
+- *Mage hand*
+- *Light*
 
 The following powers drain 1 charge per usage:
 
-*Dimension door*
-
-*Dispel magic*
-
-*Electromagnetic pulse* (Will save DC 15)
-
-*Fireball* (10d6 points of damage, Reflex save DC 15)
-
-*Ice storm*
-
-*Invisibility*
-
-*Knock*
-
-*Lightning bolt* (10d6 points of damage, Reflex save DC 15)
-
-*Summon vivilor IV*
+- *Dimension door*
+- *Dispel magic*
+- *Electromagnetic pulse* (Will save DC 15)
+- *Fireball* (10d6 points of damage, Reflex save DC 15)
+- *Ice storm*
+- *Invisibility*
+- *Knock*
+- *Lightning bolt* (10d6 points of damage, Reflex save DC 15)
+- *Summon vivilor IV*
 
 These powers drain 2 charges per usage:
 
-*Cone of cold* (10d6 points of cold damage, Reflex save DC 17)
-
-*Passwall*
-
-*Telekinesis* (400 pounds maximum additional weight)
+- *Cone of cold* (10d6 points of cold damage, Reflex save DC 17)
+- *Passwall*
+- *Telekinesis* (400 pounds maximum additional weight)
 
 A *staff of sorcerous might* has the following additional spell-like
 abilities:
@@ -387,10 +373,10 @@ Only the *staff of sorcerous might* is capable of a retributive
 strike—this is not an act that can be performed with any other staff,
 wand, or magic item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 95; *Weight:
-*5 lb.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 95; *Weight:*
+5 lb.
 
-**Talisman of Pure Good**
+## Talisman of Pure Good
 
 A divine spellcaster with an allegiance to good who possesses this item
 can cause a flaming crack to open at the feet of a divine spellcaster
@@ -411,10 +397,10 @@ touches one, he takes 8d6 points of damage.
 
 All other characters are unaffected by this item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:
-*—.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:*
+—.
 
-**Talisman of Ultimate Evil**
+## Talisman of Ultimate Evil
 
 A divine spellcaster with an allegiance to evil who possesses this item
 can cause a flaming crack to open at the feet of a divine spellcaster
@@ -433,5 +419,5 @@ without an allegiance to evil touches one of these medallions, he takes
 touches one, he takes 8d6 points of damage. All other characters are
 unaffected by this item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:
-*—.
+*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:*
+—.

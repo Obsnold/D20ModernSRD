@@ -49,7 +49,7 @@ hero down, but neither will they lift a finger to save the hero (or any
 of the hero’s allies) should they get in the way of Fellowship
 operations.
 
-**Sigil of the Fellowship**
+## Sigil of the Fellowship
 
 Members of the Fellowship each carry a thin ceramic disk in the shape of
 the group’s insignia. Some wear the disk as a pendant, others carry it
@@ -71,5 +71,5 @@ person who broke the sigil.
 • *Recharge* without the need for an electrical outlet on which to
 focus.
 
-*Type:* Scroll (magic); *Caster Level:* 3rd; *Purchase DC:* 20; *Weight:
-*—.
+*Type:* Scroll (magic); *Caster Level:* 3rd; *Purchase DC:* 20; *Weight:*
+—.

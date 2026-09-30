@@ -3,7 +3,7 @@
 The following gadgets are universal and can apply to armors found in any
 era, provided all gadget-specific restrictions are observed.
 
-Environment Seal
+## Environment Seal
 
 Since many armors are designed with a particular environment in
 
@@ -31,7 +31,7 @@ internal atmosphere.
 
 **Purchase DC Modifier:** +4.
 
-Integrated Equipment
+## Integrated Equipment
 
 A particular piece of nonweapon equipment has been integrated into the
 armor and can be used by the armor’s wearer at any time. This gadget is
@@ -54,7 +54,7 @@ gadget modification is made.
 
 **Purchase DC Modifier:** +2.
 
-Integrated Weapon
+## Integrated Weapon
 
 Some armors are designed with specific combat purposes in mind and build
 in certain weapons as standard equipment. Examples run from a pair of
@@ -75,7 +75,7 @@ modification is made.
 
 **Purchase DC Modifier:** See text.
 
-Storage Compartment
+## Storage Compartment
 
 A simple but often overlooked modification that can be of great benefit
 in almost any situation is the ability to store and carry small items in
@@ -90,7 +90,7 @@ providing another compartment where small items may be carried.
 
 **Purchase DC Modifier:** +1.
 
-Techno-Organic Makeup
+## Techno-Organic Makeup
 
 Though the technology of Earth is based on electronics and mechanics,
 some alien cultures may have developed technology based on living
@@ -111,7 +111,7 @@ material.
 
 **Purchase DC Modifier:** +4.
 
-Ultralight Composition
+## Ultralight Composition
 
 The development of new and experimental alloys constantly allows armor
 technology to advance to the point where once bulky and heavy armors

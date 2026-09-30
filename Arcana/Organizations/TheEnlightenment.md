@@ -34,14 +34,14 @@ members of the organization are supremely rich, anyone doing work for
 the Enlightenment can count on a +7 or better bonus to level checks for
 requisitioning equipment.
 
-**Calling Cards**
+## Calling Cards
 
 Business cards are a part of nearly everyone’s professional life, but
 members of the Enlightenment have cards unlike any others. These cards
 are psychically attuned to the person whose name is printed on the
 front, and allow anyone who holds the card to make a “psychic phone
 call” to that person twice per day. The cards work as the *lesser
-mindlink *psionic power. However, the person whose name appears on the
+mindlink* psionic power. However, the person whose name appears on the
 card has the option of refusing to acknowledge any attempted
 communication.
 

@@ -13,8 +13,6 @@ in other respects.
 Progress Level may vary wildly from place to place on the same world or
 even the same continent.
 
-## Progress Levels
-
 - [PL 0: Stone Age](PL0StoneAge.md)
 - [PL 1: Bronze/iron Age](PL1BronzeIronAge.md)
 - [PL 2: Middle Ages](PL2MiddleAges.md)

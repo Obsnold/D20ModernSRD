@@ -42,7 +42,7 @@ them to requisition anything for anyone. However, if the heroes do
 convince them of the necessity of buying particular nonviolent items,
 the Order provides a +3 bonus on related level checks.
 
-**The Black Library**
+## The Black Library
 
 The total knowledge held by the Order of Bartholomew is split up among
 the various monasteries. Visiting one will provide insight into a

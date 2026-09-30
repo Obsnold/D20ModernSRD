@@ -18,29 +18,45 @@ creature type.
 
 The following information pertains to the Ecclesiarch prestige class.
 
-**Hit Die**
+### Hit Die
 
 Ecclesiarches gain 1d8 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 Ecclesiarches gain a number of action points equal to 7 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Ecclesiarch’s class skills are as follows: Concentration (Con),
-Craft (chemical, electronic, visual art, writing) (Int), Decipher Script
-(Int), Diplomacy (Cha), Gather Information (Cha), Investigate (Int),
-Knowledge (arcane lore, art, behavioral sciences, current events,
-history, popular culture, theology and philosophy), Listen (Wis),
-Perform (any), Profession (Wis), Read/Write Language (none), Research
-(Int), Sense Motive (Wis), Speak Language (none), Spellcraft (Int),
-Survival (Wis), Treat Injury (Wis).
+The Ecclesiarch’s class skills are as follows:
+
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (visual art) (Int)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Investigate (Int)
+- Knowledge (arcane lore, art, behavioral sciences, current events, history, popular culture, theology and philosophy)
+- Listen (Wis)
+- Perform (any)
+- Profession (Wis)
+- Read/Write Language (none)
+- Research (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Spellcraft (Int)
+- Survival (Wis)
+- Treat Injury (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Ecclesiarch**
 
@@ -56,12 +72,12 @@ Survival (Wis), Treat Injury (Wis).
 
 The following features pertain to the Ecclesiarch prestige class.
 
-**Total Spellcasting**
+### Total Spellcasting
 
 Count all character levels when determining the Ecclesiarch’s casting
 level for divine spells.
 
-**Increased Spells/Day**
+### Increased Spells/Day
 
 At 2nd level, the Ecclesiarch increases the base number of divine spells
 he may cast per day by one-half (round down). This increase occurs
@@ -70,12 +86,12 @@ the Ecclesiarch again increases the number of divine spells available
 per day, this time to a total of twice what he would normally have. As
 before, this increase happens prior to any modifications or alterations.
 
-**Total Turning**
+### Total Turning
 
 Count all character levels when determining the Ecclesiarch’s level for
 attempts to turn, rebuke, or command creatures.
 
-**Innovative Turning**
+### Innovative Turning
 
 When the Ecclesiarch gains 5th level, and every time he gains a
 character level above this, he may spend an action point to alter the

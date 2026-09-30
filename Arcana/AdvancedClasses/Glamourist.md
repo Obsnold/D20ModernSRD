@@ -15,30 +15,48 @@ following criteria.
 
 The following information pertains to the Glamourist advanced class.
 
-**Hit Die**
+### Hit Die
 
 Glamourists gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 Glamourists gain a number of action points equal to 6 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Glamourist’s class skills are as follows: Bluff (Cha), Concentration
-(Con), Diplomacy (Cha), Decipher Script (Int), Disguise (Cha), Forgery
-(Int), Gamble (Wis), Gather Information (Cha), Intimidate (Cha),
-Knowledge (behavioral sciences, current events, popular culture,
-streetwise) (Int), Listen (Wis), Perform (act, sing) (Cha), Profession
-(Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language
-(none), Spot (Wis).
+The Glamourist’s class skills are as follows:
+
+- Bluff (Cha)
+- Concentration (Con)
+- Diplomacy (Cha)
+- Decipher Script (Int)
+- Disguise (Cha)
+- Forgery (Int)
+- Gamble (Wis)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Listen (Wis)
+- Perform (act) (Cha)
+- Perform (sing) (Cha)
+- Profession (Wis)
+- Read/Write Language (none)
+- Sense Motive (Wis)
+- Speak Language (none)
+- Spot (Wis)
 
 **Skill Points at Each Level:** 5 + Intelligence modifier.
 
-**Table:The Glamourist**
+### Class Table
+
+**Table: The Glamourist**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |---|---|---|---|---|---|---|---|
@@ -57,13 +75,13 @@ streetwise) (Int), Listen (Wis), Perform (act, sing) (Cha), Profession
 
 The following features pertain to the Glamourist advanced class.
 
-**Self-Confidence**
+### Self-Confidence
 
 The Glamourist may treat her Glamourist levels as Charismatic levels for
 any talent where Charismatic levels are used (charm, favor, captivate,
 fast-talk, dazzle, taunt).
 
-**Hidden Motives**
+### Hidden Motives
 
 At 2nd level, the Glamourist increases her ability to hide her motives
 and intentions. She gains a circumstance bonus equal to her Glamourist
@@ -71,16 +89,26 @@ levels when using Bluff against a Sense Motive skill. In addition, the
 DC for Bluff checks against her is increased by her levels of
 Glamourist.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Glamourist gets a bonus feat. The bonus
 feat must be selected from the following list, and the Glamourist must
 meet all of the prerequisites for the feat to select it.
 
-Alertness, Attentive, Builder, Confident, Creative, Deceptive, Improved
-Initiative, Iron Will, Low Profile, Renown, Trustworthy, Windfall.
+- Alertness
+- Attentive
+- Builder
+- Confident
+- Creative
+- Deceptive
+- Improved Initiative
+- Iron Will
+- Low Profile
+- Renown
+- Trustworthy
+- Windfall
 
-**Hidden Allegiance**
+### Hidden Allegiance
 
 At 4th level, the Glamourist gains the supernatural ability to suppress
 her loyalties, even from spells and abilities. In cases where such
@@ -89,20 +117,20 @@ character level of the individual making the attempt) to negate the
 attempt. Negated attempts reveal either no allegiance or a lack of the
 sought-for allegiance, as applicable for the ability or spell.
 
-**Audience**
+### Audience
 
 At 5th level, the Glamourist may extend any Charismatic hero talents to
 a number of targets equal to her total of Charismatic and Glamourist
 levels. Individual targets are otherwise affected as described under the
 Charismatic hero basic class.
 
-**Daze**
+### Daze
 
 At 7th level, the Glamourist gains the spell-like ability to *daze* an
 individual of her choice. This ability may be used once per day, and
 functions identically to the *daze* psionic power.
 
-**Utterly Convincing**
+### Utterly Convincing
 
 At 8th level, the Glamourist is a master at convincing people. Whenever
 the Glamourist spends an action point to improve some Charisma-based
@@ -110,8 +138,8 @@ skill checks (see below), she adds an additional 1d6 to the result. The
 skills that utterly convincing applies to are: Bluff, Diplomacy,
 Disguise, Gather Information, Intimidate, and Perform.
 
-**Charm Person**
+### Charm Person
 
 At 10th level, the Glamourist gains the spell-like ability to *charm
-person *once per day. This ability functions identically to the* charm
-person *psionic ability.
+person* once per day. This ability functions identically to the *charm
+person* psionic ability.

@@ -23,8 +23,8 @@ The trap is a ward similar to a *magic circle* spell, but focused
 inward. The type of creature to be bound must be known and stated. If it
 has a specific, proper, or given name, this must be uttered during the
 incantation. If you wish to call a vivilor with this incantation, you
-can choose its abilities just as if you had cast the *summon vivilor
-*spell.
+can choose its abilities just as if you had cast the *summon vivilor*
+spell.
 
 The target creature must attempt a Will saving throw. If the saving
 throw succeeds, the creature resists the incantation. If the saving

@@ -1,6 +1,6 @@
 # Revenant (TEMPLATE)
 
-A revenant appears much as it did in life. Although the
+## A revenant appears much as it did in life. Although the
 
 decay and stench of a dead body are lacking, its skin has a
 

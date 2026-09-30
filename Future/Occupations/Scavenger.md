@@ -6,14 +6,23 @@ yield one or two objects of special value. They effortlessly navigate
 and strip clean the most treacherous places, and their playgrounds are
 abandoned space stations, gutted buildings, and smoking battlefields.
 
-**Prerequisites:** Age 15+.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 15+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +2 |
 
-**Skills:** Choose three of the following skills as permanent class
-skills. If a skill you select is already a class skill, you gain a +1
-competence bonus on checks using that skill.
+## Skills
 
-Decipher Script (Int), Disable Device (Int), Knowledge (technology)
-(Int), Move Silently (Dex), Repair (Int), Search (Int), Spot (Wis),
-Survival (Wis).
+Choose three of the following skills as permanent class skills. If a
+skill you select is already a class skill, you gain a +1 competence
+bonus on checks using that skill.
 
-**Wealth Bonus Increase:** +2.
+- Decipher Script (Int)
+- Disable Device (Int)
+- Knowledge (technology) (Int)
+- Move Silently (Dex)
+- Repair (Int)
+- Search (Int)
+- Spot (Wis)
+- Survival (Wis)

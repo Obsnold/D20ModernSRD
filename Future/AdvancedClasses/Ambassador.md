@@ -3,7 +3,7 @@
 The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are conceivable.
 
-**Requirements**
+## Requirements
 
 To qualify to become an Ambassador, a character must fulfill the
 following criteria.
@@ -23,29 +23,41 @@ Class Features, below).
 
 The following information pertains to the Ambassador advanced class.
 
-**Hit Die**
+### Hit Die
 
 The Ambassador gains 1d6 hit points per level. The character’s
 Constitution modifier applies.
 
-**Action Points**
+### Action Points
 
 The Ambassador gains a number of action points equal to 6 + one-half her
 character level, rounded down, every time she attains a new level in
 this class.
 
-**Class Skills**
+### Class Skills
 
 The Ambassador’s class skills are as follows.
 
-Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information
-(Cha), Intimidate (Cha), Knowledge (behavioral sciences, civics, current
-events, history, theology and philosophy) (Int), Profession (Wis),
-Read/Write Language (none), Research (Int), Sense Motive (Wis), and
-Speak Language (none).
+- Bluff (Cha)
+- Computer Use (Int)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Research (Int)
+- Sense Motive (Wis)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 5 + Int modifier (4 + Int modifier for
 nonhumans).
+
+### Class Table
 
 **Table: The Ambassador**
 
@@ -66,7 +78,7 @@ nonhumans).
 
 The following class features pertain to the Ambassador advanced class.
 
-**Diplomatic Immunity**
+### Diplomatic Immunity
 
 Starting at 1st level, if the Ambassador is arrested for a crime, she
 can make a Diplomacy check to invoke her diplomatic credentials and not
@@ -94,21 +106,29 @@ likely to be recalled or terminated by those she has sworn to represent.
 | Class 2 | Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances | 30 | Deportation within 2d6 hours |
 | Class 1 | Conspiracy against the government, murder of a public official, sabotage of public utilities | 35 | Detention pending the diplomatic action by character’s affiliated government |
 
-**Open Arms**
+### Open Arms
 
 Beginning at 2nd level, the Ambassador is skilled at initiating peaceful
 negotiations. She may add a competence bonus equal to one-half her
 Ambassador class level on all Diplomacy checks.
 
-**Bonus Feats**
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Ambassador gets a bonus feat. The bonus
 feat must be selected from the following list, and the Ambassador must
-meet all the prerequisites of the feat to select it. Attentive,
-Defensive Martial Arts, Dodge, Educated, Improved Initiative, Low
-Profile, Oathbound, Renown, Trustworthy.
+meet all the prerequisites of the feat to select it.
 
-**Information Access**
+- Attentive
+- Defensive Martial Arts
+- Dodge
+- Educated
+- Improved Initiative
+- Low Profile
+- Oathbound
+- Renown
+- Trustworthy
+
+### Information Access
 
 Starting at 4th level, the Ambassador can make Gather Information checks
 without spending money or making Wealth checks, provided she is dealing
@@ -118,7 +138,7 @@ with individuals or organizations that are hostile requires the
 Ambassador to make Wealth checks as usual when using the Gather
 Information skill.
 
-**Stipend**
+### Stipend
 
 Skilled diplomats are well paid for their loyalty and dedication, and
 
@@ -128,7 +148,7 @@ they are accustomed to traveling in style. At 5th level, and again at
 
 of +4.
 
-**Restricted Access**
+### Restricted Access
 
 At 7th level, the Ambassador gains clearance to access restricted files
 or classified information from any source that recognizes her faction,
@@ -136,7 +156,7 @@ organization, nation, world, or stellar empire. She gains a +5 bonus on
 Computer Use checks made to defeat computer security and a +5 bonus on
 Research checks.
 
-**Select Consuls**
+### Select Consuls
 
 At 10th level, the Ambassador may appoint a number of individuals equal
 to her Reputation bonus as “consuls” or “attachés.” These appointed

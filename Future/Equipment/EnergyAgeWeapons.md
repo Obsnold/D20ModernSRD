@@ -2,20 +2,20 @@
 
 The following weapons are available at PL 8.
 
-**Ammunition, Phasing**
+## Ammunition, Phasing
 
 Phasing bullets contain microscopic computers and teleporters. When a
 phasing bullet encounters an obstacle between it and its target, it
 simply teleports past the obstacle and continues on course. In game
 terms, phasing bullets negate the benefits of cover.
 
-**Beam Sword**
+## Beam Sword
 
 The beam sword is the Energy Age’s most potent melee weapon. A small
 metal handle generates a solid beam of plasma contained by a
 gravity-induced force field
 
-**Cryonic Rifle**
+## Cryonic Rifle
 
 The perfection of cryogenic technology finally reaches its most portable
 form in the Energy Age. A cryonic rifle draws power from a canister of
@@ -29,7 +29,7 @@ stabilizes automatically (in other words, the target does not die).
 Cryonic rifles do not use ammunition, but are instead powered by special
 power packs that allow 10 shots each (purchase DC8).
 
-**Disintegrator**
+## Disintegrator
 
 Resembling a laser rifle, a disintegrator fires a micro-singularity that
 obliterates the target’s molecular structure on impact. Any living
@@ -40,7 +40,7 @@ reduced to 0 hit points by the weapon are likewise disintegrated.
 Disintegrators do not use ammunition, but are instead powered by special
 power packs that allow 10 shots each (purchase DC 8).
 
-**Grenade, Cryonic**
+## Grenade, Cryonic
 
 When a cryonic grenade explodes, it deals 8d6 points of cold damage to
 all creatures in a 10-foot burst radius. A successful Reflex save (DC
@@ -50,7 +50,7 @@ blast deals sufficient damage to reduce a target to –10 or fewer hit
 points, the target instead drops to –9 hit points and stabilizes
 automatically (in other words, the target does not die).
 
-**Grenade, Psionic**
+## Grenade, Psionic
 
 A psionic grenade releases a 10-foot-radius psionic blast that affects
 only creatures with psionic abilities or powers. Any such creature that
@@ -59,7 +59,7 @@ powers for 1d4 rounds. In addition, it must succeed on a Will s ave (DC
 15) o r suffer 1d6 points of temporary I ntelligence, Wisdom, and
 Charisma damage.
 
-**Grenade, Singularity**
+## Grenade, Singularity
 
 A singularity grenade generates a gravity field so powerful that it
 bends space into a miniature black hole. The black hole instantly
@@ -69,7 +69,7 @@ points of damage. A successful Reflex save (DC 15) halves the damage. If
 the damage is enough to reduce a creature to –10 hit points, the grenade
 leaves no trace of the creature behind.
 
-**Lightning Gun**
+## Lightning Gun
 
 A bulky and unwieldy weapon, the lightning gun is usually mounted on a
 tripod. It fires a crackling ray of electricity capable of sweeping
@@ -79,7 +79,7 @@ gain the benefits of the Strafe feat.
 Lightning guns do not use ammunition, but are instead powered by special
 power packs that allow 30 shots each (purchase DC 8).
 
-**Pulse Rifle**
+## Pulse Rifle
 
 The pulse rifle is a fully automatic laser assault rifle capable of
 firing a rapid barrage of laser rounds. The pulse rifle is the standard
@@ -87,7 +87,7 @@ issue weapon given to most heavy assault soldiers in the Energy Age.
 Pulse rifles do not use ammunition, but are instead powered by power
 packs.
 
-**Sonic Beam**
+## Sonic Beam
 
 The sonic blaster fires a pulse of destructive sound at the target,
 dealing 2d6 points of sonic damage. In addition, any creature damaged by

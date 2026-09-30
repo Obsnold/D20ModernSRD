@@ -2,8 +2,6 @@
 
 Mecha technology can be found in societies of PL 6 or higher.
 
-## Mecha
-
 - [Mecha Body Size](MechaBodySize.md)
 - [Large Mecha](LargeMecha.md)
 - [Huge Mecha](HugeMecha.md)

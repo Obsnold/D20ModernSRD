@@ -46,7 +46,7 @@ the attack. If this damage reduces the opponent’s Intelligence score to
 0, all unrestored Intelligence damage dealt to the opponent up until
 that point becomes Intelligence drain instead.
 
-**Psionics (Sp):** At will—*brain lock*,* telekinesis*. Manifester
+**Psionics (Sp):** At will—*brain lock*, *telekinesis*. Manifester
 level 10th; save DC 10 + rogue tulpa’s key ability modifier + power
 level.
 
@@ -81,7 +81,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 | Full Atk | +11 melee (1d6+6, 2 claws) and +6 melee (1d6+3 plus 1d4 Int, bite) |
 | FS | 10 ft. by 10 ft. |
 | Reach | 10 ft. |
-| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
+| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door*, mind feed, *psionics*, regeneration 5, scent |
 | AL | chaos, evil |
 | Fort | +7 |
 | Ref | +6 |
@@ -124,7 +124,7 @@ Speak Navajo, Spot +14.
 | Full Atk | +21 melee (2d4+10, 2 claws) and +6 melee (1d8+5 plus 1d4 Int, bite) |
 | FS | 15 ft. by 15 ft. |
 | Reach | 10 ft. |
-| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door,* mind feed, *psionics,* regeneration 5, scent |
+| SQ | cold resistance 20, damage reduction 10/+1, darkvision 90 ft., *dimension door*, mind feed, *psionics*, regeneration 5, scent |
 | AL | chaos, evil |
 | Fort | +11 |
 | Ref | +8 |

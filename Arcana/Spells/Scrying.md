@@ -17,17 +17,21 @@ subject succeeds at a Will save, the scrying attempt fails. The
 difficulty of the save depends on how well you know the subject and what
 sort of physical connection (if any) you have to that creature.
 Furthermore, if the subject is on another plane or in some other
-dimension (such as the extradimensional space created by a *clown car
-*spell), it gains a +5 circumstance bonus to its Will save.
+dimension (such as the extradimensional space created by a *clown car*
+spell), it gains a +5 circumstance bonus to its Will save.
 
 | Knowledge of Subject | Will Save Modifier |
 |---|---|
-| None* | +10 |
+| None\* | +10 |
 | Secondhand (you have heard of the subject) | +5 |
 | Firsthand (you have met the subject) | +0 |
 | Familiar (you know the subject well) | –5 |
-| **You must have some sort of connection to a creature you have no knowledge of.* | |
+
+\**You must have some sort of connection to a creature you have no
+knowledge of.*
+
 | **Connection** | Will Save Modifier |
+|---|---|
 | Likeness or picture | –2 |
 | Possession or garment | –4 |
 | Body part, lock of hair, nail clippings, etc. | –10 |
@@ -37,8 +41,8 @@ surroundings (approximately 10 feet in all directions of the subject).
 If the subject moves, the sensor follows at a speed of up to 150 feet.
 
 The following spells, if active on the caster during the scrying,
-operate through the sensor: *darkvision, read magic, tongues,* and *true
-seeing. Detect magical aura *has a 5% chance per caster level of
+operate through the sensor: *darkvision, read magic, tongues*, and *true
+seeing. Detect magical aura* has a 5% chance per caster level of
 operating correctly through the sensor.
 
 *Arcane Material Components:* Some droplets of nitric acid in an

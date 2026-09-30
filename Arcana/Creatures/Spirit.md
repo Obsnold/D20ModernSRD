@@ -11,8 +11,8 @@ effects. They are not subject to critical hits, nonlethal damage,
 ability damage, ability drain, energy drain, or effects of massive
 damage, or any effect requiring a Fortitude save unless the effect also
 works on objects or is harmless. They may be healed by application of
-negative energy (such as an *inflict light wounds
-*spell). They are destroyed if reduced to 0 hit points or
+negative energy (such as an *inflict light wounds*
+spell). They are destroyed if reduced to 0 hit points or
 less (but may be rejuvenated, as noted below).
 
 **Incorporeal (Ex):** A spirit can be harmed only by
@@ -77,7 +77,7 @@ normal sight, and spirits can function with no light at all.
 **Skill Bonuses:** Spirits receive a +8 species bonus on
 Hide, Listen, Search, and Spot checks.
 
-**Animating Spirit (Poltergeist)**
+## Animating Spirit (Poltergeist)
 
 An animating spirit can move and throw objects around.
 
@@ -86,8 +86,6 @@ An animating spirit can move and throw objects around.
 10th-level Mage). Creatures subjected to the telekinesis attack are
 entitled to a Will save (DC 15 + spirit’s Intelligence modifier) to
 resist.
-
-## Animating Spirit (Poltergeist)
 
 | Stat | Value |
 |---|---|
@@ -130,7 +128,7 @@ resist.
 
 **Advancement:** 2–3 HD (Medium); 4–7 HD (Large).
 
-**Frightful Spirit (Apparition)**
+## Frightful Spirit (Apparition)
 
 A frightful spirit’s twisted features horrify all who behold it.
 
@@ -141,8 +139,6 @@ suffer 1d4 points of temporary Strength damage, 1d4 points of temporary
 Dexterity damage, and 1d4 points of temporary Constitution damage. A
 creature that successfully saves against this effect cannot be affected
 by the same spirit’s horrific appearance for one day.
-
-## Frightful Spirit (Apparition)
 
 | Stat | Value |
 |---|---|
@@ -184,7 +180,7 @@ by the same spirit’s horrific appearance for one day.
 
 **Advancement:** 3–5 HD (Medium); 6–9 HD (Large).
 
-**Groaning Spirit (Banshee)**
+## Groaning Spirit (Banshee)
 
 A groaning spirit can panic others with its mournful cry.
 
@@ -196,8 +192,6 @@ as fast as possible, cowers if unable to get away, and defends normally
 (but cannot attack). This is a sonic, necromantic, mind-affecting fear
 effect. A creature that successfully saves against the moan cannot be
 affected by the same spirit’s moan for one day.
-
-## Groaning Spirit
 
 | Stat | Value |
 |---|---|
@@ -239,7 +233,7 @@ affected by the same spirit’s moan for one day.
 
 **Advancement:** 4–7 HD (Medium); 8–12 HD (Large).
 
-**Possessing Spirit (Haunt)**
+## Possessing Spirit (Haunt)
 
 A possessing spirit can take command of a living physical
 body.
@@ -275,8 +269,6 @@ possessing spirit can leave its host as a free action, if it so chooses.
 Any attack that deals massive damage on the host’s body allows the host
 another Will save to oust the possessing spirit and regain control of
 its body (whether or not the massive damage Fortitude save succeeds).
-
-## Possessing Spirit
 
 | Stat | Value |
 |---|---|
@@ -318,7 +310,7 @@ its body (whether or not the massive damage Fortitude save succeeds).
 **Advancement:** 6–9 HD (Medium); 10–15 HD
 (Large).
 
-**Weakening Spirit (Fetch)**
+## Weakening Spirit (Fetch)
 
 A weakening spirit draws strength from the bodies of living
 creatures.
@@ -329,8 +321,6 @@ Fortitude save (DC 10 + spirit’s Hit Dice + spirit’s Charisma modifier)
 or suffer 1d4 points of permanent Strength drain. A creature reduced to
 0 Strength by a weakening spirit’s draining touch dies and rises as a
 free-willed weakening spirit 24 hours later.
-
-## Weakening Spirit
 
 | Stat | Value |
 |---|---|

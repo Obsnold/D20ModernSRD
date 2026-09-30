@@ -25,7 +25,7 @@ Progress Level, except in the case of valuable antiques.
 • +5 to Purchase DC for equipment from the next highest Progress Level
 (the limit for purchasing cutting-edge technology).
 
-**Low Progress Levels in the Future**
+### Low Progress Levels in the Future
 
 Most modern campaigns are set at Progress Level 5. Consequently,
 campaigns set in Earth’s future typically feature societies with access

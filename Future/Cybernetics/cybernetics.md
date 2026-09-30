@@ -1,9 +1,5 @@
 # CYBERNETICS
 
-CYBERNETICS
-
-## Cybernetics
-
 - [Evolution of Cybernetics](EvolutionOfCybernetics.md)
 - [Cybernetic Attachments](CyberneticAttachments.md)
 - [Construction and Repair](ConstructionAndRepair.md)

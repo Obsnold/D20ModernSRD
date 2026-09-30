@@ -3,7 +3,7 @@
 The following gadgets are universal and can apply to equipment found in
 any era, provided all gadget-specific restrictions are observed.
 
-Compact
+## Compact
 
 By eliminating wasted space and using smaller components, some engineers
 are capable of producing equipment far smaller than its standard
@@ -14,7 +14,7 @@ gadget is one size smaller than normal, to a minimum size of Diminutive.
 
 **Purchase DC Modifier:** +1.
 
-Miniaturized
+## Miniaturized
 
 By eliminating wasted space and using microscopic components, some
 engineers are capable of producing equipment vastly smaller than normal.
@@ -25,7 +25,7 @@ categories smaller than normal, to a minimum size of Diminutive.
 
 **Purchase DC Modifier:** +3.
 
-Multiple Use Item
+## Multiple Use Item
 
 Similar in function to the alternate weapon gadget, the multiple use
 item gadget allows the character to integrate the function of two
@@ -44,7 +44,7 @@ modification is made.
 
 **Purchase DC Modifier:** +1.
 
-Paint-On LCD
+## Paint-On LCD
 
 One of the most revolutionary advances in computer technology during the
 Information Age and beyond is the paint-on LCD gadget. This allows
@@ -62,7 +62,7 @@ other than being able to display data.
 
 **Purchase DC Modifier:** +4.
 
-Satellite Datalink
+## Satellite Datalink
 
 At the dawn of the Information Age, the value of knowledge and accurate
 intelligence became a crucial aspect of warfare. The ability to connect
@@ -79,7 +79,7 @@ computerized communications equipment.
 
 **Purchase DC Modifier:** +1.
 
-Storage Compartment
+## Storage Compartment
 
 Like the gadget used for armor, the ability to store and carry small
 items in a safe place can sometimes be of critical importance. The

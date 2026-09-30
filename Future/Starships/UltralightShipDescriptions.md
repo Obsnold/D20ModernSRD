@@ -37,7 +37,7 @@ space travel to other planets or star systems.
 
 **Attack of Opportunity:** None
 
-**Standard PL 5 Design Specs:**
+### Standard PL 5 Design Specs
 
 **Engines:** Thrusters
 
@@ -88,7 +88,7 @@ courier category.
 
 **Attack of Opportunity:** None
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -141,7 +141,7 @@ fire-linked rail cannons –8 ranged (9d12) and CHE missile –8 ranged
 
 **Attack of Opportunity:** Point-defense system +3 ranged (1d12×10)
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -201,7 +201,7 @@ fire-linked rail cannons –8 ranged (9d12)
 
 **Attack of Opportunity:** None
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -254,7 +254,7 @@ carry warheads.
 
 **Attack of Opportunity:** None
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -305,7 +305,7 @@ Evacuation pods and lunar landers fit into this category.
 
 **Attack of Opportunity:** None
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -356,7 +356,7 @@ missiles –8 ranged (6d12/19–20)
 
 **Attack of Opportunity:** None
 
-**Standard PL 6 Design Specs:**
+### Standard PL 6 Design Specs
 
 **Engines:** Ion engine, thrusters
 
@@ -398,7 +398,7 @@ ranged (18d8)
 
 **Attack of Opportunity:** None
 
-**Standard PL 7 Design Specs:**
+### Standard PL 7 Design Specs
 
 **Engines:** Induction engine, thrusters
 

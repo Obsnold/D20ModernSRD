@@ -1,6 +1,6 @@
 # Weapons
 
-**Bladegun**
+## Bladegun
 
 A *bladegun* is a magic pistol that transforms into a magic short sword
 (and back again) upon command. Each *bladegun* is a specific make of
@@ -13,7 +13,7 @@ must be loaded with ammunition to fire (as any gun).
 pistol’s purchase DC (+1), 21 + pistol’s purchase DC (+2), 26 + pistol’s
 purchase DC (+3); *Weight:* Varies (as pistol or short sword).
 
-**Chain Saw of the Psycho**
+## Chain Saw of the Psycho
 
 This battered chain saw has a +1 to +3 enhancement bonus. It constantly
 drips oil and small amounts of blood, and it does not require gas to
@@ -21,7 +21,7 @@ activate. The chain saw deals x 3 damage (instead of x 2 damage) on a
 successful critical hit.
 
 Any creature with a good allegiance who handles a *chain saw of the
-psycho *gains two negative levels. These negative levels remain so long
+psycho* gains two negative levels. These negative levels remain so long
 as the chain saw is in hand and disappear when it is no longer wielded.
 These negative levels never result in actual level loss, but they cannot
 be overcome in any way while the chain saw is wielded.
@@ -29,7 +29,7 @@ be overcome in any way while the chain saw is wielded.
 *Type:* Weapon (magic); *Caster Level:* 10th; *Purchase DC:* 25 (+1), 30
 (+2), 35 (+3); *Weight:* 10 lb.
 
-**Cloudkill Grenade**
+## Cloudkill Grenade
 
 This smoke grenade contains greenish ooze. When used, it releases a
 pungent green cloud, as the *cloudkill* spell cast by a 9th-level Mage.
@@ -39,7 +39,7 @@ grenades.
 *Type:* Weapon (magic); *Caster Level:* 9th; *Purchase DC:* 30 (per
 box); *Weight:* 2 lb. (per grenade).
 
-**Deadeye Rifle**
+## Deadeye Rifle
 
 The *deadeye rifle* is a Barrett Light Fifty sniper rifle with an
 enhancement bonus of +1 to +3. The stock is covered with elaborate
@@ -51,7 +51,7 @@ penalty.
 *Type:* Weapon (magic); *Caster Level:* 5th; *Purchase DC:* 42 (+1), 47
 (+2), 52 (+3); *Weight:* 20 lb.
 
-**Demolition Hammer**
+## Demolition Hammer
 
 This weapon resembles a standard sledgehammer (use the warhammer
 statistics) with runes carved into its wooden handle. Besides its
@@ -63,20 +63,20 @@ save (DC 20) or take 10d6 points of damage. If the target is reduced to
 0 hit points), it is destroyed as if disintegrated, leaving behind only
 a trace of fine dust.
 
-*Type:* Weapon (magic); *Caster Level:* 11th\*;* Purchase DC: *30 (+1),
+*Type:* Weapon (magic); *Caster Level:* 11th\*; *Purchase DC:* 30 (+1),
 35 (+2), 40 (+3); *Weight:* 8 lb.
 
-**Thunderclap Taser**
+## Thunderclap Taser
 
 This taser releases a deafening blast of thunder when it strikes an
 opponent. It deals normal damage (1d4 electrical) plus an additional 2d6
 points of sonic/concussion damage. The taser’s battery is exhausted
 after a successful hit and must be replaced after each use.
 
-*Type:* Weapon (magic); *Caster Level:* 5th; *Purchase DC:* 20; *Weight:
-*1 lb.
+*Type:* Weapon (magic); *Caster Level:* 5th; *Purchase DC:* 20; *Weight:*
+1 lb.
 
-Magic Weapon Special Abilities
+## Magic Weapon Special Abilities
 
 Most magic weapons have a +1 or better enhancement bonus. They can also
 have special abilities detailed here. A weapon with a special ability
@@ -280,12 +280,12 @@ or the application of any *cure* spell or other healing spell.
 
 *Purchase DC Modifier:* +3.
 
-## STAFFS
+## Staffs
 
 Staffs are long shafts of wood, metal, or other materials that store a
 specific combination of spells.
 
-**Doppler Staff**
+### Doppler Staff
 
 This staff is unusual in that it performs only one function— albeit a
 considerable one. Crafted from sandalwood carved with cloud patterns
@@ -299,7 +299,7 @@ charge, even if the incantation fails.
 *Type:* Staff (magic); *Caster Level:* 11th (arcane); *Purchase DC:* 41;
 *Weight:* 5 lb.
 
-**Staff of Swarms**
+### Staff of Swarms
 
 This polished black staff often doubles as a walking cane, one end of
 which is capped with a ornate silver insect or arachnid. The staff has a
@@ -316,7 +316,7 @@ fully-charged staff holds 50 charges.
 *Type:* Staff (magic); *Caster Level:* 9th (divine); *Purchase DC:* 45;
 *Weight:* 5 lb.
 
-**Staff of the Urban Jungle**
+### Staff of the Urban Jungle
 
 This staff is crafted from a long piece of rebar and topped with a
 variety of bangles, including doll heads, wires, and bolts. It requires
@@ -326,9 +326,9 @@ The staff has a number of uses, some identical to the corresponding
 arcane spell. Each time the staff is used, it depletes a certain number
 of charges. A fully-charged staff holds 50 charges.
 
-• *Arcane graffiti;* use no charges.
+• *Arcane graffiti*; use no charges.
 
-• *Change self;* uses 1 charge.
+• *Change self*; uses 1 charge.
 
 • *Power device* (lasts 90 minutes); uses 1 charge.
 
@@ -341,7 +341,7 @@ of charges. A fully-charged staff holds 50 charges.
 *Type:* Staff (magic); *Caster Level:* 9th (arcane); *Purchase DC:* 45;
 *Weight:* 5 lb.
 
-**Staff of Voltage**
+### Staff of Voltage
 
 This staff is made from a solid piece of copper and etched with
 lightning bolts or electrical symbols resembling circuitry. It requires

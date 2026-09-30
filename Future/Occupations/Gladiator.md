@@ -6,15 +6,26 @@ poverty-stricken hoodlums looking to trade fists for cash, clones bred
 in secret labs to fight from birth, and low-ranking members of a
 society’s warrior caste.
 
-**Prerequisite:** Age 18+.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 18+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +1 |
 
-**Skills:** Choose one of the following skills as a permanent class
-skill. If a skill you select is already a class skill, you gain a +1
-competence bonus on checks using that skill.
+## Skills
 
-Balance (Dex), Intimidate (Cha), Knowledge (streetwise) (Int), Tumble
-(Dex).
+Choose one of the following skills as a permanent class skill. If a
+skill you select is already a class skill, you gain a +1 competence
+bonus on checks using that skill.
 
-**Bonus Feat:** Select either Brawl or Combat Martial Arts.
+- Balance (Dex)
+- Intimidate (Cha)
+- Knowledge (streetwise) (Int)
+- Tumble (Dex)
 
-**Wealth Bonus Increase:** +1.
+## Bonus Feat
+
+Select one of the following:
+
+- Brawl
+- Combat Martial Arts

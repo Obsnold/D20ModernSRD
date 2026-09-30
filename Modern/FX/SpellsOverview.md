@@ -610,7 +610,7 @@ Spells and Critical Hits: A spell that requires an attack roll can score
 a critical hit. A spell attack that requires no attack roll cannot score
 a critical hit.
 
-Interrupting FX Users
+### Interrupting FX Users
 
 **Distracting Spellcasters and Psionic Characters:** A character can
 ready an attack against a character or creature with the trigger “if he

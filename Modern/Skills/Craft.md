@@ -151,7 +151,8 @@ a pressurized cylinder. When released, the gas is sufficient to fill a
 | VX nerve gas | Inhaled | 22 | 1d6 Con | 2d6 Con | 21 | Illegal (+4) | 42 | 48 hr. |
 
 ¹ Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin.
-n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question.
+n/a: Certain poisons can’t be made with the Craft skill. Instead, such a
+poison must be obtained by extracting it from the creature in question.
 
 ### Special
 

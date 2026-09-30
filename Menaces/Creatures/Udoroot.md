@@ -61,8 +61,8 @@ DC 10 + udoroot’s key ability modifier + power level.
 | Full Atk | none |
 | FS | 5 ft. by 5 ft. per stalk |
 | Reach | 10 ft. per stalk |
-| SQ | blindsight 40 ft., cold resistance 20, immunities, plant, *psionics |
-| ?? | *AL none |
+| SQ | blindsight 40 ft., cold resistance 20, immunities, plant, *psionics* |
+| AL | none |
 | Fort | +8 |
 | Ref | +2 |
 | Will | +3 |
@@ -103,8 +103,8 @@ DC 10 + udoroot’s key ability modifier + power level.
 | Full Atk | none |
 | FS | 5 ft. by 5 ft. per stalk |
 | Reach | 15 ft. per stalk |
-| SQ | cold resistance 20, blindsight 40 ft., immunities, plant, *psionics |
-| ?? | *AL none |
+| SQ | cold resistance 20, blindsight 40 ft., immunities, plant, *psionics* |
+| AL | none |
 | Fort | +15 |
 | Ref | +5 |
 | Will | +6 |

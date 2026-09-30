@@ -117,8 +117,8 @@ Proficiency, Track.
 (Survival).
 
 **Spells** (4/4): 0—*cure minor wounds,
-detect magical aura, read magic, resistance;
-*1st—*bless, cure light wounds, mending, shield of
+detect magical aura, read magic, resistance*;
+1st—*bless, cure light wounds, mending, shield of
 faith*.
 
 **Possessions:** Sling with 20 bullets, net, holy symbol

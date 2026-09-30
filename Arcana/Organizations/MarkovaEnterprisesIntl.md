@@ -42,7 +42,7 @@ most respects, though, the organization is no different than any other
 media interest. It is only if a hero’s activities draw the eye of the
 Queen that things might become uncomfortable.
 
-**The M.E. Morgue**
+## The M.E. Morgue
 
 Every news organization maintains a morgue—the place where it keeps file
 of reference photos, videos, archives of old stories, and significant
@@ -81,7 +81,7 @@ long the search took.
 | 25 –29 | 2d10 + 20 minutes |
 | 30 + | 1d10 + 10 minutes |
 
-Anastasia Markova
+## Anastasia Markova
 
 The halls of government and ivory towers of finance are not the only
 places that hold power. In the modern era, information, entertainment,
@@ -122,13 +122,11 @@ sunlight and is never seen out during the day. However, the hip crowd,
 who rarely see daylight themselves, never questions her nocturnal
 lifestyle.
 
-## Anastasia Markova
-
 | Stat | Value |
 |---|---|
-| ?? | Female Drow, Fast Hero 4/Dedicated Hero 5/Charismatic Hero 9 |
-| Size/Type | CR 20 |
-| ?? | Medium humanoid (Drow, Shadowkind) |
+| Class | Female Drow, Fast Hero 4/Dedicated Hero 5/Charismatic Hero 9 |
+| CR | 20 |
+| Size/Type | Medium humanoid (Drow, Shadowkind) |
 | HD | 4d8–4 plus 5d6–5 plus 9d6–9 |
 | hp | 69 |
 | Mas | 8 |
@@ -141,7 +139,7 @@ lifestyle.
 | BAB | +10 |
 | Grap | +9 |
 | Atk | +9 melee (1d3–1 nonlethal, unarmed strike) |
-| Full Atk | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2*, +2 SITES M9*), or +16/+11 ranged (2d6+2,* +2 MP5*) |
+| Full Atk | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2, *+2 SITES M9*), or +16/+11 ranged (2d6+2, *+2 MP5*) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
 | SQ | Darkvision 120 ft., light blindness, spell immunities, SR 29 |
@@ -184,5 +182,5 @@ taunt.
 
 **Possessions**: *+2 SITES M9* (9mm autoloader), 100 rounds of frangible
 9mm ammunition, *+2 HK MP5* (with laser sight), concealed carry holster,
-*fabric of style*, 3* potions of charisma, *cell phone, business outfit,
+*fabric of style*, 3 *potions of charisma*, cell phone, business outfit,
 briefcase.

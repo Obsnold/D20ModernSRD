@@ -11,7 +11,7 @@ may increase your Wealth score by the amount indicated on the table,
 either by selling the salvaged parts for scrap or using them to offset
 the cost of future building projects.
 
-## Table: Salvage
+**Table: Salvage**
 
 | Salvaged Machine | Time Required | Search Check DC | Wealth Increase |
 |---|---|---|---|

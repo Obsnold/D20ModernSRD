@@ -55,11 +55,18 @@ access to the following psionic power:
 
 ## Psionic Blank
 
-Wisdom \[Mind-Affecting\]
-
-**Level:** Telepath 1;** Display:** Visual;** Manifestation Time:**
-Attack action; **Range:** Personal;** Target:** You;** Duration:** See
-text; **Power Resistance:** No;** Power Point Cost:** See text
+| Stat               | Value          |
+|---|---|
+| Key Ability        | Wisdom         |
+| Descriptors        | Mind-Affecting |
+| Level              | Telepath 1     |
+| Display            | Visual         |
+| Manifestation Time | Attack action  |
+| Range              | Personal       |
+| Target             | You            |
+| Duration           | See text       |
+| Power Resistance   | No             |
+| Power Point Cost   | See text       |
 
 You can completely shield your mind. *Detect psionics* and other powers
 and spells that target your mind cannot detect you while this power is

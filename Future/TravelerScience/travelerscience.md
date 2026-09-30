@@ -1,9 +1,5 @@
 # TRAVELER SCIENCE
 
-TRAVELER SCIENCE
-
-## Traveler Science
-
 - [Realistic Space Travel](RealisticSpaceTravel.md)
 - [Hazards of Space Travel](HazardsOfSpaceTravel.md)
 - [Vacuum Exposure](VacuumExposure.md)

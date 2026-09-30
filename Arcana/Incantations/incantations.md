@@ -16,7 +16,7 @@ can require rituals involving multiple participants, strange or
 expensive material components, or other aspects that make them difficult
 to cast.
 
-Discovering Incantations
+## Discovering Incantations
 
 The instructions for performing incantations are generally found in
 various obscure tomes. Such books are filled with “magic spells,” and
@@ -30,7 +30,7 @@ DC for the incantation –10. Just learning of the existence of a
 particular incantation is an easier Research check, with a DC equal to
 the Knowledge (arcane lore) DC –15.
 
-Casting an Incantation
+## Casting an Incantation
 
 At its core, casting an incantation means having the required
 incantation components, then succeeding at a number of Knowledge (arcane
@@ -47,7 +47,7 @@ consequences for failure are detailed in the description of the specific
 incantation. Even if the incantation fails, material components and
 experience points are still lost and the backlash still takes effect.
 
-**Incantation Components**
+### Incantation Components
 
 Most incantations require components not unlike spells, including
 verbal, somatic, focus, and material components. In addition, some
@@ -55,7 +55,7 @@ require secondary casters (abbreviated SC), cause some sort of backlash
 (abbreviated B), or cost the caster some experience points (abbreviated
 XP).
 
-**Secondary Casters**
+### Secondary Casters
 
 Some incantations require multiple participants to cast successfully.
 These secondary casters (abbreviated SC) are indispensable to the
@@ -71,26 +71,72 @@ a required caster of the spell, you can step in and make the
 non-Knowledge check if you’re better at the relevant skill than the
 actual caster.
 
-**Backlash**
+### Backlash
 
 Some spells damage or drain the caster in some way. They have a backlash
 component, generally damage, negative levels, or some other condition.
 The caster takes the backlash regardless of the success or failure of
 the spell.
 
-**Saves and Spell Resistance**
+### Saves and Spell Resistance
 
 If the incantation allows a save, the formula to calculate it is
 included in the spell’s description. For checks to overcome spell
 resistance, divide the incantation’s Knowledge (arcane lore) DC by 2 to
 get the effective caster level for the spell resistance check.
 
-**Incantations as Spell-Like Abilities**
+### Incantations as Spell-Like Abilities
 
 Some creatures have spell-like abilities that duplicate the effects of
 incantations. There’s no chance of failure and no backlash for such
 spell-like abilities, which don’t require components of any kind and
 take only an attack action to activate.
+
+## Failed Incantations
+
+Each incantation has its own consequences for failure (two failed skill
+checks in a row). In general, they can be divided into the following
+categories.
+
+**Attack:** A creature is called from elsewhere to battle the caster
+(and often any bystanders and secondary casters). The incantation’s
+description tells the GM what Challenge Rating the creature should have,
+how it behaves, and how long it persists.
+
+**Augment:** The incantation was supposed to weaken or destroy its
+target, but it makes it more powerful instead. A damaging spell might
+heal its target or cause it to grow in size, for example.
+
+**Betrayal:** The incantation seemingly succeeds, but the subject of the
+incantation (or in rare cases the caster) loses all allegiances and
+gains their opposites. In general, the subject now hates all it loved
+before the incantation. The subject may keep its new allegiances a
+secret. Whenever a character attempts an incantation with a chance of
+betrayal failure, the GM should make the relevant die rolls in secret.
+
+**Damage:** The simplest consequence of failure, damage is dealt to the
+caster or the target, depending on the incantation.
+
+**Death:** Someone—usually the caster or the target—dies. Depending on
+the incantation, a successful saving throw may avoid the effect of
+failure.
+
+**Delusion:** The caster believes the incantation had the desired
+effect, but in fact it had no effect or a very different one.
+
+**Falsehood:** Common with divinations, the incantation delivers false
+results to the caster, but the caster believes the results are true.
+Whenever a character attempts an incantation with a chance of falsehood
+failure, the GM should make the relevant die rolls in secret.
+
+**Hostile Spell:** The caster of the incantation is targeted by a
+harmful spell or incantation. The spell description specifies the
+specific spell or incantation, save DC, and so on.
+
+**Mirrorcast:** The spell has the opposite effect of that intended.
+
+**Reversal:** The spell targets the caster, rather than the intended
+target of the incantation.
 
 ## Incantation Descriptions
 

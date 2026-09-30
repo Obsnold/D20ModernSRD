@@ -29,7 +29,7 @@ within a given 24-hour period (rounding up).
 
 | | ————————— Time of Exposure (Minimum) ———————— | | | | |
 |---|---|---|---|---|---|
-| **Situation** |** 1 round** |** 1 minute** |** 10 minutes** |** 1 hour** |** 1 day** |
+| **Situation** | **1 round** | **1 minute** | **10 minutes** | **1 hour** | **1 day** |
 | **Character in irradiated area:** | | | | | |
 | Lightly irradiated | mild | mild | mild | mild | low |
 | Moderately irradiated | mild | mild | low | low | moderate |
@@ -52,9 +52,9 @@ loss.
 
 | Degree of Exposure | Fortitude Save DC | Incubation Period | Initial and Secondary Damage |
 |---|---|---|---|
-| Mild | 12 | 1 day | 1d4–2 Con* |
-| Low | 15 | 4d6 hours | 1d6–2 Con* |
-| Moderate | 18 | 3d6 hours | 1d6–1 Con* |
+| Mild | 12 | 1 day | 1d4–2 Con\* |
+| Low | 15 | 4d6 hours | 1d6–2 Con\* |
+| Moderate | 18 | 3d6 hours | 1d6–1 Con\* |
 | High | 21 | 2d6 hours | 1d6 Con |
 | Severe | 24 | 1d6 hours | 2d6 Con |
 

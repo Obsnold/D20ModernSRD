@@ -18,29 +18,52 @@ Artificer’s ability to use different types of Craft Artifice abilities.
 
 The following information pertains to the Artificer prestige class.
 
-**Hit Die**
+### Hit Die
 
 Artificers gain 1d6 hit points per level. The character’s Constitution
 modifier applies.
 
-**Action Points**
+### Action Points
 
 The Artificer gain a number of action points equal to 7 plus one-half
 their character level, rounded down, every time they advance a level in
 this class.
 
-**Class Skills**
+### Class Skills
 
-The Artificer’s class skills are as follows: Computer Use (Int),
-Concentration (Con), Craft (chemical, electronic, mechanical,
-pharmaceutical, or structural) (Int), Decipher Script (Int), Disable
-Device (Int), Drive (Dex), Forgery (Int), Knowledge (arcane lore, art,
-business, current events, earth and life sciences, history, physical
-sciences, popular culture, technology, or theology and philosophy)
-(Int), Profession (Wis), Read/Write Language (none), Repair (Int),
-Research (Int), Search (Int), Speak Language (none).
+The Artificer’s class skills are as follows:
+
+- Computer Use (Int)
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Craft (structural) (Int)
+- Decipher Script (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Forgery (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (business) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (technology) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Research (Int)
+- Search (Int)
+- Speak Language (none)
 
 **Skill Points at Each Level:** 7 + Intelligence modifier.
+
+### Class Table
 
 **Table: The Artificer**
 
@@ -56,7 +79,7 @@ Research (Int), Search (Int), Speak Language (none).
 
 The following features pertain to the Artificer prestige class.
 
-**Craft Artifice**
+### Craft Artifice
 
 At each level of Artificer, choose one of the following item creation
 talents. The Artificer must have ranks in the appropriate Craft skill to
@@ -183,7 +206,7 @@ armor; 25 + the enhancement bonus for weapons. The DC for the Craft
 (chemical) check is 25 + the enhancement bonus – the Artificer’s class
 level.
 
-**Bonus Feat**
+### Bonus Feat
 
 At 2nd and 4th level, the Artificer gets a bonus feat. The bonus feat
 must be selected from the following list, and the Artificer must meet

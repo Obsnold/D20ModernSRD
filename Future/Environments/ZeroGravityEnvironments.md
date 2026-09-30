@@ -42,7 +42,7 @@ cause serious problems when returning to normal gravity. A creature that
 spends 120 hours or more in a zero-gravity environment takes 2d6 points
 of temporary Strength damage upon returning to normal gravity.
 
-**Weight vs. Mass**
+## Weight vs. Mass
 
 While an object in zero gravity loses weight, it does not lose mass or
 momentum. Thus, while a character could push a 10- ton piece of

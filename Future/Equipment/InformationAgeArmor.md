@@ -2,7 +2,7 @@
 
 The following armors are available at PL 5 and later.
 
-**Flight Suit And Helmet**
+## Flight Suit And Helmet
 
 The flight suit and helmet combination worn by combat pilots doubles as
 body armor that protects grounded pilots. The flight suit contains
@@ -14,7 +14,7 @@ military pilots in later eras wear armored flight suits and helmets
 essentially the same as this PL 5 version, though in the design
 appropriate to their society.
 
-**Land Warrior Armor**
+## Land Warrior Armor
 
 The Land Warrior combat system was a major Information Age step in the
 ongoing effort to increase the efficiency of the individual solder. The
@@ -32,7 +32,7 @@ armor allows for instantaneous transmission of coordinates and targeting
 information, allowing teams of Land Warrior-capable soldiers to
 communicate and coordinate with ease and efficiency.
 
-**Space Suit**
+## Space Suit
 
 The standard space suit used by NASA and other space programs is a
 completely enclosed environment suit capable of sustaining life in

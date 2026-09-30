@@ -16,7 +16,7 @@ automatically, granting a +2 bonus to the check. The gremlin providing
 the aid must be adjacent to the gremlin performing the check.
 
 **Spell-like Abilities:** 1/day—*degauss,
-haywire, machine invisibility *(DC 13),* power
+haywire, machine invisibility* (DC 13), *power
 device*. Caster level 1st.
 
 **Low-Light Vision (Ex):** Gremlins can see twice as far

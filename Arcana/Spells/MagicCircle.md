@@ -7,8 +7,8 @@
 | Components | V, S, DF |
 | Casting Time | |
 
-Attack action; **Range:** Touch;** Area:** 10-ft.-radius emanation from
-touched creature; **Duration:** 10 minutes/level;** Saving Throw:** Will
+Attack action; **Range:** Touch; **Area:** 10-ft.-radius emanation from
+touched creature; **Duration:** 10 minutes/level; **Saving Throw:** Will
 negates (harmless); **Spell Resistance:** No (see text)
 
 This spell wards an area from attacks by creatures of a specific
@@ -28,8 +28,8 @@ the spell is cast.
 
 Third, the *magic circle* thwarts any attempt to exert mental control
 over creatures within its area. If a dominated creature enters the
-*magic circle*, mental control is lost for the duration of the* magic
-circle *spell or until the creature leaves the protected area.
+*magic circle*, mental control is lost for the duration of the *magic
+circle* spell or until the creature leaves the protected area.
 
 Fourth, the spell prevents bodily contact by summoned or conjured
 creatures of the specified allegiance. This causes the natural weapon

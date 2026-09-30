@@ -35,7 +35,7 @@ annual dues. The I.G.L. will not requisition any equipment for its
 members, but it does provide free legal service and various forms of
 advice and counseling.
 
-**Union Card**
+## Union Card
 
 After paying union dues any character who remains a member in good
 standing receives the following benefits:

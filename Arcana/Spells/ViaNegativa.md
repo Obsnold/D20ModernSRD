@@ -20,8 +20,8 @@ necromantic power.
 The *via negativa* spell affects any living creature that you grapple,
 dealing 4d6 points of damage on round the grapple is initiated and each
 round the grapple is maintained. If your foe escapes the grapple, you
-can attempt to attain another hold. Furthermore, the *via negativa
-*spell grants a +5 enhancement bonus to Strength as long as you’re
+can attempt to attain another hold. Furthermore, the *via negativa*
+spell grants a +5 enhancement bonus to Strength as long as you’re
 grappling.
 
 The somatic component for the *via negativa* spell begins with a

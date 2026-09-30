@@ -49,8 +49,8 @@ Spellcraft check (DC 18). Of course, if the *sigil of Algos* is set to
 be triggered by reading it, this will trigger the symbol.
 
 Note: Magic traps such as *sigil of Lyssa* are hard to detect and
-disable. Characters can use the Search skill to find a *sigil of Lyssa
-*and Disable Device to thwart it. The DC in each case is 33.
+disable. Characters can use the Search skill to find a *sigil of Lyssa*
+and Disable Device to thwart it. The DC in each case is 33.
 
 *Material Component:* Rare alchemical paints and herbs (purchase DC 25).
 

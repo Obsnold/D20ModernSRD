@@ -7,18 +7,33 @@ opportunity to hurl themselves into the void to advance humanity’s
 understanding of science and shed light on the mysteries of the
 universe.
 
-**Prerequisite:** Age 21+.
+| Stat | Value |
+|---|---|
+| Prerequisite | Age 21+ |
+| Reputation Bonus Increase | — |
+| Wealth Bonus Increase | +1 |
 
-**Skills:** Choose two of the following skills as permanent class
-skills. If a skill you select is already a class skill, you gain a +1
-competence bonus on checks using that skill.
+## Skills
 
-Computer Use (Int), Craft (electronic, mechanical, or pharmaceutical)
-(Int), Knowledge (earth and life sciences, physical sciences, or
-technology) (Int), Navigate (Int), Pilot (Dex), Repair (Int), Survival
-(Wis).
+Choose two of the following skills as permanent class skills. If a skill
+you select is already a class skill, you gain a +1 competence bonus on
+checks using that skill.
 
-**Bonus Feat:** Select either Aircraft Operation (spacecraft) or Zero-G
-Training.
+- Computer Use (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (technology) (Int)
+- Navigate (Int)
+- Pilot (Dex)
+- Repair (Int)
+- Survival (Wis)
 
-**Wealth Bonus Increase:** +1.
+## Bonus Feat
+
+Select one of the following:
+
+- Aircraft Operation (spacecraft)
+- Zero-G Training

@@ -25,8 +25,8 @@ invisible by shifting its light display to a wavelength beyond other
 creatures’ ability to perceive. This ability is usable at will, and the
 effect lasts until dismissed (also a free action).
 
-**Psionics (Sp):** At will—*brain lock*,* daze*,* detect psionics*,
-*tailor memory*,* telekinesis*. Manifester level 10th; save DC 10 +
+**Psionics (Sp):** At will—*brain lock*, *daze*, *detect psionics*,
+*tailor memory*, *telekinesis*. Manifester level 10th; save DC 10 +
 alien probe’s key ability modifier + power level.
 
 **Dimension Door (Sp):** As an attack action, an alien probe can
@@ -67,7 +67,7 @@ once.
 | Full Atk | +14 ranged touch (2d6 electricity, shock) |
 | FS | 5 ft. by 5 ft. |
 | Reach | 5 ft. |
-| SQ | *actinic light* (DC 14), construct, darkvision 60 ft., *dimension door* (DC 14), invisibility, *psionics,* shock, supersonic speed |
+| SQ | *actinic light* (DC 14), construct, darkvision 60 ft., *dimension door* (DC 14), invisibility, *psionics*, shock, supersonic speed |
 | AL | creator |
 | Fort | +2 |
 | Ref | +11 |

@@ -45,7 +45,7 @@ one), Speak Draconic, Speak Language (any one).
 
 **Level Adjustment:** +3.
 
-## Table: Half-Dragons
+**Table: Half-Dragons**
 
 | Type | Breath Weapon¹ | Energy Immunity |
 |---|---|---|

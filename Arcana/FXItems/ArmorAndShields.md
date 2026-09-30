@@ -6,13 +6,13 @@ Below are some examples of modern-day magical armor and shields.
 
 This light shirt provides the same protection as a *+1 leather jacket*.
 In addition, the wearer gains the benefits of a continuous *protection
-from arrows/bullets *spell (damage reduction 5/+1 against arrows,
+from arrows/bullets* spell (damage reduction 5/+1 against arrows,
 bullets, and crossbow bolts).
 
-*Type:* Armor (magic); *Caster Level:* 3rd; *Purchase DC:* 22; *Weight:
-*1 lb.
+*Type:* Armor (magic); *Caster Level:* 3rd; *Purchase DC:* 22; *Weight:*
+1 lb.
 
-**Riot Shield of Fear**
+## Riot Shield of Fear
 
 Introduced by police forces that employ magical gear, this riot shield
 provides an enhancement bonus to Defense (+1 to +3). At its wielder’s
@@ -22,18 +22,18 @@ command, the shield can also cast *cause fear* three times per day as a
 *Type:* Armor (magic); *Caster Level:* 3rd; *Purchase DC:* 26 (+1), 31
 (+2), 36 (+3); *Weight:* 6 lb.
 
-**Scalemail of the Dragon**
+## Scalemail of the Dragon
 
 This suit, which weighs half as much as a normal suit of scalemail,
 provides an enhancement bonus to Defense (+1 to +3). In addition, the
 armor has an arcane spell failure chance of 10%, a maximum Dexterity
 bonus of +6, and no armor penalty. Speed while wearing *scalemail of the
-dragon *is 30 feet for Medium creatures and 20 feet for Small creatures.
+dragon* is 30 feet for Medium creatures and 20 feet for Small creatures.
 
 *Type:* Armor (magic); *Caster Level:* 7th; *Purchase DC:* 33 (+1), 38
 (+2), 43 (+3); *Weight:* 15 lb.
 
-Magic Armor and Shield Special Abilities
+## Magic Armor and Shield Special Abilities
 
 Most magic armor and shields only have enhancement bonuses. Such items
 can also have the special abilities detailed here. Armor or a shield
@@ -57,7 +57,7 @@ character at a time.
 No matter what the size of the attacker, a large bashing shield or
 bashing riot shield deals 1d8 points of damage; a small bashing shield
 or bashing buckler deals 1d6 points of damage. The shield acts as a *+1
-weapon *when used to bash. (Impromptu shields cannot be bashing
+weapon* when used to bash. (Impromptu shields cannot be bashing
 shields.)
 
 *Purchase DC Modifier:* +1.
