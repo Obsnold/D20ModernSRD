@@ -39,9 +39,8 @@ crew position for a sensor operator. A sensor operator can take an aid
 another action either to help the pilot with Pilot checks, or to help a
 gunner with attack rolls. Either is a move action, leaving the sensor
 operator with an attack action each round to do something else. A
-starship can have as many sensor operators as
-
-it has different sensor systems (see Starship Sensors).
+starship can have as many sensor operators as it has different sensor
+systems (see Starship Sensors).
 
 **Engineer:** A starship’s engineer keeps the ship in working order. If
 a system has failed for any reason, it is usually up to the engineer to

@@ -131,7 +131,7 @@ skill check, ability check, level check, or saving throw. As a free
 action during another creature’s turn, the Swindler can spend an action
 point to alter the target’s d20 roll result. The Swindler must be within
 30 feet of the target, must be able to see the target, and must declare
-that he’s spending the action point before the the result of the
+that he’s spending the action point before the result of the
 target’s roll is revealed. The Swindler’s action-point die result counts
 either as a bonus or penalty to the target’s roll, at the Swindler’s
 discretion.

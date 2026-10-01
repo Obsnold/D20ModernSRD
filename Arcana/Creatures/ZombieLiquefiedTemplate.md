@@ -40,7 +40,7 @@ size (but use the base creature’s slam damage if it’s greater): Fine 1,
 Diminutive 1d2, Tiny 1d3, Small 1d4, Medium 1d6, Large 1d8, Huge 2d6,
 Gargantuan 2d8, Colossal 4d6.
 
-For purposes of Strength bonuses to damage, a slam attack attack is
+For purposes of Strength bonuses to damage, a slam attack is
 considered a two-handed attack.
 
 **Special Qualities:** A liquefied zombie loses all of

@@ -11,7 +11,6 @@ criteria.
 **Base Attack Bonus:** +2.
 
 **Skills:** Investigate 6 ranks, Knowledge (behavioral sciences or
-
 streetwise) 6 ranks, Survival 6 ranks.
 
 **Feat:** Track.

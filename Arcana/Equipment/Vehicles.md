@@ -428,9 +428,7 @@ The following equipment is typically located in the trunk of the vehicle
 
 Obviously, aid vehicles are loaded with a huge variety of medical
 equipment. Instead of listing every single item, assume that the
-following “kits” can be assembled from
-
-the gear carried inside.
+following “kits” can be assembled from the gear carried inside.
 
 - 1 crash cart
 

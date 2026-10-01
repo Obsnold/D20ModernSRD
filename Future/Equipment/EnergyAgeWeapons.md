@@ -27,7 +27,7 @@ Furthermore, if the ray deals sufficient damage to reduce the target to
 stabilizes automatically (in other words, the target does not die).
 
 Cryonic rifles do not use ammunition, but are instead powered by special
-power packs that allow 10 shots each (purchase DC8).
+power packs that allow 10 shots each (purchase DC 8).
 
 ## Disintegrator
 

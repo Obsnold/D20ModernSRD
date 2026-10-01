@@ -93,7 +93,7 @@ functions of Concentration and Craft (chemical).
 The Mystic casts divine spells the same as Acolytes. A Mystic’s
 selection of spells is extremely limited. The Mystic begins play knowing
 four 0-level spells (called orisons) and two 1st-level spells. At each
-level, the mystic gains one or more new spells as indicated below).
+level, the mystic gains one or more new spells as indicated below.
 These spells can be common spells chosen from the Mystic’s spell list or
 they can be unusual spells of the Mystic’s own devising.
 

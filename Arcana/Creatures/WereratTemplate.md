@@ -34,11 +34,8 @@ depending on the lycanthrope’s form.
 form. In hybrid and rat form, a wererat attacks with its bite, dealing
 1d4 points of damage plus its Strength modifier.
 
-**Special Qualities:** A wererat retains all the special
-qualities of the character and gains the additional special
-qualities
-
-listed below.
+**Special Qualities:** A wererat retains all the special qualities of
+the character and gains the additional special qualities listed below.
 
 *Alternate Form (Su):* A wererat can assume rat or
 hybrid form, but its gear is not absorbed into the new form. The bipedal

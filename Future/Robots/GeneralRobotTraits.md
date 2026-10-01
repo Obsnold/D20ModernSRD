@@ -26,7 +26,6 @@ Intelligence score. A robot’s size and frame determines its ability
 scores, as shown on Tables 10–1 to 10–5.
 
 **Extra Hit Points:** Robots gain extra hit points according to their
-
 size, as shown on the tables below.
 
 **Manipulators:** A robot typically has two functioning manipulators,

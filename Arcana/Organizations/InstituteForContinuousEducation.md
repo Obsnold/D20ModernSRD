@@ -55,7 +55,7 @@ The Institute for Continuous Education hosts a website with an
 interactive version of Dr. Allison’s Guide. This is a private site,
 though, and is only accessible to current students whose tuition is paid
 in full. (It is possible for non-students to access the website by
-succeeding at a DC 20 Computer Use check.
+succeeding at a DC 20 Computer Use check.)
 
 Anyone using *Dr. Allison’s Guide to the Mystic Arts* gets a +5
 equipment bonus on Research and Knowledge (Arcane Lore) checks. Users

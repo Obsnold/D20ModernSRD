@@ -241,16 +241,14 @@ At 8th level, the Techno Mage can cast spells through electronic
 devices, including cameras, cell phones, and modems.
 
 If the spell requires the caster to be seen, then the target must see
-the caster, if it requires the caster to be heard, then
-
-the target must be able to hear the caster. Range is determined from the
-caster to the pick-up device (camera, keyboard, etc.) and then from the
-device to its target. The space between keyboard and monitor, or camera
-and screen, is not considered. The Techno Mage must be able to see or
-otherwise be able to determine the location of her target (“person at
-the keyboard” is a suitable target). Spells cast online are less
-effective, such that the target gets a +4 circumstance bonus on saving
-throws.
+the caster, if it requires the caster to be heard, then the target must
+be able to hear the caster. Range is determined from the caster to the
+pick-up device (camera, keyboard, etc.) and then from the device to its
+target. The space between keyboard and monitor, or camera and screen, is
+not considered. The Techno Mage must be able to see or otherwise be able
+to determine the location of her target (“person at the keyboard” is a
+suitable target). Spells cast online are less effective, such that the
+target gets a +4 circumstance bonus on saving throws.
 
 ### Quicken Spell
 

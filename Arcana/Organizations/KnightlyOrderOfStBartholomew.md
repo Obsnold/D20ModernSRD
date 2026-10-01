@@ -55,6 +55,5 @@ subjects. For each subsequent monastery that agrees to cooperate, raise
 the bonus by +2. However, it is notoriously difficult to get the Order
 to cooperate, especially if they know that a person has already gained
 the aid of another monastery. The Order broke their knowledge into
-distinct pieces because they believe it is dangerous to
-
-gather too much of it in any one mind.
+distinct pieces because they believe it is dangerous to gather too much
+of it in any one mind.

@@ -38,9 +38,8 @@ time of purchase. This gadget may be selected multiple times, each time
 adding a single additional piece of equipment to the base model.
 
 **Restrictions:** The character must also purchase the piece of
-equipment to be integrated separately from the armor, before the
-
-gadget modification is made.
+equipment to be integrated separately from the armor, before the gadget
+modification is made.
 
 **Purchase DC Modifier:** +2.
 

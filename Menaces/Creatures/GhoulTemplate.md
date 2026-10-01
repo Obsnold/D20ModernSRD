@@ -61,9 +61,7 @@ in 1d3 days.
 *Scent (Ex):* This ability allows a ghoul to detect approaching enemies,
 sniff out hidden foes, and track by sense of smell.
 
-*Undead:* Ghouls have the traits and immunities common
-
-to undead.
+*Undead:* Ghouls have the traits and immunities common to undead.
 
 **Allegiances:** Previous allegiances are lost and replaced by
 allegiances to chaos and evil. Changed allegiances might cause the loss

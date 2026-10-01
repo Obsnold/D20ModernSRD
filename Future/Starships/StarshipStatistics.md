@@ -34,9 +34,7 @@ Improved Initiative feat.
 the starship’s normal and flat-footed Defense.
 
 **Pilot’s Dex Modifier:** The pilot’s Dexterity modifier applies to the
-starship’s Defense, except when the ship is flat-footed or
-
-grappled.
+starship’s Defense, except when the ship is flat-footed or grappled.
 
 **Gunner’s Attack Bonus:** The gunner’s attack bonus applies to ranged
 weapon attacks.

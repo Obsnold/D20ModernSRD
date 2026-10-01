@@ -4,7 +4,7 @@
 
 “Changeling” is an inherited template that can be added to any
 Small or Medium humanoid, monstrous humanoid, or outsider (referred to
-hereafter as the base creature). The changeling uses all all the base
+hereafter as the base creature). The changeling uses all the base
 creature’s statistics and special abilities except as noted here.
 
 **Challenge Rating:** Same as the base creature

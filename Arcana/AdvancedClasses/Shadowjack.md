@@ -150,7 +150,7 @@ checks to enter that system.
 | Level of Security | DC  |
 | ----------------- | --- |
 | Minimum           | 25  |
-| Average           | 30º |
+| Average           | 30  |
 | Exceptional       | 40  |
 | Maximum           | 45  |
 

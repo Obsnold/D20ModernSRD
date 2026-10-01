@@ -24,12 +24,9 @@ Starship Sensors).
 communication systems (see Starship Comm Systems).
 
 **Weapons:** A light starship has one beam, projectile, or missile
-weapon per 10 Hit Dice (see Starship Weapons). These
-
-weapons are often fire-linked. A light starship cannot be armed with
-mines.
+weapon per 10 Hit Dice (see Starship Weapons). These weapons are often
+fire-linked. A light starship cannot be armed with mines.
 
 **Grappling Systems:** A light starship may have up to two grappling
-systems (see Grappling Systems). Each grappling
-
-system takes away one of the ship’s weapon slots (see above).
+systems (see Grappling Systems). Each grappling system takes away one of
+the ship’s weapon slots (see above).

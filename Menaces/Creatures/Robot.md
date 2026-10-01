@@ -49,11 +49,9 @@ selected (see the Techie advanced class description).
 | Medium-size | 21                    |
 
 In addition to the external components noted in the Techie advanced
-class description, a Techie can add additional components, weapons,
-and armor plating to a robot. Refer to the table below to find the DC
-modifier for adding new
-
-components to a robot.
+class description, a Techie can add additional components, weapons, and
+armor plating to a robot. Refer to the table below to find the DC
+modifier for adding new components to a robot.
 
 | Components                     | DC Modifier |
 | ------------------------------ | ----------- |

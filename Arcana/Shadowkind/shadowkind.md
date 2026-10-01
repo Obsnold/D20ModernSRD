@@ -131,6 +131,8 @@ characters do. In addition to one or more local languages, they may know
 one or more languages of Shadow (taught to them by their parents and
 elders).
 
+For the full list, see [Languages](Languages.md).
+
 ### Species Description Format
 
 Each Shadowkind entry consists of a description of the species,

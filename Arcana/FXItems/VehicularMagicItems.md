@@ -277,9 +277,7 @@ save (DC 15) negates this mind-affecting enchantment.
 These tires (usually sold in sets of two or four) are slightly spongy to
 the touch. If a tire is punctured, it instantly reinflates and is
 restored to full hit points. Once a tire magically reinflates, it
-becomes a nonmagical tire and cannot reinflate
-
-again.
+becomes a nonmagical tire and cannot reinflate again.
 
 **Type:** Wondrous Item (vehicular)\
 **Caster Level:** 3rd\
@@ -354,9 +352,7 @@ its true contents. The owner decides what the trunk appears to contain,
 and its contents seem real in every respect. Illusory items can be
 removed, handled, and manipulated. However, illusory tools provide no
 benefits to their users, and illusory items disappear if taken more than
-30 feet
-
-from the vehicle.
+30 feet from the vehicle.
 
 Gleaning the true contents of the trunk requires a *true seeing* spell
 or similar magic. Creatures that suspect the presence of an illusion are

@@ -123,12 +123,10 @@ damage reduction of a specific type:
 
 ### Electricity Resistance
 
-A suit of armor or a shield with
-
-this enchantment normally has a bluish hue and often bears a storm or
-lightning motif. The armor absorbs the first 10 points of electrical
-damage per attack that the wearer would normally take (similar to the
-*resist energy* spell).
+A suit of armor or a shield with this enchantment normally has a bluish
+hue and often bears a storm or lightning motif. The armor absorbs the
+first 10 points of electrical damage per attack that the wearer would
+normally take (similar to the *resist energy* spell).
 
 **Purchase DC Modifier:** +2.
 

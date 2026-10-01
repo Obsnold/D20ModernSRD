@@ -379,9 +379,7 @@ jack’s Hit Dice + its Constitution modifier) halves the damage.
 **Damage Reduction 10/Silver (Su):** A jumping jack ignores the first 10
 points of damage dealt by any unsilvered weapon.
 
-**Immunities (Ex):** The jumping jack is immune to fire and
-
-poison.
+**Immunities (Ex):** The jumping jack is immune to fire and poison.
 
 **Prodigious Leap (Ex):** The jumping jack can ignore the 20-foot move
 requirement for making long and high jumps. If it does move 20 feet

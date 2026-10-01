@@ -21,9 +21,7 @@ course of gene therapy (see More Human than Human). The regimen requires
 25 successful Fortitude saving throws (DC 20).
 
 **Special Qualities:** An aquan retains all the special qualities of the
-character and gains the additional special qualities listed
-
-below.
+character and gains the additional special qualities listed below.
 
 *Amphibious (Ex):* Aquans can breathe equally well in air and water.
 
@@ -84,9 +82,7 @@ Human than Human). The regimen requires 25 successful Fortitude saving
 throws (DC 20).
 
 **Special Qualities:** A morphean retains all the special qualities of
-the character and gains the additional special qualities
-
-listed below.
+the character and gains the additional special qualities listed below.
 
 *Hibernate (Ex):* A morphean can enter into a sleeplike state that lasts
 for an extended period. While in this state, the morphean does not

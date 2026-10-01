@@ -1,5 +1,12 @@
 # ARCANA SPELLS
 
+## Spell Lists
+
+- [Arcane Spells](ArcaneSpells.md)
+- [Divine Spells](DivineSpells.md)
+
+## Spell Descriptions
+
 - [Arcane Graffiti](ArcaneGraffiti.md)
 - [Burglar’s Buddy](BurglarSBuddy.md)
 - [Clean](Clean.md)

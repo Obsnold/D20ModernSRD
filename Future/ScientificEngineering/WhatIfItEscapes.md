@@ -42,10 +42,8 @@ make a successful Will save (DC 20) to resist the urge to remain where
 it is (or flee, as appropriate).
 
 **Susceptible:** The organism is damaged by a specific condition or
-material. Examples include environments above or below
-
-a certain acidity or temperature, or the presence of a particular gas or
-liquid.
+material. Examples include environments above or below a certain acidity
+or temperature, or the presence of a particular gas or liquid.
 
 When the organism comes in contact with the substance or condition to
 which it is susceptible, it takes damage. The amount of damage is equal

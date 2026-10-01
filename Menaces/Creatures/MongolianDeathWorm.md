@@ -11,9 +11,8 @@ its Constitution modifier) each round or gain one negative level that
 lasts only until the grapple ends (no saving throw needed for removal).
 
 Most Mongolian death worms use this ability purely in self-defense, but
-some of the larger ones learn that it can be a
-
-swift means of killing prey.
+some of the larger ones learn that it can be a swift means of killing
+prey.
 
 **Poison (Ex):** Bite—Fortitude negates; save DC 10 + 1/2 the worm’s Hit
 Dice + its Constitution modifier; 1d6 Con/1d6 Con.

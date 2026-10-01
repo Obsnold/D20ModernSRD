@@ -103,7 +103,7 @@ craft a wand is 18 + the level of the spell stored in the wand + the
 wand’s caster level.
 
 The Artificer must also spend experience points to craft a wand. The XP
-cost is equal to the spell level x the caster level the purchase DC of
+cost is equal to the spell level x the caster level x the purchase DC of
 the raw materials.
 
 Finally, the Artificer makes a Craft (mechanical) skill check. The DC

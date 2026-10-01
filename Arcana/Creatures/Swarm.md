@@ -82,7 +82,7 @@ unable to complete the action.
 a single member of the swarm. Sentient swarms have a hive mind. A swarm
 with a hive mind has a higher Intelligence score but is susceptible to
 mind-affecting spells as if it was a single intelligent creature.
-Sentient swarms have skills as a magical beast (2 xInt score, plus 1
+Sentient swarms have skills as a magical beast (2 x Int score, plus 1
 additional skill point per HD beyond 1 HD).
 
 ## Monstrous Spider Swarm
@@ -187,9 +187,8 @@ AP 0; Rep +0; Str 1, Dex 17, Con 12, Int 1, Wis 10, Cha 1.
 ## Sentient Killer Bee Swarm
 
 The killer bees in this swarm possess a hive mind. If dispersed,
-the bee swarm loses its intelligence (as individual
-
-bees are nonintelligent).
+the bee swarm loses its intelligence (as individual bees are
+nonintelligent).
 
 **Poison (Ex):** Bite—Fortitude save (DC 14) negates;
 initial and secondary damage 1d3 Con.

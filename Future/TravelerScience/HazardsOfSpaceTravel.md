@@ -28,10 +28,9 @@ threatens a given starship or space station. Each roll represents one
 
 **Meteoroid Size:** The size of the meteoroid.
 
-**Collision Damage:** When a meteoroid collides with a starship,
-
-space station, or other object, both the meteoroid and the object it
-strikes take damage.
+**Collision Damage:** When a meteoroid collides with a starship, space
+station, or other object, both the meteoroid and the object it strikes
+take damage.
 
 **Computer Use Check DC:** A starship or space station equipped with a
 sensor system can detect an incoming meteoroid; doing so requires a

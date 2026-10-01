@@ -138,11 +138,9 @@ Thrasher takes each time he is dealt damage from a physical
 attack—usually weapons or natural attacks but not energy attacks
 (magical or nonmagical in origin, spells, spell-like abilities, or
 supernatural abilities). Ignore damage reduction if the damage is from a
-magic
-
-weapon or attack of +1 bonus or higher. Damage reduction can reduce
-damage to 0, but not below 0. Damage reduction does not stack with
-itself unless otherwise stated—if the Thrasher gains other forms of
+magic weapon or attack of +1 bonus or higher. Damage reduction can
+reduce damage to 0, but not below 0. Damage reduction does not stack
+with itself unless otherwise stated—if the Thrasher gains other forms of
 damage reduction, apply the best damage reduction for the situation.
 Damage reduction from the Thrasher class may stack with the Tough hero
 damage reduction tree; in this case add the benefit of those damage

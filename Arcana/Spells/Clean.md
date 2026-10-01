@@ -13,10 +13,8 @@
 | Spell Resistance | Yes (harmless)                                                                        |
 
 The *clean* spell completely eliminates grime, dirt, and bacterial
-
-contaminants from the target. Smooth surfaces gain a faint
-
-shine, as if they had been polished.
+contaminants from the target. Smooth surfaces gain a faint shine, as if
+they had been polished.
 
 If cast on a room or object, the *clean* spell destroys dirt, dust, and
 anything else that would ordinarily be wiped away with a thorough

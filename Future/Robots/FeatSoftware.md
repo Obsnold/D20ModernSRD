@@ -6,7 +6,7 @@ enables them to emulate feats.
 
 Feat software (often called “featware”) is usually embedded in the
 robot’s central processor or “brain” and can be salvaged after the robot
-is destroyed (see Robot Resurrection sidebar. This is not true of feat
+is destroyed (see Robot Resurrection sidebar). This is not true of feat
 webs, however (see below).
 
 To write feat software from scratch, a character must possess whatever

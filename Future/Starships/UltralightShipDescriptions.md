@@ -148,7 +148,6 @@ fire-linked rail cannons –8 ranged (9d12) and CHE missile –8 ranged
 **Armor:** Vanadium
 
 **Defense Systems:** Damage control system (1d10), magnetic field,
-
 point-defense system, radiation shielding, sensor jammer
 
 **Sensors:** Class III sensor array, targeting system

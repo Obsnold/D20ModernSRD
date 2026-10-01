@@ -4,7 +4,7 @@ The following spells may be cast by arcane spellcasters.
 
 Spells printed in **bold** text can be found under [Arcana Spells](spells.md).
 
-Spells printed in ***bold italic*** text can be found in [Moden Spells](../../Modern/FX/Spells/spells.md).
+Spells printed in ***bold italic*** text can be found in [Modern Spells](../../Modern/FX/Spells/spells.md).
 
 ## Casting Spells through Email
 
