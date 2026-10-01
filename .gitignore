@@ -1,0 +1,9 @@
+# This repo holds the SRD text only - no tooling.
+*.py
+*.sh
+*.pl
+*.rb
+*.js
+scripts/
+__pycache__/
+.venv/
