@@ -27,39 +27,39 @@ location of anything within 60 feet that is in contact with the ground.
 
 ## Mongolian Death Worm
 
-| Stat              | Value                                                                                                       |
-| ----------------- | ----------------------------------------------------------------------------------------------------------- |
-| CR                | 3                                                                                                           |
-| Size              | Small                                                                                                       |
-| Type              | magical beast                                                                                               |
-| HD                | 2d10+6                                                                                                      |
-| hp                | 17                                                                                                          |
-| Mas               | 16                                                                                                          |
-| Init              | +2                                                                                                          |
-| Spd               | 20 ft., burrow 20 ft.                                                                                       |
-| Defense           | 16                                                                                                          |
-| Touch             | 13                                                                                                          |
-| Flat-Footed       | 14                                                                                                          |
-| Defense Breakdown | +1 size, +2 Dex, +3 natural                                                                                 |
-| BAB               | +2                                                                                                          |
-| Grap              | –3                                                                                                          |
-| Atk               | +5 melee (1d4–1 plus poison, bite)                                                                          |
-| Full Atk          | +5 melee (1d4–1 plus poison, bite)                                                                          |
-| FS                | 5 ft. by 5 ft.                                                                                              |
-| Reach             | 5 ft.                                                                                                       |
+| Stat              | Value                                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------- |
+| CR                | 3                                                                                                   |
+| Size              | Small                                                                                               |
+| Type              | magical beast                                                                                       |
+| HD                | 2d10+6                                                                                              |
+| hp                | 17                                                                                                  |
+| Mas               | 16                                                                                                  |
+| Init              | +2                                                                                                  |
+| Spd               | 20 ft., burrow 20 ft.                                                                               |
+| Defense           | 16                                                                                                  |
+| Touch             | 13                                                                                                  |
+| Flat-Footed       | 14                                                                                                  |
+| Defense Breakdown | +1 size, +2 Dex, +3 natural                                                                         |
+| BAB               | +2                                                                                                  |
+| Grap              | –3                                                                                                  |
+| Atk               | +5 melee (1d4–1 plus poison, bite)                                                                  |
+| Full Atk          | +5 melee (1d4–1 plus poison, bite)                                                                  |
+| FS                | 5 ft. by 5 ft.                                                                                      |
+| Reach             | 5 ft.                                                                                               |
 | SQ                | darkvision 60 ft., death touch (DC 14), low-light vision, poison (DC 14), poison spray, tremorsense |
-| AL                | none                                                                                                        |
-| Fort              | +6                                                                                                          |
-| Ref               | +5                                                                                                          |
-| Will              | –1                                                                                                          |
-| AP                | 0                                                                                                           |
-| Rep               | +0                                                                                                          |
-| Str               | 8                                                                                                           |
-| Dex               | 15                                                                                                          |
-| Con               | 16                                                                                                          |
-| Int               | 2                                                                                                           |
-| Wis               | 9                                                                                                           |
-| Cha               | 4                                                                                                           |
+| AL                | none                                                                                                |
+| Fort              | +6                                                                                                  |
+| Ref               | +5                                                                                                  |
+| Will              | –1                                                                                                  |
+| AP                | 0                                                                                                   |
+| Rep               | +0                                                                                                  |
+| Str               | 8                                                                                                   |
+| Dex               | 15                                                                                                  |
+| Con               | 16                                                                                                  |
+| Int               | 2                                                                                                   |
+| Wis               | 9                                                                                                   |
+| Cha               | 4                                                                                                   |
 
 **Skills:** Listen +3, Spot +6.
 
