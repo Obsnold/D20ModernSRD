@@ -75,11 +75,11 @@ long the search took.
 | DC        | Time Required                           |
 | --------- | --------------------------------------- |
 | 9 or less | 1d6 + 6 hours with no information found |
-| 10–14    | 1d6 + 6 hours                           |
-| 15–19    | 1d6 hours                               |
-| 20–24    | 3d10 + 30 minutes                       |
-| 25–29    | 2d10 + 20 minutes                       |
-| 30+      | 1d10 + 10 minutes                       |
+| 10–14     | 1d6 + 6 hours                           |
+| 15–19     | 1d6 hours                               |
+| 20–24     | 3d10 + 30 minutes                       |
+| 25–29     | 2d10 + 20 minutes                       |
+| 30+       | 1d10 + 10 minutes                       |
 
 ## Anastasia Markova
 
