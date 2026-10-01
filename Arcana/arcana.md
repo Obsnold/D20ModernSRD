@@ -10,10 +10,18 @@
 
 ## Magic
 
-- [Spells](Spells/spells.md)
-- [Psionics](Psionics/psionics.md)
+- [Arcane Spells](Spells/ArcaneSpells.md)
+- [Divine Spells](Spells/DivineSpells.md)
+- [Spell List](Spells/spells.md)
 - [Incantations](Incantations/incantations.md)
 - [Incantation Seeds](Seeds/seeds.md)
+
+## Psionics
+
+- [Psionics](Psionics/psionics.md)
+- [Telepath Powers](Psionics/TelepathPowers.md)
+- [Battle Mind Powers](Psionics/BattleMindPowers.md)
+- [Psionic Agent Powers](Psionics/PsionicAgentPowers.md)
 
 ## Equipment
 

@@ -18,8 +18,8 @@ category.
 | Highway speed  | 51–150                    | 4                            | 6–15                  | 2                        | +2               | –2                  |
 | All-out        | 151+                      | 8                            | 16+                   | 2                        | +4               | –4                  |
 
-¹ The number of squares a vehicle can move at this speed.
-² The number of squares a vehicle must move at this speed before making a turn.
+¹ The number of squares a vehicle can move at this speed.\
+² The number of squares a vehicle must move at this speed before making a turn.\
 ³ A stationary vehicle cannot move or maneuver.
 
 ## Declaring Speed

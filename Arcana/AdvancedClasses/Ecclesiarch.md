@@ -107,19 +107,19 @@ are:
 - Aberrations
 - Animals
 - Constructs
-- Dragons\*\*
+- Dragons²
 - Elementals
-- Fey\*
-- Giants\*
-- Humanoids \*
-- Humans \*
-- Magical beasts\*\*
-- Monstrous humanoids\*
+- Fey¹
+- Giants¹
+- Humanoids¹
+- Humans¹
+- Magical beasts²
+- Monstrous humanoids¹
 - Oozes
-- Outsiders\*\*
+- Outsiders²
 - Plants
 - Undead
 - Vermin
 
-\*This type of creature cannot be destroyed by turning, regardless of the success of the turning.
-\*\*This type of creature cannot be destroyed by turning, and cannot be commanded.
+¹ This type of creature cannot be destroyed by turning, regardless of the success of the turning.\
+² This type of creature cannot be destroyed by turning, and cannot be commanded.

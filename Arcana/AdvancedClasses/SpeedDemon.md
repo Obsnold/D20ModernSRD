@@ -79,7 +79,7 @@ The following features pertain to the Speed Demon advanced class.
 The Speed Demon gains the ability of Uncanny Dodge, or increases the
 potency of this ability if she already has it. If the Speed Demon does
 not have Uncanny Dodge 1 (usually gained as a Fast hero), she gains
-Uncanny Dodge 1\*\*:\*\* She retains her Dexterity bonus to Defense (if any)
+Uncanny Dodge 1: She retains her Dexterity bonus to Defense (if any)
 regardless of being caught flat-footed or struck by a hidden attacker.
 (She still loses her Dexterity bonus to Defense if she’s immobilized.)
 If the Speed Demon already has Uncanny Dodge 1, she gains Uncanny Dodge

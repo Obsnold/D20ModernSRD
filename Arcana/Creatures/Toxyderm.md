@@ -382,24 +382,24 @@ loss.
 
 **Table: Radiation Exposure**
 
-|                                            | Time of Exposure |             |          |          |          |
-| ------------------------------------------ | ---------------- | ----------- | -------- | -------- | -------- |
-| Situation                                  | 1 rnd            | 1 min       | 10 min   | 1 hr     | 1 day    |
-| **Character in irradiated area:**          |                  |             |          |          |          |
-| Lightly irradiated                         | mild             | mild        | mild     | mild     | mild     |
-| Moderately irradiated                      | mild             | mild        | low      | low      | low      |
-| Highly irradiated                          | low              | low         | moderate | moderate | moderate |
-| Severely irradiated                        | moderate         | moderate    | high     | high     | severe   |
-| **Character exposed to radiation source:** |                  |             |          |          |          |
-| Mildly radioactive materials               | mild             | mild        | low      | low      | low      |
-| Highly radioactive materials               | moderate         | moderate    | high     | high     | severe   |
-| Severely radioactive materials             | moderate         | high        | severe   | severe   | severe   |
-| **Table: Radiation Sickness**              |                  |             |          |          |          |
-| Degree of Exposure                         | Fort Save DC     | **Damage**  |          |          |          |
-| Mild                                       | 12               | 1d4–2 Con\* |          |          |          |
-| Low                                        | 15               | 1d6–2 Con\* |          |          |          |
-| Moderate                                   | 18               | 1d6–1 Con   |          |          |          |
-| High                                       | 21               | 1d6 Con     |          |          |          |
-| Severe                                     | 24               | 2d6 Con     |          |          |          |
+|                                            | Time of Exposure |            |          |          |          |
+| ------------------------------------------ | ---------------- | ---------- | -------- | -------- | -------- |
+| Situation                                  | 1 rnd            | 1 min      | 10 min   | 1 hr     | 1 day    |
+| **Character in irradiated area:**          |                  |            |          |          |          |
+| Lightly irradiated                         | mild             | mild       | mild     | mild     | mild     |
+| Moderately irradiated                      | mild             | mild       | low      | low      | low      |
+| Highly irradiated                          | low              | low        | moderate | moderate | moderate |
+| Severely irradiated                        | moderate         | moderate   | high     | high     | severe   |
+| **Character exposed to radiation source:** |                  |            |          |          |          |
+| Mildly radioactive materials               | mild             | mild       | low      | low      | low      |
+| Highly radioactive materials               | moderate         | moderate   | high     | high     | severe   |
+| Severely radioactive materials             | moderate         | high       | severe   | severe   | severe   |
+| **Table: Radiation Sickness**              |                  |            |          |          |          |
+| Degree of Exposure                         | Fort Save DC     | **Damage** |          |          |          |
+| Mild                                       | 12               | 1d4–2 Con¹ |          |          |          |
+| Low                                        | 15               | 1d6–2 Con¹ |          |          |          |
+| Moderate                                   | 18               | 1d6–1 Con  |          |          |          |
+| High                                       | 21               | 1d6 Con    |          |          |          |
+| Severe                                     | 24               | 2d6 Con    |          |          |          |
 
-\**Minimum damage 0 Con.*
+¹ *Minimum damage 0 Con.*

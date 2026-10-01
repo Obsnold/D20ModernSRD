@@ -2,7 +2,8 @@
 
 ## Equipment Categories
 
-- [Weapons](Weapons.md)
+- [Ranged Weapons](RangedWeapons.md)
+- [Melee Weapons](MeleeWeapons.md)
 - [Armor and Protective Gear](ArmorAndProtectiveGear.md)
 - [General Equipment](GeneralEquipment.md)
 - [Vehicles](Vehicles.md)

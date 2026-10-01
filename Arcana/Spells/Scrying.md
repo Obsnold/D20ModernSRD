@@ -22,13 +22,13 @@ spell), it gains a +5 circumstance bonus to its Will save.
 
 | Knowledge of Subject                       | Will Save Modifier |
 | ------------------------------------------ | ------------------ |
-| None\*                                     | +10                |
+| None¹                                      | +10                |
 | Secondhand (you have heard of the subject) | +5                 |
 | Firsthand (you have met the subject)       | +0                 |
 | Familiar (you know the subject well)       | –5                 |
 
-\**You must have some sort of connection to a creature you have no
-knowledge of.*
+¹ You must have some sort of connection to a creature you have no
+knowledge of.
 
 | **Connection**                                | Will Save Modifier |
 | --------------------------------------------- | ------------------ |

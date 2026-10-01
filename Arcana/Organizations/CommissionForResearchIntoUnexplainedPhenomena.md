@@ -139,7 +139,7 @@ skill mastery (Computer Use, Knowledge [behavioral science], Knowledge
 [earth and life sciences]).
 
 **Possessions**: Glock 20 (10mm autoloader), 50 rounds of 10mm
-ammunition, air rifle, 20 tranquilizer rounds, light undercover shirt\*,
+ammunition, air rifle, 20 tranquilizer rounds, light undercover shirt¹,
 trauma kit, chemistry kit.
 
-\**Not proficient in armor.*
+¹ *Not proficient in armor.*

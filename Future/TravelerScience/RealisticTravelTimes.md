@@ -31,5 +31,5 @@ accordingly.
 | 1 light year (5,865,696,000,000 mi.)     | 111,600 years                                     | 22,320 years    | 5,580 years     | 91 years         | 7.14 years       | 1 year          |
 | Sun to Alpha Centauri (4.4 light years)  | 491,040 years                                     | 98,208 years    | 24,552 years    | 400 years        | 31.4 years       | 4.4 years       |
 
-¹ A PL 8 engine can achieve a speed of 2,046 miles per second (1.1% of the speed of light).
-2 A PL 9 engine can achieve a speed of 26,040 miles per second (14% of the speed of light).
+¹ A PL 8 engine can achieve a speed of 2,046 miles per second (1.1% of the speed of light).\
+² A PL 9 engine can achieve a speed of 26,040 miles per second (14% of the speed of light).

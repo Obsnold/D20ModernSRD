@@ -50,9 +50,9 @@ against the weapon’s purchase DC.
 | LT-5 Longshot mass driver             | 15d6    | 20       | Ballistic                | 120 ft.         | Single       | 10 box   | Huge    | 90 lb.  | 24          | Mil (+3)    |
 | RP-91 Reaper laser scythe³            | Varies¹ | 4        | Slashing/ Fire           | —               | —            | —        | Varies¹ | —       | Varies¹     | —           |
 
-¹ See the weapon’s description for details.
-2 See the weapon’s description for collateral effects to crew and passengers.
-3 This mastercraft weapon grants a +1 bonus on attack rolls.
+¹ See the weapon’s description for details.\
+² See the weapon’s description for collateral effects to crew and passengers.\
+³ This mastercraft weapon grants a +1 bonus on attack rolls.
 
 ## A3X Dragon Flame-Thrower (pl 5)
 

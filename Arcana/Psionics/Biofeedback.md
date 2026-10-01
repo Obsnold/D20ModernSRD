@@ -18,5 +18,4 @@ Strength score of 15 who is dealt 10 points of damage actually takes 8
 points of lethal damage and 2 points of nonlethal damage. This power is
 not retroactive to damage received prior to manifesting *biofeedback.*
 The total damage is still used to determine the effects of massive
-
 damage.

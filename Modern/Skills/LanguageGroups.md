@@ -17,7 +17,7 @@ and most groups contain more languages than those listed here.
 
 **Athabascan:** Apache, Chipewyan, Navaho.
 
-**Attic:** Ancient Greek\*, Greek.
+**Attic:** Ancient Greek¹, Greek.
 
 **Baltic:** Latvian, Lithuanian.
 
@@ -30,9 +30,9 @@ and most groups contain more languages than those listed here.
 **Germanic:** Afrikaans, Danish, Dutch, English, Flemish, German,
 Icelandic, Norwegian, Swedish, Yiddish.
 
-**Hamo-Semitic:** Coptic\*, Middle Egyptian\*.
+**Hamo-Semitic:** Coptic¹, Middle Egyptian¹.
 
-**Indic:** Hindi, Punjabi, Sanskrit\*, Urdu.
+**Indic:** Hindi, Punjabi, Sanskrit¹, Urdu.
 
 **Iranian:** Farsi, Pashto.
 
@@ -40,10 +40,10 @@ Icelandic, Norwegian, Swedish, Yiddish.
 
 **Korean:** Korean.
 
-**Romance:** French, Italian, Latin\*, Portuguese, Romanian, Spanish.
+**Romance:** French, Italian, Latin¹, Portuguese, Romanian, Spanish.
 
-**Semitic:** Akkadian (aka Babylonian)\*, Ancient Hebrew\*, Arabic,
-Aramaic\*, Hebrew.
+**Semitic:** Akkadian (aka Babylonian)¹, Ancient Hebrew¹, Arabic,
+Aramaic¹, Hebrew.
 
 **Slavic:** Belorussian, Bulgarian, Czech, Polish, Russian,
 Serbo-Croatian, Slovak, Ukrainian.
@@ -54,6 +54,6 @@ Serbo-Croatian, Slovak, Ukrainian.
 
 **Ugric:** Hungarian (aka Magyar).
 
-\*This is an ancient language. In the modern world it is spoken only by
+¹ This is an ancient language. In the modern world it is spoken only by
 scholars, or in some cases by small populations in isolated corners of
 the world.

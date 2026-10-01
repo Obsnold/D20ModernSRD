@@ -43,10 +43,10 @@ damage. A single tattoo is enough to simultaneously achieve all these
 effects. The tattoo’s magic also removes negative levels, but it does
 not restore permanently drained levels.
 
-*Type:* Tattoo (magic); *Caster Level:* 11th\*; *Purchase DC:* 26;
+*Type:* Tattoo (magic); *Caster Level:* 11th¹; *Purchase DC:* 26;
 *Weight:* —.
 
-\**See the Incantation-Based FX Items sidebar.*
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Tattoo of Spell Resistance
 

@@ -13,7 +13,7 @@ improvised explosives.
 | Acid, mild        | 1d6               | 1             | 20        | Acid        | —         | 10 ft.          | Tiny  | 1 lb.  | 6           | —           |
 | Molotov cocktail¹ | 1d6               | 1             | 20        | Fire        | —         | 10 ft.          | Small | 1 lb.  | 3           | —           |
 
-¹ This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
+¹ This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.\
 ² Threat range applies to direct hits only; splash damage does not threaten a critical hit.
 
 ## Acid, Mild

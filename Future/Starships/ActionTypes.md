@@ -70,6 +70,6 @@ do for free.
 | 500-foot shift                     | No                                  |
 | Avoid hazard                       | No                                  |
 
-¹ Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.
-2 Only starships armed with point-defense systems can make attacks of opportunity.
-3 Ramming is considered part of a move action.
+¹ Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.\
+² Only starships armed with point-defense systems can make attacks of opportunity.\
+³ Ramming is considered part of a move action.

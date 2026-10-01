@@ -65,5 +65,5 @@ cannot follow tracks using Search.
 | Fog or precipitation                                 | +3          |
 | Tracked target hides trail (and moves at half speed) | +5          |
 
-¹ For a group of mixed sizes, apply only the modifier for the largest size category represented.
+¹ For a group of mixed sizes, apply only the modifier for the largest size category represented.\
 ² Apply only the largest modifier from this category.

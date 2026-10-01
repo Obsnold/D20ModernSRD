@@ -38,9 +38,9 @@ superstructures (see Mecha Superstructure, above).
 
 **Equipment Bonus:** +5.
 
-**Armor Penalty:** –6\*\*.\*\*
+**Armor Penalty:** –6.
 
-**Speed Penalty:** –5 feet\*\*.\*\*
+**Speed Penalty:** –5 feet.
 
 **Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
@@ -52,9 +52,9 @@ doesn’t offer tremendous protection.
 
 **Equipment Bonus:** +3.
 
-**Armor Penalty:** –4\*\*.\*\*
+**Armor Penalty:** –4.
 
-**Speed Penalty:** None\*\*.\*\*
+**Speed Penalty:** None.
 
 **Purchase DC:** 5 + one-half the mecha’s base purchase DC.
 
@@ -66,9 +66,9 @@ Superstructure, above).
 
 **Equipment Bonus:** +8.
 
-**Armor Penalty:** –8\*\*.\*\*
+**Armor Penalty:** –8.
 
-**Speed Penalty:** –10 feet\*\*.\*\*
+**Speed Penalty:** –10 feet.
 
 **Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
@@ -79,9 +79,9 @@ strong.
 
 **Equipment Bonus:** +6.
 
-**Armor Penalty:** –5\*\*.\*\*
+**Armor Penalty:** –5.
 
-**Speed Penalty:** None\*\*.\*\*
+**Speed Penalty:** None.
 
 **Purchase DC:** 5 + one-half the mecha’s base purchase DC.
 
@@ -93,9 +93,9 @@ battlefield.
 
 **Equipment Bonus:** +10.
 
-**Armor Penalty:** –8\*\*.\*\*
+**Armor Penalty:** –8.
 
-**Speed Penalty:** None\*\*.\*\*
+**Speed Penalty:** None.
 
 **Purchase DC:** 15 + one-half the mecha’s base purchase DC.
 
@@ -107,9 +107,9 @@ material for mecha superstructures (see Mecha Superstructure, above).
 
 **Equipment Bonus:** +10.
 
-**Armor Penalty:** –10\*\*.\*\*
+**Armor Penalty:** –10.
 
-**Speed Penalty:** –5 feet\*\*.\*\*
+**Speed Penalty:** –5 feet.
 
 **Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
@@ -122,9 +122,9 @@ Superstructure, above).
 
 **Equipment Bonus:** +12.
 
-**Armor Penalty:** –10\*\*.\*\*
+**Armor Penalty:** –10.
 
-**Speed Penalty:** –10 feet\*\*.\*\*
+**Speed Penalty:** –10 feet.
 
 **Purchase DC:** 10 + one-half the mecha’s base purchase DC.
 
@@ -136,8 +136,8 @@ carbon armor but is considerably cheaper and easier to produce.
 
 **Equipment Bonus:** +8.
 
-**Armor Penalty:** –5\*\*.\*\*
+**Armor Penalty:** –5.
 
-**Speed Penalty:** None\*\*.\*\*
+**Speed Penalty:** None.
 
 **Purchase DC:** 5 + one-half the mecha’s base purchase DC.

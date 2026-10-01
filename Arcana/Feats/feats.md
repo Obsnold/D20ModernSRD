@@ -117,7 +117,7 @@ Changes to its level are cumulative.
 A spell enhanced by a metamagic feat does not affect its vulnerability
 to counterspelling or its ability to counterspell another spell.
 
-### Psionic Feats
+## Psionic Feats
 
 Some spell-related feats are equally applicable to psionics. The
 following psionic feats function as the named spell-related feats. Treat

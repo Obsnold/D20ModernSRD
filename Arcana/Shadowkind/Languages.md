@@ -72,7 +72,7 @@ usually for the purpose of doing business with one another.
 | Celestial          | Creatures with good allegiance            | Celestial       |
 | Common             | Various Shadowkind species                | Common          |
 | Draconic           | Dragons and other reptilian creatures     | Draconic        |
-| Drow Sign Language | Drow                                      | None\*          |
+| Drow Sign Language | Drow                                      | None¹           |
 | Dwarven            | Dwarves                                   | Dwarven         |
 | Elven              | Elves, drow, and half-elves               | Elven           |
 | Giant              | Giants, trolls, ogres                     | Dwarven         |
@@ -87,7 +87,7 @@ usually for the purpose of doing business with one another.
 | Terran             | Earth-based creatures                     | Dwarven         |
 | Undertongue        | Subterranean creatures                    | Elven           |
 
-See the Footnote on Sign Languages.
+¹ See the Footnote on Sign Languages.
 
 ## Footnote on Sign Languages
 

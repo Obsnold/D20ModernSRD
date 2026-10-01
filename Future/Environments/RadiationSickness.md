@@ -52,10 +52,10 @@ loss.
 
 | Degree of Exposure | Fortitude Save DC | Incubation Period | Initial and Secondary Damage |
 | ------------------ | ----------------- | ----------------- | ---------------------------- |
-| Mild               | 12                | 1 day             | 1d4–2 Con\*                  |
-| Low                | 15                | 4d6 hours         | 1d6–2 Con\*                  |
-| Moderate           | 18                | 3d6 hours         | 1d6–1 Con\*                  |
+| Mild               | 12                | 1 day             | 1d4–2 Con¹                   |
+| Low                | 15                | 4d6 hours         | 1d6–2 Con¹                   |
+| Moderate           | 18                | 3d6 hours         | 1d6–1 Con¹                   |
 | High               | 21                | 2d6 hours         | 1d6 Con                      |
 | Severe             | 24                | 1d6 hours         | 2d6 Con                      |
 
-\*Minimum damage 0 Con.
+¹ Minimum damage 0 Con.

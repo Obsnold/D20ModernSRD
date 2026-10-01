@@ -123,10 +123,10 @@ Investigate +3, Knowledge (current events) +3, Knowledge (earth and life
 sciences) +7, Profession +3, Read/Write English, Read/Write Korean,
 Research +11, Search +3, Speak English, Speak Korean.
 
-**Feats:** Dodge\*, Educated, Personal Firearms Proficiency, Simple
+**Feats:** Dodge¹, Educated, Personal Firearms Proficiency, Simple
 Weapons Proficiency, Studious.
 
-\*The replacement does not meet the prerequisite for this feat and
+¹ The replacement does not meet the prerequisite for this feat and
 therefore cannot use it.
 
 **Possessions:** SITES M9 (9mm autoloader pistol), 16 rounds of 9mm

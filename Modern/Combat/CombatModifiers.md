@@ -28,9 +28,9 @@ as guides.
 | Defender has cover                                        | —–— See Cover —–—   |        |
 | Defender concealed or invisible                           | — See Concealment — |        |
 
-¹ Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.
-² The defender loses any Dexterity bonus to Defense.
-³ Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.
+¹ Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.\
+² The defender loses any Dexterity bonus to Defense.\
+³ Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.\
 ⁴ Treat the defender’s Dexterity as 0 (–5 modifier).
 
 **Table: Attack Roll Modifiers**
@@ -42,8 +42,8 @@ as guides.
 | Attacker prone              | –4    | –2²    |
 | Attacker invisible          | +2³   | +2³    |
 
-¹ A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
-² Some ranged weapons can’t be used while the attacker is prone.
+¹ A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.\
+² Some ranged weapons can’t be used while the attacker is prone.\
 ³ The defender loses any Dexterity bonus to Defense.
 
 ## Cover

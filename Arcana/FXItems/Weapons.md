@@ -63,8 +63,10 @@ save (DC 20) or take 10d6 points of damage. If the target is reduced to
 0 hit points), it is destroyed as if disintegrated, leaving behind only
 a trace of fine dust.
 
-*Type:* Weapon (magic); *Caster Level:* 11th\*; *Purchase DC:* 30 (+1),
+*Type:* Weapon (magic); *Caster Level:* 11th¹; *Purchase DC:* 30 (+1),
 35 (+2), 40 (+3); *Weight:* 8 lb.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Thunderclap Taser
 

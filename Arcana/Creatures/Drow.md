@@ -82,10 +82,10 @@ Search +4, Speak Elven, Speak Language (any one), Spot +2.
 Proficiency.
 
 **Possessions:** Machete, 6 spider-shaped shuriken
-(coated with blue vitriol poison\*), casual clothes, cell phone, flash
+(coated with blue vitriol poison¹), casual clothes, cell phone, flash
 goggles (negates light blindness when worn).
 
-\**Blue vitriol poison: Injury; Fortitude save (DC 12)
+¹ *Blue vitriol poison: Injury; Fortitude save (DC 12)
 negates; initial and secondary 1d2 Con.*
 
 **Advancement:** By character class.
@@ -137,8 +137,8 @@ Arts, Personal Firearms Proficiency, Simple Weapons Proficiency.
 
 **Possessions:** Machete, Glock 17 (9mm autoloader), 3
 box magazines of 9mm ammunition (for Glock 17), hand crossbow with 12
-bolts (coated with blue vitriol poison\*), casual clothes, cell phone,
+bolts (coated with blue vitriol poison¹), casual clothes, cell phone,
 flash goggles (negates light blindness when worn).
 
-\**Blue vitriol poison: Injury; Fortitude save (DC 12)
+¹ *Blue vitriol poison: Injury; Fortitude save (DC 12)
 negates; initial and secondary 1d2 Con.*

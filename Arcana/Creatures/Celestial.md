@@ -63,7 +63,7 @@ additional languages equal to their Intelligence bonus.
 | 61–66   | Radiation damage           | 64–66   | Fire resistance 20             | 94–98   | 15/+2                    |
 | 67–100  | Choose one, and roll again | 67–100  | Choose one, and roll again     | 99–100  | 20/+2                    |
 
-1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
+¹ Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing).
 
 ## Gotthammer (Avenging Angel)
 

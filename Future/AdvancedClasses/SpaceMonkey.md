@@ -118,7 +118,7 @@ Monkey must meet all the prerequisites of the feat to select it.
 - Knockout Punch
 - Power Attack
 - Run
-- Spacer\*
+- Spacer
 - Streetfighting
 - Toughness
 - Vehicle Dodge

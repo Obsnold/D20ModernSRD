@@ -162,11 +162,11 @@ have these feats. A human revenant keeps the extra feat it gained as a
 
 **Occupation:** Law enforcement (class skills: Drive, Intimidate).
 
-**Skills:** Balance +9\*, Climb +11\*, Drive +6, Escape Artist +9\*,
-Hide +9\*, Intimidate +11, Investigate +2, Jump +9\*, Knowledge (current
+**Skills:** Balance +9¹, Climb +11¹, Drive +6, Escape Artist +9¹,
+Hide +9¹, Intimidate +11, Investigate +2, Jump +9¹, Knowledge (current
 events) +2, Knowledge (streetwise) +2, Knowledge (tactics) +2, Listen
-+10, Move Silently +9\*, Profession +4, Read/Write English, Sense Motive
-+12, Speak English, Spot +12, Swim +5, Treat Injury +4, Tumble +9\*.
++10, Move Silently +9¹, Profession +4, Read/Write English, Sense Motive
++12, Speak English, Spot +12, Swim +5, Treat Injury +4, Tumble +9¹.
 
 **Feats:** Armor Proficiency (light, medium), Combat Reflexes, Improved
 Initiative, Lightning Reflexes, Personal Firearms Proficiency, Quick
@@ -176,4 +176,4 @@ Draw, Quick Reload, Run, Simple Weapons Proficiency.
 rounds of 9mm ammunition, Beretta M3P (12-gauge shotgun), 10 12-gauge
 shotgun rounds, tonfa, various gear and personal possessions.
 
-\**Includes –3 armor penalty for concealable vest.*
+¹ *Includes –3 armor penalty for concealable vest.*

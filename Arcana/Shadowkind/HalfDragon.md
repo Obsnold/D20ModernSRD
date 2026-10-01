@@ -60,6 +60,6 @@ one), Speak Draconic, Speak Language (any one).
 | Silver | 30-foot cone of paralyzing gas (paralyzed for 1d6 rounds; Fortitude negates)    | Cold³           |
 | White  | 30-foot cone of cold (6d6 points of cold damage; Reflex half)                   | Cold³           |
 
-¹ All lines are 5 feet high, 5 feet wide, and 60 feet long. All cones are 30 feet long and 30 feet wide at the base.
-2 Dragons with fire immunity take 50% more damage against cold-based attacks.
-3 Dragons with cold immunity take 50% more damage against fire-based attacks.
+¹ All lines are 5 feet high, 5 feet wide, and 60 feet long. All cones are 30 feet long and 30 feet wide at the base.\
+² Dragons with fire immunity take 50% more damage against cold-based attacks.\
+³ Dragons with cold immunity take 50% more damage against fire-based attacks.

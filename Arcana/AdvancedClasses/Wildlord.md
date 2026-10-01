@@ -175,7 +175,7 @@ and Bluff when animals are involved.
 
 At 8th level, the Wildlord may spend an action point to turn, command,
 or rebuke animals. This functions in the same manner as the ability to
-turn undead for the Acolyte\*.\*
+turn undead for the Acolyte.
 
 ### Transform Companion
 
@@ -193,7 +193,7 @@ remains the Wildlord’s companion.
 
 At 10th level, the Wildlord may spend an action point to turn, command,
 or rebuke magical beasts. This functions in the same manner as the
-ability to turn, command, or rebuke undead for the Acolyte\*.\*
+ability to turn, command, or rebuke undead for the Acolyte.
 
 ## Animal Companions
 

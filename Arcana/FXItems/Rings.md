@@ -17,8 +17,10 @@ time. Either way, the transformation takes a move action to complete.
 The wearer retains her Intelligence, Wisdom, and Charisma scores in cat
 form, during which the ring takes the form of a handsome collar.
 
-*Type:* Ring (magic); *Caster Level:* 12th\*; *Purchase DC:* 37;
+*Type:* Ring (magic); *Caster Level:* 12th¹; *Purchase DC:* 37;
 *Weight:* —.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Decoder Ring
 
@@ -39,8 +41,10 @@ wearer gets to add his Charisma bonus to his save. Whoever has the lower
 result receives a –4 penalty to all attack rolls, skill checks, and
 saving throws for the next 12 hours.
 
-*Type:* Ring (magic); *Caster Level:* 11th\*; *Purchase DC:* 36;
+*Type:* Ring (magic); *Caster Level:* 11th¹; *Purchase DC:* 36;
 *Weight:* —.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Ring of Cold Cocking
 
@@ -70,8 +74,10 @@ incantation for as long as the ring is worn (Will save, DC 28,
 negates). When the ring is removed, the victim must make a second Will
 save (DC 28) or suffer the effects for an additional 16 minutes.
 
-*Type:* Ring (magic); *Caster Level:* 12th\*; *Purchase DC:* 37;
+*Type:* Ring (magic); *Caster Level:* 12th¹; *Purchase DC:* 37;
 *Weight:* —.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Ring of Surveillance Detection
 

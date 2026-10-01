@@ -66,7 +66,7 @@ Reach 0 ft.; SQ darkvision 60 ft., construct immunities; AL creator or
 owner; SV Fort +0, Ref +3, Will –5; AP 0; Rep +0; Str 3, Dex 16, Con —,
 Int —, Wis 1, Cha 1.
 
-\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 5
+*Type:* Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 5
 (does not include magic batteries); *Weight:* 1 lb.
 
 ## Backpack of Holding
@@ -108,8 +108,10 @@ carved into the grip. This cursed item contains a version of the
 Charisma-based skill checks. Removing the hair clip requires a *remove
 curse* or *break enchantment* spell.
 
-*Type:* Wondrous Item (magic); *Caster Level:* 11th\*; *Purchase DC:* 39
+*Type:* Wondrous Item (magic); *Caster Level:* 11th¹; *Purchase DC:* 39
 (often sold as a mundane hair clip, purchase DC 1); *Weight:* —.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Camera of Soul Stealing
 
@@ -126,7 +128,7 @@ and they possess a horrific, mind-bending quality such that people look
 gaunt and haunted, objects are twisted in a sinister way, and shadows
 seem darker and menacing.
 
-\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
+*Type:* Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* 5 lb.
 
 ## Demonic Biker’s Jacket
@@ -446,8 +448,10 @@ completion of a book, has perfect recall of everything she read. After
 that, she must make a Research check (DC = one-fifth of the book’s page
 count) to remember more than general information.
 
-*Type:* Wondrous Item (magic); *Caster Level:* 11th\*; *Purchase DC:*
+*Type:* Wondrous Item (magic); *Caster Level:* 11th¹; *Purchase DC:*
 39; *Weight:* —.
+
+¹ *See the Incantation-Based FX Items sidebar.*
 
 ## Stamps of Delivery
 
@@ -497,7 +501,7 @@ lasts.
 There is a 1% chance per use that the watch ceases to function after its
 last use. Once it ceases to function, the watch cannot be repaired.
 
-\*Type:\*Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
+*Type:* Wondrous Item (magic); *Caster Level:* 10th; *Purchase DC:* 37;
 *Weight:* —.
 
 ## Token of Friendship
@@ -510,7 +514,7 @@ can, as a move equivalent action, determine the exact location of any
 other single person wearing another of the matched charms. As per the
 incantation, the charms provide only GPS coordinates.
 
-\*Type:\*Wondrous Item (magic); *Caster Level:* 13th; *Purchase DC:* 41;
+*Type:* Wondrous Item (magic); *Caster Level:* 13th; *Purchase DC:* 41;
 *Weight:* —.
 
 ## Translator’s Earpiece

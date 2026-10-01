@@ -17,7 +17,7 @@ By converting electrical energy into eldritch power, you can recover
 quickly from debilitating physical effects. However, you must draw
 current from a wall socket to power this healing magic.
 
-The *recharge* spell instantly eliminates the following conditions\*:\*
+The *recharge* spell instantly eliminates the following conditions:
 cowering, dazed, exhausted, fatigued, nauseated, shaken, and stunned.
 The caster can heal herself of some of these conditions, but others
 (such as stunned) don’t allow spellcasting or other actions.

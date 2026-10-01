@@ -55,6 +55,6 @@ below).
 | Gargantuan    | –4                        | +2                                  | +2                                  | 32–64 ft.          | 32,000–250,000 lb.  |
 | Huge          | –2                        | +1                                  | +1                                  | Less than 32 ft. 4 | ,000–32,000 lb.     |
 
-¹ A starship applies its size modifier on all attack rolls and to its Defense.
-2 A starship applies its targeting system’s equipment bonus on all attack rolls.
-3 A starship on autopilot applies its autopilot system’s equipment bonus to its Defense.
+¹ A starship applies its size modifier on all attack rolls and to its Defense.\
+² A starship applies its targeting system’s equipment bonus on all attack rolls.\
+³ A starship on autopilot applies its autopilot system’s equipment bonus to its Defense.

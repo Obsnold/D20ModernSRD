@@ -158,31 +158,31 @@ per day, according to her Acolyte class level. In addition, the Acolyte
 receives bonus spells based on her Wisdom score. Determine the Acolyte’s
 total number of spells per day by consulting the two tables below.
 
-Spells per Day by Spell Level:
+**Table: Spells per Day by Spell Level:**
 
-| Acolyte Level | 0   | 1   | 2   | 3   | 4   | 5   |
-| ------------- | --- | --- | --- | --- | --- | --- |
-| 1st           | 3   | 2   | —   | —   | —   | —   |
-| 2nd           | 4   | 3   | —   | —   | —   | —   |
-| 3rd           | 4   | 3   | 2   | —   | —   | —   |
-| 4th           | 5   | 4   | 3   | —   | —   | —   |
-| 5th           | 5   | 4   | 3   | 2   | —   | —   |
-| 6th           | 5   | 4   | 4   | 3   | —   | —   |
-| 7th           | 6   | 5   | 4   | 3   | 2   | —   |
-| 8th           | 6   | 5   | 4   | 4   | 3   | —   |
-| 9th           | 6   | 5   | 5   | 4   | 3   | 2   |
-| 10th          | 6   | 5   | 5   | 4   | 4   | 3   |
+| Acolyte Level | 0 lvl. | 1st lvl. | 2nd lvl. | 3rd lvl. | 4th lvl. | 5th lvl. |
+| ------------- | ------ | -------- | -------- | -------- | -------- | -------- |
+| 1st           | 3      | 2        | —        | —        | —        | —        |
+| 2nd           | 4      | 3        | —        | —        | —        | —        |
+| 3rd           | 4      | 3        | 2        | —        | —        | —        |
+| 4th           | 5      | 4        | 3        | —        | —        | —        |
+| 5th           | 5      | 4        | 3        | 2        | —        | —        |
+| 6th           | 5      | 4        | 4        | 3        | —        | —        |
+| 7th           | 6      | 5        | 4        | 3        | 2        | —        |
+| 8th           | 6      | 5        | 4        | 4        | 3        | —        |
+| 9th           | 6      | 5        | 5        | 4        | 3        | 2        |
+| 10th          | 6      | 5        | 5        | 4        | 4        | 3        |
 
-Bonus Spells by Spell Level:
+**Table: Bonus Spells by Spell Level:**
 
-| Wis Score | 0   | 1   | 2   | 3   | 4   | 5   |
-| --------- | --- | --- | --- | --- | --- | --- |
-| 12–13     | —   | 1   | —   | —   | —   | —   |
-| 14–15     | —   | 1   | 1   | —   | —   | —   |
-| 16–17     | —   | 1   | 1   | 1   | —   | —   |
-| 18–19     | —   | 1   | 1   | 1   | 1   | —   |
-| 20–21     | —   | 2   | 1   | 1   | 1   | 1   |
-| 22–23     | —   | 2   | 2   | 1   | 1   | 1   |
+| Wis Score | 0 lvl. | 1st lvl. | 2nd lvl. | 3rd lvl. | 4th lvl. | 5th lvl. |
+| --------- | ------ | -------- | -------- | -------- | -------- | -------- |
+| 12–13     | —      | 1        | —        | —        | —        | —        |
+| 14–15     | —      | 1        | 1        | —        | —        | —        |
+| 16–17     | —      | 1        | 1        | 1        | —        | —        |
+| 18–19     | —      | 1        | 1        | 1        | 1        | —        |
+| 20–21     | —      | 2        | 1        | 1        | 1        | 1        |
+| 22–23     | —      | 2        | 2        | 1        | 1        | 1        |
 
 The Acolyte meditates or prays for her spells, receiving them through
 her own strength of faith or as divine inspiration. The Acolyte must

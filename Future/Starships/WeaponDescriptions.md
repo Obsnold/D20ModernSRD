@@ -108,10 +108,10 @@ settings and can’t normally fire single shots.
 | String projector                  | 12d12 (78)    | 20       | Energy            | 6,000 ft.       | Single       | Colossal          | 54          | Mil (+3)    |
 | Tachyon gun                       | 14d8 (63)     | 20       | Energy            | 10,000 ft.      | Single       | Gargantuan        | 52          | Mil (+3)    |
 
-¹ With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.
-2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.
-3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).
-4 This weapon’s damage ignores a ship’s hardness.
+¹ With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.\
+² The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.\
+³ In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).\
+⁴ This weapon’s damage ignores a ship’s hardness.
 
 ## Fusion Beam (pl 6)
 

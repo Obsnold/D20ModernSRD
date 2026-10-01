@@ -135,45 +135,52 @@ Mystics may not use the spells listed below.
 5th-level: *Mass cure light wounds, mass inflict light wounds, raise
 dead*
 
-| Cha Score        | —Bonus Spells by Spell Level—       |       |       |       |       |       |
-| ---------------- | ----------------------------------- | ----- | ----- | ----- | ----- | ----- |
-|                  | **1**                               | **2** | **3** | **4** | **5** |       |
-| 12–13            | 1                                   | —     | —     | —     | —     |       |
-| 14–15            | 1                                   | 1     | —     | —     | —     |       |
-| 16–17            | 1                                   | 1     | 1     | —     | —     |       |
-| 18–19            | 1                                   | 1     | 1     | 1     | —     |       |
-| 20–21            | 2                                   | 1     | 1     | 1     | 1     |       |
-| 22–23            | 2                                   | 2     | 1     | 1     | 1     |       |
-| **Mystic Level** | **—Spells per Day by Spell Level—** |       |       |       |       |       |
-|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
-| 1                | 3                                   | 2     | —     | —     | —     | —     |
-| 2                | 4                                   | 3     | —     | —     | —     | —     |
-| 3                | 4                                   | 3     | 2     | —     | —     | —     |
-| 4                | 5                                   | 4     | 3     | —     | —     | —     |
-| 5                | 5                                   | 4     | 3     | 2     | —     | —     |
-| 6                | 5                                   | 4     | 4     | 3     | —     | —     |
-| 7                | 6                                   | 5     | 4     | 3     | 2     | —     |
-| 8                | 6                                   | 5     | 4     | 4     | 3     | —     |
-| 9                | 6                                   | 5     | 5     | 4     | 3     | 2     |
-| 10               | 6                                   | 5     | 5     | 4     | 4     | 3     |
-| **Mystic Level** | **—Mystic Spells Known—**           |       |       |       |       |       |
-|                  | **0**                               | **1** | **2** | **3** | **4** | **5** |
-| 1                | 4                                   | 2     | —     | —     | —     | —     |
-| 2                | 5                                   | 2     | —     | —     | —     | —     |
-| 3                | 5                                   | 3     | 1     | —     | —     | —     |
-| 4                | 6                                   | 3     | 2     | —     | —     | —     |
-| 5                | 6                                   | 4     | 2     | 1     | —     | —     |
-| 6                | 7                                   | 4     | 3     | 2     | —     | —     |
-| 7                | 7                                   | 5     | 3     | 2     | 1     | —     |
-| 8                | 8                                   | 5     | 4     | 3     | 2     | —     |
-| 9                | 8                                   | 5     | 4     | 3     | 2     | 1     |
-| 10               | 9                                   | 5     | 5     | 4     | 3     | 2     |
+**Table: Bonus Spells by Spell Level**
+
+| Cha Score | 1st lvl. | 2nd lvl. | 3rd lvl. | 4th lvl. | 5th lvl. |
+| --------- | -------- | -------- | -------- | -------- | -------- |
+| 12–13     | 1        | —        | —        | —        | —        |
+| 14–15     | 1        | 1        | —        | —        | —        |
+| 16–17     | 1        | 1        | 1        | —        | —        |
+| 18–19     | 1        | 1        | 1        | 1        | —        |
+| 20–21     | 2        | 1        | 1        | 1        | 1        |
+| 22–23     | 2        | 2        | 1        | 1        | 1        |
+
+**Table: Spells per Day by Spell Level**
+
+| Mystic Level | 0 lvl. | 1st lvl. | 2nd lvl. | 3rd lvl. | 4th lvl. | 5th lvl. |
+| ------------ | ------ | -------- | -------- | -------- | -------- | -------- |
+| 1            | 3      | 2        | —        | —        | —        | —        |
+| 2            | 4      | 3        | —        | —        | —        | —        |
+| 3            | 4      | 3        | 2        | —        | —        | —        |
+| 4            | 5      | 4        | 3        | —        | —        | —        |
+| 5            | 5      | 4        | 3        | 2        | —        | —        |
+| 6            | 5      | 4        | 4        | 3        | —        | —        |
+| 7            | 6      | 5        | 4        | 3        | 2        | —        |
+| 8            | 6      | 5        | 4        | 4        | 3        | —        |
+| 9            | 6      | 5        | 5        | 4        | 3        | 2        |
+| 10           | 6      | 5        | 5        | 4        | 4        | 3        |
+
+**Table: Mystic Spells Known**
+
+| Mystic Level | 0 lvl. | 1st lvl. | 2nd lvl. | 3rd lvl. | 4th lvl. | 5th lvl. |
+| ------------ | ------ | -------- | -------- | -------- | -------- | -------- |
+| 1            | 4      | 2        | —        | —        | —        | —        |
+| 2            | 5      | 2        | —        | —        | —        | —        |
+| 3            | 5      | 3        | 1        | —        | —        | —        |
+| 4            | 6      | 3        | 2        | —        | —        | —        |
+| 5            | 6      | 4        | 2        | 1        | —        | —        |
+| 6            | 7      | 4        | 3        | 2        | —        | —        |
+| 7            | 7      | 5        | 3        | 2        | 1        | —        |
+| 8            | 8      | 5        | 4        | 3        | 2        | —        |
+| 9            | 8      | 5        | 4        | 3        | 2        | 1        |
+| 10           | 9      | 5        | 5        | 4        | 3        | 2        |
 
 ### Turn or Rebuke Undead
 
 Starting at 2nd level, the Mystic gains the supernatural ability to
 affect the undead, such as zombies, skeletons, ghosts, and vampires in a
-manner similar to Acolyte\*.\* However, the Mystic’s allegiance does not
+manner similar to Acolyte. However, the Mystic’s allegiance does not
 effect the type of effects she has on the undead. Furthermore, the
 Mystic affects undead as if she were an Acolyte of one level lower than
 her current Mystic class.

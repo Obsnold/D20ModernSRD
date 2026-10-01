@@ -3,7 +3,7 @@
 Robots are manufactured, remote-controlled constructs powered by
 batteries. These highly useful machines come in a variety of sizes and
 shapes and can be fitted with tools or weapons. Techies create
-robots—for rules on this process, refer to the Techie advanced class\*.\*
+robots—for rules on this process, refer to the Techie advanced class.
 
 ## Species Traits
 
@@ -49,7 +49,7 @@ selected (see the Techie advanced class description).
 | Medium-size | 21                    |
 
 In addition to the external components noted in the Techie advanced
-class description\*,\* a Techie can add additional components, weapons,
+class description, a Techie can add additional components, weapons,
 and armor plating to a robot. Refer to the table below to find the DC
 modifier for adding new
 
@@ -66,9 +66,9 @@ components to a robot.
 | Basic electrical kit           | +2          |
 | Searchlight                    | +1          |
 | **Armor**                      |             |
-| Natural armor bonus +2         | +2\*        |
+| Natural armor bonus +2         | +2¹         |
 
-\*This component can be purchased a number of times equal to the robot’s
+¹ This component can be purchased a number of times equal to the robot’s
 size category (counted up from Diminutive).
 
 **Articulated Frame:** This robot’s body is articulated so that it can
@@ -82,7 +82,7 @@ single weapon or accessory up to one size category larger than itself.
 Such a robot can fire a weapon using its normal attack modifier or via a
 remote, using the operator’s attack modifier with a –4 penalty.
 Alternatively, an accessory mount can hold a single grenade, or nearly
-any of the items on Table: General Equipment\*.\*
+any of the items on Table: General Equipment.
 
 **Loading Mechanism:** A robot with a loading mechanism can reload a
 single weapon with a full-round action. The mechanism holds enough
@@ -186,7 +186,7 @@ flood spotlight.
 
 **Advancement:** None.
 
-## Police Assault Drone\*
+## Police Assault Drone¹
 
 | Stat              | Value                                                       |
 | ----------------- | ----------------------------------------------------------- |
@@ -232,5 +232,5 @@ grenade, searchlight, remote control link (200 feet).
 
 **Advancement:** None.
 
-\**This robot requires a successful Wealth check (DC 21) and a
+¹ *This robot requires a successful Wealth check (DC 21) and a
 successful Craft (mechanical) check (DC 32) to create.*

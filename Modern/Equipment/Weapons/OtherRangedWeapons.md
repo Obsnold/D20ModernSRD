@@ -18,7 +18,7 @@ Ranged Weapons.
 | Taser (Simple)                 | 1d4¹     | —        | Electricity | 5 ft.           | 1            | 1 int.   | Small | 2 lb.   | 7           | —           |
 | Whip (Simple)                  | 1d2      | 20       | Slashing    | 15 ft.²         | 1            | —        | Small | 2 lb.   | 4           | —           |
 
-¹ This weapon does special damage. See the weapon description.
+¹ This weapon does special damage. See the weapon description.\
 ² See the description of this weapon for special rules.
 
 ## Compound Bow

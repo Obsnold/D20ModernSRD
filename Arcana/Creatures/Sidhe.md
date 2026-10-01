@@ -177,10 +177,10 @@ first 10 points of fire damage dealt by any single attack.
 +13, Spot +14.
 
 **Feats:** Archaic Weapons Proficiency, Combat Reflexes,
-Improved Damage Threshold, Multiweapon Fighting\*, Simple Weapons
+Improved Damage Threshold, Multiweapon Fighting¹, Simple Weapons
 Proficiency.
 
-\*The Multiweapon Fighting feat functions just like the Two-Weapon
+¹ The Multiweapon Fighting feat functions just like the Two-Weapon
 Fighting feat, except you need more than two arms to use it. The primary
 attack takes a –2 penalty, and all the secondary attacks take a –6
 penalty.

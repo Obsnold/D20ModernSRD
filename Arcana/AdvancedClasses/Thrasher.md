@@ -117,7 +117,7 @@ The Thrasher gains the ability of Uncanny Dodge, or increases the
 potency of this ability if he already has it.
 
 If the Thrasher does not have Uncanny Dodge 1 (usually gained as a Fast
-hero), he gains Uncanny Dodge 1\*\*:\*\* He retains his Dexterity bonus to
+hero), he gains Uncanny Dodge 1: He retains his Dexterity bonus to
 Defense (if any) regardless of being caught flat-footed or struck by a
 hidden attacker. (He still loses his Dexterity bonus to Defense if he’s
 immobilized.)

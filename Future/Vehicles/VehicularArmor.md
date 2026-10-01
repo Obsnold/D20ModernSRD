@@ -27,7 +27,7 @@ This easy-to-acquire alloy is lightweight and reasonably strong.
 
 **Equipment Bonus:** +5.
 
-**Drive/Pilot Check Penalty:** –3\*\*.\*\*
+**Drive/Pilot Check Penalty:** –3.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
@@ -39,7 +39,7 @@ doesn’t offer tremendous protection.
 
 **Equipment Bonus:** +3.
 
-**Drive/Pilot Check Penalty:** –2\*\*.\*\*
+**Drive/Pilot Check Penalty:** –2.
 
 **Purchase DC:** 10 + the vehicle’s hardness.
 
@@ -49,7 +49,7 @@ Duralloy is harder, heavier, and more durable than alumisteel.
 
 **Equipment Bonus:** +8.
 
-**Drive/Pilot Check Penalty:** –4\*\*.\*\*
+**Drive/Pilot Check Penalty:** –4.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
@@ -59,7 +59,7 @@ Resilium is more malleable alloy than duralloy, although not as strong.
 
 **Equipment Bonus:** +6.
 
-**Drive/Pilot Check Penalty:** –2\*\*.\*\*
+**Drive/Pilot Check Penalty:** –2.
 
 **Purchase DC:** 10 + the vehicle’s hardness.
 
@@ -71,7 +71,7 @@ battlefield.
 
 **Equipment Bonus:** +10.
 
-**Drive/Pilot Check Penalty:** –4\*\*.\*\*
+**Drive/Pilot Check Penalty:** –4.
 
 **Purchase DC:** 20 + the vehicle’s hardness.
 
@@ -82,7 +82,7 @@ create an alloy of surprising resilience.
 
 **Equipment Bonus:** +10.
 
-**Drive/Pilot Check Penalty:** –5\*\*.\*\*
+**Drive/Pilot Check Penalty:** –5.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
@@ -93,7 +93,7 @@ matrix, megatanium is exceedingly hard and durable.
 
 **Equipment Bonus:** +12.
 
-**Drive/Pilot Check Penalty:** –5\*\*.\*\*
+**Drive/Pilot Check Penalty:** –5.
 
 **Purchase DC:** 20 + the vehicle’s hardness.
 
@@ -105,6 +105,6 @@ carbon armor but is considerably cheaper and easier to produce.
 
 **Equipment Bonus:** +8.
 
-**Drive/Pilot Check Penalty:** –2\*\*.\*\*
+**Drive/Pilot Check Penalty:** –2.
 
 **Purchase DC:** 15 + the vehicle’s hardness.

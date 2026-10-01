@@ -239,7 +239,7 @@ spells, and abilities that use character levels. However, a character’s
 CR *is* used to determine how many experience points the character needs
 to advance in level (see Experience, below).
 
-## Experience
+### Experience
 
 Characters with a Level Adjustment of +1 or higher do not begin play
 with 0 XP, as humans and other “baseline” characters do. As
@@ -248,7 +248,7 @@ have amassed XP before taking their first class level. Powerful
 Shadowkind use their CR instead of level when determining the experience
 they start with and the amount needed to gain a level.
 
-## Powerful Species
+### Powerful Species
 
 - [Aasimar](Aasimar.md)
 - [Bugbear](Bugbear.md)
