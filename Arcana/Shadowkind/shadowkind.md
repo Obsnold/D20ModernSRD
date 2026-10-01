@@ -253,7 +253,7 @@ they start with and the amount needed to gain a level.
 - [Aasimar](Aasimar.md)
 - [Bugbear](Bugbear.md)
 - [Dragonblooded Human](DragonbloodedHuman.md)
-- [Drow (dark Elf)](DrowDarkElf.md)
+- [Drow (Dark Elf)](DrowDarkElf.md)
 - [Gnoll](Gnoll.md)
 - [Half-Dragon](HalfDragon.md)
 - [Half-Ogre](HalfOgre.md)

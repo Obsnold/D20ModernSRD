@@ -89,8 +89,7 @@ places to crash, and avoid hazards peculiar to a city environment.
 
 ### Improvised Weapons
 
-At 2nd level, the Street Warrior becomes an expert at using i m p r o v
-i s e d weapons. The Street Warrior does not take a –4 penalty on attack
+At 2nd level, the Street Warrior becomes an expert at using improvised weapons. The Street Warrior does not take a –4 penalty on attack
 rolls when wielding an improvised weapon.
 
 ### Bonus Feats

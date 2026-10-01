@@ -1,4 +1,4 @@
-# Half-fiend (TEMPLATE)
+# Half-Fiend (Template)
 
 ## Template Traits
 

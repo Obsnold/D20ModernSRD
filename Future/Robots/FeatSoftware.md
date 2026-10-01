@@ -19,7 +19,7 @@ software’s purchase DC. He must then succeed at a Computer Use check (DC
 a robot cannot emulate a feat if it does not meet the feat’s
 prerequisites.
 
-## Feat Progit (pl 6)
+## Feat Progit (PL 6)
 
 Sophisticated emulation software encased in a thin but durable plastic
 casing, a feat progit is installed in the robot’s central processing
@@ -33,7 +33,7 @@ successful Computer Use check (DC 30).
 
 **Purchase DC:** 20.
 
-## Feat Net (pl 7)
+## Feat Net (PL 7)
 
 A feat net consists of a series of interlocking programs that allow the
 robot to emulate multiple feats. A feat net holds as many as four feats.
@@ -51,7 +51,7 @@ requires 12 hours of work and a successful Computer Use check (DC 30).
 **Purchase DC:** 15 (one feat), 17 (two feats), 19 (three feats), 20
 (four feats).
 
-## Feat Web (pl 8)
+## Feat Web (PL 8)
 
 A feat web allows a robot with ordinary class levels to gain feats as
 normal for its class. The feat web expands as the robot advances in

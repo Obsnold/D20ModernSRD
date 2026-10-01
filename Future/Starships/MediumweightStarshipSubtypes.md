@@ -5,10 +5,8 @@ transports. They balance firepower and defense with speed and
 maneuverability.
 
 A mediumweight starship measures 501–1,000 feet long. It occupies a
-1,000-foot-by-1,000-foot fighting space (4 500-foot
-
-squares). In addition, all mediumweight starships share the following
-design specs.
+1,000-foot-by-1,000-foot fighting space (4 500-foot squares). In
+addition, all mediumweight starships share the following design specs.
 
 **Engines:** All mediumweight starships have thrusters plus one other
 type of engine (see Starship Engines).

@@ -24,7 +24,7 @@ assembly. A character without an electrical tool kit takes a –4 penalty
 on the skill check. The character must also make a Wealth check against
 the sensor system’s purchase DC.
 
-## Class I Sensor System (pl 6)
+## Class I Sensor System (PL 6)
 
 This sensor system includes air/space radar that allows a mecha operator
 to scan the basic topography of the surrounding area and pick out
@@ -59,7 +59,7 @@ mode).
 
 **Restriction:** None.
 
-## Class Ii Sensor System (pl 6)
+## Class II Sensor System (PL 6)
 
 This sensor system includes an electromagnetic (EM) detector array that
 localizes electromagnetic emissions, and an infrared detector that
@@ -104,7 +104,7 @@ mode).
 
 **Restriction:** None.
 
-## Class Iii Sensor System (pl 6)
+## Class III Sensor System (PL 6)
 
 This system combines the features of the Class II sensor system with an
 advanced night-vision unit.
@@ -148,7 +148,7 @@ mode).
 
 **Restriction:** Licensed (+1).
 
-## Enigma Sensor Suite (pl 6)
+## Enigma Sensor Suite (PL 6)
 
 Using a combination of thermal imaging, X-rays, and vibration sensors,
 the Enigma sensor suite enables the operator to effectively see through
@@ -177,7 +177,7 @@ have three-quarters concealment (30% miss chance) instead.
 
 **Restriction:** None.
 
-## Oracle Targeting System (pl 6)
+## Oracle Targeting System (PL 6)
 
 The standard computer-assisted targeting system for mecha combines
 holographic displays and heuristic target-prediction profiling to
@@ -207,7 +207,7 @@ III (+3), 22 for Mark IV (+4), 24 for Mark V (+5).
 
 **Restriction:** None.
 
-## Class Iv Sensor System (pl 7)
+## Class IV Sensor System (PL 7)
 
 This system includes electromagnetic (EM), infrared detector, hi-res
 video, and nightvision sensors similar to those found on the Class II
@@ -256,7 +256,7 @@ mode).
 
 **Restriction:** Licensed (+1). **Oracle Targeting System**
 
-## Class V Sensor System (pl 7)
+## Class V Sensor System (PL 7)
 
 This system improves upon earlier sensor systems by replacing the
 air/space radar with powerful multiband radar that quickly and
@@ -307,7 +307,7 @@ mode).
 
 **Restriction:** Licensed (+1).
 
-## Class Vi Sensor System (pl 8)
+## Class VI Sensor System (PL 8)
 
 This sensor system resembles the Class V sensor array, except that it
 replaces the multiband radar unit with multiphase radar capable of

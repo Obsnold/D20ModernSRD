@@ -34,7 +34,7 @@ reprogramming the robot.
 
 **Purchase DC:** The cost of the upgrade.
 
-## Strength Upgrade (pl 5)
+## Strength Upgrade (PL 5)
 
 Parts of the robot’s frame, including its joints and hydraulic
 components, are reinforced or replaced with similar components made of
@@ -43,7 +43,7 @@ stronger materials. The upgrade provides a +2 bonus to Strength.
 **Purchase DC:** 5 + one-half the base purchase DC of the robot’s
 frame + robot’s Strength modifier before the upgrade.
 
-## Dexterity Upgrade (pl 6)
+## Dexterity Upgrade (PL 6)
 
 The robot receives replacement joints or ligaments that are more
 flexible, and the robot’s tactile sensors are modified to improve manual
@@ -52,7 +52,7 @@ dexterity. The upgrade provides a +2 bonus to Dexterity.
 **Purchase DC:** 5 + one-half the base purchase DC of the robot’s
 frame + robot’s Dexterity modifier before the upgrade.
 
-## Intelligence Upgrade (pl 6)
+## Intelligence Upgrade (PL 6)
 
 Modifications to the robot’s artificial intelligence allow it to think
 more creatively. The upgrade provides a +2 bonus to Intelligence.
@@ -60,7 +60,7 @@ more creatively. The upgrade provides a +2 bonus to Intelligence.
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame + robot’s Intelligence modifier before the upgrade.
 
-## Charisma Upgrade (pl 7)
+## Charisma Upgrade (PL 7)
 
 The robot is programmed with character and personality subroutines that
 enable it to better interpret and simulate humanoid behavior patterns
@@ -69,7 +69,7 @@ and emotions. The upgrade provides a +2 bonus to Charisma.
 **Purchase DC:** 10 + one-half the base purchase DC of the robot’s
 frame + robot’s Charisma modifier before the upgrade.
 
-## Wisdom Upgrade (pl 7)
+## Wisdom Upgrade (PL 7)
 
 Adjustments to the robot’s sensors improve its perception, while new
 software enables it to act more intuitively. The upgrade provides a +2

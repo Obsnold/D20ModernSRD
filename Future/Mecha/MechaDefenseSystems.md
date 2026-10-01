@@ -9,7 +9,7 @@ assembly. A character without a mechanical tool kit takes a –4 penalty
 on the skill check. The character must also make a Wealth check against
 the defense system’s purchase DC.
 
-## Bulwark Tactical Shield (pl 5)
+## Bulwark Tactical Shield (PL 5)
 
 The Bulwark tactical shield—a high-tech version of the shields carried
 by knights of old—is worn on one of the mecha’s arms. It improves the
@@ -31,7 +31,7 @@ mecha’s equipment bonus to Defense by +4.
 
 **Restriction:** None.
 
-## Bastion Tactical Shield (pl 6)
+## Bastion Tactical Shield (PL 6)
 
 The Bastion tactical shield improves upon the Bulwark tactical shield
 (see above). It improves the mecha’s equipment bonus to Defense by +6.
@@ -55,7 +55,7 @@ mecha’s arm. Deploying or retracting the shield is a move action.
 
 **Restriction:** None.
 
-## LX-10 Antishock Array (pl 6)
+## LX-10 Antishock Array (PL 6)
 
 The LX-10 antishock array grounds the mecha and protects it against
 electrical attacks. The mecha gains electricity resistance 10.
@@ -76,7 +76,7 @@ electrical attacks. The mecha gains electricity resistance 10.
 
 **Restriction:** None.
 
-## Barricade Tactical Shield (pl 7)
+## Barricade Tactical Shield (PL 7)
 
 A larger version of the Bastion tactical shield, the Barricade shield
 not only improves the mecha’s equipment bonus to Defense by +8, but its
@@ -101,7 +101,7 @@ mecha’s arm. Deploying or retracting the shield is a move action.
 
 **Restriction:** None.
 
-## Delphi Defense Suite (pl 7)
+## Delphi Defense Suite (PL 7)
 
 The Delphi defense suite consists of a heuristic collision avoidance
 system, enhanced crew restraints, and a series of adrenal and nonadrenal
@@ -127,7 +127,7 @@ III (+3), 27 for Mark IV (+4), 29 for Mark V (+5).
 
 **Restriction:** None.
 
-## Light Fortification (pl 7)
+## Light Fortification (PL 7)
 
 The mecha’s structural integrity is reinforced so it can shake off
 attacks that would cripple it otherwise. Light fortification converts
@@ -153,7 +153,7 @@ place of one of the mecha’s equipment slots.
 
 **Restriction:** Licensed (+1).
 
-## LX-20 Antishock Array (pl 7)
+## LX-20 Antishock Array (PL 7)
 
 Similar to the LX-10 antishock array, the LX-20 antishock array grants
 the mecha electricity resistance 20. In addition, it insulates and
@@ -161,7 +161,7 @@ protects the crew from the collateral dazing effect of an
 electromagnetic pulse, such as the type caused by an M-70 EMP rocket
 launcher (page 163).
 
-## Cloaking Screen (pl 8)
+## Cloaking Screen (PL 8)
 
 The cloaking screen warps light and energy around the mecha, rendering
 it invisible to visual and electronic sensors.
@@ -192,7 +192,7 @@ check).
 
 **Restriction:** Military (+3).
 
-## Deflection Field (pl 8)
+## Deflection Field (PL 8)
 
 The deflection field uses broadcast magnetics to provide a semipermeable
 energy field around the mecha. It provides a +1 to +5 deflection bonus
@@ -219,7 +219,7 @@ III (+3), 33 for Mark IV (+4), 36 for Mark V (+5).
 
 **Restriction:** Licensed (+1).
 
-## Medium Fortification (pl 8)
+## Medium Fortification (PL 8)
 
 Similar to the light fortification system, the medium fortification
 system converts 75% of all critical hits into regular hits.
@@ -229,7 +229,7 @@ slots.
 
 **Equipment Slots:** 2 (equivalent).
 
-## Heavy Fortification (pl 9)
+## Heavy Fortification (PL 9)
 
 Similar to the light fortification system, the heavy fortification
 system converts all critical hits into regular hits.

@@ -35,7 +35,7 @@ gustatory) included in the system.
 **Restriction:** A sensor system does not require a special license to
 purchase.
 
-## Class I Sensor System (pl 5)
+## Class I Sensor System (PL 5)
 
 This sensor system includes a low-res video camera and a basic audio
 receiver (effectively a robotic ear).
@@ -48,7 +48,7 @@ penalty on all other skill checks.
 
 **Purchase DC:** 13.
 
-## Class Ii Sensor System (pl 5)
+## Class II Sensor System (PL 5)
 
 This sensor system includes a video camera with infrared capability,
 capable of discerning creatures and objects by their heat signatures. It
@@ -63,7 +63,7 @@ checks are made without penalty.
 
 **Purchase DC:** 15.
 
-## Class Iii Sensor System (pl 5)
+## Class III Sensor System (PL 5)
 
 This sensor system includes a video camera with infrared capability, a
 basic audio receiver, and a crude chemical sniffer.
@@ -75,7 +75,7 @@ checks.
 
 **Purchase DC:** 17.
 
-## Class Iv Sensor System (pl 6)
+## Class IV Sensor System (PL 6)
 
 This sensor system includes hi-res video sensors, a hi-fidelity audio
 sensor, a chemical vapor scanner, and a pressure sensor that enables the
@@ -88,7 +88,7 @@ Listen and Spot checks. All other skill checks are made without penalty.
 
 **Purchase DC:** 17.
 
-## Class V Sensor System (pl 6)
+## Class V Sensor System (PL 6)
 
 This sensor system includes hi-res video sensors with darkvision (out to
 60 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure
@@ -112,7 +112,7 @@ Spot checks. All other skill checks are made without penalty.
 
 **Purchase DC:** 19.
 
-## Class Vi Sensor System (pl 6)
+## Class VI Sensor System (PL 6)
 
 This sensor system includes hi-res video sensors with darkvision (out to
 120 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure
@@ -127,7 +127,7 @@ The robot also gains a +1 equipment bonus on initiative checks.
 
 **Purchase DC:** 22.
 
-## Class Vii Sensor System (pl 7)
+## Class VII Sensor System (PL 7)
 
 This sensor system includes hi-definition video sensors with darkvision
 (out to 120 feet), acoustic audio sensors, a chemical vapor scanner,
@@ -142,7 +142,7 @@ penalty. The robot also gains a +2 equipment bonus on initiative checks.
 
 **Purchase DC:** 22.
 
-## Class Viii Sensor System (pl 7)
+## Class VIII Sensor System (PL 7)
 
 This sensor system includes hi-definition video sensors with darkvision
 (out to 120 feet), acoustic audio sensors, a sophisticated olfactory
@@ -158,7 +158,7 @@ checks.
 
 **Purchase DC:** 25.
 
-## Class Ix Sensor System (pl 8)
+## Class IX Sensor System (PL 8)
 
 This sensor system includes a full-spectrum eye with darkvision (out to
 180 feet), a full-frequency ear, a sophisticated olfactory sensor, a
@@ -174,7 +174,7 @@ checks.
 
 **Purchase DC:** 26.
 
-## Nerve Web (pl 8)
+## Nerve Web (PL 8)
 
 The nerve web is an advanced sensor array that simulates the function of
 an organic nervous system. This sensor system includes a full-spectrum
@@ -222,12 +222,11 @@ learns to behave as the adults he knows.
 ## Heroic Droids with Skill Software or Feat Software
 
 Players can choose to play biodroid and bioreplica characters. These
-heroic robots gain skills and feats by gaining experience
-
-and advancing in level, as organic characters do. At the GM’s
-discretion, a heroic robot may choose to receive skill software and feat
-software. However, a heroic droid installed with skill software of any
-kind loses all skills gained from class levels and can no longer gain
-skill points through level advancement. Similarly, a heroic robot
-installed with feat software loses all feats gained from class levels
-and class features and cannot gain new feats through level advancement.
+heroic robots gain skills and feats by gaining experience and advancing
+in level, as organic characters do. At the GM’s discretion, a heroic
+robot may choose to receive skill software and feat software. However, a
+heroic droid installed with skill software of any kind loses all skills
+gained from class levels and can no longer gain skill points through
+level advancement. Similarly, a heroic robot installed with feat
+software loses all feats gained from class levels and class features and
+cannot gain new feats through level advancement.

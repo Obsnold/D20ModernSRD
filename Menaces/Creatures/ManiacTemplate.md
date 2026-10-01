@@ -1,4 +1,4 @@
-# Maniac (TEMPLATE)
+# Maniac (Template)
 
 ## Template Traits
 

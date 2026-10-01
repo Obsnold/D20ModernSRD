@@ -1,7 +1,7 @@
 # Modern Alchemy
 
 One source of matter replication is reminiscent of the ancient technique
-k nown as alchemy. Replicators that rely on alchemy as their primary
+known as alchemy. Replicators that rely on alchemy as their primary
 means of producing new objects transform one element into another to
 create the final object. These replicators require a basic object to
 transform; in most cases, the object to transform must have the same

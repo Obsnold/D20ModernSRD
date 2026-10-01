@@ -27,7 +27,7 @@ starship’s tactical speed, given in feet and squares.
 
 **Purchase DC:** The engine’s purchase DC.
 
-## Thrusters (pl 5)
+## Thrusters (PL 5)
 
 Thrusters can propel a ship through a planetary atmosphere and land it
 safely on a planetary surface. Thrusters also serve as secondary engines
@@ -45,7 +45,7 @@ purchase DC of 31.
 
 **Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-## Fusion Torch (pl 6)
+## Fusion Torch (PL 6)
 
 This engine consists of a fusion reactor with one wall of the magnetic
 bottle missing, directing the thrust in the form of super-heated plasma.
@@ -67,7 +67,7 @@ fuel has a purchase DC of 23.
 
 **Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-## Ion Engine (pl 6)
+## Ion Engine (PL 6)
 
 The ion engine generates power to break down molecules of a fuel
 material to create ions, and then expels them by means of a magnetic
@@ -87,7 +87,7 @@ has a purchase DC of 29.
 
 **Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-## Photon Sails (pl 6)
+## Photon Sails (PL 6)
 
 Photon sails are immense but extremely fragile foil structures only a
 few molecules thick. Light pressure from a nearby star (or laser drive
@@ -99,23 +99,15 @@ sails carries at least three spare sets. Unfortunately, it takes 12
 hours to replace damaged sails, though deployment or stowage of the
 sails takes only 1 minute.
 
-In combat, any weapon hit against a sail-driven starship destroys
-
-the deployed photon sails and prevents the ship from moving until
-
-the sails are replaced. The sail-ship continues on its last course and
-
-retains its former speed until the sails are replaced. Accordingly,
-
-most sail-ships carry a secondary propulsion system (such as thrusters
-
-or an ion engine) for emergency maneuvering and sailing against
-
-the sun. Photon sails are completely useless in atmosphere—in fact,
-
-they’re instantly destroyed by atmospheric entry—making a secondary
-
-propulsion system a virtual necessity for most sail-ships.
+In combat, any weapon hit against a sail-driven starship destroys the
+deployed photon sails and prevents the ship from moving until the sails
+are replaced. The sail-ship continues on its last course and retains its
+former speed until the sails are replaced. Accordingly, most sail-ships
+carry a secondary propulsion system (such as thrusters or an ion engine)
+for emergency maneuvering and sailing against the sun. Photon sails are
+completely useless in atmosphere—in fact, they’re instantly destroyed by
+atmospheric entry—making a secondary propulsion system a virtual
+necessity for most sail-ships.
 
 **Minimum Ship Size:** Gargantuan.
 
@@ -124,7 +116,7 @@ propulsion system a virtual necessity for most sail-ships.
 **Purchase DC:** 10 + one-quarter the base purchase DC of the starship
 (per set of photon sails).
 
-## Induction Engine (pl 7)
+## Induction Engine (PL 7)
 
 Hands-down the best engine available at this or any previous Progress
 Level, the induction engine uses artificial gravity to provide
@@ -138,7 +130,7 @@ deep-space work.
 
 **Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-## Particle Impulse Engine (pl 7)
+## Particle Impulse Engine (PL 7)
 
 The particle impulse engine is the next evolutionary step of the PL 6
 ion engine. It uses magnetic fields to produce a constant stream of
@@ -158,7 +150,7 @@ exhaust ports, but nowhere near as much damage as PL 6 engines do.
 
 **Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-## Gravitic Redirector (pl 8)
+## Gravitic Redirector (PL 8)
 
 A refinement of the induction engine, the gravitic redirector creates a
 gravitic singularity—essentially, a sub-microscopic black hole—in the
@@ -177,7 +169,7 @@ rely on shuttlecraft.
 
 **Purchase DC:** 10 + one-half the base purchase DC of the starship.
 
-## Inertial Flux Engine (pl 8)
+## Inertial Flux Engine (PL 8)
 
 By precisely controlling the quantum energy level of every atom on the
 ship simultaneously, the inertial flux engine assumes the inertial
@@ -195,7 +187,7 @@ also have secondary thrusters or rely on shuttlecraft.
 
 **Purchase DC:** 15 + one-half the base purchase DC of the starship.
 
-## Spatial Compressor (pl 9)
+## Spatial Compressor (PL 9)
 
 The most advanced engine available, the spatial compressor surrounds the
 ship in a field that “folds” or “wrinkles” the fabric of space in the

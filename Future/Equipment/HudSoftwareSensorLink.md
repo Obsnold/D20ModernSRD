@@ -1,4 +1,4 @@
-# Hud Software, Sensor Link
+# HUD Software, Sensor Link
 
 A piece of software for the heads-up display device, the sensor link
 allows the user to directly link any computer sensor to the HUD. As a

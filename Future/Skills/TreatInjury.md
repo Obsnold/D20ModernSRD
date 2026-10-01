@@ -1,4 +1,4 @@
-# Treat Injury (wis)
+# Treat Injury (Wis)
 
 This skill can be used to treat members of other species, provided they
 are neither constructs nor undead.

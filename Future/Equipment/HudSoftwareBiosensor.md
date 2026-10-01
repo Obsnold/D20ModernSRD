@@ -1,4 +1,4 @@
-# Hud Software, Biosensor
+# HUD Software, Biosensor
 
 A piece of software for the heads-up display device, biosensor software
 allows the wearer of the HUD to identify potential weaknesses in

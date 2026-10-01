@@ -1,4 +1,4 @@
-# Extraterrestrial (template)
+# Extraterrestrial (Template)
 
 The term “extraterrestrial” is used to describe creatures from other
 worlds. Extraterrestrials capable of space travel can be encountered

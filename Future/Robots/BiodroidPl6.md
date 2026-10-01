@@ -27,7 +27,7 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Restriction:** Licensed (+1).
 
-**Table: Biodroid Robot Frames (Pl 6)**
+**Table: Biodroid Robot Frames (PL 6)**
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 | -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |

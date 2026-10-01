@@ -1,4 +1,4 @@
-# Repair (int)
+# Repair (Int)
 
 You can use this skill to repair vehicles, starships, mecha, cybernetic
 attachments, and constructs (including robots). You can also use the

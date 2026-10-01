@@ -1,4 +1,4 @@
-# Bogeyman (TEMPLATE)
+# Bogeyman (Template)
 
 ## Template Traits
 

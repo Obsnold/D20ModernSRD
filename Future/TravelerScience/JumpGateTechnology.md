@@ -47,7 +47,7 @@ what percentage of the journey the ship had completed, then compare that
 percentage to the real distance; this is how far from its destination
 the ship is.
 
-## Jump Gate (pl 7)
+## Jump Gate (PL 7)
 
 Jump gates consist of gigantic rings in space that use fusion reactors
 to generate a magnetic field capable of holding open a collapsing
@@ -90,7 +90,7 @@ jump gate.
 
 **Restriction:** Licensed (+1).
 
-## Jump Network (pl 8)
+## Jump Network (PL 8)
 
 As science develops ways to harness the power of singularities,
 astrophysicists apply the technology to wormholes. A jump network is a
@@ -112,7 +112,7 @@ planets and stars are government owned and designated for public use.
 
 **Restriction:** Licensed (+1).
 
-## Jump Drive (pl 9)
+## Jump Drive (PL 9)
 
 The jump drive is a portable version of a jump gate. Ships carrying a
 jump drive can create a stable, though temporary, wormhole. The

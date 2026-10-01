@@ -9,7 +9,7 @@ successful saves required. Use the table above as a guide.
 
 Below are several example gene therapy templates.
 
-## Aquan (template)
+## Aquan (Template)
 
 “Aquan” is an acquired template that can be added to any humanoid or
 monstrous humanoid (referred to hereafter as the character). It uses all
@@ -42,7 +42,7 @@ water, and a +4 species bonus on all Swim checks.
 
 **Advancement:** By character class.
 
-## Healer (template)
+## Healer (Template)
 
 “Healer” is an acquired template that can be added to any humanoid or
 monstrous humanoid (referred to hereafter as the character). It uses all
@@ -69,7 +69,7 @@ Injury checks made to treat himself.
 
 **Advancement:** By character class.
 
-## Morphean (template)
+## Morphean (Template)
 
 “Morphean” is an acquired template that can be added to any humanoid or
 monstrous humanoid (referred to hereafter as the character). It uses all
@@ -95,24 +95,21 @@ to a number of days equal to twice the character’s Constitution. The
 morphean decides how long the hibernation will last before entering into
 the sleeplike state. If outside forces disturb or try to awaken the
 character, the morphean must succeed at a Will saving throw (DC 15) to
-end the
-
-hibernation prematurely.
+end the hibernation prematurely.
 
 *Sleepless (Ex):* The morphean does not suffer the detrimental effects
-of sleep deprivation. Once per day, the morphean can
-
-spend 10 minutes meditating and receive all the benefits of a full 8
-hours of sleep. However, morpheans cannot go indefinitely without sleep.
-Once every 30 days, the character must get 2 full days of uninterrupted
-sleep or hibernation. Failure to do so makes the morphean fatigued.
+of sleep deprivation. Once per day, the morphean can spend 10 minutes
+meditating and receive all the benefits of a full 8 hours of sleep.
+However, morpheans cannot go indefinitely without sleep. Once every 30
+days, the character must get 2 full days of uninterrupted sleep or
+hibernation. Failure to do so makes the morphean fatigued.
 
 **Saving Throws:** A morphean gains a +2 species bonus on all Will
 saving throws.
 
 **Advancement:** By character class.
 
-## Nocturnal (template)
+## Nocturnal (Template)
 
 “Nocturnal” is an acquired template that can be added to any humanoid or
 monstrous humanoid (referred to hereafter as the character). It uses all

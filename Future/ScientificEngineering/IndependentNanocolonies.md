@@ -7,14 +7,12 @@ of technology. These nanocolonies usually perform independent tasks,
 creating or building or destroying, without having to enhance or alter
 an existing object. In fact, most independent nanocolonies are designed
 to function as autonomous units once released into the air, only
-altering their objectives when given new
-
-commands or new programming.
+altering their objectives when given new commands or new programming.
 
 Independent nanocolonies are among the most dangerous because they can
 move about freely and cannot be reclaimed easily (if at all) should a
 malfunction occur. In some settings, independent nanocolonies are the
-direct cause of the fall of entire civilizations, thank s to nanites
+direct cause of the fall of entire civilizations, thanks to nanites
 that consumed natural resources or destroyed infrastructure. Some
 independent nanocolonies are capable of wiping out entire planets,
 moving from one object to the next devouring and destroying all that

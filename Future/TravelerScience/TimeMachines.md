@@ -8,7 +8,7 @@ aluminum and resembling something more like bathyspheres. Those that
 follow are constructed as fixed tunnels leading to nowhere, while those
 mounted in starships turn the entire ship into the time machine.
 
-## Time Sphere (pl 8)
+## Time Sphere (PL 8)
 
 Time spheres are small, two-seated modules designed to withstand any
 reasonable amount of buffeting that might occur when the machine finally
@@ -41,7 +41,7 @@ Time spheres have the following statistics:
 **Hardness** 5; **Hit Points** 24; **Size** Huge; **Purchase DC:** 65;
 **Restriction:** Illegal (+4).
 
-## Temporal Drive Generator (pl 9)
+## Temporal Drive Generator (PL 9)
 
 Like the D-drive generator, which is designed to carry starships across
 dimensional boundaries, the temporal drive generator (or “T-drive
@@ -52,7 +52,7 @@ a starship of any size and turns the entire ship into a time machine.
 
 **Restriction:** Military (+3).
 
-## Time Bridge (pl 9)
+## Time Bridge (PL 9)
 
 Doing away with the issue of portability, the time bridge opens a portal
 to both other times *and* other places. The time bridge also has the

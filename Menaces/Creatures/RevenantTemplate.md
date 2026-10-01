@@ -1,27 +1,16 @@
-# Revenant (TEMPLATE)
+# Revenant (Template)
 
-## A revenant appears much as it did in life. Although the
-
+A revenant appears much as it did in life. Although the
 decay and stench of a dead body are lacking, its skin has a
-
 deathly pallor. Its body typically shows subtle or obvious
-
 signs of its manner of death. A revenant understands
-
 that it is dead and seeks to hide this fact from
-
 anyone who might see it, so it rarely moves about in the
-
 daylight and avoids brightly illuminated areas. Those who
-
 knew the revenant in life usually recognize it. The revenant
-
 retains its memories and habits, but it seems colder and
-
 more emotionally distant than it once was. Astute observers
-
 might also note that the revenant is nimbler than it once
-
 was.
 
 ## Template Traits

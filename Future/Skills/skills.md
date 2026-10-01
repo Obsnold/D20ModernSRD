@@ -5,11 +5,11 @@ campaigns.
 
 ## Expanded Skill Descriptions
 
-- [Bluff (cha)](Bluff.md)
-- [Computer Use (int)](ComputerUse.md)
-- [Disable Device (int)](DisableDevice.md)
-- [Knowledge (technology) (int)](Knowledge.md)
-- [Navigate (int)](Navigate.md)
-- [Pilot (dex)](Pilot.md)
-- [Repair (int)](Repair.md)
-- [Treat Injury (wis)](TreatInjury.md)
+- [Bluff (Cha)](Bluff.md)
+- [Computer Use (Int)](ComputerUse.md)
+- [Disable Device (Int)](DisableDevice.md)
+- [Knowledge (technology) (Int)](Knowledge.md)
+- [Navigate (Int)](Navigate.md)
+- [Pilot (Dex)](Pilot.md)
+- [Repair (Int)](Repair.md)
+- [Treat Injury (Wis)](TreatInjury.md)

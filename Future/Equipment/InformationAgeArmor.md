@@ -2,7 +2,7 @@
 
 The following armors are available at PL 5 and later.
 
-## Flight Suit And Helmet
+## Flight Suit and Helmet
 
 The flight suit and helmet combination worn by combat pilots doubles as
 body armor that protects grounded pilots. The flight suit contains

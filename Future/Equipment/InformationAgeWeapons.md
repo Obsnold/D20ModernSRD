@@ -61,10 +61,9 @@ only deals +1 die of damage instead of +2 dice of damage. (In effect,
 using the Burst Fire feat with this weapon results in the effect of the
 Double Tap feat.) This setting does not grant the ability to make burst
 fire attacks without the Burst Fire feat; if you use the setting without
-the feat, you make a normal attack, and the extra two bullets
-
-not have the automatic rate of fire, this weapon cannot be used to make
-autofire attacks.
+the feat, you make a normal attack, and the extra two bullets not have
+the automatic rate of fire, this weapon cannot be used to make autofire
+attacks.
 
 ## Tactical Military (TACMIL) Sniper Rifle
 

@@ -13,13 +13,13 @@ motorcycles is Drive.
 | **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
 | Stradtler Valkyrie                | 1    | 1    | F     | –2   | +1       | 295 (29)  | 9       | 5    | 24         | L    | 28          | Lic (+1)    |
 
-## Harris-Musselman Dirt Bike (pl 6)
+## Harris-Musselman Dirt Bike (PL 6)
 
 Known as the “Muscleman,” the H-M is a popular recreational motorcycle
 that also happens to enjoy wide use by military recon units. It is 1
 square wide and 2 squares long.
 
-## Stradtler Valkyrie (pl 7)
+## Stradtler Valkyrie (PL 7)
 
 Stradtler’s version of the street bike upholds the Norwegian motor
 company’s reputation for high performance and luxury. Constructed on the

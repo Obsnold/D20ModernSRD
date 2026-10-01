@@ -15,7 +15,7 @@ except as noted below. The operative skill for trucks is Drive.
 | **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
 | Zhang Motors XRL (SUV)            | 1    | 3    | L     | –2   | –1       | 245 (24)  | 8       | 5    | 40         | H    | 32          | Lic (+1)    |
 
-## Cretan Motors “hecaton” (pl 6)
+## Cretan Motors “hecaton” (PL 6)
 
 The national automobile company of Crete came late to the industry, but
 has made impressive strides toward winning over truck buyers. The
@@ -28,23 +28,23 @@ lakes and being pulled out with the interior dry as a bone and the
 occupants casually listening to the stereo. The Hekatoncheires is 3
 squares wide and 4 squares long.
 
-## Cretan Motors Kentaur (pl 6)
+## Cretan Motors Kentaur (PL 6)
 
 Cretan Motors produces a smaller, faster, “light-duty” pickup with many
 of the same features of the larger Hekatoncheires but without all the
 cargo space. The Kentaur is 2 squares wide and 3 squares long.
 
-## Gaia Motor Company Virgo (pl 6)
+## Gaia Motor Company Virgo (PL 6)
 
 The Gaia Motor Company developed a line of automobiles powered by the
 popular fusion minireactor. The Virgo minivan is a top seller, capable
 of high speeds yet comfortably easy to handle. It is 2 squares wide and
 3 squares long.
 
-## Zhang Motors Xrl (pl 7)
+## Zhang Motors Xrl (PL 7)
 
 The XRL is designed to operate using a less expensive particle reactor,
-rather than t he s lightly more stable fusion minireactor. This gamble
+rather than the slightly more stable fusion minireactor. This gamble
 ultimately paid off when an XRL won the Australian Rally Challenge. The
 XRL comes only in a two-door style. It is 2 squares wide and 3 squares
 long.

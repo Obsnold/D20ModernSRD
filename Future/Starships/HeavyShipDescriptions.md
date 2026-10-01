@@ -2,7 +2,7 @@
 
 Specific subtypes of heavy starships are given here.
 
-## Battleship (pl 6)
+## Battleship (PL 6)
 
 The mainstay of many spacefaring navies, the battleship is heavily armed
 and armored, although not very maneuverable. Battleships serve as the
@@ -62,7 +62,7 @@ driver (range incr. 4,000 ft.)
 
 **Grappling Systems:** Grapplers
 
-## Fleet Carrier (pl 6)
+## Fleet Carrier (PL 6)
 
 The fleet carrier has the ability to launch devastating attacks from
 millions of miles away, in the form of large numbers of fighters or
@@ -127,7 +127,7 @@ each)
 
 **Grappling Systems:** Grapplers
 
-## Heavy Transport (pl 6)
+## Heavy Transport (PL 6)
 
 The heavy transport is designed to move great amounts of specialized
 cargo such as bulk freight, containerized freight, or roll-on/rolloff
@@ -183,7 +183,7 @@ battery of 3 gauss guns (range incr. 4,000 ft.)
 
 **Grappling Systems:** Grapplers
 
-## Tanker (pl 6)
+## Tanker (PL 6)
 
 A tanker is a large starship intended for the transport of large
 quantities of gases or liquids. It can be adapted for other forms of
@@ -236,7 +236,7 @@ point-defense system, radiation shielding, sensor jammer
 
 **Grappling Systems:** Grapplers
 
-## Battle Cruiser (pl 7)
+## Battle Cruiser (PL 7)
 
 The battle cruiser is a formidable warship that sacrifices weight of
 armor in exchange for speed. Its heavy weapons can make short work of
@@ -295,7 +295,7 @@ fields; 10d10×10 damage)
 
 **Grappling Systems:** Tractor beam emitter
 
-## Liner (pl 7)
+## Liner (PL 7)
 
 This is a full-sized passenger ship. Although any vessel this size can’t
 avoid carrying some cargo, the liner specializes in moving a large

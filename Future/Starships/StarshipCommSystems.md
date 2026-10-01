@@ -2,9 +2,8 @@
 
 The ability to communicate with other ships and bases is vital to
 starships. The more advanced a ship’s communications capabilities, the
-better informed its crew is, and the better they can coordinate
-
-with other ships in the same fleet.
+better informed its crew is, and the better they can coordinate with
+other ships in the same fleet.
 
 To build a communication system from scratch, a character must succeed
 at a Craft (electrical) check (DC 30) after investing a number of hours
@@ -38,7 +37,7 @@ type: ultralight 13, light 16, mediumweight 19, heavy 22, superheavy 25.
 Increase the purchase DC by +2 if the comm stations include video screen
 displays as well.
 
-## Radio Transceiver (pl 5)
+## Radio Transceiver (PL 5)
 
 The radio transceiver can transmit on multiple frequencies in either LOS
 (line of sight) or omnidirectional mode, sending messages at the speed
@@ -47,7 +46,7 @@ conversations.
 
 **Purchase DC:** 21.
 
-## Laser Transceiver (pl 6)
+## Laser Transceiver (PL 6)
 
 This system uses a beam of coherent light to transmit messages. The
 laser is unidirectional; the signal cannot be intercepted or jammed
@@ -64,7 +63,7 @@ get a response at interstellar distances.
 
 **Purchase DC:** 23.
 
-## Drivesat Comm Array (pl 7)
+## Drivesat Comm Array (PL 7)
 
 This massive comm array provides rapid interstellar communications. The
 array consists of a constellation of dozens of small transmitters that
@@ -82,7 +81,7 @@ drivesat comm array.
 
 **Purchase DC:** 53.
 
-## Mass Transceiver (pl 7)
+## Mass Transceiver (PL 7)
 
 This device can transmit instantaneously to any point in the same star
 system, with no “lag” due to FTL limitations. However, its range is
@@ -90,7 +89,7 @@ limited to about 1,000 AU, so the signal can’t cross interstellar space.
 
 **Purchase DC:** 25.
 
-## Drive Transceiver (pl 8)
+## Drive Transceiver (PL 8)
 
 The drive transceiver is the first interstellar comm system that’s truly
 practical for small ships or second-rate colonies. It operates like the
@@ -100,7 +99,7 @@ hour. The target station must also be equipped with a drive transceiver.
 
 **Purchase DC:** 28.
 
-## Ansible (pl 9)
+## Ansible (PL 9)
 
 The ansible is a device that induces precise changes in the energy
 states of atomic nuclei, without regard to distance or time. In effect,

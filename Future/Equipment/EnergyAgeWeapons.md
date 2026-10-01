@@ -55,8 +55,8 @@ automatically (in other words, the target does not die).
 A psionic grenade releases a 10-foot-radius psionic blast that affects
 only creatures with psionic abilities or powers. Any such creature that
 fail a Reflex save (DC 18) cannot use its psionic abilities or psionic
-powers for 1d4 rounds. In addition, it must succeed on a Will s ave (DC
-15\) o r suffer 1d6 points of temporary I ntelligence, Wisdom, and
+powers for 1d4 rounds. In addition, it must succeed on a Will save (DC
+15\) or suffer 1d6 points of temporary Intelligence, Wisdom, and
 Charisma damage.
 
 ## Grenade, Singularity

@@ -54,7 +54,7 @@ against the weapon’s purchase DC.
 ² See the weapon’s description for collateral effects to crew and passengers.\
 ³ This mastercraft weapon grants a +1 bonus on attack rolls.
 
-## A3X Dragon Flame-Thrower (pl 5)
+## A3X Dragon Flame-Thrower (PL 5)
 
 Used primarily against soft, unarmored targets, the A3X Dragon
 flame-thrower sprays a 30-foot cone of burning liquid fuel. Anyone
@@ -78,7 +78,7 @@ attacks; refueling the tank has a purchase DC of 12.
 
 **Restriction:** Military (+3).
 
-## M-9 Barrage Chaingun (pl 5)
+## M-9 Barrage Chaingun (PL 5)
 
 Essentially a high-tech version of the medium machinegun, the M-9
 Barrage has multiple barrels that fire large-caliber ammunition, dealing
@@ -104,7 +104,7 @@ shoulders.
 
 **Restriction:** Restricted (+2).
 
-## M-53 Firestar Rocket Launcher (pl 5)
+## M-53 Firestar Rocket Launcher (PL 5)
 
 M-53 Firestar rocket launchers fire self-guided incendiary-tipped
 rockets at any point within range. When the rocket reaches the
@@ -131,14 +131,14 @@ arm, or shoulders; 1 for each six-rocket pack.
 
 **Restriction:** Military (+3).
 
-## M-55 Crud Rocket Launcher (pl 5)
+## M-55 Crud Rocket Launcher (PL 5)
 
 The M-55 Crud rocket launcher is similar to the M-53 Firestar rocket
 launcher. M-55 Crud shells release high-velocity shrapnel that deals
 10d6 points of slashing damage to everything within its burst radius. A
 successful Reflex save (DC 17) reduces the damage by half.
 
-## M-87 Talon Missile Launcher (pl 5)
+## M-87 Talon Missile Launcher (PL 5)
 
 The most common missile launcher installed on mecha, the M-87 Talon
 deals 15d6 points of damage to its target; half of the damage is
@@ -163,7 +163,7 @@ additional 4-missile pack.
 
 **Restriction:** Military (+3).
 
-## PS-15 Panther Claws (pl 5)
+## PS-15 Panther Claws (PL 5)
 
 A mecha equipped with these durable alloy claws can tear great rents in
 most metal plating. The claws can be extended or retracted as a free
@@ -192,7 +192,7 @@ The claws are one size category smaller than the mecha’s size category.
 
 **Restriction:** None.
 
-## Thunderbolt Shock Rod (pl 5)
+## Thunderbolt Shock Rod (PL 5)
 
 The Thunderbolt shock rod is essentially a one-handed metal rod with an
 electrical current running through the end. Damage is determined by the
@@ -218,7 +218,7 @@ The shock rod’s size category is the same as the mecha’s size category.
 
 **Restriction:** None.
 
-## Warpath Recoilless Rifle (pl 5)
+## Warpath Recoilless Rifle (PL 5)
 
 The Warpath recoilless rifle is a rapid-fire cannon that fires shells
 that detonate on impact. Each shell deals 10d6 points of damage, and the
@@ -242,7 +242,7 @@ magazine.
 
 **Restriction:** Military (+3).
 
-## Corona Microwave Beam (pl 6)
+## Corona Microwave Beam (PL 6)
 
 The Corona microwave beam is the cheapest PL 6 mecha energy weapon. It
 deals 5d6 points of fire damage on a successful hit.
@@ -263,7 +263,7 @@ deals 5d6 points of fire damage on a successful hit.
 
 **Restriction:** Restricted (+2).
 
-## LK8 Armor-Piercing Pike (pl 6)
+## LK8 Armor-Piercing Pike (PL 6)
 
 This massive carbon-alloy polearm deals piercing damage based on the
 size of the mecha wielding it: Large 2d10, Huge 4d10, Gargantuan 6d10,
@@ -291,7 +291,7 @@ size category, up to a maximum size of Colossal.
 
 **Restriction:** None.
 
-## M-21 Comet Autolaser (pl 6)
+## M-21 Comet Autolaser (PL 6)
 
 Consisting of a rotating ring of laser cannons, the M-21 Comet autolaser
 deals 8d6 points of fire damage with a successful attack.
@@ -313,7 +313,7 @@ shoulders.
 
 **Restriction:** Military (+3).
 
-## M-70 EMP Rocket Launcher (pl 6)
+## M-70 EMP Rocket Launcher (PL 6)
 
 The M-70 EMP rocket launcher is similar to the M-53 Firestar rocket
 launcher. An EMP shell releases an electromagnetic pulse that deals 10d6
@@ -327,7 +327,7 @@ dazed for 1 round.
 **Purchase DC:** 27 for rocket launcher and 6 rockets, 15 per additional
 6-rocket pack.
 
-## M-75 Cricket Rocket Launcher (pl 6)
+## M-75 Cricket Rocket Launcher (PL 6)
 
 The M-75 Cricket rocket launder is similar to the M-53 Firestar rocket
 launder. A Cricket shell releases a sonic pulse that deals 10d6 points
@@ -341,7 +341,7 @@ passengers aboard the damaged mecha must succeed at a Fortitude save (DC
 **Purchase DC:** 25 for rocket launcher and 6 rockets, 13 per additional
 6-rocket pack.
 
-## Nkp Puma Pop-Up Turret (pl 6)
+## NKP Puma Pop-Up Turret (PL 6)
 
 The NKP Puma pop-up turret is a miniature plasma cannon concealed under
 a breakaway hatch in a mecha’s hull. A triumph of miniaturization, it
@@ -364,7 +364,7 @@ any equipment slot) package. It deals 8d6 points of fire damage.
 
 **Restriction:** Military (+2).
 
-## T-95 Cavalcade Chaingun (pl 6)
+## T-95 Cavalcade Chaingun (PL 6)
 
 More compact and powerful than the M-9 Barrage chaingun, the M- 95
 Cavalcade has multiple barrels that fire large-caliber ammunition,
@@ -390,7 +390,7 @@ shoulders.
 
 **Restriction:** Restricted (+2).
 
-## Typhoon 240 Laser Cannon (pl 6)
+## Typhoon 240 Laser Cannon (PL 6)
 
 A reliable laser cannon, the Typhoon 240 deals 10d6 points of fire
 damage with a successful attack.
@@ -412,7 +412,7 @@ shoulders, or visor.
 
 **Restriction:** Military (+3).
 
-## Chrysanthemum Laser Array (pl 6)
+## Chrysanthemum Laser Array (PL 6)
 
 A barrage of phosphorus lasers deals massive damage to the mecha’s
 surroundings, making this a weapon of last resort. Everything within 60
@@ -439,7 +439,7 @@ be replaced.
 
 **Restriction:** Military (+3).
 
-## M-300 Rhino Mass Cannon (pl 7)
+## M-300 Rhino Mass Cannon (PL 7)
 
 The M-300 Rhino mass cannon charges a small bit of matter with
 incredible gravitational energy, then hurls it at the target, where its
@@ -464,7 +464,7 @@ shoulders.
 
 **Restriction:** Military (+3).
 
-## PS-25 Tiger Claws (pl 7)
+## PS-25 Tiger Claws (PL 7)
 
 An improvement over the PS-15 Panther claws, PS-25 Tiger claws have
 monofilament edges that shear through armor plating like knives through
@@ -493,7 +493,7 @@ The claws are one size category smaller than the mecha’s size category.
 
 **Restriction:** None.
 
-## Tsunami 480 Plasma Cannon (pl 7)
+## Tsunami 480 Plasma Cannon (PL 7)
 
 The Tsunami 280 plasma cannon has two aperture settings: focused beam
 and wide-angle beam. The mecha operator can switch between settings as a
@@ -522,7 +522,7 @@ shoulders, or visor.
 
 **Restriction:** Military (+3).
 
-## Xj-A Python Electro-Whip (pl 7)
+## XJ-A Python Electro-Whip (PL 7)
 
 The XJ-A Python is an electrified cable with embedded servomotors that
 wrap around the target. The Python deals electricity damage according to
@@ -557,7 +557,7 @@ category.
 
 **Restriction:** Restricted (+2).
 
-## Avenger Electro-Scimitar (pl 8)
+## Avenger Electro-Scimitar (PL 8)
 
 The Avenger electro-scimitar is a lightweight and efficient one-handed
 melee weapon. As a mastercraft item, it grants a +1 bonus on attack
@@ -588,7 +588,7 @@ category.
 
 **Restriction:** None.
 
-## LT-5 Longshot Mass Driver (pl 8)
+## LT-5 Longshot Mass Driver (PL 8)
 
 Mass drivers fire hyper-accelerated spent-uranium slugs at the target,
 dealing damage strictly through the massive kinetic energy the round
@@ -614,7 +614,7 @@ magazine.
 
 **Restriction:** Military (+3).
 
-## RP-91 Reaper Laser Scythe (pl 8)
+## RP-91 Reaper Laser Scythe (PL 8)
 
 The RP-91 Reaper is a two-handed melee weapon with a crystal carbon
 shaft housing laser and magnetic field generators. When activated by the

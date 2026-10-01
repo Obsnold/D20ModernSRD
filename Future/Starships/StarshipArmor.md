@@ -21,7 +21,7 @@ starship’s tactical speed, given in feet and squares.
 
 **Restriction:** The restriction rating of the armor.
 
-## Alloy Plating (pl 5)
+## Alloy Plating (PL 5)
 
 Alloy plating is made of advanced metal alloys engineered for high
 resistance to attacks at relatively low weights.
@@ -36,7 +36,7 @@ resistance to attacks at relatively low weights.
 
 **Restriction:** None.
 
-## Polymeric (pl 6)
+## Polymeric (PL 6)
 
 Polymeric armor is made up of advanced polymers, such as carbon fiber
 and high-grade fiberglass. It is relatively cheap and light, but doesn’t
@@ -52,7 +52,7 @@ offer tremendous protection.
 
 **Restriction:** Licensed (+1).
 
-## Vanadium (pl 6)
+## Vanadium (PL 6)
 
 Interlocking plates of light vanadium alloy absorb a respectable amount
 of damage and are easy to mold to a starship’s hull.
@@ -67,7 +67,7 @@ of damage and are easy to mold to a starship’s hull.
 
 **Restriction:** Military (+3).
 
-## Cerametal (pl 7)
+## Cerametal (PL 7)
 
 Combining the heat-resistant qualities of tough ceramics with the
 ductile strength of metal, cerametal armor offers a good compromise
@@ -83,7 +83,7 @@ between protection and economy.
 
 **Restriction:** Licensed (+1).
 
-## Deflective (pl 7)
+## Deflective (PL 7)
 
 Deflective armor is composed of a shiny, light, flexible polymer
 especially good at neutralizing energy damage but less effective against
@@ -100,7 +100,7 @@ all other attacks.
 
 **Restriction:** Military (+3).
 
-## Neutronite (pl 7)
+## Neutronite (PL 7)
 
 Neutronite is a tough steel alloy into which a “weave” of free neutrons
 has been pressed. It is extremely resilient but also incredibly massive,
@@ -116,7 +116,7 @@ weighing about five times more than a similar volume of lead.
 
 **Restriction:** Military (+3).
 
-## Ablative (pl 8)
+## Ablative (PL 8)
 
 This silvery, reflective armor is amazingly thin, yet has tremendous
 tensile strength and the ability to absorb damage better than most kinds
@@ -132,7 +132,7 @@ of armor plating.
 
 **Restriction:** Military (+3).
 
-## Nanofluidic (pl 8)
+## Nanofluidic (PL 8)
 
 Consisting of a thick layer of gel-like fluid sandwiched in a neutronite
 structure, nanofluidic armor is “smart” armor—it concentrates at the

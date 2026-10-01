@@ -2,7 +2,7 @@
 
 Specific subtypes of superheavy starships are given here.
 
-## Colony Ship (pl 7)
+## Colony Ship (PL 7)
 
 This massive vessel is designed to haul everything a new colony needs to
 get started. Its cavernous storage decks can accommodate thousands of
@@ -60,7 +60,7 @@ battery of 2 plasma missile launchers (16 missiles each)
 
 **Grappling Systems:** Grapplers, tractor beam emitter
 
-## Dreadnought (pl 7)
+## Dreadnought (PL 7)
 
 The mightiest ships found in the battle lines of a stellar navy,
 dreadnoughts are titanic vessels armed with awesome firepower and
@@ -122,7 +122,7 @@ gravitic mines with displacers, magnetic fields, and particle fields;
 
 **Grappling Systems:** Tractor beam emitter
 
-## Star Carrier (pl 7)
+## Star Carrier (PL 7)
 
 A larger version of the fleet carrier, the star carrier serves as a
 mobile base for smaller craft. A star carrier’s fighting space takes up
@@ -183,7 +183,7 @@ battery of 4 antimatter guns (range incr. 5,000 ft.)
 
 **Grappling Systems:** Tractor beam emitter
 
-## Star Freighter (pl 7)
+## Star Freighter (PL 7)
 
 The largest of the starships built for routine commercial purposes, the
 star freighter can be modified to serve as a super-tanker or

@@ -2,7 +2,7 @@
 
 Specific subtypes of light starships are given here.
 
-## Corvette (pl 6)
+## Corvette (PL 6)
 
 Essentially a larger version of the escort ship, the corvette serves as
 both a gunship and fleet escort. Of the military vessels designed to
@@ -58,7 +58,7 @@ firelinked CHE missile launchers (8 missiles each)
 
 **Grappling Systems:** Grapplers
 
-## Destroyer (pl 6)
+## Destroyer (PL 6)
 
 Destroyers take their name from the torpedo-boat destroyers of the late
 19th century. They are integral to the defense of a task force,
@@ -121,7 +121,7 @@ fire-linked nuclear missile launchers (8 missiles each), 1 needle driver
 
 **Grappling Systems:** Grapplers
 
-## Frigate (pl 6)
+## Frigate (PL 6)
 
 A military vessel used for scouting and escort duties, the frigate is
 primarily intended to act as a screen for larger vessels against attacks
@@ -180,7 +180,7 @@ fire-linked nuclear missile launchers (8 missiles each), 1 needle driver
 
 **Grappling Systems:** Grapplers
 
-## Hauler (pl 6)
+## Hauler (PL 6)
 
 The hauler is a space-going tug that drags heavy, nonpowered loads and
 modular cargo containers, though they have precious little cargo space

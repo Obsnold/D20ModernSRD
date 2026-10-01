@@ -1,4 +1,4 @@
-# Hud Software, Ammunition Tracker
+# HUD Software, Ammunition Tracker
 
 A piece of software for the heads-up display device, the Ammunition
 Tracker is able to keep track of exactly how many shots have been

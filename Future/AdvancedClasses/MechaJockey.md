@@ -1,29 +1,58 @@
-# Class Information
+# Mecha Jockey
+
+Select this advanced class if you want your character to be an expert
+mecha operator, in command of a massive, armored war machine equipped
+with terrifying weaponry. The fastest path into this advanced class is
+from the Fast hero basic class, though other paths are possible.
+
+## Requirements
+
+To qualify to become a Mecha Jockey, a character must fulfill all the
+following criteria.
+
+**Skills:** Drive 6 ranks.
+
+**Feats:** Mecha Operation.
+
+## Class Information
 
 The following information pertains to the Mecha Jockey advanced class.
 
-## Hit Die
+### Hit Die
 
 The Mecha Jockey gains 1d10 hit points per level. The character’s
 Constitution modifier applies.
 
-## Action Points
+### Action Points
 
 The Mecha Jockey gains a number of action points equal to 6 + one-half
 his character level, rounded down, each time he attains a new level in
 this class.
 
-## Class Skills
+### Class Skills
 
-The Mecha Jockey’s class skills are as follows. Bluff (Cha), Computer
-Use (Int), Drive (Dex), Knowledge (current events, popular culture,
-streetwise, technology) (Int), Navigate (Int), Pilot (Dex), Profession
-(Wis), Read/Write Language (none), Repair (Int), Sleight of Hand (Dex),
-Speak Language (none), Spot (Wis),
+The Mecha Jockey’s class skills are as follows.
 
-Tumble (Dex).
+- Bluff (Cha)
+- Computer Use (Int)
+- Drive (Dex)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (technology) (Int)
+- Navigate (Int)
+- Pilot (Dex)
+- Profession (Wis)
+- Read/Write Language (none)
+- Repair (Int)
+- Sleight of Hand (Dex)
+- Speak Language (none)
+- Spot (Wis)
+- Tumble (Dex)
 
 **Skill Points at Each Level:** 5 + Int modifier.
+
+### Class Table
 
 **Table: The Mecha Jockey**
 
@@ -65,19 +94,48 @@ more than one new weapon, he must operate it for at least one month
 before he is familiar with it. A Mecha Jockey can be familiar with only
 one mecha at a time.
 
-### Bonus Feat
+### Bonus Feats
 
 At 3rd, 6th, and 9th level, the Mecha Jockey gains a bonus feat. The
 bonus feat must be selected from the following list, and the Mecha
 Jockey must meet all the prerequisites of the feat to select it.
-Advanced F irearms Proficiency, Advanced Mecha Operation, Burst Fire,
-Cleave, Combat Expertise, Dead Aim, Dodge, Double Tap, Far Shot, Force
-Stop, Gearhead, Great Cleave, Hair Trigger, Improved Bull Rush, Improved
-Disarm, Improved Sunder, Improved Trip, Mecha Crush, Mecha Fling, Mecha
-Operation, Mecha Sweep, Mecha Trample, Mecha Weapon Boost, Mobility,
-Personal Firearms Proficiency, Point Blank Shot, Power Attack, Precise
-Shot, Shot on the Run, Skip Shot, Spring Attack, Strafe, Stun Mecha,
-Thruster Blast, Weapon Focus (mecha weapon only), Whirlwind Attack.
+
+- Advanced Firearms Proficiency
+- Advanced Mecha Operation
+- Burst Fire
+- Cleave
+- Combat Expertise
+- Dead Aim
+- Dodge
+- Double Tap
+- Far Shot
+- Force Stop
+- Gearhead
+- Great Cleave
+- Hair Trigger
+- Improved Bull Rush
+- Improved Disarm
+- Improved Sunder
+- Improved Trip
+- Mecha Crush
+- Mecha Fling
+- Mecha Operation
+- Mecha Sweep
+- Mecha Trample
+- Mecha Weapon Boost
+- Mobility
+- Personal Firearms Proficiency
+- Point Blank Shot
+- Power Attack
+- Precise Shot
+- Shot on the Run
+- Skip Shot
+- Spring Attack
+- Strafe
+- Stun Mecha
+- Thruster Blast
+- Weapon Focus (mecha weapon only)
+- Whirlwind Attack
 
 ### Mecha Feint
 

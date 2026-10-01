@@ -51,7 +51,7 @@ modifications to their ecosystems (a long a painstaking process called
 ## Inhospitable Stars
 
 Class O, B, A, and M stars are the least likely to support planets
-capable of hosting human life. T he s tars toward the hotter end of the
+capable of hosting human life. The stars toward the hotter end of the
 spectrum simply produce too much heat to allow living, breathing
 organisms to thrive. Class M stars do not give off enough heat to
 support life at the distance Earth orbits its sun, and these stars are
@@ -116,7 +116,7 @@ heat could be generated.
 ## Black Dwarf Stars
 
 Black dwarf stars completely burn out after expending their fuel. Truly
-the most stable of dead stars, b lack dwarfs simply consume their fuel
+the most stable of dead stars, black dwarfs simply consume their fuel
 supply and then cool into a cinder that emits no light or heat. Any
 planetary systems that existed around a black dwarf will remain intact;
 however, they usually become barren and frozen once their heat and light

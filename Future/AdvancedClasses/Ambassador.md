@@ -141,12 +141,9 @@ Information skill.
 ### Stipend
 
 Skilled diplomats are well paid for their loyalty and dedication, and
-
 they are accustomed to traveling in style. At 5th level, and again at
 
-8th level, the Ambassador gains a one-time Wealth bonus increase
-
-of +4.
+8th level, the Ambassador gains a one-time Wealth bonus increase of +4.
 
 ### Restricted Access
 

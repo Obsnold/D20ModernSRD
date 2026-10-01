@@ -113,33 +113,33 @@ settings and can’t normally fire single shots.
 ³ In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).\
 ⁴ This weapon’s damage ignores a ship’s hardness.
 
-## Fusion Beam (pl 6)
+## Fusion Beam (PL 6)
 
 The fusion beam initiates a fusion reaction and then directs the blast
 at the target.
 
-## Gauss Gun (pl 6)
+## Gauss Gun (PL 6)
 
 The gauss gun is an electromagnetic accelerator that fires tiny ball
 bearings at an extremely high velocity.
 
-## Laser (pl 6)
+## Laser (PL 6)
 
 The simplest beam weapon, the laser is used generally for small craft.
 It consists of a focused beam of white-hot light.
 
-## Laser, Heavy (pl 6)
+## Laser, Heavy (PL 6)
 
 The heavy laser is simply an oversized laser that pours more energy on
 the target. It’s too big to install on light spacecraft, but is common
 on destroyers and larger warships.
 
-## Mine, Fusion (pl 6)
+## Mine, Fusion (PL 6)
 
 A fusion mine initiates a fusion reaction that deals damage to all
 starships in its square and all adjacent squares.
 
-## Missile, Che (pl 6)
+## Missile, Che (PL 6)
 
 A CHE (conventional high-explosive) warhead can destroy a small vessel,
 but it’s less effective against larger warships unless launched in
@@ -147,7 +147,7 @@ numbers. Heavy vessels, such as battleships, can usually ignore the
 weapon despite its payload of hundreds of kilos of advanced chemical
 explosives.
 
-## Missile, Ke Submunition (pl 6)
+## Missile, Ke Submunition (PL 6)
 
 This warhead consists of a bundle of dozens or even hundreds of tungsten
 steel darts, each mounted on small rocket motors. As the weapon
@@ -155,33 +155,33 @@ approaches its target, the warhead splits open, unleashing a lethal hail
 of high-velocity metal arrows. The impact alone can vaporize several
 square yards of heavy armor.
 
-## Missile, Nuclear (pl 6)
+## Missile, Nuclear (PL 6)
 
 This 1-megaton warhead is essentially a fusion bomb rigged to a guided
 rocket.
 
-## Needle Driver (pl 6)
+## Needle Driver (PL 6)
 
 The needle driver is a larger, heavier version of the rail cannon (see
 below), with an extremely high rate of fire. It fires small metal
 flechettes at the rate of thousands of rounds per minute.
 
-## Neutron Gun (pl 6)
+## Neutron Gun (PL 6)
 
 This device directs an intense blast of neutron radiation at the target.
 
-## Neutron Gun, Heavy (pl 6)
+## Neutron Gun, Heavy (PL 6)
 
 This weapon is simply a larger version of the neutron gun.
 
-## Rail Cannon (pl 6)
+## Rail Cannon (PL 6)
 
 Rail cannons use a series of electromagnets to propel projectiles down a
 magnetic track. The projectiles are kinetic-energy weapons with no
 explosive charge, but at close ranges, they can still be quite
 devastating.
 
-## Antimatter Gun (pl 7)
+## Antimatter Gun (PL 7)
 
 Using the same basic technology as the PL 6 rail cannon, the antimatter
 gun throws a piece of antimatter at the target. The impact alone is
@@ -190,89 +190,89 @@ extremely destructive. Following the initial impact damage, the
 cluster-bomb effect around the point of impact, increasing the chance of
 a critical hit.
 
-## Mass Cannon (pl 7)
+## Mass Cannon (PL 7)
 
 The mass cannon uses gravitic technology to “charge” a small bit of
 matter with incredible gravitational energy, then hurls it at the
 target, where its increased gravitational pull causes it to slam into
 the target like a wrecking ball.
 
-## Mass Cannon, Heavy (pl 7)
+## Mass Cannon, Heavy (PL 7)
 
 The heavy mass cannon is a larger and more powerful version of the mass
 cannon.
 
-## Mine, Gravitic (pl 7)
+## Mine, Gravitic (PL 7)
 
 When a gravitic mine detonates, it creates a brief artificial gravity
 well that pulls on ships in its square and in all adjacent squares,
 tearing their hulls.
 
-## Missile, Mass Reaction (pl 7)
+## Missile, Mass Reaction (PL 7)
 
 This warhead uses a dark matter reaction to unleash a powerful wave of
 energy. The effect is more concentrated than a nuclear blast, but it’s
 less likely to cause unwanted collateral damage.
 
-## Missile, Plasma (pl 7)
+## Missile, Plasma (PL 7)
 
 The plasma warhead improves on the PL 6 chemical explosive. It creates a
 burst of white-hot plasma that can blast a small ship out of space with
 one shot.
 
-## Particle Beam (pl 7)
+## Particle Beam (PL 7)
 
 The next phase of the PL 6 neutron gun, the particle beam projects a
 stream of protons, neutrons, or alpha particles at the target—each
 particle accelerated to near light-speed.
 
-## Particle Beam, Heavy (pl 7)
+## Particle Beam, Heavy (PL 7)
 
 This weapon is simply a larger version of the particle beam.
 
-## Plasma Cannon (pl 7)
+## Plasma Cannon (PL 7)
 
 Using a powerful electrical charge to convert a mix of chemicals into
 white-hot plasma, this weapon then accelerates the plasma mass toward
 the target with a simple rail gun. The result is a bolt of incandescent
 plasma that can explosively vaporize objects in its path.
 
-## Plasma Cannon, Heavy (pl 7)
+## Plasma Cannon, Heavy (PL 7)
 
 This weapon is simply a larger version of the plasma cannon.
 
-## Quantum Cannon (pl 7)
+## Quantum Cannon (PL 7)
 
 The quantum cannon fires a stream of highly charged subatomic particles,
 destabilizing the atoms of the target and creating localized fission
 reactions.
 
-## Automaser (pl 8)
+## Automaser (PL 8)
 
 The automaser uses multiple firing arrays to channel high-energy maser
 compressions into shorter pulse widths. This weapon fires only in
 automatic mode.
 
-## EMP Cannon (pl 8)
+## EMP Cannon (PL 8)
 
 The EMP cannon induces an electromagnetic pulse effect similar to that
 of a nuclear explosion. This makes the EMP cannon especially effective
 against electronic equipment. In addition to taking damage, the starship
 is dazed for 1 round. Neither crew nor passengers are dazed, however.
 
-## Kinetic Lance (pl 8)
+## Kinetic Lance (PL 8)
 
 The kinetic lance creates a high-velocity stream of virtual particles
 simulating solid matter. The impact of these particles is quite
 destructive—rather like a collision with a solid object.
 
-## Maser Cannon (pl 8)
+## Maser Cannon (PL 8)
 
 Maser cannons channel an enormous amount of power through a linear
 antenna array, creating a broad-spectrum blast of energy that devastates
 the target with heat, light, and intense radiation.
 
-## Maser Cannon, Heavy (pl 8)
+## Maser Cannon, Heavy (PL 8)
 
 The heavy maser cannon is a larger version of the maser cannon. With 1
 hour of work and a successful Repair check (DC 30), a heavy maser can be
@@ -281,23 +281,23 @@ weapon to its original configuration requires another check and another
 hour of labor.) Increase the purchase DC of the modified pulse maser by
 +5.
 
-## Mine, Zero Point (pl 8)
+## Mine, Zero Point (PL 8)
 
 This mine creates a spontaneous quantum fluctuation of energy—the same
 energy as the Big Bang, though obviously on a smaller scale.
 
-## Missile, Nova Burst (pl 8)
+## Missile, Nova Burst (PL 8)
 
 The nova burst warhead generates an incredible gravitational force that
 compresses normal matter into an incredibly dense mass, which then
 explodes in a colossal detonation.
 
-## Missile, Starload (pl 8)
+## Missile, Starload (PL 8)
 
 The starload warhead is essentially an improved version of the PL 7 mass
 reaction missile.
 
-## Neutronium Driver (pl 8)
+## Neutronium Driver (PL 8)
 
 This version of the rail gun is configured to fire a projectile of false
 neutronium—a slug the size of a baseball, but with a temporary mass of
@@ -305,28 +305,28 @@ thousands of tons. Because neutronium is electrically neutral, the
 driver mechanism actually encapsulates the projectile in a sleeve or
 sabot of ordinary matter to fire the slug.
 
-## Sliver Gun (pl 8)
+## Sliver Gun (PL 8)
 
 An efficient mass driver loaded with flechettes of tungsten steel, the
 sliver gun is the PL 8 version of a heavy machine gun. It cycles at a
 rate of fire of almost 4,000 rounds per minute, and each sliver can tear
 through a yard or more of heavy armor.
 
-## Zero Bore (pl 8)
+## Zero Bore (PL 8)
 
 The zero bore creates a stream of energy that encourages extraordinary
 amounts of quantum energy fluctuation—the so-called “zero point” energy.
 Anything in its path is wrecked by the spontaneous destruction of space
 itself.
 
-## Blacklaser (pl 9)
+## Blacklaser (PL 9)
 
 Using the fluorescent gaseous form of dark matter, a blacklaser fires a
 beam of coherent light. To human eyes, it appears to be a beam of
 purplish light bordering on ultraviolet, but it is composed of radiation
 much more energetic and dangerous than ordinary photons.
 
-## Mine, Null (pl 9)
+## Mine, Null (PL 9)
 
 This weapon is horrifyingly simple in design. It harnesses nuclear
 strong force to generate a field in which all atomic bonds cease to
@@ -335,14 +335,14 @@ pulverized into subatomic dust.
 
 A null mine ignores a ship’s hardness.
 
-## Singularity Cannon (pl 9)
+## Singularity Cannon (PL 9)
 
 The singularity cannon creates a quantum black hole and fires it at the
 enemy. A quantum black hole is no bigger than a single molecule, but it
 masses hundreds of millions of tons and can rip even the toughest armor
 to shreds.
 
-## String Projector (pl 9)
+## String Projector (PL 9)
 
 The string projector creates a super-dense cosmic string that passes
 through the target. A cosmic string is a short-lived chain of
@@ -350,7 +350,7 @@ extraordinary mass; the effect on the target is similar to being pierced
 by the mass of a mountain, but concentrated into a space the size of a
 strand of hair.
 
-## Tachyon Gun (pl 9)
+## Tachyon Gun (PL 9)
 
 The tachyon gun fires a blast of high-energy, faster-than-light
 particles at the target.

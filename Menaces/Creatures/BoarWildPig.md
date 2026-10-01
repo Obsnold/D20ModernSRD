@@ -1,4 +1,4 @@
-# Boar (wild Pig)
+# Boar (Wild Pig)
 
 A wild boar’s hide is covered with short, woolly, grayishblack hair.
 Along the spine, hair mixes with stiffer bristles to form a sort of

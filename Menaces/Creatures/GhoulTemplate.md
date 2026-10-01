@@ -1,4 +1,4 @@
-# Ghoul (TEMPLATE)
+# Ghoul (Template)
 
 ## Template Traits
 

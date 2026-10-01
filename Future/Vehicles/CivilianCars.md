@@ -25,7 +25,7 @@ their occupants. The operative skill for cars is Drive.
 | **Progress Level 8: Energy Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
 | SKG Metropolitan                  | 1    | 7    | L     | –2   | –2       | 215 (21)  | 6       | 6    | 41         | G    | 42          | Lic (+1)    |
 
-## Automac Taxi (pl 6)
+## Automac Taxi (PL 6)
 
 The AutoMac is a computer-driven taxi equipped with a driver autocomp
 (see Vehicle Gear). It features two facing bench seats with room for six
@@ -44,20 +44,20 @@ check (DC 20).
 The AutoMac taxi is 2 squares wide and 3 squares long. Its drivercomp
 has a Drive skill modifier of +8.
 
-## Kirsch Sunflower (pl 6)
+## Kirsch Sunflower (PL 6)
 
 The Kirsch Sunflower is a solar-electrical economy coupe and its
 performance is abysmal in comparison to other cars. It is 2 squares wide
 and 3 squares long.
 
-## Nakazawa DELTA-9 (pl 6)
+## Nakazawa DELTA-9 (PL 6)
 
 The Delta-9 from Nakazawa is a mid-size family wagon with a hatchback
 rear door and plenty of cargo space. It uses the popular hybrid
 gas/electrical engine developed in PL 5. It is 2 squares wide and 3
 squares long.
 
-## Skg Lamplighter (pl 6)
+## Skg Lamplighter (PL 6)
 
 The Lamplighter four-door economy sedan offers comfort and performance
 for a reasonable price. Slower than most civilian automobiles, the
@@ -66,18 +66,18 @@ price—keeping the cost down by selling budget components, rather than
 the high-end electronics usually installed. The Lamplighter is 2 squares
 wide and 3 squares long.
 
-## Bendel Motors Spirit (pl 7)
+## Bendel Motors Spirit (PL 7)
 
 The Bendel Motors Spirit is a comfortable, four-door, midsize sedan with
 a powerful minireactor engine. It is 2 squares wide and 3 squares long.
 
-## Stradtler Hlidskjalf (pl 7)
+## Stradtler Hlidskjalf (PL 7)
 
 The Hlidskjalf sedan is widely recognized as the finest four-door luxury
 sedan in production during its age. The Hlidskjalf is 2 squares wide and
 3 squares long.
 
-## Tm Willow (pl 7)
+## Tm Willow (PL 7)
 
 This mid-size, two-door sedan from Toner Motors is a common car model.
 It has improved air filters to keep out the kind of dust found in the
@@ -85,7 +85,7 @@ environments of other planets. They are less popular on Earth, except
 when they are adapted to desert driving. The Willow is 2 squares wide
 and 3 squares long.
 
-## Skg Metropolitan (pl 8)
+## Skg Metropolitan (PL 8)
 
 The Metropolitan is the ultimate in chauffeured luxury. Powered by a
 particle reactor, it is loaded with every available luxury feature. A

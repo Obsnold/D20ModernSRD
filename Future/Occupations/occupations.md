@@ -1,7 +1,5 @@
 # FUTURE STARTING OCCUPATIONS
 
-## Occupation Descriptions
-
 - [Astronaut Trainee](AstronautTrainee.md)
 - [Colonist](Colonist.md)
 - [Drifter](Drifter.md)

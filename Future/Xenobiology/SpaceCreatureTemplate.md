@@ -1,4 +1,4 @@
-# Space Creature (template)
+# Space Creature (Template)
 
 A space creature is a xenomorph that either lives in the cold vacuum of
 space or can survive there indefinitely. Space creatures often hibernate
@@ -24,7 +24,7 @@ creature gains a fly speed equal to its base speed (perfect
 maneuverability).
 
 **Special Qualities:** A space creature retains all the special
-qualities of the base creature. I t also gains the following special
+qualities of the base creature. It also gains the following special
 qualities:
 
 *Energy Resistance (Ex):* A space creature gains cold resistance 20 and

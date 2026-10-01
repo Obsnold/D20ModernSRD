@@ -8,7 +8,7 @@ On the ground, mecha move as characters. They can turn at any time, move
 in any direction, and stop on a dime. In the air, though, they are more
 limited.
 
-Most flying mecha have to s low down to make a turn, and many are
+Most flying mecha have to slow down to make a turn, and many are
 limited to fairly wide turns and must maintain a minimum forward speed.
 Each flying mecha has a maneuverability rating, as shown on Table:
 Flight Maneuverability. A mecha’s flight systems determine its

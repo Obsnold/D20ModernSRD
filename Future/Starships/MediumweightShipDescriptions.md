@@ -2,7 +2,7 @@
 
 Specific subtypes of mediumweight starships are given here.
 
-## Bulk Freighter (pl 6)
+## Bulk Freighter (PL 6)
 
 Bulk freighters usually carry cargo in bulk containers, and carry out
 regular runs between densely populated systems.
@@ -53,7 +53,7 @@ regular runs between densely populated systems.
 
 **Grappling Systems:** Grapplers
 
-## Clipper (pl 6)
+## Clipper (PL 6)
 
 This small liner or personnel transport is intended for passenger use,
 as opposed to heavy cargo. Clippers are frequently fitted with
@@ -106,7 +106,7 @@ system, radiation shielding
 
 **Grappling Systems:** Grapplers
 
-## Cruiser (pl 6)
+## Cruiser (PL 6)
 
 The cruiser is a warship that serves several roles. It may be part of a
 task force, escorting capital ships or laying mines. It may operate
@@ -169,7 +169,7 @@ fusion mines with magnetic fields and stealth screens; 5d10×10 damage)
 
 **Grappling Systems:** Grapplers
 
-## Strike Cruiser (pl 7)
+## Strike Cruiser (PL 7)
 
 These armored cruisers often serve as the centerpiece of raiding or
 patrolling task forces, especially if heavier warships are unavailable.

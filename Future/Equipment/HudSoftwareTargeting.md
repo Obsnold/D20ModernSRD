@@ -1,4 +1,4 @@
-# Hud Software, Targeting
+# HUD Software, Targeting
 
 A piece of software for the heads-up display device, targeting software
 links directly to a ranged weapon’s video scope. This allows the

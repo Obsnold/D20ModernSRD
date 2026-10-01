@@ -1,7 +1,5 @@
 # FUTURE ADVANCED CLASSES
 
-## Class Descriptions
-
 - [Ambassador](Ambassador.md)
 - [Dogfighter](Dogfighter.md)
 - [Dreadnought](Dreadnought.md)
@@ -9,6 +7,7 @@
 - [Explorer](Explorer.md)
 - [Field Officer](FieldOfficer.md)
 - [Helix Warrior](HelixWarrior.md)
+- [Mecha Jockey](MechaJockey.md)
 - [Space Monkey](SpaceMonkey.md)
 - [Swindler](Swindler.md)
 - [Technosavant](Technosavant.md)

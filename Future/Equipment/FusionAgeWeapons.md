@@ -87,9 +87,8 @@ others produce spherical balls of energy and others fire laser rings.
 The coloration and noise created by the laser may vary, but the effect
 is the same.
 
-Laser weapons do not use ammunition, but are instead powered
-
-by power packs.
+Laser weapons do not use ammunition, but are instead powered by power
+packs.
 
 ## Mini-Grenade Launcher
 

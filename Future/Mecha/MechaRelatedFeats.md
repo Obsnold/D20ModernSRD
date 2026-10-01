@@ -1,6 +1,6 @@
 # Mecha-Related Feats
 
-Mecha operators c an s elect feats that r elate specifically to
+Mecha operators can select feats that relate specifically to
 operating mecha. These feats are all considered bonus feats for the
 Mecha Jockey advanced class. Whenever the Mecha Jockey is allowed to
 select a bonus feat, she can choose one of these.
@@ -34,5 +34,5 @@ Operation feat threatens all areas within reach of the mecha, and making
 a slam or other melee attack with a mecha doesn’t provoke an attack of
 opportunity.
 
-Feats from the Defense Martial Arts tree f unction normally for
+Feats from the Defense Martial Arts tree function normally for
 characters in mecha.

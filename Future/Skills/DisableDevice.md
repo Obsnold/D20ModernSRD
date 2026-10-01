@@ -1,4 +1,4 @@
-# Disable Device (int)
+# Disable Device (Int)
 
 You can use this skill to disable a robot or external cybernetic
 attachment.

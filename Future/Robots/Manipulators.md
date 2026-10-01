@@ -52,7 +52,7 @@ above).
 
 ¹ This type of manipulator deals nonlethal damage only.
 
-## Claw (pl 5)
+## Claw (PL 5)
 
 Claws resemble pincers, but the opposed surfaces cover the length of the
 appendage. Claws suffer the same handicaps as pincers when attempting
@@ -63,7 +63,7 @@ tasks involving manual dexterity, but they deal greater damage.
 **Purchase DC:** 10 + one-quarter the base purchase DC of the robot’s
 frame.
 
-## Jaws (pl 5)
+## Jaws (PL 5)
 
 Only robots modeled after creatures with bite attacks have jaws. Robotic
 jaws are essentially large clamps with teeth.
@@ -73,7 +73,7 @@ jaws are essentially large clamps with teeth.
 **Purchase DC:** 10 + one-quarter the base purchase DC of the robot’s
 frame.
 
-## Pincer (pl 5)
+## Pincer (PL 5)
 
 A pincer is a two-fingered, clawlike appendage that focuses all the grip
 strength on a pair of opposed surfaces, rather like a pair of tongs.
@@ -88,7 +88,7 @@ for a robot equipped with pincers.
 **Purchase DC:** 5 + one-quarter the base purchase DC of the robot’s
 frame.
 
-## Probe (pl 5)
+## Probe (PL 5)
 
 Similar to a special-use gripper, a probe is simply an instrument of
 some kind, meant to measure torque, temperature, or some other factor.
@@ -100,7 +100,7 @@ takes a –4 penalty on the check.
 **Purchase DC:** 5 + one-tenth the base purchase DC of the robot’s frame
 (rounded down).
 
-## Special-Use Gripper (pl 5)
+## Special-Use Gripper (PL 5)
 
 The robot has a manipulator designed for a specific task. When the robot
 uses a special-use gripper for a task other than its intended task, the
@@ -112,18 +112,18 @@ strength or dexterity.
 **Purchase DC:** 5 + one-tenth the base purchase DC of the robot’s frame
 (rounded down).
 
-## Hand (pl 6)
+## Hand (PL 6)
 
 A hand is a step up from a claw, in that it has more digits— usually
 three or four, total. Hands are a bit more adaptable as well, imposing
-only a – 2 penalty w hen attempting tasks involving manual dexterity.
+only a –2 penalty when attempting tasks involving manual dexterity.
 
 **Damage:** Nonlethal bludgeoning only.
 
 **Purchase DC:** 10 + one-quarter the base purchase DC of the robot’s
 frame.
 
-## Advanced Hand (pl 7)
+## Advanced Hand (PL 7)
 
 Advanced hands are essentially the same in structure as human hands,
 though some might have additional fingers for specialized work. Advanced
@@ -135,7 +135,7 @@ dexterity.
 **Purchase DC:** 10 + one-quarter the base purchase DC of the robot’s
 frame.
 
-## Task Hand (pl 7)
+## Task Hand (PL 7)
 
 Task hands function just like advanced hands, except that they are
 equipped with additional joints and often with additional or telescoping

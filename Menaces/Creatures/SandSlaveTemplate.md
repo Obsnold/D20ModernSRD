@@ -1,4 +1,4 @@
-# Sand Slave (TEMPLATE)
+# Sand Slave (Template)
 
 Sand slaves (sometimes called sandmen or cyberslaves) are intelligent
 creatures that have been transformed into cybernetic slaves of the

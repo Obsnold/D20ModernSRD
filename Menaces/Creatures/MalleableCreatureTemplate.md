@@ -1,4 +1,4 @@
-# Malleable Creature (TEMPLATE)
+# Malleable Creature (Template)
 
 ## Template Traits
 

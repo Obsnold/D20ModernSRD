@@ -3,7 +3,7 @@
 As with stardrives, multiple types of teleporters can exist, depending
 on the technology used to develop them.
 
-## Transport Booth (pl 8)
+## Transport Booth (PL 8)
 
 Based on original teleportation technology, a transport booth is simply
 a booth large enough to accommodate a single Medium-size creature or
@@ -58,7 +58,7 @@ purchase DC modifier (see Table: Transport Booth Purchase DC Modifiers).
 
 **Restriction:** Licensed (+1).
 
-## Transportal (pl 8)
+## Transportal (PL 8)
 
 The transportal is a contained teleportation field. Creatures step into
 it, and moments later they step out on the far side in a different
@@ -74,7 +74,7 @@ arrival.
 
 **Restriction:** Licensed (+1).
 
-## Transport Disk (pl 9)
+## Transport Disk (PL 9)
 
 The general technology of teleportation advances at Progress Level 9, to
 the point where a receiving station is no longer necessary. The traveler

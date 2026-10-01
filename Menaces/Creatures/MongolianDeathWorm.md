@@ -47,7 +47,7 @@ location of anything within 60 feet that is in contact with the ground.
 | Full Atk          | +5 melee (1d4–1 plus poison, bite)                                                                          |
 | FS                | 5 ft. by 5 ft.                                                                                              |
 | Reach             | 5 ft.                                                                                                       |
-| SQ                | darkvision 60 ft., death touch (DC 14), l o w - l i g h t vision, poison (DC 14), poison spray, tremorsense |
+| SQ                | darkvision 60 ft., death touch (DC 14), low-light vision, poison (DC 14), poison spray, tremorsense |
 | AL                | none                                                                                                        |
 | Fort              | +6                                                                                                          |
 | Ref               | +5                                                                                                          |

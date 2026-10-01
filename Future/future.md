@@ -1,9 +1,5 @@
 # FUTURE
 
-d20 Future carries the modern rules forward through the Progress Levels:
-the gear, vehicles, mecha and starships of tomorrow, the cybernetics and
-mutations that reshape a hero, and the worlds they travel to.
-
 ## Setting
 
 - [Progress Levels](ProgressLevels/progresslevels.md)

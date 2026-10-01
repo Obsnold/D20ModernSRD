@@ -38,7 +38,7 @@ purchase.
 | Neutronite (PL 7)           | 25                              | 44        | 48       | 52             | 64           |
 | Megatanium (PL 8)           | 30                              | 40        | 40       | 48             | 60           |
 
-## Alumisteel (pl 5)
+## Alumisteel (PL 5)
 
 This easy-to-acquire alloy is lightweight and reasonably strong.
 Alumisteel can also be used for armor (see Mecha Armor, below).
@@ -47,7 +47,7 @@ Alumisteel can also be used for armor (see Mecha Armor, below).
 
 **Base Purchase DC Modifier:** –4.
 
-## Duralloy (pl 6)
+## Duralloy (PL 6)
 
 Duralloy is harder, heavier, and more durable than alumisteel. It can
 also be used to fashion armor (see Mecha Armor, below).
@@ -56,7 +56,7 @@ also be used to fashion armor (see Mecha Armor, below).
 
 **Base Purchase DC Modifier:** None.
 
-## Vanadium (pl 6)
+## Vanadium (PL 6)
 
 Vanadium alloy absorbs a respectable amount of damage and is easy to
 mold.
@@ -65,7 +65,7 @@ mold.
 
 **Base Purchase DC Modifier:** +4.
 
-## Neovulcanium (pl 7)
+## Neovulcanium (PL 7)
 
 Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of unparalleled resilience. Neovulcanium can also be
@@ -75,7 +75,7 @@ used for armor (see Mecha Armor, below).
 
 **Base Purchase DC Modifier:** None.
 
-## Neutronite (pl 7)
+## Neutronite (PL 7)
 
 Neutronite is a tough steel alloy into which a weave of free neutrons
 has been pressed. It is extremely resilient but also incredibly massive,
@@ -85,7 +85,7 @@ weighing approximately five times more than a similar volume of lead.
 
 **Base Purchase DC Modifier:** +4.
 
-## Megatanium (pl 8)
+## Megatanium (PL 8)
 
 Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium is exceedingly hard and durable. Megatanium can also

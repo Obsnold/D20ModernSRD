@@ -1,4 +1,4 @@
-# Bluff (cha)
+# Bluff (Cha)
 
 You can use the Bluff skill to feint in starship combat.
 

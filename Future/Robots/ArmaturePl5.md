@@ -19,7 +19,7 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** None.
 
-**Table: Armature Robot Frames (Pl 5)**
+**Table: Armature Robot Frames (PL 5)**
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 | -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |

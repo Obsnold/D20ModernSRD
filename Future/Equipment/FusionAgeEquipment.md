@@ -209,9 +209,7 @@ kit takes one hour, during which the character is unconscious.
 The chemicomp sensor computer is a handheld computer or computerized
 gauntlet designed to find individual chemical compounds. Chemicomps can
 locate a specific chemical, providing a +10 equipment bonus on Search
-checks when attempting to find
-
-chemical compounds.
+checks when attempting to find chemical compounds.
 
 ## Sensor, Geocomp
 

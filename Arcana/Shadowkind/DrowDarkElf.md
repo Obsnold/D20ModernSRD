@@ -1,4 +1,4 @@
-# Drow (dark Elf)
+# Drow (Dark Elf)
 
 **Size:** Medium. Drow have no special bonuses or penalties due to their
 size.

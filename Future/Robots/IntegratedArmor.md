@@ -19,7 +19,7 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 armor on the black market.
 
-## Alumisteel Armor (pl 5)
+## Alumisteel Armor (PL 5)
 
 This easy-to-acquire alloy is lightweight and reasonably strong.
 Bioreplica robots and liquid-state robots cannot have integrated
@@ -36,7 +36,7 @@ frame.
 
 **Restriction:** None.
 
-## Duraplastic Armor (pl 5)
+## Duraplastic Armor (PL 5)
 
 Duraplastic armor is made of advanced plastic polymers, like carbon
 fiber and high-grade fiberglass. Although relatively cheap and light, it
@@ -54,7 +54,7 @@ armor.
 
 **Restriction:** None.
 
-## Duralloy Armor (pl 6)
+## Duralloy Armor (PL 6)
 
 Duralloy armor is harder, heavier, and more durable than alumisteel.
 Bioreplica robots and liquid-state robots cannot have integrated
@@ -71,7 +71,7 @@ frame.
 
 **Restriction:** None.
 
-## Resilium Armor (pl 6)
+## Resilium Armor (PL 6)
 
 Resilium is more malleable alloy than duralloy, although not as strong.
 Bioreplica robots of Medium-size or smaller and liquid-state robots
@@ -87,7 +87,7 @@ cannot have integrated resilium armor.
 
 **Restriction:** None.
 
-## Crystal Carbon Armor (pl 7)
+## Crystal Carbon Armor (PL 7)
 
 “Grown” in orbital laboratories, crystal carbon is a composite fiber
 material that outperforms neovulcanium (see below) on the battlefield.
@@ -105,7 +105,7 @@ frame.
 
 **Restriction:** Licensed (+1).
 
-## Neovulcanium Armor (pl 7)
+## Neovulcanium Armor (PL 7)
 
 Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of unparalleled resilience. Bioreplica robots and
@@ -122,7 +122,7 @@ frame.
 
 **Restriction:** None.
 
-## Megatanium Armor (pl 8)
+## Megatanium Armor (PL 8)
 
 Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium represents the apex of robot armor. It is exceedingly
@@ -140,7 +140,7 @@ frame.
 
 **Restriction:** Licensed (+1).
 
-## Reactive Armor (pl 8)
+## Reactive Armor (PL 8)
 
 Consisting of layers of insulating gel or compressed gas between
 cerametal sheets, reactive armor provides the same protection as crystal

@@ -2,7 +2,7 @@
 
 Specific subtypes of ultralight starships are given here.
 
-## Orbital Shuttle (pl 5)
+## Orbital Shuttle (PL 5)
 
 An orbital shuttle can haul people and light equipment into orbit and
 return safely to the planet below, but it is not suitable for long-range
@@ -53,7 +53,7 @@ space travel to other planets or star systems.
 
 **Grappling Systems:** Grapplers
 
-## Courier (pl 6)
+## Courier (PL 6)
 
 A courier is capable of extended operation away from its base
 (frequently a larger ship). Many low-end star yachts fall into the
@@ -104,7 +104,7 @@ courier category.
 
 **Grappling Systems:** Grapplers
 
-## Escort (pl 6)
+## Escort (PL 6)
 
 Escorts are a long-range patrol craft employed for various duties,
 including the protection of merchant ships and remote bases. Gunships or
@@ -164,7 +164,7 @@ launcher
 
 **Grappling Systems:** Grapplers
 
-## Fast Freighter (pl 6)
+## Fast Freighter (PL 6)
 
 Fast freighters are commercial starships generally employed in frequent
 runs, such as delivering supplies to small outposts and bases, or
@@ -219,7 +219,7 @@ fire-linked rail cannons (range incr. 3,000 ft.)
 
 **Grappling Systems:** Grapplers
 
-## Fighter (pl 6)
+## Fighter (PL 6)
 
 Designed for action against other small craft, fighters lack the punch
 to be effective against large targets unless they’ve been modified to
@@ -270,7 +270,7 @@ carry warheads.
 
 **Grappling Systems:** None
 
-## Launch (pl 6)
+## Launch (PL 6)
 
 A launch is a shuttle designed simply to move small amounts of people
 from one point to another. Launches are rarely armed or armored.
@@ -321,7 +321,7 @@ Evacuation pods and lunar landers fit into this category.
 
 **Grappling Systems:** None
 
-## Scout (pl 6)
+## Scout (PL 6)
 
 Scouts are designed to cross great distances and locate enemies quickly
 without engaging in serious combat.
@@ -374,7 +374,7 @@ CHE missile launchers (8 missiles each)
 
 **Grappling Systems:** Grapplers
 
-## Assault Fighter (pl 7)
+## Assault Fighter (PL 7)
 
 The assault fighter is similar to the PL 6 fighter, but with superior
 engines, armaments, and defenses at the cost of less cargo capacity.

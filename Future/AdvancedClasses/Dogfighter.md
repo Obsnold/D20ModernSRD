@@ -67,9 +67,7 @@ nonhumans).
 
 ## Class Features
 
-The following class features pertain to the Dogfighter advanced
-
-class.
+The following class features pertain to the Dogfighter advanced class.
 
 ### Bonus Feats
 
@@ -92,13 +90,13 @@ must meet all the prerequisites of the feat to select it.
 - Starship Strafe
 - Zero-G Training
 
-### Defender Of The Universe
+### Defender of the Universe
 
 Starting at 2nd level, a Dogfighter applies his Reputation bonus to the
 die result whenever he spends an action point to modify an attack roll,
 skill check, ability check, or saving throw made aboard a starship.
 
-### Shake, Rattle, And Roll
+### Shake, Rattle, and Roll
 
 At 4th level, a Dogfighter learns how rock an enemy starship with
 weapons fire. The Dogfighter must declare that he is using this ability
@@ -110,7 +108,7 @@ and skill checks for 1 round. A Dogfighter may use this ability once per
 day at 4th level, twice per day at 7th level, and three times per day at
 10th level.
 
-### To the max!
+### To the Max!
 
 At 5th level and beyond, a Dogfighter can coax more thrust out of a
 ship’s engines, increasing its tactical speed by +500 feet. The

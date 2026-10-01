@@ -30,7 +30,7 @@ can use the Disguise skill to increase the Spot check DC.
 
 **Restriction:** Restricted (+2) or Illegal (+4).
 
-**Table: Bioreplica Robot Frames (Pl 7)**
+**Table: Bioreplica Robot Frames (PL 7)**
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 | -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |

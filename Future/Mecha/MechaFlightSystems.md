@@ -9,7 +9,7 @@ character without a mechanical tool kit takes a –4 penalty on the skill
 check. The character must also make a Wealth check against the flight
 system’s purchase DC.
 
-## Afterburner System (pl 6)
+## Afterburner System (PL 6)
 
 The afterburner system dumps a shot of raw fuel into the mecha’s
 thruster system, giving the mecha a temporary speed boost. The mecha’s
@@ -33,7 +33,7 @@ systems.
 
 **Restriction:** None.
 
-## Jetpack (pl 6)
+## Jetpack (PL 6)
 
 A jetpack combines vectored thrust with simple avionics, granting the
 mecha a fly speed of 100 feet (clumsy). The jetpack carries enough fuel
@@ -57,7 +57,7 @@ and right leg.
 
 **Restriction:** None.
 
-## Jet-Assist Wings (pl 7)
+## Jet-Assist Wings (PL 7)
 
 Jet-assist wings allow a flying mecha to maneuver more effectively, but
 do not provide the mecha with the ability to fly. A mecha with
@@ -81,7 +81,7 @@ must be back or shoulders (Gargantuan or Colossal).
 
 **Restriction:** None.
 
-## Thruster Boots (pl 7)
+## Thruster Boots (PL 7)
 
 Thruster boots combine powerful fusion thrusters to give the mecha a fly
 speed of 150 feet (poor).
@@ -102,7 +102,7 @@ speed of 150 feet (poor).
 
 **Restriction:** None.
 
-## Ramjet Thruster Boots (pl 8)
+## Ramjet Thruster Boots (PL 8)
 
 The best thruster system available uses ramjet technology to improve the
 performance of the PL 7 thruster boots, granting the mecha a fly speed

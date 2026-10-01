@@ -30,7 +30,7 @@ Different types of sensor systems are detailed below.
 **Restriction:** The level of license required to purchase the system
 legally.
 
-## Class I Sensor Array (pl 5)
+## Class I Sensor Array (PL 5)
 
 This array includes radar, hi-res video, and infrared heat sensor units.
 As a move action, a Class I sensor array can perform either of the
@@ -49,7 +49,7 @@ must be orbiting the planet).
 
 **Restriction:** None.
 
-## Class Ii Sensor Array (pl 6)
+## Class II Sensor Array (PL 6)
 
 This array incorporates hi-res video, infrared and electromagnetic
 sensors, and ladar detection units. (The ladar uses low-powered laser
@@ -81,7 +81,7 @@ must be orbiting the planet).
 
 **Restriction:** None.
 
-## Class Iii Sensor Array (pl 6)
+## Class III Sensor Array (PL 6)
 
 As the Class II sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
@@ -91,7 +91,7 @@ installed on ships built for combat.
 
 **Restriction:** None.
 
-## Targeting System (pl 6)
+## Targeting System (PL 6)
 
 A computerized targeting system helps starship gunners aim weapons and
 track enemy ships. A targeting system provides an equipment bonus on
@@ -104,7 +104,7 @@ The purchase DC of the targeting system depends on the size of the ship.
 
 **Restriction:** Licensed (+1).
 
-## Class Iv Sensor Array (pl 7)
+## Class IV Sensor Array (PL 7)
 
 This array includes hi-res video, electromagnetic sensors, multiband
 radar, spectroanalyzers, and mass detectors. (A mass detector locates
@@ -148,7 +148,7 @@ patterns (the ship must be orbiting the planet).
 
 **Restriction:** None.
 
-## Class V Sensor Array (pl 7)
+## Class V Sensor Array (PL 7)
 
 As the Class IV sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
@@ -158,7 +158,7 @@ installed on ships built for combat.
 
 **Restriction:** None.
 
-## Targeting System, Improved (pl 7)
+## Targeting System, Improved (PL 7)
 
 A starship equipped with an improved targeting system gains an equipment
 bonus on attack rolls depending on the ship’s size: Huge +3, Gargantuan
@@ -171,7 +171,7 @@ the ship.
 
 **Restriction:** Licensed (+1).
 
-## Class Vi Sensor Array (pl 8)
+## Class VI Sensor Array (PL 8)
 
 This array includes hi-res video, electromagnetic sensors,
 spectroanalyzers, multiphase radar, and mass detectors.
@@ -213,7 +213,7 @@ patterns (the ship must be orbiting the planet).
 
 **Restriction:** None.
 
-## Class Vii Sensor Array (pl 8)
+## Class VII Sensor Array (PL 8)
 
 As the Class VI sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally
@@ -223,12 +223,11 @@ installed on ships built for combat.
 
 **Restriction:** None.
 
-## Achilles Targeting Software (pl 8)
+## Achilles Targeting Software (PL 8)
 
 Any starship with a targeting system can have Achilles targeting
-software; the software does not take up one o f the starship’s
-
-sensor system slots.
+software; the software does not take up one of the starship’s sensor
+system slots.
 
 Achilles targeting software enables the ship to better train its weapons
 on an enemy’s critical systems. Achilles targeting software increases
@@ -243,7 +242,7 @@ the ship.
 
 **Restriction:** Restricted (+2).
 
-## Class Viii Sensor Array (pl 9)
+## Class VIII Sensor Array (PL 9)
 
 This array is an amplified version of the Class VI sensor array.
 
@@ -285,7 +284,7 @@ patterns (the ship must be in the same system as the planet).
 
 **Restriction:** None.
 
-## Class Ix Sensor Array (pl 9)
+## Class IX Sensor Array (PL 9)
 
 As the Class VIII sensor array, except that the ship also gains a +2
 equipment bonus on all initiative checks. This array is normally

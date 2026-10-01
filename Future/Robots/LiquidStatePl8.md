@@ -56,7 +56,7 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** Military (+3).
 
-**Table: Liquid-State Robot Frames (Pl 8)**
+**Table: Liquid-State Robot Frames (PL 8)**
 
 |             |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 | ----------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |

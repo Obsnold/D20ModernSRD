@@ -64,7 +64,7 @@ objects.
 
 See the expanded Computer Use skill description for details.
 
-## Start/complete Full-Round Action
+## Start/Complete Full-Round Action
 
 The “start/complete full-round action” move action lets a starship begin
 undertaking a full-round action (such as those listed on Table: Starship

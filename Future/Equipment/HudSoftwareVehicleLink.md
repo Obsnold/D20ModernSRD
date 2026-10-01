@@ -1,4 +1,4 @@
-# Hud Software, Vehicle Link
+# HUD Software, Vehicle Link
 
 A piece of software for the heads-up display device, the vehicle link
 allows the onboard computer system of any vehicle to be displayed on the

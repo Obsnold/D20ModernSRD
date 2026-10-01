@@ -26,6 +26,6 @@ a purchase DC of 49.
 **Standard Equipment Package:** Pilot’s cockpit (torso and back), Class
 II sensor system (helmet), Enigma sensor suite (visor), Typhoon 240
 laser cannon (left arm and left hand), M-53 Firestar rocket launcher
-(right h and), 6-pack o f M -53 Firestar rockets ( right arm),
+(right hand), 6-pack of M-53 Firestar rockets ( right arm),
 jet-assist wings (shoulders), LX-10 antishock array (belt), jetpack
 (boots), comm. system (no slots).

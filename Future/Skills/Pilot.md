@@ -1,4 +1,4 @@
-# Pilot (dex)
+# Pilot (Dex)
 
 You can use the Pilot skill to fly any kind of spacecraft.
 

@@ -19,7 +19,7 @@ double the listed amount.
 this particular mode of locomotion. This cost is always a fraction of
 the base purchase DC of the robot’s frame (see Frame, above).
 
-## Forced Air (pl 5)
+## Forced Air (PL 5)
 
 The robot takes in air through a vent and forces it out beneath itself,
 allowing it to hover about an inch off the ground. It handles poorly and
@@ -29,7 +29,7 @@ moves at half speed over poor surface conditions.
 
 **Purchase DC:** One-half the base purchase DC of the robot’s frame.
 
-## Legs (multiple) (pl 5)
+## Legs (multiple) (PL 5)
 
 The robot has three or more mechanical legs that allow it to walk, after
 a fashion. The robot moves at half speed when navigating obstructions,
@@ -40,7 +40,7 @@ jump.
 
 **Purchase DC:** One-half the purchase DC of the robot’s frame.
 
-## Propeller (air) (pl 5)
+## Propeller (air) (PL 5)
 
 The robot has a propeller for air travel. It cannot travel on land
 without another mode of locomotion. If for some reason the robot’s speed
@@ -50,7 +50,7 @@ drops below its base speed during any given round, it falls.
 
 **Purchase DC:** One-quarter the purchase DC of the robot’s frame.
 
-## Propeller (water) (pl 5)
+## Propeller (water) (PL 5)
 
 The robot has one or more propellers for water travel. It cannot travel
 on land without another mode of locomotion.
@@ -59,7 +59,7 @@ on land without another mode of locomotion.
 
 **Purchase DC:** One-quarter the base purchase DC of the robot’s frame.
 
-## Rotor (pl 5)
+## Rotor (PL 5)
 
 The robot is equipped with a rotor, like a helicopter’s. It doesn’t move
 as quickly as a robot equipped with an air propeller, but it can hover
@@ -69,7 +69,7 @@ without falling.
 
 **Purchase DC:** One-quarter the base purchase DC of the robot’s frame.
 
-## Stationary (pl 5)
+## Stationary (PL 5)
 
 The robot cannot move at all. It is most likely bolted or otherwise
 secured in place. Factory robots are usually stationary.
@@ -79,7 +79,7 @@ secured in place. Factory robots are usually stationary.
 **Purchase DC:** Not applicable. (This cost is included in the robot’s
 base purchase DC.)
 
-## Track (pl 5)
+## Track (PL 5)
 
 The robot follows a preset track and cannot deviate from that course. If
 the robot is somehow separated from the track, it becomes effectively
@@ -92,7 +92,7 @@ comes to a halt.
 **Purchase DC:** One-tenth the base purchase DC of the robot’s frame
 (rounded down).
 
-## Treads (pl 5)
+## Treads (PL 5)
 
 The robot is equipped with a pair of tank-like treads that allow it to
 roll along over most terrain without significant difficulties. It can
@@ -104,7 +104,7 @@ Robots with treads cannot jump or swim.
 
 **Purchase DC:** One-quarter the base purchase DC of the robot’s frame.
 
-## Wheels (pl 5)
+## Wheels (PL 5)
 
 Wheels are somewhat more effective than treads on level ground, but the
 robot moves at half speed when navigating poor surface conditions. Most
@@ -115,7 +115,7 @@ cannot jump or swim.
 
 **Purchase DC:** One-half the base purchase DC of the robot’s frame.
 
-## Casters (pl 6)
+## Casters (PL 6)
 
 The robot moves about on spherical wheels, or casters. These are
 somewhat more efficient than wheels and enable the robot to change
@@ -125,7 +125,7 @@ direction easily. Robots with casters cannot jump or swim.
 
 **Purchase DC:** One-quarter the base purchase DC of the robot’s frame.
 
-## Legs (pair) (pl 6)
+## Legs (pair) (PL 6)
 
 The robot is bipedal, walking on two legs as well as a human. Only
 robots equipped with legs can jump.
@@ -134,7 +134,7 @@ robots equipped with legs can jump.
 
 **Purchase DC:** One-half the base purchase DC of the robot’s frame.
 
-## Thruster (pl 7)
+## Thruster (PL 7)
 
 Thrusters use a miniature impulse engine to produce a stream of
 high-energy particles, contained and directed by magnetic fields. The
@@ -145,7 +145,7 @@ fly and hover.
 
 **Purchase DC:** One-half the base purchase DC of the robot’s frame.
 
-## Inductor (pl 8)
+## Inductor (PL 8)
 
 Induction engine technology allows the robot to move about on a thin
 cushion of artificial gravity. The thrust does not enable the robot to

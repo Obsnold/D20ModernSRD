@@ -21,14 +21,14 @@ operative skill.
 
 ¹ The vehicle’s purchase DC does not include its mounted weapons.
 
-## Appel-Siems Gyrocopter (pl 6)
+## Appel-Siems Gyrocopter (PL 6)
 
 Appel-Siems created its one-seat helicopter for the military, but many
 exist in the law enforcement roles and in the corporate sector. The
 mostly enclosed cockpit gives its pilot three-quarters cover. Its body
 is 1 square wide and 3 squares long.
 
-## EU2A1 Mendez (pl 6)
+## EU2A1 Mendez (PL 6)
 
 The Mendez armored personnel carrier is fusion-powered and fully
 enclosed. The crew consists of a driver and two gunners. The vehicle has
@@ -41,14 +41,14 @@ full cover to all its occupants.
 The EU2A1 Mendez has a pair of mounted twin thunder machine guns mounted
 near two of the three topside hatches.
 
-## UN-500 Turtledove (pl 6)
+## UN-500 Turtledove (PL 6)
 
 One of the last military helicopters in use by the United Nations before
 they were replaced with hovervehicles, the Turtledove was a familiar
 sight over the battlefields of PL 6. It is 4 squares wide and 10 squares
 long.
 
-## IS-2000 Ifrit (pl 7)
+## IS-2000 Ifrit (PL 7)
 
 The IS-2000 Ifrit APC is faster, more durable, and carries more troops
 than the Mendez APC. The Ifrit is crewed by a commander, a driver, and
@@ -61,7 +61,7 @@ mounted twin thunder machine gun near one topside hatch and a mounted
 rail gun near another. The twin thunder fires PL 6 plasma-coated rounds,
 while the rail gun fires rail gun shards.
 
-## M-300 Hovertank (pl 7)
+## M-300 Hovertank (PL 7)
 
 The M-300 Hovertank is powered by a particle reactor and crewed by a
 pilot, gunner, gun loader, and commander. It comes equipped with a fully

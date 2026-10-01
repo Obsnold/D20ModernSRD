@@ -139,7 +139,7 @@ cybernetic attachments.
 When using the Salvage feat, the Technosavant gains a competence bonus
 on her Search checks equal to one-half her Technosavant class level.
 
-### Down With Robots
+### Down with Robots
 
 A Technosavant of 5th level or higher can use her knowledge of robotics
 to more easily defeat and disable robots. The Technosavant deals +1d6

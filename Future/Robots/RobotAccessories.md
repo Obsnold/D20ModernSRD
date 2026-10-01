@@ -34,7 +34,7 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 armor on the black market.
 
-## Av Recorder (pl 5)
+## Av Recorder (PL 5)
 
 This audio and video recorder unit uses the robot’s video and audio
 sensors to record and store up to 8 hours of information.
@@ -43,7 +43,7 @@ sensors to record and store up to 8 hours of information.
 
 **Restriction:** None.
 
-## Av Transmitter (pl 5)
+## Av Transmitter (PL 5)
 
 A remote audio-visual unit consists of a video camera and microphone
 connected to the robot’s visual and audio sensors, with a transmitter to
@@ -57,7 +57,7 @@ allows the operator to see and hear what the robot sees and hears.
 
 **Restriction:** None.
 
-## Fire Extinguisher (pl 5)
+## Fire Extinguisher (PL 5)
 
 This unit, available only to Small or larger robots, ejects enough
 extinguishing chemicals during a move action to put out a fire in a 10-
@@ -70,7 +70,7 @@ frame.
 
 **Restriction:** None.
 
-## Integrated Cell Phone (pl 5)
+## Integrated Cell Phone (PL 5)
 
 An integrated cell phone enables the robot to make and receive telephone
 calls without resorting to the use of its manipulators (which may not be
@@ -80,7 +80,7 @@ delicate enough to operate a standard cell phone, in any case).
 
 **Restriction:** None.
 
-## Internal Storage Unit (pl 5)
+## Internal Storage Unit (PL 5)
 
 The robot has an insulated compartment for storing foreign objects. The
 compartment can store objects of up to two size categories smaller than
@@ -102,7 +102,7 @@ limits and purchase DCs.
 | Gargantuan         | 360 lb.              | 17          |
 | Colossal           | 1,000 lb.            | 22          |
 
-## Loading Mechanism (pl 5)
+## Loading Mechanism (PL 5)
 
 A loading mechanism allows a robot to reload a single handheld weapon as
 a full-round action. The mechanism can hold enough ammunition to reload
@@ -117,7 +117,7 @@ carries.
 
 **Restriction:** None.
 
-## Remote Control Unit (pl 5)
+## Remote Control Unit (PL 5)
 
 Referred to colloquially as a “remcon,” this handheld, self-powered
 control stick has a small video screen and audio receiver built into it.
@@ -135,7 +135,7 @@ full-round action for the operator.
 
 **Restriction:** None.
 
-## Robolink (pl 5)
+## Robolink (PL 5)
 
 This unit can only be installed on the robot with no Intelligence score.
 It allows a remote operator to control a robot’s actions from afar. It
@@ -148,7 +148,7 @@ unit (see above).
 
 **Restriction:** None.
 
-## Tool Mount (pl 5)
+## Tool Mount (PL 5)
 
 Any robot with an armature, biomorph, biodroid, or bioreplica frame can
 be equipped with a tool mount. Liquid-state robots, due to their
@@ -168,7 +168,7 @@ or smaller tool. The tool can be any general item.
 
 **Restriction:** None.
 
-## Vocalizer (pl 5)
+## Vocalizer (PL 5)
 
 This unit enables a robot to speak any language it knows. It must have
 the appropriate Speak Language skill, either acquired through class
@@ -178,7 +178,7 @@ levels (for heroic robots) or skill software (for nonheroic robots).
 
 **Restriction:** None.
 
-## Weapon Mount (pl 5)
+## Weapon Mount (PL 5)
 
 Robots that lack the proper manipulators to grasp weapons are suitable
 candidates for weapon mounts. Any Diminutive or larger robot with an
@@ -217,7 +217,7 @@ the ammunition.
 | Gargantuan           | 5                     | 12          |
 | Colossal             | 6                     | 14          |
 
-## Integrated Videophone (pl 6)
+## Integrated Videophone (PL 6)
 
 The integrated videophone enables the robot to make and receive
 videophone calls without resorting to the use of its manipulators (which
@@ -231,7 +231,7 @@ successful Repair check (DC 15).
 
 **Restriction:** None.
 
-## Magnetic Feet (pl 6)
+## Magnetic Feet (PL 6)
 
 The robot comes with electromagnetic grippers that allow it to cling to
 ferrous surfaces, including iron and steel. The robot using its magnetic
@@ -242,7 +242,7 @@ scale ferrous surfaces.
 
 **Restriction:** None.
 
-## Self-Destruct System (pl 6)
+## Self-Destruct System (PL 6)
 
 Designed for robots in military and espionage roles, self-destruct
 systems ensure that the robot cannot be captured, analyzed, and
@@ -285,7 +285,7 @@ size.
 | Diminutive  | —                 | 15          |
 | Fine        | —                 | 15          |
 
-## Survivor Array (pl 6)
+## Survivor Array (PL 6)
 
 Robots are often used to explore environments inhospitable to organic
 creatures. The survivor array enables the robot to better traverse harsh
@@ -310,7 +310,7 @@ frame.
 
 **Restriction:** Licensed (+1).
 
-## Holo Screen (pl 7)
+## Holo Screen (PL 7)
 
 A holo screen unit projects a holographic image around the robot, making
 it appear as something else of roughly similar proportions occupying the
@@ -329,7 +329,7 @@ by the robot’s internal power source.
 
 **Restriction:** Licensed (+1).
 
-## Inertial Inhibitor (pl 7)
+## Inertial Inhibitor (PL 7)
 
 The inertial inhibitor generates a thin magnetic field that radiates out
 from the robot, slowing the velocity of potentially damaging weapons and
@@ -342,7 +342,7 @@ feeds on of the robot’s internal power source.
 
 **Restriction:** Military (+3).
 
-## Polyvox (pl 7)
+## Polyvox (PL 7)
 
 This unit translates any language spoken within range of the robot’s
 audio sensors into a language familiar to the robot (or binary code, if
@@ -353,7 +353,7 @@ ability to speak languages the robot does not know.
 
 **Restriction:** None.
 
-## Self-Repair Unit (pl 7)
+## Self-Repair Unit (PL 7)
 
 A self-repair unit enables a robot to repair itself by replacing damaged
 parts with cannibalized or replicated ones. A robot with a self-repair
@@ -365,7 +365,7 @@ unit to repair another robot.
 
 **Restriction:** Licensed (+1).
 
-## Photon Screen (pl 8)
+## Photon Screen (PL 8)
 
 Using a series of light reflectors molded to the robot’s frame, this
 unit bends light around the robot, rendering it invisible. Any items
@@ -384,7 +384,7 @@ The photon screen is powered by the robot’s internal power source.
 
 **Restriction:** Restricted (+2).
 
-## Robot Repair Unit (pl 8)
+## Robot Repair Unit (PL 8)
 
 The RRU enables a robot to repair itself or another robot by replacing
 damaged parts with replicated new ones. In the latter case, the robot

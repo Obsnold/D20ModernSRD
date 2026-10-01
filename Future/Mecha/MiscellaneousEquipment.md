@@ -12,7 +12,7 @@ type of equipment. See the Craft skill description for further guidance.
 A character without the appropriate electrical or mechanical tool kit
 takes a –4 penalty on the skill check.
 
-## Cockpit, Copilot (pl 5)
+## Cockpit, Copilot (PL 5)
 
 This extra cockpit provides a comfortable station inside the mecha for a
 Small or Medium-size copilot. A copilot has the ability to fire the
@@ -47,7 +47,7 @@ of the mecha to a copilot cockpit.
 
 **Restriction:** None.
 
-## Cockpit, Passenger (pl 5)
+## Cockpit, Passenger (PL 5)
 
 This extra cockpit merely provides a comfortable place inside the mecha
 for a Small or Medium-size passenger to sit. The passenger can’t do
@@ -73,7 +73,7 @@ shutting off the cameras, locking the hatch, and so on.
 
 **Restriction:** None.
 
-## Comm System (pl 5)
+## Comm System (PL 5)
 
 The mecha is equipped with a radio transceiver that can transmit on
 multiple frequencies in either LOS (line of sight) or omnidirectional
@@ -95,7 +95,7 @@ mode. It can handle up to ten simultaneous two-way conversations.
 
 **Restriction:** None.
 
-## Life Support System (pl 5)
+## Life Support System (PL 5)
 
 The mecha’s life support system provides a closed environment, allowing
 the mecha operator to ignore the effects of inhaled poisons and
@@ -118,7 +118,7 @@ equipped with a life support system has one less equipment slot.
 
 **Restriction:** None.
 
-## HV-5 Haven Escape Pod (pl 6)
+## HV-5 Haven Escape Pod (PL 6)
 
 The HV-5 Haven escape pod jettisons the cockpit and the mecha operator
 from the rest of the mecha (typically because the mecha is about to be
@@ -147,7 +147,7 @@ the mecha, it runs out of fuel, landing or crashing as appropriate.
 
 **Restriction:** None.
 
-## Space Skin (pl 6)
+## Space Skin (PL 6)
 
 Space skin colloquially refers to a series of environmental stabilizers
 that allow the mecha operator (and other living creatures aboard the
@@ -172,7 +172,7 @@ A mecha equipped with space skin has one less equipment slot.
 
 **Restriction:** None.
 
-## Stealth Suite (pl 6)
+## Stealth Suite (PL 6)
 
 Based on high-tech low observables technology, this combination of sound
 baffles, heat dispersers, and nonreflective paint combines to give the
@@ -196,7 +196,7 @@ the smallest mecha.
 
 **Restriction:** Licensed (+1).
 
-## Advanced Diagnostics (pl 7)
+## Advanced Diagnostics (PL 7)
 
 Multiple redundant systems coupled with the ability to detect and
 correct minor system faults allow the mecha to repair moderate damage.
@@ -220,7 +220,7 @@ points are repaired, not damage to the mecha’s operator.
 
 **Restriction:** None.
 
-## Structural Enhancement (pl 7)
+## Structural Enhancement (PL 7)
 
 Significant advances in engineering inspire a series of modifications to
 the mecha’s superstructure, granting it an additional 50 hit points. A
@@ -252,7 +252,7 @@ Each time a mecha is structurally enhanced, it loses one equipment slot.
 
 **Restriction:** None.
 
-## Zero-G Stabilizer (pl 7)
+## Zero-G Stabilizer (PL 7)
 
 A zero-G stabilizer allows the mecha and its operator to function
 normally in low-gravity and zero-gravity environments, as though the
@@ -274,7 +274,7 @@ operator has the Zero-G Training feat (see page 15).
 
 **Restriction:** None.
 
-## Crackerjack Neural Link (pl 8)
+## Crackerjack Neural Link (PL 8)
 
 This unit links the operator’s brain directly to the mecha, making it
 feel less like a machine and more like an extension of the operator’s
@@ -299,7 +299,7 @@ grant the operator any new feats.)
 
 **Restriction:** Restricted (+2).
 
-## Nanorepair Unit (pl 8)
+## Nanorepair Unit (PL 8)
 
 State-of-the-art nanites swarm over the surface of the mecha at the
 first indication of damage. The mecha automatically heals 5 points of

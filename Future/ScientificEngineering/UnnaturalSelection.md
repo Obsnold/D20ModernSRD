@@ -10,7 +10,7 @@ basic genetic level and the traits may be passed along to children.
 This process has the potential to create an entirely new race— winged
 humans, for example. And if the genetic manipulation is extensive enough
 that the subject’s DNA is no longer compatible with naturally occurring
-DNA—if she can no longer mate with normal m embers her own kind—the
+DNA—if she can no longer mate with normal members her own kind—the
 subject has actually been transformed into a new species. Such
 manipulation generally is not possible until PL 7.
 

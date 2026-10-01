@@ -1,4 +1,4 @@
-# Navigate (int)
+# Navigate (Int)
 
 In a campaign that features space travel or dimensional travel, you can
 use the Navigate skill to plot a course between planets, star systems,

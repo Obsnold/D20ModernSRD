@@ -42,6 +42,4 @@ Mecha technology can be found in societies of PL 6 or higher.
 - [Mecha Weapon Proficiency](MechaWeaponProficiency.md)
 - [Stun Mecha](StunMecha.md)
 - [Thruster Blast](ThrusterBlast.md)
-- [Mecha Jockey](MechaJockey.md)
-- [Requirements](Requirements.md)
-- [Class Information](ClassInformation.md)
+- [Mecha Jockey](../AdvancedClasses/MechaJockey.md)

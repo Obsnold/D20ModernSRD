@@ -3,7 +3,7 @@
 In addition to dimension generators, most dimensional travelers at
 Progress Level 8 and beyond carry dimensional transceivers, which
 
-## Dimensional Transceiver (pl 8)
+## Dimensional Transceiver (PL 8)
 
 A dimensional transceiver permits two-way communication across
 dimensions, although dimensional static can sometimes hinder or block

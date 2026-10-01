@@ -24,7 +24,7 @@ Different types of defensive systems are detailed below.
 **Restriction:** The level of license required to purchase the system
 legally.
 
-## Autopilot System (pl 5)
+## Autopilot System (PL 5)
 
 An autopilot system “kicks in” whenever the pilot is unable to fly the
 starship. An autopilot system isn’t as good at avoiding attacks as a
@@ -41,7 +41,7 @@ Defense depending on the ship’s size: Huge +1, Gargantuan +2, Colossal
 
 **Restriction:** None.
 
-## Damage Control System (pl 5)
+## Damage Control System (PL 5)
 
 A starship equipped with a damage control system can perform damage
 control as a move action. With a successful Repair check (DC 15), the
@@ -64,7 +64,7 @@ Systems).
 | Heavy        | 4d10                | 33          |
 | Superheavy   | 5d10                | 40          |
 
-## Sensor Jammer (pl 5)
+## Sensor Jammer (PL 5)
 
 A sensor jammer interferes with radar and enemy sensor scans. It also
 confounds missile guidance systems.
@@ -80,7 +80,7 @@ the effects of the sensor jammer, ignoring the penalty and miss chance.
 
 **Restriction:** Military (+3).
 
-## Autopilot System, Improved (pl 6)
+## Autopilot System, Improved (PL 6)
 
 An improved autopilot system provides an equipment bonus to the
 starship’s Defense depending on the ship’s size: Huge +3, Gargantuan +4,
@@ -92,7 +92,7 @@ system.
 
 **Restriction:** None.
 
-## Chaff Launcher (pl 6)
+## Chaff Launcher (PL 6)
 
 Chaff consists of a cloud of millions of tiny metal strips or particles.
 This detritus interferes with sensors and missiles. Deploying chaff—
@@ -109,7 +109,7 @@ additional chaff bundle.
 
 **Restriction:** Licensed (+1).
 
-## Damage Control, Improved (pl 6)
+## Damage Control, Improved (PL 6)
 
 A starship equipped with improved damage control regains an additional
 +1d10 points of damage each time damage control is performed
@@ -120,7 +120,7 @@ system.
 
 **Restriction:** Licensed (+1).
 
-## Decoy Drone Launcher (pl 6)
+## Decoy Drone Launcher (PL 6)
 
 A decoy drone is a small, self-guided missile that mimics the
 electromagnetic and infrared signatures of the ship that launched it.
@@ -142,7 +142,7 @@ additional drone.
 
 **Restriction:** Restricted (+2).
 
-## Magnetic Field (pl 6)
+## Magnetic Field (PL 6)
 
 The magnetic field is the first primitive energy shield. It uses vast
 amounts of power to surround the ship with potent lines of magnetic
@@ -156,7 +156,7 @@ mine.
 
 **Restriction:** Military (+3).
 
-## Point-Defense System (pl 6)
+## Point-Defense System (PL 6)
 
 A point-defense system serves two functions: It targets all incoming
 missiles, and it allows a starship to make attacks of opportunity
@@ -195,7 +195,7 @@ Systems).
 | Heavy         | 4d12×10              | 38          |
 | Superheavy    | 5d12×10              | 40          |
 
-## Radiation Shielding (pl 6)
+## Radiation Shielding (PL 6)
 
 Radiation shielding protects a ship’s crew and passengers against the
 harmful radiation of neutron stars, solar flares, and other external
@@ -206,7 +206,7 @@ saves to resist the effects of radiation poisoning.
 
 **Restriction:** None.
 
-## Self-Destruct System (pl 6)
+## Self-Destruct System (PL 6)
 
 A self-destruct system ensures that a starship cannot be captured,
 dissected for information, or used against its builders. Installing a
@@ -249,7 +249,7 @@ Self-Destruct Systems).
 | Heavy         | 4d6×10            | 44          |
 | Superheavy    | 5d6×10            | 50          |
 
-## Stealth Screen (pl 6)
+## Stealth Screen (PL 6)
 
 An improved version of the sensor jammer (see above), the stealth screen
 is a sophisticated electromagnetic transceiver capable of detecting
@@ -273,7 +273,7 @@ mine.
 
 **Restriction:** Military (+3).
 
-## Displacer (pl 7)
+## Displacer (PL 7)
 
 Using the same technology that will someday drive the PL 9 spatial
 compression engine, the displacer “shifts” the ship a few hundred yards
@@ -289,7 +289,7 @@ mine.
 
 **Restriction:** Military (+3).
 
-## Light Fortification (pl 7)
+## Light Fortification (PL 7)
 
 The starship’s structural integrity is reinforced so that the ship can
 shake off attacks that would cripple it otherwise. Light fortification
@@ -302,7 +302,7 @@ instead of a Craft (mechanical) check.
 
 **Restriction:** Licensed (+1).
 
-## Particle Field (pl 7)
+## Particle Field (PL 7)
 
 Generators project a field of alpha particles (helium nuclei that have
 been stripped of their electrons) around the ship. The field absorbs
@@ -317,7 +317,7 @@ mine.
 
 **Restriction:** Military (+3).
 
-## Repair Drones (pl 7)
+## Repair Drones (PL 7)
 
 Repair drones are Small spiderlike robots that rapidly deploy to damaged
 sections of a ship’s outer hull. They are programmed to repair damage
@@ -331,7 +331,7 @@ drones.
 
 **Restriction:** Military (+3).
 
-## Damage Control, Advanced (pl 8)
+## Damage Control, Advanced (PL 8)
 
 A starship equipped with advanced damage control regains an additional
 +2d10 points of damage each time damage control is performed
@@ -343,7 +343,7 @@ system.
 
 **Restriction:** Military (+3).
 
-## Cloaking Screen (pl 8)
+## Cloaking Screen (PL 8)
 
 An improvement of the PL 7 stealth screen, the cloaking screen warps
 light and energy around the ship’s hull, rendering the ship invisible to
@@ -372,7 +372,7 @@ mine.
 
 **Restriction:** Military (+3).
 
-## Medium Fortification (pl 8)
+## Medium Fortification (PL 8)
 
 As light fortification (see above), except that the medium fortification
 system converts 75% of all critical hits into regular hits.
@@ -381,7 +381,7 @@ system converts 75% of all critical hits into regular hits.
 
 **Restriction:** Licensed (+1).
 
-## Nanite Repair Array (pl 8)
+## Nanite Repair Array (PL 8)
 
 The final refinement of damage control systems, the nanite repair array
 consists of numerous nodules filled with nanites—microscopic
@@ -393,7 +393,7 @@ destroyed ship.
 
 **Restriction:** Restricted (+2).
 
-## Heavy Fortification (pl 9)
+## Heavy Fortification (PL 9)
 
 As light fortification (see above), except that the heavy fortification
 system converts all critical hits into regular hits.

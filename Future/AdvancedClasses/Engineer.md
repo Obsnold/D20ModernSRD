@@ -84,7 +84,7 @@ grants a +1 equipment bonus on all Repair checks made to fix electrical
 devices.
 
 *Electrical Tool Kit, Deluxe:* For the cost of a deluxe electrical tool
-k it, an Engineer can assemble a mastercraft (+1) version that grants a
+kit, an Engineer can assemble a mastercraft (+1) version that grants a
 +3 equipment bonus (instead of the usual +2 equipment bonus) on all
 Repair checks made to fix electrical devices and a +1 equipment bonus on
 all Craft (electrical) checks.

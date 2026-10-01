@@ -19,11 +19,11 @@ the sake of game balance, GMs who want to make lower-PL and higher-PL
 items available to characters should adjust the purchase DCs of items as
 follows.
 
-• –2 to Purchase DC for each Progress Level lower than the current
-Progress Level, except in the case of valuable antiques.
+- –2 to Purchase DC for each Progress Level lower than the current
+  Progress Level, except in the case of valuable antiques.
 
-• +5 to Purchase DC for equipment from the next highest Progress Level
-(the limit for purchasing cutting-edge technology).
+- +5 to Purchase DC for equipment from the next highest Progress Level
+  (the limit for purchasing cutting-edge technology).
 
 ### Low Progress Levels in the Future
 

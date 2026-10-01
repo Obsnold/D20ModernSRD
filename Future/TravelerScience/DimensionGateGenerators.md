@@ -20,7 +20,7 @@ check.
 Dimension gate generators come in a variety of forms, each operating
 somewhat differently.
 
-## D-Gate Generator (pl 7–9)
+## D-Gate Generator (PL 7–9)
 
 The first dimension gate generators—appearing at Progress Level 7— are
 Gargantuan objects that cannot be transported once assembled. The PL 7
@@ -53,7 +53,7 @@ is two-way, allowing for round trips.
 
 **Restriction:** Military (+3).
 
-## D-Drive Generator (pl 8–9)
+## D-Drive Generator (PL 8–9)
 
 The D-drive generator can be incorporated into a starship’s engine
 design, allowing the ship to travel between dimensions. Considered the
@@ -74,7 +74,7 @@ generator).
 
 **Restriction:** Military (+3).
 
-## Dimension Wand (pl 8–9)
+## Dimension Wand (PL 8–9)
 
 The dimension wand is a personal dimension gate generator. It creates a
 rupture in the fabric of reality just large enough for one character to

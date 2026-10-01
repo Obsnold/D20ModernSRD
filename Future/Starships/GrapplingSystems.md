@@ -5,16 +5,15 @@ under the headings of armor, engines, sensors, defensive systems, or
 weapons.
 
 Installing one of these systems requires a successful Craft (mechanical)
-check (DC 30) after investing 30 hours. A character
-
-without a mechanical tool kit takes a –4 penalty on the skill check.
+check (DC 30) after investing 30 hours. A character without a mechanical
+tool kit takes a –4 penalty on the skill check.
 
 **Purchase DC:** The purchase DC of the system.
 
 **Restriction:** The level of license required to purchase the system
 legally.
 
-## Grapplers (pl 5)
+## Grapplers (PL 5)
 
 Grapplers consist of two or more robotic arms fitted with magnetic grips
 or pads capable of latching onto a single target, usually another ship.
@@ -57,7 +56,7 @@ hold and retract the grapplers as a free action.
 | Medium-size    | 25 + target’s Defense |
 | Small          | 30 + target’s Defense |
 
-## Tractor Beam Emitter (pl 7)
+## Tractor Beam Emitter (PL 7)
 
 A tractor beam emitter projects a short-range gravitational “tether”
 that latches onto or immobilizes a single target, usually a ship or

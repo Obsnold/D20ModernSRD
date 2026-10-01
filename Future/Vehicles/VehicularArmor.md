@@ -21,7 +21,7 @@ operator’s Drive or Pilot checks.
 
 **Purchase DC:** The cost of the vehicular armor.
 
-## Alumisteel Armor (pl 5)
+## Alumisteel Armor (PL 5)
 
 This easy-to-acquire alloy is lightweight and reasonably strong.
 
@@ -31,7 +31,7 @@ This easy-to-acquire alloy is lightweight and reasonably strong.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
-## Duraplastic Armor (pl 5)
+## Duraplastic Armor (PL 5)
 
 Duraplastic armor is made of advanced plastic polymers, like carbon
 fiber and high-grade fiberglass. Although relatively cheap and light, it
@@ -43,7 +43,7 @@ doesn’t offer tremendous protection.
 
 **Purchase DC:** 10 + the vehicle’s hardness.
 
-## Duralloy Armor (pl 6)
+## Duralloy Armor (PL 6)
 
 Duralloy is harder, heavier, and more durable than alumisteel.
 
@@ -53,7 +53,7 @@ Duralloy is harder, heavier, and more durable than alumisteel.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
-## Resilium Armor (pl 6)
+## Resilium Armor (PL 6)
 
 Resilium is more malleable alloy than duralloy, although not as strong.
 
@@ -63,7 +63,7 @@ Resilium is more malleable alloy than duralloy, although not as strong.
 
 **Purchase DC:** 10 + the vehicle’s hardness.
 
-## Crystal Carbon Armor (pl 7)
+## Crystal Carbon Armor (PL 7)
 
 “Grown” in orbital laboratories, crystal carbon is a composite fiber
 material that narrowly outperforms neovulcanium (see below) on the
@@ -75,7 +75,7 @@ battlefield.
 
 **Purchase DC:** 20 + the vehicle’s hardness.
 
-## Neovulcanium Armor (pl 7)
+## Neovulcanium Armor (PL 7)
 
 Similar to duralloy, neovulcanium uses plasma-forging techniques to
 create an alloy of surprising resilience.
@@ -86,7 +86,7 @@ create an alloy of surprising resilience.
 
 **Purchase DC:** 15 + the vehicle’s hardness.
 
-## Megatanium Armor (pl 8)
+## Megatanium Armor (PL 8)
 
 Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium is exceedingly hard and durable.
@@ -97,7 +97,7 @@ matrix, megatanium is exceedingly hard and durable.
 
 **Purchase DC:** 20 + the vehicle’s hardness.
 
-## Reactive Armor (pl 8)
+## Reactive Armor (PL 8)
 
 Consisting of layers of insulating gel or compressed gas between
 cerametal sheets, reactive armor provides the same protection as crystal

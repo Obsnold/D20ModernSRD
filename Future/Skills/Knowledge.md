@@ -1,4 +1,4 @@
-# Knowledge (technology) (int)
+# Knowledge (technology) (Int)
 
 You can make a Knowledge (technology) check to correctly identify
 starships, mecha, robots, and cybernetic attachments, as well as

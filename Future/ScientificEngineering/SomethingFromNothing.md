@@ -21,7 +21,7 @@ replication tag; usually only visible at the molecular level, this tag
 does not alter the form of the replicated object, but marks the object
 as replicated and not created through conventional craftsmanship.
 
-After only a short time, the mark s that merely signify replication give
+After only a short time, the marks that merely signify replication give
 way to marks that designate individual ownership. These “anti-theft”
 tags lead to criminals seeking to master the secrets of the molecular
 marks. Using techniques such as kidnapping, blackmail, or extortion,

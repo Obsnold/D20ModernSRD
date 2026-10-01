@@ -1,7 +1,6 @@
 # ENVIRONMENTS
 
 - [Radiation Sickness](RadiationSickness.md)
-- [Treating Radiation Sickness](TreatingRadiationSickness.md)
 - [Gravity](Gravity.md)
 - [Normal Gravity](NormalGravity.md)
 - [Low-Gravity Environments](LowGravityEnvironments.md)

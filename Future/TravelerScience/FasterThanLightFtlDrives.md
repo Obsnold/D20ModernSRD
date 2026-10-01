@@ -1,4 +1,4 @@
-# Faster-Than-Light (ftl) Drives
+# Faster-Than-Light (FTL) Drives
 
 Early in Progress Level 7, the development of artificial gravity
 technology spawns the induction engine, and scientists quickly learn to

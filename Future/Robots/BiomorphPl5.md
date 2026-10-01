@@ -20,7 +20,7 @@ construct immunities, including immunity to critical hits.
 
 **Restriction:** None.
 
-**Table: Biomorph Robot Frames (Pl 5)**
+**Table: Biomorph Robot Frames (PL 5)**
 
 |                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
 | -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |

@@ -17,7 +17,7 @@ investing 12 hours in the software’s construction.
 **Class Skills:** All skills programmed into a robot become class skills
 for the robot.
 
-## Skill Chip (pl 5)
+## Skill Chip (PL 5)
 
 A skill chip enables a robot to gain up to 8 ranks in any one of the
 following skills: Computer Use, Demolitions, Disable Device, Listen,
@@ -33,7 +33,7 @@ modify it to hold as many ranks as he has in the emulated skill.
 
 **Purchase DC:** 4 × number of skill ranks.
 
-## Language Chip (pl 6)
+## Language Chip (PL 6)
 
 This chip allows the robot the read, write, and speak one language as
 though it has the appropriate Read/Write Language and Speak Language
@@ -41,7 +41,7 @@ skills.
 
 **Purchase DC:** 12.
 
-## Skill Progit (pl 6)
+## Skill Progit (PL 6)
 
 Sophisticated emulation software encased in a thin but durable plastic
 casing, a skill progit enables a robot to gain ranks in a single skill.
@@ -56,7 +56,7 @@ by the software).
 
 **Purchase DC:** 3 × number of skill ranks.
 
-## Skill Net (pl 7)
+## Skill Net (PL 7)
 
 A skill net consists of a series of interlocking programs that allow the
 robot to acquire ranks in multiple skills. The number of ranks in any
@@ -73,7 +73,7 @@ skill requires 1 hour of work and a successful Computer Use check (DC
 **Purchase DC:** 18 (four skills at 4 ranks each), 21 (four skills at 8
 ranks each), or 23 (four skills at 12 ranks each).
 
-## Skill Web (pl 8)
+## Skill Web (PL 8)
 
 A skill web allows a robot with ordinary class levels to gain skill
 points as normal for its class. The skill web expands as the robot

@@ -1,4 +1,4 @@
-# Computer Use (int)
+# Computer Use (Int)
 
 In addition to all the standard uses, this skill can be used to operate
 shipboard sensors as well as send, jam, scramble, and unscramble

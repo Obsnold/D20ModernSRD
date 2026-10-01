@@ -10,9 +10,8 @@ saline between 60°F and 70°F is extremely unlikely to survive long
 enough in the wild to affect anyone or anything.
 
 When scientists are working with a hardier organism, they often
-genetically manipulate it so the creature has one of the
-
-following flaws.
+genetically manipulate it so the creature has one of the following
+flaws.
 
 **Dependent:** The organism requires a particular item or condition to
 survive. For example, it may need to consume a particular chemical.
