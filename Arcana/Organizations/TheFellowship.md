@@ -71,5 +71,7 @@ person who broke the sigil.
 • *Recharge* without the need for an electrical outlet on which to
 focus.
 
-*Type:* Scroll (magic); *Caster Level:* 3rd; *Purchase DC:* 20; *Weight:*
-—.
+**Type:** Scroll (magic)\
+**Caster Level:** 3rd\
+**Purchase DC:** 20\
+**Weight:** —.

@@ -27,27 +27,27 @@ To illustrate the difficulty of destroying an artifact, several means of
 destruction are presented below (and the GM is encouraged to devise
 other means).
 
-• Locate and retrieve an ancient Babylonian scroll with a *transform*
-seed incantation, which will turn the artifact into something that can
-be destroyed by conventional means.
+- Locate and retrieve an ancient Babylonian scroll with a *transform*
+  seed incantation, which will turn the artifact into something that can
+  be destroyed by conventional means.
 
-• Use a *subjugate outsider* incantation to summon a powerful demon,
-then command it to take the artifact and plunge it into a pit of Hell.
+- Use a *subjugate outsider* incantation to summon a powerful demon,
+  then command it to take the artifact and plunge it into a pit of Hell.
 
-• Find the living descendant of an ancient Mongol dynasty whose blood,
-when spilled on the artifact, will cause it to dissolve.
+- Find the living descendant of an ancient Mongol dynasty whose blood,
+  when spilled on the artifact, will cause it to dissolve.
 
-• Place the artifact on an altar in a Paris cathedral, then splash it
-with holy water from the Aspergillum of Saint Javier, which was stolen
-from the cathedral in the 15th century and was last seen in a private
-art collection in Singapore.
+- Place the artifact on an altar in a Paris cathedral, then splash it
+  with holy water from the Aspergillum of Saint Javier, which was stolen
+  from the cathedral in the 15th century and was last seen in a private
+  art collection in Singapore.
 
-• Persuade or trick a red dragon emperor or empress into devouring the
-artifact, which will be consumed in the fires of its stomach.
+- Persuade or trick a red dragon emperor or empress into devouring the
+  artifact, which will be consumed in the fires of its stomach.
 
-• Locate an Egyptian brazier with the power to summon an efreeti noble,
-then use a wish to command the efreeti to smash the artifact with its
-great iron falchion.
+- Locate an Egyptian brazier with the power to summon an efreeti noble,
+  then use a wish to command the efreeti to smash the artifact with its
+  great iron falchion.
 
 ## Artifact Purchase DCs
 
@@ -88,8 +88,10 @@ in its use. It also grants whatever weapon its bearer uses a +3
 enhancement bonus. The bearer has damage reduction 10/+1 while grasping
 *Caesar’s shield* as well.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 70; *Weight:*
-15 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 70\
+**Weight:** 15 lb.
 
 ## Crescent of the Moon
 
@@ -138,8 +140,10 @@ somebody else’s action.
 *Waning:* During the period of time between full and new moon, the
 *crescent* grants its wielder the scent special quality.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 68; *Weight:*
-12 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 68\
+**Weight:** 12 lb.
 
 ## Cup of Curing
 
@@ -178,8 +182,10 @@ drinking four times in a sitting.
 Drinking from the cup is a move action that provokes attacks of
 opportunity.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 51; *Weight:*
-3 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 51\
+**Weight:** 3 lb.
 
 ## Dagger of Eternal Unrest
 
@@ -194,8 +200,10 @@ grace, the wielder may choose to have the blade cast *animate dead* on
 the victim. This creates a zombie under the control of the dagger’s
 wielder. If the dagger changes hands, so too does the zombie’s loyalty.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 47; *Weight:*
-1 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 47\
+**Weight:** 1 lb.
 
 ## Houdini’s Watch Fob
 
@@ -218,8 +226,10 @@ a +6 luck bonus on Balance, Bluff, Climb, Disguise, Escape Artist, Move
 Silently, and Tumble checks. Furthermore, the fob grants the wearer the
 Improved Initiative feat.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 50; *Weight:*
-—.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 50\
+**Weight:** —.
 
 ## Index of Alexandria
 
@@ -248,8 +258,10 @@ philosophy. (It is up to the GM to decide whether or not a specific
 subject falls into one or more of these categories.) This requires 2d6
 hours and a successful Research check (DC 25).
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 60; *Weight:*
-30 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 60\
+**Weight:** 30 lb.
 
 ## Sphere of Annihilation
 
@@ -295,8 +307,10 @@ points of damage. *Dispel magic* has no effect on the sphere, although a
 sphere as a spell effect created by a 20th-level spellcaster for this
 purpose).
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 40; *Weight:*
-—.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 40\
+**Weight:** —.
 
 ## Staff of Sorcerous Might
 
@@ -373,8 +387,10 @@ Only the *staff of sorcerous might* is capable of a retributive
 strike—this is not an act that can be performed with any other staff,
 wand, or magic item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 95; *Weight:*
-5 lb.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 95\
+**Weight:** 5 lb.
 
 ## Talisman of Pure Good
 
@@ -397,8 +413,10 @@ touches one, he takes 8d6 points of damage.
 
 All other characters are unaffected by this item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:*
-—.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 35\
+**Weight:** —.
 
 ## Talisman of Ultimate Evil
 
@@ -419,5 +437,7 @@ without an allegiance to evil touches one of these medallions, he takes
 touches one, he takes 8d6 points of damage. All other characters are
 unaffected by this item.
 
-*Type:* Artifact (magic); *Caster Level:* —; *Purchase DC:* 35; *Weight:*
-—.
+**Type:** Artifact (magic)\
+**Caster Level:** —\
+**Purchase DC:** 35\
+**Weight:** —.

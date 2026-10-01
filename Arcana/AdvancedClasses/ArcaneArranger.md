@@ -133,16 +133,16 @@ a level check, adding all Arcane Arranger levels and any levels of
 Charismatic Hero. The difficulty of this task is based on how common the
 required abilities are:
 
-| Requirement                                                                                                                            | DC                      |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Common Skill** (Ride, Pilot, Treat Injury)                                                                                           | DC 10                   |
-| **Uncommon Skill** (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                   | DC 15                   |
-| **Rare Skill** (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                        | DC 20                   |
-| **Specific Feat**                                                                                                                      | DC 20                   |
-| **Class Feature** (spellcasting, turn undead, psionics)                                                                                | DC 20                   |
-| **Specific Combination** of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury*spell) | DC 25                   |
-| Finding someone willing to perform activities secretly or illegally                                                                    | DC +5                   |
-| Finding someone with a specific level of ability                                                                                       | Add desired ranks to DC |
+| Requirement                                                                                                                             | DC                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Common Skill** (Ride, Pilot, Treat Injury)                                                                                            | DC 10                   |
+| **Uncommon Skill** (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural))                                    | DC 15                   |
+| **Rare Skill** (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device)                                         | DC 20                   |
+| **Specific Feat**                                                                                                                       | DC 20                   |
+| **Class Feature** (spellcasting, turn undead, psionics)                                                                                 | DC 20                   |
+| **Specific Combination** of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the *augury* spell) | DC 25                   |
+| Finding someone willing to perform activities secretly or illegally                                                                     | DC +5                   |
+| Finding someone with a specific level of ability                                                                                        | Add desired ranks to DC |
 
 A successful check indicates that the individual is available, and the
 Arcane Arranger knows about him. It does not guarantee the character

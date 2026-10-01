@@ -67,8 +67,10 @@ eggs, no matter where in the world they are. Franz Draco is the only
 person who knows how to make the hub egg work. Draco has the egg brought
 with him wherever he goes.
 
-*Type:* Wondrous item (magic); *Caster Level:* 10th; *Purchase DC:* 39;
-*Weight:* 5 lb.
+**Type:** Wondrous item (magic)\
+**Caster Level:** 10th\
+**Purchase DC:** 39\
+**Weight:** 5 lb.
 
 ## Franz Draco
 

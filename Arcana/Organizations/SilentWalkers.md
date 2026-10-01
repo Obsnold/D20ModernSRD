@@ -102,8 +102,10 @@ particular *Nakamura blade*, roll once on each of the following charts.
 | 95–97  | *True seeing* at will                                         |
 | 98–00  | *Passwall* 3/day                                              |
 
-*Type:* Weapon (magic); *Caster Level:* 10th; *Purchase DC:* 45¹;
-*Weight:* 6 lb.
+**Type:** Weapon (magic)\
+**Caster Level:** 10th\
+**Purchase DC:** 45¹\
+**Weight:** 6 lb.
 
 ¹ *Nakamura blades* are both highly collectable works of art and much
 sought after magic weapons. The Silent Walkers have retained control of

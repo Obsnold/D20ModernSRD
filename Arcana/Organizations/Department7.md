@@ -42,20 +42,26 @@ be used to activate a limited version of the *synchronicity* spell. It
 works exactly the same way as the spell except that the duration is only
 10 rounds.
 
-*Type:* Wondrous item (magic); *Caster Level:* 5th; *Purchase DC:* 32;
-*Weight:* —.
+**Type:** Wondrous item (magic)\
+**Caster Level:** 5th\
+**Purchase DC:** 32\
+**Weight:** —.
 
 **Secret Pockets:** Each agent may choose one garment (pants,
 windbreaker, overcoat, etc.) and have up to two pockets of the garment
 function as described in the *secret pocket* spell.
 
-*Type:* Wondrous item (magic); *Caster Level:* 5th; *Purchase DC:* 34;
-*Weight:* 1 lb.
+**Type:** Wondrous item (magic)\
+**Caster Level:** 5th\
+**Purchase DC:** 34\
+**Weight:** 1 lb.
 
 **Daylight Flares:** Every agent receives six sticks that look very much
 like unsharpened pencils. When a stick is snapped in two, the tip of the
 bottom half glows as thought it was the target of a *daylight* spell.
 This effect lasts for 20 minutes.
 
-*Type:* Wondrous item (magic); *Caster Level:* 2nd; *Purchase DC:* 27;
-*Weight* —.
+**Type:** Wondrous item (magic)\
+**Caster Level:** 2nd\
+**Purchase DC:** 27\
+**Weight:** —.

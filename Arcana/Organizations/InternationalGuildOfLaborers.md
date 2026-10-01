@@ -40,20 +40,20 @@ advice and counseling.
 After paying union dues any character who remains a member in good
 standing receives the following benefits:
 
-• A one-time +5 Wealth bonus.
+- A one-time +5 Wealth bonus.
 
-• Medical benefits that reduce the purchase DC of any medical procedure
-by –2. Furthermore, the purchase DC of any physician-prescribed
-medication can never be any higher than 5.
+- Medical benefits that reduce the purchase DC of any medical procedure
+  by –2. Furthermore, the purchase DC of any physician-prescribed
+  medication can never be any higher than 5.
 
-• Free legal representation. When warranted, a lawyer will represent the
-member’s interest in matters involving the police, government, and
-hostile corporate entities. Once the member calls the toll-free I.G.L.
-hotline, a union lawyer will arrive 1d6 hours later and take care of
-matters to the best of her skill. If the caller cannot wait that long, a
-union lawyer will call the appropriate office 1d6 x 10 minutes later,
-hinting that it would be in the official’s best interest if he settled
-the matter before the union brings its full weight to bear. This
-provides a +5 morale bonus on any Bluff, Diplomacy, Intimidate, and
-Sense Motive checks the union member makes relative to that official or
-his staff pertaining to this particular incident.
+- Free legal representation. When warranted, a lawyer will represent the
+  member’s interest in matters involving the police, government, and
+  hostile corporate entities. Once the member calls the toll-free I.G.L.
+  hotline, a union lawyer will arrive 1d6 hours later and take care of
+  matters to the best of her skill. If the caller cannot wait that long, a
+  union lawyer will call the appropriate office 1d6 x 10 minutes later,
+  hinting that it would be in the official’s best interest if he settled
+  the matter before the union brings its full weight to bear. This
+  provides a +5 morale bonus on any Bluff, Diplomacy, Intimidate, and
+  Sense Motive checks the union member makes relative to that official or
+  his staff pertaining to this particular incident.

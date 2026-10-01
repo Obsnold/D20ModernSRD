@@ -35,25 +35,25 @@ servitude. Whenever possible, an efreeti will twist the words of a wish
 to bring pain and destruction upon the wisher. A wish can produce any
 one of the following effects, at the GM’s discretion:
 
-• Duplicate any spell, psionic power, or incantation (including
-*raise dead*).
+- Duplicate any spell, psionic power, or incantation (including
+  *raise dead*).
 
-• Undo the harmful effects of a spell, psionic power, or
-incantation.
+- Undo the harmful effects of a spell, psionic power, or
+  incantation.
 
-• Increase one creature’s Wealth bonus by +20.
+- Increase one creature’s Wealth bonus by +20.
 
-• Bequeath one nonmagical item with a purchase DC of 60 or
-less.
+- Bequeath one nonmagical item with a purchase DC of 60 or
+  less.
 
-• Bequeath one magic item with a purchase DC of 45 or less.
+- Bequeath one magic item with a purchase DC of 45 or less.
 
-• Remove all injuries and afflictions affecting one creature.
+- Remove all injuries and afflictions affecting one creature.
 
-• Transport a number of creatures equal to the efreeti’s Hit Dice
-to any place the wisher chooses.
+- Transport a number of creatures equal to the efreeti’s Hit Dice
+  to any place the wisher chooses.
 
-• Undo a single recent event.
+- Undo a single recent event.
 
 **Immunities:** Efreet are immune to fire.
 

@@ -115,55 +115,64 @@ darkvision with a range of 100 feet x the dragon’s age category.
 
 **Table: Dragon Age Categories**
 
-| Category                                          | Age in Years  | Size                                                   | Base Hit Dice                                                                             | Breath Weapon | Fear Aura       | Crush          | Tail Sweep     | SR  | DR    |
-| ------------------------------------------------- | ------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------- | --------------- | -------------- | -------------- | --- | ----- |
-| 1 Wyrmling                                        | 0–5           | Small                                                  | 7d12                                                                                      | 2d8 (DC 14)   | —               | —              | —              | —   | —     |
-| 2 Very young                                      | 6–15          | Medium                                                 | 10d12                                                                                     | 4d8 (DC 17)   | —               | —              | —              | —   | —     |
-| 3 Young                                           | 16–25         | Medium                                                 | 13d12                                                                                     | 6d8 (DC 18)   | —               | —              | —              | —   | —     |
-| 4 Juvenile                                        | 26–50         | Large                                                  | 16d12                                                                                     | 8d8 (DC 21)   | —               | —              | —              | —   | —     |
-| 5 Young adult                                     | 51–100        | Large                                                  | 19d12                                                                                     | 10d8 (DC 23)  | 150 ft. (DC 23) | —              | —              | 20  | 5/+1  |
-| 6 Adult                                           | 101–200       | Huge                                                   | 22d12                                                                                     | 12d8 (DC 26)  | 180 ft. (DC 26) | 2d8+12 (DC 26) | —              | 22  | 5/+1  |
-| 7 Mature adult                                    | 201–400       | Huge                                                   | 25d12                                                                                     | 14d8 (DC 27)  | 210 ft. (DC 27) | 2d8+13 (DC 27) | —              | 24  | 10/+1 |
-| 8 Old                                             | 401–600       | Huge                                                   | 28d12                                                                                     | 16d8 (DC 30)  | 240 ft. (DC 30) | 2d8+15 (DC 30) | —              | 26  | 10/+1 |
-| 9 Very old                                        | 601–800       | Huge                                                   | 31d12                                                                                     | 18d8 (DC 31)  | 270 ft. (DC 32) | 2d8+16 (DC 31) | —              | 27  | 15/+2 |
-| 10 Ancient                                        | 801–1,000     | Gargantuan                                             | 34d12                                                                                     | 20d8 (DC 34)  | 300 ft. (DC 35) | 4d6+18 (DC 34) | 2d6+18 (DC 34) | 29  | 15/+2 |
-| 11 King/Queen                                     | 1,001–1,200   | Gargantuan                                             | 37d12                                                                                     | 22d8 (DC 36)  | 330 ft. (DC 37) | 4d6+21 (DC 36) | 2d6+21 (DC 36) | 30  | 20/+3 |
-| 12 Emperor/ Empress                               | 1,201+        | Colossal                                               | 40d12                                                                                     | 24d8 (DC 39)  | 360 ft. (DC 40) | 4d8+24 (DC 39) | 2d8+24 (DC 39) | 32  | 20/+3 |
-| **Table: Dragon Breath Weapon Range**             |               |                                                        |                                                                                           |               |                 |                |                |     |       |
-| Dragon Size                                       | Line (Length) | Cone (Length)                                          |                                                                                           |               |                 |                |                |     |       |
-| Tiny                                              | 30 ft.        | 15 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Small                                             | 40 ft.        | 20 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Medium                                            | 60 ft.        | 30 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Large                                             | 80 ft.        | 40 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Huge                                              | 100 ft.       | 50 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Gargantuan                                        | 120 ft.       | 60 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| Colossal                                          | 140 ft.       | 70 ft.                                                 |                                                                                           |               |                 |                |                |     |       |
-| **Table: Dragon Breath Weapon Types**             |               |                                                        |                                                                                           |               |                 |                |                |     |       |
-| Type                                              | Dragon Color  | Allegiance                                             | Notes                                                                                     |               |                 |                |                |     |       |
-| Line of acid                                      | Black         | Evil                                                   | Damage by age category (see Table: Dragon Age Categories)                                 |               |                 |                |                |     |       |
-| Line of electricity                               | Blue          | Evil                                                   | Damage by age category (see Table: Dragon Age Categories)                                 |               |                 |                |                |     |       |
-| Cone of acid                                      | Green         | Evil                                                   | Damage by age category (see Table: Dragon Age Categories)                                 |               |                 |                |                |     |       |
-| Cone of fire                                      | Red           | Evil                                                   | Damage by age category (see Table: Dragon Age Categories)                                 |               |                 |                |                |     |       |
-| Cone of cold                                      | White         | Evil                                                   | Damage by age category (see Table: Dragon Age Categories)                                 |               |                 |                |                |     |       |
-| Cone of sleep gas                                 | Brass         | Good                                                   | Will save or fall asleep for 1d6 rounds + 1 round per dragon age category                 |               |                 |                |                |     |       |
-| Cone of repulsion gas                             | Bronze        | Good                                                   | Will save or move away for 1d6 rounds + 1 round per dragon age category                   |               |                 |                |                |     |       |
-| Cone of slow gas                                  | Copper        | Good                                                   | Fortitude save or slowed (as*slow*spell) for 1d6 rounds + 1 round per dragon age category |               |                 |                |                |     |       |
-| Cone of weakening gas                             | Gold          | Good                                                   | Fortitude save or take 1 point of temporary Strength damage per dragon age category       |               |                 |                |                |     |       |
-| Cone of paralysis gas                             | Silver        | Good                                                   | Fortitude save or paralyzed for 1d6 rounds + 1 round per dragon age category              |               |                 |                |                |     |       |
-| **Table: Dragon Spells And Spell-Like Abilities** |               |                                                        |                                                                                           |               |                 |                |                |     |       |
-| Age Category                                      | Caster Level¹ | **New Spell-like Ability (choose one)**                |                                                                                           |               |                 |                |                |     |       |
-| Wyrmling                                          | —             | —                                                      |                                                                                           |               |                 |                |                |     |       |
-| Very young                                        | —             | —                                                      |                                                                                           |               |                 |                |                |     |       |
-| Young                                             | 1st           | *Daze*or*detect magical aura*1/day                     |                                                                                           |               |                 |                |                |     |       |
-| Juvenile                                          | 2nd           | *Sleep*or*true strike*1/day                            |                                                                                           |               |                 |                |                |     |       |
-| Young adult                                       | 3rd           | *Locate object*or*zone of truth*1/day                  |                                                                                           |               |                 |                |                |     |       |
-| Adult                                             | 4th           | *Protection from arrows/bullets*or*resist energy*1/day |                                                                                           |               |                 |                |                |     |       |
-| Mature adult                                      | 5th           | *Blur*or*invisibility*1/day                            |                                                                                           |               |                 |                |                |     |       |
-| Old                                               | 6th           | *Tongues*or*water breathing*1/day                      |                                                                                           |               |                 |                |                |     |       |
-| Very old                                          | 7th           | *Arcane eye*or*minor globe of invulnerability*1/day    |                                                                                           |               |                 |                |                |     |       |
-| Ancient                                           | 8th           | *Confusion*or*freedom of movement*1/day                |                                                                                           |               |                 |                |                |     |       |
-| Dragon King/Queen                                 | 9th           | *Break enchantment*or*true seeing*1/day                |                                                                                           |               |                 |                |                |     |       |
-| Dragon Emperor/Empress                            | 10th          | *Cloudkill*or*telekinesis*1/day                        |                                                                                           |               |                 |                |                |     |       |
+| Category            | Age in Years | Size       | Base Hit Dice | Breath Weapon | Fear Aura       | Crush          | Tail Sweep     | SR  | DR    |
+| ------------------- | ------------ | ---------- | ------------- | ------------- | --------------- | -------------- | -------------- | --- | ----- |
+| 1 Wyrmling          | 0–5          | Small      | 7d12          | 2d8 (DC 14)   | —               | —              | —              | —   | —     |
+| 2 Very young        | 6–15         | Medium     | 10d12         | 4d8 (DC 17)   | —               | —              | —              | —   | —     |
+| 3 Young             | 16–25        | Medium     | 13d12         | 6d8 (DC 18)   | —               | —              | —              | —   | —     |
+| 4 Juvenile          | 26–50        | Large      | 16d12         | 8d8 (DC 21)   | —               | —              | —              | —   | —     |
+| 5 Young adult       | 51–100       | Large      | 19d12         | 10d8 (DC 23)  | 150 ft. (DC 23) | —              | —              | 20  | 5/+1  |
+| 6 Adult             | 101–200      | Huge       | 22d12         | 12d8 (DC 26)  | 180 ft. (DC 26) | 2d8+12 (DC 26) | —              | 22  | 5/+1  |
+| 7 Mature adult      | 201–400      | Huge       | 25d12         | 14d8 (DC 27)  | 210 ft. (DC 27) | 2d8+13 (DC 27) | —              | 24  | 10/+1 |
+| 8 Old               | 401–600      | Huge       | 28d12         | 16d8 (DC 30)  | 240 ft. (DC 30) | 2d8+15 (DC 30) | —              | 26  | 10/+1 |
+| 9 Very old          | 601–800      | Huge       | 31d12         | 18d8 (DC 31)  | 270 ft. (DC 32) | 2d8+16 (DC 31) | —              | 27  | 15/+2 |
+| 10 Ancient          | 801–1,000    | Gargantuan | 34d12         | 20d8 (DC 34)  | 300 ft. (DC 35) | 4d6+18 (DC 34) | 2d6+18 (DC 34) | 29  | 15/+2 |
+| 11 King/Queen       | 1,001–1,200  | Gargantuan | 37d12         | 22d8 (DC 36)  | 330 ft. (DC 37) | 4d6+21 (DC 36) | 2d6+21 (DC 36) | 30  | 20/+3 |
+| 12 Emperor/ Empress | 1,201+       | Colossal   | 40d12         | 24d8 (DC 39)  | 360 ft. (DC 40) | 4d8+24 (DC 39) | 2d8+24 (DC 39) | 32  | 20/+3 |
+
+**Table: Dragon Breath Weapon Range**
+
+| Dragon Size | Line (Length) | Cone (Length) |
+| ----------- | ------------- | ------------- |
+| Tiny        | 30 ft.        | 15 ft.        |
+| Small       | 40 ft.        | 20 ft.        |
+| Medium      | 60 ft.        | 30 ft.        |
+| Large       | 80 ft.        | 40 ft.        |
+| Huge        | 100 ft.       | 50 ft.        |
+| Gargantuan  | 120 ft.       | 60 ft.        |
+| Colossal    | 140 ft.       | 70 ft.        |
+
+**Table: Dragon Breath Weapon Types**
+
+| Type                  | Dragon Color | Allegiance | Notes                                                                                       |
+| --------------------- | ------------ | ---------- | ------------------------------------------------------------------------------------------- |
+| Line of acid          | Black        | Evil       | Damage by age category (see Table: Dragon Age Categories)                                   |
+| Line of electricity   | Blue         | Evil       | Damage by age category (see Table: Dragon Age Categories)                                   |
+| Cone of acid          | Green        | Evil       | Damage by age category (see Table: Dragon Age Categories)                                   |
+| Cone of fire          | Red          | Evil       | Damage by age category (see Table: Dragon Age Categories)                                   |
+| Cone of cold          | White        | Evil       | Damage by age category (see Table: Dragon Age Categories)                                   |
+| Cone of sleep gas     | Brass        | Good       | Will save or fall asleep for 1d6 rounds + 1 round per dragon age category                   |
+| Cone of repulsion gas | Bronze       | Good       | Will save or move away for 1d6 rounds + 1 round per dragon age category                     |
+| Cone of slow gas      | Copper       | Good       | Fortitude save or slowed (as *slow* spell) for 1d6 rounds + 1 round per dragon age category |
+| Cone of weakening gas | Gold         | Good       | Fortitude save or take 1 point of temporary Strength damage per dragon age category         |
+| Cone of paralysis gas | Silver       | Good       | Fortitude save or paralyzed for 1d6 rounds + 1 round per dragon age category                |
+
+**Table: Dragon Spells And Spell-Like Abilities**
+
+| Age Category           | Caster Level¹ | New Spell-like Ability (choose one)                       |
+| ---------------------- | ------------- | --------------------------------------------------------- |
+| Wyrmling               | —             | —                                                         |
+| Very young             | —             | —                                                         |
+| Young                  | 1st           | *Daze* or *detect magical aura* 1/day                     |
+| Juvenile               | 2nd           | *Sleep* or *true strike* 1/day                            |
+| Young adult            | 3rd           | *Locate object* or *zone of truth* 1/day                  |
+| Adult                  | 4th           | *Protection from arrows/bullets* or *resist energy* 1/day |
+| Mature adult           | 5th           | *Blur* or *invisibility* 1/day                            |
+| Old                    | 6th           | *Tongues* or *water breathing* 1/day                      |
+| Very old               | 7th           | *Arcane eye* or *minor globe of invulnerability* 1/day    |
+| Ancient                | 8th           | *Confusion* or *freedom of movement* 1/day                |
+| Dragon King/Queen      | 9th           | *Break enchantment* or *true seeing* 1/day                |
+| Dragon Emperor/Empress | 10th          | *Cloudkill* or *telekinesis* 1/day                        |
 
 ¹ *Caster level applies to arcane spells and spell-like abilities.*
 

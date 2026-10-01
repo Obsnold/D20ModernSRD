@@ -23,6 +23,5 @@ whether or not the organization is suitable for heroes to join).
 - [Mindwreckers](Mindwreckers.md)
 - [Paranormal Science and Investigation Agency](ParanormalScienceAndInvestigationAgency.md)
 - [The Prancing Pony](ThePrancingPony.md)
-- [Magic Meals™](MagicMeals.md)
 - [Silent Walkers](SilentWalkers.md)
 - [Swiss Juncture of Gnomes](SwissJunctureOfGnomes.md)
