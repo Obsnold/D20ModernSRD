@@ -28,4 +28,4 @@ bonus on checks using that skill.
 
 ## Bonus Feat
 
-Toughness.
+- Toughness
