@@ -68,7 +68,8 @@ bonus feats.
 | Stat              | Value                                                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                                                               |
-| Size/Type         | Medium humanoid                                                                                                                 |
+| Size              | Medium                                                                                                                          |
+| Type              | humanoid                                                                                                                        |
 | HD                | 5d12+20 plus 3 (robust) plus 3 (Toughness)                                                                                      |
 | hp                | 58                                                                                                                              |
 | Mas               | 22                                                                                                                              |

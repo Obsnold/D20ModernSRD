@@ -112,6 +112,6 @@ Move Silently +11, Read/Write English, Repair +5, Research +6, Search
 **Feats:** Improved Initiative, Lightning Reflexes, Personal Firearms
 Proficiency, Simple Weapons Proficiency.
 
-**Talent (Smart Hero):** Savant (Computer Use).
+**Talents (Smart Hero):** Savant (Computer Use).
 
 **Possessions:** Ruger Service-Six (.38S revolver).

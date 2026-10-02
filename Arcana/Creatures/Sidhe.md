@@ -143,7 +143,8 @@ first 10 points of fire damage dealt by any single attack.
 | Stat              | Value                                                                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 7                                                                                                                                                                |
-| Size/Type         | Medium fey                                                                                                                                                       |
+| Size              | Medium                                                                                                                                                           |
+| Type              | fey                                                                                                                                                              |
 | HD                | 10d6+10                                                                                                                                                          |
 | hp                | 45                                                                                                                                                               |
 | Mas               | 16                                                                                                                                                               |
@@ -218,7 +219,8 @@ Hide, Listen, Move Silently, Perform, and Spot checks.
 | Stat              | Value                                                                                                    |
 | ----------------- | -------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                        |
-| Size/Type         | Medium fey                                                                                               |
+| Size              | Medium                                                                                                   |
+| Type              | fey                                                                                                      |
 | HD                | 5d6                                                                                                      |
 | hp                | 17                                                                                                       |
 | Mas               | 11                                                                                                       |

@@ -221,7 +221,7 @@ influencing members of its chosen gender (see Charm).
 (katana), Improved Initiative, Iron Will, Lightning Reflexes, Renown,
 Simple Weapons Proficiency, Stealthy, Windfall.
 
-**Talent (Fast Hero):** Evasion.
+**Talents (Fast Hero):** Evasion.
 
 **Talents (Charismatic Hero):** Charm, favor.
 

@@ -97,7 +97,8 @@ and the bonus feat Weapon Finesse (bite) in rat or hybrid form.
 | Stat              | Value                                                         |
 | ----------------- | ------------------------------------------------------------- |
 | CR                | 3                                                             |
-| Size/Type         | Medium humanoid                                               |
+| Size              | Medium                                                        |
+| Type              | humanoid                                                      |
 | HD                | 1d8+2 plus 1d8+2                                              |
 | hp                | 13                                                            |
 | Mas               | 15                                                            |

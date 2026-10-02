@@ -112,7 +112,7 @@ Spanish, Speak English, Speak Spanish, Spot +10.
 **Feats:** Deceptive, Personal Firearms Proficiency, Point Blank Shot,
 Simple Weapons Proficiency, Weapon Finesse (snakes).
 
-**Talent (Charismatic Hero):** Coordinate.
+**Talents (Charismatic Hero):** Coordinate.
 
 **Possessions:** Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
 ammunition, concealed carry holster, firearms license, casual clothing,

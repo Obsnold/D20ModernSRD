@@ -11,7 +11,7 @@ criteria.
 **Skills:** Bluff 6 ranks, Diplomacy 6 ranks, Gather Information 6
 ranks.
 
-**Feat:** Wild Talent.
+**Feats:** Wild Talent.
 
 ## Class Information
 

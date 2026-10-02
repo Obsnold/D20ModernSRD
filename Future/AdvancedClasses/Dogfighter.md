@@ -10,7 +10,7 @@ following criteria.
 
 **Skills:** Pilot 6 ranks.
 
-**Feat:** Starship Operation (ultralight).
+**Feats:** Starship Operation (ultralight).
 
 **Base Reflex Save:** +2.
 

@@ -116,7 +116,7 @@ Climb checks.
 **Skills:** Balance +11, Climb +12, Hide +18, Listen +8, Spot +8, Swim
 +11.
 
-**Feat:** Weapon Finesse (bite).
+**Feats:** Weapon Finesse (bite).
 
 **Advancement:** 1/2–1 HD (Small); 2 HD (Medium); 3–4 HD (Large);
 5–16 HD (Huge).

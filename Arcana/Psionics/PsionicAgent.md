@@ -13,7 +13,7 @@ following criteria.
 
 **Skill:** Hide 6 ranks, Move Silently 6 ranks.
 
-**Feat:** Wild Talent.
+**Feats:** Wild Talent.
 
 ## Class Information
 

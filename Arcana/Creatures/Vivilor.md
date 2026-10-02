@@ -70,7 +70,8 @@ weapons in combat.
 | Stat              | Value                           |
 | ----------------- | ------------------------------- |
 | CR                | 1                               |
-| Size/Type         | Medium outsider                 |
+| Size              | Medium                          |
+| Type              | outsider                        |
 | HD                | 2d8+2                           |
 | hp                | 11                              |
 | Init              | +0                              |
@@ -110,7 +111,8 @@ weapons in combat.
 | Stat              | Value                             |
 | ----------------- | --------------------------------- |
 | CR                | 2                                 |
-| Size/Type         | Medium outsider                   |
+| Size              | Medium                            |
+| Type              | outsider                          |
 | HD                | 3d8+4                             |
 | hp                | 17                                |
 | Init              | +0                                |

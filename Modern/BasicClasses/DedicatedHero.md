@@ -109,7 +109,7 @@ The Dedicated hero’s bonus on attempts to aid
 another increases by +1 on a successful aid another check. This talent
 can be selected multiple times, each time increasing the bonus by +1.
 
-**Prerequisite:** Empathy.
+**Prerequisites:** Empathy.
 
 ##### Intuition
 
@@ -120,7 +120,7 @@ or the hero gets a bad feeling about a specific situation, based on the
 GM’s best guess relating to the circumstances. This talent is usable a
 number of times per day equal to the character’s Dedicated level.
 
-**Prerequisite:** Empathy.
+**Prerequisites:** Empathy.
 
 #### Healing Talent Tree
 
@@ -137,7 +137,7 @@ The Dedicated hero’s ability to restore damage with
 a medical kit or perform surgery with a surgery kit increases by +2 hit
 points.
 
-**Prerequisite:** Healing knack.
+**Prerequisites:** Healing knack.
 
 ##### Healing Touch 2
 
@@ -164,7 +164,7 @@ The Dedicated hero is intuitively aware of his or her
 surroundings. The hero adds his or her base Will saving throw bonus to
 Listen or Spot checks to avoid surprise.
 
-**Prerequisite:** Skill emphasis.
+**Prerequisites:** Skill emphasis.
 
 ##### Faith
 
@@ -174,7 +174,7 @@ allows the Dedicated hero to add his or her Wisdom modifier to the die
 roll whenever the hero spends 1 action point to improve the result of an
 attack roll, skill check, saving throw, or ability check.
 
-**Prerequisite:** Skill emphasis.
+**Prerequisites:** Skill emphasis.
 
 ##### Cool Under Pressure
 
@@ -183,7 +183,7 @@ equal to 3 + the hero’s Wisdom modifier. When making a check with one of
 these skills, the Dedicated hero can take 10 even when distracted or
 under duress.
 
-**Prerequisite:** Skill emphasis plus either faith or aware.
+**Prerequisites:** Skill emphasis plus either faith or aware.
 
 ### Bonus Feats
 

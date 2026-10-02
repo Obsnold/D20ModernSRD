@@ -30,7 +30,8 @@ Finesse (slam).
 | Stat              | Value                |
 | ----------------- | -------------------- |
 | CR                | 1/2                  |
-| Size/Type         | Medium animal        |
+| Size              | Medium               |
+| Type              | animal               |
 | HD                | 2d8+2                |
 | hp                | 11                   |
 | Mas               | 13                   |

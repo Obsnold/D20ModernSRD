@@ -27,7 +27,7 @@ approaching enemies, sniff out hidden foes, and track by sense of smell.
 **Allegiance:** Bugbears must begin play with an allegiance to chaos,
 evil, or both.
 
-**Skill Bonus:** Bugbears gain a +4 species bonus on Move Silently
+**Skill Bonuses:** Bugbears gain a +4 species bonus on Move Silently
 checks.
 
 **Bonus Feat:** Bugbears gain the bonus feat Simple Weapons Proficiency.

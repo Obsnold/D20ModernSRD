@@ -49,7 +49,8 @@ human host.
 | Stat              | Value                                                                       |
 | ----------------- | --------------------------------------------------------------------------- |
 | CR                | 2                                                                           |
-| Size/Type         | Medium aberration                                                           |
+| Size              | Medium                                                                      |
+| Type              | aberration                                                                  |
 | HD                | 3d8+3                                                                       |
 | hp                | 16                                                                          |
 | Mas               | 12                                                                          |

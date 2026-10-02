@@ -10,7 +10,7 @@ following criteria.
 
 **Skill:** Intimidate 6 ranks.
 
-**Feat:** Improved Damage Threshold.
+**Feats:** Improved Damage Threshold.
 
 **Tough Hero Talents:** Any two Tough hero talents.
 

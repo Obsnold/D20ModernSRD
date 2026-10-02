@@ -134,7 +134,7 @@ mission shouldn’t hinge on the use of a favor, and getting a favor
 shouldn’t replace good roleplaying or the use of other skills. The GM
 may disallow any favor deemed to be disruptive to the game.
 
-**Prerequisite:** Charm.
+**Prerequisites:** Charm.
 
 ##### Captivate
 
@@ -199,7 +199,7 @@ equal to the character’s Charismatic level.
 This talent can be selected multiple times, each time worsening the
 dazzled penalty by –1. This is a Mind-Affecting ability.
 
-**Prerequisite:** Fast-talk.
+**Prerequisites:** Fast-talk.
 
 ##### Taunt
 
@@ -255,7 +255,7 @@ A Charismatic hero can’t inspire him or herself. The hero can inspire a
 number of allies equal to one-half his or her Charismatic level, rounded
 down (to a minimum of one ally).
 
-**Prerequisite:** Coordinate.
+**Prerequisites:** Coordinate.
 
 ##### Greater Inspiration
 

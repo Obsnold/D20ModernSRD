@@ -13,7 +13,7 @@ criteria.
 **Skills:** Investigate 6 ranks, Knowledge (behavioral sciences or
 streetwise) 6 ranks, Survival 6 ranks.
 
-**Feat:** Track.
+**Feats:** Track.
 
 ## Class Information
 

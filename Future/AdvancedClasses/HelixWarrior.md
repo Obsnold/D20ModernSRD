@@ -12,7 +12,7 @@ following criteria.
 
 **Skill:** Knowledge (tactics) 3 ranks.
 
-**Feat:** Endurance.
+**Feats:** Endurance.
 
 ## Class Information
 

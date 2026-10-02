@@ -116,7 +116,7 @@ feat Weapon Finesse (bite).
 **Skills:** Climb +8, Hide +17, Jump –4 (+2 for hunting spiders), Move
 Silently +9, Spot +12.
 
-**Feat:** Weapon Finesse (bite).
+**Feats:** Weapon Finesse (bite).
 
 **Advancement:** None.
 
@@ -202,7 +202,7 @@ Silently +9, Spot +12.
 **Skills:** Climb +12, Hide +9, Jump +0 (+6 for hunting spiders), Move
 Silently +9, Spot +12.
 
-**Feat:** Weapon Finesse (bite).
+**Feats:** Weapon Finesse (bite).
 
 **Advancement:** None.
 

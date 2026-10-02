@@ -71,7 +71,7 @@ Craft (mechanical) +6, Disable Device +12, Demolitions +10, Escape
 Artist +8, Hide +18, Listen +8, Move Silently +12, Repair +4, Spot +8,
 Tumble +8.
 
-**Feat:** Alertness, Builder (electronic, mechanical),
+**Feats:** Alertness, Builder (electronic, mechanical),
 Simple Weapons Proficiency, Stealthy.
 
 **Advancement:** None.

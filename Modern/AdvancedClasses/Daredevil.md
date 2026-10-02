@@ -9,7 +9,7 @@ criteria.
 
 **Skills:** Concentration 6 ranks, Drive 6 ranks.
 
-**Feat:** Endurance.
+**Feats:** Endurance.
 
 ## Class Information
 

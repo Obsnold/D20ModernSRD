@@ -90,7 +90,7 @@ The effort requires a full-round action and
 provides a +2 bonus that stacks with the bonus provided by extreme
 effort (+4 total).
 
-**Prerequisite:** Extreme effort.
+**Prerequisites:** Extreme effort.
 
 ##### Advanced Extreme Effort
 
@@ -116,7 +116,7 @@ hardness.
 The Strong hero ignores 2 additional
 points of an object’s hardness (for a total of 4).
 
-**Prerequisite:** Ignore hardness.
+**Prerequisites:** Ignore hardness.
 
 ##### Advanced Ignore Hardness
 
@@ -138,7 +138,7 @@ The Strong hero receives a +1 bonus on melee damage.
 The Strong hero receives an additional +1
 bonus on melee damage (+2 total).
 
-**Prerequisite:** Melee smash.
+**Prerequisites:** Melee smash.
 
 ##### Advanced Melee Smash
 

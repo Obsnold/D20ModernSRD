@@ -35,7 +35,8 @@ predators.
 | Stat              | Value                                                                                    |
 | ----------------- | ---------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                        |
-| Size/Type         | Medium magical beast                                                                     |
+| Size              | Medium                                                                                   |
+| Type              | magical beast                                                                            |
 | HD                | 9d10+27                                                                                  |
 | hp                | 76                                                                                       |
 | Mas               | 17                                                                                       |

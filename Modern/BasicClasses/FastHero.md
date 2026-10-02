@@ -95,7 +95,7 @@ Defense regardless of being caught flat-footed or struck by a hidden
 attacker. (The hero still loses his or her Dexterity bonus to Defense if
 the hero is immobilized.)
 
-**Prerequisite:** Evasion.
+**Prerequisites:** Evasion.
 
 ##### Uncanny Dodge 2
 
@@ -133,7 +133,7 @@ melee by another character. This attack counts as the Fast hero’s attack
 of opportunity for that round. Even a Fast hero with the Combat Reflexes
 feat can’t use this talent more than once per round.
 
-**Prerequisite:** Evasion.
+**Prerequisites:** Evasion.
 
 #### Increased Speed Talent Tree
 
@@ -148,7 +148,7 @@ The Fast hero’s base speed increases by 5 feet.
 The Fast hero’s base speed increases by 5
 feet. This talent stacks with increased speed (10 feet total).
 
-**Prerequisite:** Increased speed.
+**Prerequisites:** Increased speed.
 
 ##### Advanced Increased Speed
 

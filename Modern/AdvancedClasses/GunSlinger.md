@@ -9,7 +9,7 @@ following criteria.
 
 **Skills:** Sleight of Hand 6 ranks, Tumble 6 ranks.
 
-**Feat:** Personal Firearms Proficiency.
+**Feats:** Personal Firearms Proficiency.
 
 ## Class Information
 

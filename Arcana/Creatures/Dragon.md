@@ -79,7 +79,7 @@ damage.
 Mage of the level indicated on Table: Dragon Spells and Spell-like
 Abilities, gaining bonus spells for a high Intelligence score.
 
-**Spell-Like Abilities:** A young or older dragon gains
+**Spell-like Abilities:** A young or older dragon gains
 a spell-like ability upon reaching its new age category, as noted in
 Table: Dragon Spell-like Abilities. Once the dragon selects a spell-like
 ability for a given age category, it cannot swap that ability for
@@ -224,7 +224,8 @@ Language (any two), Spot +9.
 | Stat              | Value                                                                              |
 | ----------------- | ---------------------------------------------------------------------------------- |
 | CR                | 5                                                                                  |
-| Size/Type         | Medium dragon                                                                      |
+| Size              | Medium                                                                             |
+| Type              | dragon                                                                             |
 | HD                | 10d12+20                                                                           |
 | hp                | 85                                                                                 |
 | Mas               | 15                                                                                 |
@@ -266,7 +267,8 @@ Speak Language (any two), Spot +12.
 | Stat              | Value                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------- |
 | CR                | 7                                                                                                              |
-| Size/Type         | Medium dragon                                                                                                  |
+| Size              | Medium                                                                                                         |
+| Type              | dragon                                                                                                         |
 | HD                | 13d12+26                                                                                                       |
 | hp                | 110                                                                                                            |
 | Mas               | 18                                                                                                             |
@@ -308,7 +310,7 @@ Power Attack.
 magic, resistance*; 1st—*ray of fatigue, sleep*
 (DC 14).
 
-**Spell-like Ability:** 1/day—*daze*
+**Spell-like Abilities:** 1/day—*daze*
 (DC 13) or *detect magical
 aura*.
 

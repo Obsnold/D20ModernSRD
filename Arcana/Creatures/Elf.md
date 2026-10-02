@@ -31,7 +31,8 @@ Weapons Proficiency.
 | Stat              | Value                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
 | CR                | 1/2                                                                                                           |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                  |
+| Size              | Medium                                                                                                        |
+| Type              | humanoid (Shadowkind)                                                                                         |
 | HD                | 1d8–1                                                                                                         |
 | hp                | 3                                                                                                             |
 | Mas               | 8                                                                                                             |
@@ -64,7 +65,7 @@ Weapons Proficiency.
 **Skills:** Hide +3, Listen +2, Move Silently +3,
 Read/Write Elven, Search +2, Speak Elven, Spot +2, Survival +2.
 
-**Feat:** Archaic Weapons Proficiency, Point Blank
+**Feats:** Archaic Weapons Proficiency, Point Blank
 Shot.
 
 **Possessions:** Sword cane, compound bow, casual
@@ -77,7 +78,8 @@ clothes (in urban areas) or fatigues (in rural areas).
 | Stat              | Value                                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | CR                | 5                                                                                                                              |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                                   |
+| Size              | Medium                                                                                                                         |
+| Type              | humanoid (Shadowkind)                                                                                                          |
 | HD                | 4d6 plus 1d6                                                                                                                   |
 | hp                | 19                                                                                                                             |
 | Mas               | 10                                                                                                                             |
@@ -114,7 +116,7 @@ Knowledge (streetwise) +4, Listen +2, Read/Write Elven, Read/Write
 Language (any two), Research +4, Search +2, Sense Motive +2, Speak
 Elven, Speak Language (any two), Spot +2.
 
-**Feat:** Archaic Weapons Proficiency, Deceptive, Iron
+**Feats:** Archaic Weapons Proficiency, Deceptive, Iron
 Will, Point Blank Shot, Precise Shot, Simple Weapons Proficiency.
 
 **Talents (Charismatic Hero):** Charm, coordinate.

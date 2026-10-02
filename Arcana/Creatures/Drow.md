@@ -44,7 +44,8 @@ as a bonus feat.
 | Stat              | Value                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
 | CR                | 2                                                                                                                |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                     |
+| Size              | Medium                                                                                                           |
+| Type              | humanoid (Shadowkind)                                                                                            |
 | HD                | 1d8–1                                                                                                            |
 | hp                | 3                                                                                                                |
 | Mas               | 8                                                                                                                |
@@ -78,7 +79,7 @@ as a bonus feat.
 Move Silently +3, Read/Write Elven, Read/Write Language (any one),
 Search +4, Speak Elven, Speak Language (any one), Spot +2.
 
-**Feat:** Archaic Weapons Proficiency, Personal Firearms
+**Feats:** Archaic Weapons Proficiency, Personal Firearms
 Proficiency.
 
 **Possessions:** Machete, 6 spider-shaped shuriken
@@ -95,7 +96,8 @@ negates; initial and secondary 1d2 Con.*
 | Stat              | Value                                                                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                                                                              |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                                                                   |
+| Size              | Medium                                                                                                                                                         |
+| Type              | humanoid (Shadowkind)                                                                                                                                          |
 | HD                | 2d8                                                                                                                                                            |
 | hp                | 12                                                                                                                                                             |
 | Mas               | 10                                                                                                                                                             |
@@ -130,10 +132,10 @@ negates; initial and secondary 1d2 Con.*
 (any three), Search +6, Sleight of Hand +8, Speak Elven, Speak Language
 (any three), Spot +6, Tumble +8.
 
-**Feat:** Archaic Weapons Proficiency, Defensive Martial
+**Feats:** Archaic Weapons Proficiency, Defensive Martial
 Arts, Personal Firearms Proficiency, Simple Weapons Proficiency.
 
-**Talent (Fast Hero):** Evasion.
+**Talents (Fast Hero):** Evasion.
 
 **Possessions:** Machete, Glock 17 (9mm autoloader), 3
 box magazines of 9mm ammunition (for Glock 17), hand crossbow with 12

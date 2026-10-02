@@ -57,7 +57,8 @@ Proficiency as bonus feats.
 | Stat              | Value                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                      |
-| Size/Type         | Medium fey                                                                             |
+| Size              | Medium                                                                                 |
+| Type              | fey                                                                                    |
 | HD                | 1d6+2 (includes Toughness feat)                                                        |
 | hp                | 8                                                                                      |
 | Mas               | 8                                                                                      |
@@ -94,7 +95,7 @@ of Hand +8.
 **Feats:** Personal Firearms Proficiency, Simple Weapons
 Proficiency, Toughness.
 
-**Talent (Charismatic Hero):** Fast-talk.
+**Talents (Charismatic Hero):** Fast-talk.
 
 **Possessions:** Leather jacket, loaded Ruger
 Service-Six (.385 revolver), stolen BMW M3 sports coupe, coat, casual

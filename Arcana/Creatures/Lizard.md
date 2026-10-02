@@ -69,7 +69,8 @@ wooded or overgrown areas), Listen +5, Move Silently +6, Spot +5.
 | Stat              | Value                             |
 | ----------------- | --------------------------------- |
 | CR                | 2                                 |
-| Size/Type         | Medium animal                     |
+| Size              | Medium                            |
+| Type              | animal                            |
 | HD                | 3d8+9                             |
 | hp                | 22                                |
 | Mas               | 17                                |

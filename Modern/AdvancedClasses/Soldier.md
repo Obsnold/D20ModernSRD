@@ -9,7 +9,7 @@ criteria.
 
 **Skill:** Knowledge (tactics) 3 ranks.
 
-**Feat:** Personal Firearms Proficiency.
+**Feats:** Personal Firearms Proficiency.
 
 ## Class Information
 

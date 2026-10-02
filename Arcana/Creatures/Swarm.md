@@ -105,7 +105,8 @@ at all.
 | Stat              | Value                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------- |
 | CR                | 2                                                                                   |
-| Size/Type         | Medium vermin (swarm of Tiny vermin)                                                |
+| Size              | Medium                                                                              |
+| Type              | vermin (swarm of Tiny vermin)                                                       |
 | HD                | 4d8                                                                                 |
 | hp                | 18                                                                                  |
 | Mas               | 10                                                                                  |
@@ -154,7 +155,8 @@ color and detail under these conditions.
 | Stat              | Value                                         |
 | ----------------- | --------------------------------------------- |
 | CR                | 3                                             |
-| Size/Type         | Medium animal (swarm of Diminutive animals)   |
+| Size              | Medium                                        |
+| Type              | animal (swarm of Diminutive animals)          |
 | HD                | 6d8+6                                         |
 | hp                | 33                                            |
 | Mas               | 12                                            |
@@ -211,7 +213,8 @@ light at all.
 | Stat              | Value                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------- |
 | CR                | 5                                                                                      |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                                   |
+| Size              | Medium                                                                                 |
+| Type              | vermin (swarm of Fine vermin)                                                          |
 | HD                | 5d8                                                                                    |
 | hp                | 22                                                                                     |
 | Mas               | 10                                                                                     |
@@ -264,7 +267,8 @@ light at all.
 | Stat              | Value                                                                       |
 | ----------------- | --------------------------------------------------------------------------- |
 | CR                | 1                                                                           |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                        |
+| Size              | Medium                                                                      |
+| Type              | vermin (swarm of Fine vermin)                                               |
 | HD                | 2d8                                                                         |
 | hp                | 9                                                                           |
 | Mas               | 10                                                                          |
@@ -324,7 +328,8 @@ light at all.
 | Stat              | Value                                                     |
 | ----------------- | --------------------------------------------------------- |
 | CR                | 2                                                         |
-| Size/Type         | Medium undead (swarm of Fine undead)                      |
+| Size              | Medium                                                    |
+| Type              | undead (swarm of Fine undead)                             |
 | HD                | 3d12                                                      |
 | hp                | 19                                                        |
 | Mas               | —                                                         |
@@ -385,7 +390,8 @@ light at all.
 | Stat              | Value                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------ |
 | CR                | 1                                                                                    |
-| Size/Type         | Medium vermin (swarm of Fine vermin)                                                 |
+| Size              | Medium                                                                               |
+| Type              | vermin (swarm of Fine vermin)                                                        |
 | HD                | 1d8                                                                                  |
 | hp                | 4                                                                                    |
 | Mas               | 10                                                                                   |

@@ -32,7 +32,8 @@ round so long as it has at least 1 hit point remaining.
 | Stat              | Value                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                                              |
-| Size/Type         | Medium monstrous humanoid                                                                                      |
+| Size              | Medium                                                                                                         |
+| Type              | monstrous humanoid                                                                                             |
 | HD                | 9d8                                                                                                            |
 | hp                | 40                                                                                                             |
 | Mas               | 10                                                                                                             |
@@ -79,7 +80,8 @@ pistol) with suppressor.
 | Stat              | Value                                                                                                                  |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | CR                | 10                                                                                                                     |
-| Size/Type         | Medium monstrous humanoid                                                                                              |
+| Size              | Medium                                                                                                                 |
+| Type              | monstrous humanoid                                                                                                     |
 | HD                | 9d8 plus 4d8                                                                                                           |
 | hp                | 58                                                                                                                     |
 | Mas               | 10                                                                                                                     |

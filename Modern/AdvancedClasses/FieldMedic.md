@@ -9,7 +9,7 @@ following criteria.
 
 **Skills:** Treat Injury 6 ranks, Spot 6 ranks.
 
-**Feat:** Surgery.
+**Feats:** Surgery.
 
 ## Class Information
 

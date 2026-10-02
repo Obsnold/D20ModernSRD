@@ -33,7 +33,7 @@ Defense for one day or until they successfully injure the platonic who
 generated the aura. A creature that has resisted or broken the effect
 cannot be affected again by that platonic’s aura for one day.
 
-**Spell-Like Abilities:** At will—*bestow
+**Spell-like Abilities:** At will—*bestow
 curse, change self, detect magic, dispel magic, fear, status,
 telekinesis, teleport.* In addition, platonics generally have
 four additional spell-like abilities (each usable at will) chosen from
@@ -81,7 +81,8 @@ Weapons Proficiency.
 | Stat              | Value                                                                                                                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 17                                                                                                                                                                                      |
-| Size/Type         | Medium outsider                                                                                                                                                                         |
+| Size              | Medium                                                                                                                                                                                  |
+| Type              | outsider                                                                                                                                                                                |
 | HD                | 15d8+75                                                                                                                                                                                 |
 | hp                | 142                                                                                                                                                                                     |
 | Mas               | 20                                                                                                                                                                                      |
@@ -119,7 +120,7 @@ Listen +24, Research +25, Search +25, Sense Motive +24, Spot +24.
 Weapons Proficiency, Burst Fire, Combat Martial Arts, Personal Firearms
 Proficiency, Simple Weapons Proficiency.
 
-**Spell-Like Abilities:** At will—*bestow
+**Spell-like Abilities:** At will—*bestow
 curse (DC 21), break enchantment, change self, detect magical aura,
 discern lies, dispel magic, fear (DC 21), hold person (DC 20), status,
 telekinesis (DC 22), teleport, wall of force*;

@@ -33,14 +33,14 @@ starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
 under these conditions.
 
-**Saving Throw Bonus:** Gnomes gain a +2 species bonus on saving throws
+**Saving Throw Bonuses:** Gnomes gain a +2 species bonus on saving throws
 against illusions.
 
 **Skill Bonuses:** Gnomes gain a +2 species bonus on Listen checks.
 Gnomes who have one or more ranks in the Craft (pharmaceutical) skill
 also gain a +2 species bonus on Craft (pharmaceutical) checks.
 
-**Bonus Feats:** Gnomes gain the bonus feat Archaic Weapons Proficiency.
+**Bonus Feat:** Gnomes gain the bonus feat Archaic Weapons Proficiency.
 They may treat gnome hooked hammers (see Chapter Two: Equipment) as
 archaic weapons instead of exotic weapons.
 

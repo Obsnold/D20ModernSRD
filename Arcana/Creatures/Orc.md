@@ -27,7 +27,8 @@ exotic weapons.
 | Stat              | Value                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | CR                | 1/2                                                                                       |
-| Size/Type         | Medium humanoid                                                                           |
+| Size              | Medium                                                                                    |
+| Type              | humanoid                                                                                  |
 | HD                | 1d8                                                                                       |
 | hp                | 4                                                                                         |
 | Mas               | 11                                                                                        |
@@ -74,7 +75,8 @@ fatigues, sunglasses (negates light sensitivity).
 | Stat              | Value                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                                               |
-| Size/Type         | Medium humanoid                                                                                                 |
+| Size              | Medium                                                                                                          |
+| Type              | humanoid                                                                                                        |
 | HD                | 2d8+4 plus 1d10+2                                                                                               |
 | hp                | 24                                                                                                              |
 | Mas               | 15                                                                                                              |
@@ -112,9 +114,9 @@ fatigues, sunglasses (negates light sensitivity).
 Proficiency (light), Armor Proficiency (medium), Brawl, Power Attack,
 Simple Weapons Proficiency, Weapon Focus (greataxe).
 
-**Talent (Strong Hero):** Melee smash.
+**Talents (Strong Hero):** Melee smash.
 
-**Talent (Tough Hero):** Remain conscious.
+**Talents (Tough Hero):** Remain conscious.
 
 **Possessions:** Breastplate, greataxe, compound bow
 with 20 arrows, casual clothes or fatigues, sunglasses (negates light

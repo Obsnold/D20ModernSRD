@@ -54,7 +54,8 @@ waraxes as archaic weapons instead of exotic weapons.
 | Stat        | Value                                                                               |
 | ----------- | ----------------------------------------------------------------------------------- |
 | CR          | 1/2                                                                                 |
-| Size/Type   | Medium humanoid (Shadowkind)                                                        |
+| Size        | Medium                                                                              |
+| Type        | humanoid (Shadowkind)                                                               |
 | HD          | 1d8+1                                                                               |
 | hp          | 5                                                                                   |
 | Mas         | 13                                                                                  |
@@ -100,7 +101,8 @@ multipurpose tool.
 | Stat              | Value                                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------------- |
 | CR                | 2                                                                                                           |
-| Size/Type         | Medium humanoid (Shadowkind)                                                                                |
+| Size              | Medium                                                                                                      |
+| Type              | humanoid (Shadowkind)                                                                                       |
 | HD                | 1d6+3 plus 1d10+3 plus 1 (robust)                                                                           |
 | hp                | 18                                                                                                          |
 | Mas               | 17                                                                                                          |
@@ -139,10 +141,10 @@ Survival +9.
 **Feats:** Archaic Weapons Proficiency, Educated
 (mechanical, structural), Simple Weapons Proficiency.
 
-**Talent (Dedicated Hero):** Skill emphasis
+**Talents (Dedicated Hero):** Skill emphasis
 (Survival).
 
-**Talent (Tough Hero):** Robust.
+**Talents (Tough Hero):** Robust.
 
 **Possessions:** Leather jacket, dwarven waraxe, 6
 sticks of dynamite, brass knuckles, casual clothes, cell phone,

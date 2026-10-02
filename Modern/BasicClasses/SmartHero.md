@@ -141,7 +141,7 @@ read and write in a given language.
 A single check covers roughly one minute of a spoken language or one
 page of a written language.
 
-**Prerequisite:** At least 1 rank in either Read/Write Language or Speak
+**Prerequisites:** At least 1 rank in either Read/Write Language or Speak
 Language for each of three different languages.
 
 #### Strategy Talent Tree
@@ -162,7 +162,7 @@ his or her Intelligence bonus instead of either Strength or Dexterity
 bonus on attack rolls as the hero finds ways to outthink his opponent
 and notices weaknesses in his opponent’s fighting style.
 
-**Prerequisite:** One talent from the Research Talent Tree.
+**Prerequisites:** One talent from the Research Talent Tree.
 
 ##### Plan
 
@@ -191,7 +191,7 @@ by 1 point (to a minimum of +0) for every additional round the situation
 continues, as the vagaries of circumstance begin to unravel even the
 best-laid plans.
 
-**Prerequisite:** One talent from the Research Talent Tree.
+**Prerequisites:** One talent from the Research Talent Tree.
 
 ##### Trick
 
@@ -216,7 +216,7 @@ After the first trick in an encounter, whether the attempt succeeds or
 not, that target becomes wary and immune to such ploys. This is a
 mind-affecting ability.
 
-**Prerequisite:** One talent from the Research Talent Tree.
+**Prerequisites:** One talent from the Research Talent Tree.
 
 ### Bonus Feats
 

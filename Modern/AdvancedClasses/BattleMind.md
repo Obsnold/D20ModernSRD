@@ -9,7 +9,7 @@ following criteria.
 
 **Skill:** Jump 6 ranks.
 
-**Feat:** Wild Talent.
+**Feats:** Wild Talent.
 
 ## Class Information
 

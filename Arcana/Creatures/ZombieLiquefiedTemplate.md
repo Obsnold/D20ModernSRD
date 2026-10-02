@@ -91,7 +91,8 @@ feat.
 | Stat              | Value                                     |
 | ----------------- | ----------------------------------------- |
 | CR                | 2                                         |
-| Size/Type         | Medium undead                             |
+| Size              | Medium                                    |
+| Type              | undead                                    |
 | HD                | 3d12+3 (includes Toughness feat)          |
 | hp                | 22                                        |
 | Init              | –1                                        |

@@ -94,7 +94,7 @@ Spot +3.
 **Feats:** Combat Martial Arts, Personal Firearms Proficiency, Power
 Attack, Simple Weapons Proficiency.
 
-**Talent (Strong Hero):** Melee smash.
+**Talents (Strong Hero):** Melee smash.
 
 **Possessions:** Metal baton, TEC-9 (9mm machine pistol), 50 rounds of
 9mm ammunition, fatigues, fatigue jacket, climbing gear.

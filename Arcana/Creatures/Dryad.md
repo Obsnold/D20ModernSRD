@@ -4,7 +4,7 @@
 
 Dryads have the following traits:
 
-**Spell-Like Abilities:** At will—*entangle*
+**Spell-like Abilities:** At will—*entangle*
 (DC 13), *speak with plants, tree shape*;
 3/day—*charm person* (DC 13),
 *deep slumber* (DC 15), *tree stride*;
@@ -31,7 +31,8 @@ unfriendly.
 | Stat              | Value                                                         |
 | ----------------- | ------------------------------------------------------------- |
 | CR                | 3                                                             |
-| Size/Type         | Medium fey                                                    |
+| Size              | Medium                                                        |
+| Type              | fey                                                           |
 | HD                | 4d6                                                           |
 | hp                | 14                                                            |
 | Mas               | 11                                                            |

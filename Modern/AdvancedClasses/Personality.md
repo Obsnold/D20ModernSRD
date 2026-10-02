@@ -7,7 +7,7 @@ following criteria.
 
 **Skills:** Diplomacy 6 ranks, Perform (select one) 6 ranks.
 
-**Feat:** Renown.
+**Feats:** Renown.
 
 ## Class Information
 

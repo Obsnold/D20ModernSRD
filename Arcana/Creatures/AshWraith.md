@@ -60,7 +60,8 @@ to natural sunlight.
 | Stat              | Value                                                                       |
 | ----------------- | --------------------------------------------------------------------------- |
 | CR                | 6                                                                           |
-| Size/Type         | Medium undead                                                               |
+| Size              | Medium                                                                      |
+| Type              | undead                                                                      |
 | HD                | 6d12                                                                        |
 | hp                | 39                                                                          |
 | Mas               | —                                                                           |

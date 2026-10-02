@@ -9,7 +9,7 @@ criteria.
 
 **Skills:** Concentration 6 ranks, Intimidate 6 ranks.
 
-**Feat:** Personal Firearms Proficiency.
+**Feats:** Personal Firearms Proficiency.
 
 ## Class Information
 

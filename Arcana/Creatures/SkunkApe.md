@@ -33,7 +33,8 @@ Alertness.
 | Stat              | Value                                      |
 | ----------------- | ------------------------------------------ |
 | CR                | 1/2                                        |
-| Size/Type         | Medium monstrous humanoid                  |
+| Size              | Medium                                     |
+| Type              | monstrous humanoid                         |
 | HD                | 1d8                                        |
 | hp                | 4                                          |
 | Mas               | 11                                         |
@@ -65,7 +66,7 @@ Alertness.
 **Skills:** Hide +5, Listen +5, Move Silently +5, Speak
 Skunk Ape, Spot +5.
 
-**Feat:** Alertness, Simple Weapons Proficiency.
+**Feats:** Alertness, Simple Weapons Proficiency.
 
 **Advancement:** By character class.
 
@@ -74,7 +75,8 @@ Skunk Ape, Spot +5.
 | Stat              | Value                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------- |
 | CR                | 5                                                                                      |
-| Size/Type         | Medium monstrous humanoid                                                              |
+| Size              | Medium                                                                                 |
+| Type              | monstrous humanoid                                                                     |
 | HD                | 3d6+9 plus 2d8+6                                                                       |
 | hp                | 37                                                                                     |
 | Mas               | 16                                                                                     |
@@ -109,7 +111,7 @@ philosophy) +6, Listen +7, Read/Write Language (any one), Sense Motive
 +8, Speak Language (any one), Speak Skunk Ape, Spellcraft +4, Spot +7,
 Survival +7, Treat Injury +4.
 
-**Feat:** Alertness, Archaic Weapons Proficiency, Heroic
+**Feats:** Alertness, Archaic Weapons Proficiency, Heroic
 Surge (2/day), Improved Initiative, Lightning Reflexes, Simple Weapons
 Proficiency, Track.
 

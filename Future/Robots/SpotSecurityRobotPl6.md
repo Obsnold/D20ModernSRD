@@ -65,6 +65,6 @@ The “Spot” security robot has the following systems and accessories:
 ranks), Listen skill progit (4 ranks), Move Silently skill progit (4
 ranks), Spot skill progit (4 ranks).
 
-**Ability Upgrade:** Dexterity upgrade (+2).
+**Ability Upgrades:** Dexterity upgrade (+2).
 
-**Accessory:** Vocalizer.
+**Accessories:** Vocalizer.

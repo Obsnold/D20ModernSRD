@@ -126,7 +126,8 @@ lifestyle.
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Class             | Female Drow, Fast Hero 4/Dedicated Hero 5/Charismatic Hero 9                                                              |
 | CR                | 20                                                                                                                        |
-| Size/Type         | Medium humanoid (Drow, Shadowkind)                                                                                        |
+| Size              | Medium                                                                                                                    |
+| Type              | humanoid (Drow, Shadowkind)                                                                                               |
 | HD                | 4d8–4 plus 5d6–5 plus 9d6–9                                                                                               |
 | hp                | 69                                                                                                                        |
 | Mas               | 8                                                                                                                         |

@@ -36,7 +36,8 @@ successful Treat Injury check (DC 10) or the application of a
 | Stat              | Value                                                                  |
 | ----------------- | ---------------------------------------------------------------------- |
 | CR                | 10                                                                     |
-| Size/Type         | Medium vermin                                                          |
+| Size              | Medium                                                                 |
+| Type              | vermin                                                                 |
 | HD                | 13d8 +39                                                               |
 | hp                | 97                                                                     |
 | Mas               | 16                                                                     |

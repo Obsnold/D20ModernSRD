@@ -113,7 +113,8 @@ dresses in the finest clothing and bits of flashy gold jewelry.
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Class             | Male Efreeti Smart Hero 3/Charismatic Hero 4                                                                                                                             |
 | CR                | 15                                                                                                                                                                       |
-| Size/Type         | Large outsider (fire)                                                                                                                                                    |
+| Size              | Large                                                                                                                                                                    |
+| Type              | outsider (fire)                                                                                                                                                          |
 | HD                | 10d8+20 plus 3d6+6 plus 4d6+8                                                                                                                                            |
 | hp                | 128                                                                                                                                                                      |
 | Mas               | 17                                                                                                                                                                       |
@@ -163,7 +164,7 @@ Initiative, Personal Firearms Proficiency, Renown.
 
 **Talents (Charismatic Hero):** Coordinate, inspiration.
 
-**Spell-Like Abilities:** 1/day—*detect magical aura, gaseous form,
+**Spell-like Abilities:** 1/day—*detect magical aura, gaseous form,
 invisibility, wall of fire* (DC 19). These abilities are as the spells
 cast by a 10th-level Mage (save DC 15 + spell level). The DCs are
 Charisma-based.
@@ -204,7 +205,8 @@ sunglasses (even at night).
 | ----------------- | ------------------------------------------------------------------------------------------- |
 | Class             | Female Medusa Charismatic Hero 4                                                            |
 | CR                | 11                                                                                          |
-| Size/Type         | Medium monstrous humanoid                                                                   |
+| Size              | Medium                                                                                      |
+| Type              | monstrous humanoid                                                                          |
 | HD                | 6d8+6 plus 4d6+4                                                                            |
 | hp                | 42                                                                                          |
 | Mas               | 12                                                                                          |
@@ -242,7 +244,7 @@ Speak Spanish, Spot +10.
 **Feats:** Deceptive, Frightful Presence, Personal Firearms Proficiency,
 Point Blank Shot, Simple Weapons Proficiency, Weapon Finesse (snakes).
 
-**Talent (Charismatic Hero):** Coordinate,inspiration.
+**Talents (Charismatic Hero):** Coordinate,inspiration.
 
 **Possessions:** Knife, Glock 17 (9mm autoloader), 50 rounds of 9mm
 ammunition, concealed carry holster, firearms license, business

@@ -12,7 +12,7 @@ following criteria.
 
 **Skills:** Diplomacy 6 ranks, Knowledge (tactics) 6 ranks.
 
-**Feat:** Personal Firearms Proficiency.
+**Feats:** Personal Firearms Proficiency.
 
 ## Class Information
 

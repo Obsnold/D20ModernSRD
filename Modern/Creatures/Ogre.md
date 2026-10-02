@@ -99,7 +99,7 @@ Focus (great club).
 
 **Talents (Tough Hero):** Damage reduction 1/—, 2/—, and Second Wind.
 
-**Talent (Bodyguard):** Harm’s way.
+**Talents (Bodyguard):** Harm’s way.
 
 **Possessions:** Huge club (6 feet long, 8 inches thick), undercover
 vest, overcoat, Browning BPS 10-gauge shotgun, 20 10-gauge shotgun

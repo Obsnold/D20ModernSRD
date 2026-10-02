@@ -119,9 +119,9 @@ Read/Write Halfling, Read/Write Language (any three), Sleight of Hand
 **Feats:** Archaic Weapons Proficiency, Personal
 Firearms Proficiency, Simple Weapons Proficiency.
 
-**Talent (Fast Hero):** Evasion.
+**Talents (Fast Hero):** Evasion.
 
-**Talent (Charismatic Hero):** Fast-talk.
+**Talents (Charismatic Hero):** Fast-talk.
 
 **Possessions:** Slingshot, knife, loaded Pathfinder
 (.22 revolver), speed loader (with 6 extra .22 rounds), taser, casual

@@ -116,7 +116,7 @@ Proficiency, Renown, Simple Weapons Proficiency, Stealthy.
 
 **Talents (Fast Hero):** Evasion, uncanny dodge 1.
 
-**Talent (Smart Hero):** Savant (Research).
+**Talents (Smart Hero):** Savant (Research).
 
 **Possessions:** Colt Double Eagle (10mm autoloader), 18 rounds of 10mm
 ammunition, hip holster, fey rod, knife, day pack, bag of 25 caltrops, 3

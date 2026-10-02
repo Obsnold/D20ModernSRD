@@ -113,7 +113,8 @@ throwing knives.
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Class             | Female Elf, Tough 2/Fast 3/Charismatic 3/Wildlord 6                                                                                                               |
 | CR                | 14                                                                                                                                                                |
-| Size/Type         | Medium humanoid (elf, Shadowkind)                                                                                                                                 |
+| Size              | Medium                                                                                                                                                            |
+| Type              | humanoid (elf, Shadowkind)                                                                                                                                        |
 | HD                | 2d10 plus 3d8 plus 3d6 plus 6d8                                                                                                                                   |
 | hp                | 66                                                                                                                                                                |
 | Mas               | 10                                                                                                                                                                |
@@ -175,7 +176,8 @@ fanatically loyal to his master and will defend her to the death.
 | Stat              | Value                                                         |
 | ----------------- | ------------------------------------------------------------- |
 | CR                | 6                                                             |
-| Size/Type         | Medium animal                                                 |
+| Size              | Medium                                                        |
+| Type              | animal                                                        |
 | HD                | 7d8+14                                                        |
 | hp                | 55                                                            |
 | Mas               | 15                                                            |

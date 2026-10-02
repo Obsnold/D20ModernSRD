@@ -74,7 +74,7 @@ Hide 4 ranks, Move Silently 4 ranks, Sleight of Hand 4 ranks), skill net
 
 **Feat Software:** Personal Firearms Proficiency progit.
 
-**Ability Upgrade:** Charisma upgrade (+2).
+**Ability Upgrades:** Charisma upgrade (+2).
 
 **Accessories:** Integrated cell phone, self-destruct system,
 self-repair unit, vocalizer.

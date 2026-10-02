@@ -90,7 +90,8 @@ resist.
 | Stat              | Value                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 2                                                                                                                                           |
-| Size/Type         | Medium undead                                                                                                                               |
+| Size              | Medium                                                                                                                                      |
+| Type              | undead                                                                                                                                      |
 | HD                | 1d12                                                                                                                                        |
 | hp                | 6                                                                                                                                           |
 | Mas               | —                                                                                                                                           |
@@ -124,7 +125,7 @@ resist.
 +5, Listen +12, Read/Write Language (any one), Search +12, Sense Motive
 +4, Speak Language (any one), Spot +12.
 
-**Feat:** Improved Initiative.
+**Feats:** Improved Initiative.
 
 **Advancement:** 2–3 HD (Medium); 4–7 HD (Large).
 
@@ -143,7 +144,8 @@ by the same spirit’s horrific appearance for one day.
 | Stat              | Value                                                                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                                                                                   |
-| Size/Type         | Medium undead                                                                                                                                       |
+| Size              | Medium                                                                                                                                              |
+| Type              | undead                                                                                                                                              |
 | HD                | 2d12                                                                                                                                                |
 | hp                | 13                                                                                                                                                  |
 | Mas               | —                                                                                                                                                   |
@@ -176,7 +178,7 @@ by the same spirit’s horrific appearance for one day.
 **Skills:** Bluff +4, Diplomacy +4, Hide +14, Intimidate
 +5, Listen +14, Search +14, Sense Motive +6, Spot +14.
 
-**Feat:** Improved Initiative.
+**Feats:** Improved Initiative.
 
 **Advancement:** 3–5 HD (Medium); 6–9 HD (Large).
 
@@ -196,7 +198,8 @@ affected by the same spirit’s moan for one day.
 | Stat              | Value                                                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                                                              |
-| Size/Type         | Medium undead                                                                                                                                  |
+| Size              | Medium                                                                                                                                         |
+| Type              | undead                                                                                                                                         |
 | HD                | 3d12                                                                                                                                           |
 | hp                | 19                                                                                                                                             |
 | Mas               | —                                                                                                                                              |
@@ -229,7 +232,7 @@ affected by the same spirit’s moan for one day.
 **Skills:** Bluff +6, Diplomacy +6, Hide +14, Intimidate
 +7, Listen +15, Search +14, Sense Motive +6, Spot +15.
 
-**Feat:** Improved Initiative.
+**Feats:** Improved Initiative.
 
 **Advancement:** 4–7 HD (Medium); 8–12 HD (Large).
 
@@ -273,7 +276,8 @@ its body (whether or not the massive damage Fortitude save succeeds).
 | Stat              | Value                                                                                                                                      |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | CR                | 5                                                                                                                                          |
-| Size/Type         | Medium undead                                                                                                                              |
+| Size              | Medium                                                                                                                                     |
+| Type              | undead                                                                                                                                     |
 | HD                | 5d12                                                                                                                                       |
 | hp                | 32                                                                                                                                         |
 | Mas               | —                                                                                                                                          |
@@ -305,7 +309,7 @@ its body (whether or not the massive damage Fortitude save succeeds).
 **Skills:** Bluff +8, Diplomacy +8, Hide +17, Intimidate
 +9, Listen +17, Search +17, Sense Motive +8, Spot +17.
 
-**Feat:** Combat Reflexes, Improved Initiative.
+**Feats:** Combat Reflexes, Improved Initiative.
 
 **Advancement:** 6–9 HD (Medium); 10–15 HD
 (Large).
@@ -325,7 +329,8 @@ free-willed weakening spirit 24 hours later.
 | Stat              | Value                                                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                                                                              |
-| Size/Type         | Medium undead                                                                                                                                  |
+| Size              | Medium                                                                                                                                         |
+| Type              | undead                                                                                                                                         |
 | HD                | 4d12                                                                                                                                           |
 | hp                | 26                                                                                                                                             |
 | Mas               | —                                                                                                                                              |
@@ -358,6 +363,6 @@ free-willed weakening spirit 24 hours later.
 **Skills:** Bluff +7, Diplomacy +7, Hide +16, Intimidate
 +7, Listen +16, Search +16, Sense Motive +8, Spot +16.
 
-**Feat:** Improved Initiative .
+**Feats:** Improved Initiative .
 
 **Advancement:** 5–8 HD (Medium); 9–14 HD (Large).

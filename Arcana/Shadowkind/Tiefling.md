@@ -17,7 +17,7 @@ tieflings can function with no light at all.
 **Energy Resistance**: Tieflings have cold, electricity, and fire
 resistance 5.
 
-**Spell-Like Abilities**: A tiefling can use the *darkness* spell once
+**Spell-like Abilities**: A tiefling can use the *darkness* spell once
 per day, as cast by an Acolyte of the tiefling’s character level.
 
 **Allegiance:** Tieflings must begin play with an allegiance to evil.

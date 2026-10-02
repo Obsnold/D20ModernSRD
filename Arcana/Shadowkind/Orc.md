@@ -16,7 +16,7 @@ can function with no light at all.
 bright sunlight or within the radius of effects or spells that duplicate
 bright sunlight (such as *daylight*).
 
-**Bonus Feats:** Orcs receive the bonus feats Archaic Weapons
+**Bonus Feat:** Orcs receive the bonus feats Archaic Weapons
 Proficiency, Armor Proficiency (light), and Armor Proficiency (medium).
 They may treat orc double axes as archaic weapons instead of exotic
 weapons.

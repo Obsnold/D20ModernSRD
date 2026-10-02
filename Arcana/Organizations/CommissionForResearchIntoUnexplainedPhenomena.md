@@ -85,7 +85,8 @@ numerous Shadow species and take them back to the laboratory for study.
 | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Class             | Smart 4/Field Scientist 7                                                                                         |
 | CR                | 11                                                                                                                |
-| Size/Type         | Medium humanoid                                                                                                   |
+| Size              | Medium                                                                                                            |
+| Type              | humanoid                                                                                                          |
 | HD                | 4d6 plus 7d8                                                                                                      |
 | hp                | 52                                                                                                                |
 | Mas               | 10                                                                                                                |

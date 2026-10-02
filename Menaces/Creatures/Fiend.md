@@ -71,7 +71,7 @@ Baal’s fear aura for 24 hours.
 **Resistances (Ex):** Baal has cold resistance 20 and electricity
 resistance 20.
 
-**Spell-Like Abilities:** At will—*augury*, *bane*, *bestow curse*,
+**Spell-like Abilities:** At will—*augury*, *bane*, *bestow curse*,
 *command*, *comprehend languages*, *confusion*, *detect magical aura*,
 *discern lies*, *dispel magic*, *enhance ability*, *faith’s fury*,
 *fireball*, *flaming projectiles*, *flaming wrath*, *greater command*,
@@ -365,7 +365,7 @@ ability), Hide +6, Intimidate +9, Listen +6, Move Silently +6,
 Read/Write Abyssal, Read/Write Languages (any three), Sense Motive +6,
 Speak Abyssal, Speak Languages (any three), Spot +6.
 
-**Feat:** Heroic Surge (1/day).
+**Feats:** Heroic Surge (1/day).
 
 **Advancement:** By character class.
 

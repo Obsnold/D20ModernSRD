@@ -17,7 +17,7 @@ information.
 black and white only, but it is otherwise like normal sight, and goblins
 can function with no light at all.
 
-**Skill Bonus:** Goblins gain a +4 species bonus on Move Silently
+**Skill Bonuses:** Goblins gain a +4 species bonus on Move Silently
 checks.
 
 **Bonus Feat:** Goblins are keenly aware of their surroundings and gain
@@ -25,4 +25,4 @@ the bonus feat Alertness.
 
 **Free Language Skills:** Read/Write Goblin, Speak Goblin.
 
-**Additional Languages:** Common (or local language), Giant.
+**Other Languages:** Common (or local language), Giant.

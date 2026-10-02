@@ -174,7 +174,7 @@ hero recovers 2 hit points per character level per evening of rest, 2
 points of temporary ability damage per evening of rest, and awakens in
 half the normal time after being knocked unconscious.
 
-**Prerequisite:** Robust.
+**Prerequisites:** Robust.
 
 ### Bonus Feats
 

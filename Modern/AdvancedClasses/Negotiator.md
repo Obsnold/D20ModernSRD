@@ -7,7 +7,7 @@ following criteria.
 
 **Skills:** Bluff 6 ranks, Diplomacy 6 ranks.
 
-**Feat:** Alertness.
+**Feats:** Alertness.
 
 ## Class Information
 

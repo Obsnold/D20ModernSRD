@@ -36,7 +36,8 @@ Weapon Finesse (claw).
 | Stat              | Value                                                |
 | ----------------- | ---------------------------------------------------- |
 | CR                | 2                                                    |
-| Size/Type         | Medium animal                                        |
+| Size              | Medium                                               |
+| Type              | animal                                               |
 | HD                | 3d8+6                                                |
 | hp                | 19                                                   |
 | Mas               | 15                                                   |
