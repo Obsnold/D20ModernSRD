@@ -1,7 +1,5 @@
 # Halfling
 
-## Species Traits
-
 **Size:** Small. Halflings gain a +1 size bonus to Defense, a +1 size
 bonus on attack rolls, and a +4 size bonus on Hide checks. They suffer a
 –4 size penalty on grapple checks. Halflings must use smaller weapons

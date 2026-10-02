@@ -13,7 +13,7 @@
 
 - [Basic Character Classes](BasicClasses/BasicClasses.md)
 - [Advanced Classes](AdvancedClasses/AdvancedClasses.md)
-- [Starting Occupation](Occupation/occupation.md)
+- [Starting Occupation](Occupations/occupations.md)
 - [Skills](Skills/skills.md)
 - [Feats](Feats/feats.md)
 

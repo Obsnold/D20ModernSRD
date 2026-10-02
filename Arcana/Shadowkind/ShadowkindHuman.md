@@ -14,11 +14,29 @@ all saving throws.
 Unlike normal humans, this extra feat must be chosen from the following
 list:
 
-Acrobatic, Alertness, Archaic Weapons Proficiency, Athletic, Attentive,
-Builder, Cautious, Confident, Creative, Deceptive, Divine Heritage,
-Educated, Exotic Weapon Proficiency (any one), Focused, Gearhead, Guide,
-Magical Heritage, Medical Expert, Meticulous, Nimble, Stealthy,
-Studious, Trustworthy.
+- Acrobatic
+- Alertness
+- Archaic Weapons Proficiency
+- Athletic
+- Attentive
+- Builder
+- Cautious
+- Confident
+- Creative
+- Deceptive
+- Divine Heritage
+- Educated
+- Exotic Weapon Proficiency (any one)
+- Focused
+- Gearhead
+- Guide
+- Magical Heritage
+- Medical Expert
+- Meticulous
+- Nimble
+- Stealthy
+- Studious
+- Trustworthy
 
 **Free Language Skills:** Read/Write Common (or local language), Speak
 Common (or local language).

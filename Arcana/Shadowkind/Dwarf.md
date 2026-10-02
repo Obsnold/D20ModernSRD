@@ -25,7 +25,7 @@ ground).
 black and white only, but it is otherwise like normal sight, and dwarves
 can function with no light at all.
 
-**Saving Throw Bonuses**: Dwarves are highly resistant to toxins and
+**Saving Throw Bonuses:** Dwarves are highly resistant to toxins and
 innately resistant to magic. They gain a +2 species bonus on saving
 throws against poisons, spells, and spell-like abilities.
 
