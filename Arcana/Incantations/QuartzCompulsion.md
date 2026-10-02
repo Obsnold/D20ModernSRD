@@ -28,11 +28,11 @@ impossible or meaningless according to the circumstances that exist for
 the subject at the time the *quartz compulsion* comes, the message is
 understood but the *suggestion* is ineffective.
 
-*Focus*: A carefully cut shard of quartz (purchase DC 22).
+**Focus:** A carefully cut shard of quartz (purchase DC 22).
 
-*Backlash:* Caster is exhausted.
+**Backlash:** Caster is exhausted.
 
-*Failure:* Reversal. You converse with the subject normally, but the
+**Failure:** Reversal. You converse with the subject normally, but the
 *suggestion* attempt automatically fails, and the subject can instead
 compel you (as per the *suggestion* psionic power). You don’t get a
 saving throw, and spell resistance does not apply. Depending on the

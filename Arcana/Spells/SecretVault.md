@@ -29,7 +29,7 @@ above) vanishes into an extradimensional space. You need the miniature
 replica to recall the container. After 60 days, the container reappears
 in your hand whether you wish it to or not.
 
-*Focus:* A briefcase, duffle bag, or similar container prepared with
+**Focus:** A briefcase, duffle bag, or similar container prepared with
 expensive and rare reagents, as well as a minuscule replica of it. The
 actual storage container and the miniature replica have a combined
 purchase DC of 25.

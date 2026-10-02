@@ -24,4 +24,4 @@ Unlike the *spider climb* spell, *wall walk* doesn’t require the subject
 to use his hands to climb, so the subject can hold items and wield
 weapons normally.
 
-*Material Component:* A black strip of Velcro.
+**Material Component:** A black strip of Velcro.

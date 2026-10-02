@@ -26,19 +26,19 @@ target fails its save, the target disappears. In general, targets never
 find their way back from beyond Shadow—or if they do, they don’t
 remember their previous time here.
 
-*Options:* If the target or targets are all helpless, the DC for the
+**Options:** If the target or targets are all helpless, the DC for the
 incantation is reduced by –6. At the GM’s option, certain rare items
 might work twice as well (each providing +2 against spell resistance and
 +4 on the spell’s DC).
 
-*Material Component:* An object the creature hates, fears, or opposes.
+**Material Component:** An object the creature hates, fears, or opposes.
 Discovering such an item may require a Research check.
 
-*Experience Point Cost:* 1,000 XP.
+**Experience Point Cost:** 1,000 XP.
 
-*Backlash:* Caster is exhausted.
+**Backlash:** Caster is exhausted.
 
-*Failure:* Attack from an outsider of the same allegiance. The attacking
+**Failure:** Attack from an outsider of the same allegiance. The attacking
 outsider has a Challenge Rating equal to the average party level +1. It
 attacks the caster within a few rounds of the incantation’s failure. It
 has been brought to this world by the failed incantation, so it may

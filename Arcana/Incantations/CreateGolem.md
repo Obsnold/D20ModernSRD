@@ -19,17 +19,17 @@ of body parts knitted into a single bipedal form. *Create golem* brings
 a flesh golem to life under your command. The golem can follow simple
 instructions. It does not speak.
 
-*Options:* If you want to create a gear golem rather than a flesh golem,
+**Options:** If you want to create a gear golem rather than a flesh golem,
 increase the DC of the Knowledge (arcane lore) check by +8 and increase
 the experience point cost to 700 XP. If you want to create an advanced
 golem, increase the DC of the Knowledge (arcane lore) check by +2 for
 each additional Hit Die.
 
-*Material Component*: The body of the golem must be made to exacting
+**Material Component:** The body of the golem must be made to exacting
 eldritch specifications, with rare ingredients and unusual components
 (purchase DC 25).
 
-*Experience Point Cost:* 400 XP.
+**Experience Point Cost:** 400 XP.
 
-*Failure:* Attack. The golem immediately goes berserk, attacking
+**Failure:** Attack. The golem immediately goes berserk, attacking
 everyone and everything.

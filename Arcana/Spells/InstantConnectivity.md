@@ -27,4 +27,4 @@ online. *Instant connectivity* causes the targets to appear in the room
 from which that IM address is being accessed, automatically gaining
 surprise on anyone else in that room.
 
-*Focus:* A computer hard drive (purchase DC 23 or higher).
+**Focus:** A computer hard drive (purchase DC 23 or higher).

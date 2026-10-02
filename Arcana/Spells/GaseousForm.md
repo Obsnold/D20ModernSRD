@@ -29,4 +29,4 @@ even mere cracks, with all she was wearing or holding in her hands, as
 long as the spell persists. She is subject to wind. She can’t enter
 water or other liquid.
 
-*Material Component*: A bit of gauze or pinch of ash.
+**Material Component:** A bit of gauze or pinch of ash.

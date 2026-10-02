@@ -30,4 +30,4 @@ start an *via negativa* spell, your melee touch attack automatically
 succeeds and you don’t provoke an attack of opportunity to start the
 grapple.
 
-*Arcane Focus:* A ring with a black pearl (purchase DC 22).
+**Arcane Focus:** A ring with a black pearl (purchase DC 22).

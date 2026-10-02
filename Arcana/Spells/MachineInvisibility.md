@@ -50,4 +50,4 @@ invisibility.* Automatic sliding doors at the supermarket won’t open for
 the subject of *machine invisibility.* Talking on the telephone or radio
 is impossible.
 
-*Focus:* A glass lens, which the caster fogs by breathing on it.
+**Focus:** A glass lens, which the caster fogs by breathing on it.

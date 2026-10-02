@@ -91,9 +91,9 @@ Note: Magic traps such as *sigil of Algos* are hard to detect and
 disable. Characters can use the Search skill to find a *sigil of Algos*
 and the Disable Device skill to thwart it. The DC in each case is 31.
 
-*Material Component:* Rare alchemical paints and herbs (purchase DC 20).
+**Material Component:** Rare alchemical paints and herbs (purchase DC 20).
 
-*Experience Point Cost:* 500 XP.
+**Experience Point Cost:** 500 XP.
 
-*Failure:* Reversal. The sigil affects anyone, including the caster and
+**Failure:** Reversal. The sigil affects anyone, including the caster and
 any bystanders, who looks at it or reads it.

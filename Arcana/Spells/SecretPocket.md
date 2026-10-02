@@ -31,4 +31,4 @@ into the extradimensional space instead.
 You can give the garment to someone else to wear if you like, but only
 you can access the extradimensional space through the pocket.
 
-*Arcane Material Component:* A black handkerchief.
+**Arcane Material Component:** A black handkerchief.

@@ -26,5 +26,5 @@ with *augury*, multiple divinations about the same topic by the same
 caster use the same dice result as the first divination and yield the
 same answer each time.
 
-*Material Components:* Incense and a sacrificial offering appropriate to
+**Material Components:** Incense and a sacrificial offering appropriate to
 the caster’s religion (purchase DC 13).

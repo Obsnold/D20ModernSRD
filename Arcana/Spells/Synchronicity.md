@@ -38,4 +38,4 @@ engaged in vehicular hide-and-seek, the *synchronicity* spell provides a
 Sense Motive and Spot checks (if you’re pursuing another vehicle)
 because other cars and pedestrians naturally aid your efforts.
 
-*Arcane Focus:* A gold-level credit card or garage door remote control.
+**Arcane Focus:** A gold-level credit card or garage door remote control.

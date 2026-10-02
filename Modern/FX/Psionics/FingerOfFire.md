@@ -4,7 +4,7 @@
 | ------------------ | ------------------------------- |
 | Key Ability        | Intelligence                    |
 | Descriptors        | Fire                            |
-| Level              | Telepath 0/ Battle Mind 0       |
+| Level              | Telepath 0, Battle Mind 0       |
 | Display            | Visual                          |
 | Manifestation Time | Attack action                   |
 | Range              | Close (25 ft. + 5 ft./2 levels) |

@@ -19,4 +19,4 @@ nonmagical. If the object bearing *undetectable magical aura* has
 false and detects the object’s actual qualities if he succeeds at a Will
 save.
 
-*Focus:* A small square of silk that must be passed over the object.
+**Focus:** A small square of silk that must be passed over the object.

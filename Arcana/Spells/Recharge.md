@@ -26,4 +26,4 @@ In addition, the *recharge* spell instantly cures blindness or deafness
 caused by a spell or spell-like ability, and it grants a +4 bonus on
 Fortitude saves against poison for 1 minute.
 
-*Focus:* An active electrical outlet.
+**Focus:** An active electrical outlet.

@@ -36,4 +36,4 @@ space collapses. Any creatures or objects within the extradimensional
 space are ejected before the space implodes. Ejected creatures fall
 prone in squares adjacent to the vehicle.
 
-*Focus:* A klaxon, which must be honked when the spell is cast.
+**Focus:** A klaxon, which must be honked when the spell is cast.

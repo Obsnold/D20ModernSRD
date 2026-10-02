@@ -32,4 +32,4 @@ Targeted against a crystalline creature (of any weight), *shatter* deals
 1d6 points of sonic/concussion damage per caster level (maximum 10d6),
 with a Fortitude save for half damage.
 
-*Focus:* A tuning fork.
+**Focus:** A tuning fork.

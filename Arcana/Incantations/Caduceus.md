@@ -4,7 +4,7 @@
 | ---------------- | ----------------------------------------------------------------------------- |
 | School           | Conjuration                                                                   |
 | Subschool        | Healing                                                                       |
-| Skill Check      | Knowledge (arcane lore) DC 31, 4 successes, and Treat Injury DC 31, 2 success |
+| Skill Check      | Knowledge (arcane lore) DC 31, 4 successes, and Treat Injury DC 31, 2 successes |
 | Failure          | Two consecutive failed skill checks                                           |
 | Components       | V, S, F                                                                       |
 | Casting Time     | 6 hours (minimum)                                                             |
@@ -28,9 +28,9 @@ permanently drained levels.
 
 The *caduceus* incantation has no effect on undead or constructs.
 
-*Focus:* Medical equipment found in a hospital emergency room (purchase
+**Focus:** Medical equipment found in a hospital emergency room (purchase
 DC 25).
 
-*Failure:* Death. Target must succeed at a Fortitude save (DC 15) or
+**Failure:** Death. Target must succeed at a Fortitude save (DC 15) or
 die. If the save succeeds, the target is reduced to –1 hit points,
 unless he was already below that.

@@ -20,4 +20,4 @@ machine-readable data or electronic coding. You cannot use this spell to
 make an electronic passkey. The illusion lasts only as long as you touch
 the card, to a maximum of 5 rounds.
 
-*Focus:* A small card or slip of paper.
+**Focus:** A small card or slip of paper.

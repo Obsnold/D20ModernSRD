@@ -45,11 +45,11 @@ operate through the sensor: *darkvision, read magic, tongues*, and *true
 seeing. Detect magical aura* has a 5% chance per caster level of
 operating correctly through the sensor.
 
-*Arcane Material Components:* Some droplets of nitric acid in an
+**Arcane Material Components:** Some droplets of nitric acid in an
 eyedropper.
 
-*Arcane Focus:* A mirror of finely wrought silver (at least 2 feet by 4
+**Arcane Focus:** A mirror of finely wrought silver (at least 2 feet by 4
 feet) or an orb of polished crystal (at least 5 inches in diameter).
 Either item has a purchase DC of 19.
 
-*Divine Focus:* A font filled with holy water (purchase DC 8).
+**Divine Focus:** A font filled with holy water (purchase DC 8).

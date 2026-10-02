@@ -41,7 +41,7 @@ to be capable of preparing and casting it in general.)
 
 - [Virtue](Spells/Virtue.md): Subject gains 1 temporary hp.
 
-### 1st-level Acolyte Spells
+### 1st-Level Acolyte Spells
 
 - [Bane](Spells/Bane.md): Enemies suffer –1 attack, –1 on saves against fear.
 
@@ -93,7 +93,7 @@ to be capable of preparing and casting it in general.)
 
 - [Zone of Truth](Spells/ZoneOfTruth.md): Subjects within range cannot lie.
 
-### 3rd-level Acolyte Spells
+### 3rd-Level Acolyte Spells
 
 - [Animate Dead](Spells/AnimateDead.md): Creates undead skeletons and zombies.
 
@@ -121,7 +121,7 @@ to be capable of preparing and casting it in general.)
 
 - [Water Breathing](Spells/WaterBreathing.md): Subjects can breathe underwater.
 
-### 4th-level Acolyte Spells
+### 4th-Level Acolyte Spells
 
 - [Cure Critical Wounds](Spells/CureCriticalWounds.md): Cures 4d8 +1/level damage (max +10).
 
@@ -141,7 +141,7 @@ to be capable of preparing and casting it in general.)
 
 - [Tongues](Spells/Tongues.md): Speak any language.
 
-### 5th-level Acolyte Spells
+### 5th-Level Acolyte Spells
 
 - [Break Enchantment](Spells/BreakEnchantment.md): Frees subjects from enchantments, alterations, curses, and petrification.
 

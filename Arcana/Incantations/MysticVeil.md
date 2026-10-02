@@ -31,15 +31,15 @@ reappear at another. Even entering the area does not cancel the illusion
 or necessarily allow a save, assuming that hidden beings take care to
 stay out of the way of those affected by the illusion.
 
-*Options:* You can create the material component for the *mystic veil*
+**Options:** You can create the material component for the *mystic veil*
 illusion yourself at no cost. If you do, the incantation also requires
 a successful Craft (visual arts) check (DC 34).
 
-*Material Component:* Realistic paintings, digitally-altered photos, or
+**Material Component:** Realistic paintings, digitally-altered photos, or
 other representations of the desired illusion (purchase DC 17).
 
-*Backlash:* Caster takes 2d6 points of damage.
+**Backlash:** Caster takes 2d6 points of damage.
 
-*Failure:* Delusion. The caster and anyone else present at the
+**Failure:** Delusion. The caster and anyone else present at the
 conclusion of the incantation believe the *mystic veil* is effective,
 but no one else is fooled.

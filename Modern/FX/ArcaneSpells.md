@@ -47,7 +47,7 @@ scroll.
 
 - [Resistance](Spells/Resistance.md): Subject gains +1 on saving throws.
 
-### 1st-level Mage Spells
+### 1st-Level Mage Spells
 
 - [Burning Hands](Spells/BurningHands.md): 1d4 fire damage/level (max 5d4).
 
@@ -111,7 +111,7 @@ scroll.
 
 - [Web](Spells/Web.md): Fills 20-ft.-radius spread with sticky spider webs.
 
-### 3rd-level Mage Spells
+### 3rd-Level Mage Spells
 
 - [Dispel Magic](Spells/DispelMagic.md): Cancels magical spells and effects.
 
@@ -141,7 +141,7 @@ scroll.
 
 - [Water Breathing](Spells/WaterBreathing.md): Subjects can breathe underwater.
 
-### 4th-level Mage Spells
+### 4th-Level Mage Spells
 
 - [Animate Dead](Spells/AnimateDead.md): Creates undead skeletons and zombies.
 
@@ -171,7 +171,7 @@ scroll.
 
 - [Wall of Ice](Spells/WallOfIce.md): Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside.
 
-### 5th-level Mage Spells
+### 5th-Level Mage Spells
 
 - [Cloudkill](Spells/Cloudkill.md): Kills 3 HD or less; 4–6 HD save or die.
 

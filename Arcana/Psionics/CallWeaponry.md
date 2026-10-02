@@ -4,7 +4,7 @@
 | ------------------ | ------------------------------ |
 | Key Ability        | Dexterity                      |
 | Descriptors        | Teleportation                  |
-| Level              | Telepath 1/Psionic Agent 1     |
+| Level              | Telepath 1, Psionic Agent 1    |
 | Display            | Audible, Material              |
 | Manifestation Time | Attack action                  |
 | Range              | Touch                          |

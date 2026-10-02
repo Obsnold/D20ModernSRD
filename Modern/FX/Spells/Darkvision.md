@@ -10,7 +10,6 @@
 | Target           | Creature touched        |
 | Duration         | 1 hour/level            |
 | Saving Throw     | Will negates (harmless) |
-| Saving Throw     | None                    |
 | Spell Resistance | Yes (harmless)          |
 
 The subject gains the ability to see 60 feet even in total darkness.

@@ -25,4 +25,4 @@ beat the scrier’s result, you get a visual image of the scrier and a
 sense of the scrier’s direction and distance from you (accurate to
 within one-tenth the distance).
 
-*Material Components:* A small shard of mirror and a miniature trumpet.
+**Material Components:** A small shard of mirror and a miniature trumpet.

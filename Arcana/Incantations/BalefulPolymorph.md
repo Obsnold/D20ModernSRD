@@ -29,16 +29,16 @@ Note that incorporeal or gaseous creatures are immune to being
 polymorphed, and a shapeshifter (such as a werewolf) can revert to its
 natural form as a move action.
 
-*Material Component:* Laboratory equipment and alchemical supplies
+**Material Component:** Laboratory equipment and alchemical supplies
 (purchase DC 25).
 
-*Focus:* Part of the kind of creature that the target will turn into,
+**Focus:** Part of the kind of creature that the target will turn into,
 such as a hair, scale, or feather. If you have a living, helpless
 creature that can serve as a model for the target creature, you gain a
 +2 bonus on the Knowledge (arcane lore) checks required for this
 incantation.
 
-*Secondary Casters:* 12 required (not including the primary caster).
+**Secondary Casters:** 12 required (not including the primary caster).
 
-*Failure:* Reversal on all secondary casters, using the same saving
+**Failure:** Reversal on all secondary casters, using the same saving
 throw DC.

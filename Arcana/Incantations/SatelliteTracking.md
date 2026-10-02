@@ -28,9 +28,9 @@ To find a creature with the spell, you must have seen the creature or
 have some item that once belonged to it. To find an object, you must
 have touched the object at least once.
 
-*Focus:* A satellite dish, computer, and telemetry software (purchase DC
+**Focus:** A satellite dish, computer, and telemetry software (purchase DC
 25).
 
-*Failure:* Falsehood. The caster obtains bogus GPS data. At the GM’s
+**Failure:** Falsehood. The caster obtains bogus GPS data. At the GM’s
 discretion, the bogus data may lead the caster to a creature or object
 thematically similar to the intended target.

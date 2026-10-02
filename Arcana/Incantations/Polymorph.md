@@ -78,13 +78,13 @@ reversion are still held in the same way. Any part of the body or piece
 of equipment that is separated from the whole reverts to its original
 form.
 
-*Options:* If you have a living, helpless creature that can serve as a
+**Options:** If you have a living, helpless creature that can serve as a
 model for the target creature, the DC on the Knowledge (arcane lore)
 checks for this incantation is reduced by –2.
 
-*Material Component:* Part of the kind of creature that the target will
+**Material Component:** Part of the kind of creature that the target will
 turn into, such as a hair, scale, or feather.
 
-*Focus:* Laboratory equipment (purchase DC 25).
+**Focus:** Laboratory equipment (purchase DC 25).
 
-*Failure:* Damage. The target takes 12d6 points of damage.
+**Failure:** Damage. The target takes 12d6 points of damage.

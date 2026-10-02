@@ -33,4 +33,4 @@ provide a hearty meal for all passengers. It has all the powers of a
 Additionally, it is airtight and can even travel underwater at a speed
 of 10 feet per caster level.
 
-*Focus:* A pair of car keys on a silver keychain.
+**Focus:** A pair of car keys on a silver keychain.

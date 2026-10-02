@@ -3,7 +3,7 @@
 | Stat               | Value                                                         |
 | ------------------ | ------------------------------------------------------------- |
 | Key Ability        | Wisdom                                                        |
-| Level              | Telepath 0/Battle Mind 0                                      |
+| Level              | Telepath 0, Battle Mind 0                                     |
 | Display            | Visual, Audible                                               |
 | Manifestation Time | Attack action                                                 |
 | Range              | 60 ft.                                                        |

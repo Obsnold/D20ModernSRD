@@ -18,5 +18,5 @@ is poisonous. You can determine the exact type of poison with a
 successful Wisdom check (DC 20). A character with the Craft (chemical)
 skill may additionally try an Craft (chemical) check, DC 20.
 
-*Note:* The power can penetrate barriers, but 1 foot of stone, 1 inch of
+**Note:** The power can penetrate barriers, but 1 foot of stone, 1 inch of
 common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.

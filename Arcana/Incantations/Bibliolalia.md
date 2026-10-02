@@ -27,10 +27,10 @@ No set of rules can adequately describe how much information the
 *bibliolalia* incantation provides. If you have the item or person at
 hand, you’ll learn more than if you just have a name or a cryptic clue.
 
-*Focus:* A large library with at least a token occult section (purchase
+**Focus:** A large library with at least a token occult section (purchase
 DC 25).
 
-*Experience Point Cost:* 200 XP.
+**Experience Point Cost:** 200 XP.
 
-*Failure:* Falsehood. The *bibliolalia* incantation reveals information
+**Failure:** Falsehood. The *bibliolalia* incantation reveals information
 that seems accurate, but is actively misleading.

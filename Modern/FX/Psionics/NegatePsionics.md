@@ -3,7 +3,7 @@
 | Stat               | Value                                                                    |
 | ------------------ | ------------------------------------------------------------------------ |
 | Key Ability        | Constitution                                                             |
-| Level              | Telepath 3/Battle Mind 3                                                 |
+| Level              | Telepath 3, Battle Mind 3                                                |
 | Display            | Visual                                                                   |
 | Manifestation Time | Attack action                                                            |
 | Range              | Medium (100 ft. + 10 ft./level)                                          |

@@ -4,7 +4,7 @@
 | ---------------- | --------------------------------------------------------------------------------------- |
 | School           | Conjuration                                                                             |
 | Subschool        | Creation                                                                                |
-| Skill Check      | Knowledge (arcane lore) DC 39, 6 successes (and see text) and Disguise DC 39, 1 success |
+| Skill Check      | Knowledge (arcane lore) DC 39, 6 successes (and see text), and Disguise DC 39, 1 success |
 | Failure          | Two consecutive failed skill checks                                                     |
 | Components       | V, S, M (see text), XP                                                                  |
 | Casting Time     | 7 hours (minimum)                                                                       |
@@ -38,15 +38,15 @@ nor natural healing. A complex process requiring at least one day,
 materials (purchase DC 5 + 1 per hit point), and a fully equipped
 magical laboratory can repair damage to the *body double*.
 
-*Material Component:* The spell is cast over an elaborate clay
+**Material Component:** The spell is cast over an elaborate clay
 simulacrum of the creature to be duplicated, and some piece of the
 creature (a hair or fingernail, for instance) must be placed within the
 clay. Additionally, the incantation requires rare earths and unguents
 (purchase DC 30).
 
-*XP Cost:* 1,000 XP.
+**Experience Point Cost:** 1,000 XP.
 
-*Failure:* Betrayal. The *body double* has allegiances opposite the
+**Failure:** Betrayal. The *body double* has allegiances opposite the
 original creature and a pathological hatred of both the original
 creature and the caster. Furthermore, the *body double* isn’t under the
 command of the caster, although it may play along for a while while it

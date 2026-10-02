@@ -50,7 +50,7 @@ becomes undeliverable. The account that sent the original email will
 receive an email notification of this. If the target opens the email
 after 72 hours have elapsed, the body of the message will be blank.
 
-## 0-level Arcane Spells
+## 0-Level Arcane Spells
 
 - [**Arcane Graffiti.**](ArcaneGraffiti.md) Inscribes personal rune or short message on object or surface.
 
@@ -76,7 +76,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [***Resistance.***](../../Modern/FX/Spells/Resistance.md) Subject gains +1 on saving throws.
 
-## 1st-level Arcane Spells
+## 1st-Level Arcane Spells
 
 - [***Burning Hands.***](../../Modern/FX/Spells/BurningHands.md) 1d4 fire damage/ level (max 5d4).
 
@@ -126,7 +126,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [**Undetectable Magical Aura.**](UndetectableMagicalAura.md) Masks a magic item’s aura from detection.
 
-## 2nd-level Arcane Spells
+## 2nd-Level Arcane Spells
 
 - [***Arcane Lock.***](../../Modern/FX/Spells/ArcaneLock.md) Magically locks a portal or chest.
 
@@ -170,7 +170,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [***Web.***](../../Modern/FX/Spells/Web.md) Fills 20-foot-radius spread with sticky spider webs.
 
-## 3rd-level Arcane Spells
+## 3rd-Level Arcane Spells
 
 - [***Dispel Magic.***](../../Modern/FX/Spells/DispelMagic.md) Cancels magical spells and effects.
 
@@ -220,7 +220,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [***Water Breathing.***](../../Modern/FX/Spells/WaterBreathing.md) Subjects can breathe underwater.
 
-## 4th-level Arcane Spells
+## 4th-Level Arcane Spells
 
 - [***Animate Dead.***](../../Modern/FX/Spells/AnimateDead.md) Creates undead skeletons and zombies.
 
@@ -266,7 +266,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [**Wire Walk.**](WireWalk.md) Subjects teleport instantly to the location of a telephone you call.
 
-## 5th-level Arcane Spells
+## 5th-Level Arcane Spells
 
 - [***Cloudkill.***](../../Modern/FX/Spells/Cloudkill.md) Kills 3 HD or less; 4–6 HD save or die.
 

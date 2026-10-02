@@ -52,9 +52,9 @@ Note: Magic traps such as *sigil of Lyssa* are hard to detect and
 disable. Characters can use the Search skill to find a *sigil of Lyssa*
 and Disable Device to thwart it. The DC in each case is 33.
 
-*Material Component:* Rare alchemical paints and herbs (purchase DC 25).
+**Material Component:** Rare alchemical paints and herbs (purchase DC 25).
 
-*Experience Point Cost:* 700 XP.
+**Experience Point Cost:** 700 XP.
 
-*Failure:* Reversal. The sigil affects anyone, including the caster and
+**Failure:** Reversal. The sigil affects anyone, including the caster and
 any bystanders, who looks at it or reads it.

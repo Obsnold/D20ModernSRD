@@ -29,4 +29,4 @@ the spell disables the “off” switch. Cutting off the power supply (by
 unplugging it, for example) disables the device 1d4 rounds later, ending
 the spell.
 
-*Material Component:* A small magnet.
+**Material Component:** A small magnet.

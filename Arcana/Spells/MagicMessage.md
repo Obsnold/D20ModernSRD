@@ -43,4 +43,4 @@ feet away. Regardless of range, the *magic message* can respond only to
 visible or audible triggers and actions in line of sight or within
 hearing distance.
 
-*Material Component:* A carved jade figurine (purchase DC 8).
+**Material Component:** A carved jade figurine (purchase DC 8).

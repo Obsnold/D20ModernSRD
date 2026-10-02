@@ -24,4 +24,4 @@ currently in your possession, the DC is 15 + your caster level.
 If cast on a creature, *nondetection* wards the creature’s gear as well
 as the creature itself.
 
-*Material Component:* A pinch of diamond dust (purchase DC 10).
+**Material Component:** A pinch of diamond dust (purchase DC 10).

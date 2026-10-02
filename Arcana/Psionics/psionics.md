@@ -7,7 +7,7 @@ with psionic powers stored within them.
 
 ## Psionic Agent
 
-- [Psionic Agent](PsionicAgent.md)
+- [Psionic Agent](../AdvancedClasses/PsionicAgent.md)
 
 ## Power Lists
 

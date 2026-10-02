@@ -6,6 +6,7 @@
 - [Archaic Weaponsmaster](ArchaicWeaponsmaster.md)
 - [Glamourist](Glamourist.md)
 - [Mystic](Mystic.md)
+- [Psionic Agent](PsionicAgent.md)
 - [Shadow Hunter](ShadowHunter.md)
 - [Shadowjack](Shadowjack.md)
 - [Speed Demon](SpeedDemon.md)

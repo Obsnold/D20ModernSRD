@@ -18,12 +18,12 @@ is +15, not the caster level. Additionally, *greater dispel magic* has a
 chance to dispel any effect that *remove curse* can remove, even if
 *dispel magic* can’t dispel that effect.
 
-*Material Component:* Various rare incenses, herbs, and reagents
+**Material Component:** Various rare incenses, herbs, and reagents
 (purchase DC 20).
 
-*Backlash:* Caster takes 4d6 points of damage.
+**Backlash:** Caster takes 4d6 points of damage.
 
-*Failure:* Augment. One characteristic of the magical effect targeted
+**Failure:** Augment. One characteristic of the magical effect targeted
 (area, range, duration, etc.) doubles. The target spell might deal twice
 as much damage or a curse might bestow twice the penalty, for example.
 The GM determines which aspect of the target spell is so augmented.

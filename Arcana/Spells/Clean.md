@@ -27,4 +27,4 @@ natural healing rate for that day) and renders the creature scentless
 for 1 minute. This means that creatures with the scent extraordinary
 ability won’t be able to detect the subject by scent alone.
 
-*Material Component:* Bar of soap.
+**Material Component:** Bar of soap.

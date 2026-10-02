@@ -6,7 +6,7 @@ Spells printed in **bold** text can be found under [Arcana Spells](spells.md).
 
 Spells printed in ***bold italic*** text can be found in [Modern Spells](../../Modern/FX/Spells/spells.md).
 
-## 0-level Divine Spells
+## 0-Level Divine Spells
 
 - [***Create Water.***](../../Modern/FX/Spells/CreateWater.md) Creates 2 gallons/level of pure water.
 
@@ -28,7 +28,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [***Virtue.***](../../Modern/FX/Spells/Virtue.md) Subject gains 1 temporary hp.
 
-## 1st-level Divine Spells
+## 1st-Level Divine Spells
 
 - [***Bane.***](../../Modern/FX/Spells/Bane.md) Enemies suffer –1 attack, –1 on saves against fear.
 
@@ -66,7 +66,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [**Trace Purge.**](TracePurge.md) Removes physical traces of the subject’s presence or passage.
 
-## 2nd-level Divine Spells
+## 2nd-Level Divine Spells
 
 - [***Aid.***](../../Modern/FX/Spells/Aid.md) +1 attack, +1 on saves against fear, 1d8 temporary hit points.
 
@@ -108,7 +108,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [***Zone of Truth.***](../../Modern/FX/Spells/ZoneOfTruth.md) Subjects within range cannot lie.
 
-## 3rd-level Divine Spells
+## 3rd-Level Divine Spells
 
 - [***Animate Dead.***](../../Modern/FX/Spells/AnimateDead.md) Creates undead skeletons and zombies.
 
@@ -150,7 +150,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [***Water Breathing.***](../../Modern/FX/Spells/WaterBreathing.md) Subjects can breathe underwater.
 
-## 4th-level Divine Spells
+## 4th-Level Divine Spells
 
 - [**Crawling Carpet.**](CrawlingCarpet.md) Summons a 10-foot-radius carpet of monstrous centipedes, scarab beetles, or spiders.
 
@@ -184,7 +184,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [**Wall Walk.**](WallWalk.md) Subject can move on ceilings and walls at normal speed as well as hold and wield weapons.
 
-## 5th-level Divine Spells
+## 5th-Level Divine Spells
 
 - [***Break Enchantment.***](../../Modern/FX/Spells/BreakEnchantment.md) Frees subjects from enchantments, alterations, curses, and petrification.
 

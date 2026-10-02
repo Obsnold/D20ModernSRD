@@ -24,5 +24,5 @@ enhancement bonus on attacks or damage. Additionally, the *phantom
 bullets* disappear 1d4 rounds after being fired, making it impossible to
 gather ballistic evidence.
 
-*Material Component:* In addition to the bullets, the caster needs a
+**Material Component:** In addition to the bullets, the caster needs a
 small chunk of lithium.

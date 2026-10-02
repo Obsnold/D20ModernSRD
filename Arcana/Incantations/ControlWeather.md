@@ -41,9 +41,9 @@ wind, for example.
 *Control weather* can do away with atmospheric phenomena (naturally
 occurring or otherwise) as well as create them.
 
-*Secondary Casters:* 12 required (not including the primary caster).
+**Secondary Casters:** 12 required (not including the primary caster).
 
-*Failure:* Mirrorcast. The opposite weather effect manifests over the
+**Failure:** Mirrorcast. The opposite weather effect manifests over the
 course of 10 minutes (rain rather than a heat wave, for example, or a
 thaw rather than a blizzard). This weather persists for 4d12 hours and
 cannot be dismissed.

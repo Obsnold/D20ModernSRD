@@ -40,13 +40,13 @@ spell descriptions for details.)
 An area can receive only one *dedicate site* spell (and its associated
 spell effect) at a time.
 
-*Material Component:* Various symbols relevant to your allegiance
+**Material Component:** Various symbols relevant to your allegiance
 (purchase DC 25).
 
-*Secondary Casters:* 11 required (not including the primary caster).
+**Secondary Casters:** 11 required (not including the primary caster).
 
-*Backlash:* All casters are exhausted.
+**Backlash:** All casters are exhausted.
 
-*Failure:* Hostile spell. The primary caster is targeted with a *bestow
+**Failure:** Hostile spell. The primary caster is targeted with a *bestow
 curse* spell, but does not get a saving throw or spell resistance. The
 GM chooses the exact curse.

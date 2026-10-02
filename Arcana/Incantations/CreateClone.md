@@ -46,14 +46,14 @@ original soul is somehow unavailable, but the resulting creature is
 merely a soulless bit of inert flesh, which rots if not somehow
 preserved.
 
-*Material Component:* The piece of flesh and various laboratory supplies
+**Material Component:** The piece of flesh and various laboratory supplies
 (purchase DC 25).
 
-*Focus:* Genetics laboratory (purchase DC 30).
+**Focus:** Genetics laboratory (purchase DC 30).
 
-*Experience Point Cost:* 500 XP.
+**Experience Point Cost:** 500 XP.
 
-*Failure:* Betrayal, and possibly reversal as well. If the caster and
+**Failure:** Betrayal, and possibly reversal as well. If the caster and
 cloned creature were allies or neutral toward one another, then the
 cloned creature gains allegiances opposite the ones it once had. If the
 caster and cloned creature were enemies, then each one gains the
