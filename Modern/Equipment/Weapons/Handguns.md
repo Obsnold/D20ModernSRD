@@ -31,7 +31,7 @@ Ranged weapons that use box magazines come with one full magazine.
 | Weapon                              | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | ----------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
 | Beretta 92F (9mm autoloader)        | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 15 box   | Small  | 3 lb.  | 16          | Lic (+1)    |
-| Beretta 93R (9mm machine pistol)    | 2d6    | 20       | Ballistic   | 30 ft.          | S,A          | 20 box   | Medium | 3 lb.  | 18          | Res (+2)    |
+| Beretta 93R (9mm machine pistol)    | 2d6    | 20       | Ballistic   | 30 ft.          | S, A         | 20 box   | Medium | 3 lb.  | 18          | Res (+2)    |
 | Colt Double Eagle (10mm autoloader) | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 9 box    | Small  | 3 lb.  | 16          | Lic (+1)    |
 | Colt M1911 (.45 autoloader)         | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 7 box    | Small  | 3 lb.  | 15          | Lic (+1)    |
 | Colt Python (.357 revolver)¹        | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 6 cyl.   | Medium | 3 lb.  | 15          | Lic (+1)    |
