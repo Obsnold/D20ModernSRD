@@ -1,6 +1,6 @@
 # Boar (Wild Pig)
 
-A wild boar’s hide is covered with short, woolly, grayishblack hair.
+A wild boar’s hide is covered with short, woolly, grayish-black hair.
 Along the spine, hair mixes with stiffer bristles to form a sort of
 mane. The average adult boar stands 3 feet high at the shoulder and
 measures roughly 4 feet long. Its formidable tusks protrude from its

@@ -46,7 +46,7 @@ body to crush them. Crush attacks are effective only against opponents
 three or more sizes smaller than the dragon (though it can attempt
 normal overrun or grapple attacks against larger opponents).
 
-A crush attack affects as many cratures as can fit under the
+A crush attack affects as many creatures as can fit under the
 dragon’s body. Creatures in the affected area must succeed at a Reflex
 save (DC noted in Table: Dragon Age Categories) or be pinned and
 automatically take the listed damage during the next round unless the
@@ -673,39 +673,39 @@ invulnerability*.
 
 ## Ancient Dragon
 
-| Stat              | Value                                                                                                                                                                                                 |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CR                | 23                                                                                                                                                                                                    |
-| Size              | Gargantuan                                                                                                                                                                                            |
-| Type              | dragon                                                                                                                                                                                                |
-| HD                | 34d12+238                                                                                                                                                                                             |
-| hp                | 459                                                                                                                                                                                                   |
-| Mas               | 28                                                                                                                                                                                                    |
-| Init              | +0                                                                                                                                                                                                    |
-| Spd               | 40 ft., fly 200 ft. (clumsy)                                                                                                                                                                          |
-| Defense           | 39                                                                                                                                                                                                    |
-| Touch             | 6                                                                                                                                                                                                     |
-| Flat-Footed       | 39                                                                                                                                                                                                    |
-| Defense Breakdown | –4 size, +33 natural                                                                                                                                                                                  |
-| BAB               | +34                                                                                                                                                                                                   |
-| Grap              | +58                                                                                                                                                                                                   |
-| Atk               | +42 melee (4d6+18, bite)                                                                                                                                                                              |
-| Full Atk          | +42 melee (4d6+12, bite), +40 melee (2d8+6, 2 claws), +40 melee (2d6+6, 2 wings), +40 melee (2d8+18, tail slap)                                                                                       |
-| FS                | 20 ft. by 20 ft.                                                                                                                                                                                      |
-| Reach             | 15 ft.                                                                                                                                                                                                |
-| SQ                | breath weapon, fear aura 300 ft., crush 4d6+18, tail sweep 2d6+18, spells, spell-like abilities, immunities, SR 29, damage reduction 15/+2, blindsight 300 ft., lowlight vision, darkvision 1,000 ft. |
-| AL                | none                                                                                                                                                                                                  |
-| Fort              | +26                                                                                                                                                                                                   |
-| Ref               | +19                                                                                                                                                                                                   |
-| Will              | +27                                                                                                                                                                                                   |
-| AP                | 0                                                                                                                                                                                                     |
-| Rep               | +0                                                                                                                                                                                                    |
-| Str               | 35                                                                                                                                                                                                    |
-| Dex               | 10                                                                                                                                                                                                    |
-| Con               | 25                                                                                                                                                                                                    |
-| Int               | 26                                                                                                                                                                                                    |
-| Wis               | 27                                                                                                                                                                                                    |
-| Cha               | 26                                                                                                                                                                                                    |
+| Stat              | Value                                                                                                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CR                | 23                                                                                                                                                                                                     |
+| Size              | Gargantuan                                                                                                                                                                                             |
+| Type              | dragon                                                                                                                                                                                                 |
+| HD                | 34d12+238                                                                                                                                                                                              |
+| hp                | 459                                                                                                                                                                                                    |
+| Mas               | 28                                                                                                                                                                                                     |
+| Init              | +0                                                                                                                                                                                                     |
+| Spd               | 40 ft., fly 200 ft. (clumsy)                                                                                                                                                                           |
+| Defense           | 39                                                                                                                                                                                                     |
+| Touch             | 6                                                                                                                                                                                                      |
+| Flat-Footed       | 39                                                                                                                                                                                                     |
+| Defense Breakdown | –4 size, +33 natural                                                                                                                                                                                   |
+| BAB               | +34                                                                                                                                                                                                    |
+| Grap              | +58                                                                                                                                                                                                    |
+| Atk               | +42 melee (4d6+18, bite)                                                                                                                                                                               |
+| Full Atk          | +42 melee (4d6+12, bite), +40 melee (2d8+6, 2 claws), +40 melee (2d6+6, 2 wings), +40 melee (2d8+18, tail slap)                                                                                        |
+| FS                | 20 ft. by 20 ft.                                                                                                                                                                                       |
+| Reach             | 15 ft.                                                                                                                                                                                                 |
+| SQ                | breath weapon, fear aura 300 ft., crush 4d6+18, tail sweep 2d6+18, spells, spell-like abilities, immunities, SR 29, damage reduction 15/+2, blindsight 300 ft., low-light vision, darkvision 1,000 ft. |
+| AL                | none                                                                                                                                                                                                   |
+| Fort              | +26                                                                                                                                                                                                    |
+| Ref               | +19                                                                                                                                                                                                    |
+| Will              | +27                                                                                                                                                                                                    |
+| AP                | 0                                                                                                                                                                                                      |
+| Rep               | +0                                                                                                                                                                                                     |
+| Str               | 35                                                                                                                                                                                                     |
+| Dex               | 10                                                                                                                                                                                                     |
+| Con               | 25                                                                                                                                                                                                     |
+| Int               | 26                                                                                                                                                                                                     |
+| Wis               | 27                                                                                                                                                                                                     |
+| Cha               | 26                                                                                                                                                                                                     |
 
 **Skills:** Concentration +18, Bluff +24, Diplomacy +24,
 Hide –12, Jump +28, Knowledge (arcane lore) +24, Knowledge (current

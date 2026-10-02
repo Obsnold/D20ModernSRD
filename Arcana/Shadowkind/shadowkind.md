@@ -99,7 +99,7 @@ they arrive in as a function of passing through Shadow).
 #### Starting Occupation
 
 A character who begins play as a newly arrived Shadowkind must select
-from the following starting occupations: hedge wizard, noviate, and
+from the following starting occupations: hedge wizard, novitiate, and
 squire. In addition, regardless of the Wealth bonus provided by the
 starting occupation, see Starting Wealth Bonus, below.
 

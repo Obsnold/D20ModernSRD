@@ -57,7 +57,7 @@ checks when concealed against a white background, such as snow and ice.
 background), Listen +3, Move Silently +5, Spot +3, Survival +5, Swim
 +10.
 
-**Feats:** Archaic Weapon Proficiency, Multiattack, Simple Weapons
+**Feats:** Archaic Weapons Proficiency, Multiattack, Simple Weapons
 Proficiency.
 
 **Advancement:** By character class.

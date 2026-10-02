@@ -7,7 +7,7 @@ their size.
 Charisma.
 
 **Extra Starting Hit Dice:** A bugbear gains 3 Hit Dice (3d8 hit
-points). The bugbears’s Constitution modifier applies to each Hit Die
+points). The bugbear’s Constitution modifier applies to each Hit Die
 when determining hit points.
 
 **Base Speed:** 30 feet.

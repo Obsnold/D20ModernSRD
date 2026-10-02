@@ -40,36 +40,36 @@ itself. This process requires an available etoile corpse and three
 full-round actions. As soon as consumption is complete, the etoile
 regains all lost hit points and heals all ability damage.
 
-**Nannite Infection (Ex):** Through a process as yet unknown, an etoile
-naturally produces microscopic machines known as nannites within its
-body. Once per day as a free action, it can inject these nannites into a
-foe it has damaged with a pincer. The nannites function as a disease,
+**Nanite Infection (Ex):** Through a process as yet unknown, an etoile
+naturally produces microscopic machines known as nanites within its
+body. Once per day as a free action, it can inject these nanites into a
+foe it has damaged with a pincer. The nanites function as a disease,
 attacking the host creature’s DNA and transforming its structure and
 psychology over time.
 
-A creature injected with nannites must immediately make a Fortitude save
+A creature injected with nanites must immediately make a Fortitude save
 (DC 10 + 1/2 the etoile’s Hit Dice + its Intelligence modifier). On a
 successful save, the creature’s body fights off the infection,
-destroying the nannites in the process.
+destroying the nanites in the process.
 
 On a failed save, the creature immediately takes 1 point of Dexterity
 damage and 1 point of Wisdom damage. Each day thereafter, the creature
 must succeed on a new Fortitude save at the same DC or take 1d3 points
 of Dexterity damage and 1d3 points of Wisdom damage. Two successful
 saving throws in a row indicate that the creature has fought off the
-nannite infection, but any damage already taken must heal normally. If
+nanite infection, but any damage already taken must heal normally. If
 an infected creature has an Intelligence score of at least 6 and either
 its Dexterity or its Wisdom score is reduced to 0 by the disease, it is
 transformed into a sand slave. Such a creature immediately gains the
 sand slave template (see the “Sand Slave” entry, below), and all ability
 damage previously dealt by the disease is healed. Thereafter, the new
 sand slave is a servant of all etoile and can no longer be cured of the
-nannite infection.
+nanite infection.
 
-Nannite infection has no visible symptoms, and many confuse its
+Nanite infection has no visible symptoms, and many confuse its
 debilitating effects with drunkenness or drug use. However, microscopic
 study of an infected creature’s blood or high-resolution x-rays can
-reveal the nannites and the alterations they have created in its body
+reveal the nanites and the alterations they have created in its body
 structure (see the “Sand Slave” entry for more information).
 
 A creature other than an etoile using the Treat Injury skill to treat
@@ -77,7 +77,7 @@ the disease takes a –10 penalty on Treat Injury checks unless it also
 has at least 5 ranks in both Knowledge (technology) and Knowledge
 (physical sciences), or 5 ranks in Disable Device.
 
-Etoile are immune to nannite infection.
+Etoile are immune to nanite infection.
 
 **Telepathy (Ex):** Though it cannot produce sounds, an etoile can
 communicate its thoughts and desires to any creature within 200 feet
@@ -90,39 +90,39 @@ their human agents to act as interpreters.
 
 ## Etoile
 
-| Stat              | Value                                                                                                                                          |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| CR                | 2                                                                                                                                              |
-| Size              | Tiny                                                                                                                                           |
-| Type              | elemental (air, earth)                                                                                                                         |
-| HD                | 3d8+3                                                                                                                                          |
-| hp                | 16                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +3                                                                                                                                             |
-| Spd               | fly 40 ft. (perfect)                                                                                                                           |
-| Defense           | 23                                                                                                                                             |
-| Touch             | 15                                                                                                                                             |
-| Flat-Footed       | 20                                                                                                                                             |
-| Defense Breakdown | +2 size, +3 Dex, +8 natural                                                                                                                    |
-| BAB               | +2                                                                                                                                             |
-| Grap              | –8                                                                                                                                             |
-| Atk               | +7 melee (1d3–2 plus 1d6 electricity, pincer)                                                                                                  |
-| Full Atk          | +7 melee (1d3–2 plus 1d6 electricity, 3 pincers)                                                                                               |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                         |
-| Reach             | 5 ft.                                                                                                                                          |
-| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 16), telepathy |
-| AL                | etoile, evil                                                                                                                                   |
-| Fort              | +4                                                                                                                                             |
-| Ref               | +6                                                                                                                                             |
-| Will              | +2                                                                                                                                             |
-| AP                | 0                                                                                                                                              |
-| Rep               | +0                                                                                                                                             |
-| Str               | 7                                                                                                                                              |
-| Dex               | 16                                                                                                                                             |
-| Con               | 12                                                                                                                                             |
-| Int               | 20                                                                                                                                             |
-| Wis               | 13                                                                                                                                             |
-| Cha               | 11                                                                                                                                             |
+| Stat              | Value                                                                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 2                                                                                                                                             |
+| Size              | Tiny                                                                                                                                          |
+| Type              | elemental (air, earth)                                                                                                                        |
+| HD                | 3d8+3                                                                                                                                         |
+| hp                | 16                                                                                                                                            |
+| Mas               | —                                                                                                                                             |
+| Init              | +3                                                                                                                                            |
+| Spd               | fly 40 ft. (perfect)                                                                                                                          |
+| Defense           | 23                                                                                                                                            |
+| Touch             | 15                                                                                                                                            |
+| Flat-Footed       | 20                                                                                                                                            |
+| Defense Breakdown | +2 size, +3 Dex, +8 natural                                                                                                                   |
+| BAB               | +2                                                                                                                                            |
+| Grap              | –8                                                                                                                                            |
+| Atk               | +7 melee (1d3–2 plus 1d6 electricity, pincer)                                                                                                 |
+| Full Atk          | +7 melee (1d3–2 plus 1d6 electricity, 3 pincers)                                                                                              |
+| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                        |
+| Reach             | 5 ft.                                                                                                                                         |
+| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nanite infection (DC 16), telepathy |
+| AL                | etoile, evil                                                                                                                                  |
+| Fort              | +4                                                                                                                                            |
+| Ref               | +6                                                                                                                                            |
+| Will              | +2                                                                                                                                            |
+| AP                | 0                                                                                                                                             |
+| Rep               | +0                                                                                                                                            |
+| Str               | 7                                                                                                                                             |
+| Dex               | 16                                                                                                                                            |
+| Con               | 12                                                                                                                                            |
+| Int               | 20                                                                                                                                            |
+| Wis               | 13                                                                                                                                            |
+| Cha               | 11                                                                                                                                            |
 
 **Skills:** Computer Use +13, Craft (electrical) +13, Craft (mechanical)
 +13, Demolitions +9, Disable Device +13, Knowledge (technology) +11;
@@ -135,39 +135,39 @@ Repair +13, Treat Injury +7.
 
 ## Etoile Techie 5
 
-| Stat              | Value                                                                                                                                          |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| CR                | 7                                                                                                                                              |
-| Size              | Tiny                                                                                                                                           |
-| Type              | elemental (air, earth)                                                                                                                         |
-| HD                | 3d8+3 plus 5d6+5                                                                                                                               |
-| hp                | 38                                                                                                                                             |
-| Mas               | —                                                                                                                                              |
-| Init              | +3                                                                                                                                             |
-| Spd               | fly 40 ft. (perfect)                                                                                                                           |
-| Defense           | 26                                                                                                                                             |
-| Touch             | 18                                                                                                                                             |
-| Flat-Footed       | 23                                                                                                                                             |
-| Defense Breakdown | +2 size, +3 Dex, +8 natural, +3 class                                                                                                          |
-| BAB               | +4                                                                                                                                             |
-| Grap              | –5                                                                                                                                             |
-| Atk               | +9 melee (1d3–1 plus 1d6 electricity, pincer)                                                                                                  |
-| Full Atk          | +9 melee (1d3–1 plus 1d6 electricity, 3 pincers)                                                                                               |
-| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                         |
-| Reach             | 5 ft.                                                                                                                                          |
-| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nannite infection (DC 19), telepathy |
-| AL                | etoile, evil                                                                                                                                   |
-| Fort              | +7                                                                                                                                             |
-| Ref               | +7                                                                                                                                             |
-| Will              | +3                                                                                                                                             |
-| AP                | 2                                                                                                                                              |
-| Rep               | +2                                                                                                                                             |
-| Str               | 8                                                                                                                                              |
-| Dex               | 16                                                                                                                                             |
-| Con               | 12                                                                                                                                             |
-| Int               | 20                                                                                                                                             |
-| Wis               | 13                                                                                                                                             |
-| Cha               | 11                                                                                                                                             |
+| Stat              | Value                                                                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 7                                                                                                                                             |
+| Size              | Tiny                                                                                                                                          |
+| Type              | elemental (air, earth)                                                                                                                        |
+| HD                | 3d8+3 plus 5d6+5                                                                                                                              |
+| hp                | 38                                                                                                                                            |
+| Mas               | —                                                                                                                                             |
+| Init              | +3                                                                                                                                            |
+| Spd               | fly 40 ft. (perfect)                                                                                                                          |
+| Defense           | 26                                                                                                                                            |
+| Touch             | 18                                                                                                                                            |
+| Flat-Footed       | 23                                                                                                                                            |
+| Defense Breakdown | +2 size, +3 Dex, +8 natural, +3 class                                                                                                         |
+| BAB               | +4                                                                                                                                            |
+| Grap              | –5                                                                                                                                            |
+| Atk               | +9 melee (1d3–1 plus 1d6 electricity, pincer)                                                                                                 |
+| Full Atk          | +9 melee (1d3–1 plus 1d6 electricity, 3 pincers)                                                                                              |
+| FS                | 2 1/2 ft. by 2 1/2 ft.                                                                                                                        |
+| Reach             | 5 ft.                                                                                                                                         |
+| SQ                | darkvision 60 ft., device operation, electric shock, electricity immunity, elemental, mechanical healing, nanite infection (DC 19), telepathy |
+| AL                | etoile, evil                                                                                                                                  |
+| Fort              | +7                                                                                                                                            |
+| Ref               | +7                                                                                                                                            |
+| Will              | +3                                                                                                                                            |
+| AP                | 2                                                                                                                                             |
+| Rep               | +2                                                                                                                                            |
+| Str               | 8                                                                                                                                             |
+| Dex               | 16                                                                                                                                            |
+| Con               | 12                                                                                                                                            |
+| Int               | 20                                                                                                                                            |
+| Wis               | 13                                                                                                                                            |
+| Cha               | 11                                                                                                                                            |
 
 **Skills:** Computer Use +18, Craft (electrical) +18, Craft (mechanical)
 +18, Demolitions +14, Disable Device +18, Knowledge (earth and life

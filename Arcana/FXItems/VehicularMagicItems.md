@@ -63,10 +63,12 @@ A vehicle coated in this nigh unscratchable silvery-gray paint gains 5
 points of hardness. It has no effect on any vehicle with a hardness of
 10 or higher.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 28\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 5th                       |
+| Purchase DC  | 28                        |
+| Weight       | —.                        |
 
 ### Bumpers of Blasting
 
@@ -84,10 +86,12 @@ cannot trigger an explosive blast out of turn, such as when struck by
 another vehicle, although the driver could ready an action to trigger
 the explosive blast when such a condition arises.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 27\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 27                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Bumper of the Ram
 
@@ -98,10 +102,12 @@ increased by one speed and size increment, while damage to the vehicle
 with the *bumper of the ram* is reduced by one speed and one size
 increment. The bumper of the ram’s effects do not apply to sideswipes.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 9th\
-**Purchase DC:** 32\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 9th                                     |
+| Purchase DC  | 32                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Dashboard Figurine
 
@@ -127,10 +133,12 @@ monster. Attacks made by the driver and passengers of the vehicle gain a
 being of religious or spiritual significance. This type of *dashboard
 figurine* provides a +2 deflection bonus to the vehicle’s Defense.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 3rd\
-**Purchase DC:** 26\
-**Weight:** 0.5 lb.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 3rd                       |
+| Purchase DC  | 26                        |
+| Weight       | 0.5 lb.                   |
 
 ### Engine of Infernal Speed
 
@@ -143,10 +151,12 @@ points of fire damage to anything within 10 feet of the rear of the
 vehicle; a successful Reflex save (DC 15) halves the damage. The flames
 automatically set fire to combustibles.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 7th\
-**Purchase DC:** 30\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 7th                                     |
+| Purchase DC  | 30                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Flame Job
 
@@ -160,10 +170,12 @@ automatically set fire to combustibles. Neither the vehicle nor its
 occupants suffer any ill effects from the fire so long as they remain
 completely inside the vehicle.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 27\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 27                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Fuzzy Dice of Luck
 
@@ -172,10 +184,12 @@ of the vehicle to be activated. Once per day, the driver of the vehicle
 can reroll any Drive check, but must take the new result regardless of
 the outcome.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 3rd\
-**Purchase DC:** 25\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 3rd                       |
+| Purchase DC  | 25                        |
+| Weight       | —.                        |
 
 ### Headlights of Blinding
 
@@ -184,10 +198,12 @@ of light projecting from the front of the vehicle. Any creatures caught
 in the area must succeed at a Fortitude save (DC 15) or be blinded for
 2d6 rounds.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 27\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 27                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Horn of Blasting
 
@@ -203,10 +219,12 @@ Vehicle windows and windshields may shatter if they take sufficient
 damage from the blast. Headlights are also susceptible to the *horn of
 blasting* and should be treated as windows for this purpose.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 7th\
-**Purchase DC:** 29\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 7th                                     |
+| Purchase DC  | 29                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Horn of Dread
 
@@ -214,10 +232,12 @@ Up to three times per day, this horn can emit a terrifying noise. Anyone
 within 50 feet of the horn’s sound must succeed a Will save (DC 15) or
 be affected by a *cause fear* spell (as if cast by a 5th-level Acolyte).
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 27\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 27                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Impervious Tires
 
@@ -227,10 +247,12 @@ the set has a hardness of 20.
 If one of the tires is punctured and ruined, the remaining *impervious
 tires* continue to function.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 28 (per set)\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 28 (per set)                            |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Nondescript Paint Job
 
@@ -241,10 +263,12 @@ or losing a tail. In addition, anyone wishing to break into the vehicle
 to do so. This is a mind-affecting spell-like effect; a new save may be
 attempted after 24 hours have passed.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 28\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 5th                       |
+| Purchase DC  | 28                        |
+| Weight       | —.                        |
 
 ### Paint Job of Blurring
 
@@ -252,10 +276,12 @@ Once per day, this paint job makes the vehicle’s outline to appear
 blurry. This is as the *blur* spell as if cast by a 5th-level Mage.
 Occupants of the vehicle are also blurred.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 27\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 5th                       |
+| Purchase DC  | 27                        |
+| Weight       | —.                        |
 
 ### Paralytic Alarm
 
@@ -267,10 +293,12 @@ When activated, the *paralytic alarm* emits a hypnotic pulse that
 paralyzes any creature within 30 feet for 2d6 rounds. A successful Will
 save (DC 15) negates this mind-affecting enchantment.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 28\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 28                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Reinflating Tires
 
@@ -279,10 +307,12 @@ the touch. If a tire is punctured, it instantly reinflates and is
 restored to full hit points. Once a tire magically reinflates, it
 becomes a nonmagical tire and cannot reinflate again.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 3rd\
-**Purchase DC:** 23 (per tire) or 26 (per set)\
-**Weight:** —.
+| Stat         | Value                         |
+| ------------ | ----------------------------- |
+| Type         | Wondrous Item (vehicular)     |
+| Caster Level | 3rd                           |
+| Purchase DC  | 23 (per tire) or 26 (per set) |
+| Weight       | —.                            |
 
 ### Seats of Safety
 
@@ -292,10 +322,12 @@ from vehicle collisions, they gain a +7 cover bonus to Defense, and they
 gain a +3 cover bonus on Reflex saves. The *seats of safety* do not
 function if any of the vehicle’s doors are open.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 5th\
-**Purchase DC:** 28 (per vehicle)\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 5th                                     |
+| Purchase DC  | 28 (per vehicle)                        |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Seat of Hold Monster
 
@@ -305,14 +337,16 @@ creature seated in it, as the *hold monster* spell cast by a 10th-level
 Acolyte. The target creature gets a Will save (DC 17) to negate the
 effect, which lasts for 10 rounds.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 10th\
-**Purchase DC:** 32 (per seat)\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 10th                                    |
+| Purchase DC  | 32 (per seat)                           |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Shrinking Paint Job
 
-This paint job allows the vehicle to “shrink” to a matchboxsized version
+This paint job allows the vehicle to “shrink” to a matchbox sized version
 small enough to fit in the palm of one’s hand. Shrinking or enlarging
 the vehicle requires a command word, and the vehicle takes a full-round
 action to shrink or return to full size. The vehicle will not shrink if
@@ -322,10 +356,12 @@ area that will not allow it to expand to its full size. A vehicle in its
 toy size has a hardness of 5 and 5 hit points. The vehicle is destroyed
 and cannot be repaired if reduced to 0 hit points in its toy form.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 7th\
-**Purchase DC:** 30\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 7th                                     |
+| Purchase DC  | 30                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Silent Warning Alarm
 
@@ -340,10 +376,12 @@ check (DC 10), he also receives a mental picture of the individual or
 individuals attempting to break into the vehicle, as if standing next to
 them (lighting conditions apply).
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 3rd\
-**Purchase DC:** 26\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 3rd                                     |
+| Purchase DC  | 26                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Trunk of Masking
 
@@ -359,10 +397,12 @@ or similar magic. Creatures that suspect the presence of an illusion are
 entitled to a Will save (DC 16) to disbelieve it; if the save succeeds,
 they can perceive the true contents of the *trunk of masking*.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 7th\
-**Purchase DC:** 30\
-**Weight:** — (factored into the vehicle’s weight).
+| Stat         | Value                                   |
+| ------------ | --------------------------------------- |
+| Type         | Wondrous Item (vehicular)               |
+| Caster Level | 7th                                     |
+| Purchase DC  | 30                                      |
+| Weight       | — (factored into the vehicle’s weight). |
 
 ### Windows of Deception
 
@@ -371,10 +411,12 @@ the outside of the vehicle, as if by *change self* cast by a 3rd-level
 Mage. If the one or more of the vehicle’s windows are destroyed, the
 effect ends and the *windows of deception* cease to function.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 3rd\
-**Purchase DC:** 26\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 3rd                       |
+| Purchase DC  | 26                        |
+| Weight       | —.                        |
 
 ### Zephyr Tires
 
@@ -398,7 +440,9 @@ toward the hit points of the vehicle). If one or more of the tires are
 destroyed, the *zephyr tires* lose their magic and cease to function,
 and the vehicle (if airborne) plunges from the sky.
 
-**Type:** Wondrous Item (vehicular)\
-**Caster Level:** 9th\
-**Purchase DC:** 32 (per set)\
-**Weight:** —.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Wondrous Item (vehicular) |
+| Caster Level | 9th                       |
+| Purchase DC  | 32 (per set)              |
+| Weight       | —.                        |

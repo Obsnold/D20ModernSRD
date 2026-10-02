@@ -23,7 +23,7 @@ armor on the black market.
 
 This easy-to-acquire alloy is lightweight and reasonably strong.
 Bioreplica robots and liquid-state robots cannot have integrated
-aluminsteel armor.
+alumisteel armor.
 
 **Equipment Bonus:** +5.
 

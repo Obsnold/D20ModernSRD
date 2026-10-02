@@ -1,16 +1,17 @@
 # Mystic Veil
 
-| Stat        | Value                                      |
-| ----------- | ------------------------------------------ |
-| School      | Illusion                                   |
-| Skill Check | Knowledge (arcane lore) DC 34, 7 successes |
-
-(and see text); **Failure:** Two consecutive failed skill checks;
-**Components:** V, S, M (see text), B; **Casting Time:** 70 minutes
-(minimum); **Range:** 55 ft.; **Effect:** Visual and audible figment
-that covers 12 10-foot cubes (S); **Duration:** 12 hours; **Saving
-Throw:** None or Will disbelief (if interacted with) (see text); **Spell
-Resistance:** No
+| Stat             | Value                                                       |
+| ---------------- | ----------------------------------------------------------- |
+| School           | Illusion                                                    |
+| Skill Check      | Knowledge (arcane lore) DC 34, 7 successes (and see text)   |
+| Failure          | Two consecutive failed skill checks                         |
+| Components       | V, S, M (see text), B                                       |
+| Casting Time     | 70 minutes (minimum)                                        |
+| Range            | 55 ft.                                                      |
+| Effect           | Visual and audible figment that covers 12 10-foot cubes (S) |
+| Duration         | 12 hours                                                    |
+| Saving Throw     | None or Will disbelief (if interacted with) (see text)      |
+| Spell Resistance | No                                                          |
 
 This incantation combines several elements to create a powerful
 protection from scrying and direct observation. When casting the

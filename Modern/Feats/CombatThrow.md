@@ -8,5 +8,5 @@ Defensive Martial Arts.
 
 The character gains a +2 bonus on opposed Strength and
 Dexterity checks any time the character attempts trip or grapple
-attacks, or when the character trys to avoid a trip or grapple attack
+attacks, or when the character tries to avoid a trip or grapple attack
 made against him or her.

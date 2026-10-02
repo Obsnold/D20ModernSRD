@@ -120,7 +120,6 @@ anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
 | Cha               | 2                                                                         |
 
 **Skills:** Balance +9, Climb +23, Hide +8, Listen +5, Spot +5,
-
 Swim +23.
 
 **Feats:** None.

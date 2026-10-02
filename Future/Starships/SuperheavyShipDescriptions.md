@@ -173,8 +173,9 @@ of 4 antimatter guns –1 ranged (10d8/19–20)
 **Defense Systems:** 1 decoy drone launcher (4 drones), improved
 autopilot system, improved damage control (6d10), light fortification,
 magnetic field, particle field, point-defense system, radiation
-shielding, repair drones, self-destruct system **Sensors:** Class V
-sensors, improved targeting system
+shielding, repair drones, self-destruct system
+
+**Sensors:** Class V sensors, improved targeting system
 
 **Communications:** Drivesat comm array, mass transceiver
 

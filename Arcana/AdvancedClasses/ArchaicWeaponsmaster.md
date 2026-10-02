@@ -14,7 +14,7 @@ the following criteria.
 
 **Skills:** Knowledge (history) 4 ranks.
 
-**Feats:** Archaic Weapon Proficiency, Weapon Focus with an archaic
+**Feats:** Archaic Weapons Proficiency, Weapon Focus with an archaic
 weapon.
 
 ## Class Information

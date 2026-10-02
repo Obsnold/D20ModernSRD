@@ -251,7 +251,7 @@ hit points, it explodes in a ball of flame. All creatures in adjacent
 squares take 2d6 points of fire damage; a successful Reflex save (DC 12)
 halves the damage.
 
-**Immunities (Ex):** A skinhusker is immune to fire and poison
+**Immunities (Ex):** A skinhusker is immune to fire and poison.
 
 **Electricity Resistance 20 (Ex):** A skinhusker ignores the first 20
 points of damage from any attack that deals electricity damage.

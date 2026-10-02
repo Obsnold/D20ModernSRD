@@ -12,10 +12,12 @@ damage reduction 10/+2 against ranged weapons that fire arrows, bolts,
 or bullets (as per the *protection from arrows/bullets spell*). The
 effect lasts for 50 minutes.
 
-**Type:** Tattoo (magic)\
-**Caster Level:** 5th (arcane)\
-**Purchase DC:** 20\
-**Weight:** —.
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Tattoo (magic) |
+| Caster Level | 5th (arcane)   |
+| Purchase DC  | 20             |
+| Weight       | —.             |
 
 ## Bullseye Tattoo
 
@@ -23,10 +25,12 @@ The bearer of this bullseye tattoo gains a +20 insight bonus on her next
 single attack, as per the *true strike* spell. The attack ignores any
 miss chance that applies to attacks against a concealed target.
 
-**Type:** Tattoo (magic)\
-**Caster Level:** 1st (arcane)\
-**Purchase DC:** 17\
-**Weight:** —.
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Tattoo (magic) |
+| Caster Level | 1st (arcane)   |
+| Purchase DC  | 17             |
+| Weight       | —.             |
 
 ## Caduceus Tattoo
 
@@ -47,10 +51,12 @@ damage. A single tattoo is enough to simultaneously achieve all these
 effects. The tattoo’s magic also removes negative levels, but it does
 not restore permanently drained levels.
 
-**Type:** Tattoo (magic)\
-**Caster Level:** 11th¹\
-**Purchase DC:** 26\
-**Weight:** —.
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Tattoo (magic) |
+| Caster Level | 11th¹          |
+| Purchase DC  | 26             |
+| Weight       | —.             |
 
 ¹ *See the Incantation-Based FX Items sidebar.*
 
@@ -60,7 +66,9 @@ This tattoo comes in various patterns, although tribal bands around the
 forearm or bicep are the most common. The bearer of this tattoo gains SR
 21 for 9 minutes once the tattoo is activated.
 
-**Type:** Tattoo (magic)\
-**Caster Level:** 9th (divine)\
-**Purchase DC:** 24\
-**Weight:** —.
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Tattoo (magic) |
+| Caster Level | 9th (divine)   |
+| Purchase DC  | 24             |
+| Weight       | —.             |

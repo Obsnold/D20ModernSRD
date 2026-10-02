@@ -21,7 +21,7 @@ bonus to Defense (such as when flatfooted), this dodge bonus is
 lost.
 
 **Stability:** Dwarves gain a +4 species bonus on
-ability checks to resist bulll rush and trip attempts when standing on
+ability checks to resist bull rush and trip attempts when standing on
 the ground (but not when climbing, flying, riding, or otherwise not
 standing firmly on the ground).
 

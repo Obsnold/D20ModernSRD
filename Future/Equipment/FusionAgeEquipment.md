@@ -164,7 +164,7 @@ Though not technically an actual set of lockpicks, intellipicks are a
 cluster of several tiny machines (though not quite small enough to be
 called nanites) that can pick almost any lock and open almost any door.
 Intellipicks come in a small box that, when placed on the lock to be
-opened, releases the miniscule robots to do their work. Once the
+opened, releases the minuscule robots to do their work. Once the
 intellipicks penetrate the lock, they move tumblers and shift bolts in
 an efficient and rapid manner, opening the lock in way that no human
 could. Intellipicks have an effective Disable Device modifier of +20

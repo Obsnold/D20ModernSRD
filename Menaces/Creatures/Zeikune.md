@@ -22,7 +22,7 @@ Manifester level 5th; save DC 10 + zeikune’s key ability modifier +
 power level.
 
 **Siphon Fluids (Ex):** Once a zeikune liquefies the internal organs of
-a creature, it can spend a fullround action siphoning the fluids from
+a creature, it can spend a full-round action siphoning the fluids from
 the dead creature’s body, leaving behind a shriveled husk. The fluid not
 only provides sustenance but also heals the zeikune of 3d6 points of
 damage and 1d6 points of ability damage (per ability).

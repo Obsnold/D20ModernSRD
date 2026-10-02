@@ -24,7 +24,7 @@ food.”
 Interestingly, the dining areas are designed to look like medieval
 taverns. Shadowkind and humans alike often come here just for the
 feeling of nostalgia it brings them, and many an adventure has started
-with a chance meeting in the dark corner of a Prancing Pony francise.
+with a chance meeting in the dark corner of a Prancing Pony franchise.
 
 This organization offers nothing more than minimum-wage jobs (meals
 included), so there is little reason for heroes to join.

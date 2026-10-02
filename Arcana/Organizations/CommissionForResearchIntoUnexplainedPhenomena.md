@@ -59,7 +59,7 @@ and acts that can only be described as “miracles.” Dr. Astrid Kolgrim is
 one of the scientists who studies the rise of Shadow. She is a brilliant
 biologist who made her way through various academic and private
 organizations, studying a number of rare and exotic species. Dr.
-Kogrim’s work finally caught the attention of the Federal Government,
+Kolgrim’s work finally caught the attention of the Federal Government,
 who tapped her to head a team dedicated to researching creatures of
 Shadow.
 
@@ -78,7 +78,7 @@ local police departments, the FBI, the Center for Disease Control, and
 other government agencies. Her mission is to find out as much
 information about creatures of Shadow as possible—their abilities,
 strengths, weaknesses, and any way that they can be exploited by the
-government. She has personally led expeditiong to capture specimens of
+government. She has personally led expeditions to capture specimens of
 numerous Shadow species and take them back to the laboratory for study.
 
 | Stat              | Value                                                                                                             |
@@ -105,7 +105,8 @@ numerous Shadow species and take them back to the laboratory for study.
 | Fort              | +5                                                                                                                |
 | Ref               | +8                                                                                                                |
 | Will              | +7                                                                                                                |
-| AP                | 11, Rep +4                                                                                                        |
+| AP                | 11                                                                                                                |
+| Rep               | +4                                                                                                                |
 | Str               | 10                                                                                                                |
 | Dex               | 11                                                                                                                |
 | Con               | 10                                                                                                                |

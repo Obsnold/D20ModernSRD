@@ -15,7 +15,7 @@ The creature cannot end its rage voluntarily.
 
 **Rend (Ex):** If an urban wendigo hits with both claw
 attacks, it latches onto the opponent’s body and tears the flesh. This
-attack automatially deals an additional 2d6+9 points of damage.
+attack automatically deals an additional 2d6+9 points of damage.
 
 **Ferocity (Ex):** An urban wendigo is such a tenacious
 combatant that it continues to fight without penalty even while disabled

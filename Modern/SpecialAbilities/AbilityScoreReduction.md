@@ -1,7 +1,7 @@
 # Ability Score Reduction (Su)
 
 Some attacks reduce an opponent’s
-score in one or more abilities. This loss can be permanent or temporary
+score in one or more abilities. This loss can be permanent or temporary.
 
 **Permanent Ability Drain:** This effect permanently reduces a living
 opponent’s ability score when the creature hits with a melee attack. The

@@ -134,7 +134,8 @@ throwing knives.
 | Fort              | +7                                                                                                                                                                |
 | Ref               | +10                                                                                                                                                               |
 | Will              | +7                                                                                                                                                                |
-| AP                | 13, Rep +7                                                                                                                                                        |
+| AP                | 13                                                                                                                                                                |
+| Rep               | +7                                                                                                                                                                |
 | Str               | 11                                                                                                                                                                |
 | Dex               | 19                                                                                                                                                                |
 | Con               | 12                                                                                                                                                                |
@@ -148,7 +149,7 @@ Knowledge (earth and life sciences) +6, Knowledge (behavioral sciences)
 Elven, Read/Write English, Ride +14, Search +3, Speak English, Speak
 Elven, Spot +11, Survival +12, Swim +5, Treat Injury +8.
 
-**Feats**: Alertness, Animal Affinity, Archaic Weapon Proficiency,
+**Feats**: Alertness, Animal Affinity, Archaic Weapons Proficiency,
 Dodge, Fleet of Foot, Guide, Lightning Reflexes, Mobility, Point Blank
 Shot, Precise Shot, Shot on the Run, Simple Weapon Proficiency,
 Stealthy, Track.
@@ -195,7 +196,8 @@ fanatically loyal to his master and will defend her to the death.
 | Fort              | +5                                                            |
 | Ref               | +7                                                            |
 | Will              | +2                                                            |
-| AP                | 0, Rep +0                                                     |
+| AP                | 0                                                             |
+| Rep               | +0                                                            |
 | Str               | 18                                                            |
 | Dex               | 21                                                            |
 | Con               | 15                                                            |

@@ -5,7 +5,7 @@
 | School           | Illusion                        |
 | Level            | Arcane 2                        |
 | Components       | V, S, M                         |
-| Casting Time     | Fullround action                |
+| Casting Time     | Full-round action               |
 | Range            | Close (25 ft. + 5 ft./2 levels) |
 | Target           | One object (see text)           |
 | Duration         | Permanent until discharged      |
@@ -22,7 +22,7 @@ traffic sign displays the message for all motorists to see.
 
 The spell functions when specific conditions are fulfilled according to
 your command as set in the spell. Commands can be as general or specific
-as desired, although only visiual and audible triggers can be used such
+as desired, although only visual and audible triggers can be used such
 as the following: “Deliver the message when a man in a dark suit walks
 past with a gun drawn.” Triggers react to what appears to be the case.
 Disguises and illusions can fool them. Normal darkness does not defeat a

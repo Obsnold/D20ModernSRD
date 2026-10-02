@@ -316,7 +316,7 @@ area or fall prone.
 
 This kit is specially tailored for dealing with undead bloodsuckers.
 Because not all vampires are vulnerable to the same things the kit
-covers a variety of possiblities. The kit contains the following items:
+covers a variety of possibilities. The kit contains the following items:
 5 wooden stakes, Mossberg shotgun, 5 white phosphorous shotgun shells,
 silver holy symbols (various faiths), hand crossbow, 5 bolts with wooden
 tips, small metal mirror, garlic clove necklace. All this is packaged in

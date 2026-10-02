@@ -28,7 +28,7 @@ Attacking objects follows the same rules for starships as for
 characters. Table: Space Objects lists the Defense, hardness, and hit
 points of objects commonly encountered in space and on the cosmic
 battlefield. Colossal objects occupy four 500-foot squares (a
-1,000-footby- 1,000-foot fighting space). All other objects occupy a
+1,000-foot-by-1,000-foot fighting space). All other objects occupy a
 single 500-foot square.
 
 **Table: Space Objects**

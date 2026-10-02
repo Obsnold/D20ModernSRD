@@ -17,17 +17,17 @@ Hide checks, and grapple checks.
 equal to 3 + the celestial’s Hit Dice.
 
 **Immunities (Ex):** A celestial is immune to one or more specific types
-of energy or weapon damage, as determined by rolling on Table: Celectial
+of energy or weapon damage, as determined by rolling on Table: Celestial
 Immunities, Resistances, and Damage Reduction.
 
 **Energy Resistance (Ex):** A celestial is resistant to one or more
-types of energy, as determined by rolling on Table: Celectial
+types of energy, as determined by rolling on Table: Celestial
 Immunities, Resistances, and Damage Reduction. Roll again if the
 celestial is resistant to a type of energy against which it already has
 immunity.
 
 **Damage Reduction (Ex):** Some celestials have damage reduction, as
-determined by rolling on Table: Celectial Immunities, Resistances, and
+determined by rolling on Table: Celestial Immunities, Resistances, and
 Damage Reduction.
 
 **Tongues (Su):** A celestial may converse with any creature that has a
@@ -46,7 +46,7 @@ Simple Weapons Proficiency as a bonus feat.
 **Automatic Languages**: Celestials speak Celestial and a number of
 additional languages equal to their Intelligence bonus.
 
-**Table: Celectial Immunities, Resistances, and Damage Reduction**
+**Table: Celestial Immunities, Resistances, and Damage Reduction**
 
 | Roll d% | Immunity                   | Roll d% | Resistance                     | Roll d% | Damage Reduction         |
 | ------- | -------------------------- | ------- | ------------------------------ | ------- | ------------------------ |

@@ -25,7 +25,7 @@ deal any damage.
 
 **Blindsight (Ex):** An udoroot is blind but can ascertain all creatures
 and objects within 40 feet just as a sighted creature would. Beyond that
-range, all targets have total concealment with respect to the udoroot
+range, all targets have total concealment with respect to the udoroot.
 
 **Cold Resistance 20 (Ex):** An udoroot ignores the first 20 points of
 cold damage from any single attack.

@@ -1,6 +1,6 @@
 # Drifter
 
-Drifters are aimless wanderers and worldwise jacks-of-all-trades who
+Drifters are aimless wanderers and world-wise jacks-of-all-trades who
 move between cities or star systems, working odd jobs until boredom or
 fate leads them elsewhere. Along the way, they learn strange customs and
 pick up interesting and diverse skills.

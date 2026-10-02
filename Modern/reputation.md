@@ -37,7 +37,7 @@ skill checks.
 Whenever the GM decides that a character’s reputation can be a factor in
 an encounter, the GM makes a Reputation check (DC 25) for the GM
 character involved. A Reputation check is 1d20 + the hero’s Reputation
-bonus + the GM character’s Int modifer. (Some Knowledge skill modifiers
+bonus + the GM character’s Int modifier. (Some Knowledge skill modifiers
 might apply instead of the Int modifier, if the hero would be well known
 in the field covered by the Knowledge skill.) Modifiers to the
 Reputation check depend on the hero and the GM character in question, as

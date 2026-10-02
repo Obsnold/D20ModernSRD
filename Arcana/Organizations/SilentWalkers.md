@@ -14,7 +14,7 @@ honor and responsibility of psionic powers. Furthermore, they believe
 that anyone who achieves this end through any means other than their own
 is an affront before the gods.
 
-Silent Walkers oppose natural psionicists, those who develop phychic
+Silent Walkers oppose natural psionicists, those who develop psychic
 powers using other methods, and rogue former members of this
 organization they collectively refer to as “oni.” The Silent Walkers
 believe it is their duty to hunt down and slay all oni. In recent years,
@@ -102,10 +102,12 @@ particular *Nakamura blade*, roll once on each of the following charts.
 | 95–97  | *True seeing* at will                                         |
 | 98–00  | *Passwall* 3/day                                              |
 
-**Type:** Weapon (magic)\
-**Caster Level:** 10th\
-**Purchase DC:** 45¹\
-**Weight:** 6 lb.
+| Stat         | Value          |
+| ------------ | -------------- |
+| Type         | Weapon (magic) |
+| Caster Level | 10th           |
+| Purchase DC  | 45¹            |
+| Weight       | 6 lb.          |
 
 ¹ *Nakamura blades* are both highly collectable works of art and much
 sought after magic weapons. The Silent Walkers have retained control of

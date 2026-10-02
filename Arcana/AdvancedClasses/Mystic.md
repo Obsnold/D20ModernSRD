@@ -13,7 +13,7 @@ criteria.
 ranks, Listen 6 ranks.
 
 **Allegiance:** At the time that the character receives her first level
-in the Mystic advanced class, she must select an allegiance to afaith,
+in the Mystic advanced class, she must select an allegiance to a faith,
 concept, tradition or alignment. The Mystic may choose positive (good)
 or negative (evil) energy as an allegiance, but is not required to.
 
@@ -132,8 +132,7 @@ Mystics may not use the spells listed below.
 
 4th-level: *Cure critical wounds, inflict critical wounds*
 
-5th-level: *Mass cure light wounds, mass inflict light wounds, raise
-dead*
+5th-level: *Mass cure light wounds, mass inflict light wounds, raise dead*
 
 **Table: Bonus Spells by Spell Level**
 

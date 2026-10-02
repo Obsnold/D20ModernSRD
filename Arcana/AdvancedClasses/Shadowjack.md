@@ -87,9 +87,8 @@ bonus on Computer Use checks attempting to degrade the program.
 
 ### Online Presence
 
-Beginning at 2nd level, when attempting to use a Charism-abased skill
-such a Bluff, Intimidate, Diplomacy, or Gather
-
+Beginning at 2nd level, when attempting to use a Charisma-based skill
+such as Bluff, Intimidate, Diplomacy, or Gather
 Information in an online situation, the Shadowjack adds any Shadowjack
 levels as a circumstance bonus.
 

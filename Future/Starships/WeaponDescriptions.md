@@ -139,7 +139,7 @@ on destroyers and larger warships.
 A fusion mine initiates a fusion reaction that deals damage to all
 starships in its square and all adjacent squares.
 
-## Missile, Che (PL 6)
+## Missile, CHE (PL 6)
 
 A CHE (conventional high-explosive) warhead can destroy a small vessel,
 but it’s less effective against larger warships unless launched in
@@ -147,7 +147,7 @@ numbers. Heavy vessels, such as battleships, can usually ignore the
 weapon despite its payload of hundreds of kilos of advanced chemical
 explosives.
 
-## Missile, Ke Submunition (PL 6)
+## Missile, KE Submunition (PL 6)
 
 This warhead consists of a bundle of dozens or even hundreds of tungsten
 steel darts, each mounted on small rocket motors. As the weapon

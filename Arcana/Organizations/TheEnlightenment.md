@@ -48,7 +48,9 @@ communication.
 Enlightenment members generally give calling cards only to trusted
 allies. They have mundane business cards that they hand out more freely.
 
-**Type:** Wondrous item (psionic)\
-**Caster Level:** 1st\
-**Purchase DC:** 27 (per 100)\
-**Weight:** —.
+| Stat         | Value                   |
+| ------------ | ----------------------- |
+| Type         | Wondrous item (psionic) |
+| Caster Level | 1st                     |
+| Purchase DC  | 27 (per 100)            |
+| Weight       | —.                      |

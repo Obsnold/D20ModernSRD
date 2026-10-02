@@ -173,8 +173,7 @@ must meet any prerequisites.
 - Focused
 - Improved Disarm
 - Mobility
-- Personal
-- Firearms Proficiency
+- Personal Firearms Proficiency
 - Point Blank Shot
 - Stealthy
 - Weapon Finesse

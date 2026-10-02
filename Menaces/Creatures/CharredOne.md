@@ -111,7 +111,13 @@ one), Speak Language (any one), Spot +11.
 | Ref               | +6                                                                                        |
 | Will              | +12                                                                                       |
 | AP                | 0                                                                                         |
-| Rep               | +0 Str —, Dex 13, Con —, Int 6, Wis 17, Cha 13                                            |
+| Rep               | +0                                                                                        |
+| Str               | —                                                                                         |
+| Dex               | 13                                                                                        |
+| Con               | —                                                                                         |
+| Int               | 6                                                                                         |
+| Wis               | 17                                                                                        |
+| Cha               | 13                                                                                        |
 
 **Skills:** Hide +10, Intimidate +10, Listen +13, Read/Write Language
 (any one), Speak Language (any one), Spot +13.

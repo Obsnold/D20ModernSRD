@@ -58,7 +58,7 @@ is two-way, allowing for round trips.
 The D-drive generator can be incorporated into a starship’s engine
 design, allowing the ship to travel between dimensions. Considered the
 safest form of dimensional travel, D-drive generators allow ships in
-space to cross dimensions. Due to the enormous power drain, the Ddrive
+space to cross dimensions. Due to the enormous power drain, the D-drive
 generator shuts down for 12 hours after the dimensional jump is
 completed. In addition, the starship’s weapon systems, defense fields,
 defense screens, and engines shut down for 2 hours. At Progress Level 8,

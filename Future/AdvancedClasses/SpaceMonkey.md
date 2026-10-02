@@ -98,7 +98,7 @@ Monkey must meet all the prerequisites of the feat to select it.
 - Acrobatic
 - Advanced Firearms Proficiency
 - Aircraft Operation (spacecraft)
-- Archaic Weapon Proficiency
+- Archaic Weapons Proficiency
 - Armor Proficiency (light)
 - Armor Proficiency (medium)
 - Armor Proficiency (heavy)

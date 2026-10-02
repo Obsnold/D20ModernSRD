@@ -102,8 +102,8 @@ Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
 | SQ                | darkvision 60 ft., improved grab, keen scent, low-light vision, swallow whole |
 | AL                | none                                                                          |
 | Fort              | +35                                                                           |
-| Ref               | +16                                                                           |
-| Will              | +9                                                                            |
+| Ref               | +28                                                                           |
+| Will              | +17                                                                           |
 | AP                | 0                                                                             |
 | Rep               | +0                                                                            |
 | Str               | 39                                                                            |

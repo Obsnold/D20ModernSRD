@@ -26,7 +26,7 @@ armor bonus to Defense.
 **Low-Light Vision:** Ogres can see twice as far as a human in
 starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
-under these conditions
+under these conditions.
 
 **Allegiance:** Ogres must begin play with an allegiance to chaos, evil,
 or both.

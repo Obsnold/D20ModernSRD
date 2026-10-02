@@ -35,7 +35,7 @@ Intelligence-based.
 **Psionic Abilities:** At will—*charm person*
 (DC 12), *suggestion* (DC 14). These
 abilities are as the psionic powers manifested by a 10th-level Telepath.
-The DCs are Charismabased.
+The DCs are Charisma based.
 
 **Summon Vrock (Sp):** Once per day, a
 vrock can attempt to summon another vrock with a 35% chance of success.

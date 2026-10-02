@@ -653,7 +653,7 @@ points of damage dealt by any nonpiercing weapon.
 
 **Disease Sense (Ex):** A stygilor can sense whether a creature is
 infected with a disease merely by being within 10 feet of it. It cannot
-sense nannite infection (see the “Etoile” entry for details).
+sense nanite infection (see the “Etoile” entry for details).
 
 **Frightful Presence (Ex):** A stygilor can use the Frightful Presence
 feat once per round as a free action. All creatures within 10 feet that

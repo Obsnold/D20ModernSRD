@@ -62,7 +62,7 @@ deliver poison of either the injury or contact type (see Craft
 ## Crossbow, Grapple-Firing
 
 This device helps heroes scale unclimbable walls, bridge chasms, escape
-down buildings, and the like. A grapplefiring crossbow is a heavy
+down buildings, and the like. A grapple firing crossbow is a heavy
 crossbow modified to fire a special, grapple-headed metal bolt attached
 to 100 feet of thin, light line.
 

@@ -21,7 +21,7 @@ successful grapple check automatically deals tentacle rake damage and
 blood drink damage.
 
 **Vermin Traits:** A leechwalker is immune to all
-mindaffecting effects. It also has darkvision (60-foot range).
+mind-affecting effects. It also has darkvision (60-foot range).
 
 **Wounding (Ex):** Damage resulting from the
 leechwalker’s tentacle rake attack is a wound that bleeds for an

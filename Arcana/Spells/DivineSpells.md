@@ -144,7 +144,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [***Status.***](../../Modern/FX/Spells/Status.md) Monitors condition and position of one ally per 3 caster levels.
 
-- [**Summon Vivilor III.**](SummonVivilorIII.md) Summons a 3rd-level vivilor, 1d3 2ndlevel vivilors, or 1d4+1 1st-level vivilors to fight for you.
+- [**Summon Vivilor III.**](SummonVivilorIII.md) Summons a 3rd-level vivilor, 1d3 2nd-level vivilors, or 1d4+1 1st-level vivilors to fight for you.
 
 - [**Vampiric Touch.**](VampiricTouch.md) Touch deals 1d6 points of damage per two caster levels; caster gains damage as temporary hit points.
 
@@ -176,7 +176,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [**Spell Immunity.**](SpellImmunity.md) Subject is immune to one spell per four levels.
 
-- [**Summon Vivilor IV.**](SummonVivilorIV.md) Summons a 4th-level vivilor, 1d3 3rdlevel vivilors, or 1d4+1 2nd-level vivilors to fight for you.
+- [**Summon Vivilor IV.**](SummonVivilorIV.md) Summons a 4th-level vivilor, 1d3 3rd-level vivilors, or 1d4+1 2nd-level vivilors to fight for you.
 
 - [***Tongues.***](../../Modern/FX/Spells/Tongues.md) Speak any language.
 
@@ -206,7 +206,7 @@ Spells printed in ***bold italic*** text can be found in [Modern Spells](../../M
 
 - [**Spell Resistance.**](SpellResistance.md) Subject gains spell resistance 12 + your caster level.
 
-- [**Summon Vivilor V.**](SummonVivilorV.md) Summons a 5th-level vivilor, 1d3 4thlevel vivilors, or 1d4+1 3rd-level vivilors to fight for you.
+- [**Summon Vivilor V.**](SummonVivilorV.md) Summons a 5th-level vivilor, 1d3 4th-level vivilors, or 1d4+1 3rd-level vivilors to fight for you.
 
 - [**Synchronicity.**](Synchronicity.md) Subject isn’t delayed by the inconveniences of modern life.
 

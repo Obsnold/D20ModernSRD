@@ -4,7 +4,7 @@
 | ------------------ | ------------------------------------------------------------------------ |
 | Key Ability        | Constitution                                                             |
 | Level              | Telepath 3/Battle Mind 3                                                 |
-| Display            | Vi                                                                       |
+| Display            | Visual                                                                   |
 | Manifestation Time | Attack action                                                            |
 | Range              | Medium (100 ft. + 10 ft./level)                                          |
 | Target or Area     | One psionic character or creature, or one object; or 30-ft.-radius burst |

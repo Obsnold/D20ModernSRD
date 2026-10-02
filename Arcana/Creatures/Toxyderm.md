@@ -252,7 +252,7 @@ if they stay longer. If the nuclear toxyderm hits a creature with a slam
 attack, that creature receives a severe exposure to radiation.
 
 **Breath Weapon (Ex):** The nuclear toxyderm’s breath
-weapon is a 100-foot cone of white-hot nuclear slag and fullspectrum
+weapon is a 100-foot cone of white-hot nuclear slag and full-spectrum
 radiation. It deals 20d6 points of damage to all in its path, or half
 damage if a Reflex save succeeds (DC 10 + 1/2 toxyderm’s Hit Dice +
 toxyderm’s Constitution modifier). Any creature that takes damage from
@@ -265,7 +265,7 @@ light that deals 400 points of damage to everything (creatures and
 objects alike) within 400 feet and 100 points of damage to everything
 within a mile; a successful Reflex save halves the damage (DC 10 + 1/2
 toxyderm’s Hit Dice + toxyderm’s Dexterity modifier). This explosion
-generally results in a milehigh mushroom cloud and a highly radioactive
+generally results in a mile-high mushroom cloud and a highly radioactive
 crater a quarter-mile across.
 
 | Stat              | Value                                                                                          |

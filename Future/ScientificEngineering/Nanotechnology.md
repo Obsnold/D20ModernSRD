@@ -15,7 +15,7 @@ substances to remove toxic metals from water.
 
 Current uses, though, only scratch the surface of nanotechnology’s
 potential. The possibilities are practically limitless. Imagine a
-computer processor with all the capabilities of today’s top-of-theline
+computer processor with all the capabilities of today’s top-of-the-line
 desktop models, but that is the size of a single bacterium—or a
 super-computer the size of a sugar cube. These are considered reasonable
 expectations for the future of nanotechnology.

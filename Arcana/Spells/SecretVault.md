@@ -23,13 +23,13 @@ anytime thereafter by concentrating (an attack or move action), and it
 appears next to you.
 
 To create the *secret vault*, you cast the spell while touching both the
-full-size container and a miniscule replica of it. The container and
+full-size container and a minuscule replica of it. The container and
 anything within it or touching it (subject to the volume limitation
 above) vanishes into an extradimensional space. You need the miniature
 replica to recall the container. After 60 days, the container reappears
 in your hand whether you wish it to or not.
 
 *Focus:* A briefcase, duffle bag, or similar container prepared with
-expensive and rare reagents, as well as a miniscule replica of it. The
+expensive and rare reagents, as well as a minuscule replica of it. The
 actual storage container and the miniature replica have a combined
 purchase DC of 25.

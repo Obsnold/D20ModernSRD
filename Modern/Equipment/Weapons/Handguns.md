@@ -34,7 +34,7 @@ Ranged weapons that use box magazines come with one full magazine.
 | Beretta 93R (9mm machine pistol)    | 2d6    | 20       | Ballistic   | 30 ft.          | S,A          | 20 box   | Med   | 3 lb.  | 18          | Res (+2)    |
 | Colt Double Eagle (10mm autoloader) | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 9 box    | Small | 3 lb.  | 16          | Lic (+1)    |
 | Colt M1911 (.45 autoloader)         | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 7 box    | Small | 3 lb.  | 15          | Lic (+1)    |
-| Colt Python¹(.357 revolver)         | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 6 cyl.   | Med   | 3 lb.  | 5           | Lic (+1)    |
+| Colt Python¹(.357 revolver)         | 2d6    | 20       | Ballistic   | 40 ft.          | S            | 6 cyl.   | Med   | 3 lb.  | 15          | Lic (+1)    |
 | Derringer (.45)                     | 2d6    | 20       | Ballistic   | 10 ft.          | Single       | 2 int.   | Tiny  | 1 lb.  | 14          | Lic (+1)    |
 | Desert Eagle (.50AE autoloader)     | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 8 box    | Med   | 4 lb.  | 18          | Lic (+1)    |
 | Glock 17¹ (9mm autoloader)          | 2d6    | 20       | Ballistic   | 30 ft.          | S            | 17 box   | Small | 2 lb.  | 18          | Lic (+1)    |

@@ -5,7 +5,7 @@
 | School           | Conjuration             |
 | Subschool        | Healing                 |
 | Level            | Acolyte 4               |
-| Components       | V, S. M                 |
+| Components       | V, S, M                 |
 | Casting Time     | 3 rounds                |
 | Range            | Touch                   |
 | Target           | Creature touched        |

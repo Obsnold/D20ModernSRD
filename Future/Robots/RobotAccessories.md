@@ -34,7 +34,7 @@ appropriate black market purchase DC modifier. Remember to apply this
 modifier to the purchase DC when making a Wealth check to acquire the
 armor on the black market.
 
-## Av Recorder (PL 5)
+## AV Recorder (PL 5)
 
 This audio and video recorder unit uses the robot’s video and audio
 sensors to record and store up to 8 hours of information.
@@ -43,7 +43,7 @@ sensors to record and store up to 8 hours of information.
 
 **Restriction:** None.
 
-## Av Transmitter (PL 5)
+## AV Transmitter (PL 5)
 
 A remote audio-visual unit consists of a video camera and microphone
 connected to the robot’s visual and audio sensors, with a transmitter to

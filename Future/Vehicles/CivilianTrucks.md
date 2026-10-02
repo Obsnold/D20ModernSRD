@@ -15,13 +15,13 @@ except as noted below. The operative skill for trucks is Drive.
 | **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
 | Zhang Motors XRL (SUV)            | 1    | 3    | L     | –2   | –1       | 245 (24)  | 8       | 5    | 40         | H    | 32          | Lic (+1)    |
 
-## Cretan Motors “hecaton” (PL 6)
+## Cretan Motors “Hecaton” (PL 6)
 
 The national automobile company of Crete came late to the industry, but
 has made impressive strides toward winning over truck buyers. The
 Hekatoncheires pickup truck—inaccurately referred to as the “Hecaton” by
 its target market—combines impressive power with high durability and
-generous cargo room in the bed. The sixwheel design includes
+generous cargo room in the bed. The six-wheel design includes
 puncture-resistant tires and is popular with construction companies. The
 cab can be sealed against harsh environments—ads show them driving into
 lakes and being pulled out with the interior dry as a bone and the
@@ -41,7 +41,7 @@ popular fusion minireactor. The Virgo minivan is a top seller, capable
 of high speeds yet comfortably easy to handle. It is 2 squares wide and
 3 squares long.
 
-## Zhang Motors Xrl (PL 7)
+## Zhang Motors XRL (PL 7)
 
 The XRL is designed to operate using a less expensive particle reactor,
 rather than the slightly more stable fusion minireactor. This gamble

@@ -91,9 +91,7 @@ to natural sunlight.
 | Cha               | 15                                                                          |
 
 **Skills:** Hide +12, Intimidate +11, Listen +13, Read/Write
-
 Language (up to any three), Search +9, Sense Motive +11,
-
 Speak Language (up to any three), Spot +13.
 
 **Feats:** Alertness, Blind-Fight, Combat Reflexes, Improved

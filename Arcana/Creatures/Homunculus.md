@@ -125,7 +125,7 @@ destroyed as well.
 | Dex               | 15                                                                   |
 | Con               | —                                                                    |
 | Int               | 10                                                                   |
-| Ability           | Wis12                                                                |
+| Wis               | 12                                                                   |
 | Cha               | 7                                                                    |
 
 **Skills:** Hide +10.
@@ -185,7 +185,7 @@ Dexterity bonus to Defense while connected to a device.
 | Dex               | 15                                                             |
 | Con               | —                                                              |
 | Int               | 10                                                             |
-| Ability           | Wis12                                                          |
+| Wis               | 12                                                             |
 | Cha               | 7                                                              |
 
 **Skills:** Hide +10.
@@ -243,7 +243,7 @@ homunculus has at least 1 hit point.
 | Dex               | 14                                                                                    |
 | Con               | —                                                                                     |
 | Int               | 10                                                                                    |
-| Ability           | Wis12                                                                                 |
+| Wis               | 12                                                                                    |
 | Cha               | 7                                                                                     |
 
 **Skills:** Hide +10.
@@ -308,7 +308,7 @@ attempt to repair itself or aid another’s attempts to repair it.
 | Dex               | 14                                                              |
 | Con               | —                                                               |
 | Int               | 10                                                              |
-| Ability           | Wis12                                                           |
+| Wis               | 12                                                              |
 | Cha               | 7                                                               |
 
 **Skills:** Disable Device +3, Hide +10, Listen +3,

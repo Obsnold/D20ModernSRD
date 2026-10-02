@@ -88,7 +88,7 @@ additional skill point per HD beyond 1 HD).
 ## Monstrous Spider Swarm
 
 **Vermin:** A monstrous spider swarm is immune to
-mindaffecting attacks.
+mind-affecting attacks.
 
 **Poison (Ex):** Bite—Fortitude save (DC 14); initial
 and secondary damage 1d4 Str.
@@ -175,8 +175,14 @@ color and detail under these conditions.
 | Fort              | +6                                            |
 | Ref               | +8                                            |
 | Will              | +2                                            |
-
-AP 0; Rep +0; Str 1, Dex 17, Con 12, Int 1, Wis 10, Cha 1.
+| AP                | 0                                             |
+| Rep               | +0                                            |
+| Str               | 1                                             |
+| Dex               | 17                                            |
+| Con               | 12                                            |
+| Int               | 1                                             |
+| Wis               | 10                                            |
+| Cha               | 1                                             |
 
 **Skills**: Hide +8, Spot +5.
 
@@ -298,7 +304,7 @@ light at all.
 
 **Undead:** Skeletal rat swarms are immune to poison,
 sleep, paralysis, stunning, disease, necromantic effects, and
-mindaffecting effects. They are not subject to critical hits, nonlethal
+mind-affecting effects. They are not subject to critical hits, nonlethal
 damage, ability damage, ability drain, energy drain, or effects of
 massive damage, or any effect requiring a Fortitude save unless the
 effect also works on objects or is harmless. They may be healed by
@@ -360,7 +366,7 @@ This cloud of mosquitos drains blood from its victims and also
 carries a deadly virus.
 
 **Vermin:** A West Nile mosquito swarm is immune to
-mindaffecting attacks.
+mind-affecting attacks.
 
 **Disease (Ex):** West Nile virus—bite. Fortitude save
 (DC 12) negates; incubation period 1d4 days; initial damage 1 Dex and 1

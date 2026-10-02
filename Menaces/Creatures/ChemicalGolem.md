@@ -68,19 +68,19 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 | CR                | 10                                                                                                   |
 | Size              | Large                                                                                                |
 | Type              | construct                                                                                            |
-| HD                | 9d10                                                                                                 |
-| hp                | 49                                                                                                   |
+| HD                | 9d10+20                                                                                              |
+| hp                | 69                                                                                                   |
 | Mas               | —                                                                                                    |
 | Init              | –1                                                                                                   |
 | Spd               | 20 ft (can’t run)                                                                                    |
-| Defense           | 20                                                                                                   |
+| Defense           | 18                                                                                                   |
 | Touch             | 8                                                                                                    |
 | Flat-Footed       | 19                                                                                                   |
 | Defense Breakdown | –1 size, –1 Dex, +10 natural                                                                         |
-| BAB               | +11                                                                                                  |
-| Grap              | +15                                                                                                  |
+| BAB               | +6                                                                                                   |
+| Grap              | +16                                                                                                  |
 | Atk               | +11 melee (2d8+6, slam)                                                                              |
-| Full Atk          | +11 melee (2d8+6, 2 slams) or +10 ranged                                                             |
+| Full Atk          | +11 melee (2d8+6, 2 slams) or +4 ranged                                                              |
 | FS                | 5 ft. by 5 ft.                                                                                       |
 | Reach             | 10 ft.                                                                                               |
 | SQ                | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |
@@ -110,19 +110,19 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 | CR                | 13                                                                                                   |
 | Size              | Huge                                                                                                 |
 | Type              | construct                                                                                            |
-| HD                | 19d10                                                                                                |
-| hp                | 104                                                                                                  |
+| HD                | 19d10+40                                                                                             |
+| hp                | 144                                                                                                  |
 | Mas               | —                                                                                                    |
 | Init              | –2                                                                                                   |
 | Spd               | 20 ft (can’t run)                                                                                    |
-| Defense           | 23                                                                                                   |
-| Touch             | 8                                                                                                    |
-| Flat-Footed       | 18                                                                                                   |
+| Defense           | 19                                                                                                   |
+| Touch             | 6                                                                                                    |
+| Flat-Footed       | 21                                                                                                   |
 | Defense Breakdown | –2 size, –2 Dex, +13 natural                                                                         |
-| BAB               | +11                                                                                                  |
-| Grap              | +15                                                                                                  |
-| Atk               | +11 melee (2d8+6, slam)                                                                              |
-| Full Atk          | +11 melee (2d8+6, 2 slams) or +10 ranged                                                             |
+| BAB               | +14                                                                                                  |
+| Grap              | +32                                                                                                  |
+| Atk               | +22 melee (3d8+10, slam)                                                                             |
+| Full Atk          | +22 melee (3d8+10, 2 slams) or +10 ranged                                                            |
 | FS                | 5 ft. by 5 ft.                                                                                       |
 | Reach             | 10 ft.                                                                                               |
 | SQ                | berserk, breath weapon, chemical healing, construct, damage reduction 15/+1, magic immunity, rupture |

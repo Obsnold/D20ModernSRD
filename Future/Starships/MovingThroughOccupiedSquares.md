@@ -4,7 +4,7 @@ A starship can pass through a square occupied by another starship or
 object.
 
 **Ally or Nonopposing Starship:** You can safely move through a square
-occupied by an ally or nonopposing starshi p.
+occupied by an ally or nonopposing starship.
 
 **Enemy Starship:** Moving through a square occupied by an enemy
 provokes an attack of opportunity if the enemy has a point-defense

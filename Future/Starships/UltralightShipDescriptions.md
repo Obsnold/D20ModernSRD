@@ -155,11 +155,8 @@ point-defense system, radiation shielding, sensor jammer
 **Communications:** Laser transceiver, radio transceiver
 
 **Weapons:** 2 fire-linked heavy neutron guns (range incr. 6,000 ft.),
-
 2 fire-linked rail cannons (range incr. 3,000 ft.), 1 CHE missile
-launcher
-
-(8 missiles)
+launcher (8 missiles)
 
 **Grappling Systems:** Grapplers
 

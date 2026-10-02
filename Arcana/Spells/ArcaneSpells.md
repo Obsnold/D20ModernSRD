@@ -210,7 +210,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [***Slow.***](../../Modern/FX/Spells/Slow.md) One subject/level may only move or attack; –2 to Defense, –2 on melee attack and damage rolls, –2 on Reflex saves.
 
-- [**Summon Vivilor III.**](SummonVivilorIII.md) Summons a 3rd-level vivilor, 1d3 2ndlevel vivilors, or 1d4+1 1st-level vivilors to fight for you.
+- [**Summon Vivilor III.**](SummonVivilorIII.md) Summons a 3rd-level vivilor, 1d3 2nd-level vivilors, or 1d4+1 1st-level vivilors to fight for you.
 
 - [***Tongues.***](../../Modern/FX/Spells/Tongues.md) Speak any language.
 
@@ -244,7 +244,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [**Magic Bullets.**](MagicBullets.md) Enchants bullets with the power to knock out or panic targets.
 
-- [***Minor Globe of Invulnerability.***](../../Modern/FX/Spells/MinorGlobeOfInvulnerability.md) Stops 1st- through 3rdlevel spell effects.
+- [***Minor Globe of Invulnerability.***](../../Modern/FX/Spells/MinorGlobeOfInvulnerability.md) Stops 1st- through 3rd-level spell effects.
 
 - [**Phantasmal Killer.**](PhantasmalKiller.md) Fearsome illusion kills subject or deals 3d6 points of damage.
 
@@ -256,7 +256,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [***Stoneskin.***](../../Modern/FX/Spells/Stoneskin.md) Stops blows, cuts, stabs, and slashes.
 
-- [**Summon Vivilor IV.**](SummonVivilorIV.md) Summons a 4th-level vivilor, 1d3 3rdlevel vivilors, or 1d4+1 2nd-level vivilors to fight for you.
+- [**Summon Vivilor IV.**](SummonVivilorIV.md) Summons a 4th-level vivilor, 1d3 3rd-level vivilors, or 1d4+1 2nd-level vivilors to fight for you.
 
 - [**Via Negativa.**](ViaNegativa.md) Crackling energy deals 4d6 points of damage per round to grappled foe; +5 bonus to grapple checks.
 
@@ -288,7 +288,7 @@ after 72 hours have elapsed, the body of the message will be blank.
 
 - [**Seeming.**](Seeming.md) Changes the appearance of one creature per two levels.
 
-- [**Summon Vivilor V.**](SummonVivilorV.md) Summons a 5th-level vivilor, 1d3 4thlevel vivilors, or 1d4+1 3rd-level vivilors to fight for you.
+- [**Summon Vivilor V.**](SummonVivilorV.md) Summons a 5th-level vivilor, 1d3 4th-level vivilors, or 1d4+1 3rd-level vivilors to fight for you.
 
 - [**Synchronicity.**](Synchronicity.md) Subject isn’t delayed by the inconveniences of modern life.
 

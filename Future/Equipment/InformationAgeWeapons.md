@@ -97,10 +97,10 @@ the user.
 
 **Table: Progress Level 5 Explosives And Splash Weapons**
 
-| Weapon               | Damage                      | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight | Purchase DC | Restriction |
-| -------------------- | --------------------------- | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------ | ----------- | ----------- |
-| Grenade, shrapnel    | 5d6                         | —        | Slashing    | 20 ft.          | 15           | 10 ft.   | Tiny | 1 lb.  | 18          | Mil (+3)    |
-| Grenade, sonic pulse | 3d6 nonlethal plus special¹ | —        | Sonic       | 15 ft.          | 12           | 10 ft.   | Tiny | 1 lb.  | 15          | Res (+2)    |
+| Weapon               | Damage                      | Critical | Damage Type | Burst Radius | Reflex DC | Range Increment | Size | Weight | Purchase DC | Restriction |
+| -------------------- | --------------------------- | -------- | ----------- | ------------ | --------- | --------------- | ---- | ------ | ----------- | ----------- |
+| Grenade, shrapnel    | 5d6                         | —        | Slashing    | 20 ft.       | 15        | 10 ft.          | Tiny | 1 lb.  | 18          | Mil (+3)    |
+| Grenade, sonic pulse | 3d6 nonlethal plus special¹ | —        | Sonic       | 15 ft.       | 12        | 10 ft.          | Tiny | 1 lb.  | 15          | Res (+2)    |
 
 ¹ See the weapon description for details.
 

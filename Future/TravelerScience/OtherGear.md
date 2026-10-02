@@ -1,7 +1,7 @@
 # Other Gear
 
 In addition to dimension generators, most dimensional travelers at
-Progress Level 8 and beyond carry dimensional transceivers, which
+Progress Level 8 and beyond carry dimensional transceivers.
 
 ## Dimensional Transceiver (PL 8)
 

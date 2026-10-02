@@ -196,7 +196,7 @@ and they can create a variety of enchanting effects on listeners with a
 carefully crafted song. When a faun infuses its song with its fey power,
 all creatures within a 60-foot spread of the satyr (except other sidhe)
 must succeed at a Will save (DC 13) or be affected by
-*attraction*, as the power manifest by a 10thlevel
+*attraction*, as the power manifest by a 10th-level
 Telepath. Once per day, the faun can use his music to instead create a
 *lesser domination* effect (Will save, DC 15,
 negates) or *mental blast* effect (Will save, DC
@@ -215,38 +215,38 @@ points of cold damage dealt by any single attack.
 **Skill Bonuses:** Fauns gain a +4 species bonus on
 Hide, Listen, Move Silently, Perform, and Spot checks.
 
-| Stat              | Value                                                                                                   |
-| ----------------- | ------------------------------------------------------------------------------------------------------- |
-| CR                | 4                                                                                                       |
-| Size/Type         | Medium fey                                                                                              |
-| HD                | 5d6                                                                                                     |
-| hp                | 17                                                                                                      |
-| Mas               | 11                                                                                                      |
-| Init              | +2                                                                                                      |
-| Spd               | 30 ft.                                                                                                  |
-| Defense           | 14                                                                                                      |
-| Touch             | 12                                                                                                      |
-| Flat-Footed       | 12                                                                                                      |
-| Defense Breakdown | +2 Dex, +2 natural                                                                                      |
-| BAB               | +2                                                                                                      |
-| Grap              | +2                                                                                                      |
-| Atk               | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                |
-| Full Atk          | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                |
-| FS                | 5 ft. by 5 ft.                                                                                          |
-| Reach             | 5 ft.                                                                                                   |
-| SA                | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, lowlight vision |
-| AL                | chaos                                                                                                   |
-| Fort              | +3                                                                                                      |
-| Ref               | +3                                                                                                      |
-| Will              | +3                                                                                                      |
-| AP                | 0                                                                                                       |
-| Rep               | +0                                                                                                      |
-| Str               | 10                                                                                                      |
-| Dex               | 15                                                                                                      |
-| Con               | 11                                                                                                      |
-| Int               | 10                                                                                                      |
-| Wis               | 9                                                                                                       |
-| Cha               | 14                                                                                                      |
+| Stat              | Value                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| CR                | 4                                                                                                        |
+| Size/Type         | Medium fey                                                                                               |
+| HD                | 5d6                                                                                                      |
+| hp                | 17                                                                                                       |
+| Mas               | 11                                                                                                       |
+| Init              | +2                                                                                                       |
+| Spd               | 30 ft.                                                                                                   |
+| Defense           | 14                                                                                                       |
+| Touch             | 12                                                                                                       |
+| Flat-Footed       | 12                                                                                                       |
+| Defense Breakdown | +2 Dex, +2 natural                                                                                       |
+| BAB               | +2                                                                                                       |
+| Grap              | +2                                                                                                       |
+| Atk               | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                 |
+| Full Atk          | +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged (2d6, Colt Python)                 |
+| FS                | 5 ft. by 5 ft.                                                                                           |
+| Reach             | 5 ft.                                                                                                    |
+| SA                | enchanting music, *change self*, cold resistance 10, damage reduction 5/+1, immunities, low-light vision |
+| AL                | chaos                                                                                                    |
+| Fort              | +3                                                                                                       |
+| Ref               | +3                                                                                                       |
+| Will              | +3                                                                                                       |
+| AP                | 0                                                                                                        |
+| Rep               | +0                                                                                                       |
+| Str               | 10                                                                                                       |
+| Dex               | 15                                                                                                       |
+| Con               | 11                                                                                                       |
+| Int               | 10                                                                                                       |
+| Wis               | 9                                                                                                        |
+| Cha               | 14                                                                                                       |
 
 **Skills:** Bluff +10, Disguise +12, Hide +14, Listen
 +3, Move Silently +12, Perform (sing) +14, Perform (any one) +14, Spot

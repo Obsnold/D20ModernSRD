@@ -25,7 +25,7 @@ their occupants. The operative skill for cars is Drive.
 | **Progress Level 8: Energy Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
 | SKG Metropolitan                  | 1    | 7    | L     | –2   | –2       | 215 (21)  | 6       | 6    | 41         | G    | 42          | Lic (+1)    |
 
-## Automac Taxi (PL 6)
+## AutoMac Taxi (PL 6)
 
 The AutoMac is a computer-driven taxi equipped with a driver autocomp
 (see Vehicle Gear). It features two facing bench seats with room for six
@@ -57,7 +57,7 @@ rear door and plenty of cargo space. It uses the popular hybrid
 gas/electrical engine developed in PL 5. It is 2 squares wide and 3
 squares long.
 
-## Skg Lamplighter (PL 6)
+## SKG Lamplighter (PL 6)
 
 The Lamplighter four-door economy sedan offers comfort and performance
 for a reasonable price. Slower than most civilian automobiles, the
@@ -77,7 +77,7 @@ The Hlidskjalf sedan is widely recognized as the finest four-door luxury
 sedan in production during its age. The Hlidskjalf is 2 squares wide and
 3 squares long.
 
-## Tm Willow (PL 7)
+## TM Willow (PL 7)
 
 This mid-size, two-door sedan from Toner Motors is a common car model.
 It has improved air filters to keep out the kind of dust found in the
@@ -85,7 +85,7 @@ environments of other planets. They are less popular on Earth, except
 when they are adapted to desert driving. The Willow is 2 squares wide
 and 3 squares long.
 
-## Skg Metropolitan (PL 8)
+## SKG Metropolitan (PL 8)
 
 The Metropolitan is the ultimate in chauffeured luxury. Powered by a
 particle reactor, it is loaded with every available luxury feature. A

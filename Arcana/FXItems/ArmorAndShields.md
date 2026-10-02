@@ -9,10 +9,12 @@ In addition, the wearer gains the benefits of a continuous *protection
 from arrows/bullets* spell (damage reduction 5/+1 against arrows,
 bullets, and crossbow bolts).
 
-**Type:** Armor (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 22\
-**Weight:** 1 lb.
+| Stat         | Value         |
+| ------------ | ------------- |
+| Type         | Armor (magic) |
+| Caster Level | 3rd           |
+| Purchase DC  | 22            |
+| Weight       | 1 lb.         |
 
 ## Riot Shield of Fear
 
@@ -21,10 +23,12 @@ provides an enhancement bonus to Defense (+1 to +3). At its wielder’s
 command, the shield can also cast *cause fear* three times per day as a
 3rd-level Acolyte.
 
-**Type:** Armor (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 26 (+1), 31 (+2), 36 (+3)\
-**Weight:** 6 lb.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Armor (magic)             |
+| Caster Level | 3rd                       |
+| Purchase DC  | 26 (+1), 31 (+2), 36 (+3) |
+| Weight       | 6 lb.                     |
 
 ## Scalemail of the Dragon
 
@@ -34,10 +38,12 @@ armor has an arcane spell failure chance of 10%, a maximum Dexterity
 bonus of +6, and no armor penalty. Speed while wearing *scalemail of the
 dragon* is 30 feet for Medium creatures and 20 feet for Small creatures.
 
-**Type:** Armor (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 33 (+1), 38 (+2), 43 (+3)\
-**Weight:** 15 lb.
+| Stat         | Value                     |
+| ------------ | ------------------------- |
+| Type         | Armor (magic)             |
+| Caster Level | 7th                       |
+| Purchase DC  | 33 (+1), 38 (+2), 43 (+3) |
+| Weight       | 15 lb.                    |
 
 ## Magic Armor and Shield Special Abilities
 

@@ -17,8 +17,9 @@ time they attain a new level in this class.
 ## Class Skills
 
 The Smart hero’s class skills (and the key ability for
-each skill) are: Computer Use (Int)
+each skill) are:
 
+- Computer Use (Int)
 - Craft (chemical) (Int)
 - Craft (electronic) (Int)
 - Craft (mechanical) (Int)

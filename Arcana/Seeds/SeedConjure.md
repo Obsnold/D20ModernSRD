@@ -14,7 +14,7 @@
 You create a nonmagical, unattended object of up to 20 cubic feet. You
 must succeed at an appropriate skill check to make a complex item, such
 as a Craft (mechanical) check to make a motorcycle. The object can be
-composed of any organic or manufactured subtance (or combination of
+composed of any organic or manufactured substance (or combination of
 substances) with a hardness of 10 or less. For each additional cubic
 foot of matter created, increase the Knowledge (arcane lore) DC by +2.
 

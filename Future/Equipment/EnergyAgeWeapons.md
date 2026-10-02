@@ -13,7 +13,7 @@ terms, phasing bullets negate the benefits of cover.
 
 The beam sword is the Energy Age’s most potent melee weapon. A small
 metal handle generates a solid beam of plasma contained by a
-gravity-induced force field
+gravity-induced force field.
 
 ## Cryonic Rifle
 

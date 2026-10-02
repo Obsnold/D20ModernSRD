@@ -6,7 +6,7 @@
 | Subschool        | Summoning                                                       |
 | Level            | Divine 3                                                        |
 | Components       | V, S, DF                                                        |
-| Casting Time     | Fullround action                                                |
+| Casting Time     | Full-round action                                               |
 | Range            | Long (400 ft. + 40 ft./level)                                   |
 | Effect           | 5- ft.-high cloud of shadowmoths filling a 10-ft.-radius spread |
 | Duration         | 1 minute/level                                                  |

@@ -13,7 +13,7 @@
 | Spell Resistance | Yes (harmless, object)                                                             |
 
 You enhance up to 50 individual bullets of the same caliber or a single
-magazine of up to 50 rounds with the power of a 1stlevel spell you
+magazine of up to 50 rounds with the power of a 1st-level spell you
 already know. The bullets must be fired from a gun for the subsidiary
 magical effects to take hold. The related spells you must know to create
 *magic bullets* of a particular type are listed below.
@@ -31,5 +31,5 @@ discretion.
 | -------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Curing bullet (divine)     | *Cure light wounds*    | Bullet deals no damage and instead cures 1d8+5 points of damage.                                                                                                         |
 | Inflicting bullet (divine) | *Inflict light wounds* | Creature damaged by pain bullet must succeed at a Will save (DC 14) or take an additional 1d8+5 points of damage.                                                        |
-| Knock-out bullet (arcane)  | *Sleep*                | Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immne to this effect.    |
+| Knock-out bullet (arcane)  | *Sleep*                | Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immune to this effect.   |
 | Panic bullet (arcane)      | *Cause fear*           | Creature damaged by terror bullet must succeed at a Will save (DC 14) or be panicked (–2 morale penalty on attack rolls, weapon damage rolls, and saves) for 1d4 rounds. |

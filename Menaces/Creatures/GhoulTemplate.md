@@ -37,7 +37,7 @@ base creature and gains the additional special qualities described
 below.
 
 *Create Spawn (Su)*: If a ghoul’s prey contracts advanced necrotizing
-faciitis (see below) from the wounds it has sustained and dies from the
+fasciitis (see below) from the wounds it has sustained and dies from the
 disease, it rises 1d3 days later as a ghoul. A *remove disease* spell
 cast on the corpse can prevent it from rising.
 
@@ -46,7 +46,7 @@ version of streptococcal gangrene (injury; Fort DC 14; incubation period
 1d3 days; initial damage 1d3 Con; secondary damage 1d3 Con. If Con
 damage is sustained, a second saving throw at the same DC is required;
 failure indicates that 1 point of the Con damage becomes Con drain
-instead). This disease, known as advanced necrotizing faciitis, first
+instead). This disease, known as advanced necrotizing fasciitis, first
 manifests as an area of redness on the skin near the wound. Over the
 course of a few days, the redness becomes severe inflammation. The skin
 gradually turns dark purple and forms bloody blisters as the disease

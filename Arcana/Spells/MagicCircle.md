@@ -1,15 +1,16 @@
 # Magic Circle
 
-| Stat         | Value      |
-| ------------ | ---------- |
-| School       | Abjuration |
-| Level        | Divine 3   |
-| Components   | V, S, DF   |
-| Casting Time |            |
-
-Attack action; **Range:** Touch; **Area:** 10-ft.-radius emanation from
-touched creature; **Duration:** 10 minutes/level; **Saving Throw:** Will
-negates (harmless); **Spell Resistance:** No (see text)
+| Stat             | Value                                         |
+| ---------------- | --------------------------------------------- |
+| School           | Abjuration                                    |
+| Level            | Divine 3                                      |
+| Components       | V, S, DF                                      |
+| Casting Time     | Attack action                                 |
+| Range            | Touch                                         |
+| Area             | 10-ft.-radius emanation from touched creature |
+| Duration         | 10 minutes/level                              |
+| Saving Throw     | Will negates (harmless)                       |
+| Spell Resistance | No (see text)                                 |
 
 This spell wards an area from attacks by creatures of a specific
 allegiance (chosen when the spell is cast), from mental control, and

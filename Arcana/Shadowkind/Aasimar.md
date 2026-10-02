@@ -18,7 +18,7 @@ aasimars can function with no light at all.
 resistance 5.
 
 **Spell-Like Abilities**: Aasimars can use the *light* spell once per
-day, as cast by an Acolyte of the assimar’s character level.
+day, as cast by an Acolyte of the aasimar’s character level.
 
 **Allegiance:** Aasimars must begin play with an allegiance to good.
 

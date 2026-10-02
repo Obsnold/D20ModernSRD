@@ -10,7 +10,7 @@ overdrive, and can cause the character to heal from grievous wounds at a
 greatly increased rate. Any character injected with biocort heals at
 twice the normal rate for a 24-hour period.
 
-## Galpos Device
+## GalPos Device
 
 The GalPos device is the Gravity Age equivalent of the GPS system of the
 modern era. Equipped with star charts and a link to the galactic

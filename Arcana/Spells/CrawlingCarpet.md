@@ -6,7 +6,7 @@
 | Subschool        | Summoning                                                                                 |
 | Level            | Divine 4                                                                                  |
 | Components       | V, S, DF                                                                                  |
-| Casting Time     | Fullround action                                                                          |
+| Casting Time     | Full-round action                                                                         |
 | Range            | Long (400 ft. + 40 ft./level)                                                             |
 | Effect           | Carpet of monstrous spiders, scarab beetles, or centipedes filling a 10-ft.-radius spread |
 | Duration         | 1 minute/level                                                                            |

@@ -48,9 +48,8 @@ period of a few hours or days.
 **Skills:** Bluff +5, Computer Use +4, Diplomacy +5, Disable Device +4,
 Disguise +5, Drive +4, Gather Information +5, Hide +4, Knowledge
 (current events) +4, Listen +6, Move Silently +4, Repair +4, Search +2,
-Sense Motive +4, Sleight of Hand
-
-+4, Spot +6, Survival +4.
+Sense Motive +4, Sleight of Hand +4,
+Spot +6, Survival +4.
 
 **Feats:** Personal Firearms Proficiency.
 

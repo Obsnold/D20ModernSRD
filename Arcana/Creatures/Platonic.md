@@ -37,7 +37,7 @@ cannot be affected again by that platonic’s aura for one day.
 curse, change self, detect magic, dispel magic, fear, status,
 telekinesis, teleport.* In addition, platonics generally have
 four additional spell-like abilities (each usable at will) chosen from
-the spell lists and three spelllike abilities
+the spell lists and three spell-like abilities
 (each usable once per day) chosen from among the incantations. These
 seven spell-like abilities relate to the platonic’s cause in some way,
 and they tend to be split evenly between offense, defense, and utility

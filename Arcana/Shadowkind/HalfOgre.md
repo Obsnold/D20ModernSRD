@@ -20,7 +20,7 @@ natural armor bonus to Defense.
 **Low-Light Vision:** Half-ogres can see twice as far as a human in
 starlight, moonlight, torchlight, and similar conditions of poor
 illumination. They retain the ability to distinguish color and detail
-under these conditions
+under these conditions.
 
 **Bonus Feat:** Half-ogres gain the bonus feat Simple Weapons
 Proficiency.

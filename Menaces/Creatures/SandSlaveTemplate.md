@@ -11,12 +11,12 @@ biology has been significantly altered, and portions of its DNA have
 been replaced. X-rays reveal the presence of hair-thin wires running
 throughout the sand slave’s body and silicon structures that support
 bones and joints. Microscopic examination of the creature’s blood
-reveals tiny nannites—microscopic machines—busily altering their host’s
+reveals tiny nanites—microscopic machines—busily altering their host’s
 body structure, and brain scans reveal more bioelectric activity than
 normal.
 
 Sand slaves retain the knowledge, skills, and personalities they had
-before succumbing to the nannites, but their allegiances change. Now
+before succumbing to the nanites, but their allegiances change. Now
 totally loyal to the etoile, sand slaves only feign loyalty to those
 they once knew and loved, using the trust of such people to their own
 advantage.
@@ -57,7 +57,7 @@ damage from a critical hit.
 
 *Fugue (Ex):* Once per day as a free action, a sand slave may attempt a
 Constitution check (DC 20). Success indicates that the sand slave has
-forced its nannites into hyperproductivity, thereby gaining an extra
+forced its nanites into hyperproductivity, thereby gaining an extra
 attack or move action each round for 1d8+2 rounds.
 
 *Hot Running (Ex):* Once per day as a free action, a sand slave can make
@@ -67,7 +67,7 @@ sand slave has sustained and reduces fatigue or exhaustion as if the
 sand slave had rested for a full day.
 
 *Immunities (Ex):* The sand slave is immune to disease and poison. The
-nannites in its body fight off all diseases, including other nannite
+nanites in its body fight off all diseases, including other nanite
 infections, and break down all poisons before they can take effect.
 
 *Network Mind (Ex):* A sand slave is automatically aware of the position
@@ -125,39 +125,39 @@ Str +2, Dex +2.
 
 ## Sand Slave Terrorist (Human Tough Ordinary 3/Smart Ordinary 3)
 
-| Stat              | Value                                                                                                                                                                              |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CR                | 7                                                                                                                                                                                  |
-| Size              | Medium-size                                                                                                                                                                        |
-| Type              | humanoid                                                                                                                                                                           |
-| HD                | 3d10+6 plus 3d6+6                                                                                                                                                                  |
-| hp                | 39                                                                                                                                                                                 |
-| Mas               | 18                                                                                                                                                                                 |
-| Init              | +2                                                                                                                                                                                 |
-| Spd               | 40 ft.                                                                                                                                                                             |
-| Defense           | 17                                                                                                                                                                                 |
-| Touch             | 15                                                                                                                                                                                 |
-| Flat-Footed       | 15                                                                                                                                                                                 |
-| Defense Breakdown | +2 Dex, +3 class, +2 light undercover shirt                                                                                                                                        |
-| BAB               | +3                                                                                                                                                                                 |
-| Grap              | +5                                                                                                                                                                                 |
-| Atk               | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10)                                                                     |
-| Full Atk          | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10)                                                                     |
-| FS                | 5 ft. by 5 ft.                                                                                                                                                                     |
-| Reach             | 5 ft.                                                                                                                                                                              |
-| SQ                | darkvision 60 ft., electricity resistance 20, fast ability healing 1, fast healing 3, fortification, fugue, hot running, immunities, network mind, selfdestruct, stasis, telepathy |
-| AL                | etoile                                                                                                                                                                             |
-| Fort              | +5                                                                                                                                                                                 |
-| Ref               | +4                                                                                                                                                                                 |
-| Will              | +3                                                                                                                                                                                 |
-| AP                | 3                                                                                                                                                                                  |
-| Rep               | +2                                                                                                                                                                                 |
-| Str               | 14                                                                                                                                                                                 |
-| Dex               | 15                                                                                                                                                                                 |
-| Con               | 15                                                                                                                                                                                 |
-| Int               | 15                                                                                                                                                                                 |
-| Wis               | 10                                                                                                                                                                                 |
-| Cha               | 8                                                                                                                                                                                  |
+| Stat              | Value                                                                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CR                | 7                                                                                                                                                                                   |
+| Size              | Medium-size                                                                                                                                                                         |
+| Type              | humanoid                                                                                                                                                                            |
+| HD                | 3d10+6 plus 3d6+6                                                                                                                                                                   |
+| hp                | 39                                                                                                                                                                                  |
+| Mas               | 18                                                                                                                                                                                  |
+| Init              | +2                                                                                                                                                                                  |
+| Spd               | 40 ft.                                                                                                                                                                              |
+| Defense           | 17                                                                                                                                                                                  |
+| Touch             | 15                                                                                                                                                                                  |
+| Flat-Footed       | 15                                                                                                                                                                                  |
+| Defense Breakdown | +2 Dex, +3 class, +2 light undercover shirt                                                                                                                                         |
+| BAB               | +3                                                                                                                                                                                  |
+| Grap              | +5                                                                                                                                                                                  |
+| Atk               | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10)                                                                      |
+| Full Atk          | +5 melee (1d3+2 nonlethal, unarmed strike) or +5 melee (1d4+2, pistol whip) or +5 ranged (2d6, MAC Ingram M10)                                                                      |
+| FS                | 5 ft. by 5 ft.                                                                                                                                                                      |
+| Reach             | 5 ft.                                                                                                                                                                               |
+| SQ                | darkvision 60 ft., electricity resistance 20, fast ability healing 1, fast healing 3, fortification, fugue, hot running, immunities, network mind, self-destruct, stasis, telepathy |
+| AL                | etoile                                                                                                                                                                              |
+| Fort              | +5                                                                                                                                                                                  |
+| Ref               | +4                                                                                                                                                                                  |
+| Will              | +3                                                                                                                                                                                  |
+| AP                | 3                                                                                                                                                                                   |
+| Rep               | +2                                                                                                                                                                                  |
+| Str               | 14                                                                                                                                                                                  |
+| Dex               | 15                                                                                                                                                                                  |
+| Con               | 15                                                                                                                                                                                  |
+| Int               | 15                                                                                                                                                                                  |
+| Wis               | 10                                                                                                                                                                                  |
+| Cha               | 8                                                                                                                                                                                   |
 
 **Occupation:** Military (class skills: Navigate, Pilot).
 

@@ -12,10 +12,12 @@ janitors, that are favored by corporate spies. Four times per day, the
 wearer can use the suit to trigger a *gaseous form* spell, allowing him
 to travel through a building’s air ducts.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 32\
-**Weight:** 2 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 32                    |
+| Weight       | 2 lb.                 |
 
 ## Animated Tools
 
@@ -34,10 +36,12 @@ tools* act as though they have 10 ranks in the Repair skill (Repair
 +10). The *animated tools* have a hardness of 10 and 10 hit points
 (total). They cannot be commanded to attack.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 9th\
-**Purchase DC:** 34\
-**Weight:** 12 lb. (electronic) or 22 lb.(mechanical).
+| Stat         | Value                                      |
+| ------------ | ------------------------------------------ |
+| Type         | Wondrous Item (magic)                      |
+| Caster Level | 9th                                        |
+| Purchase DC  | 34                                         |
+| Weight       | 12 lb. (electronic) or 22 lb.(mechanical). |
 
 ## ARCANOBOTS Action Figure
 
@@ -70,10 +74,12 @@ Reach 0 ft.; SQ darkvision 60 ft., construct immunities; AL creator or
 owner; SV Fort +0, Ref +3, Will –5; AP 0; Rep +0; Str 3, Dex 16, Con —,
 Int —, Wis 1, Cha 1.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 10th\
-**Purchase DC:** 5 (does not include magic batteries)\
-**Weight:** 1 lb.
+| Stat         | Value                                |
+| ------------ | ------------------------------------ |
+| Type         | Wondrous Item (magic)                |
+| Caster Level | 10th                                 |
+| Purchase DC  | 5 (does not include magic batteries) |
+| Weight       | 1 lb.                                |
 
 ## Backpack of Holding
 
@@ -101,10 +107,12 @@ suffocate. Retrieving a specific item from a *backpack of holding* is a
 move action unless the bag contains more than an ordinary backpack would
 hold, in which case retrieving a specific item is a full-round action.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 9th\
-**Purchase DC:** Varies\
-**Weight:** Varies.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 9th                   |
+| Purchase DC  | Varies                |
+| Weight       | Varies.               |
 
 ## Bad Hair Day Clip
 
@@ -116,10 +124,12 @@ carved into the grip. This cursed item contains a version of the
 Charisma-based skill checks. Removing the hair clip requires a *remove
 curse* or *break enchantment* spell.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 11th¹\
-**Purchase DC:** 39 (often sold as a mundane hair clip, purchase DC 1)\
-**Weight:** —.
+| Stat         | Value                                                 |
+| ------------ | ----------------------------------------------------- |
+| Type         | Wondrous Item (magic)                                 |
+| Caster Level | 11th¹                                                 |
+| Purchase DC  | 39 (often sold as a mundane hair clip, purchase DC 1) |
+| Weight       | —.                                                    |
 
 ¹ *See the Incantation-Based FX Items sidebar.*
 
@@ -138,10 +148,12 @@ and they possess a horrific, mind-bending quality such that people look
 gaunt and haunted, objects are twisted in a sinister way, and shadows
 seem darker and menacing.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 10th\
-**Purchase DC:** 37\
-**Weight:** 5 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 10th                  |
+| Purchase DC  | 37                    |
+| Weight       | 5 lb.                 |
 
 ## Demonic Biker’s Jacket
 
@@ -155,10 +167,12 @@ without provoking attacks of opportunity. The wearer deals 1d6 points of
 lethal damage (plus Strength modifier, if any) with each successful
 unarmed strike.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 35\
-**Weight:** 4 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 35                    |
+| Weight       | 4 lb.                 |
 
 ## Driving Ace Gloves
 
@@ -167,10 +181,12 @@ Drive checks while operating a land vehicle (no benefit for boats,
 planes, or helicopters). Both gloves must be worn for the magic to be
 effective.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 33\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | —.                    |
 
 ## Eagle Eye Sunglasses
 
@@ -178,10 +194,12 @@ These stylish sunglasses grant superior vision as well as protecting the
 wearer’s eyes from bright lights and UV rays. The sunglasses grant a +5
 equipment bonus on Spot checks made in brightly lit locations.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | —.                    |
 
 ## Eldritch Cell Phone
 
@@ -199,10 +217,12 @@ cellular interceptor or other hardware) hears only gibberish.
 The *eldritch cell phone* has a built-in caller ID defeater and cannot
 be traced by mundane technology.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 32\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 32                    |
+| Weight       | —.                    |
 
 ## Fabric of Style
 
@@ -215,10 +235,12 @@ can be changed, but the *fabric of style* must be removed and donned
 again, requiring a full-round action. If any part of the outfit is
 removed, the *fabric of style* turns back into the bolt of cloth.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 36\
-**Weight:** 3 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 36                    |
+| Weight       | 3 lb.                 |
 
 ## Fuel Tablets
 
@@ -228,10 +250,12 @@ fuel, or propane) when dropped into the fuel tank of a vehicle or other
 machine. The fuel completely fills the tank, but is otherwise like
 regular fuel and is destroyed once used.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 29 (per bottle)\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 29 (per bottle)       |
+| Weight       | —.                    |
 
 ## Glasses of Minute Seeing
 
@@ -239,10 +263,12 @@ These normal looking glasses have specially crafted lenses. When worn,
 they grant the wearer a +5 equipment bonus on Search checks to locate or
 identify features such as tiny seams, marks, cracks, or imperfections.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | —.                    |
 
 ## Haz-Mat Gloves
 
@@ -250,10 +276,12 @@ These elbow-length, optic yellow gloves are made of coarse, stiff
 material. The wearer gains acid, cold, and fire resistance 10 so long as
 both gloves are worn.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 35\
-**Weight:** 5 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 35                    |
+| Weight       | 5 lb.                 |
 
 ## Hidden Holster
 
@@ -261,10 +289,12 @@ This concealed carry holster can hold any handgun and grants a +5
 circumstance bonus on Sleight of Hand checks to conceal the weapon. The
 bonus applies to physical searches as well as casual inspection.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 33\
-**Weight:** 0.5 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | 0.5 lb.               |
 
 ## Instant Ice Box
 
@@ -291,10 +321,12 @@ temperature used for storing freeze-dried medical supplies.
 An *instant ice box* drained of all charges functions as an ordinary
 cooler.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 33\
-**Weight:** 5 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 33                    |
+| Weight       | 5 lb.                 |
 
 ## Invisifinder Goggles
 
@@ -303,10 +335,12 @@ other occult symbols. In addition to the benefits of regular
 night-vision goggles, they also allow the wearer to *see invisibility*
 as the spell.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** 3 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | 3 lb.                 |
 
 ## Lucky Deck
 
@@ -316,10 +350,12 @@ grants its owner a +5 luck bonus on Gamble checks involving card games
 (such as poker or single-deck blackjack). To become the owner, a person
 must keep the deck on his or her person for 24 continuous hours.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | —.                    |
 
 ## Lucky Dice
 
@@ -328,10 +364,12 @@ Gamble checks when used for any dice games (such as craps). Because they
 work for anyone who uses them, the user typically palms them between
 throws to avoid suspicion (requiring a separate Sleight of Hand check).
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | —.                    |
 
 ## Lucky Suit
 
@@ -342,10 +380,12 @@ actually conceal or displace the wearer, but helps the wearer avoid
 range attacks that might normally hit. The concealment doesn’t apply to
 melee attacks. The wearer also gains a +2 luck bonus on Reflex saves.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 38\
-**Weight:** 3 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 38                    |
+| Weight       | 3 lb.                 |
 
 ## Magic Billiard-Ball
 
@@ -355,10 +395,12 @@ this ability, the user must state the question out loud and shake the
 *Magic Billiard-ball*. It provides no answers whatsoever if used more
 than once in a 24-hour period.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 30\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 30                    |
+| Weight       | —.                    |
 
 ## Medicine Bundle
 
@@ -369,10 +411,12 @@ wearer fails to make a save. Only one *medicine bundle* can be worn at a
 time for any benefit —wearing multiple *medicine bundles* negates the
 bonus.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 1st\
-**Purchase DC:** 26\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 1st                   |
+| Purchase DC  | 26                    |
+| Weight       | —.                    |
 
 ## Muse Statuette
 
@@ -385,10 +429,12 @@ If the *muse statuette* is destroyed, its owner takes a –10 penalty on
 Craft (visual art) and Craft (writing) checks for the next year. A
 *remove curse* spell negates this penalty.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** 2 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | 2 lb.                 |
 
 ## Parka of Warmth
 
@@ -397,10 +443,12 @@ wearer takes actual damage, the *parka of warmth* keeps him at a
 constant comfortable temperature. This ability overlaps (does not stack)
 with any other cold resistance the wearer might have.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 33\
-**Weight:** 3 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | 3 lb.                 |
 
 ## Pen of Invisible Ink
 
@@ -419,10 +467,12 @@ ink*.
 
 A *pen of invisible ink* holds enough ink for 50 messages.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 29\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 29                    |
+| Weight       | —.                    |
 
 ## Quick-Draw Holster
 
@@ -430,10 +480,12 @@ Any handgun placed in this hip holster fits perfectly. The *quick-draw
 holster* allows its wearer to draw or holster the weapon as a free
 action (as though the wearer had the Quick Draw feat).
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** 1 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | 1 lb.                 |
 
 ## Replay Mirror
 
@@ -450,10 +502,12 @@ pause, and fast forward, just like a normal, high-quality VCR. The
 mirror can remember up to 3 hours of recordings, “erasing” the oldest
 images first.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 35\
-**Weight:** 20 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 35                    |
+| Weight       | 20 lb.                |
 
 ## Rod of Technology
 
@@ -476,10 +530,12 @@ The sixth button delivers an electrical pulse to any device touched by
 the rod’s crystal tip, duplicating the effects of a *power device* or
 *degauss* spell (at the wielder’s discretion).
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 1st\
-**Purchase DC:** 29\
-**Weight:** 6 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 1st                   |
+| Purchase DC  | 29                    |
+| Weight       | 6 lb.                 |
 
 ## Shadow Detector
 
@@ -490,10 +546,12 @@ Shadow (which includes Shadowkind characters). The *Shadow detector*
 works in the same way as a *detect magical aura*, but only detects
 creatures of Shadow.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 3rd\
-**Purchase DC:** 31\
-**Weight:** 2 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 3rd                   |
+| Purchase DC  | 31                    |
+| Weight       | 2 lb.                 |
 
 ## Spectacles of Speed Reading
 
@@ -506,10 +564,12 @@ completion of a book, has perfect recall of everything she read. After
 that, she must make a Research check (DC = one-fifth of the book’s page
 count) to remember more than general information.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 11th¹\
-**Purchase DC:** 39\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 11th¹                 |
+| Purchase DC  | 39                    |
+| Weight       | —.                    |
 
 ¹ *See the Incantation-Based FX Items sidebar.*
 
@@ -531,10 +591,12 @@ location. If the address labeled on the package does not exist, the
 package will not transport and the *stamp of delivery* will be rendered
 useless.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 7th\
-**Purchase DC:** 32 (per book)\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 7th                   |
+| Purchase DC  | 32 (per book)         |
+| Weight       | —.                    |
 
 ## Tempus Fugit Watch
 
@@ -563,10 +625,12 @@ lasts.
 There is a 1% chance per use that the watch ceases to function after its
 last use. Once it ceases to function, the watch cannot be repaired.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 10th\
-**Purchase DC:** 37\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 10th                  |
+| Purchase DC  | 37                    |
+| Weight       | —.                    |
 
 ## Token of Friendship
 
@@ -578,23 +642,27 @@ can, as a move equivalent action, determine the exact location of any
 other single person wearing another of the matched charms. As per the
 incantation, the charms provide only GPS coordinates.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 13th\
-**Purchase DC:** 41\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 13th                  |
+| Purchase DC  | 41                    |
+| Weight       | —.                    |
 
 ## Translator’s Earpiece
 
-This tiny molded earpiece (which requires a succcessful Spot check, DC
+This tiny molded earpiece (which requires a successful Spot check, DC
 20, to notice) lets the wearer speak and understand the language of any
 intelligent creature, whether it is a racial tongue or regional dialect
 (as per the *tongues* spell, albeit continuously). It does not allow the
 wearer to understand or transcribe written foreign languages.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 33\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | —.                    |
 
 ## Trench Coat of Useful Items
 
@@ -631,16 +699,18 @@ rolling on the table below.
 | 45–51 | Diamondback X-20 mountain bike                                                              |
 | 52–59 | Steel handcuffs                                                                             |
 | 60–68 | Portable generator (with full tank of gas)                                                  |
-| 69–75 | Fire exitinguisher                                                                          |
+| 69–75 | Fire extinguisher                                                                           |
 | 76–83 | Small bag of jewels (increase Wealth bonus by +4)                                           |
 | 84–90 | Cell phone (connects to any cellular network and works for 8 hours before becoming useless) |
 | 91–96 | First aid kit                                                                               |
 | 97–00 | Roll twice more, ignoring results of 97–00                                                  |
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 9th\
-**Purchase DC:** 35\
-**Weight:** 1 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 9th                   |
+| Purchase DC  | 35                    |
+| Weight       | 1 lb.                 |
 
 ## Umbrella of Feather Falling
 
@@ -651,10 +721,12 @@ so while falling by succeeding at a Dexterity check (DC 10), taking no
 damage if successful. Failure indicates that the umbrella does not open
 in time, and the user takes the full damage from the fall.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 1st\
-**Purchase DC:** 30\
-**Weight:** 2 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 1st                   |
+| Purchase DC  | 30                    |
+| Weight       | 2 lb.                 |
 
 ## Universal ID
 
@@ -664,10 +736,12 @@ imprints, and watermarks (as per the *magic ID* spell). It does not
 create a magnetic strip or other form of nonvisual information. The card
 must be held by the user for the image to be changed.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 1st\
-**Purchase DC:** 29\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 1st                   |
+| Purchase DC  | 29                    |
+| Weight       | —.                    |
 
 ## Video Camera of True Seeing
 
@@ -677,10 +751,12 @@ things unseen by normal eyes, as if through the *true seeing* spell. The
 camera records invisible beings as well as the actual form of Shadow
 creatures with perfect clarity.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 9th\
-**Purchase DC:** 37\
-**Weight:** 2 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 9th                   |
+| Purchase DC  | 37                    |
+| Weight       | 2 lb.                 |
 
 ## Watch of Speed
 
@@ -689,7 +765,9 @@ granting a +2 equipment bonus on initiative checks. This bonus stacks
 with other abilities that improve initiative, such as the Improved
 Initiative feat.
 
-**Type:** Wondrous Item (magic)\
-**Caster Level:** 5th\
-**Purchase DC:** 33\
-**Weight:** —.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous Item (magic) |
+| Caster Level | 5th                   |
+| Purchase DC  | 33                    |
+| Weight       | —.                    |

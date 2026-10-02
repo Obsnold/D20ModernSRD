@@ -9,7 +9,7 @@ common part of combat even in the Fusion Age. Bio-agent ammunition is a
 logical extension of previous military tactics with regards to
 biological warfare.
 
-Bio-agent ammunition contains a miniscule amount of a biological weapon
+Bio-agent ammunition contains a minuscule amount of a biological weapon
 inside an insulated chamber within each round. Use of bio-agent
 ammunition causes a –1 penalty to damage. However, any living creature
 damaged by the round is injected with a poisonous bio-agent with effects
@@ -43,7 +43,7 @@ robot.
 ## Grenade, Fireflush
 
 A fireflush grenade contains a chemical compound that combusts
-immediately upon contact with oxygen
+immediately upon contact with oxygen.
 
 When a fireflush grenade detonates, it produces geysers of flame that
 fill a 10-foot burst radius. All creatures and objects within the burst

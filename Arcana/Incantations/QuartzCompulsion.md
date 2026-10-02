@@ -21,7 +21,7 @@ subject is located. You can telepathically converse for 16 minutes with
 the subject. Your telepathic contact can also contain a *suggestion* (as
 per the *suggestion* psionic power), which the subject does her best to
 carry out. A successful Will save negates the suggestion effect but not
-the contact itself. Telepathic communcation is possible even if the
+the contact itself. Telepathic communication is possible even if the
 creature’s Intelligence score is as low as 1, but you must have a
 language in common with the subject to communicate. If the message is
 impossible or meaningless according to the circumstances that exist for

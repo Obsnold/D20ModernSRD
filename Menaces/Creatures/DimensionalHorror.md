@@ -123,7 +123,6 @@ beyond (New FX Equipment, below).
 | Cha               | 14                                                                                  |
 
 **Skills:** Listen +11, Navigate +4, Search +5, Sense Motive +6,
-
 Spot +11, Survival +11.
 
 **Feats:** Multiattack, Track.
@@ -215,7 +214,7 @@ the normal world, allowing them to strike targets there. They then shift
 back to the coexistent dimension, where they remain for 1 minute before
 reappearing in the normal world. Fortunately, dimensional horrors seem
 incapable of manipulating guns well enough to fire them. The potential
-of the dimensional transformer as a means to flawless, evidencefree
+of the dimensional transformer as a means to flawless, evidence-free
 assassinations is just one of the many reasons that governments around
 the world continue to study dimensional horrors and their realm, despite
 the grave dangers of such experimentation.

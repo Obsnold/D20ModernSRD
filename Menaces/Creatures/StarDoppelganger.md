@@ -183,8 +183,12 @@ below.
 | Will              | +4                                                                                                                                                                       |
 | AP                | 0                                                                                                                                                                        |
 | Rep               | +0                                                                                                                                                                       |
-
-Str 10, Dex 12, Con 10, Int 16, Wis 15, Cha 10.
+| Str               | 10                                                                                                                                                                       |
+| Dex               | 12                                                                                                                                                                       |
+| Con               | 10                                                                                                                                                                       |
+| Int               | 16                                                                                                                                                                       |
+| Wis               | 15                                                                                                                                                                       |
+| Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +12, Craft (electronic) +9, Craft (mechanical) +9,
 Drive +5, Hide +11, Listen +8, Move Silently +11, Pilot +5, Spot +8,

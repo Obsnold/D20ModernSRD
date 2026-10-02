@@ -73,7 +73,7 @@ tool)
 
 • Fire extinguisher
 
-## Autodyn Hoverbike (PL 7)
+## AutoDyn Hoverbike (PL 7)
 
 The AutoDyn hoverbike can travel as high as 15,000 feet, and that limit
 is set due to the rider’s inability to breathe at higher altitudes
@@ -81,20 +81,20 @@ without an oxygen mask. When driven on the ground, the hoverbike’s top
 speed is 380 (38). The hoverbike is 1 square wide and 2 squares long. It
 provides its rider with no cover.
 
-## Autodyn Hoverbus (PL 7)
+## AutoDyn Hoverbus (PL 7)
 
 AutoDyn’s hoverbus provides the flying version of mass transit. The
 hoverbus’s top speed is 120 (12). A hoverbus is 3 squares wide and 8
 squares long.
 
-## Autodyn Hovercar (PL 7)
+## AutoDyn Hovercar (PL 7)
 
 The AutoDyn hovercar is capable of flying up to 30,000 feet when the
 cabin is sealed. When driven on the ground, the hovercar’s top speed is
 215 (21). A hovercar is usually 2 squares wide and 3 squares long, but
 larger luxury models exist.
 
-## Autodyn Hovertruck (PL 7)
+## AutoDyn Hovertruck (PL 7)
 
 The AutoDyn hovertruck is frequently used by emergency services
 personnel (with modifications) for rescuing stranded hoverists or
@@ -102,7 +102,7 @@ reaching hikers and mountain climbers lost at high altitudes. When
 driven on the ground, the hovertruck’s top speed is 145 (14). A
 hovertruck is 3 squares wide and 4 squares long.
 
-## Hydrodyn Seahawk (PL 7)
+## HydroDyn SeaHawk (PL 7)
 
 Unlike other hovervehicles, the SeaHawk is only capable of landing on
 water or on specially constructed brackets (purchase DC 23).

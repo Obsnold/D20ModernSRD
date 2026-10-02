@@ -29,7 +29,7 @@ modification is made.
 
 ## Autofire Module
 
-Some firearms and energy weapons are capable of firing in singleshot or
+Some firearms and energy weapons are capable of firing in single-shot or
 semiautomatic forms only. The autofire module gadget allows these
 weapons to be fired on autofire.
 

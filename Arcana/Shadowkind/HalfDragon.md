@@ -54,7 +54,7 @@ one), Speak Draconic, Speak Language (any one).
 | Brass  | 30-foot cone of *sleep* gas (fall asleep for 1d6 rounds; Will negates)          | Fire²           |
 | Bronze | 30-foot cone of *repulsion* gas (move away for 1d6 rounds; Will negates)        | Electricity     |
 | Copper | 30-foot cone of *slow* gas (slowed, as the spell, for 1d6 rounds; Will negates) | Acid            |
-| Gold   | 30-foot cone of weaknening gas (1d2 temporary Str damage; Fortitude negates)    | Fire²           |
+| Gold   | 30-foot cone of weakening gas (1d2 temporary Str damage; Fortitude negates)     | Fire²           |
 | Green  | 30-foot cone of corrosive gas (6d6 points of acid damage; Reflex half)          | Acid            |
 | Red    | 30-foot cone of fire (6d10 points of fire damage; Reflex half)                  | Fire²           |
 | Silver | 30-foot cone of paralyzing gas (paralyzed for 1d6 rounds; Fortitude negates)    | Cold³           |

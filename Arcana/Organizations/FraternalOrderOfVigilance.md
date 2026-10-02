@@ -5,7 +5,7 @@ and halls in cities, towns, and municipalities of all sizes. In the past
 few years the fastest growing lodge worldwide was the Fraternal Order of
 Vigilance, or the F.O.V. Founded on the precept of protecting its
 members and communities from the many threats that the modern world
-presents, the F.O.V. hosts seminars on selfdefense, sponsors
+presents, the F.O.V. hosts seminars on self-defense, sponsors
 finger-printing and other preventative child identification campaigns,
 and organizes neighborhood watch programs. Lodges are praised by local
 law enforcement, honored by other civic organizations, and quickly find

@@ -7,7 +7,7 @@ Elephants have the following traits:
 **Trample (Ex):** An elephant can trample Medium or
 smaller creatures for 2d6+15 points of damage. Opponents who do not make
 attacks of opportunity against the elephant can attempt a Reflex save
-(DC 25) to halve the damage. The mastadon’s trample deals 2d6+18 points
+(DC 25) to halve the damage. The mastodon’s trample deals 2d6+18 points
 of damage (Reflex save, DC 31, for half damage).
 
 **Scent (Ex):** This ability allows the elephant to
@@ -61,7 +61,7 @@ color and detail under these conditions.
 
 **Advancement:** 12–22 HD (Huge).
 
-## Advanced Elephant (Mastadon)
+## Advanced Elephant (Mastodon)
 
 | Stat              | Value                                                                             |
 | ----------------- | --------------------------------------------------------------------------------- |

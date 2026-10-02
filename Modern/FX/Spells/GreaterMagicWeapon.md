@@ -22,4 +22,4 @@ projectiles must be of the same type, and they have to be together.
 Projectiles (but not thrown weapons) lose their transmutation after use.
 
 A caster can’t cast this spell on a natural weapon such as an unarmed
-strike
+strike.

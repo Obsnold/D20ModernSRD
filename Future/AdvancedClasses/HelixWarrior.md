@@ -95,7 +95,7 @@ discarding the lower roll(s).
 ### Darkvision
 
 Beginning at 2nd level, a Helix Warrior gains darkvision. She can see in
-total darkness out to a range of 60 feet. Darkvision is black-andwhite
+total darkness out to a range of 60 feet. Darkvision is black-and-white
 only, but is otherwise like normal sight.
 
 The range of the Helix Warrior’s darkvision improves to 90 feet at 5th

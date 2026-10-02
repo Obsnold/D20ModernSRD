@@ -200,15 +200,15 @@ ability to turn, command, or rebuke undead for the Acolyte.
 As the Wildlord grows in power and ability, so too does the power of her
 animal companion.
 
-| Class Level | Bonus HD | Natural Armor | Str/DexAdj. | Special            |
-| ----------- | -------- | ------------- | ----------- | ------------------ |
-| 2-3         | +0       | 0             | +0          | Link, share spells |
-| 4–5         | +2       | 2             | +1          | Evasion            |
-| 6           | +4       | 4             | +2          | Devotion           |
-| 7           | +6       | 6             | +3          | Multiattack        |
-| 8           | +8       | 8             | +4          |                    |
-| 9           | +10      | 10            | +5          | Improved evasion   |
-| 10          | +12      | 12            | +6          |                    |
+| Class Level | Bonus HD | Natural Armor | Str/Dex Adj. | Special            |
+| ----------- | -------- | ------------- | ------------ | ------------------ |
+| 2-3         | +0       | 0             | +0           | Link, share spells |
+| 4–5         | +2       | 2             | +1           | Evasion            |
+| 6           | +4       | 4             | +2           | Devotion           |
+| 7           | +6       | 6             | +3           | Multiattack        |
+| 8           | +8       | 8             | +4           |                    |
+| 9           | +10      | 10            | +5           | Improved evasion   |
+| 10          | +12      | 12            | +6           |                    |
 
 *Class Level:* The level of the Wildlord.
 

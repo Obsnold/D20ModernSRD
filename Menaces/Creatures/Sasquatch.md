@@ -79,7 +79,10 @@ sasquatch gains a +4 species bonus on Intimidate checks.
 | FS                | 5 ft. by 5 ft.                                                 |
 | Reach             | 10 ft.                                                         |
 | SQ                | low-light vision                                               |
-| AL                | anyV Fort +7, Ref –1, Will +2                                  |
+| AL                | any                                                            |
+| Fort              | +7                                                             |
+| Ref               | –1                                                             |
+| Will              | +2                                                             |
 | AP                | 3                                                              |
 | Rep               | +0                                                             |
 | Str               | 22                                                             |

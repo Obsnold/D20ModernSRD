@@ -54,7 +54,7 @@ zombie has the following special quality.
 damaged in combat by anything other than a bludgeoning weapon, some of
 the liquefied tissue spews forth, covering everything within 5 feet of
 the liquefied zombie. The scalding liquid deals 1d6 points of damage and
-exposes anyone it touches to the disease of necrotizing faciitis.
+exposes anyone it touches to the disease of necrotizing fasciitis.
 
 *Darkvision (Ex):* Liquefied zombies have darkvision
 with a range of 60 feet.

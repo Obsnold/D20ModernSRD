@@ -11,10 +11,10 @@ from the ooze’s digestive enzymes. The enzymes continue to dissolve the
 victim, dealing 1d6 points of acid damage every round until the wound is
 washed with at least 1 pint of water (or some other appropriate liquid).
 
-**Immunities (Ex):** Terrestial effluvium is immune to ballistic and
+**Immunities (Ex):** Terrestrial effluvium is immune to ballistic and
 piercing weapons.
 
-**Vulnerabilities (Ex):** Terrestial effluvium takes double damage from
+**Vulnerabilities (Ex):** Terrestrial effluvium takes double damage from
 attacks that deal sonic or concussion damage. Direct sunlight deals 50
 points of damage to the creature each round.
 

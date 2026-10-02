@@ -27,7 +27,7 @@ anything outside of the vehicle, nor can creatures outside the vehicle
 perceive or interact with the occupants and contents of the
 extradimensional space (or even see the extradimensional space itself).
 Creatures within the extradimensional space effectively occupy the same
-5-footsquare and are incapable of making attacks while so contained.
+5-foot square and are incapable of making attacks while so contained.
 
 Exiting the extradimensional space requires the passengers to physically
 exit the vehicle as well. If the vehicle is destroyed or the

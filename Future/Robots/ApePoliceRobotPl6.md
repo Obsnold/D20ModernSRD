@@ -2,7 +2,7 @@
 
 The Armed Police Escort (APE) robot is designed to help police deal with
 civil disobedience and unrest in the urban jungle. This robot resembles
-a hulking, apelike man with thick arms and legs, clad headto- toe in
+a hulking, apelike man with thick arms and legs, clad head-to-toe in
 interlocking duralloy plates. The robot’s hands can be used for
 grappling or carrying items. It usually carries an OICW assault rifle.
 In addition, it has a mini-grenade launcher (with a compartment for
@@ -56,7 +56,6 @@ Firearms Proficiency.
 
 **Equipment:** OICW assault rifle with 4 30-round magazines, laser
 pistol (mounted), mini-grenade launcher (mounted) with 8
-
 concussion grenades. The APE police robot has the following systems and
 accessories:
 

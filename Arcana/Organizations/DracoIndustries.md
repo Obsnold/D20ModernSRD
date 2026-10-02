@@ -67,10 +67,12 @@ eggs, no matter where in the world they are. Franz Draco is the only
 person who knows how to make the hub egg work. Draco has the egg brought
 with him wherever he goes.
 
-**Type:** Wondrous item (magic)\
-**Caster Level:** 10th\
-**Purchase DC:** 39\
-**Weight:** 5 lb.
+| Stat         | Value                 |
+| ------------ | --------------------- |
+| Type         | Wondrous item (magic) |
+| Caster Level | 10th                  |
+| Purchase DC  | 39                    |
+| Weight       | 5 lb.                 |
 
 ## Franz Draco
 
@@ -152,7 +154,7 @@ Spanish, Sense Motive +11, Speak Arabic, Speak Auran, Speak English,
 Speak Ignan, Speak Infernal, Speak Latin, Speak Spanish, Spellcraft +9,
 Spot +12.
 
-**Feats:** Archaic Weapon Proficiency, Armor Proficiency (light), Combat
+**Feats:** Archaic Weapons Proficiency, Armor Proficiency (light), Combat
 Reflexes, Dodge, Educated (Knowledge [arcane lore], Knowledge
 [business]), Heroic Surge, Improved Damage Threshold, Improved
 Initiative, Personal Firearms Proficiency, Renown.
@@ -194,7 +196,7 @@ following in her wake.
 Sasha is a tall and statuesque. To those who cannot see her true form,
 she appears to have long, blonde hair worn in thick braids. She wears
 suits and gowns from the crème de la-crème of the fashion world, all
-tailored to show off her ecsquisite figure without getting in her way
+tailored to show off her exquisite figure without getting in her way
 should trouble arise. And Sasha always has on a pair of designer
 sunglasses (even at night).
 

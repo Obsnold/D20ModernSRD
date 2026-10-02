@@ -64,7 +64,7 @@ Weapons Proficiency.
 **Skills:** Hide +3, Listen +2, Move Silently +3,
 Read/Write Elven, Search +2, Speak Elven, Spot +2, Survival +2.
 
-**Feat:** Archaic Weapon Proficiency, Point Blank
+**Feat:** Archaic Weapons Proficiency, Point Blank
 Shot.
 
 **Possessions:** Sword cane, compound bow, casual
@@ -114,7 +114,7 @@ Knowledge (streetwise) +4, Listen +2, Read/Write Elven, Read/Write
 Language (any two), Research +4, Search +2, Sense Motive +2, Speak
 Elven, Speak Language (any two), Spot +2.
 
-**Feat:** Archaic Weapon Proficiency, Deceptive, Iron
+**Feat:** Archaic Weapons Proficiency, Deceptive, Iron
 Will, Point Blank Shot, Precise Shot, Simple Weapons Proficiency.
 
 **Talents (Charismatic Hero):** Charm, coordinate.

@@ -42,7 +42,7 @@ hybrid form, but its gear is not absorbed into the new form. The bipedal
 hybrid form is about 5 feet tall, with a long tail and thin fur. The
 limbs are human, but the head looks like a rat’s. Changing to or from
 rat or hybrid form is a move action. Upon assuming either form, the
-wererat regains hit points as if having rested for a day. A slain wereat
+wererat regains hit points as if having rested for a day. A slain wererat
 reverts to its humanoid form, although it remains dead. Afflicted
 wererats find this ability difficult to control. The rare natural
 wererat has full control over this power.
@@ -60,7 +60,7 @@ weapons with +1 or better magic bonus.
 hybrid form to detect approaching enemies, sniff out hidden foes, and
 track by sense of smell.
 
-*Rat Empathy (Ex):* A wererat can communciate with rats
+*Rat Empathy (Ex):* A wererat can communicate with rats
 in any form and gains a +4 species bonus on Diplomacy checks when
 influencing a rat’s attitude. A friendly rat understands and heeds
 simple commands, such “wait,” “watch,” “flee,” and “attack.”
@@ -68,7 +68,7 @@ simple commands, such “wait,” “watch,” “flee,” and “attack.”
 *Darkvision (Ex):* In their rat and hybrid forms,
 wererats have darkvision with a range of 60 feet.
 
-**Allegiances:** An afflicted wereat gains the law and
+**Allegiances:** An afflicted wererat gains the law and
 evil allegiances (displacing other allegiances, if need be). They also
 generally gain an allegiance to other wererats, although this need not
 be the primary allegiance. The allegiances to law and evil can be

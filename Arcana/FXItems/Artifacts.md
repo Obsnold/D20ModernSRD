@@ -52,7 +52,7 @@ other means).
 ## Artifact Purchase DCs
 
 Artifacts cannot generally be purchased on the open market, although a
-careless vendors might sell one inadvertantly (by failing to realize its
+careless vendors might sell one inadvertently (by failing to realize its
 true nature or power). Since artifacts are often unique items, one must
 strike a deal with the current owner (who usually demands an exorbitant
 price). Players may not equip their characters with artifacts without
@@ -88,10 +88,12 @@ in its use. It also grants whatever weapon its bearer uses a +3
 enhancement bonus. The bearer has damage reduction 10/+1 while grasping
 *Caesar’s shield* as well.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 70\
-**Weight:** 15 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 70               |
+| Weight       | 15 lb.           |
 
 ## Crescent of the Moon
 
@@ -140,10 +142,12 @@ somebody else’s action.
 *Waning:* During the period of time between full and new moon, the
 *crescent* grants its wielder the scent special quality.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 68\
-**Weight:** 12 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 68               |
+| Weight       | 12 lb.           |
 
 ## Cup of Curing
 
@@ -182,10 +186,12 @@ drinking four times in a sitting.
 Drinking from the cup is a move action that provokes attacks of
 opportunity.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 51\
-**Weight:** 3 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 51               |
+| Weight       | 3 lb.            |
 
 ## Dagger of Eternal Unrest
 
@@ -200,10 +206,12 @@ grace, the wielder may choose to have the blade cast *animate dead* on
 the victim. This creates a zombie under the control of the dagger’s
 wielder. If the dagger changes hands, so too does the zombie’s loyalty.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 47\
-**Weight:** 1 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 47               |
+| Weight       | 1 lb.            |
 
 ## Houdini’s Watch Fob
 
@@ -226,10 +234,12 @@ a +6 luck bonus on Balance, Bluff, Climb, Disguise, Escape Artist, Move
 Silently, and Tumble checks. Furthermore, the fob grants the wearer the
 Improved Initiative feat.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 50\
-**Weight:** —.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 50               |
+| Weight       | —.               |
 
 ## Index of Alexandria
 
@@ -258,10 +268,12 @@ philosophy. (It is up to the GM to decide whether or not a specific
 subject falls into one or more of these categories.) This requires 2d6
 hours and a successful Research check (DC 25).
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 60\
-**Weight:** 30 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 60               |
+| Weight       | 30 lb.           |
 
 ## Sphere of Annihilation
 
@@ -307,10 +319,12 @@ points of damage. *Dispel magic* has no effect on the sphere, although a
 sphere as a spell effect created by a 20th-level spellcaster for this
 purpose).
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 40\
-**Weight:** —.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 40               |
+| Weight       | —.               |
 
 ## Staff of Sorcerous Might
 
@@ -387,10 +401,12 @@ Only the *staff of sorcerous might* is capable of a retributive
 strike—this is not an act that can be performed with any other staff,
 wand, or magic item.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 95\
-**Weight:** 5 lb.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 95               |
+| Weight       | 5 lb.            |
 
 ## Talisman of Pure Good
 
@@ -413,10 +429,12 @@ touches one, he takes 8d6 points of damage.
 
 All other characters are unaffected by this item.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 35\
-**Weight:** —.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 35               |
+| Weight       | —.               |
 
 ## Talisman of Ultimate Evil
 
@@ -437,7 +455,9 @@ without an allegiance to evil touches one of these medallions, he takes
 touches one, he takes 8d6 points of damage. All other characters are
 unaffected by this item.
 
-**Type:** Artifact (magic)\
-**Caster Level:** —\
-**Purchase DC:** 35\
-**Weight:** —.
+| Stat         | Value            |
+| ------------ | ---------------- |
+| Type         | Artifact (magic) |
+| Caster Level | —                |
+| Purchase DC  | 35               |
+| Weight       | —.               |

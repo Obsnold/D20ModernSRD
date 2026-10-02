@@ -236,15 +236,15 @@ damage is taken each day the saving throw fails.
 
 **Table: Diseases**
 
-| Disease              | Type                  | Incubation Period | Initial Damage  | Secondary Damage      |
-| -------------------- | --------------------- | ----------------- | --------------- | --------------------- |
-| Anthrax              | Inhaled/Injury DC 16  | 1d2 days          | 1 Con           | 1d4 Con¹              |
-| Small pox            | Inhaled/Contact DC 15 | 2d4 days          | 1 Str and 1 Con | 1d2 Str and 1d2 Con   |
-| Pneumonia            | Inhaled DC 12         | 1d4 days          | 1 Str           | 1d3 Str and 1d3 Con   |
-| Hantavirus           | Injury DC 14          | 1 day             | 1d2 Str         | 1d2 Str¹ and 1d2 Con¹ |
-| Necrotizing faciitis | Contact DC 13         | 1d6 days          | 1 Con           | 1d3 Con¹              |
-| West Nile virus      | Injury DC 12          | 1d4 days          | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con¹  |
-| Salmonellosis        | Ingested DC 13        | 1 day             | 1 Str and 1 Dex | 1 Str and 1d3 Dex     |
+| Disease               | Type                  | Incubation Period | Initial Damage  | Secondary Damage      |
+| --------------------- | --------------------- | ----------------- | --------------- | --------------------- |
+| Anthrax               | Inhaled/Injury DC 16  | 1d2 days          | 1 Con           | 1d4 Con¹              |
+| Small pox             | Inhaled/Contact DC 15 | 2d4 days          | 1 Str and 1 Con | 1d2 Str and 1d2 Con   |
+| Pneumonia             | Inhaled DC 12         | 1d4 days          | 1 Str           | 1d3 Str and 1d3 Con   |
+| Hantavirus            | Injury DC 14          | 1 day             | 1d2 Str         | 1d2 Str¹ and 1d2 Con¹ |
+| Necrotizing fasciitis | Contact DC 13         | 1d6 days          | 1 Con           | 1d3 Con¹              |
+| West Nile virus       | Injury DC 12          | 1d4 days          | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con¹  |
+| Salmonellosis         | Ingested DC 13        | 1 day             | 1 Str and 1 Dex | 1 Str and 1d3 Dex     |
 
 ¹ If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
 

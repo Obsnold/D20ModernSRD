@@ -111,7 +111,7 @@ and minions. Among her many enemies, it is whispered that she has made
 pacts with dark powers and has lost her soul in a web of lies, deceit,
 and betrayal. In truth, she *is* a dark power, and the webs are all of
 her own spinning. Creatures of Shadow know her secret, but not all of
-them are happy to see a drow achieve such success
+them are happy to see a drow achieve such success.
 
 Anastasia appears as a stunning woman in her late 20s. She has the dusky
 skin and brilliant eyes of a drow. Her snow-white hair falls to her
@@ -166,7 +166,7 @@ Undertongue, Sense Motive +16, Speak Drow Sign Language, Speak Elven,
 Speak French, Speak English, Speak Spanish, Read/Write Undertongue, Spot
 +6.
 
-**Feats**: Advanced Firearms, Archaic Weapon Proficiency, Creative,
+**Feats**: Advanced Firearms, Archaic Weapons Proficiency, Creative,
 Deceptive, Defensive Martial Arts, Educated (Knowledge \[popular
 culture\] and Knowledge [business]), Dodge, Elusive Target, Heroic
 Surge, Improved Initiative, Iron Will, Personal Firearms Proficiency,

@@ -8,7 +8,7 @@ smoke, engulfing yourself and the surrounding area.
 **Benefit:** Once per day, as a free action, you can produce a
 20-foot-radius cloud of smoke centered on yourself. The cloud is
 stationary once created. The inky-black smoke obscures all sight,
-including darkvision, beyond 5 feet. A creature 5 feet away has onehalf
+including darkvision, beyond 5 feet. A creature 5 feet away has one-half
 concealment (20% miss chance). Creatures farther away have total
 concealment (50% miss chance, and the attacker cannot use sight to
 locate the target).

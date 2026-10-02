@@ -30,7 +30,7 @@ get by with headsets jacked into the ship’s network, or short-range
 two-way radios, or even just shouting to each other from nearby crew
 stations. Larger ships require a more sophisticated system.
 
-A standard internal communication system allows twoway audio
+A standard internal communication system allows two-way audio
 communication from any comm station to any other comm station on the
 same ship. An internal comm system has a purchase DC based on the ship’s
 type: ultralight 13, light 16, mediumweight 19, heavy 22, superheavy 25.
@@ -67,7 +67,7 @@ get a response at interstellar distances.
 
 This massive comm array provides rapid interstellar communications. The
 array consists of a constellation of dozens of small transmitters that
-transmit and receive messages through space at faster-thanlight speeds,
+transmit and receive messages through space at faster-than-light speeds,
 enabling communications with a range of 50 light-years.
 
 The signals travel at a rate of 5 light-years per hour. Because of the

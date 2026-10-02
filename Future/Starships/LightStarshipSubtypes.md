@@ -5,8 +5,7 @@ industrial ships, such as garbage barges and fuel carriers. Light
 starships are somewhat better armed and armored than ultralight
 starships, but sacrifice a little in the way of speed.
 
-A light starship measures 251–500 feet long. It has a 500-footby-
-500-foot fighting space and occupies a single 500-foot square. In
+A light starship measures 251–500 feet long. It has a 500-foot-by-500-foot fighting space and occupies a single 500-foot square. In
 addition, all light starships share the following design specs.
 
 **Engines:** All light starships have thrusters plus one other type of

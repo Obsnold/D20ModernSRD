@@ -29,7 +29,7 @@ penalty on the attack roll when firing at an adjacent target.
 | -------------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ----- | ------ | ----------- | ------------ |
 | AKM/AK-47 (7.62mmR assault rifle)      | 2d8    | 20       | Ballistic   | 70 ft.          | S, A         | 30 box   | Large | 10 lb. | 15          | Res (+2)     |
 | Barrett Light Fifty (.50 sniper rifle) | 2d12   | 20       | Ballistic   | 120 ft.         | S            | 11 box   | Huge  | 35 lb. | 22          | Lic (+1)     |
-| Benelli 121 M1 (12-gague shotgun)      | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 7 int    | Large | 8 lb.  | 17          | Lic (+1)     |
+| Benelli 121 M1 (12-gauge shotgun)      | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 7 int    | Large | 8 lb.  | 17          | Lic (+1)     |
 | Beretta M3P (12-gauge shotgun)         | 2d8    | 20       | Ballistic   | 30 ft.          | S            | 5 box    | Large | 9 lb.  | 16          | Lic (+1)     |
 | Browning BPS (10-gauge shotgun)        | 2d10   | 20       | Ballistic   | 30 ft.          | Single       | 5 int.   | Large | 11 lb. | 16          | Lic (+1)     |
 | HK G3 (7.62mm assault rifle)           | 2d10   | 20       | Ballistic   | 90 ft.          | S, A         | 20 box   | Large | 11 lb. | 19          | Res (+2)     |
@@ -89,7 +89,7 @@ over sixty of the world’s armies used this rifle.
 ## HK MP5
 
 The Heckler & Koch MP5 family of weapons is among the most recognizable
-in the world. Many different designs exist; dexscribed here is the most
+in the world. Many different designs exist; described here is the most
 basic model.
 
 Due to its high quality of manufacture, the MP5 is always considered a
