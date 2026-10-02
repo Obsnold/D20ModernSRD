@@ -131,6 +131,8 @@ expelled.
 | Con               | 15                                                                                                 |
 | Int               | 18                                                                                                 |
 | Wis               | 17                                                                                                 |
-| Cha               | 18. **Skills:** None                                                                               |
+| Cha               | 18                                                                                                 |
+
+**Skills:** None.
 
 **Feats:** None.

@@ -65,7 +65,7 @@ bonus on Perform (act), Perform (sing), and Perform (stand-up) checks.
 **Skills:** Bluff +6, Listen +5, Perform (act) +8, Perform (sing) +8,
 Perform (stand-up) +6, Read/Write English, Speak English, Spot +6.
 
-**Feats:** Flyby Attack, Personal Weapon Proficiency, Simple Weapons
+**Feats:** Flyby Attack, Personal Firearms Proficiency, Simple Weapons
 Proficiency.
 
 **Possessions:** Leather jacket, S&W M29 (.44 magnum revolver), 50
@@ -113,7 +113,7 @@ rounds of ammunition, metal baton.
 +11, Perform (sing) +11, Perform (stand-up) +9, Read/Write English,
 Speak English, Spot +9.
 
-**Feats:** Flyby Attack, Personal Weapon Proficiency, Point Blank Shot,
+**Feats:** Flyby Attack, Personal Firearms Proficiency, Point Blank Shot,
 Renown, Simple Weapons Proficiency, Weapon Focus (S&W M29).
 
 **Talents (Charismatic):** Charm, fast-talk.

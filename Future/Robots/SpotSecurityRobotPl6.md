@@ -47,7 +47,7 @@ dog at distances of 100 feet or more.
 
 **Skills:** Hide +5, Jump +6, Listen +6, Move Silently +5, Spot +6.
 
-**Feats:** —.
+**Feats:** None.
 
 The “Spot” security robot has the following systems and accessories:
 

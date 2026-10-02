@@ -84,7 +84,7 @@ Silently +5, Spot +5.
 | Full Atk          | +10 melee (1d4+5, 8 tentacle slams), +5 melee (1d8+2, bite)                 |
 | FS                | 10 ft. by 10 ft.                                                            |
 | Reach             | 10 ft.                                                                      |
-| SQ                | Aquatic subtype, improved grab, constrict, ink cloud, jet, low-light vision |
+| SQ                | aquatic subtype, improved grab, constrict, ink cloud, jet, low-light vision |
 | AL                | none                                                                        |
 | Fort              | +7                                                                          |
 | Ref               | +8                                                                          |

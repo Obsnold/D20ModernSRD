@@ -110,7 +110,7 @@ Spot +8.
 +8, Search +6, Speak English (or other local language), Speak Giant,
 Spot +8.
 
-**Feats:** Archaic Weapons Proficiency, Combat Reflexes, Exotic Weapon
+**Feats:** Archaic Weapons Proficiency, Combat Reflexes, Exotic Melee Weapon
 Proficiency (chain saw), Great Fortitude, Power Attack, Simple Weapons
 Proficiency.
 

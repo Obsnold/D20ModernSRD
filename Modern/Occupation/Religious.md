@@ -16,12 +16,12 @@ Choose three of the following skills as permanent class skills. If a
 skill the character selects is already a class skill, he or she receives
 a +1 competence bonus on checks using that skill.
 
-- Decipher Script
-- Knowledge (arcane lore)
-- Knowledge (art)
-- Knowledge (behavioral sciences)
-- Knowledge (history)
-- Knowledge (streetwise)
-- Knowledge (theology and philosophy)
-- Listen
-- Sense Motive
+- Decipher Script (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Listen (Wis)
+- Sense Motive (Wis)

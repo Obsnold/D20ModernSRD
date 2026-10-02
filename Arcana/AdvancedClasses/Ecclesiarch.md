@@ -42,9 +42,15 @@ The Ecclesiarch’s class skills are as follows:
 - Diplomacy (Cha)
 - Gather Information (Cha)
 - Investigate (Int)
-- Knowledge (arcane lore, art, behavioral sciences, current events, history, popular culture, theology and philosophy)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (theology and philosophy) (Int)
 - Listen (Wis)
-- Perform (any)
+- Perform (any) (Cha)
 - Profession (Wis)
 - Read/Write Language (none)
 - Research (Int)
@@ -60,13 +66,13 @@ The Ecclesiarch’s class skills are as follows:
 
 **Table: The Ecclesiarch**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------- | ------------- | ---------------- |
-| 1st   | +0                | +0        | +0       | +2        | Total spellcasting   | +1            | +2               |
-| 2nd   | +1                | +0        | +0       | +3        | Increased spells/day | +1            | +2               |
-| 3rd   | +1                | +1        | +1       | +3        | Total turning        | +2            | +2               |
-| 4th   | +2                | +1        | +1       | +4        | Increased spells/day | +2            | +3               |
-| 5th   | +2                | +1        | +1       | +4        | Innovative turning   | +3            | +3               |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | -------------------- | ------------- | ---------------- |
+| 1st         | +0                | +0        | +0       | +2        | Total spellcasting   | +1            | +2               |
+| 2nd         | +1                | +0        | +0       | +3        | Increased spells/day | +1            | +2               |
+| 3rd         | +1                | +1        | +1       | +3        | Total turning        | +2            | +2               |
+| 4th         | +2                | +1        | +1       | +4        | Increased spells/day | +2            | +3               |
+| 5th         | +2                | +1        | +1       | +4        | Innovative turning   | +3            | +3               |
 
 ## Class Features
 

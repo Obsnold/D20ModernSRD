@@ -41,7 +41,7 @@ under these conditions.
 | FS                | 5 ft. by 5 ft.                    |
 | Reach             | 5 ft.                             |
 | SQ                | ferocity, scent, low-light vision |
-| AL                | None                              |
+| AL                | none                              |
 | Fort              | +6                                |
 | Ref               | +3                                |
 | Will              | +2                                |

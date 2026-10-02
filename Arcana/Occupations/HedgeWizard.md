@@ -16,17 +16,17 @@ Choose three of the following skills as permanent class skills. If a
 skill you select is already a class skill, you receive a +1 competence
 bonus on checks using that skill.
 
-- Concentration
-- Craft (chemical)
-- Craft (writing)
-- Decipher Script
-- Gather Information
-- Knowledge (arcane lore)
-- Knowledge (art)
-- Knowledge (earth and life sciences)
-- Knowledge (history)
-- Knowledge (physical sciences)
-- Research
+- Concentration (Con)
+- Craft (chemical) (Int)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Gather Information (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Research (Int)
 
 ## Bonus Feat
 

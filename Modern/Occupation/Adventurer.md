@@ -17,25 +17,25 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Bluff
-- Climb
-- Demolitions
-- Disable Device
-- Drive
-- Escape Artist
-- Intimidate
-- Jump
-- Knowledge (arcane lore)
-- Knowledge (streetwise)
-- Knowledge (tactics)
-- Knowledge (technology)
-- Move Silently
-- Pilot
-- Ride
-- Spot
-- Survival
-- Swim
-- Treat Injury
+- Bluff (Cha)
+- Climb (Str)
+- Demolitions (Int)
+- Disable Device (Int)
+- Drive (Dex)
+- Escape Artist (Dex)
+- Intimidate (Cha)
+- Jump (Str)
+- Knowledge (arcane lore) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (tactics) (Int)
+- Knowledge (technology) (Int)
+- Move Silently (Dex)
+- Pilot (Dex)
+- Ride (Dex)
+- Spot (Wis)
+- Survival (Wis)
+- Swim (Str)
+- Treat Injury (Wis)
 
 ## Bonus Feat
 

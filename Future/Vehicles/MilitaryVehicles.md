@@ -87,10 +87,10 @@ Cavalcade chaingun are presented in Table: M-300 Hovertank Weapons.
 
 | Weapon                   | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
 | ------------------------ | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------- | ----------- | ----------- |
-| T-95 Cavalcade chain gun | 7d6    | 20       | Ballistic   | 60 feet         | S, A         | Linked   | Huge | 185 lb. | 21          | Mil (+3)    |
+| T-95 Cavalcade chain gun | 7d6    | 20       | Ballistic   | 60 ft.          | S, A         | Linked   | Huge | 185 lb. | 21          | Mil (+3)    |
 
 **Table: M-300 Hovertank Weapons: Progress Level 7: Gravity Age**
 
 | Weapon                  | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
 | ----------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------- | ----------- | ----------- |
-| M-300 Rhino mass cannon | 8d12   | 20       | Ballistic   | 100 feet        | S            | —        | Huge | 450 lb. | 29          | Mil (+3)    |
+| M-300 Rhino mass cannon | 8d12   | 20       | Ballistic   | 100 ft.         | S            | —        | Huge | 450 lb. | 29          | Mil (+3)    |

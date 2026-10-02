@@ -1,7 +1,7 @@
 # Ranged Weapons
 
 Descriptions of ranged weapons follow. Some are considered simple
-weapons (covered by the Simple Weapon Proficiency feat), some are
+weapons (covered by the Simple Weapons Proficiency feat), some are
 archaic (covered by the Archaic Weapons Proficiency), and some are
 special in that they do not require a feat to be used effectively.
 

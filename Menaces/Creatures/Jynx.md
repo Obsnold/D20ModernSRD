@@ -58,7 +58,7 @@ affected by a *spider climb* spell. This ability is always active.
 | Cha               | 14                                                                                          |
 
 **Skills:** Balance +8, Climb +2, Disable Device +10, Escape Artist +8,
-Hide +8, Jump +2, Listen +7, Move Silently +8, Pilot +8; Repair +3,
+Hide +8, Jump +2, Listen +7, Move Silently +8, Pilot +8, Repair +3,
 Search +6, Spot +7.
 
 **Feats:** Dodge, Mobility, Weapon Finesse (claw).
@@ -107,7 +107,7 @@ Search +6, Spot +7.
 
 **Skills:** Balance +14, Climb +2, Demolitions +8, Disable Device +16,
 Drive +7, Escape Artist +14, Hide +8, Jump +4, Listen +7, Move Silently
-+8, Pilot +11; Repair +3, Search +6, Spot +7, Tumble +12.
++8, Pilot +11, Repair +3, Search +6, Spot +7, Tumble +12.
 
 **Feats:** Acrobatic, Aircraft Operation (heavy aircraft), Aircraft
 Operation (jet fighters), Dodge, Mobility, Personal Firearms

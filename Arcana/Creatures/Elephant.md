@@ -42,7 +42,7 @@ color and detail under these conditions.
 | FS                | 15 ft. by 15 ft.                                                                  |
 | Reach             | 10 ft.                                                                            |
 | SQ                | trample 2d6+15, scent, low-light vision                                           |
-| AL                | None or owner                                                                     |
+| AL                | none or owner                                                                     |
 | Fort              | +12                                                                               |
 | Ref               | +7                                                                                |
 | Will              | +4                                                                                |

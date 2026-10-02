@@ -17,20 +17,20 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Computer Use
-- Craft (visual art)
-- Craft (writing)
-- Decipher Script
-- Forgery
-- Gather Information
-- Investigate
-- Knowledge (behavioral sciences)
-- Knowledge (civics)
-- Knowledge (earth and life sciences)
-- Knowledge (streetwise)
-- Research
-- Search
-- Sense Motive
+- Computer Use (Int)
+- Craft (visual art) (Int)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Forgery (Int)
+- Gather Information (Cha)
+- Investigate (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (streetwise) (Int)
+- Research (Int)
+- Search (Int)
+- Sense Motive (Wis)
 
 ## Bonus Feat
 

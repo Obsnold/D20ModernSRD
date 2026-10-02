@@ -165,5 +165,4 @@ hero must meet any prerequisites.
 - Improved Brawl
 - Improved Combat Martial Arts
 - Power Attack
-- Weapon
-- Focus
+- Weapon Focus

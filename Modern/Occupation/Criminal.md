@@ -17,14 +17,14 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Disable Device
-- Disguise
-- Forgery
-- Gamble
-- Hide
-- Knowledge (streetwise)
-- Move Silently
-- Sleight of Hand
+- Disable Device (Int)
+- Disguise (Cha)
+- Forgery (Int)
+- Gamble (Wis)
+- Hide (Dex)
+- Knowledge (streetwise) (Int)
+- Move Silently (Dex)
+- Sleight of Hand (Dex)
 
 ## Bonus Feat
 

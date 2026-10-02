@@ -11,7 +11,7 @@ following criteria.
 
 **Base Attack Bonus**: +2.
 
-**Skill:** Hide 6 ranks, Move Silently 6 ranks.
+**Skills:** Hide 6 ranks, Move Silently 6 ranks.
 
 **Feats:** Wild Talent.
 

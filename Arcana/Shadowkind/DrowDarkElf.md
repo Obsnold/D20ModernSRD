@@ -3,7 +3,7 @@
 **Size:** Medium. Drow have no special bonuses or penalties due to their
 size.
 
-**Ability Modifiers:** +2 Dexterity, –2 Constitution, +2 Intelligence,+2
+**Ability Modifiers:** +2 Dexterity, –2 Constitution, +2 Intelligence, +2
 Charisma.
 
 **Base Speed:** 30 feet.

@@ -7,7 +7,7 @@ criteria.
 
 **Base Attack Bonus:** +3.
 
-**Skill:** Knowledge (tactics) 3 ranks.
+**Skills:** Knowledge (tactics) 3 ranks.
 
 **Feats:** Personal Firearms Proficiency.
 

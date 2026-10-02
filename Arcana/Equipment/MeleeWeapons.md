@@ -3,7 +3,7 @@
 Melee weapons are used in close combat and are generally among the
 simplest weapons to use. The feat that provides proficiency with these
 weapons varies from weapon to weapon; some are considered simple weapons
-(covered by the Simple Weapon Proficiency feat); others are archaic
+(covered by the Simple Weapons Proficiency feat); others are archaic
 (covered by the Archaic Weapons Proficiency feat) or exotic (covered by
 the Exotic Melee Weapons feat).
 

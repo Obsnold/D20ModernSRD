@@ -217,7 +217,7 @@ two), Spot +10.
 ¹ The vampire gains a +3 bonus on these Charisma-based skill checks when
 influencing members of its chosen gender (see Charm).
 
-**Feats:** Alertness, Combat Reflexes, Dodge, Exotic Melee Weapon
+**Feats:** Alertness, Combat Reflexes, Dodge, Exotic Melee Weapon Proficiency
 (katana), Improved Initiative, Iron Will, Lightning Reflexes, Renown,
 Simple Weapons Proficiency, Stealthy, Windfall.
 

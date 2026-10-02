@@ -1,15 +1,15 @@
 # Immovability
 
-| Stat             | Value            |
-| ---------------- | ---------------- |
-| Key Ability      | Strength         |
-| Level            | Psionic Agent 4  |
-| Display          | Visual           |
-| Time             | Attack action    |
-| Range            | Personal         |
-| Target           | You              |
-| Duration         | 1 hour/level (D) |
-| Power Point Cost | 7                |
+| Stat               | Value            |
+| ------------------ | ---------------- |
+| Key Ability        | Strength         |
+| Level              | Psionic Agent 4  |
+| Display            | Visual           |
+| Manifestation Time | Attack action    |
+| Range              | Personal         |
+| Target             | You              |
+| Duration           | 1 hour/level (D) |
+| Power Point Cost   | 7                |
 
 You are almost impossible to move. Your weight does not vary; instead,
 you mentally attach yourself to the underlying fabric of reality. Thus,

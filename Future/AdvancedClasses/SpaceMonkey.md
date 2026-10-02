@@ -12,7 +12,7 @@ following criteria.
 
 **Skills:** Craft (mechanical or structural) 6 ranks, Survival 6 ranks.
 
-**Tough Hero Talent:** Any one talent from the Unbreakable Talent Tree.
+**Tough Hero Talents:** Any one talent from the Unbreakable Talent Tree.
 
 ## Class Information
 

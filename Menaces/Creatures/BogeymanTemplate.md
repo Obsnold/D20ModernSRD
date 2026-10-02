@@ -93,7 +93,7 @@ Read/Write English, Speak English.
 
 **Feats:** Archaic Weapons Proficiency, Armor Proficiency (light),
 Blind-Fight, Brawl, Endurance, Great Fortitude, Improved Brawl, Improved
-Damage Threshold (×3), Power Attack, Simple Weapons Proficiency Sunder.
+Damage Threshold (×3), Power Attack, Simple Weapons Proficiency, Sunder.
 
 **Talents:** Damage reduction 1/—, robust, stamina.
 

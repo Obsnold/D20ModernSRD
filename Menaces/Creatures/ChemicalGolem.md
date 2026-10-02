@@ -72,7 +72,7 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 | hp                | 69                                                                                                   |
 | Mas               | —                                                                                                    |
 | Init              | –1                                                                                                   |
-| Spd               | 20 ft (can’t run)                                                                                    |
+| Spd               | 20 ft. (can’t run)                                                                                   |
 | Defense           | 18                                                                                                   |
 | Touch             | 8                                                                                                    |
 | Flat-Footed       | 19                                                                                                   |
@@ -114,7 +114,7 @@ for both saves is 10 + 1/2 the golem’s Hit Dice.
 | hp                | 144                                                                                                  |
 | Mas               | —                                                                                                    |
 | Init              | –2                                                                                                   |
-| Spd               | 20 ft (can’t run)                                                                                    |
+| Spd               | 20 ft. (can’t run)                                                                                   |
 | Defense           | 19                                                                                                   |
 | Touch             | 6                                                                                                    |
 | Flat-Footed       | 21                                                                                                   |

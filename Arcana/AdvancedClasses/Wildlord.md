@@ -37,7 +37,9 @@ The Wildlord’s class skills are as follows:
 - Diplomacy (Cha)
 - Handle Animal (Cha)
 - Hide (Dex)
-- Knowledge (Behavioral sciences, earth and life sciences, physical sciences)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (physical sciences) (Int)
 - Move Silently (Dex)
 - Navigate (Int)
 - Pilot (Dex)
@@ -54,18 +56,18 @@ The Wildlord’s class skills are as follows:
 
 **Table: The Wildlord**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------- | ------------- | ---------------- |
-| 1st   | +0                | +2        | +0       | +2        | Animal empathy                  | +1            | +1               |
-| 2nd   | +1                | +3        | +0       | +3        | Track, animal companion         | +1            | +1               |
-| 3rd   | +2                | +3        | +1       | +3        | Bonus feat, fast climb          | +2            | +1               |
-| 4th   | +3                | +4        | +1       | +4        | Resist venom, call companion    | +2            | +2               |
-| 5th   | +3                | +4        | +1       | +4        | Skill mastery                   | +3            | +2               |
-| 6th   | +4                | +5        | +2       | +5        | Bonus feat                      | +3            | +2               |
-| 7th   | +5                | +5        | +2       | +5        | Expert in your field            | +4            | +3               |
-| 8th   | +6                | +6        | +2       | +6        | Command/rebuke animals          | +4            | +3               |
-| 9th   | +6                | +6        | +3       | +6        | Bonus feat, transform companion | +5            | +3               |
-| 10th  | +7                | +7        | +3       | +7        | Command/rebuke magical beasts   | +5            | +4               |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +2        | +0       | +2        | Animal empathy                  | +1            | +1               |
+| 2nd         | +1                | +3        | +0       | +3        | Track, animal companion         | +1            | +1               |
+| 3rd         | +2                | +3        | +1       | +3        | Bonus feat, fast climb          | +2            | +1               |
+| 4th         | +3                | +4        | +1       | +4        | Resist venom, call companion    | +2            | +2               |
+| 5th         | +3                | +4        | +1       | +4        | Skill mastery                   | +3            | +2               |
+| 6th         | +4                | +5        | +2       | +5        | Bonus feat                      | +3            | +2               |
+| 7th         | +5                | +5        | +2       | +5        | Expert in your field            | +4            | +3               |
+| 8th         | +6                | +6        | +2       | +6        | Command/rebuke animals          | +4            | +3               |
+| 9th         | +6                | +6        | +3       | +6        | Bonus feat, transform companion | +5            | +3               |
+| 10th        | +7                | +7        | +3       | +7        | Command/rebuke magical beasts   | +5            | +4               |
 
 ## Class Features
 

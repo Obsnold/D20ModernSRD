@@ -110,7 +110,7 @@ At 3rd, 6th, and 9th level, the Technosavant gets a bonus feat. The
 bonus feat must be selected from the following list, and the
 Technosavant must meet all the prerequisites of the feat to select it.
 
-- Alien Weapon Proficiency
+- Alien Weapons Proficiency
 - Armor Proficiency (light)
 - Armor Proficiency (medium)
 - Armor Proficiency (powered)

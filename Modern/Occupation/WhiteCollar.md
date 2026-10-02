@@ -17,13 +17,13 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Computer Use
-- Diplomacy
-- Knowledge (art)
-- Knowledge (business)
-- Knowledge (civics)
-- Knowledge (earth and life sciences)
-- Knowledge (history)
-- Knowledge (physical sciences)
-- Knowledge (technology)
-- Research
+- Computer Use (Int)
+- Diplomacy (Cha)
+- Knowledge (art) (Int)
+- Knowledge (business) (Int)
+- Knowledge (civics) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (technology) (Int)
+- Research (Int)

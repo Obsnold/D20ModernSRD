@@ -143,7 +143,7 @@ lifestyle.
 | Full Atk          | +9 melee (1d3–1 nonlethal, unarmed strike), or +15/+10 ranged (2d6+2, *+2 SITES M9*), or +16/+11 ranged (2d6+2, *+2 MP5*) |
 | FS                | 5 ft. by 5 ft.                                                                                                            |
 | Reach             | 5 ft.                                                                                                                     |
-| SQ                | Darkvision 120 ft., light blindness, spell immunities, SR 29                                                              |
+| SQ                | darkvision 120 ft., light blindness, spell immunities, SR 29                                                              |
 | AL                | any                                                                                                                       |
 | Fort              | +7                                                                                                                        |
 | Ref               | +10                                                                                                                       |
@@ -167,11 +167,11 @@ Undertongue, Sense Motive +16, Speak Drow Sign Language, Speak Elven,
 Speak French, Speak English, Speak Spanish, Read/Write Undertongue, Spot
 +6.
 
-**Feats**: Advanced Firearms, Archaic Weapons Proficiency, Creative,
+**Feats**: Advanced Firearms Proficiency, Archaic Weapons Proficiency, Creative,
 Deceptive, Defensive Martial Arts, Educated (Knowledge \[popular
 culture\] and Knowledge [business]), Dodge, Elusive Target, Heroic
 Surge, Improved Initiative, Iron Will, Personal Firearms Proficiency,
-Point Blank Shot, Precise Shot, Renown, Simple Weapon Proficiency,
+Point Blank Shot, Precise Shot, Renown, Simple Weapons Proficiency,
 Trustworthy, Unbalance Opponent.
 
 **Talents (Fast Hero):** Evasion, opportunist.

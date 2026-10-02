@@ -16,16 +16,16 @@ Choose two of the following skills as permanent class skills. If a skill
 you select is already a class skill, you receive a +1 competence bonus
 on checks using that skill.
 
-- Bluff
-- Concentration
-- Diplomacy
-- Gather Information
-- Intimidate
-- Knowledge (behavioral sciences)
-- Knowledge (current events)
-- Knowledge (popular culture)
-- Knowledge (streetwise)
-- Sense Motive
+- Bluff (Cha)
+- Concentration (Con)
+- Diplomacy (Cha)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Knowledge (streetwise) (Int)
+- Sense Motive (Wis)
 
 ## Bonus Feat
 

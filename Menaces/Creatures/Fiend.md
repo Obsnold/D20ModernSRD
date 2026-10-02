@@ -119,7 +119,7 @@ level 10th; save DC 17 + spell level.
 
 **Occupation:** Entrepreneur.
 
-**Skills:**, Bluff +44, Computer Use +18, Concentration +16, Diplomacy
+**Skills:** Bluff +44, Computer Use +18, Concentration +16, Diplomacy
 +44, Forgery +16, Gamble +26, Gather Information +28, Intimidate +43,
 Knowledge (arcane lore) +29, Knowledge (behavioral sciences) +34,
 Knowledge (business) +46, Knowledge (civics) +46, Knowledge (current
@@ -346,7 +346,7 @@ creature within 100 feet that has a language.
 | Full Atk          | +5 melee (1d6+1, slam) or +5 melee (1d8+1/19–20, longsword) or +4 ranged                                                                                         |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                   |
 | Reach             | 5 ft.                                                                                                                                                            |
-| SQ                | Attach head, body blindsight, darkvision 60 ft., detach head, disguise self (DC 15), electrical rejuvenation, fire resistance 10, indestructible body, telepathy |
+| SQ                | attach head, body blindsight, darkvision 60 ft., detach head, disguise self (DC 15), electrical rejuvenation, fire resistance 10, indestructible body, telepathy |
 | AL                | evil                                                                                                                                                             |
 | Fort              | +5                                                                                                                                                               |
 | Ref               | +4                                                                                                                                                               |
@@ -535,7 +535,7 @@ Climb, Jump, and Spot checks.
 | Full Atk          | +13 melee (1d8+6 plus poison, bite) and +8 melee (1d6+3, 2 claws) or +7 ranged touch (poison spittle)                                                 |
 | FS                | 10 ft. by 10 ft.                                                                                                                                      |
 | Reach             | 5 ft.                                                                                                                                                 |
-| SQ                | Damage reduction 5/silver, darkvision 60 ft., immunities, improved grab, monstrous spider minions, poison (DC 17), spit poison, telepathy, web cocoon |
+| SQ                | damage reduction 5/silver, darkvision 60 ft., immunities, improved grab, monstrous spider minions, poison (DC 17), spit poison, telepathy, web cocoon |
 | AL                | chaos, evil                                                                                                                                           |
 | Fort              | +9                                                                                                                                                    |
 | Ref               | +6                                                                                                                                                    |
@@ -623,7 +623,7 @@ the whistle is Charisma-based.
 | Full Atk          | +13 melee (1d6+5, 2 armspikes) or +12 ranged                                                                                         |
 | FS                | 5 ft. by 5 ft.                                                                                                                       |
 | Reach             | 10 ft.                                                                                                                               |
-| SQ                | Damage reduction 10/+1, darkvision 60 ft., fire resistance 10, immune to sonic/concussion damage, impale, telepathy, whistle (DC 16) |
+| SQ                | damage reduction 10/+1, darkvision 60 ft., fire resistance 10, immune to sonic/concussion damage, impale, telepathy, whistle (DC 16) |
 | AL                | evil                                                                                                                                 |
 | Fort              | +9                                                                                                                                   |
 | Ref               | +9                                                                                                                                   |
@@ -703,7 +703,7 @@ mind-affecting ability. The save DC is Charisma-based.
 | Full Atk          | +8 melee (1d4+2, 2 claws) and +3 melee (1d6+1, bite) or +5 ranged                                                                                              |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                 |
 | Reach             | 5 ft.                                                                                                                                                          |
-| SQ                | Damage reduction 5/piercing, darkvision 60 ft., disease sense, frightful presence (DC 15), immune to disease, *invisibility*, telepathy, wounding gaze (DC 15) |
+| SQ                | damage reduction 5/piercing, darkvision 60 ft., disease sense, frightful presence (DC 15), immune to disease, *invisibility*, telepathy, wounding gaze (DC 15) |
 | AL                | chaos, evil                                                                                                                                                    |
 | Fort              | +7                                                                                                                                                             |
 | Ref               | +4                                                                                                                                                             |

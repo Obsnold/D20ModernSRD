@@ -4,9 +4,10 @@
 | ------------------ | ------------------------------------------------------------- |
 | Key Ability        | Charisma                                                      |
 | Descriptors        | Mind-Affecting                                                |
-| Level              | Telepath 2; Display Visual, Mental                            |
+| Level              | Telepath 2                                                    |
+| Display            | Visual, Mental                                                |
 | Manifestation Time | Attack action                                                 |
-| Range              | 60 ft,                                                        |
+| Range              | 60 ft.                                                        |
 | Area               | Quarter-circle emanating from you to the extreme of the range |
 | Duration           | Concentration, up to 1 minute/level (D)                       |
 | Saving Throw       | Will negates (see text)                                       |

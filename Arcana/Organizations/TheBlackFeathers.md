@@ -130,8 +130,8 @@ throwing knives.
 | Full Atk          | +8/+3 melee (1d3 nonlethal, unarmed strike), or +8/+3 melee (1d4, knife), or +12/+7 ranged (1d4, knife), or +15/+10 ranged (1d8+3, *+2 longbow* with *+1 arrows*) |
 | FS                | 5 ft. by 5 ft.                                                                                                                                                    |
 | Reach             | 5 ft.                                                                                                                                                             |
-| SQ                | Elf traits                                                                                                                                                        |
-| AL                | Nature, Whitetooth, The Black Feathers                                                                                                                            |
+| SQ                | elf traits                                                                                                                                                        |
+| AL                | nature, Whitetooth, The Black Feathers                                                                                                                            |
 | Fort              | +7                                                                                                                                                                |
 | Ref               | +10                                                                                                                                                               |
 | Will              | +7                                                                                                                                                                |
@@ -152,7 +152,7 @@ Elven, Spot +11, Survival +12, Swim +5, Treat Injury +8.
 
 **Feats**: Alertness, Animal Affinity, Archaic Weapons Proficiency,
 Dodge, Fleet of Foot, Guide, Lightning Reflexes, Mobility, Point Blank
-Shot, Precise Shot, Shot on the Run, Simple Weapon Proficiency,
+Shot, Precise Shot, Shot on the Run, Simple Weapons Proficiency,
 Stealthy, Track.
 
 **Talents (Charismatic Hero):** Coordinate, inspiration.
@@ -193,7 +193,7 @@ fanatically loyal to his master and will defend her to the death.
 | Full Atk          | +6 melee (1d6+3, bite), +1 melee (1d3+1, claws), or +4 ranged |
 | FS                | 5 ft. by 5 ft.                                                |
 | Reach             | 5 ft.                                                         |
-| SQ                | Improved grab, low-light vision, rake, scent                  |
+| SQ                | improved grab, low-light vision, rake, scent                  |
 | AL                | Black Feather                                                 |
 | Fort              | +5                                                            |
 | Ref               | +7                                                            |

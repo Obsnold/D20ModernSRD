@@ -18,16 +18,16 @@ Choose three of the following skills as permanent class skills. If a
 skill you select is already a class skill, you receive a +1 competence
 bonus on checks using that skill.
 
-- Concentration
-- Craft (writing)
-- Decipher Script
-- Diplomacy
-- Knowledge (arcane lore)
-- Knowledge (art)
-- Knowledge (behavioral sciences)
-- Knowledge (history)
-- Knowledge (theology and philosophy)
-- Sense Motive
+- Concentration (Con)
+- Craft (writing) (Int)
+- Decipher Script (Int)
+- Diplomacy (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Sense Motive (Wis)
 
 ## Bonus Feat
 

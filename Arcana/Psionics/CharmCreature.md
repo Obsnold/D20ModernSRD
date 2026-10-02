@@ -2,8 +2,7 @@
 
 | Stat             | Value                      |
 | ---------------- | -------------------------- |
-| Discipline       | Telepathy                  |
-| Key Ability      | Cha                        |
+| Key Ability      | Charisma                   |
 | Descriptors      | Compulsion, Mind-Affecting |
 | Level            | Telepath 3                 |
 | Display          | Mental                     |

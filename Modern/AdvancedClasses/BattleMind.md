@@ -7,7 +7,7 @@ following criteria.
 
 **Base Attack Bonus:** +3.
 
-**Skill:** Jump 6 ranks.
+**Skills:** Jump 6 ranks.
 
 **Feats:** Wild Talent.
 

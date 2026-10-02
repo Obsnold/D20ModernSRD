@@ -18,10 +18,10 @@ Choose one of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Gamble
-- Intimidate
-- Knowledge (current events)
-- Knowledge (popular culture)
-- Ride
+- Gamble (Wis)
+- Intimidate (Cha)
+- Knowledge (current events) (Int)
+- Knowledge (popular culture) (Int)
+- Ride (Dex)
 
 Or add a new Speak Language.

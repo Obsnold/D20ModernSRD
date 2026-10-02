@@ -16,16 +16,16 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Climb
-- Demolitions
-- Drive
-- Hide
-- Knowledge (tactics)
-- Move Silently
-- Navigate
-- Pilot
-- Survival
-- Swim
+- Climb (Str)
+- Demolitions (Int)
+- Drive (Dex)
+- Hide (Dex)
+- Knowledge (tactics) (Int)
+- Move Silently (Dex)
+- Navigate (Int)
+- Pilot (Dex)
+- Survival (Wis)
+- Swim (Str)
 
 ## Bonus Feat
 

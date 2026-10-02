@@ -20,9 +20,9 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Bluff
-- Diplomacy
-- Gamble
-- Knowledge (business)
-- Knowledge (current events)
-- Knowledge (technology)
+- Bluff (Cha)
+- Diplomacy (Cha)
+- Gamble (Wis)
+- Knowledge (business) (Int)
+- Knowledge (current events) (Int)
+- Knowledge (technology) (Int)

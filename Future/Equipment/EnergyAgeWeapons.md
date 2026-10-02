@@ -101,11 +101,11 @@ packs.
 
 | Weapon        | Damage        | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | ------------- | ------------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
-| Cryonic rifle | 3d6           | 20       | Cold        | 20 feet         | S            | 10 box   | Large  | 8 lb.  | 21          | Lic (+1)    |
-| Disintegrator | 3d8           | 20       | Energy¹     | 30 feet         | S            | 10 box   | Large  | 6 lb.  | 23          | Mil (+3)    |
-| Lightning gun | 3d6           | 20       | Electricity | 50 feet         | S, A         | 30 box   | Huge   | 30 lb. | 24          | Mil (+3)    |
-| Pulse rifle   | 3d10          | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 11 lb. | 21          | Res (+2)    |
-| Sonic beam    | 2d6 + special | 20       | Sonic       | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 18          | Lic (+1)    |
+| Cryonic rifle | 3d6           | 20       | Cold        | 20 ft.          | S            | 10 box   | Large  | 8 lb.  | 21          | Lic (+1)    |
+| Disintegrator | 3d8           | 20       | Energy¹     | 30 ft.          | S            | 10 box   | Large  | 6 lb.  | 23          | Mil (+3)    |
+| Lightning gun | 3d6           | 20       | Electricity | 50 ft.          | S, A         | 30 box   | Huge   | 30 lb. | 24          | Mil (+3)    |
+| Pulse rifle   | 3d10          | 20       | Fire        | 80 ft.          | S, A         | 50 box   | Large  | 11 lb. | 21          | Res (+2)    |
+| Sonic beam    | 2d6 + special | 20       | Sonic       | 40 ft.          | S            | 50 box   | Medium | 3 lb.  | 18          | Lic (+1)    |
 
 ¹ This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.
 

@@ -37,7 +37,7 @@ General Equipment).
 | Microphone, contact                        | 1 lb.   | 12          | —           |
 | Microphone, laser                          | 3.5 lb. | 18          | —           |
 | Microphone, parabolic                      | 4.5 lb. | 14          | —           |
-| Microphone, pick-up                        | .5 lb.  | 12          | —           |
+| Microphone, pick-up                        | 0.5 lb. | 12          | —           |
 | Microphone, shotgun                        | 3.5 lb. | 14          | —           |
 | Microtransmitter, average quality          | —       | 11          | —           |
 | Microtransmitter, good quality             | —       | 12          | —           |
@@ -48,28 +48,28 @@ General Equipment).
 
 **Table: General Equipment: Professional Equipment**
 
-| Object                             | Weight  | Purchase DC | Restriction |
-| ---------------------------------- | ------- | ----------- | ----------- |
-| Breaking and entering kit          | 50 lb   | 20          | Ill (+4)    |
-| Capture kit                        | 57 lb.  | 21          | Res (+2)    |
-| Chemistry kit                      | 15 lb.  | 13          | Licensed    |
-| Concertina wire (20 ft.)           | 15 lb.  | 11          |             |
-| Fiend hunter’s kit                 | 40 lb.  | 21          | Res (+2)    |
-| Forced entry kit                   | 135 lb. | 21          | Res (+2)    |
-| Generator, portable                | 125 lb. | 19          | —           |
-| Glasscutter, circular              | 5 lb.   | 13          | Res (+2)    |
-| Headset, microphone                | —       | 13          | —           |
-| Headset w/light                    | —       | 14          | —           |
-| Headset w/camera                   | 1 lb.   | 16          | —           |
-| Hydraulic compressor               | 50 lb.  | 13          | —           |
-| Holy water (flask)                 | 1 lb.   | 15          | —           |
-| Jaws of life                       | 40 lb.  | 18          | Res (+2)    |
-| Liquid metal embrittlement sprayer | 50 lb.  | 18          | Res (+2)    |
-| Marbles, bag of                    | .5 lb.  | 3           | —           |
-| Ram, portable                      | 35 lb.  | 12          | Res (+2)    |
-| Road flare (3)                     | 1.5 lb. | 3           | —           |
-| Vampire slayer’s kit               | 20 lb.  | 16          | Res (+2)    |
-| Winch, portable                    | 15 lb.  | 16          | —           |
+| Object                             | Weight  | Purchase DC | Restriction  |
+| ---------------------------------- | ------- | ----------- | ------------ |
+| Breaking and entering kit          | 50 lb.  | 20          | Illegal (+4) |
+| Capture kit                        | 57 lb.  | 21          | Res (+2)     |
+| Chemistry kit                      | 15 lb.  | 13          | Lic (+1)     |
+| Concertina wire (20 ft.)           | 15 lb.  | 11          |              |
+| Fiend hunter’s kit                 | 40 lb.  | 21          | Res (+2)     |
+| Forced entry kit                   | 135 lb. | 21          | Res (+2)     |
+| Generator, portable                | 125 lb. | 19          | —            |
+| Glasscutter, circular              | 5 lb.   | 13          | Res (+2)     |
+| Headset, microphone                | —       | 13          | —            |
+| Headset w/light                    | —       | 14          | —            |
+| Headset w/camera                   | 1 lb.   | 16          | —            |
+| Hydraulic compressor               | 50 lb.  | 13          | —            |
+| Holy water (flask)                 | 1 lb.   | 15          | —            |
+| Jaws of life                       | 40 lb.  | 18          | Res (+2)     |
+| Liquid metal embrittlement sprayer | 50 lb.  | 18          | Res (+2)     |
+| Marbles, bag of                    | 0.5 lb. | 3           | —            |
+| Ram, portable                      | 35 lb.  | 12          | Res (+2)     |
+| Road flare (3)                     | 1.5 lb. | 3           | —            |
+| Vampire slayer’s kit               | 20 lb.  | 16          | Res (+2)     |
+| Winch, portable                    | 15 lb.  | 16          | —            |
 
 **Table: General Equipment: Sports Equipment**
 

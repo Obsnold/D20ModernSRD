@@ -43,7 +43,7 @@ languages.
 | Reach             | 5 ft.                                                                                         |
 | SA                | gaze, poison                                                                                  |
 | SQ                | darkvision 60 ft.                                                                             |
-| AL                | Evil, law                                                                                     |
+| AL                | evil, law                                                                                     |
 | Fort              | +3                                                                                            |
 | Ref               | +7                                                                                            |
 | Will              | +6                                                                                            |
@@ -92,7 +92,7 @@ overcoat.
 | Reach             | 5 ft.                                                                                          |
 | SA                | gaze, poison                                                                                   |
 | SQ                | darkvision 60 ft.                                                                              |
-| AL                | Evil, law                                                                                      |
+| AL                | evil, law                                                                                      |
 | Fort              | +4                                                                                             |
 | Ref               | +8                                                                                             |
 | Will              | +6                                                                                             |

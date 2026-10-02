@@ -7,7 +7,7 @@ following criteria.
 
 **Base Attack Bonus:** +3.
 
-**Skill:** Jump 3 ranks.
+**Skills:** Jump 3 ranks.
 
 **Feats:** Combat Martial Arts, Defensive Martial Arts.
 

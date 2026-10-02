@@ -17,17 +17,17 @@ Choose three of the following skills as permanent class skills. If a
 skill you select is already a class skill, you receive a +1 competence
 bonus on checks using that skill.
 
-- Craft (chemical)
-- Craft (mechanical)
-- Craft (pharmaceutical)
-- Craft (writing)
-- Disable Device
-- Knowledge (arcane lore)
-- Knowledge (earth and life sciences)
-- Knowledge (history)
-- Knowledge (physical sciences)
-- Repair
-- Research
+- Craft (chemical) (Int)
+- Craft (mechanical) (Int)
+- Craft (pharmaceutical) (Int)
+- Craft (writing) (Int)
+- Disable Device (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Repair (Int)
+- Research (Int)
 
 ## Bonus Feat
 

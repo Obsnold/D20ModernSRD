@@ -15,15 +15,15 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Diplomacy
-- Drive
-- Gather Information
-- Intimidate
-- Knowledge (civics)
-- Knowledge (earth and life sciences)
-- Knowledge (streetwise)
-- Knowledge (tactics)
-- Listen
+- Diplomacy (Cha)
+- Drive (Dex)
+- Gather Information (Cha)
+- Intimidate (Cha)
+- Knowledge (civics) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (streetwise) (Int)
+- Knowledge (tactics) (Int)
+- Listen (Wis)
 
 ## Bonus Feat
 

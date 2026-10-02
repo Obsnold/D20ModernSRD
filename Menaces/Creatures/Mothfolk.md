@@ -87,7 +87,7 @@ Read/Write Mothfolk, Sense Motive +4, Speak Mothfolk, Spot +4.
 | Full Atk          | +6 melee (1d6+1, 2 claws) or +7 ranged                           |
 | FS                | 5 ft. by 5 ft.                                                   |
 | Reach             | 10 ft.                                                           |
-| SQ                | Darkvision 60 ft., divine spells, fear aura (DC 14), turn undead |
+| SQ                | darkvision 60 ft., divine spells, fear aura (DC 14), turn undead |
 | AL                | mothfolk                                                         |
 | Fort              | +8                                                               |
 | Ref               | +8                                                               |

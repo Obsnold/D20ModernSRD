@@ -139,12 +139,12 @@ using solvaway chemical or some other spray solvent.
 
 | Weapon                | Damage  | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | --------------------- | ------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
-| Laser pistol          | 2d8     | 20       | Fire        | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+1)    |
-| Laser rifle           | 3d8     | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
-| Laser sniper rifle    | 3d8     | 20       | Fire        | 120 feet        | S            | 50 box   | Large  | 14 lb. | 21          | Res (+2)    |
-| Mini-grenade launcher | Varies¹ | 20       | Varies¹     | 70 feet         | Single       | 1 int.   | Medium | 4 lb.  | 20          | Mil (+3)    |
-| Mini-rocket launcher  | Varies¹ | 20       | Varies¹     | 150 feet        | Single       | 1 int.   | Medium | 5 lb.  | 23          | Mil (+3)    |
-| Tangler gun           | Special | —        | —           | 20 feet         | S, A         | 20 box   | Large  | 8 lb.  | 16          | Lic (+1)    |
+| Laser pistol          | 2d8     | 20       | Fire        | 40 ft.          | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+1)    |
+| Laser rifle           | 3d8     | 20       | Fire        | 80 ft.          | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
+| Laser sniper rifle    | 3d8     | 20       | Fire        | 120 ft.         | S            | 50 box   | Large  | 14 lb. | 21          | Res (+2)    |
+| Mini-grenade launcher | Varies¹ | 20       | Varies¹     | 70 ft.          | Single       | 1 int.   | Medium | 4 lb.  | 20          | Mil (+3)    |
+| Mini-rocket launcher  | Varies¹ | 20       | Varies¹     | 150 ft.         | Single       | 1 int.   | Medium | 5 lb.  | 23          | Mil (+3)    |
+| Tangler gun           | Special | —        | —           | 20 ft.          | S, A         | 20 box   | Large  | 8 lb.  | 16          | Lic (+1)    |
 
 ¹ Damage and damage type varies depending on the ammunition.
 

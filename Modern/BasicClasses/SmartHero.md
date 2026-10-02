@@ -229,8 +229,7 @@ hero must meet any prerequisites.
 - Combat Expertise
 - Educated
 - Gearhead
-- Improved
-- Disarm
+- Improved Disarm
 - Improved Trip
 - Iron Will
 - Lightning Reflexes

@@ -43,7 +43,7 @@ Terran.
 | Grap              | +4                                                                                |
 | Atk               | +6 melee (1d4, claw)                                                              |
 | Full Atk          | +6 melee (1d4, 2 claws), +4 melee (1d6, bite), +4 melee (1d6, gore), or +6 ranged |
-| FS                | 5 ft by 5 ft.                                                                     |
+| FS                | 5 ft. by 5 ft.                                                                    |
 | Reach             | 5 ft.                                                                             |
 | SQ                | freeze, keen sight, damage reduction 15/+1                                        |
 | AL                | chaos, evil                                                                       |

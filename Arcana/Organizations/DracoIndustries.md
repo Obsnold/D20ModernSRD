@@ -223,7 +223,7 @@ sunglasses (even at night).
 | FS                | 5 ft. by 5 ft.                                                                              |
 | Reach             | 5 ft.                                                                                       |
 | SQ                | darkvision 60 ft., gaze, poison                                                             |
-| AL                | Franz Draco, Evil                                                                           |
+| AL                | Franz Draco, evil                                                                           |
 | Fort              | +5                                                                                          |
 | Ref               | +9                                                                                          |
 | Will              | +7                                                                                          |

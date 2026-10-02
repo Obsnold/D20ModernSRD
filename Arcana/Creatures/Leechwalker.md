@@ -53,7 +53,7 @@ successful Treat Injury check (DC 10) or the application of a
 | Full Atk          | +13/+13 melee (1d8+4 plus wounding x2, tentacle rakes)                 |
 | FS                | 5 ft. by 5 ft.                                                         |
 | Reach             | 5 ft.                                                                  |
-| SQ                | All-around vision, blood drink, improved grab, vermin traits, wounding |
+| SQ                | all-around vision, blood drink, improved grab, vermin traits, wounding |
 | AL                | none                                                                   |
 | Fort              | +11                                                                    |
 | Ref               | +4                                                                     |

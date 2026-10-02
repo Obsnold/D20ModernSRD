@@ -15,14 +15,14 @@ Choose three of the following skills as permanent class skills. If a
 skill the character selects is already a class skill, he or she receives
 a +1 competence bonus on checks using that skill.
 
-- Computer Use
-- Craft (chemical)
-- Craft (electronic)
-- Craft (mechanical)
-- Craft (structural)
-- Knowledge (business)
-- Knowledge (earth and life sciences)
-- Knowledge (physical sciences)
-- Knowledge (technology)
-- Repair
-- Research
+- Computer Use (Int)
+- Craft (chemical) (Int)
+- Craft (electronic) (Int)
+- Craft (mechanical) (Int)
+- Craft (structural) (Int)
+- Knowledge (business) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (technology) (Int)
+- Repair (Int)
+- Research (Int)

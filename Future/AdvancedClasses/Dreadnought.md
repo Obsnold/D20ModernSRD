@@ -8,7 +8,7 @@ class, though other paths are possible.
 To qualify to become a Dreadnought, a character must fulfill the
 following criteria.
 
-**Skill:** Intimidate 6 ranks.
+**Skills:** Intimidate 6 ranks.
 
 **Feats:** Improved Damage Threshold.
 

@@ -38,7 +38,9 @@ The Swashbuckler’s class skills are as follows:
 - Escape Artist (Dex)
 - Hide (Dex)
 - Jump (Str)
-- Knowledge (current events, history, popular culture)
+- Knowledge (current events) (Int)
+- Knowledge (history) (Int)
+- Knowledge (popular culture) (Int)
 - Listen (Wis)
 - Move Silently (Dex)
 - Navigate (Int)
@@ -54,18 +56,18 @@ The Swashbuckler’s class skills are as follows:
 
 **Table: The Swashbuckler**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
-| 1st   | +0                | +1        | +2       | +0        | Weapon focus                  | +1            | +0               |
-| 2nd   | +1                | +2        | +3       | +0        | Quick weapon draw             | +2            | +0               |
-| 3rd   | +2                | +2        | +3       | +1        | Bonus feat                    | +2            | +0               |
-| 4th   | +3                | +2        | +4       | +1        | Weapon specialization         | +3            | +0               |
-| 5th   | +3                | +3        | +4       | +1        | Find the mark                 | +4            | +1               |
-| 6th   | +4                | +3        | +5       | +2        | Bonus feat                    | +4            | +1               |
-| 7th   | +5                | +4        | +5       | +2        | Greater weapon specialization | +5            | +1               |
-| 8th   | +6                | +4        | +6       | +2        | Deflect missiles              | +6            | +1               |
-| 9th   | +6                | +4        | +6       | +3        | Bonus feat                    | +6            | +2               |
-| 10th  | +7                | +5        | +7       | +3        | Touché                        | +7            | +2               |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +1        | +2       | +0        | Weapon focus                  | +1            | +0               |
+| 2nd         | +1                | +2        | +3       | +0        | Quick weapon draw             | +2            | +0               |
+| 3rd         | +2                | +2        | +3       | +1        | Bonus feat                    | +2            | +0               |
+| 4th         | +3                | +2        | +4       | +1        | Weapon specialization         | +3            | +0               |
+| 5th         | +3                | +3        | +4       | +1        | Find the mark                 | +4            | +1               |
+| 6th         | +4                | +3        | +5       | +2        | Bonus feat                    | +4            | +1               |
+| 7th         | +5                | +4        | +5       | +2        | Greater weapon specialization | +5            | +1               |
+| 8th         | +6                | +4        | +6       | +2        | Deflect missiles              | +6            | +1               |
+| 9th         | +6                | +4        | +6       | +3        | Bonus feat                    | +6            | +2               |
+| 10th        | +7                | +5        | +7       | +3        | Touché                        | +7            | +2               |
 
 ## Class Features
 

@@ -11,7 +11,7 @@ criteria.
 **Skills:** Knowledge (earth and life sciences) 6 ranks, Knowledge
 (technology) 6 ranks.
 
-**Smart Hero Talent:** Either linguist or exploit weakness.
+**Smart Hero Talents:** Either linguist or exploit weakness.
 
 ## Class Information
 

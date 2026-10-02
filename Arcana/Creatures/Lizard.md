@@ -86,7 +86,7 @@ wooded or overgrown areas), Listen +5, Move Silently +6, Spot +5.
 | Full Atk          | +5 melee (1d8+4, bite)            |
 | FS                | 5 ft. by 5 ft.                    |
 | Reach             | 5 ft.                             |
-| SQ                | Poison, low-light vision          |
+| SQ                | poison, low-light vision          |
 | AL                | none                              |
 | Fort              | +6                                |
 | Ref               | +5                                |

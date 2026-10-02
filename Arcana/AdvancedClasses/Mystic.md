@@ -65,18 +65,18 @@ The Mystic’s class skills are as follows:
 
 **Table: The Mystic**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
-| 1st   | +0                | +2        | +1       | +1        | Arcane skills, divine spells  | +1            | +2               |
-| 2nd   | +1                | +3        | +2       | +2        | Turn undead, divine spells    | +1            | +2               |
-| 3rd   | +1                | +3        | +2       | +2        | Bonus feat, divine spells     | +2            | +2               |
-| 4th   | +2                | +4        | +2       | +2        | Combat casting, divine spells | +2            | +3               |
-| 5th   | +2                | +4        | +3       | +3        | Brew potion, divine spells    | +3            | +3               |
-| 6th   | +3                | +5        | +3       | +3        | Bonus feat, divine spells     | +3            | +3               |
-| 7th   | +3                | +5        | +4       | +4        | Discern lie, divine spells    | +4            | +4               |
-| 8th   | +4                | +6        | +4       | +4        | Turn humans, divine spells    | +4            | +4               |
-| 9th   | +4                | +6        | +4       | +4        | Bonus feat, divine spells     | +5            | +4               |
-| 10th  | +5                | +7        | +5       | +5        | Empower spell, divine spells  | +5            | +5               |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                       | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ----------------------------- | ------------- | ---------------- |
+| 1st         | +0                | +2        | +1       | +1        | Arcane skills, divine spells  | +1            | +2               |
+| 2nd         | +1                | +3        | +2       | +2        | Turn undead, divine spells    | +1            | +2               |
+| 3rd         | +1                | +3        | +2       | +2        | Bonus feat, divine spells     | +2            | +2               |
+| 4th         | +2                | +4        | +2       | +2        | Combat casting, divine spells | +2            | +3               |
+| 5th         | +2                | +4        | +3       | +3        | Brew potion, divine spells    | +3            | +3               |
+| 6th         | +3                | +5        | +3       | +3        | Bonus feat, divine spells     | +3            | +3               |
+| 7th         | +3                | +5        | +4       | +4        | Discern lie, divine spells    | +4            | +4               |
+| 8th         | +4                | +6        | +4       | +4        | Turn humans, divine spells    | +4            | +4               |
+| 9th         | +4                | +6        | +4       | +4        | Bonus feat, divine spells     | +5            | +4               |
+| 10th        | +5                | +7        | +5       | +5        | Empower spell, divine spells  | +5            | +5               |
 
 ## Class Features
 
@@ -209,7 +209,9 @@ of the prerequisites for the feat to select it.
 - Spell Focus
 - Spell Penetration
 - Trustworthy
-- Windfall. The Mystic may also take any metamagic feats as bonus feats
+- Windfall
+
+The Mystic may also take any metamagic feats as bonus feats.
 
 ### Combat Casting
 

@@ -112,11 +112,11 @@ rail gun’s length, leaving the barrel at an extremely high velocity.
 
 | Weapon           | Damage         | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | ---------------- | -------------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
-| Concussion rifle | 2d10 + special | 20       | Concussion  | 20 feet         | S            | —        | Large  | 6 lb.  | 22          | Lic (+1)    |
-| Gravity snare    | Special        | —        | —           | 30 feet         | S            | —        | Large  | 7 lb.  | 17          | Lic (+1)    |
-| Plasma pistol    | 2d10           | 20       | Fire        | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+2)    |
-| Plasma rifle     | 3d10           | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
-| Rail gun         | 3d12           | 20       | Ballistic   | 100 feet        | S            | 20 box   | Large  | 18 lb. | 24          | Mil (+3)    |
+| Concussion rifle | 2d10 + special | 20       | Concussion  | 20 ft.          | S            | —        | Large  | 6 lb.  | 22          | Lic (+1)    |
+| Gravity snare    | Special        | —        | —           | 30 ft.          | S            | —        | Large  | 7 lb.  | 17          | Lic (+1)    |
+| Plasma pistol    | 2d10           | 20       | Fire        | 40 ft.          | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+2)    |
+| Plasma rifle     | 3d10           | 20       | Fire        | 80 ft.          | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
+| Rail gun         | 3d12           | 20       | Ballistic   | 100 ft.         | S            | 20 box   | Large  | 18 lb. | 24          | Mil (+3)    |
 
 **Table: Progress Level 7 Melee Weapons (require the Simple Weapons Proficiency feat)**
 

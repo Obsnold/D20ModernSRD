@@ -255,7 +255,7 @@ Hide, Listen, Move Silently, Perform, and Spot checks.
 +3.
 
 **Feats:** Archaic Weapons Proficiency, Great Fortitude,
-Personal Weapons Proficiency, Simple Weapons Proficiency.
+Personal Firearms Proficiency, Simple Weapons Proficiency.
 
 **Possessions:** Musical instrument, loaded Colt Python
 (.357 revolver), sword cane (usually disguised as an umbrella or within

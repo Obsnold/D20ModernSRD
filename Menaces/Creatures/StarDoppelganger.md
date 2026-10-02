@@ -236,7 +236,7 @@ Swim +12.
 | Cha               | 10                                                                                                                                                                       |
 
 **Skills:** Climb +14, Craft (electronic) +9, Craft (mechanical) +9,
-Drive +4, Listen +8, Hide + 7, Move Silently +7, Pilot +4, Spot +8, Swim
+Drive +4, Listen +8, Hide +7, Move Silently +7, Pilot +4, Spot +8, Swim
 +14.
 
 **Feats:** Alertness, Athletic, Builder, Simple Weapons Proficiency.

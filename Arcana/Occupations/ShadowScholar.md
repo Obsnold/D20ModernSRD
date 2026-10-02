@@ -16,17 +16,17 @@ Choose three of the following skills as permanent class skills. If a
 skill you select is already a class skill, you receive a +1 competence
 bonus on checks using that skill.
 
-- Decipher Script
-- Gather Information
-- Knowledge (arcane lore)
-- Knowledge (art)
-- Knowledge (behavioral sciences)
-- Knowledge (earth and life sciences)
-- Knowledge (history)
-- Knowledge (physical sciences)
-- Knowledge (tactics)
-- Knowledge (theology and philosophy)
-- Research
+- Decipher Script (Int)
+- Gather Information (Cha)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Knowledge (behavioral sciences) (Int)
+- Knowledge (earth and life sciences) (Int)
+- Knowledge (history) (Int)
+- Knowledge (physical sciences) (Int)
+- Knowledge (tactics) (Int)
+- Knowledge (theology and philosophy) (Int)
+- Research (Int)
 
 Or add a new Read/Write Language or a new Speak Language.
 

@@ -18,20 +18,20 @@ Choose three of the following skills as permanent class skills. If a
 skill the character selects is already a class skill, he or she receives
 a +1 competence bonus on checks using that skill.
 
-- Bluff
-- Computer Use
-- Craft (visual art)
-- Craft (writing)
-- Disguise
-- Forgery
-- Knowledge (arcane lore)
-- Knowledge (art)
-- Perform (act)
-- Perform (dance)
-- Perform (keyboards)
-- Perform (percussion instruments)
-- Perform (sing)
-- Perform (stand-up)
-- Perform (stringed instruments)
-- Perform (wind instruments)
-- Spot
+- Bluff (Cha)
+- Computer Use (Int)
+- Craft (visual art) (Int)
+- Craft (writing) (Int)
+- Disguise (Cha)
+- Forgery (Int)
+- Knowledge (arcane lore) (Int)
+- Knowledge (art) (Int)
+- Perform (act) (Cha)
+- Perform (dance) (Cha)
+- Perform (keyboards) (Cha)
+- Perform (percussion instruments) (Cha)
+- Perform (sing) (Cha)
+- Perform (stand-up) (Cha)
+- Perform (stringed instruments) (Cha)
+- Perform (wind instruments) (Cha)
+- Spot (Wis)

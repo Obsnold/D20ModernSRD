@@ -157,7 +157,7 @@ events) +2, Knowledge (streetwise) +2, Knowledge (tactics) +2, Listen
 +10, Move Silently +9¹, Profession +4, Read/Write English, Sense Motive
 +12, Speak English, Spot +12, Swim +5, Treat Injury +4, Tumble +9¹.
 
-**Feats:** Armor Proficiency (light, medium), Combat Reflexes, Improved
+**Feats:** Armor Proficiency (light), Armor Proficiency (medium), Combat Reflexes, Improved
 Initiative, Lightning Reflexes, Personal Firearms Proficiency, Quick
 Draw, Quick Reload, Run, Simple Weapons Proficiency.
 

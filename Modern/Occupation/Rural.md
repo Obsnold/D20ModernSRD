@@ -15,14 +15,14 @@ Choose two of the following skills as permanent class skills. If a skill
 the character selects is already a class skill, he or she receives a +1
 competence bonus on checks using that skill.
 
-- Balance
-- Climb
-- Drive
-- Handle Animal
-- Repair
-- Ride
-- Survival
-- Swim
+- Balance (Dex)
+- Climb (Str)
+- Drive (Dex)
+- Handle Animal (Cha)
+- Repair (Int)
+- Ride (Dex)
+- Survival (Wis)
+- Swim (Str)
 
 ## Bonus Feat
 

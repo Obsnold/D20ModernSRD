@@ -141,7 +141,7 @@ culture) +7, Listen +11, Move Silently +5, Read/ Write English, Search
 +3, Sense Motive +13, Speak English, Spot +11.
 
 **Feats:** Dodge, Improved Initiative, Point Blank Shot, Personal
-Firearms Proficiency, Renown, Simple Weapon Proficiency.
+Firearms Proficiency, Renown, Simple Weapons Proficiency.
 
 **Talents (Dedicated Hero):** Empathy.
 

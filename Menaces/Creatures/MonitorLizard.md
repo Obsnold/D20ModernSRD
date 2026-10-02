@@ -38,7 +38,7 @@ checks improves to +8.
 | Full Atk          | +5 melee (1d8+4, bite) |
 | FS                | 5 ft. by 5 ft.         |
 | Reach             | 5 ft.                  |
-| SQ                | Poison, poison spray   |
+| SQ                | poison, poison spray   |
 | AL                | none                   |
 | Fort              | +6                     |
 | Ref               | +5                     |

@@ -104,7 +104,7 @@ language known by the original.
 | Full Atk          | +3 melee (1d3, unarmed strike), or +4 ranged (2d6, SITES M9) |
 | FS                | 5 ft. by 5 ft.                                               |
 | Reach             | 5 ft.                                                        |
-| AL                | Creator                                                      |
+| AL                | creator                                                      |
 | Fort              | +4                                                           |
 | Ref               | +4                                                           |
 | Will              | +3                                                           |

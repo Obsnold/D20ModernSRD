@@ -12,7 +12,7 @@ criteria.
 (history, physical sciences, or theology and philosophy) 4 ranks, Search
 4 ranks, Survival 6 ranks.
 
-**Dedicated Hero Talent:** Aware.
+**Dedicated Hero Talents:** Aware.
 
 ## Class Information
 
@@ -52,7 +52,7 @@ The Explorer’s class skills are as follows.
 - Listen (Wis)
 - Navigate (Int)
 - Pilot (Dex)
-- Read/Write Language ( none)
+- Read/Write Language (none)
 - Research (Int)
 - Ride (Dex)
 - Search (Int)

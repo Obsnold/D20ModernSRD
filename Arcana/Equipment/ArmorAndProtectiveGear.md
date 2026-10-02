@@ -12,8 +12,8 @@ proficient in the use of shields.
 | ------------------- | --------- | --------------- | -------------- | ------------- | ------------- | -------------------- | -------------- | ------ | ----------- | ----------- |
 | Padded              | Impromptu | +1              | +1             | +8            | –3            | 5%                   | 30             | 10 lb. | 9           | —           |
 | Studded leather     | Archaic   | +3              | +1             | +5            | –1            | 15%                  | 30             | 20 lb. | 13          | —           |
-| NBC suit            | Tactical  | –               | –              | +5            | –4            | 40%                  | 30             | 10 lb. | 15          | Res (+2)    |
-| Fire resistant suit | Tactical  | –               | –              | +5            | –4            | 40%                  | 30             | 10 lb. | 13          | —           |
+| NBC suit            | Tactical  | —               | —              | +5            | –4            | 40%                  | 30             | 10 lb. | 15          | Res (+2)    |
+| Fire resistant suit | Tactical  | —               | —              | +5            | –4            | 40%                  | 30             | 10 lb. | 13          | —           |
 
 **Table: Armor: Medium Armor**
 

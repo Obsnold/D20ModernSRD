@@ -69,13 +69,13 @@ The Holy/Unholy Knight’s class skills are as follows:
 
 **Table: The Holy/Unholy Knight**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------- | ------------- | ---------------- |
-| 1st   | +1                | +2        | +0       | +2        | Divine grace, divine spells     | +0            | +1               |
-| 2nd   | +2                | +3        | +0       | +3        | Sense allegiance, divine spells | +1            | +1               |
-| 3rd   | +3                | +3        | +1       | +3        | Smite allegiance, divine spells | +1            | +1               |
-| 4th   | +4                | +4        | +1       | +4        | Divine touch, divine spells     | +1            | +2               |
-| 5th   | +5                | +4        | +1       | +4        | Turn undead, divine spells      | +2            | +2               |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Defense Bonus | Reputation Bonus |
+| ----------- | ----------------- | --------- | -------- | --------- | ------------------------------- | ------------- | ---------------- |
+| 1st         | +1                | +2        | +0       | +2        | Divine grace, divine spells     | +0            | +1               |
+| 2nd         | +2                | +3        | +0       | +3        | Sense allegiance, divine spells | +1            | +1               |
+| 3rd         | +3                | +3        | +1       | +3        | Smite allegiance, divine spells | +1            | +1               |
+| 4th         | +4                | +4        | +1       | +4        | Divine touch, divine spells     | +1            | +2               |
+| 5th         | +5                | +4        | +1       | +4        | Turn undead, divine spells      | +2            | +2               |
 
 ## Class Features
 

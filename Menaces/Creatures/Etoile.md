@@ -172,7 +172,7 @@ Repair +13, Treat Injury +7.
 **Skills:** Computer Use +18, Craft (electrical) +18, Craft (mechanical)
 +18, Demolitions +14, Disable Device +18, Knowledge (earth and life
 sciences) +10, Knowledge (physical sciences) +10, Knowledge (technology)
-+16, Read/Write English, Read/Write Japanese, Research +13; Repair +18,
++16, Read/Write English, Read/Write Japanese, Research +13, Repair +18,
 Treat Injury +7.
 
 **Feats:** Builder, Cautious, Defensive Martial Arts, Educated

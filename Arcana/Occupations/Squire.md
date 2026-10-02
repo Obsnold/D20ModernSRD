@@ -15,12 +15,12 @@ Choose three of the following skills as permanent class skills. If a
 skill you select is already a class skill, you receive a +1 competence
 bonus on checks using that skill.
 
-- Balance
-- Climb
-- Handle Animal
-- Jump
-- Ride
-- Tumble
+- Balance (Dex)
+- Climb (Str)
+- Handle Animal (Cha)
+- Jump (Str)
+- Ride (Dex)
+- Tumble (Dex)
 
 ## Bonus Feat
 

@@ -96,7 +96,6 @@ Language (up to any three), Search +9, Sense Motive +11,
 Speak Language (up to any three), Spot +13.
 
 **Feats:** Alertness, Blind-Fight, Combat Reflexes, Improved
-
 Initiative.
 
 **Possessions:** None.
