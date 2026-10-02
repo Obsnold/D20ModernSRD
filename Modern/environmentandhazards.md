@@ -162,7 +162,7 @@ The GM can modify the DCs for these checks based on the circumstances.
 | Diminutive  | Paperweight | 1              | 0              | n/a               |
 | Tiny        | Wrench      | 1d3            | 5              | n/a               |
 | Small       | Vase        | 1d4            | 10             | 5                 |
-| Medium-size | Briefcase   | 1d6            | 15             | 10                |
+| Medium      | Briefcase   | 1d6            | 15             | 10                |
 | Large       | Garbage can | 2d6            | 20             | 20                |
 | Huge        | Oil barrel  | 4d6            | 25             | 30                |
 | Gargantuan  | Piano       | 8d6            | 30             | 40                |

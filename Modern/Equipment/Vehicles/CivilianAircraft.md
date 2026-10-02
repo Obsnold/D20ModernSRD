@@ -6,12 +6,12 @@ airgoing vehicles that might be available to characters.
 
 **Table: Vehicles: Civilian Aircraft**
 
-| Name                             | Crew | Pass | Cargo     | Init | Maneuver | Top Speed   | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-| -------------------------------- | ---- | ---- | --------- | ---- | -------- | ----------- | ------- | -------- | ---------- | ---- | ----------- | ----------- |
-| Bell Jet Ranger (helicopter)     | 1    | 4    | 250 lb.   | –4   | –4       | 245 (25)    | 6       | 5        | 28         | G    | 39          | Lic (+1)    |
-| Bell Model 212 (helicopter)      | 2    | 13   | 5,000 lb. | –4   | –4       | 200(20)     | 6       | 5        | 36         | G    | 45          | Res (+2)    |
-| Cessna 172 Skyhawk (prop plane)  | 1    | 3    | 120 lb.   | –4   | –4       | 210 (21)    | 6       | 5        | 30         | G    | 36          | Lic (+1)    |
-| Learjet Model 45 (corporate jet) | 2    | 10   | 500 lb.   | –4   | –4       | 1,100 (110) | 6       | 5        | 44         | G    | 40          | Lic (+1)    |
+| Name                             | Crew | Pass | Cargo     | Init | Maneuver | Top Speed   | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| -------------------------------- | ---- | ---- | --------- | ---- | -------- | ----------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Bell Jet Ranger (helicopter)     | 1    | 4    | 250 lb.   | –4   | –4       | 245 (25)    | 6       | 5        | 28         | Gargantuan | 39          | Lic (+1)    |
+| Bell Model 212 (helicopter)      | 2    | 13   | 5,000 lb. | –4   | –4       | 200(20)     | 6       | 5        | 36         | Gargantuan | 45          | Res (+2)    |
+| Cessna 172 Skyhawk (prop plane)  | 1    | 3    | 120 lb.   | –4   | –4       | 210 (21)    | 6       | 5        | 30         | Gargantuan | 36          | Lic (+1)    |
+| Learjet Model 45 (corporate jet) | 2    | 10   | 500 lb.   | –4   | –4       | 1,100 (110) | 6       | 5        | 44         | Gargantuan | 40          | Lic (+1)    |
 
 ## Bell Jet Ranger
 

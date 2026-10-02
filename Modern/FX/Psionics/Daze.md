@@ -14,7 +14,7 @@
 | Power Resistance   | Yes                             |
 | Power Point Cost   | 1                               |
 
-This power clouds the mind of a Medium-size or smaller target so that he
+This power clouds the mind of a Medium or smaller target so that he
 or she takes no actions. Creatures of 5 or more HD or levels are not
 affected. The dazed subject is not stunned (so attackers get no special
 advantage against him or her), but the subject can’t move or take

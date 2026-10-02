@@ -26,7 +26,7 @@ weapon. Dealing at least 25 points of damage to the gizzard (Defense 20)
 in this way creates an opening large enough to permit escape. Once the
 creature exits, the tyrannosaur must make a successful Fortitude save
 (DC 20) or die, whether or not the full amount of damage was dealt with
-a single blow. A Huge tyrannosaur’s gizzard can hold 2 Medium-size, 8
+a single blow. A Huge tyrannosaur’s gizzard can hold 2 Medium, 8
 Small, 32 Tiny, or 128 Diminutive or smaller opponents.
 
 ## Tyrannosaur

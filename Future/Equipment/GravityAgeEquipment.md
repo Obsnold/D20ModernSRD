@@ -128,21 +128,28 @@ records and biological knowledge, any treatments administered using the
 medicomp as a reference are more efficient, granting a +4 equipment
 bonus on all Treat Injury checks.
 
-**Table: Progress Level 7 Equipment**
+**Table: Progress Level 7 Equipment: Chemical and Medical Equipment**
 
-| Name                               | Size       | Weight  | Purchase DC | Restriction |
-| ---------------------------------- | ---------- | ------- | ----------- | ----------- |
-| **Chemical and Medical Equipment** |            |         |             |             |
-| Chemical, biocort                  | Diminutive | —       | 6           | —           |
-| **Miscellaneous Equipment**        |            |         |             |             |
-| GalPos device                      | Small      | 3 lb.   | 6           | —           |
-| Grappling tether                   | Small      | 2 lb.   | 9           | —           |
-| Piercing visor                     | Small      | 1 lb.   | 15          | Mil (+3)    |
-| Power backpack                     | Medium     | 3 lb.   | 8           | —           |
-| Projectile deflector               | Small      | 0.5 lb. | 15          | Lic (+1)    |
-| **Sensor Equipment**               |            |         |             |             |
-| Sensor, armacomp                   | Small      | 1 lb.   | 18          | —           |
-| Sensor, democomp                   | Small      | 1 lb.   | 18          | Lic (+1)    |
-| Sensor, electricomp                | Small      | 1 lb.   | 18          | —           |
-| Sensor, mechanicomp                | Small      | 1 lb.   | 18          | —           |
-| Sensor, medicomp                   | Small      | 1 lb.   | 18          | Lic (+1)    |
+| Object            | Size       | Weight | Purchase DC | Restriction |
+| ----------------- | ---------- | ------ | ----------- | ----------- |
+| Chemical, biocort | Diminutive | —      | 6           | —           |
+
+**Table: Progress Level 7 Equipment: Miscellaneous Equipment**
+
+| Object               | Size   | Weight  | Purchase DC | Restriction |
+| -------------------- | ------ | ------- | ----------- | ----------- |
+| GalPos device        | Small  | 3 lb.   | 6           | —           |
+| Grappling tether     | Small  | 2 lb.   | 9           | —           |
+| Piercing visor       | Small  | 1 lb.   | 15          | Mil (+3)    |
+| Power backpack       | Medium | 3 lb.   | 8           | —           |
+| Projectile deflector | Small  | 0.5 lb. | 15          | Lic (+1)    |
+
+**Table: Progress Level 7 Equipment: Sensor Equipment**
+
+| Object              | Size  | Weight | Purchase DC | Restriction |
+| ------------------- | ----- | ------ | ----------- | ----------- |
+| Sensor, armacomp    | Small | 1 lb.  | 18          | —           |
+| Sensor, democomp    | Small | 1 lb.  | 18          | Lic (+1)    |
+| Sensor, electricomp | Small | 1 lb.  | 18          | —           |
+| Sensor, mechanicomp | Small | 1 lb.  | 18          | —           |
+| Sensor, medicomp    | Small | 1 lb.  | 18          | Lic (+1)    |

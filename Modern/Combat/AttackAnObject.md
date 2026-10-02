@@ -20,7 +20,7 @@ Table: Size and Defense of Objects.
 | Gargantuan (army tank)      | 1       |
 | Huge (typical car)          | 3       |
 | Large (big door)            | 4       |
-| Medium-size (dirt bike)     | 5       |
+| Medium (dirt bike)          | 5       |
 | Small (chair)               | 6       |
 | Tiny (laptop computer)      | 7       |
 | Diminutive (paperback book) | 9       |
@@ -66,33 +66,31 @@ Object Hardness and Hit Points).
 
 **Table: Object Hardness and Hit Points**
 
-| Object                    | Hardness | Hit Points | Break DC |
-| ------------------------- | -------- | ---------- | -------- |
-| **Lock**                  |          |            |          |
-| Cheap                     | 0        | 1          | 10       |
-| Average                   | 3        | 5          | 15       |
-| High quality              | 5        | 10         | 20       |
-| High security             | 10       | 120        | 35       |
-| Ultrahigh security        | 20       | 150        | 40       |
-| **Manufactured objects¹** |          |            |          |
-| Fine                      | 0        | 1          | 10       |
-| Diminutive                | 0        | 1          | 10       |
-| Tiny                      | 1        | 2          | 10       |
-| Small                     | 3        | 3          | 12       |
-| Medium-size               | 5        | 5          | 15       |
-| Large                     | 5        | 10         | 15       |
-| Huge                      | 8        | 10         | 20       |
-| Gargantuan                | 8        | 20         | 30       |
-| Colossal                  | 10       | 30         | 50       |
-| Firearm, Medium-size      | 5        | 7          | 17       |
-| Rope                      | 0        | 2          | 23       |
-| Simple wooden door        | 5        | 10         | 13       |
-| Strong wooden door        | 5        | 20         | 23       |
-| Steel door                | 10       | 120        | 35       |
-| Cinderblock wall          | 8        | 90         | 35       |
-| Chain                     | 10       | 5          | 26       |
-| Handcuffs                 | 10       | 10         | 30       |
-| Metal bars                | 10       | 15         | 30       |
+| Object                           | Hardness | Hit Points | Break DC |
+| -------------------------------- | -------- | ---------- | -------- |
+| Lock, cheap                      | 0        | 1          | 10       |
+| Lock, average                    | 3        | 5          | 15       |
+| Lock, high quality               | 5        | 10         | 20       |
+| Lock, high security              | 10       | 120        | 35       |
+| Lock, ultrahigh security         | 20       | 150        | 40       |
+| Manufactured object, fine¹       | 0        | 1          | 10       |
+| Manufactured object, diminutive¹ | 0        | 1          | 10       |
+| Manufactured object, tiny¹       | 1        | 2          | 10       |
+| Manufactured object, small¹      | 3        | 3          | 12       |
+| Manufactured object, medium¹     | 5        | 5          | 15       |
+| Manufactured object, large¹      | 5        | 10         | 15       |
+| Manufactured object, huge¹       | 8        | 10         | 20       |
+| Manufactured object, gargantuan¹ | 8        | 20         | 30       |
+| Manufactured object, colossal¹   | 10       | 30         | 50       |
+| Firearm, Medium                  | 5        | 7          | 17       |
+| Rope                             | 0        | 2          | 23       |
+| Simple wooden door               | 5        | 10         | 13       |
+| Strong wooden door               | 5        | 20         | 23       |
+| Steel door                       | 10       | 120        | 35       |
+| Cinderblock wall                 | 8        | 90         | 35       |
+| Chain                            | 10       | 5          | 26       |
+| Handcuffs                        | 10       | 10         | 30       |
+| Metal bars                       | 10       | 15         | 30       |
 
 ¹ Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
 

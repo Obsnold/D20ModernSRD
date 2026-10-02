@@ -42,43 +42,38 @@ utilize.
 
 **Table: General Equipment: Professional Equipment**
 
-| Object                  | Size  | Weight  | Purchase DC | Restriction  |
-| ----------------------- | ----- | ------- | ----------- | ------------ |
-| Bolt cutter             | Med   | 5 lb.   | 6           | —            |
-| Caltrops (25)           | Small | 2 lb.   | 5           | —            |
-| Chemical kit            | Med   | 6 lb.   | 16          | —            |
-| Demolitions kit         | Med   | 5 lb.   | 13          | Lic (+1)     |
-| Disguise kit            | Med   | 5 lb.   | 12          | —            |
-| Duct tape               | Tiny  | 1 lb.   | 3           | —            |
-| **Electrical tool kit** |       |         |             |              |
-| Basic                   | Large | 12 lb.  | 14          | —            |
-| Deluxe                  | Huge  | 33 lb.  | 21          | —            |
-| **Evidence kit**        |       |         |             |              |
-| Basic                   | Med   | 6 lb.   | 7           | —            |
-| Deluxe                  | Med   | 8 lb.   | 15          | —            |
-| Fake ID                 | Fine  | —       | See text    | Illegal (+4) |
-| First aid kit           | Small | 3 lb.   | 5           | —            |
-| Forgery kit             | Small | 3 lb.   | 12          | —            |
-| **Handcuffs**           |       |         |             |              |
-| Steel                   | Tiny  | 1 lb.   | 7           | —            |
-| Zip-tie (25)            | Dim   | 0.5 lb. | 6           | —            |
-| Instrument, keyboard    | Large | 12 lb.  | 12          | —            |
-| Instrument, percussion  | Huge  | 50 lb.  | 14          | —            |
-| Instrument, stringed    | Large | 7 lb.   | 13          | —            |
-| Instrument, wind        | Tiny  | 1 lb.   | 8           | —            |
-| **Lockpicks**           |       |         |             |              |
-| Car opening kit         | Tiny  | 1 lb.   | 6           | Lic (+1)     |
-| Lockpick set            | Tiny  | 1 lb.   | 9           | Lic (+1)     |
-| Lock release gun        | Tiny  | 0.5 lb. | 12          | Res (+2)     |
-| **Mechanical tool kit** |       |         |             |              |
-| Basic                   | Large | 22 lb.  | 13          | —            |
-| Deluxe                  | Huge  | 45 lb.  | 20          | —            |
-| Medical kit             | Med   | 5 lb.   | 15          | —            |
-| Multipurpose tool       | Tiny  | 0.5 lb. | 9           | —            |
-| Pharmacist kit          | Med   | 6 lb.   | 17          | Res (+2)     |
-| Search-and-rescue kit   | Med   | 7 lb.   | 12          | —            |
-| Spike strip             | Huge  | 22 lb.  | 13          | —            |
-| Surgery kit             | Med   | 5 lb.   | 16          | Lic (+1)     |
+| Object                      | Size       | Weight  | Purchase DC | Restriction  |
+| --------------------------- | ---------- | ------- | ----------- | ------------ |
+| Bolt cutter                 | Medium     | 5 lb.   | 6           | —            |
+| Caltrops (25)               | Small      | 2 lb.   | 5           | —            |
+| Chemical kit                | Medium     | 6 lb.   | 16          | —            |
+| Demolitions kit             | Medium     | 5 lb.   | 13          | Lic (+1)     |
+| Disguise kit                | Medium     | 5 lb.   | 12          | —            |
+| Duct tape                   | Tiny       | 1 lb.   | 3           | —            |
+| Electrical tool kit, basic  | Large      | 12 lb.  | 14          | —            |
+| Electrical tool kit, deluxe | Huge       | 33 lb.  | 21          | —            |
+| Evidence kit, basic         | Medium     | 6 lb.   | 7           | —            |
+| Evidence kit, deluxe        | Medium     | 8 lb.   | 15          | —            |
+| Fake ID                     | Fine       | —       | See text    | Illegal (+4) |
+| First aid kit               | Small      | 3 lb.   | 5           | —            |
+| Forgery kit                 | Small      | 3 lb.   | 12          | —            |
+| Handcuffs, steel            | Tiny       | 1 lb.   | 7           | —            |
+| Handcuffs, zip-tie (25)     | Diminutive | 0.5 lb. | 6           | —            |
+| Instrument, keyboard        | Large      | 12 lb.  | 12          | —            |
+| Instrument, percussion      | Huge       | 50 lb.  | 14          | —            |
+| Instrument, stringed        | Large      | 7 lb.   | 13          | —            |
+| Instrument, wind            | Tiny       | 1 lb.   | 8           | —            |
+| Lockpicks, car opening kit  | Tiny       | 1 lb.   | 6           | Lic (+1)     |
+| Lockpicks, lockpick set     | Tiny       | 1 lb.   | 9           | Lic (+1)     |
+| Lockpicks, lock release gun | Tiny       | 0.5 lb. | 12          | Res (+2)     |
+| Mechanical tool kit, basic  | Large      | 22 lb.  | 13          | —            |
+| Mechanical tool kit, deluxe | Huge       | 45 lb.  | 20          | —            |
+| Medical kit                 | Medium     | 5 lb.   | 15          | —            |
+| Multipurpose tool           | Tiny       | 0.5 lb. | 9           | —            |
+| Pharmacist kit              | Medium     | 6 lb.   | 17          | Res (+2)     |
+| Search-and-rescue kit       | Medium     | 7 lb.   | 12          | —            |
+| Spike strip                 | Huge       | 22 lb.  | 13          | —            |
+| Surgery kit                 | Medium     | 5 lb.   | 16          | Lic (+1)     |
 
 ## Bolt Cutter
 
@@ -207,7 +202,7 @@ legal documents or other items not included in the kit.
 ## Handcuffs
 
 Handcuffs are restraints designed to lock two limbs—normally the
-wrists—of a prisoner together. They fit any Medium-size or Small human
+wrists—of a prisoner together. They fit any Medium or Small human
 or other creature that has an appropriate body structure.
 
 *Steel:* These heavy-duty cuffs have hardness 10, 10 hit points, a break

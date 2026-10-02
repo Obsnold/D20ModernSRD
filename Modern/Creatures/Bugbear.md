@@ -17,7 +17,7 @@ checks.
 | Stat              | Value                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------- |
 | CR                | 2                                                                                   |
-| Size              | Medium-size                                                                         |
+| Size              | Medium                                                                              |
 | Type              | humanoid                                                                            |
 | HD                | 3d8+3                                                                               |
 | hp                | 16                                                                                  |
@@ -64,7 +64,7 @@ revolver), 50 rounds of .357 ammunition, hip holster, casual clothes.
 | Stat              | Value                                                                            |
 | ----------------- | -------------------------------------------------------------------------------- |
 | CR                | 5                                                                                |
-| Size              | Medium-size                                                                      |
+| Size              | Medium                                                                           |
 | Type              | humanoid                                                                         |
 | HD                | 3d8+3 plus 3d8+3                                                                 |
 | hp                | 32                                                                               |

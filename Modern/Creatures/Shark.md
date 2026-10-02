@@ -15,7 +15,7 @@ radius and detect blood in the water at ranges of up to one mile.
 | Stat              | Value                                 |
 | ----------------- | ------------------------------------- |
 | CR                | 1                                     |
-| Size              | Medium-size                           |
+| Size              | Medium                                |
 | Type              | animal                                |
 | HD                | 3d8+3                                 |
 | hp                | 16                                    |

@@ -56,7 +56,7 @@ objects.
 | Gargantuan                     | 6d6×10            |
 | Huge                           | 3d6×10            |
 | Large                          | 1d6×10            |
-| Medium-size or smaller         | —                 |
+| Medium or smaller              | —                 |
 
 ¹ Damage is applied to the ramming starship and its target.
 

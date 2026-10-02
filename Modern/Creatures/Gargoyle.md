@@ -28,7 +28,7 @@ Terran.
 | Stat              | Value                                                                             |
 | ----------------- | --------------------------------------------------------------------------------- |
 | CR                | 4                                                                                 |
-| Size              | Medium-size                                                                       |
+| Size              | Medium                                                                            |
 | Type              | magical beast                                                                     |
 | HD                | 4d10+16                                                                           |
 | hp                | 38                                                                                |
@@ -65,7 +65,7 @@ Terran.
 **Feats:** Multiattack, Weapon Finesse (bite), Weapon Finesse (claw),
 Weapon Finesse (gore).
 
-**Advancement:** 5–6 HD (Medium-size); 7–12 HD (Large); or by character
+**Advancement:** 5–6 HD (Medium); 7–12 HD (Large); or by character
 class.
 
 ## Gargoyle Tough Hero 3
@@ -73,7 +73,7 @@ class.
 | Stat              | Value                                                                             |
 | ----------------- | --------------------------------------------------------------------------------- |
 | CR                | 7                                                                                 |
-| Size              | Medium-size                                                                       |
+| Size              | Medium                                                                            |
 | Type              | humanoid magical beast                                                            |
 | HD                | 4d10+16 plus 3d10+12 plus 3 (robust)                                              |
 | hp                | 69                                                                                |

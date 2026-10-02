@@ -53,7 +53,7 @@ Reflex save (DC 15) to halve the damage.
 | Stat              | Value                                                                           |
 | ----------------- | ------------------------------------------------------------------------------- |
 | CR                | 2                                                                               |
-| Size              | Medium-size                                                                     |
+| Size              | Medium                                                                          |
 | Type              | monstrous humanoid                                                              |
 | HD                | 2d8–2                                                                           |
 | hp                | 7                                                                               |
@@ -100,7 +100,7 @@ concealed carry holster, formal outfit.
 | Stat              | Value                                                                           |
 | ----------------- | ------------------------------------------------------------------------------- |
 | CR                | 5                                                                               |
-| Size/Type         | Medium-size monstrous humanoid                                                  |
+| Size/Type         | Medium monstrous humanoid                                                       |
 | HD                | 2d8–2 plus 1d6–2 plus 2d6–2                                                     |
 | hp                | 15                                                                              |
 | Mas               | 9                                                                               |

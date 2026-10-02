@@ -40,7 +40,7 @@ weapon. Dealing at least 20 points of damage to the gullet (Defense 25)
 in this way creates an opening large enough to permit escape. Once a
 single swallowed creature exits, muscular action closes the hole; thus,
 another swallowed creature must cut its own way out. A Huge sea
-serpent’s gullet can hold 2 Medium-size, 8 Small, 32 Tiny, or 128
+serpent’s gullet can hold 2 Medium, 8 Small, 32 Tiny, or 128
 Diminutive or smaller opponents.
 
 ## Sea Serpent

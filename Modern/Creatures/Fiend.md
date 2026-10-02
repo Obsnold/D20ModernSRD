@@ -16,7 +16,7 @@ fiend’s typical fighting space and reach.
 
 **Natural Armor:** A fiend has preternaturally tough skin and gains a
 natural armor bonus to Defense. The bonus depends on its size, and
-higher bonuses are allowable: Tiny or smaller +2, Small +5, Medium-size
+higher bonuses are allowable: Tiny or smaller +2, Small +5, Medium
 +9, Large +14, Huge +16, Gargantuan +18, Colossal +20.
 
 **Immunities (Ex):** A fiend is immune to one or more specific types of
@@ -184,11 +184,11 @@ disease spell cures the affliction.
 use animate dead (see page 339) as the spell cast by a 5th-level
 Acolyte.
 
-**Fast Healing 3 (Ex):** A rotlord that devours a Small or Medium-size
+**Fast Healing 3 (Ex):** A rotlord that devours a Small or Medium
 corpse gains the ability to heal damage at a rate of 3 hit points per
 round. Each devoured corpse provides the rotlord with 24 hours of fast
 healing. A rotlord can devour a Small corpse as a full-round action or a
-Medium-size corpse in 2 rounds.
+Medium corpse in 2 rounds.
 
 **Immunities (Ex):** A rotlord is immune to bludgeoning damage and
 poison.

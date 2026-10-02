@@ -31,7 +31,7 @@ or underground.
 | Stat              | Value                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | CR                | 1                                                                                                 |
-| Size              | Medium-size                                                                                       |
+| Size              | Medium                                                                                            |
 | Type              | monstrous humanoid                                                                                |
 | HD                | 2d8+2                                                                                             |
 | hp                | 11                                                                                                |
@@ -76,7 +76,7 @@ Listen +4, Search +5, Speak English, Survival +2.
 | Stat              | Value                                                                                                    |
 | ----------------- | -------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                        |
-| Size              | Medium-size                                                                                              |
+| Size              | Medium                                                                                                   |
 | Type              | monstrous humanoid                                                                                       |
 | HD                | 2d8+2 plus 3d8+3                                                                                         |
 | hp                | 27                                                                                                       |

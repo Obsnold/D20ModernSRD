@@ -40,7 +40,7 @@ frame.
 
 Duraplastic armor is made of advanced plastic polymers, like carbon
 fiber and high-grade fiberglass. Although relatively cheap and light, it
-doesn’t offer tremendous protection. Bioreplica robots of Medium-size or
+doesn’t offer tremendous protection. Bioreplica robots of Medium or
 smaller and liquid-state robots cannot have integrated duraplastic
 armor.
 
@@ -74,7 +74,7 @@ frame.
 ## Resilium Armor (PL 6)
 
 Resilium is more malleable alloy than duralloy, although not as strong.
-Bioreplica robots of Medium-size or smaller and liquid-state robots
+Bioreplica robots of Medium or smaller and liquid-state robots
 cannot have integrated resilium armor.
 
 **Equipment Bonus:** +6.
@@ -91,7 +91,7 @@ cannot have integrated resilium armor.
 
 “Grown” in orbital laboratories, crystal carbon is a composite fiber
 material that outperforms neovulcanium (see below) on the battlefield.
-Bioreplica robots of Medium-size or smaller and liquid-state robots
+Bioreplica robots of Medium or smaller and liquid-state robots
 cannot have integrated crystal carbon armor.
 
 **Equipment Bonus:** +8.

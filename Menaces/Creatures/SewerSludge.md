@@ -42,7 +42,7 @@ that leaves and reenters the area must make another save.
 | Stat        | Value                                                                                                    |
 | ----------- | -------------------------------------------------------------------------------------------------------- |
 | CR          | 5                                                                                                        |
-| Size        | Medium-size                                                                                              |
+| Size        | Medium                                                                                                   |
 | Type        | ooze                                                                                                     |
 | HD          | 4d10+14                                                                                                  |
 | hp          | 36                                                                                                       |

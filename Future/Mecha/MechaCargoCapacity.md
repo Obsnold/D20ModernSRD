@@ -13,5 +13,5 @@ fit inside one of these internal compartments.
 | ---------- | -------------- | ------------------- |
 | Colossal   | 1,250 lb.      | Huge                |
 | Gargantuan | 500 lb.        | Large               |
-| Huge       | 250 lb.        | Medium-size         |
+| Huge       | 250 lb.        | Medium              |
 | Large      | 50 lb.         | Small               |

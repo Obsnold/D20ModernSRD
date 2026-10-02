@@ -5,7 +5,7 @@ Your hands mutate into sharp claws.
 **MP Cost:** 1.
 
 **Benefit:** You gain a single claw attack that deals slashing damage
-dependent on your size: Small 1d4, Medium-size 1d6, Large 1d8. If you
+dependent on your size: Small 1d4, Medium 1d6, Large 1d8. If you
 get multiple attacks in a round, you can strike with multiple claws.
 Your claws are treated as natural weapons and do not provoke attacks of
 opportunity.

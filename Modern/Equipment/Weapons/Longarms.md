@@ -25,26 +25,26 @@ penalty on the attack roll when firing at an adjacent target.
 
 **Table: Ranged Weapons: Longarms (require the Personal Firearms Proficiency feat)**
 
-| Weapon                                 | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size  | Weight | Purchase DC | Restriction  |
-| -------------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ----- | ------ | ----------- | ------------ |
-| AKM/AK-47 (7.62mmR assault rifle)      | 2d8    | 20       | Ballistic   | 70 ft.          | S, A         | 30 box   | Large | 10 lb. | 15          | Res (+2)     |
-| Barrett Light Fifty (.50 sniper rifle) | 2d12   | 20       | Ballistic   | 120 ft.         | S            | 11 box   | Huge  | 35 lb. | 22          | Lic (+1)     |
-| Benelli 121 M1 (12-gauge shotgun)      | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 7 int    | Large | 8 lb.  | 17          | Lic (+1)     |
-| Beretta M3P (12-gauge shotgun)         | 2d8    | 20       | Ballistic   | 30 ft.          | S            | 5 box    | Large | 9 lb.  | 16          | Lic (+1)     |
-| Browning BPS (10-gauge shotgun)        | 2d10   | 20       | Ballistic   | 30 ft.          | Single       | 5 int.   | Large | 11 lb. | 16          | Lic (+1)     |
-| HK G3 (7.62mm assault rifle)           | 2d10   | 20       | Ballistic   | 90 ft.          | S, A         | 20 box   | Large | 11 lb. | 19          | Res (+2)     |
-| HK MP5¹(9mm submachine gun)            | 2d6    | 20       | Ballistic   | 50 ft.          | S, A         | 30 box   | Large | 7 lb.  | 20          | Res (+2)     |
-| HK MP5K (9mm submachine gun)           | 2d6    | 20       | Ballistic   | 40 ft.          | S, A         | 15 box   | Med   | 5 lb.  | 19          | Res (+2)     |
-| HK PSG1¹(7.62mm sniper rifle)          | 2d10   | 20       | Ballistic   | 90 ft.          | S            | 5 box    | Large | 16 lb. | 22          | Lic (+1)     |
-| M16A2 (5.56mm assault rifle)           | 2d8    | 20       | Ballistic   | 80 ft.          | S, A         | 30 box   | Large | 8 lb.  | 16          | Res (+2)     |
-| M4 Carbine (5.56mm assault rifle)      | 2d8    | 20       | Ballistic   | 60 ft.          | S, A         | 30 box   | Large | 7 lb.  | 16          | Res (+2)     |
-| M-60 (medium machine gun)              | 2d10   | 20       | Ballistic   | 100 ft.         | A            | Linked   | Huge  | 22 lb. | 21          | Mil (+3)     |
-| Mossberg (12-gauge shotgun)            | 2d8    | 20       | Ballistic   | 30 ft.          | Single       | 6 int.   | Large | 7 lb.  | 15          | Lic (+1)     |
-| Remington 700 (7.62mm hunting rifle)   | 2d10   | 20       | Ballistic   | 80 ft.          | Single       | 5 int.   | Large | 8 lb.  | 17          | Lic (+1)     |
-| Sawed-off shotgun (12-ga shotgun)      | 2d8    | 20       | Ballistic   | 10 ft.          | S            | 2 int.   | Med   | 4 lb.  | 15          | Illegal (+4) |
-| Steyr AUG (5.56mm assault rifle)       | 2d8    | 20       | Ballistic   | 80 ft.          | S, A         | 30 box   | Large | 9 lb.  | 19          | Res (+2)     |
-| Uzi (9mm submachine gun)               | 2d6    | 20       | Ballistic   | 40 ft.          | S, A         | 20 box   | Large | 8 lb.  | 18          | Res (+2)     |
-| Winchester 94 (.444 hunting rifle)     | 2d10   | 20       | Ballistic   | 90 ft.          | S            | 6 int.   | Large | 7 lb.  | 15          | Lic (+1)     |
+| Weapon                                 | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction  |
+| -------------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ------------ |
+| AKM/AK-47 (7.62mmR assault rifle)      | 2d8    | 20       | Ballistic   | 70 ft.          | S, A         | 30 box   | Large  | 10 lb. | 15          | Res (+2)     |
+| Barrett Light Fifty (.50 sniper rifle) | 2d12   | 20       | Ballistic   | 120 ft.         | S            | 11 box   | Huge   | 35 lb. | 22          | Lic (+1)     |
+| Benelli 121 M1 (12-gauge shotgun)      | 2d8    | 20       | Ballistic   | 40 ft.          | S            | 7 int    | Large  | 8 lb.  | 17          | Lic (+1)     |
+| Beretta M3P (12-gauge shotgun)         | 2d8    | 20       | Ballistic   | 30 ft.          | S            | 5 box    | Large  | 9 lb.  | 16          | Lic (+1)     |
+| Browning BPS (10-gauge shotgun)        | 2d10   | 20       | Ballistic   | 30 ft.          | Single       | 5 int.   | Large  | 11 lb. | 16          | Lic (+1)     |
+| HK G3 (7.62mm assault rifle)           | 2d10   | 20       | Ballistic   | 90 ft.          | S, A         | 20 box   | Large  | 11 lb. | 19          | Res (+2)     |
+| HK MP5 (9mm submachine gun)¹           | 2d6    | 20       | Ballistic   | 50 ft.          | S, A         | 30 box   | Large  | 7 lb.  | 20          | Res (+2)     |
+| HK MP5K (9mm submachine gun)           | 2d6    | 20       | Ballistic   | 40 ft.          | S, A         | 15 box   | Medium | 5 lb.  | 19          | Res (+2)     |
+| HK PSG1 (7.62mm sniper rifle)¹         | 2d10   | 20       | Ballistic   | 90 ft.          | S            | 5 box    | Large  | 16 lb. | 22          | Lic (+1)     |
+| M16A2 (5.56mm assault rifle)           | 2d8    | 20       | Ballistic   | 80 ft.          | S, A         | 30 box   | Large  | 8 lb.  | 16          | Res (+2)     |
+| M4 Carbine (5.56mm assault rifle)      | 2d8    | 20       | Ballistic   | 60 ft.          | S, A         | 30 box   | Large  | 7 lb.  | 16          | Res (+2)     |
+| M-60 (medium machine gun)              | 2d10   | 20       | Ballistic   | 100 ft.         | A            | Linked   | Huge   | 22 lb. | 21          | Mil (+3)     |
+| Mossberg (12-gauge shotgun)            | 2d8    | 20       | Ballistic   | 30 ft.          | Single       | 6 int.   | Large  | 7 lb.  | 15          | Lic (+1)     |
+| Remington 700 (7.62mm hunting rifle)   | 2d10   | 20       | Ballistic   | 80 ft.          | Single       | 5 int.   | Large  | 8 lb.  | 17          | Lic (+1)     |
+| Sawed-off shotgun (12-ga shotgun)      | 2d8    | 20       | Ballistic   | 10 ft.          | S            | 2 int.   | Medium | 4 lb.  | 15          | Illegal (+4) |
+| Steyr AUG (5.56mm assault rifle)       | 2d8    | 20       | Ballistic   | 80 ft.          | S, A         | 30 box   | Large  | 9 lb.  | 19          | Res (+2)     |
+| Uzi (9mm submachine gun)               | 2d6    | 20       | Ballistic   | 40 ft.          | S, A         | 20 box   | Large  | 8 lb.  | 18          | Res (+2)     |
+| Winchester 94 (.444 hunting rifle)     | 2d10   | 20       | Ballistic   | 90 ft.          | S            | 6 int.   | Large  | 7 lb.  | 15          | Lic (+1)     |
 
 ¹ This mastercraft weapon grants a +1 bonus on attack rolls.
 

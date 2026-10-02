@@ -14,7 +14,7 @@
 | Power Resistance   | Yes                                            |
 | Power Point Cost   | 1                                              |
 
-This power makes a Medium-size or smaller person regard the manifester
+This power makes a Medium or smaller person regard the manifester
 as his or her trusted friend and ally. If the target is currently being
 threatened or attacked by the manifester or allies, however, the subject
 receives a +5 bonus on his or her saving throw.

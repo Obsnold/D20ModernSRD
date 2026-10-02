@@ -50,7 +50,7 @@ with vehicle sizes.
 | Gargantuan (gray whale [40 ft. long]) | –4            |
 | Huge (elephant)                       | –2            |
 | Large (lion)                          | –1            |
-| Medium-size (human)                   | +0            |
+| Medium (human)                        | +0            |
 | Small (German shepherd)               | +1            |
 | Tiny (housecat)                       | +2            |
 | Diminutive (rat)                      | +4            |

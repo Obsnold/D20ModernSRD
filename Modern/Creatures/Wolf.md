@@ -19,7 +19,7 @@ when tracking by scent.
 | Stat              | Value                         |
 | ----------------- | ----------------------------- |
 | CR                | 1                             |
-| Size              | Medium-size                   |
+| Size              | Medium                        |
 | Type              | animal                        |
 | HD                | 2d8+4                         |
 | hp                | 13                            |

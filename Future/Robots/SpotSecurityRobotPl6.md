@@ -15,7 +15,7 @@ dog at distances of 100 feet or more.
 | Stat              | Value                               |
 | ----------------- | ----------------------------------- |
 | CR                | 1                                   |
-| Size              | Medium-size                         |
+| Size              | Medium                              |
 | Type              | construct                           |
 | HD                | 1d10+10                             |
 | hp                | 15                                  |

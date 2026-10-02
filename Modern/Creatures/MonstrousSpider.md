@@ -25,7 +25,7 @@ on Table: Monstrous Spider Poison.
 | Gargantuan  | 31           | 2d6 Str                  |
 | Huge        | 22           | 1d8 Str                  |
 | Large       | 17           | 1d6 Str                  |
-| Medium-size | 14           | 1d4 Str                  |
+| Medium      | 14           | 1d4 Str                  |
 | Small       | 11           | 1d3 Str                  |
 | Tiny        | 11           | 1d2 Str                  |
 
@@ -63,7 +63,7 @@ and can determine the exact location of any creature touching the web.
 | Gargantuan  | 30        | 32       | 16         |
 | Huge        | 28        | 30       | 14         |
 | Large       | 26        | 28       | 12         |
-| Medium-size | 20        | 22       | 6          |
+| Medium      | 20        | 22       | 6          |
 | Small       | 18        | 20       | 4          |
 | Tiny        | 16        | 18       | 2          |
 
@@ -74,7 +74,7 @@ bonus on Fortitude saves to negate the effects of massive damage.
 and Move Silently checks and a +8 species bonus on Spot checks. Hunting
 spiders receive a +6 species bonus on Jump checks.
 
-**Bonus Feat:** Medium-size or smaller monstrous spiders gain the bonus
+**Bonus Feat:** Medium or smaller monstrous spiders gain the bonus
 feat Weapon Finesse (bite).
 
 ## Tiny Monstrous Spider
@@ -163,12 +163,12 @@ Silently +9, Spot +12.
 
 **Advancement:** None.
 
-## Medium-size Monstrous Spider
+## Medium Monstrous Spider
 
 | Stat              | Value                                                                                           |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
 | CR                | 1                                                                                               |
-| Size              | Medium-size                                                                                     |
+| Size              | Medium                                                                                          |
 | Type              | vermin                                                                                          |
 | HD                | 2d8+2                                                                                           |
 | hp                | 11                                                                                              |

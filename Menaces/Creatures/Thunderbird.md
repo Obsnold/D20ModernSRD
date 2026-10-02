@@ -39,7 +39,7 @@ damage.
 | Stat              | Value                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                                              |
-| Size              | Medium-size                                                                                                    |
+| Size              | Medium                                                                                                         |
 | Type              | magical beast                                                                                                  |
 | HD                | 5d10+5                                                                                                         |
 | hp                | 32                                                                                                             |
@@ -75,7 +75,7 @@ Auran, Spot +5.
 
 **Feats**: Weapon Focus (bite).
 
-**Advancement:** 6–7 HD (Medium-size); 8–15 HD (Large); 16–25 HD (Huge).
+**Advancement:** 6–7 HD (Medium); 8–15 HD (Large); 16–25 HD (Huge).
 
 ## Thunderbird (Adult)
 

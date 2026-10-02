@@ -43,7 +43,7 @@ undead.
 | Stat              | Value                                                            |
 | ----------------- | ---------------------------------------------------------------- |
 | CR                | 3                                                                |
-| Size              | Medium-size                                                      |
+| Size              | Medium                                                           |
 | Type              | undead                                                           |
 | HD                | 4d12                                                             |
 | hp                | 26                                                               |
@@ -79,7 +79,7 @@ Speak Language (any one), Spot +8.
 
 **Feats:** Simple Weapons Proficiency.
 
-**Advancement:** 5–8 HD (Medium-size); 9–15 HD (Large).
+**Advancement:** 5–8 HD (Medium); 9–15 HD (Large).
 
 ## Advanced Skin Feaster
 

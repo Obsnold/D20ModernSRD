@@ -26,7 +26,7 @@ the blood drain can be too great for the host to bear. The extensive
 blood drain deals 1 point of temporary Constitution damage per day, and
 a host reduced to 0 Constitution in this fashion dies. The minimum
 number of puppeteers needed to cause temporary Constitution damage
-depends on the host’s size: Diminutive 2, Tiny 4, Small 12, Medium-size
+depends on the host’s size: Diminutive 2, Tiny 4, Small 12, Medium
 20, Large 30, Gargantuan 50, Colossal 90.
 
 **Blindsight (Ex):** A puppeteer can ascertain creatures by nonvisual
@@ -93,7 +93,7 @@ host. The host gains a +4 bonus on Listen and Spot checks.
 | Stat              | Value                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------ |
 | CR                | 5                                                                                    |
-| Size              | Medium-size                                                                          |
+| Size              | Medium                                                                               |
 | Type              | humanoid                                                                             |
 | HD                | 5d6                                                                                  |
 | hp                | 19                                                                                   |

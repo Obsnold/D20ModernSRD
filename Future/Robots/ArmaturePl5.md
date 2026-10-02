@@ -21,15 +21,14 @@ construct immunities, including immunity to critical hits.
 
 **Table: Armature Robot Frames (PL 5)**
 
-|                |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
-| -------------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |
-| **Robot Size** | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
-| Colossal       | 44                   | 32d10             | 120                  | 47                          | 6       | —       | —       | 10      | 1       | 64d10/+3 per HD                           |
-| Gargantuan     | 36                   | 16d10             | 80                   | 39                          | 6       | —       | —       | 10      | 1       | 31d10/+3 per HD                           |
-| Huge           | 28                   | 8d10              | 40                   | 31                          | 6       | —       | —       | 10      | 1       | 15d10/+2 per HD                           |
-| Large          | 24                   | 2d10              | 20                   | 23                          | 8       | —       | —       | 10      | 1       | 7d10/+1 per HD                            |
-| Medium-size    | 20                   | 1d10              | 10                   | 15                          | 10      | —       | —       | 10      | 1       | —                                         |
-| Small          | 16                   | 1/2d10            | 5                    | 11                          | 12      | —       | —       | 10      | 1       | —                                         |
-| Tiny           | 12                   | 1/4d10            | —                    | 7                           | 14      | —       | —       | 10      | 1       | —                                         |
-| Diminutive     | 8                    | 1/8d10            | —                    | 5                           | 16      | —       | —       | 10      | 1       | —                                         |
-| Fine           | 4                    | 1/16d10           | —                    | 1                           | 18      | —       | —       | 10      | 1       | —                                         |
+| Robot Size | Base Purchase DC | Base Hit Dice | Extra Hit Points | Str | Dex | Con | Int | Wis | Cha | Maximum Hit Dice/Purchase DC Modifier |
+| ---------- | ---------------- | ------------- | ---------------- | --- | --- | --- | --- | --- | --- | ------------------------------------- |
+| Colossal   | 44               | 32d10         | 120              | 47  | 6   | —   | —   | 10  | 1   | 64d10/+3 per HD                       |
+| Gargantuan | 36               | 16d10         | 80               | 39  | 6   | —   | —   | 10  | 1   | 31d10/+3 per HD                       |
+| Huge       | 28               | 8d10          | 40               | 31  | 6   | —   | —   | 10  | 1   | 15d10/+2 per HD                       |
+| Large      | 24               | 2d10          | 20               | 23  | 8   | —   | —   | 10  | 1   | 7d10/+1 per HD                        |
+| Medium     | 20               | 1d10          | 10               | 15  | 10  | —   | —   | 10  | 1   | —                                     |
+| Small      | 16               | 1/2d10        | 5                | 11  | 12  | —   | —   | 10  | 1   | —                                     |
+| Tiny       | 12               | 1/4d10        | —                | 7   | 14  | —   | —   | 10  | 1   | —                                     |
+| Diminutive | 8                | 1/8d10        | —                | 5   | 16  | —   | —   | 10  | 1   | —                                     |
+| Fine       | 4                | 1/16d10       | —                | 1   | 18  | —   | —   | 10  | 1   | —                                     |

@@ -24,7 +24,7 @@ immersion in running water (see below).
 **Attacks:** A vampire retains all the attacks of the base creature and
 gains a slam attack if it didn’t already have one. The vampire’s slam
 attack deals damage according to its size: Fine 1, Diminutive 1d2, Tiny
-1d3, Small 1d4, Medium-size 1d6, Large 1d8, Huge 2d6, Gargantuan 2d8,
+1d3, Small 1d4, Medium 1d6, Large 1d8, Huge 2d6, Gargantuan 2d8,
 Colossal 4d6.
 
 **Special Qualities:** A vampire retains all the special qualities of
@@ -176,7 +176,7 @@ character.
 | Stat              | Value                                                                                                                                                                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 7                                                                                                                                                                                                                                                             |
-| Size              | Medium-size                                                                                                                                                                                                                                                   |
+| Size              | Medium                                                                                                                                                                                                                                                        |
 | Type              | undead                                                                                                                                                                                                                                                        |
 | HD                | 5d12                                                                                                                                                                                                                                                          |
 | hp                | 32                                                                                                                                                                                                                                                            |

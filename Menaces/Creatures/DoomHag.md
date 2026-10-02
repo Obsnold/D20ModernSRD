@@ -36,7 +36,7 @@ bonus on Hide checks at night or in darkness.
 | Stat              | Value                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                         |
-| Size              | Medium-size                                                                               |
+| Size              | Medium                                                                                    |
 | Type              | undead                                                                                    |
 | HD                | 6d12                                                                                      |
 | hp                | 39                                                                                        |
@@ -77,4 +77,4 @@ three), Spot +10.
 **Possessions:** Tattered clothing, collections of scalps, teeth, and
 thighbones.
 
-**Advancement:** 7–15 HD (Medium-size).
+**Advancement:** 7–15 HD (Medium).

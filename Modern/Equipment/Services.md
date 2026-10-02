@@ -5,29 +5,25 @@ represented in overview here. Services are identified on Table:Services.
 
 **Table: Services**
 
-| Item                 | Purchase DC                            |
-| -------------------- | -------------------------------------- |
-| **Auto repair**      |                                        |
-| 1 to 10 hp damage    | 15                                     |
-| 11 to 20 hp damage   | 18                                     |
-| 21 to 30 hp damage   | 21                                     |
-| 30+ hp damage        | 24                                     |
-| Towing               | 8                                      |
-| **Bail bonds**       |                                        |
-| Property crime       | 13                                     |
-| Assault crime        | 16                                     |
-| Death crime          | 22                                     |
-| **Bribery**          |                                        |
-| Bouncer              | 6                                      |
-| Bureaucrat           | 10                                     |
-| Informant            | 7                                      |
-| Police officer       | 10                                     |
-| Legal services       | 10 + lawyer’s Knowledge (civics) ranks |
-| **Medical services** |                                        |
-| Long-term care       | 10                                     |
-| Restore hit points   | 12                                     |
-| Surgery              | 15                                     |
-| Treat poison/disease | 10                                     |
+| Item                                   | Purchase DC                            |
+| -------------------------------------- | -------------------------------------- |
+| Auto repair, 1 to 10 hp damage         | 15                                     |
+| Auto repair, 11 to 20 hp damage        | 18                                     |
+| Auto repair, 21 to 30 hp damage        | 21                                     |
+| Auto repair, 30+ hp damage             | 24                                     |
+| Auto repair, towing                    | 8                                      |
+| Bail bonds, property crime             | 13                                     |
+| Bail bonds, assault crime              | 16                                     |
+| Bail bonds, death crime                | 22                                     |
+| Bribery, bouncer                       | 6                                      |
+| Bribery, bureaucrat                    | 10                                     |
+| Bribery, informant                     | 7                                      |
+| Bribery, police officer                | 10                                     |
+| Legal services                         | 10 + lawyer’s Knowledge (civics) ranks |
+| Medical services, long-term care       | 10                                     |
+| Medical services, restore hit points   | 12                                     |
+| Medical services, surgery              | 15                                     |
+| Medical services, treat poison/disease | 10                                     |
 
 ## Auto Repair
 

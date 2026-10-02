@@ -75,14 +75,14 @@ of the sun deals 1 point of damage to the creature.
 
 **Feats:** Dodge, Improved Initiative.
 
-**Advancement:** 10–18 HD (Medium-size); 19–27 HD (Large).
+**Advancement:** 10–18 HD (Medium); 19–27 HD (Large).
 
 ## Advanced Bodak
 
 | Stat              | Value                                                                                                                                         |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 11                                                                                                                                            |
-| Size              | Medium-size                                                                                                                                   |
+| Size              | Medium                                                                                                                                        |
 | Type              | undead                                                                                                                                        |
 | HD                | 12d12                                                                                                                                         |
 | hp                | 78                                                                                                                                            |

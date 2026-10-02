@@ -7,16 +7,16 @@ Ranged Weapons.
 
 **Table: Ranged Weapons: Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**
 
-| Weapon                         | Damage   | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size  | Weight  | Purchase DC | Restriction |
-| ------------------------------ | -------- | -------- | ----------- | --------------- | ------------ | -------- | ----- | ------- | ----------- | ----------- |
-| Compound bow (Archaic)¹        | 1d8      | 20       | Piercing    | 40 ft.          | 1            | —        | Large | 3 lb.   | 10          | —           |
-| Crossbow (Simple)              | 1d10     | 19–20    | Piercing    | 40 ft.          | 1            | 1 int.   | Med   | 7 lb.   | 9           | —           |
-| Flamethrower (no feat needed)² | 3d6      | —        | Fire        | —               | 1            | 10 int.  | Large | 50 lb.  | 17          | Mil (+3)    |
-| Javelin (Simple)               | 1d6      | 20       | Piercing    | 30 ft.          | 1            | —        | Med   | 2 lb.   | 4           | —           |
-| Pepper spray (Simple)          | Special¹ | —        | Special¹    | 5 ft.           | 1            | 1 int.   | Tiny  | 0.5 lb. | 5           | —           |
-| Shuriken (Archaic)             | 1        | 20       | Piercing    | 10 ft.          | 1            | —        | Tiny  | 0.5 lb. | 3           | —           |
-| Taser (Simple)                 | 1d4¹     | —        | Electricity | 5 ft.           | 1            | 1 int.   | Small | 2 lb.   | 7           | —           |
-| Whip (Simple)                  | 1d2      | 20       | Slashing    | 15 ft.²         | 1            | —        | Small | 2 lb.   | 4           | —           |
+| Weapon                         | Damage   | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight  | Purchase DC | Restriction |
+| ------------------------------ | -------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------- | ----------- | ----------- |
+| Compound bow (Archaic)¹        | 1d8      | 20       | Piercing    | 40 ft.          | 1            | —        | Large  | 3 lb.   | 10          | —           |
+| Crossbow (Simple)              | 1d10     | 19–20    | Piercing    | 40 ft.          | 1            | 1 int.   | Medium | 7 lb.   | 9           | —           |
+| Flamethrower (no feat needed)² | 3d6      | —        | Fire        | —               | 1            | 10 int.  | Large  | 50 lb.  | 17          | Mil (+3)    |
+| Javelin (Simple)               | 1d6      | 20       | Piercing    | 30 ft.          | 1            | —        | Medium | 2 lb.   | 4           | —           |
+| Pepper spray (Simple)          | Special¹ | —        | Special¹    | 5 ft.           | 1            | 1 int.   | Tiny   | 0.5 lb. | 5           | —           |
+| Shuriken (Archaic)             | 1        | 20       | Piercing    | 10 ft.          | 1            | —        | Tiny   | 0.5 lb. | 3           | —           |
+| Taser (Simple)                 | 1d4¹     | —        | Electricity | 5 ft.           | 1            | 1 int.   | Small  | 2 lb.   | 7           | —           |
+| Whip (Simple)                  | 1d2      | 20       | Slashing    | 15 ft.²         | 1            | —        | Small  | 2 lb.   | 4           | —           |
 
 ¹ This weapon does special damage. See the weapon description.\
 ² See the description of this weapon for special rules.

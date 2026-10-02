@@ -37,7 +37,7 @@ weapon. Dealing at least 30 points of damage to the stomach (Defense 18)
 in this way creates an opening large enough to permit escape. Once a
 single swallowed creature exits, muscular action closes the hole; thus,
 another swallowed creature must cut its own way out. A Huge giant
-anaconda’s stomach can hold 1 Large, 2 Medium-size, 8 Small, 32 Tiny, or
+anaconda’s stomach can hold 1 Large, 2 Medium, 8 Small, 32 Tiny, or
 128 Diminutive or smaller opponents.
 
 ## Giant Anaconda

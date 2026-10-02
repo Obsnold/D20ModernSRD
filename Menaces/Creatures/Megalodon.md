@@ -33,7 +33,7 @@ gullet using claws or a Small or Tiny slashing weapon. Dealing at least
 opening large enough to permit escape. Once a single swallowed creature
 exits, muscular action closes the hole; thus, another swallowed creature
 must cut its own way out. A Gargantuan megalodon’s gullet can hold 2
-Huge, 8 Large, 32 Medium-size, or 128 Small or smaller opponents.
+Huge, 8 Large, 32 Medium, or 128 Small or smaller opponents.
 
 ## Megalodon
 

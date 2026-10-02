@@ -1,18 +1,18 @@
 # Tailor Memory
 
-| Stat               | Value                                |
-| ------------------ | ------------------------------------ |
-| Key Ability        | Charisma                             |
-| Descriptors        | Mind-Affecting                       |
-| Level              | Telepath 4                           |
-| Display            | Audible                              |
-| Manifestation Time | Attack action                        |
-| Range              | Medium (100 ft. + 10 ft./level)      |
-| Target             | One target of Medium-size or smaller |
-| Duration           | Instantaneous                        |
-| Saving Throw       | Will negates (see text)              |
-| Power Resistance   | Yes                                  |
-| Power Point Cost   | 7                                    |
+| Stat               | Value                           |
+| ------------------ | ------------------------------- |
+| Key Ability        | Charisma                        |
+| Descriptors        | Mind-Affecting                  |
+| Level              | Telepath 4                      |
+| Display            | Audible                         |
+| Manifestation Time | Attack action                   |
+| Range              | Medium (100 ft. + 10 ft./level) |
+| Target             | One target of Medium or smaller |
+| Duration           | Instantaneous                   |
+| Saving Throw       | Will negates (see text)         |
+| Power Resistance   | Yes                             |
+| Power Point Cost   | 7                               |
 
 The manifester inserts a memory of his or her own choosing in the
 target’s mind. The manifester can insert a memory of up to 1 round

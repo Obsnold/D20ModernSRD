@@ -17,17 +17,17 @@ base creature did not have a slam attack, use the base damage values in
 the table below. Otherwise, use the values below or the base creature’s
 base damage, whichever is greater.
 
-| Size        | Slam Damage |
-| ----------- | ----------- |
-| Fine        | 1           |
-| Diminutive  | 1d2         |
-| Tiny        | 1d3         |
-| Small       | 1d4         |
-| Medium-size | 1d6         |
-| Large       | 1d8         |
-| Huge        | 2d6         |
-| Gargantuan  | 2d8         |
-| Colossal    | 4d6         |
+| Size       | Slam Damage |
+| ---------- | ----------- |
+| Fine       | 1           |
+| Diminutive | 1d2         |
+| Tiny       | 1d3         |
+| Small      | 1d4         |
+| Medium     | 1d6         |
+| Large      | 1d8         |
+| Huge       | 2d6         |
+| Gargantuan | 2d8         |
+| Colossal   | 4d6         |
 
 **Special Qualities:** A maniac retains all the special qualities of the
 base creature and gains the additional qualities described below.
@@ -68,7 +68,7 @@ bonus feats.
 | Stat              | Value                                                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                                                               |
-| Size/Type         | Medium-size humanoid                                                                                                            |
+| Size/Type         | Medium humanoid                                                                                                                 |
 | HD                | 5d12+20 plus 3 (robust) plus 3 (Toughness)                                                                                      |
 | hp                | 58                                                                                                                              |
 | Mas               | 22                                                                                                                              |

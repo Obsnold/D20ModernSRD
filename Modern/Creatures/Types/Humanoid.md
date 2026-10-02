@@ -17,7 +17,7 @@ scores, recommended minimum Hit Dice, and damage based on size.
 
 Humanoids share the following additional traits.
 
-**Size:** Humanoids must be Medium-size or smaller.
+**Size:** Humanoids must be Medium or smaller.
 
 **Weapon and Armor Proficiency:** Humanoids with more than 1 Hit Die
 receive one bonus feat selected from the following list: Archaic Weapons
@@ -29,12 +29,12 @@ in their entries).
 
 **Table: Humanoids**
 
-| Size        | Str   | Dex   | Con   | Minimum HD | Slam¹ | Bite | Claw | Gore |
-| ----------- | ----- | ----- | ----- | ---------- | ----- | ---- | ---- | ---- |
-| Medium-size | 10–15 | 10–13 | 10–11 | 1d8        | 1d3   | 1d4  | 1d4  | 1d6  |
-| Small       | 6–11  | 12–15 | 8–9   | 1/2 d8     | 1d2   | 1d3  | 1d3  | 1d4  |
-| Tiny        | 2–7   | 14–17 | 8–9   | 1/4 d8     | 1     | 1d2  | 1d2  | 1d3  |
-| Diminutive  | 1     | 16–19 | 8–9   | 1/8 d8     | —     | 1    | 1    | 1d2  |
-| Fine        | 1     | 18–21 | 8–9   | 1/16 d8    | —     | —    | —    | 1    |
+| Size       | Str   | Dex   | Con   | Minimum HD | Slam¹ | Bite | Claw | Gore |
+| ---------- | ----- | ----- | ----- | ---------- | ----- | ---- | ---- | ---- |
+| Medium     | 10–15 | 10–13 | 10–11 | 1d8        | 1d3   | 1d4  | 1d4  | 1d6  |
+| Small      | 6–11  | 12–15 | 8–9   | 1/2 d8     | 1d2   | 1d3  | 1d3  | 1d4  |
+| Tiny       | 2–7   | 14–17 | 8–9   | 1/4 d8     | 1     | 1d2  | 1d2  | 1d3  |
+| Diminutive | 1     | 16–19 | 8–9   | 1/8 d8     | —     | 1    | 1    | 1d2  |
+| Fine       | 1     | 18–21 | 8–9   | 1/16 d8    | —     | —    | —    | 1    |
 
 ¹ Unarmed attacks qualify as slam attacks that deal nonlethal damage.

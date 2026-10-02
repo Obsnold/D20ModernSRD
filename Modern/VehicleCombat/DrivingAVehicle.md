@@ -87,7 +87,7 @@ results in a collision with the object (see Collisions and Ramming).
 | Oil slick                  | 15                |
 | **Object**                 |                   |
 | Small (tire, light debris) | 5                 |
-| Medium-size (crate)        | 10                |
+| Medium (crate)             | 10                |
 | Large (pile of wreckage)   | 15                |
 | Structure                  | Cannot be avoided |
 
@@ -186,7 +186,7 @@ collision (see Collisions and Ramming).
 | Highway speed                       | +0          |
 | All-out                             | –5          |
 
-A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object;
+A shallow gap (1 to 3 feet deep) is equivalent to a Medium object;
 the vehicle may be able to avoid taking collision damage from the failed
 jump by treating the far side as a hazard and then continue moving (see
 Avoid Hazard, above).

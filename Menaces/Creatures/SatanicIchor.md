@@ -95,14 +95,14 @@ expelled.
 
 **Feats:** None.
 
-**Advancement:** 3–5 HD (Small); 6–9 HD (Medium-size); 10–15 HD (Large).
+**Advancement:** 3–5 HD (Small); 6–9 HD (Medium); 10–15 HD (Large).
 
 ## Advanced Satanic Ichor
 
 | Stat              | Value                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------- |
 | CR                | 10                                                                                                 |
-| Size              | Medium-size                                                                                        |
+| Size              | Medium                                                                                             |
 | Type              | ooze                                                                                               |
 | HD                | 8d10+36                                                                                            |
 | hp                | 80                                                                                                 |

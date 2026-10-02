@@ -44,7 +44,7 @@ Vehicles)
 | Gargantuan   | –4            | Tank, limousine              |
 | Huge         | –2            | Luxury car, SUV, armored car |
 | Large        | –1            | Economy car, Harley          |
-| Medium-size  | +0            | Racing bike, dirt bike       |
+| Medium       | +0            | Racing bike, dirt bike       |
 
 ## Facing and Firing Arcs
 

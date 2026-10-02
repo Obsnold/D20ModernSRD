@@ -45,7 +45,7 @@ single 500-foot square.
 | Iceball, Gargantuan      | 1       | 0        | 1,800      |
 | Iceball, Huge            | 3       | 0        | 900        |
 | Iceball, Large           | 4       | 0        | 225        |
-| Mine (Medium-size)       | 5       | 10       | 50         |
+| Mine (Medium)            | 5       | 10       | 50         |
 | Space hulk, Colossal     | –3      | 10       | 3,600      |
 | Space hulk, Gargantuan   | 1       | 10       | 900        |
 | Space hulk, Huge         | 3       | 10       | 450        |

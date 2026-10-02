@@ -13,12 +13,12 @@ water, attempting to pin it to the bottom.
 **Skill Bonus:** Crocodiles gain a +12 species bonus on Hide checks when
 submerged.
 
-## Medium-Size Crocodile
+## Medium Crocodile
 
 | Stat              | Value                                                   |
 | ----------------- | ------------------------------------------------------- |
 | CR                | 2                                                       |
-| Size              | Medium-size                                             |
+| Size              | Medium                                                  |
 | Type              | animal                                                  |
 | HD                | 3d8+9                                                   |
 | hp                | 22                                                      |
@@ -53,7 +53,7 @@ submerged.
 
 **Feats:** None.
 
-**Advancement:** 4–5 HD (Medium-size); 6–7 HD (Large).
+**Advancement:** 4–5 HD (Medium); 6–7 HD (Large).
 
 ## Huge Crocodile
 

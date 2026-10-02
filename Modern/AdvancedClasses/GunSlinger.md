@@ -73,7 +73,7 @@ The following features pertain to the Gunslinger advanced class.
 ### Close Combat Shot
 
 At 1st level, a Gunslinger gains the ability to make a ranged attack
-with a Medium-size or smaller firearm while in a threatened area without
+with a Medium or smaller firearm while in a threatened area without
 provoking an attack of opportunity.
 
 ### Weapon Focus

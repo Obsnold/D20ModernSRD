@@ -29,7 +29,7 @@ Proficiency.
 | Stat              | Value                                             |
 | ----------------- | ------------------------------------------------- |
 | CR                | 1                                                 |
-| Size              | Medium-size                                       |
+| Size              | Medium                                            |
 | Type              | fey                                               |
 | HD                | 2d6                                               |
 | hp                | 7                                                 |
@@ -75,7 +75,7 @@ Proficiency.
 | Stat              | Value                                                        |
 | ----------------- | ------------------------------------------------------------ |
 | CR                | 5                                                            |
-| Size              | Medium-size                                                  |
+| Size              | Medium                                                       |
 | Type              | fey                                                          |
 | HD                | 2d6 plus 3d8 plus 1d6                                        |
 | hp                | 23                                                           |

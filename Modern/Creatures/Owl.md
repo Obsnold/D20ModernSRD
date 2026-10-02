@@ -49,4 +49,4 @@ darkness).
 
 **Feats:** Weapon Finesse (claw).
 
-**Advancement:** 1 HD (Small); 2 HD (Medium-size); 3–4 HD (Large).
+**Advancement:** 1 HD (Small); 2 HD (Medium); 3–4 HD (Large).

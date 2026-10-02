@@ -192,23 +192,30 @@ for 1 hour. After that hour, the spray begins to dissolve and no longer
 functions. Each canister of spray LCD is enough to produce one working
 LCD.
 
-**Table: Progress Level 5 Equipment**
+**Table: Progress Level 5 Equipment: Computer Equipment**
 
-| Name                           | Size       | Weight  | Purchase DC | Restriction |
+| Object          | Size       | Weight | Purchase DC | Restriction |
+| --------------- | ---------- | ------ | ----------- | ----------- |
+| Display glasses | Tiny       | 1 lb.  | 12          | —           |
+| Hackcard        | Diminutive | —      | 14          | Lic (+1)    |
+
+**Table: Progress Level 5 Equipment: Miscellaneous Equipment**
+
+| Object           | Size       | Weight  | Purchase DC | Restriction |
+| ---------------- | ---------- | ------- | ----------- | ----------- |
+| Duracable        | Medium     | 3 lb.   | 4           | —           |
+| Grappler tag     | Tiny       | 1 lb.   | 5           | —           |
+| Explorer outfit  | Medium     | 2 lb.   | 6           | —           |
+| Heads-up display | Tiny       | 1 lb.   | 7           | —           |
+| Laser tripwire   | Diminutive | —       | 5           | —           |
+| Nanobeacon       | Fine       | —       | 8           | —           |
+| Shepherd chip    | Fine       | —       | 12          | —           |
+| Spray LCD        | Tiny       | 0.5 lb. | 8           | —           |
+
+**Table: Progress Level 5 Equipment: Survival Equipment**
+
+| Object                         | Size       | Weight  | Purchase DC | Restriction |
 | ------------------------------ | ---------- | ------- | ----------- | ----------- |
-| **Computer Equipment**         |            |         |             |             |
-| Display glasses                | Tiny       | 1 lb.   | 12          | —           |
-| Hackcard                       | Diminutive | —       | 14          | Lic (+1)    |
-| **Miscellaneous Equipment**    |            |         |             |             |
-| Duracable                      | Medium     | 3 lb.   | 4           | —           |
-| Grappler tag                   | Tiny       | 1 lb.   | 5           | —           |
-| Explorer outfit                | Medium     | 2 lb.   | 6           | —           |
-| Heads-up display               | Tiny       | 1 lb.   | 7           | —           |
-| Laser tripwire                 | Diminutive | —       | 5           | —           |
-| Nanobeacon                     | Fine       | —       | 8           | —           |
-| Shepherd chip                  | Fine       | —       | 12          | —           |
-| Spray LCD                      | Tiny       | 0.5 lb. | 8           | —           |
-| **Survival Equipment**         |            |         |             |             |
 | Portable environment generator | Medium     | 5 lb.   | 13          | —           |
 | Portable glow lamp             | Tiny       | 0.5 lb. | 4           | —           |
 | Puritizer                      | Small      | 2 lb.   | 9           | —           |

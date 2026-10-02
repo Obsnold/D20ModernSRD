@@ -97,32 +97,29 @@ and shaken for 1d4 rounds.
 Sonic beams do not use ammunition, but are instead powered by power
 packs.
 
-**Table: Progress Level 8 Ranged Weapons**
+**Table: Progress Level 8 Ranged Weapons (require the Personal Firearms Proficiency feat)**
 
-| Weapon¹       | Damage        | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| Weapon        | Damage        | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | ------------- | ------------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
 | Cryonic rifle | 3d6           | 20       | Cold        | 20 feet         | S            | 10 box   | Large  | 8 lb.  | 21          | Lic (+1)    |
-| Disintegrator | 3d8           | 20       | Energy²     | 30 feet         | S            | 10 box   | Large  | 6 lb.  | 23          | Mil (+3)    |
+| Disintegrator | 3d8           | 20       | Energy¹     | 30 feet         | S            | 10 box   | Large  | 6 lb.  | 23          | Mil (+3)    |
 | Lightning gun | 3d6           | 20       | Electricity | 50 feet         | S, A         | 30 box   | Huge   | 30 lb. | 24          | Mil (+3)    |
 | Pulse rifle   | 3d10          | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 11 lb. | 21          | Res (+2)    |
 | Sonic beam    | 2d6 + special | 20       | Sonic       | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 18          | Lic (+1)    |
 
-¹ All weapons listed in this table require the Personal Firearms Proficiency feat.\
-² This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.
+¹ This weapon deals damage of a nonspecific energy type that is not subject to energy resistance.
 
-**Table: Progress Level 8 Melee Weapons**
+**Table: Progress Level 8 Melee Weapons (require the Simple Weapons Proficiency feat)**
 
-| Weapon¹    | Damage | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |     |     |
-| ---------- | ------ | -------- | ----------- | --------------- | ------ | ------ | ----------- | ----------- | --- | --- |
-| Beam sword | 2d8    | 19–20    | Fire        | —               | Medium | 1 lb.  | 17          | —           |     |     |
-
-¹ All weapons listed in this table require the Simple Weapons Proficiency feat.
+| Weapon     | Damage | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |
+| ---------- | ------ | -------- | ----------- | --------------- | ------ | ------ | ----------- | ----------- |
+| Beam sword | 2d8    | 19–20    | Fire        | —               | Medium | 1 lb.  | 17          | —           |
 
 **Table: Progress Level 8 Ammunition Types**
 
-| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction |     |     |     |     |     |     |     |
-| --------------------- | ----------- | ----------- | ----------- | --- | --- | --- | --- | --- | --- | --- |
-| Phasing (20)          | Ballistic   | 16          | Res (+2)    |     |     |     |     |     |     |     |
+| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction |
+| --------------------- | ----------- | ----------- | ----------- |
+| Phasing (20)          | Ballistic   | 16          | Res (+2)    |
 
 **Table: Progress Level 8 Explosives And Splash Weapons**
 

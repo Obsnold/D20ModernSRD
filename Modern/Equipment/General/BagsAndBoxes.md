@@ -6,18 +6,18 @@ around in.
 
 **Table: General Equipment: Bags and Boxes**
 
-| Object                               | Size  | Weight | Purchase DC | Restriction |
-| ------------------------------------ | ----- | ------ | ----------- | ----------- |
-| Aluminum travel case 10 lb. Capacity | Med   | 5 lb.  | 10          | —           |
-| Aluminum travel case 40 lb. Capacity | Large | 10 lb. | 11          | —           |
-| Aluminum travel case 75 lb. capacity | Large | 15 lb. | 12          | —           |
-| Briefcase                            | Med   | 2 lb.  | 7           | —           |
-| Contractor’s field bag               | Med   | 2 lb.  | 6           | —           |
-| Day pack                             | Small | 2 lb.  | 5           | —           |
-| Handbag                              | Small | 1 lb.  | 4           | —           |
-| Range pack Standard                  | Small | 2 lb.  | 7           | —           |
-| Range pack Oversized                 | Med   | 3 lb.  | 9           | —           |
-| Patrol box                           | Med   | 4 lb.  | 9           | —           |
+| Object                               | Size   | Weight | Purchase DC | Restriction |
+| ------------------------------------ | ------ | ------ | ----------- | ----------- |
+| Aluminum travel case 10 lb. Capacity | Medium | 5 lb.  | 10          | —           |
+| Aluminum travel case 40 lb. Capacity | Large  | 10 lb. | 11          | —           |
+| Aluminum travel case 75 lb. capacity | Large  | 15 lb. | 12          | —           |
+| Briefcase                            | Medium | 2 lb.  | 7           | —           |
+| Contractor’s field bag               | Medium | 2 lb.  | 6           | —           |
+| Day pack                             | Small  | 2 lb.  | 5           | —           |
+| Handbag                              | Small  | 1 lb.  | 4           | —           |
+| Range pack Standard                  | Small  | 2 lb.  | 7           | —           |
+| Range pack Oversized                 | Medium | 3 lb.  | 9           | —           |
+| Patrol box                           | Medium | 4 lb.  | 9           | —           |
 
 ## Aluminum Travel Case
 

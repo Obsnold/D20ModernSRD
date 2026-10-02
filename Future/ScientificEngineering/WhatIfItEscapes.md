@@ -25,7 +25,7 @@ varies widely.
 | Diminutive    | Once every minute   |
 | Tiny          | Once every hour     |
 | Small         | Once every 4 hours  |
-| Medium-size   | Once every 6 hours  |
+| Medium        | Once every 6 hours  |
 | Large         | Once every 8 hours  |
 | Huge          | Once every 12 hours |
 | Gargantuan    | Once every 24 hours |

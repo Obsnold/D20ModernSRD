@@ -191,7 +191,7 @@ the check.
 | Diminutive                                              | +8                       |
 | Tiny                                                    | +4                       |
 | Small                                                   | +0                       |
-| Medium-size                                             | –4                       |
+| Medium                                                  | –4                       |
 | Large                                                   | –8                       |
 | Huge or larger                                          | can’t conceal            |
 | Clothing is tight or small                              | –4                       |
@@ -342,7 +342,7 @@ ground, pushing an object that snags) can reduce them to one-half or
 less.
 
 **Bigger and Smaller Creatures:** The figures on Table: Carrying
-Capacity are for Medium-size bipedal creatures. Larger bipedal creatures
+Capacity are for Medium bipedal creatures. Larger bipedal creatures
 can carry more weight depending on size category: Large x2, Huge x4,
 Gargantuan x8, and Colossal x16. Smaller creatures can carry less weight
 depending on size category: Small x3/4, Tiny x1/2, Diminutive x1/4, and
@@ -350,7 +350,7 @@ Fine x1/8.
 
 Quadrupeds, such as horses, can carry heavier loads than characters can.
 Use these multipliers instead of the ones given above: Fine x1/4,
-Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge
+Diminutive x1/2, Tiny x3/4, Small x1, Medium x1.5, Large x3, Huge
 x6, Gargantuan x12, and Colossal x24.
 
 **Tremendous Strength:** For Strength scores not listed, find the

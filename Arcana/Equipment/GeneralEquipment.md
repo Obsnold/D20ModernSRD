@@ -18,36 +18,38 @@ General Equipment).
 
 **Restriction:** The restriction rating for the item.
 
-**Table: General Equipment**
+**Table: General Equipment: Clothing**
 
-| Item                               | Weight  | Purchase DC | Restriction |
+| Object                        | Weight | Purchase DC | Restriction |
+| ----------------------------- | ------ | ----------- | ----------- |
+| Clothing outfit, business     | 3 lb.  | 12          | —           |
+| Clothing outfit, double-sided | ¹      | +1¹         | —           |
+| Clothing outfit, stealth      | 2 lb.  | 9           | —           |
+
+**Table: General Equipment: Surveillance Gear**
+
+| Object                                     | Weight  | Purchase DC | Restriction |
+| ------------------------------------------ | ------- | ----------- | ----------- |
+| Bug sweeper                                | 4.5 lb. | 21          | —           |
+| Fiber optic camera, 3-foot cable w/monitor | 3.5 lb. | 17          | —           |
+| Fiber optic camera, 6-foot cable w/monitor | 4.5 lb. | 18          | —           |
+| Fiber optic camera, 9-foot cable w/monitor | 5.5 lb. | 19          | —           |
+| Microphone, contact                        | 1 lb.   | 12          | —           |
+| Microphone, laser                          | 3.5 lb. | 18          | —           |
+| Microphone, parabolic                      | 4.5 lb. | 14          | —           |
+| Microphone, pick-up                        | .5 lb.  | 12          | —           |
+| Microphone, shotgun                        | 3.5 lb. | 14          | —           |
+| Microtransmitter, average quality          | —       | 11          | —           |
+| Microtransmitter, good quality             | —       | 12          | —           |
+| Microtransmitter, amazing quality          | —       | 14          | —           |
+| Police scanner                             | 2 lb.   | 11          | —           |
+| Video shades, black and white              | —       | 23          | —           |
+| Video shades, color                        | —       | 24          | —           |
+
+**Table: General Equipment: Professional Equipment**
+
+| Object                             | Weight  | Purchase DC | Restriction |
 | ---------------------------------- | ------- | ----------- | ----------- |
-| ***Clothing***                     |         |             |             |
-| **Clothing outfit**                |         |             |             |
-| Business                           | 3 lb.   | 12          | —           |
-| Double-sided                       | ¹       | +1¹         | —           |
-| Stealth                            | 2 lb.   | 9           | —           |
-| ***Surveillance Gear***            |         |             |             |
-| Bug sweeper                        | 4.5 lb. | 21          | —           |
-| **Fiber optic camera**             |         |             |             |
-| 3-foot cable w/monitor             | 3.5 lb. | 17          | —           |
-| 6-foot cable w/monitor             | 4.5 lb. | 18          | —           |
-| 9-foot cable w/monitor             | 5.5 lb. | 19          | —           |
-| **Microphone**                     |         |             |             |
-| Contact                            | 1 lb.   | 12          | —           |
-| Laser                              | 3.5 lb. | 18          | —           |
-| Parabolic                          | 4.5 lb. | 14          | —           |
-| Pick-up                            | .5 lb.  | 12          | —           |
-| Shotgun                            | 3.5 lb. | 14          | —           |
-| **Microtransmitter**               |         |             |             |
-| Average quality                    | —       | 11          | —           |
-| Good quality                       | —       | 12          | —           |
-| Amazing quality                    | —       | 14          | —           |
-| Police scanner                     | 2 lb.   | 11          | —           |
-| **Video shades**                   |         |             |             |
-| Black and white                    | —       | 23          | —           |
-| Color                              | —       | 24          | —           |
-| ***Professional Equipment***       |         |             |             |
 | Breaking and entering kit          | 50 lb   | 20          | Ill (+4)    |
 | Capture kit                        | 57 lb.  | 21          | Res (+2)    |
 | Chemistry kit                      | 15 lb.  | 13          | Licensed    |
@@ -68,11 +70,15 @@ General Equipment).
 | Road flare (3)                     | 1.5 lb. | 3           | —           |
 | Vampire slayer’s kit               | 20 lb.  | 16          | Res (+2)    |
 | Winch, portable                    | 15 lb.  | 16          | —           |
-| ***Sports Equipment***             |         |             |             |
-| In-line skates                     | 5 lb.   | 11          | —           |
-| Skateboard                         | 3 lb.   | 7           | —           |
-| Skis and poles                     | 10 lb.  | 19          | —           |
-| Snowboard                          | 8 lb.   | 16          | —           |
+
+**Table: General Equipment: Sports Equipment**
+
+| Object         | Weight | Purchase DC | Restriction |
+| -------------- | ------ | ----------- | ----------- |
+| In-line skates | 5 lb.  | 11          | —           |
+| Skateboard     | 3 lb.  | 7           | —           |
+| Skis and poles | 10 lb. | 19          | —           |
+| Snowboard      | 8 lb.  | 16          | —           |
 
 ¹ See item description for more information.
 

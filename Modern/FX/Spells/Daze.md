@@ -13,7 +13,7 @@
 | Saving Throw     | Will negates                    |
 | Spell Resistance | Yes                             |
 
-This enchantment clouds the mind of a humanoid of Medium-size or smaller
+This enchantment clouds the mind of a humanoid of Medium or smaller
 so that he takes no actions. Humanoids of 5 or more HD are not affected.
 The dazed subject is not stunned (so attackers get no special advantage
 against him or her), but the subject can’t move, cast spells, use mental

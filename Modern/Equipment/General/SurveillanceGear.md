@@ -5,19 +5,18 @@ a crucial part of the modern adventurer’s job.
 
 **Table: General Equipment: Surveillance Gear**
 
-| Object                | Size  | Weight  | Purchase DC | Restriction  |
-| --------------------- | ----- | ------- | ----------- | ------------ |
-| Black box             | Tiny  | 0.5 lb. | 4           | Illegal (+4) |
-| Caller ID defeater    | Tiny  | 1 lb.   | 5           | —            |
-| Cellular interceptor  | Tiny  | 0.5 lb. | 23          | —            |
-| Lineman’s buttset     | Tiny  | 1 lb.   | 13          | Lic (+1)     |
-| Metal detector        | Small | 2 lb.   | 11          | —            |
-| Night vision goggles  | Small | 3 lb.   | 17          | —            |
-| Tap detector          | Tiny  | 1 lb.   | 7           | —            |
-| **Telephone tap**     |       |         |             |              |
-| Line tap              | Tiny  | 0.5 lb. | 13          | Lic (+1)     |
-| Receiver tap          | Tiny  | 0.5 lb. | 3           | Res (+2)     |
-| Telephone line tracer | Med   | 5 lb.   | 23          | —            |
+| Object                      | Size   | Weight  | Purchase DC | Restriction  |
+| --------------------------- | ------ | ------- | ----------- | ------------ |
+| Black box                   | Tiny   | 0.5 lb. | 4           | Illegal (+4) |
+| Caller ID defeater          | Tiny   | 1 lb.   | 5           | —            |
+| Cellular interceptor        | Tiny   | 0.5 lb. | 23          | —            |
+| Lineman’s buttset           | Tiny   | 1 lb.   | 13          | Lic (+1)     |
+| Metal detector              | Small  | 2 lb.   | 11          | —            |
+| Night vision goggles        | Small  | 3 lb.   | 17          | —            |
+| Tap detector                | Tiny   | 1 lb.   | 7           | —            |
+| Telephone tap, line tap     | Tiny   | 0.5 lb. | 13          | Lic (+1)     |
+| Telephone tap, receiver tap | Tiny   | 0.5 lb. | 3           | Res (+2)     |
+| Telephone line tracer       | Medium | 5 lb.   | 23          | —            |
 
 ## Black Box
 

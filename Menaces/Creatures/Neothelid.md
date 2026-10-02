@@ -50,7 +50,7 @@ Tiny slashing weapon. Dealing at least 25 points of damage to the
 gizzard (Defense 20) in this way creates an opening large enough to
 permit escape. Once a single swallowed creature exits, muscular action
 closes the hole; thus, another swallowed creature must cut its own way
-out. A Gargantuan neothelid’s gizzard can hold 2 Large, 8 Medium-size,
+out. A Gargantuan neothelid’s gizzard can hold 2 Large, 8 Medium,
 32 Small, or 128 Tiny or smaller opponents.
 
 ## Neothelid

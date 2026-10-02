@@ -4,14 +4,17 @@ Mounting a motorcycle is a free action, and the motorcycle provides no
 cover to its occupants—except as noted below. The operative skill for
 motorcycles is Drive.
 
-**Table: Civilian Motorcycles**
+**Table: Civilian Motorcycles: Progress Level 6: Fusion Age**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
-| --------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | ---- | ---------- | ---- | ----------- | ----------- |
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
-| Harris-Musselman dirt bike        | 1    | 0    | F     | +0   | +1       | 180 (18)  | 10      | 5    | 19         | M    | 24          | Lic (+1)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| Stradtler Valkyrie                | 1    | 1    | F     | –2   | +1       | 295 (29)  | 9       | 5    | 24         | L    | 28          | Lic (+1)    |
+| Name                       | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size   | Purchase DC | Restriction |
+| -------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ------ | ----------- | ----------- |
+| Harris-Musselman dirt bike | 1    | 0    | F     | +0   | +1       | 180 (18)  | 10      | 5        | 19         | Medium | 24          | Lic (+1)    |
+
+**Table: Civilian Motorcycles: Progress Level 7: Gravity Age**
+
+| Name               | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size  | Purchase DC | Restriction |
+| ------------------ | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ----- | ----------- | ----------- |
+| Stradtler Valkyrie | 1    | 1    | F     | –2   | +1       | 295 (29)  | 9       | 5        | 24         | Large | 28          | Lic (+1)    |
 
 ## Harris-Musselman Dirt Bike (PL 6)
 

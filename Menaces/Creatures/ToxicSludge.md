@@ -15,7 +15,7 @@ the toxic sludge.
 **Expansion (Ex):** A toxic sludge absorbs the bodies of creatures it
 has killed in battle. This process takes a number of rounds depending on
 the size of the corpse: Diminutive or smaller 1, Tiny 2, Small 4,
-Medium-size 8, Large 16, Huge 32, Gargantuan 64, and Colossal 128. The
+Medium 8, Large 16, Huge 32, Gargantuan 64, and Colossal 128. The
 sludge grows by 1 Hit Die for every 16 rounds it spends consuming
 bodies, to a maximum of 45 Hit Dice.
 

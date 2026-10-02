@@ -4,16 +4,19 @@ Trucks usually have the same features as civilian cars, with the same
 luxury options. Trucks provide three-quarters cover to their occupants,
 except as noted below. The operative skill for trucks is Drive.
 
-**Table: Civilian Trucks**
+**Table: Civilian Trucks: Progress Level 6: Fusion Age**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
-| --------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | ---- | ---------- | ---- | ----------- | ----------- |
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
-| Cretan Motors “Hecaton”           | 1    | 4    | H     | –1   | –1       | 190 (19)  | 6       | 5    | 39         | G    | 31          | Lic (+1)    |
-| Cretan Motors Kentaur             | 1    | 3    | L     | –1   | +0       | 210 (21)  | 8       | 5    | 36         | H    | 30          | Lic (+1)    |
-| Gaia Motor Company Virgo          | 1    | 6    | M     | –2   | –2       | 215 (21)  | 8       | 5    | 35         | H    | 29          | Lic (+1)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| Zhang Motors XRL (SUV)            | 1    | 3    | L     | –2   | –1       | 245 (24)  | 8       | 5    | 40         | H    | 32          | Lic (+1)    |
+| Name                     | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| ------------------------ | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Cretan Motors “Hecaton”  | 1    | 4    | H     | –1   | –1       | 190 (19)  | 6       | 5        | 39         | Gargantuan | 31          | Lic (+1)    |
+| Cretan Motors Kentaur    | 1    | 3    | L     | –1   | +0       | 210 (21)  | 8       | 5        | 36         | Huge       | 30          | Lic (+1)    |
+| Gaia Motor Company Virgo | 1    | 6    | M     | –2   | –2       | 215 (21)  | 8       | 5        | 35         | Huge       | 29          | Lic (+1)    |
+
+**Table: Civilian Trucks: Progress Level 7: Gravity Age**
+
+| Name                   | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
+| ---------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---- | ----------- | ----------- |
+| Zhang Motors XRL (SUV) | 1    | 3    | L     | –2   | –1       | 245 (24)  | 8       | 5        | 40         | Huge | 32          | Lic (+1)    |
 
 ## Cretan Motors “Hecaton” (PL 6)
 

@@ -16,7 +16,7 @@ given with each robot’s statistics (below).
 
 **Attacks:** A robot is not normally equipped with weapons. Robots
 fitted with arms or similar manipulators can attempt to grapple things,
-but only robots of Medium-size or larger can use their manipulators to
+but only robots of Medium or larger can use their manipulators to
 deal damage.
 
 **Skills:** A character with four or more levels in the Techie advanced
@@ -25,7 +25,7 @@ otherwise, the robot has no skills.
 
 ## Building a Robot
 
-Follow these two steps to create Small or Medium-size robots.
+Follow these two steps to create Small or Medium robots.
 
 **1. Wealth Check:** The purchase DC for the components needed to
 construct a robot is based on its size category.
@@ -33,20 +33,20 @@ construct a robot is based on its size category.
 Make a Wealth check to purchase and gather the necessary components
 before starting construction.
 
-| Size        | Purchase DC |
-| ----------- | ----------- |
-| Small       | 21          |
-| Medium-size | 24          |
+| Size   | Purchase DC |
+| ------ | ----------- |
+| Small  | 21          |
+| Medium | 24          |
 
 **2. Construct Frame:** The robot’s body determines its size, shape,
 locomotion, and hit points. The DC of the required Craft (mechanical)
 check is set by the robot’s size and modified by the mode of locomotion
 selected (see the Techie advanced class description).
 
-| Size        | Craft (mechanical) DC |
-| ----------- | --------------------- |
-| Small       | 18                    |
-| Medium-size | 21                    |
+| Size   | Craft (mechanical) DC |
+| ------ | --------------------- |
+| Small  | 18                    |
+| Medium | 21                    |
 
 In addition to the external components noted in the Techie advanced
 class description, a Techie can add additional components, weapons, and
@@ -140,12 +140,12 @@ flood spotlight.
 
 **Advancement:** None.
 
-## Medium-Size Robot
+## Medium Robot
 
 | Stat              | Value                                                                       |
 | ----------------- | --------------------------------------------------------------------------- |
 | CR                | 1                                                                           |
-| Size              | Medium-size                                                                 |
+| Size              | Medium                                                                      |
 | Type              | construct                                                                   |
 | HD                | 2d10+10                                                                     |
 | hp                | 21                                                                          |
@@ -189,7 +189,7 @@ flood spotlight.
 | Stat              | Value                                                       |
 | ----------------- | ----------------------------------------------------------- |
 | CR                | 1                                                           |
-| Size              | Medium-size                                                 |
+| Size              | Medium                                                      |
 | Type              | construct                                                   |
 | HD                | 2d10+10                                                     |
 | hp                | 21                                                          |

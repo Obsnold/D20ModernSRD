@@ -55,7 +55,7 @@ keeps the extra feat it gained as a 1st-level human character.
 | Stat              | Value                                                                            |
 | ----------------- | -------------------------------------------------------------------------------- |
 | CR                | 10                                                                               |
-| Size              | Medium-size                                                                      |
+| Size              | Medium                                                                           |
 | Type              | humanoid                                                                         |
 | HD                | 9d10+63                                                                          |
 | hp                | 112                                                                              |

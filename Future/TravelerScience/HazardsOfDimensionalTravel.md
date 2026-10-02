@@ -90,11 +90,11 @@ target, takes 2d6 points of Constitution damage, and is nauseated for
 A potential risk in traveling to other dimensions is a matter of size:
 Is everything in the other dimension on the same scale as the travelers
 who visit it? A scale variance can be simulated by changing a
-character’s effective size. For example, a Medium-size character might
+character’s effective size. For example, a Medium character might
 be considered Fine in the new dimension. Such a variance, of course,
 changes the character’s size modifier to attack rolls and Defense. Speed
 also changes, multiplied by a factor based on the change in size: Fine
-×0.16, Diminutive ×0.33, Tiny ×0.5, Small ×0.66, Medium-size ×1, Large
+×0.16, Diminutive ×0.33, Tiny ×0.5, Small ×0.66, Medium ×1, Large
 ×1.33, Huge ×2, Gargantuan ×2.66, Colossal ×3.33.
 
 The damage a character deals with natural and artificial weapons also

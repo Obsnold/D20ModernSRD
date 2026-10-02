@@ -132,12 +132,12 @@ object’s HD + object’s Strength bonus) for half damage.
 
 **Advancement:** None.
 
-## Medium-size Animated Object
+## Medium Animated Object
 
 | Stat              | Value                                   |
 | ----------------- | --------------------------------------- |
 | CR                | 2                                       |
-| Size              | Medium-size                             |
+| Size              | Medium                                  |
 | Type              | construct                               |
 | HD                | 2d10+10                                 |
 | hp                | 21                                      |

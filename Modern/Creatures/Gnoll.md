@@ -12,7 +12,7 @@ Proficiency.
 | Stat              | Value                                                                            |
 | ----------------- | -------------------------------------------------------------------------------- |
 | CR                | 1                                                                                |
-| Size              | Medium-size                                                                      |
+| Size              | Medium                                                                           |
 | Type              | humanoid                                                                         |
 | HD                | 2d8+2                                                                            |
 | hp                | 11                                                                               |
@@ -57,7 +57,7 @@ Proficiency.
 | Stat              | Value                                                                            |
 | ----------------- | -------------------------------------------------------------------------------- |
 | CR                | 3                                                                                |
-| Size              | Medium-size                                                                      |
+| Size              | Medium                                                                           |
 | Type              | humanoid                                                                         |
 | HD                | 2d8+2 plus 2d8+2                                                                 |
 | hp                | 22                                                                               |

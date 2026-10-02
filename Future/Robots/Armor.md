@@ -28,6 +28,6 @@ Hide, Jump, Move Silently, and Tumble checks.
 Installing integrated armor on a robot requires a Craft (mechanical)
 check (DC 20). The check is made after investing an amount of time
 determined by the robot’s size: Colossal 24 hours, Gargantuan 12 hours,
-Huge 6 hours, Large 3 hours, Medium-size 2 hours, Small 1 hour, Tiny or
+Huge 6 hours, Large 3 hours, Medium 2 hours, Small 1 hour, Tiny or
 smaller 30 minutes. Integrated armor can be removed in half the time
 with a successful Repair check (DC 20).

@@ -8,7 +8,7 @@ as the base creature). A skeleton uses all the base creature’s
 statistics except as noted here.
 
 **Challenge Rating:** A skeleton’s Challenge Rating depends on its size:
-Tiny or smaller 1/10, Small 1/6, Medium-size 1/3, Large 2, Huge 5,
+Tiny or smaller 1/10, Small 1/6, Medium 1/3, Large 2, Huge 5,
 Gargantuan 9, Colossal 12.
 
 **Type:** The creature’s type changes to undead.
@@ -20,7 +20,7 @@ the remaining Hit Dice to d12.
 creature flew magically, so can the skeleton.
 
 **Defense:** A skeleton’s natural armor bonus to Defense changes to a
-value based on its size: Tiny or smaller +0, Small +1, Medium-size +2,
+value based on its size: Tiny or smaller +0, Small +1, Medium +2,
 Large +3, Huge +4, Gargantuan +6, Colossal +10.
 
 **Attacks:** A skeleton retains all the natural attacks, manufactured
@@ -33,7 +33,7 @@ can use the skeleton claw attack and damage, if they’re better.)
 **Damage:** Natural and manufactured weapons deal damage normally. A
 claw attack deals damage depending on the skeleton’s size (use the base
 creature’s claw damage if it’s greater): Diminutive or Fine 1, Tiny 1d2,
-Small 1d3, Medium-size 1d4, Large 1d6, Huge 1d8, Gargantuan 2d6,
+Small 1d3, Medium 1d4, Large 1d6, Huge 1d8, Gargantuan 2d6,
 Colossal 2d8.
 
 **Special Qualities:** A skeleton loses all of the base creature’s
@@ -74,7 +74,7 @@ the feat Improved Initiative.
 | Stat              | Value                       |
 | ----------------- | --------------------------- |
 | CR                | 1/3                         |
-| Size              | Medium-size                 |
+| Size              | Medium                      |
 | Type              | undead                      |
 | HD                | 1d12                        |
 | hp                | 6                           |

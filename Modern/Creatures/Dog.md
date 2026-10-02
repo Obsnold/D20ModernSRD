@@ -52,12 +52,12 @@ by scent), Swim +5.
 
 **Advancement:** None.
 
-## Medium-Size Dog
+## Medium Dog
 
 | Stat              | Value                  |
 | ----------------- | ---------------------- |
 | CR                | 1                      |
-| Size              | Medium-size            |
+| Size              | Medium                 |
 | Type              | animal                 |
 | HD                | 2d8+4                  |
 | hp                | 13                     |

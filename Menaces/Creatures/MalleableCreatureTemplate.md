@@ -55,7 +55,7 @@ Artist checks.
 | Stat              | Value                                                            |
 | ----------------- | ---------------------------------------------------------------- |
 | CR                | 8                                                                |
-| Size              | Medium-size                                                      |
+| Size              | Medium                                                           |
 | Type              | humanoid                                                         |
 | HD                | 4d10+16 plus 3d6+12 plus 3 (Toughness)                           |
 | hp                | 63                                                               |

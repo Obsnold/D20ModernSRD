@@ -6,7 +6,7 @@ Three feats cover proficiency in the use of armor: Armor Proficiency
 A creature that is proficient in medium or heavy armor is also
 proficient in the use of shields.
 
-**Table: Light Armor**
+**Table: Armor: Light Armor**
 
 | Armor               | Type      | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Arcane Spell Failure | Speed (30 ft.) | Weight | Purchase DC | Restriction |
 | ------------------- | --------- | --------------- | -------------- | ------------- | ------------- | -------------------- | -------------- | ------ | ----------- | ----------- |
@@ -15,7 +15,7 @@ proficient in the use of shields.
 | NBC suit            | Tactical  | –               | –              | +5            | –4            | 40%                  | 30             | 10 lb. | 15          | Res (+2)    |
 | Fire resistant suit | Tactical  | –               | –              | +5            | –4            | 40%                  | 30             | 10 lb. | 13          | —           |
 
-**Table: Medium Armor**
+**Table: Armor: Medium Armor**
 
 | Armor       | Type      | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Arcane Spell Failure | Speed (30 ft.) | Weight | Purchase DC | Restriction |
 | ----------- | --------- | --------------- | -------------- | ------------- | ------------- | -------------------- | -------------- | ------ | ----------- | ----------- |
@@ -24,7 +24,7 @@ proficient in the use of shields.
 | Scale mail  | Archaic   | +4              | +2             | +3            | –4            | 25%                  | 20             | 30 lb. | 16          | —           |
 | Breastplate | Archaic   | +5              | +2             | +3            | –4            | 25%                  | 20             | 30 lb. | 18          | —           |
 
-**Table: Heavy Armor**
+**Table: Armor: Heavy Armor**
 
 | Armor       | Type    | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Arcane Spell Failure | Speed (30 ft.) | Weight | Purchase DC | Restriction |
 | ----------- | ------- | --------------- | -------------- | ------------- | ------------- | -------------------- | -------------- | ------ | ----------- | ----------- |
@@ -33,15 +33,15 @@ proficient in the use of shields.
 | Half-plate  | Archaic | +7              | +3             | +0            | –7            | 35%                  | 20             | 50 lb. | 21          | —           |
 | O-yoroi     | Archaic | +7              | +3             | +2            | –5            | 40%                  | 20             | 45 lb. | 28          | —           |
 
-**Table: Shields**
+**Table: Armor: Shields**
 
-| **Shield**        | **Type** | **Shield Bonus** | **Nonprof. Bonus** | **Max Dex Bonus** | **Armor Penalty** | **Arcane Spell Failure** | **Speed (30 ft.)** | **Weight** | **Purchase DC** | **Restriction** |
-| ----------------- | -------- | ---------------- | ------------------ | ----------------- | ----------------- | ------------------------ | ------------------ | ---------- | --------------- | --------------- |
-| Buckler           | Shield   | +1               | +0                 | —                 | –1                | 5%                       | —                  | 5 lb.      | 9               | —               |
-| Shield, impromptu | Shield   | +1               | +0                 | —                 | –2                | 5%                       | —                  | varies     | —               | —               |
-| Shield, small     | Shield   | +1               | +0                 | —                 | –1                | 5%                       | —                  | 6 lb.      | 5               | —               |
-| Shield, large     | Shield   | +2               | +1                 | —                 | –2                | 15%                      | —                  | 15 lb.     | 7               | —               |
-| Shield, riot      | Shield   | +3               | +1                 | —                 | –1                | 30%                      | —                  | 6 lb.      | 10              | Res (+2)        |
+| Shield            | Type   | Shield Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Arcane Spell Failure | Speed (30 ft.) | Weight | Purchase DC | Restriction |
+| ----------------- | ------ | ------------ | -------------- | ------------- | ------------- | -------------------- | -------------- | ------ | ----------- | ----------- |
+| Buckler           | Shield | +1           | +0             | —             | –1            | 5%                   | —              | 5 lb.  | 9           | —           |
+| Shield, impromptu | Shield | +1           | +0             | —             | –2            | 5%                   | —              | varies | —           | —           |
+| Shield, small     | Shield | +1           | +0             | —             | –1            | 5%                   | —              | 6 lb.  | 5           | —           |
+| Shield, large     | Shield | +2           | +1             | —             | –2            | 15%                  | —              | 15 lb. | 7           | —           |
+| Shield, riot      | Shield | +3           | +1             | —             | –1            | 30%                  | —              | 6 lb.  | 10          | Res (+2)    |
 
 ## Banded Mail
 

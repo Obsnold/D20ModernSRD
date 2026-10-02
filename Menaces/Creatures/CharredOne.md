@@ -45,7 +45,7 @@ undead.
 | Stat              | Value                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                         |
-| Size              | Medium-size                                                                               |
+| Size              | Medium                                                                                    |
 | Type              | undead (fire, incorporeal)                                                                |
 | HD                | 5d12                                                                                      |
 | hp                | 32                                                                                        |
@@ -81,14 +81,14 @@ one), Speak Language (any one), Spot +11.
 
 **Feats:** Lightning Reflexes, Weapon Focus (incorporeal touch).
 
-**Advancement:** 6–10 HD (Medium-size); 11–15 HD (Large).
+**Advancement:** 6–10 HD (Medium); 11–15 HD (Large).
 
 ## Advanced Charred One
 
 | Stat              | Value                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | CR                | 5                                                                                         |
-| Size              | Medium-size                                                                               |
+| Size              | Medium                                                                                    |
 | Type              | undead (fire, incorporeal)                                                                |
 | HD                | 11d12                                                                                     |
 | hp                | 71                                                                                        |

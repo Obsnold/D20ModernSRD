@@ -31,7 +31,7 @@ bonus on Perform (act), Perform (sing), and Perform (stand-up) checks.
 | Stat              | Value                                                                                    |
 | ----------------- | ---------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                        |
-| Size              | Medium-size                                                                              |
+| Size              | Medium                                                                                   |
 | Type              | monstrous humanoid                                                                       |
 | HD                | 7d8                                                                                      |
 | hp                | 31                                                                                       |
@@ -78,7 +78,7 @@ rounds of ammunition, metal baton.
 | Stat              | Value                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | CR                | 8                                                                                         |
-| Size              | Medium-size                                                                               |
+| Size              | Medium                                                                                    |
 | Type              | monstrous humanoid                                                                        |
 | HD                | 7d8 plus 4d6                                                                              |
 | hp                | 45                                                                                        |

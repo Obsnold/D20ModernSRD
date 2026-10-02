@@ -17,17 +17,17 @@ or charging.
 
 The hide check is also modified by the character’s size:
 
-| Size        | Modifier |
-| ----------- | -------- |
-| Fine        | +16      |
-| Diminutive  | +12      |
-| Tiny        | +8       |
-| Small       | +4       |
-| Medium-size | +0       |
-| Large       | –4       |
-| Huge        | –8       |
-| Gargantuan  | –12      |
-| Colossal    | –16      |
+| Size       | Modifier |
+| ---------- | -------- |
+| Fine       | +16      |
+| Diminutive | +12      |
+| Tiny       | +8       |
+| Small      | +4       |
+| Medium     | +0       |
+| Large      | –4       |
+| Huge       | –8       |
+| Gargantuan | –12      |
+| Colossal   | –16      |
 
 If people are observing the character, even casually, he or she can’t
 hide. The character can run around a corner so that he or she is out of

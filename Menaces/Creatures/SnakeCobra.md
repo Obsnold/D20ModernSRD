@@ -33,7 +33,7 @@ higher, to Climb checks.
 | Stat              | Value                                                            |
 | ----------------- | ---------------------------------------------------------------- |
 | CR                | 2                                                                |
-| Size              | Medium-size                                                      |
+| Size              | Medium                                                           |
 | Type              | animal                                                           |
 | HD                | 3d8                                                              |
 | hp                | 13                                                               |

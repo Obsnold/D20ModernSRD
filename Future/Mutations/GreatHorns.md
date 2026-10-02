@@ -10,6 +10,6 @@ rhinoceros, or a large rack of antlers, like that of an moose.
 **Benefit:** You gain a single gore attack that deals bludgeoning damage
 (curled ram horns or moose antlers) or piercing damage (pointed bull
 horns or one great rhino horn). The amount of damage depends on your
-size: Small 1d4, Medium-size 1d6, Large 1d8. If you get multiple attacks
+size: Small 1d4, Medium 1d6, Large 1d8. If you get multiple attacks
 in a round, you can gore multiple times. Your horns are treated as
 natural weapons and do not provoke attacks of opportunity.

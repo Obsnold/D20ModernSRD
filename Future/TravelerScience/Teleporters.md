@@ -6,7 +6,7 @@ on the technology used to develop them.
 ## Transport Booth (PL 8)
 
 Based on original teleportation technology, a transport booth is simply
-a booth large enough to accommodate a single Medium-size creature or
+a booth large enough to accommodate a single Medium creature or
 Huge object, with controls on the outside. An operator selects the
 destination booth (which is any other transport booth), waits for a
 clear signal from the destination, then transmits. Anything inside the
@@ -109,18 +109,18 @@ The range is limited only by the range of the sensors.
 
 **Table: Transport Booth Purchase DC Modifiers**
 
-| Transport Booth’s Purchase DC         | Communication System Modifier |     |
-| ------------------------------------- | ----------------------------- | --- |
-| **Progress Level 5: Information Age** |                               |     |
-| Radio Transceiver                     | +0                            |     |
-| **Progress Level 6: Fusion Age**      |                               |     |
-| Laser Transceiver                     | +3                            |     |
-| **Progress Level 7: Gravity Ag**e     |                               |     |
-| Mass Transceiver                      | +5                            |     |
-| **Progress Level 8: Energy Age**      |                               |     |
-| Drive Transceiver                     | +8                            |     |
-| **Progress Level 9: Matter Age**      |                               |     |
-| Ansible                               | +13                           |     |
+| Transport Booth’s Purchase DC         | Communication System Modifier |
+| ------------------------------------- | ----------------------------- |
+| **Progress Level 5: Information Age** |                               |
+| Radio Transceiver                     | +0                            |
+| **Progress Level 6: Fusion Age**      |                               |
+| Laser Transceiver                     | +3                            |
+| **Progress Level 7: Gravity Age**     |                               |
+| Mass Transceiver                      | +5                            |
+| **Progress Level 8: Energy Age**      |                               |
+| Drive Transceiver                     | +8                            |
+| **Progress Level 9: Matter Age**      |                               |
+| Ansible                               | +13                           |
 
 **Table: Check DCs For Transport Disks**
 

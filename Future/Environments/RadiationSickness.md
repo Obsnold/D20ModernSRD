@@ -25,21 +25,20 @@ radioactive material). Then consult Table: Radiation Exposure to
 determine the degree of exposure based on the total time of exposure
 within a given 24-hour period (rounding up).
 
-**Table: Radiation Exposure**
+**Table: Radiation Exposure (by minimum time of exposure)**
 
-|                                            | ————————— Time of Exposure (Minimum) ———————— |              |                |            |           |
-| ------------------------------------------ | --------------------------------------------- | ------------ | -------------- | ---------- | --------- |
-| **Situation**                              | **1 round**                                   | **1 minute** | **10 minutes** | **1 hour** | **1 day** |
-| **Character in irradiated area:**          |                                               |              |                |            |           |
-| Lightly irradiated                         | mild                                          | mild         | mild           | mild       | low       |
-| Moderately irradiated                      | mild                                          | mild         | low            | low        | moderate  |
-| Highly irradiated                          | low                                           | low          | moderate       | moderate   | high      |
-| Severely irradiated                        | moderate                                      | moderate     | high           | high       | severe    |
-| **Character exposed to radiation source:** |                                               |              |                |            |           |
-| Lightly radioactive materials              | mild                                          | mild         | low            | low        | low       |
-| Moderately radioactive materials           | low                                           | low          | moderate       | moderate   | moderate  |
-| Highly radioactive materials               | moderate                                      | moderate     | high           | high       | high      |
-| Severely radioactive materials             | high                                          | high         | severe         | severe     | severe    |
+| Situation                                  | 1 round  | 1 minute | 10 minutes | 1 hour   | 1 day    |
+| ------------------------------------------ | -------- | -------- | ---------- | -------- | -------- |
+| **Character in irradiated area:**          |          |          |            |          |          |
+| Lightly irradiated                         | mild     | mild     | mild       | mild     | low      |
+| Moderately irradiated                      | mild     | mild     | low        | low      | moderate |
+| Highly irradiated                          | low      | low      | moderate   | moderate | high     |
+| Severely irradiated                        | moderate | moderate | high       | high     | severe   |
+| **Character exposed to radiation source:** |          |          |            |          |          |
+| Lightly radioactive materials              | mild     | mild     | low        | low      | low      |
+| Moderately radioactive materials           | low      | low      | moderate   | moderate | moderate |
+| Highly radioactive materials               | moderate | moderate | high       | high     | high     |
+| Severely radioactive materials             | high     | high     | severe     | severe   | severe   |
 
 The degree of the exposure determines the severity of the radiation
 sickness, as indicated on Table: Radiation Sickness. At low levels,

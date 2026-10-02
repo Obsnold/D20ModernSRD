@@ -30,7 +30,7 @@ assumes they even have them.
 Biodroids are constructs. They also share the following traits:
 
 **Size:** Same as the emulated species, although only Small and
-Medium-size biodroids may be selected as player characters.
+Medium biodroids may be selected as player characters.
 
 **Speed:** A biodroid has the same means of locomotion and speed as its
 emulated species (base speed 30 feet for human biodroids).
@@ -52,7 +52,7 @@ hero, but robots have no such life experiences.
 per level. At character creation, a 1st-level biodroid gets maximum hit
 points (10). It does not apply a Constitution modifier to its hit points
 but gains additional hit points at 1st level based on its size: Small 5,
-Medium-size 10. (For other sizes, see the Construct type description)
+Medium 10. (For other sizes, see the Construct type description)
 
 **Armor:** A biodroid hero can wear a suit of armor or have certain
 types of integrated armor attached to its frame (see Armor, below).

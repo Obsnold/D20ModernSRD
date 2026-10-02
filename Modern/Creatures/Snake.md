@@ -39,7 +39,7 @@ Climb checks.
 | Stat              | Value                                                   |
 | ----------------- | ------------------------------------------------------- |
 | CR                | 2                                                       |
-| Size              | Medium-size                                             |
+| Size              | Medium                                                  |
 | Type              | animal                                                  |
 | HD                | 3d8+3                                                   |
 | hp                | 16                                                      |
@@ -118,5 +118,5 @@ Climb checks.
 
 **Feat:** Weapon Finesse (bite).
 
-**Advancement:** 1/2–1 HD (Small); 2 HD (Medium-size); 3–4 HD (Large);
+**Advancement:** 1/2–1 HD (Small); 2 HD (Medium); 3–4 HD (Large);
 5–16 HD (Huge).

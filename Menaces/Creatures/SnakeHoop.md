@@ -31,7 +31,7 @@ checks.
 | Stat              | Value                                                 |
 | ----------------- | ----------------------------------------------------- |
 | CR                | 2                                                     |
-| Size              | Medium-size                                           |
+| Size              | Medium                                                |
 | Type              | animal                                                |
 | HD                | 3d8+3                                                 |
 | hp                | 16                                                    |
@@ -66,7 +66,7 @@ checks.
 
 **Feats:** None.
 
-**Advancement:** 4–5 HD (Medium-size); 6–12 HD (Large).
+**Advancement:** 4–5 HD (Medium); 6–12 HD (Large).
 
 ## Advanced Hoop Snake
 

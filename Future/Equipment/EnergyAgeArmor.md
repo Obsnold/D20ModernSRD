@@ -27,11 +27,14 @@ grenades useless against the wearer. Additionally, the armor usually has
 built-in slots for the addition of onboard computer systems, though not
 all armors make use of the option.
 
-**Table: Progress Level 8 Armor**
+**Table: Progress Level 8 Armor: Heavy Armor**
 
-| Armor                   | Type     | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed(30 ft./20 ft.) | Weight | Purchase DC | Restriction |
-| ----------------------- | -------- | --------------- | -------------- | ------------- | ------------- | -------------------- | ------ | ----------- | ----------- |
-| **Heavy Armor**         |          |                 |                |               |               |                      |        |             |             |
-| Unisoldier combat armor | Tactical | +10             | +3             | +1            | –6            | 20 ft./15 ft.        | 30 lb. | 19          | Lic (+1)    |
-| **Powered Armor**       |          |                 |                |               |               |                      |        |             |             |
-| Boost Armor             | Tactical | +7              | +2             | +4            | –3            | 20 ft./15 ft.        | 20 lb. | 18          | Lic (+1)    |
+| Armor                   | Type     | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
+| ----------------------- | -------- | --------------- | -------------- | ------------- | ------------- | --------------------- | ------ | ----------- | ----------- |
+| Unisoldier combat armor | Tactical | +10             | +3             | +1            | –6            | 20 ft./15 ft.         | 30 lb. | 19          | Lic (+1)    |
+
+**Table: Progress Level 8 Armor: Powered Armor**
+
+| Armor       | Type     | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
+| ----------- | -------- | --------------- | -------------- | ------------- | ------------- | --------------------- | ------ | ----------- | ----------- |
+| Boost Armor | Tactical | +7              | +2             | +4            | –3            | 20 ft./15 ft.         | 20 lb. | 18          | Lic (+1)    |

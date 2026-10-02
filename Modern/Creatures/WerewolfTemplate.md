@@ -105,7 +105,7 @@ Will and Weapon Finesse (bite).
 | Stat              | Value                                                         |
 | ----------------- | ------------------------------------------------------------- |
 | CR                | 7                                                             |
-| Size              | Medium-size                                                   |
+| Size              | Medium                                                        |
 | Type              | humanoid                                                      |
 | HD                | 5d8+15 plus 2d8+6                                             |
 | hp                | 52                                                            |

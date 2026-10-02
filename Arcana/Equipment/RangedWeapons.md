@@ -8,24 +8,24 @@ special in that they do not require a feat to be used effectively.
 **Table: Ranged Weapons**
 Nonfirearms (feat needed listed in parentheses)
 
-| **Weapon**                          | **Damage** | Critical | **Damage Type** | **Range Increment** | **Rate of Fire** | **Magazine** | **Size** | **Weight** | **Purchase DC** | **Restriction** |
-| ----------------------------------- | ---------- | -------- | --------------- | ------------------- | ---------------- | ------------ | -------- | ---------- | --------------- | --------------- |
-| Air pistol (simple)¹                | 1d2        | 20       | Piercing        | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 7               | —               |
-| Air rifle (simple)¹                 | 1d2        | 20       | Piercing        | 50 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 8               | —               |
-| Blowgun (simple)¹                   | 1          | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 4               | —               |
-| Bolas (archaic)¹                    | ¹          | —        | ¹               | 10 ft.              | 1                | —            | Small    | 2 lb.      | 3               | —               |
-| Crossbow, grapple-firing (archaic)¹ | 1d3        | ¹        | Piercing        | 120 ft.             | 1                | 1 Int.       | Med.     | 12 lb.     | 12              | —               |
-| Crossbow, hand (archaic)            | 1d4        | 19–20    | Piercing        | 30 ft.              | 1                | 1 Int.       | Tiny     | 3 lb.      | 11              | —               |
-| Crossbow, repeating (exotic)        | 1d8        | 19–20    | Piercing        | 80 ft.              | 1                | 5 Int.       | Med.     | 16 lb.     | 13              | —               |
-| Flare gun (simple)¹                 | 1d8        | 20       | Fire            | 30 ft.              | 1                | 1 Int.       | Small    | 2 lb.      | 11              | —               |
-| Net (archaic)¹                      | ¹          | —        | ¹               | 10 ft.¹             | 1                | —            | Med.     | 10 lb.     | 6               | —               |
-| Net launcher (grenade launcher)     | ¹          | —        | —               | 10 ft.              | 1                | 1 Int.       | Large    | 20 lb.     | 15              | Lic (+1)        |
-| Paint ball gun (simple)             | —          | 20¹      | ¹               | 30 ft.              | Semi             | 40 Int.      | Small    | 2 lb.      | 8               |                 |
-| Sling (archaic)                     | 1d4        | 20       | Ballistic       | 50 ft.              | 1                | —            | Small    | —          | 3               | —               |
-| Slingshot (simple)                  | 1d3        | 20       | Ballistic       | 50 ft.              | 1                | —            | Tiny     | 1 lb.      | 4               | —               |
-| Speargun (simple)¹                  | 2d6        | 20       | Piercing        | 10 ft.              | 1                | 1 Int.       | Large    | 5 lb.      | 10              | —               |
-| Super watergun (no feat required)¹  | ¹          | ¹        | ¹               | 10 ft.              | 1                | 5 Int.       | Med.     | 2 lb.      | 4               | —               |
-| Water cannon (simple)¹              | ¹          | —        | ¹               | 10 ft.              | ¹                | 20 Int.      | Huge     | 50 lb.     | 19              | Lic (+1)        |
+| Weapon                              | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| ----------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
+| Air pistol (simple)¹                | 1d2    | 20       | Piercing    | 30 ft.          | 1            | 1 Int.   | Small  | 2 lb.  | 7           | —           |
+| Air rifle (simple)¹                 | 1d2    | 20       | Piercing    | 50 ft.          | 1            | 1 Int.   | Large  | 5 lb.  | 8           | —           |
+| Blowgun (simple)¹                   | 1      | 20       | Piercing    | 10 ft.          | 1            | 1 Int.   | Small  | 2 lb.  | 4           | —           |
+| Bolas (archaic)¹                    | ¹      | —        | ¹           | 10 ft.          | 1            | —        | Small  | 2 lb.  | 3           | —           |
+| Crossbow, grapple-firing (archaic)¹ | 1d3    | ¹        | Piercing    | 120 ft.         | 1            | 1 Int.   | Medium | 12 lb. | 12          | —           |
+| Crossbow, hand (archaic)            | 1d4    | 19–20    | Piercing    | 30 ft.          | 1            | 1 Int.   | Tiny   | 3 lb.  | 11          | —           |
+| Crossbow, repeating (exotic)        | 1d8    | 19–20    | Piercing    | 80 ft.          | 1            | 5 Int.   | Medium | 16 lb. | 13          | —           |
+| Flare gun (simple)¹                 | 1d8    | 20       | Fire        | 30 ft.          | 1            | 1 Int.   | Small  | 2 lb.  | 11          | —           |
+| Net (archaic)¹                      | ¹      | —        | ¹           | 10 ft.¹         | 1            | —        | Medium | 10 lb. | 6           | —           |
+| Net launcher (grenade launcher)     | ¹      | —        | —           | 10 ft.          | 1            | 1 Int.   | Large  | 20 lb. | 15          | Lic (+1)    |
+| Paint ball gun (simple)             | —      | 20¹      | ¹           | 30 ft.          | Semi         | 40 Int.  | Small  | 2 lb.  | 8           |             |
+| Sling (archaic)                     | 1d4    | 20       | Ballistic   | 50 ft.          | 1            | —        | Small  | —      | 3           | —           |
+| Slingshot (simple)                  | 1d3    | 20       | Ballistic   | 50 ft.          | 1            | —        | Tiny   | 1 lb.  | 4           | —           |
+| Speargun (simple)¹                  | 2d6    | 20       | Piercing    | 10 ft.          | 1            | 1 Int.   | Large  | 5 lb.  | 10          | —           |
+| Super watergun (no feat required)¹  | ¹      | ¹        | ¹           | 10 ft.          | 1            | 5 Int.   | Medium | 2 lb.  | 4           | —           |
+| Water cannon (simple)¹              | ¹      | —        | ¹           | 10 ft.          | ¹            | 20 Int.  | Huge   | 50 lb. | 19          | Lic (+1)    |
 
 ¹ See weapon description for more information.
 

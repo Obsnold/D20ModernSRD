@@ -23,17 +23,17 @@ claw attacks, use the base damage values in the table below. Otherwise,
 use the values below or the base creature’s base damage, whichever is
 greater.
 
-| Size        | Bite Damage | Claw Damage |
-| ----------- | ----------- | ----------- |
-| Fine        | 1           | —           |
-| Diminutive  | 1d2         | 1           |
-| Tiny        | 1d3         | 1d2         |
-| Small       | 1d4         | 1d3         |
-| Medium-size | 1d6         | 1d4         |
-| Large       | 1d8         | 1d6         |
-| Huge        | 2d6         | 1d8         |
-| Gargantuan  | 2d8         | 2d6         |
-| Colossal    | 4d6         | 2d8         |
+| Size       | Bite Damage | Claw Damage |
+| ---------- | ----------- | ----------- |
+| Fine       | 1           | —           |
+| Diminutive | 1d2         | 1           |
+| Tiny       | 1d3         | 1d2         |
+| Small      | 1d4         | 1d3         |
+| Medium     | 1d6         | 1d4         |
+| Large      | 1d8         | 1d6         |
+| Huge       | 2d6         | 1d8         |
+| Gargantuan | 2d8         | 2d6         |
+| Colossal   | 4d6         | 2d8         |
 
 **Special Qualities:** A half-fiend retains all the special qualities of
 the base creature and gains the additional special qualities described

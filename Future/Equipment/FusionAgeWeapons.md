@@ -135,35 +135,32 @@ from tangler guns stack with those from tangler grenades.
 Hardened compound dissolves naturally after 8 hours or can be removed by
 using solvaway chemical or some other spray solvent.
 
-**Table: Progress Level 6 Ranged Weapons**
+**Table: Progress Level 6 Ranged Weapons (require the Personal Firearms Proficiency feat)**
 
-| Weapon¹               | Damage  | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
+| Weapon                | Damage  | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size   | Weight | Purchase DC | Restriction |
 | --------------------- | ------- | -------- | ----------- | --------------- | ------------ | -------- | ------ | ------ | ----------- | ----------- |
 | Laser pistol          | 2d8     | 20       | Fire        | 40 feet         | S            | 50 box   | Medium | 3 lb.  | 17          | Lic (+1)    |
 | Laser rifle           | 3d8     | 20       | Fire        | 80 feet         | S, A         | 50 box   | Large  | 8 lb.  | 19          | Res (+2)    |
 | Laser sniper rifle    | 3d8     | 20       | Fire        | 120 feet        | S            | 50 box   | Large  | 14 lb. | 21          | Res (+2)    |
-| Mini-grenade launcher | Varies² | 20       | Varies²     | 70 feet         | Single       | 1 int.   | Medium | 4 lb.  | 20          | Mil (+3)    |
-| Mini-rocket launcher  | Varies² | 20       | Varies²     | 150 feet        | Single       | 1 int.   | Medium | 5 lb.  | 23          | Mil (+3)    |
+| Mini-grenade launcher | Varies¹ | 20       | Varies¹     | 70 feet         | Single       | 1 int.   | Medium | 4 lb.  | 20          | Mil (+3)    |
+| Mini-rocket launcher  | Varies¹ | 20       | Varies¹     | 150 feet        | Single       | 1 int.   | Medium | 5 lb.  | 23          | Mil (+3)    |
 | Tangler gun           | Special | —        | —           | 20 feet         | S, A         | 20 box   | Large  | 8 lb.  | 16          | Lic (+1)    |
 
-¹ All weapons listed in this table require the Personal Firearms Proficiency feat.\
-² Damage and damage type varies depending on the ammunition.
+¹ Damage and damage type varies depending on the ammunition.
 
-**Table: Progress Level 6 Melee Weapons**
+**Table: Progress Level 6 Melee Weapons (require the Simple Weapons Proficiency feat)**
 
-| Weapon¹              | Damage        | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |     |     |
-| -------------------- | ------------- | -------- | ----------- | --------------- | ------ | ------ | ----------- | ----------- | --- | --- |
-| High frequency sword | 2d6           | 19–20    | Slashing    | —               | Large  | 2 lb.  | 15          | —           |     |     |
-| Stun baton           | 1d6 + special | 20       | Bludgeoning | —               | Medium | 1 lb.  | 16          | —           |     |     |
-
-¹ All weapons listed in this table require the Simple Weapons Proficiency feat.
+| Weapon               | Damage        | Critical | Damage Type | Range Increment | Size   | Weight | Purchase DC | Restriction |
+| -------------------- | ------------- | -------- | ----------- | --------------- | ------ | ------ | ----------- | ----------- |
+| High frequency sword | 2d6           | 19–20    | Slashing    | —               | Large  | 2 lb.  | 15          | —           |
+| Stun baton           | 1d6 + special | 20       | Bludgeoning | —               | Medium | 1 lb.  | 16          | —           |
 
 **Table: Progress Level 6 Ammunition Types**
 
-| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction |     |     |     |     |     |     |     |
-| --------------------- | ----------- | ----------- | ----------- | --- | --- | --- | --- | --- | --- | --- |
-| Bio-agent (20)        | Ballistic   | 14          | Mil (+3)    |     |     |     |     |     |     |     |
-| Power pack (50)       | Special¹    | 8           | —           |     |     |     |     |     |     |     |
+| Ammunition (Quantity) | Damage Type | Purchase DC | Restriction |
+| --------------------- | ----------- | ----------- | ----------- |
+| Bio-agent (20)        | Ballistic   | 14          | Mil (+3)    |
+| Power pack (50)       | Special¹    | 8           | —           |
 
 ¹ A power pack powers any ranged weapon that deals energy damage (such as a laser pistol). A power pack does not change the weapon’s damage type.
 

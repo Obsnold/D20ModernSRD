@@ -176,7 +176,7 @@ fleshraker is disarmed.
 | Stat              | Value                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                                 |
-| Size              | Medium-size                                                                                       |
+| Size              | Medium                                                                                            |
 | Type              | outsider                                                                                          |
 | HD                | 4d8+8                                                                                             |
 | hp                | 26                                                                                                |
@@ -224,7 +224,7 @@ Weapon Finesse (knife), Weapon Focus (knife).
 | Stat              | Value                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                                               |
-| Size              | Medium-size                                                                                                     |
+| Size              | Medium                                                                                                          |
 | Type              | outsider                                                                                                        |
 | HD                | 4d8+8 plus 3d8+4                                                                                                |
 | hp                | 43                                                                                                              |
@@ -280,7 +280,7 @@ entrust its detached head to loyal underlings or hide it somewhere safe.
 
 **Attach Head (Ex):** As an attack or move action, a harriken can attach
 a head (either its own detached head or the severed head of any
-Medium-size humanoid creature) to its headless body. It gains the
+Medium humanoid creature) to its headless body. It gains the
 visual, auditory, and olfactory senses of the creature whose head it
 wears; if the creature had low-light vision, for instance, the harriken
 gains this ability for as long as the head is worn.
@@ -294,11 +294,11 @@ surroundings as though it has the blindsight ability with a range of 30
 feet. However, without its own head, the harriken loses its darkvision.
 
 **Detach Head (Ex):** As an attack or move action, a harriken can detach
-the head (either its own head or the severed head of any Medium-size
+the head (either its own head or the severed head of any Medium
 humanoid creature) from its body.
 
 **Disguise Self (Su):** The harriken can assume the appearance of a
-specific Medium-size humanoid creature by attaching the creature’s
+specific Medium humanoid creature by attaching the creature’s
 severed head to its body. The illusion lasts as long as the head remains
 attached. The harriken does not gain any of the creature’s abilities,
 mannerisms, or knowledge, but it gains a +10 bonus on Disguise checks.
@@ -329,7 +329,7 @@ creature within 100 feet that has a language.
 | Stat              | Value                                                                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                                                                                |
-| Size              | Medium-size                                                                                                                                                      |
+| Size              | Medium                                                                                                                                                           |
 | Type              | outsider                                                                                                                                                         |
 | HD                | 4d8+4                                                                                                                                                            |
 | hp                | 22                                                                                                                                                               |
@@ -388,7 +388,7 @@ before attempting a jump, the distance jumped is doubled.
 | Stat              | Value                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | CR                | 2                                                                                                 |
-| Size              | Medium-size                                                                                       |
+| Size              | Medium                                                                                            |
 | Type              | outsider                                                                                          |
 | HD                | 1d8+2                                                                                             |
 | hp                | 6                                                                                                 |
@@ -431,7 +431,7 @@ Tumble +8.
 | Stat              | Value                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | CR                | 11                                                                                                |
-| Size              | Medium-size                                                                                       |
+| Size              | Medium                                                                                            |
 | Type              | outsider                                                                                          |
 | HD                | 1d8+2 plus 9d8+18                                                                                 |
 | hp                | 65                                                                                                |
@@ -484,7 +484,7 @@ points of damage dealt by any unsilvered weapon.
 **Immunities (Ex):** A kwevencha is immune to poison.
 
 **Improved Grab (Ex):** To use this ability, the kwevencha must hit a
-Small or Medium-size creature with its bite attack. If it gets a hold,
+Small or Medium creature with its bite attack. If it gets a hold,
 it deals automatic damage with its bite on subsequent rounds.
 
 **Monstrous Spider Minions:** A kwevencha has 2d6 Tiny monstrous spiders
@@ -582,7 +582,7 @@ to free the limb; pulling free the armspike deals an automatic 1d6
 points of damage to the impaled creature, but the murdergaunt cannot use
 the newly freed armspike to attack that round.
 
-A murdergaunt can impale two Medium-size or smaller creatures at the
+A murdergaunt can impale two Medium or smaller creatures at the
 same time; however, it cannot make an attack (or attack of opportunity)
 with an armspike that is currently impaling a foe.
 
@@ -686,7 +686,7 @@ mind-affecting ability. The save DC is Charisma-based.
 | Stat              | Value                                                                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                                                                                              |
-| Size              | Medium-size                                                                                                                                                    |
+| Size              | Medium                                                                                                                                                         |
 | Type              | outsider                                                                                                                                                       |
 | HD                | 6d8+12                                                                                                                                                         |
 | hp                | 39                                                                                                                                                             |
@@ -723,4 +723,4 @@ Speak Abyssal, Speak Language (any one), Spot +9.
 
 **Feats:** Frightful Presence, Improved Damage Threshold.
 
-**Advancement:** 7–8 HD (Medium-size); 9–12 (Large); 13–18 HD (Huge).
+**Advancement:** 7–8 HD (Medium); 9–12 (Large); 13–18 HD (Huge).

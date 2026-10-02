@@ -18,10 +18,10 @@ successfully transferred its flesh (see Flesh Transfer, below). The star
 doppelganger gains a size category whenever it has absorbed creatures
 whose combined size categories equal its own, according to the following
 equivalencies: Four Tiny creatures equal a Small creature, four Small
-creatures equal a Medium-size creature, and four Medium-size creatures
+creatures equal a Medium creature, and four Medium creatures
 equal a Large creature. Thus, a Huge star doppelganger could have
 resulted from a Large star doppelganger absorbing one Large creature,
-four Medium-size creatures, or any mix of sizes that equals Large. The
+four Medium creatures, or any mix of sizes that equals Large. The
 star doppelganger’s statistics remain the same after absorption unless
 it gains a size category. Any hit point or ability damage that the star
 doppelganger has taken before absorbing its prey still applies to its
@@ -196,7 +196,7 @@ Swim +12.
 
 **Feats:** Alertness, Athletic, Builder, Simple Weapons Proficiency.
 
-**Advancement:** 2 HD (Small); 3–4 HD (Medium-size); 5–8 HD (Large);
+**Advancement:** 2 HD (Small); 3–4 HD (Medium); 5–8 HD (Large);
 9–16 HD (Huge).
 
 ## Small Star Doppelganger
@@ -241,14 +241,14 @@ Drive +4, Listen +8, Hide + 7, Move Silently +7, Pilot +4, Spot +8, Swim
 
 **Feats:** Alertness, Athletic, Builder, Simple Weapons Proficiency.
 
-**Advancement:** 3–4 HD (Medium-size); 5–8 HD (Large); 9–16 HD (Huge).
+**Advancement:** 3–4 HD (Medium); 5–8 HD (Large); 9–16 HD (Huge).
 
-## Medium-Size Star Doppelganger
+## Medium Star Doppelganger
 
 | Stat              | Value                                                                                                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CR                | 3                                                                                                                                                                        |
-| Size              | Medium-size                                                                                                                                                              |
+| Size              | Medium                                                                                                                                                                   |
 | Type              | aberration                                                                                                                                                               |
 | HD                | 4d8+4                                                                                                                                                                    |
 | hp                | 22                                                                                                                                                                       |

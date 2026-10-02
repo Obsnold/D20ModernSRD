@@ -64,14 +64,14 @@ location of anything within 60 feet that is in contact with the ground.
 
 **Feats:** Weapon Finesse (bite).
 
-**Advancement:** 3–5 HD (Small); 6–10 HD (Medium-size); 11–15 HD (Large).
+**Advancement:** 3–5 HD (Small); 6–10 HD (Medium); 11–15 HD (Large).
 
 ## Advanced Mongolian Death Worm
 
 | Stat              | Value                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------- |
 | CR                | 5                                                                                                   |
-| Size              | Medium-size                                                                                         |
+| Size              | Medium                                                                                              |
 | Type              | magical beast                                                                                       |
 | HD                | 6d10+24                                                                                             |
 | hp                | 57                                                                                                  |

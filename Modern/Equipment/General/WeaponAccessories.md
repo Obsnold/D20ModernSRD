@@ -5,26 +5,22 @@ can increase their utility or efficiency.
 
 **Table: General Equipment: Weapon Accessories**
 
-| Object           | Size  | Weight  | Purchase DC | Restriction |
-| ---------------- | ----- | ------- | ----------- | ----------- |
-| Box magazine     | Tiny  | 0.5 lb. | 4           | —           |
-| **Detonator**    |       |         |             |             |
-| Blasting cap     | Tiny  | 0.5 lb. | 4           | Lic (+1)    |
-| Radio controlled | Tiny  | 0.5 lb. | 10          | Lic (+1)    |
-| Timed            | Tiny  | 0.5 lb. | 7           | Lic (+1)    |
-| Wired            | Tiny  | 1 lb.   | 6           | Lic (+1)    |
-| **Holster**      |       |         |             |             |
-| Hip              | Tiny  | 1 lb.   | 5           | —           |
-| Concealed carry  | Tiny  | 0.5 lb. | 5           | —           |
-| Illuminator      | Tiny  | 0.5 lb. | 7           | —           |
-| Laser sight      | Tiny  | 0.5 lb. | 15          | —           |
-| **Scope**        |       |         |             |             |
-| Standard         | Tiny  | 0.5 lb. | 11          | —           |
-| Electro-optical  | Small | 3 lb.   | 18          | —           |
-| Speed loader     | Tiny  | 0.5 lb. | 3           | —           |
-| **Suppressor**   |       |         |             |             |
-| Pistol           | Tiny  | 1 lb.   | 12          | Mil (+3)    |
-| Rifle            | Small | 4 lb.   | 14          | Mil (+3)    |
+| Object                      | Size  | Weight  | Purchase DC | Restriction |
+| --------------------------- | ----- | ------- | ----------- | ----------- |
+| Box magazine                | Tiny  | 0.5 lb. | 4           | —           |
+| Detonator, blasting cap     | Tiny  | 0.5 lb. | 4           | Lic (+1)    |
+| Detonator, radio controlled | Tiny  | 0.5 lb. | 10          | Lic (+1)    |
+| Detonator, timed            | Tiny  | 0.5 lb. | 7           | Lic (+1)    |
+| Detonator, wired            | Tiny  | 1 lb.   | 6           | Lic (+1)    |
+| Holster, hip                | Tiny  | 1 lb.   | 5           | —           |
+| Holster, concealed carry    | Tiny  | 0.5 lb. | 5           | —           |
+| Illuminator                 | Tiny  | 0.5 lb. | 7           | —           |
+| Laser sight                 | Tiny  | 0.5 lb. | 15          | —           |
+| Scope, standard             | Tiny  | 0.5 lb. | 11          | —           |
+| Scope, electro-optical      | Small | 3 lb.   | 18          | —           |
+| Speed loader                | Tiny  | 0.5 lb. | 3           | —           |
+| Suppressor, pistol          | Tiny  | 1 lb.   | 12          | Mil (+3)    |
+| Suppressor, rifle           | Small | 4 lb.   | 14          | Mil (+3)    |
 
 ## Box Magazine
 
@@ -65,7 +61,7 @@ wire, but longer lengths can be spliced in with a Demolitions check (DC
 
 ## Holster
 
-Holsters are generally available for all Medium-size or smaller
+Holsters are generally available for all Medium or smaller
 firearms.
 
 **Hip:** This holster holds the weapon in an easily accessed—and easily

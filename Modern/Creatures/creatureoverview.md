@@ -453,16 +453,16 @@ depending on its type.
 
 **Table: Adjustments to Physical Abilities and Natural Armor**
 
-| Old Size ¹  | New Size    | Str | Dex | Con | Natural Armor Improvement |
-| ----------- | ----------- | --- | --- | --- | ------------------------- |
-| Fine        | Diminutive  | —   | –2  | —   | —                         |
-| Diminutive  | Tiny        | +2  | –2  | —   | —                         |
-| Tiny        | Small       | +4  | –2  | —   | —                         |
-| Small       | Medium-size | +4  | –2  | +2  | —                         |
-| Medium-size | Large       | +8  | –2  | +4  | +2                        |
-| Large       | Huge        | +8  | –2  | +4  | +3                        |
-| Huge        | Gargantuan  | +8  | —   | +4  | +4                        |
-| Gargantuan  | Colossal    | +8  | —   | +4  | +5                        |
+| Old Size ¹ | New Size   | Str | Dex | Con | Natural Armor Improvement |
+| ---------- | ---------- | --- | --- | --- | ------------------------- |
+| Fine       | Diminutive | —   | –2  | —   | —                         |
+| Diminutive | Tiny       | +2  | –2  | —   | —                         |
+| Tiny       | Small      | +4  | –2  | —   | —                         |
+| Small      | Medium     | +4  | –2  | +2  | —                         |
+| Medium     | Large      | +8  | –2  | +4  | +2                        |
+| Large      | Huge       | +8  | –2  | +4  | +3                        |
+| Huge       | Gargantuan | +8  | —   | +4  | +4                        |
+| Gargantuan | Colossal   | +8  | —   | +4  | +5                        |
 
 ¹ Repeat the adjustment if the creature moves up more than one size category.
 

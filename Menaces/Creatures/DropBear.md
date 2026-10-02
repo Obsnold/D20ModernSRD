@@ -21,7 +21,7 @@ it can make a full attack even if it has already taken a move action.
 | Stat              | Value                                                |
 | ----------------- | ---------------------------------------------------- |
 | CR                | 1                                                    |
-| Size              | Medium-size                                          |
+| Size              | Medium                                               |
 | Type              | animal                                               |
 | HD                | 2d8+4                                                |
 | hp                | 13                                                   |
@@ -56,4 +56,4 @@ it can make a full attack even if it has already taken a move action.
 
 **Feats:** None.
 
-**Advancement:** 3–5 HD (Medium-size); 6–8 HD (Large).
+**Advancement:** 3–5 HD (Medium); 6–8 HD (Large).

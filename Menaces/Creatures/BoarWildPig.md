@@ -19,7 +19,7 @@ enemies, sniff out hidden foes, and track by sense of smell.
 | Stat              | Value                             |
 | ----------------- | --------------------------------- |
 | CR                | 3                                 |
-| Size              | Medium-size                       |
+| Size              | Medium                            |
 | Type              | animal                            |
 | HD                | 3d8+9                             |
 | hp                | 22                                |
@@ -54,4 +54,4 @@ enemies, sniff out hidden foes, and track by sense of smell.
 
 **Feats:** None.
 
-**Advancement:** 4–5 HD (Medium-size).
+**Advancement:** 4–5 HD (Medium).

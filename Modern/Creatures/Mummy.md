@@ -45,7 +45,7 @@ Proficiency.
 | Stat              | Value                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
 | CR                | 4                                                                                                            |
-| Size              | Medium-size                                                                                                  |
+| Size              | Medium                                                                                                       |
 | Type              | undead                                                                                                       |
 | HD                | 6d12 plus 3 (Toughness feat)                                                                                 |
 | hp                | 42                                                                                                           |
@@ -81,7 +81,7 @@ Speak Egyptian, Spot +9.
 
 **Feats:** Alertness, Archaic Weapons Proficiency, Toughness.
 
-**Advancement:** 7–12 HD (Medium-size); 13–18 HD (Large); or by
+**Advancement:** 7–12 HD (Medium); 13–18 HD (Large); or by
 character class.
 
 ## Mummy Dedicated Hero 3
@@ -89,7 +89,7 @@ character class.
 | Stat              | Value                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
 | CR                | 7                                                                                                            |
-| Size              | Medium-size                                                                                                  |
+| Size              | Medium                                                                                                       |
 | Type              | undead                                                                                                       |
 | HD                | 9d12 plus 3 (Toughness feat)                                                                                 |
 | hp                | 58                                                                                                           |

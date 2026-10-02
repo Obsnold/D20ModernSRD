@@ -46,12 +46,15 @@ space shuttle but also allows internal sensors to monitor biological
 functions that can be observed from mission control. The space suit is
 poor combat armor, but allows for movement and action in space.
 
-**Table: Progress Level 5 Armor**
+**Table: Progress Level 5 Armor: Light Armor**
 
 | Armor                  | Type     | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
 | ---------------------- | -------- | --------------- | -------------- | ------------- | ------------- | --------------------- | ------ | ----------- | ----------- |
-| **Light Armor**        |          |                 |                |               |               |                       |        |             |             |
 | Flight Suit and helmet | Tactical | +2              | +1             | +6            | –0            | 30 ft./20 ft.         | 2 lb.  | 10          | Lic (+1)    |
-| **Heavy Armor**        |          |                 |                |               |               |                       |        |             |             |
-| Land warrior armor     | Tactical | +6              | +3             | +3            | –3            | 20 ft./15 ft.         | 10 lb. | 20          | Lic (+1)    |
-| Space suit             | Tactical | +7              | +3             | +0            | –10           | 15 ft./10 ft.         | 50 lb. | 26          | Lic (+1)    |
+
+**Table: Progress Level 5 Armor: Heavy Armor**
+
+| Armor              | Type     | Equipment Bonus | Nonprof. Bonus | Max Dex Bonus | Armor Penalty | Speed (30 ft./20 ft.) | Weight | Purchase DC | Restriction |
+| ------------------ | -------- | --------------- | -------------- | ------------- | ------------- | --------------------- | ------ | ----------- | ----------- |
+| Land warrior armor | Tactical | +6              | +3             | +3            | –3            | 20 ft./15 ft.         | 10 lb. | 20          | Lic (+1)    |
+| Space suit         | Tactical | +7              | +3             | +0            | –10           | 15 ft./10 ft.         | 50 lb. | 26          | Lic (+1)    |

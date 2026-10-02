@@ -32,7 +32,7 @@ damage and 1d6 points of ability damage (per ability).
 | Stat              | Value                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | CR                | 4                                                                                            |
-| Size              | Medium-size                                                                                  |
+| Size              | Medium                                                                                       |
 | Type              | aberration                                                                                   |
 | HD                | 5d8+5                                                                                        |
 | hp                | 27                                                                                           |
@@ -74,7 +74,7 @@ damage and 1d6 points of ability damage (per ability).
 | Stat              | Value                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | CR                | 6                                                                                            |
-| Size              | Medium-size                                                                                  |
+| Size              | Medium                                                                                       |
 | Type              | aberration                                                                                   |
 | HD                | 5d8+5 plus 2d6+2                                                                             |
 | hp                | 36                                                                                           |

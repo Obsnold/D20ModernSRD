@@ -90,4 +90,4 @@ trying to pass off the possessed body as the original creature), Spot
 
 **Feats:** Alertness, Improved Initiative.
 
-**Advancement:** 7–8 HD (Medium-size); 9–12 HD (Large).
+**Advancement:** 7–8 HD (Medium); 9–12 HD (Large).

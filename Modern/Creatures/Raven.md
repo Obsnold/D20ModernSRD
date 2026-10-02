@@ -43,4 +43,4 @@
 
 **Feats:** Weapon Finesse (claw).
 
-**Advancement:** 1/2 HD (Small); 1 HD (Medium-size); 2–4 HD (Large).
+**Advancement:** 1/2 HD (Small); 1 HD (Medium); 2–4 HD (Large).

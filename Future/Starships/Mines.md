@@ -24,7 +24,7 @@ A starship that deploys a mine sets the conditions under which the mine
 detonates. Up to four mines can be deployed in the same 500-foot square
 and programmed to detonate simultaneously.
 
-A deployed mine is a Medium-size object with Defense 5, hardness 10, and
+A deployed mine is a Medium object with Defense 5, hardness 10, and
 50 hit points. Damaging or destroying a deployed mine has a 50% chance
 per hit of detonating it.
 

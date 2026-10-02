@@ -10,7 +10,7 @@ the base creature’s statistics and special abilities except as noted
 here.
 
 **Challenge Rating:** A zombie’s challenge rating depends on its size:
-Tiny or smaller 1/8, Small 1/4, Medium-size 1/2, Large 3, Huge 6,
+Tiny or smaller 1/8, Small 1/4, Medium 1/2, Large 3, Huge 6,
 Gargantuan 10, Colossal 13.
 
 **Type:** The creature’s type changes to undead.
@@ -23,7 +23,7 @@ a zombie drops to clumsy.
 
 **Defense:** A zombie’s natural armor bonus to Defense increases to a
 value based on the zombie’s size (but use the base creature’s natural
-armor bonus, if it’s higher): Tiny or smaller +0, Small +1, Medium-size
+armor bonus, if it’s higher): Tiny or smaller +0, Small +1, Medium
 +2, Large +3, Huge +4, Gargantuan +7, Colossal +11.
 
 **Attacks:** The zombie retains all the natural attacks and manufactured
@@ -33,7 +33,7 @@ zombie also gains a slam attack.
 **Damage:** Natural and manufactured weapons deal damage normally. A
 slam attack deals damage depending on the zombie’s size (but use the
 base creature’s slam damage if it’s greater): Fine 1, Diminutive 1d2,
-Tiny 1d3, Small 1d4, Medium-size 1d6, Large 1d8, Huge 2d6, Gargantuan
+Tiny 1d3, Small 1d4, Medium 1d6, Large 1d8, Huge 2d6, Gargantuan
 2d8, Colossal 4d6.
 
 For purposes of Strength bonuses to damage, a slam attack is considered
@@ -74,7 +74,7 @@ the Toughness feat.
 | Stat              | Value                              |
 | ----------------- | ---------------------------------- |
 | CR                | 1/2                                |
-| Size              | Medium-size                        |
+| Size              | Medium                             |
 | Type              | undead                             |
 | HD                | 2d12 plus 3 (Toughness feat)       |
 | hp                | 16                                 |

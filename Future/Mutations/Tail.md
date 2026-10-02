@@ -9,7 +9,7 @@ objects.
 
 **Benefits:** The tail provides a +2 mutation bonus on all Balance
 checks. In addition, you gain a single tail slam attack that deals
-bludgeoning damage dependent on your size: Small 1d4, Medium-size 1d6,
+bludgeoning damage dependent on your size: Small 1d4, Medium 1d6,
 Large 1d8. If you get multiple attacks in a round, you can strike
 multiple times with your tail. Your tail is treated as a natural weapon
 and does not provoke attacks of opportunity.

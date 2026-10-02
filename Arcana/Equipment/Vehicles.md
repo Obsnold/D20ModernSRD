@@ -39,38 +39,61 @@ weapon damage dealt to the vehicle.
 
 **Restriction:** The restriction rating for the vehicle.
 
-**Table: Vehicles**
+**Table: Vehicles: General Purpose Aircraft**
 
-| Name                                             | Crew | Pass | Cargo (lb.) | Init | Maneuver | Max Speed | Armor Class | Hardness | Hit Points | Size | Purchase DC | Restriction |
-| ------------------------------------------------ | ---- | ---- | ----------- | ---- | -------- | --------- | ----------- | -------- | ---------- | ---- | ----------- | ----------- |
-| **General Purpose Aircraft**                     |      |      |             |      |          |           |             |          |            |      |             |             |
-| Ultralight                                       | 1    | 1    | 50          | –4   | –4       | 28 (2)    | 9           | 3        | 10         | L    | 21          | Lic (+1)    |
-| Maulle M-7-260C (seaplane)                       | 2    | 3    | 900         | –4   | –4       | 175 (17)  | 6           | 5        | 55         | G    | 37          | Lic (+1)    |
-| **General Purpose Bicycles**                     |      |      |             |      |          |           |             |          |            |      |             |             |
-| Diamondback X-20 (mountain)                      | 1    | 0    | 0           | –1   | +4       | 40 (4)    | 11          | 5        | 6          | S    | 14          | —           |
-| LeMond Victoire (racing bike)                    | 1    | 0    | 0           | –1   | +4       | 50 (5)    | 11          | 5        | 5          | S    | 21          | —           |
-| Mongoose Fuzz Pro (BMX bike)                     | 1    | 0    | 0           | –1   | +4       | 30 (3)    | 11          | 5        | 5          | S    | 13          | —           |
-| **Civilian Cars**                                |      |      |             |      |          |           |             |          |            |      |             |             |
-| 1967 Chevrolet Camaro (sports coupe)             | 1    | 4    | 250         | –2   | –1       | 200 (20)  | 8           | 5        | 36         | H    | 28          | Lic (+1)    |
-| Police cruiser                                   | 1    | 4    | 425         | –2   | 0        | 190 (19)  | 8           | 5        | 34         | H    | 30          | Res (+2)    |
-| Dodge Intrepid police interceptor (sports coupe) | 1    | 1    | 200         | –2   | +1       | 200 (20)  | 9           | 5        | 34         | L    | 31          | Res (+2)    |
-| **General Purpose Motorcycles**                  |      |      |             |      |          |           |             |          |            |      |             |             |
-| Police motorcycle (street bike)                  | 1    | 0    | 10          | +1   | +1       | 290 (29)  | 9           | 5        | 22         | L    | 27          | Res (+2)    |
-| Vespa ET4 (scooter)                              | 1    | 1    | 0           | –2   | +3       | 22 (2)    | 10          | 5        | 10         | M    | 18          | Lic (+1)    |
-| Harley Davidson V-Rod (street bike)              | 1    | 1    | 0           | +1   | +1       | 300 (30)  | 9           | 5        | 22         | L    | 27          | Lic (+1)    |
-| **General Purpose Trucks**                       |      |      |             |      |          |           |             |          |            |      |             |             |
-| Jeep Wrangler (SUV)                              | 1    | 3    | 800         | –2   | –2       | 140 (14)  | 8           | 5        | 32         | H    | 28          | Lic (+1)    |
-| Ford Econoline 150 (van)                         | 1    | 8    | 4800        | –2   | –2       | 195 (19)  | 8           | 5        | 34         | H    | 29          | Lic (+1)    |
-| Peterbilt Model 379 (tractor trailer)            | 1    | 1    | 80,000¹     | –4   | –4       | 130 (13)  | 6           | 5        | 85         | G    | 33          | Lic (+1)    |
-| **General Purpose Water Vehicles**               |      |      |             |      |          |           |             |          |            |      |             |             |
-| Tug boat                                         | 5    | 5    | 4000 tons   | –4   | –4       | 30 (3)    | 6           | 5        | 150        | G    | 38          | Lic (+1)    |
-| Fishing trawler                                  | 9    | 2    | 100 tons    | –4   | –4       | 30 (3)    | 6           | 5        | 175        | G    | 43          | Lic (+1)    |
-| Avanti 39 (cigarette boat)                       | 1    | 8    | 300         | +1   | –2       | 100 (10)  | 8           | 5        | 50         | H    | 35          | Lic (+1)    |
-| **Other General Purpose Vehicles**               |      |      |             |      |          |           |             |          |            |      |             |             |
-| Emergency aid vehicle                            | 2    | 2    | 1000        | –2   | –2       | 160 (16)  | 8           | 5        | 34         | H    | 30          | Res (+2)    |
-| Fire truck                                       | 4    | 2    | 2500        | –4   | –4       | 105 (10)  | 6           | 5        | 80         | G    | 35          | Res (+2)    |
-| Police peacekeeper                               | 3    | 10   | 250         | –2   | –2       | 95 (10)   | 8           | 10       | 48         | H    | 40          | Res (+2)    |
-| Tow truck                                        | 1    | 1    | 50,000¹     | –2   | –4       | 130 (13)  | 6           | 5        | 39         | G    | 31          | Lic (+1)    |
+| Name                       | Crew | Pass | Cargo   | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| -------------------------- | ---- | ---- | ------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Ultralight                 | 1    | 1    | 50 lb.  | –4   | –4       | 28 (2)    | 9       | 3        | 10         | Large      | 21          | Lic (+1)    |
+| Maulle M-7-260C (seaplane) | 2    | 3    | 900 lb. | –4   | –4       | 175 (17)  | 6       | 5        | 55         | Gargantuan | 37          | Lic (+1)    |
+
+**Table: Vehicles: General Purpose Bicycles**
+
+| Name                          | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size  | Purchase DC | Restriction |
+| ----------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ----- | ----------- | ----------- |
+| Diamondback X-20 (mountain)   | 1    | 0    | 0 lb. | –1   | +4       | 40 (4)    | 11      | 5        | 6          | Small | 14          | —           |
+| LeMond Victoire (racing bike) | 1    | 0    | 0 lb. | –1   | +4       | 50 (5)    | 11      | 5        | 5          | Small | 21          | —           |
+| Mongoose Fuzz Pro (BMX bike)  | 1    | 0    | 0 lb. | –1   | +4       | 30 (3)    | 11      | 5        | 5          | Small | 13          | —           |
+
+**Table: Vehicles: Civilian Cars**
+
+| Name                                             | Crew | Pass | Cargo   | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size  | Purchase DC | Restriction |
+| ------------------------------------------------ | ---- | ---- | ------- | ---- | -------- | --------- | ------- | -------- | ---------- | ----- | ----------- | ----------- |
+| 1967 Chevrolet Camaro (sports coupe)             | 1    | 4    | 250 lb. | –2   | –1       | 200 (20)  | 8       | 5        | 36         | Huge  | 28          | Lic (+1)    |
+| Police cruiser                                   | 1    | 4    | 425 lb. | –2   | 0        | 190 (19)  | 8       | 5        | 34         | Huge  | 30          | Res (+2)    |
+| Dodge Intrepid police interceptor (sports coupe) | 1    | 1    | 200 lb. | –2   | +1       | 200 (20)  | 9       | 5        | 34         | Large | 31          | Res (+2)    |
+
+**Table: Vehicles: General Purpose Motorcycles**
+
+| Name                                | Crew | Pass | Cargo  | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size   | Purchase DC | Restriction |
+| ----------------------------------- | ---- | ---- | ------ | ---- | -------- | --------- | ------- | -------- | ---------- | ------ | ----------- | ----------- |
+| Police motorcycle (street bike)     | 1    | 0    | 10 lb. | +1   | +1       | 290 (29)  | 9       | 5        | 22         | Large  | 27          | Res (+2)    |
+| Vespa ET4 (scooter)                 | 1    | 1    | 0 lb.  | –2   | +3       | 22 (2)    | 10      | 5        | 10         | Medium | 18          | Lic (+1)    |
+| Harley Davidson V-Rod (street bike) | 1    | 1    | 0 lb.  | +1   | +1       | 300 (30)  | 9       | 5        | 22         | Large  | 27          | Lic (+1)    |
+
+**Table: Vehicles: General Purpose Trucks**
+
+| Name                                  | Crew | Pass | Cargo    | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| ------------------------------------- | ---- | ---- | -------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Jeep Wrangler (SUV)                   | 1    | 3    | 800 lb.  | –2   | –2       | 140 (14)  | 8       | 5        | 32         | Huge       | 28          | Lic (+1)    |
+| Ford Econoline 150 (van)              | 1    | 8    | 4800 lb. | –2   | –2       | 195 (19)  | 8       | 5        | 34         | Huge       | 29          | Lic (+1)    |
+| Peterbilt Model 379 (tractor trailer) | 1    | 1    | 80,000¹  | –4   | –4       | 130 (13)  | 6       | 5        | 85         | Gargantuan | 33          | Lic (+1)    |
+
+**Table: Vehicles: General Purpose Water Vehicles**
+
+| Name                       | Crew | Pass | Cargo     | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| -------------------------- | ---- | ---- | --------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Tug boat                   | 5    | 5    | 4000 tons | –4   | –4       | 30 (3)    | 6       | 5        | 150        | Gargantuan | 38          | Lic (+1)    |
+| Fishing trawler            | 9    | 2    | 100 tons  | –4   | –4       | 30 (3)    | 6       | 5        | 175        | Gargantuan | 43          | Lic (+1)    |
+| Avanti 39 (cigarette boat) | 1    | 8    | 300 lb.   | +1   | –2       | 100 (10)  | 8       | 5        | 50         | Huge       | 35          | Lic (+1)    |
+
+**Table: Vehicles: Other General Purpose Vehicles**
+
+| Name                  | Crew | Pass | Cargo    | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| --------------------- | ---- | ---- | -------- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Emergency aid vehicle | 2    | 2    | 1000 lb. | –2   | –2       | 160 (16)  | 8       | 5        | 34         | Huge       | 30          | Res (+2)    |
+| Fire truck            | 4    | 2    | 2500 lb. | –4   | –4       | 105 (10)  | 6       | 5        | 80         | Gargantuan | 35          | Res (+2)    |
+| Police peacekeeper    | 3    | 10   | 250 lb.  | –2   | –2       | 95 (10)   | 8       | 10       | 48         | Huge       | 40          | Res (+2)    |
+| Tow truck             | 1    | 1    | 50,000¹  | –2   | –4       | 130 (13)  | 6       | 5        | 39         | Gargantuan | 31          | Lic (+1)    |
 
 ¹ Towing and/or hauling capacity.
 

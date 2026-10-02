@@ -140,7 +140,7 @@ Warrior must meet all the prerequisites of the feat to select it.
 ### Strong As An Ox
 
 At 4th level and beyond, the Helix Warrior’s carrying capacity increases
-as if she were one size category larger (Large instead of Medium-size,
+as if she were one size category larger (Large instead of Medium,
 for example).
 
 ### Superior Conditioning

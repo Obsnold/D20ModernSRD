@@ -24,7 +24,7 @@ languages.
 | Stat              | Value                                                                                         |
 | ----------------- | --------------------------------------------------------------------------------------------- |
 | CR                | 7                                                                                             |
-| Size              | Medium-size                                                                                   |
+| Size              | Medium                                                                                        |
 | Type              | monstrous humanoid                                                                            |
 | HD                | 6d8+6                                                                                         |
 | hp                | 33                                                                                            |
@@ -73,7 +73,7 @@ overcoat.
 | Stat              | Value                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------- |
 | CR                | 9                                                                                              |
-| Size              | Medium-size                                                                                    |
+| Size              | Medium                                                                                         |
 | Type              | monstrous humanoid                                                                             |
 | HD                | 6d8+6 plus 2d6+2                                                                               |
 | hp                | 42                                                                                             |

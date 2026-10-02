@@ -53,4 +53,4 @@ Dexterity modifier for Climb checks.
 
 **Feats:** Weapon Finesse (bite).
 
-**Advancement:** 1/2 HD (Small); 1 HD (Medium-size); 2–4 HD (Large).
+**Advancement:** 1/2 HD (Small); 1 HD (Medium); 2–4 HD (Large).

@@ -153,7 +153,7 @@ mode).
 Using a combination of thermal imaging, X-rays, and vibration sensors,
 the Enigma sensor suite enables the operator to effectively see through
 solid objects. Fine details can’t be detected, but a mecha using the
-Enigma suite could tell, for example, that three Medium-size humanoids
+Enigma suite could tell, for example, that three Medium humanoids
 were crouched behind a closed door, or that an escape tunnel runs from
 one building to another.
 

@@ -81,7 +81,7 @@ in the same square from which the character jumped.
 
 The difficulty of reaching a given height varies according to the size
 of the character or creature. Generally, the maximum height a creature
-can reach without jumping is given in the table below. (As a Medium-size
+can reach without jumping is given in the table below. (As a Medium
 creature, a typical human can reach 8 feet without jumping.) If the
 creature is long instead of tall, treat it as one size category smaller.
 
@@ -91,7 +91,7 @@ creature is long instead of tall, treat it as one size category smaller.
 | Gargantuan    | 64 ft.         |
 | Huge          | 32 ft.         |
 | Large         | 16 ft.         |
-| Medium-size   | 8 ft.          |
+| Medium        | 8 ft.          |
 | Small         | 4 ft.          |
 | Tiny          | 2 ft.          |
 | Diminutive    | 1 ft.          |

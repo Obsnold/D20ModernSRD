@@ -19,7 +19,7 @@ access to a workshop or other facility can install a robot accessory in
 
 **Size:** A robot accessory, as an object, is usually two size
 categories smaller than the robot for which it’s designed; for example,
-a tool mount designed for a Huge robot can be considered a Medium-size
+a tool mount designed for a Huge robot can be considered a Medium
 object. An accessory’s size is usually important only for portability
 and concealment purposes.
 
@@ -63,7 +63,7 @@ This unit, available only to Small or larger robots, ejects enough
 extinguishing chemicals during a move action to put out a fire in a 10-
 foot-by-10-foot square. A robot’s extinguisher tank holds a number of
 shots of chemical spray based on the robot’s frame size: Small 2,
-Medium-size 4, Large 8, Huge 16, Gargantuan 32, Colossal 64.
+Medium 4, Large 8, Huge 16, Gargantuan 32, Colossal 64.
 
 **Purchase DC:** 5 + one-quarter the base purchase DC of the robot’s
 frame.
@@ -161,7 +161,7 @@ kinds of tools, but it can hold only one tool at any given time.
 The robot’s internal power source powers the tool, if necessary.
 
 The tool can be up to one size category larger than the robot’s size
-category; for example, a Medium-size robot’s tool mount can bear a Large
+category; for example, a Medium robot’s tool mount can bear a Large
 or smaller tool. The tool can be any general item.
 
 **Purchase DC:** 1 + the purchase DC of the tool.
@@ -188,7 +188,7 @@ weapon mounts.
 
 A weapon mount can be attached to almost any part of a robot’s frame.
 The attached weapon can be one size category larger than the robot’s
-size category; for example, a Medium-size robot can have a Large or
+size category; for example, a Medium robot can have a Large or
 smaller mounted weapon.
 
 Any weapon can be mounted on the weapon mount. However, a robot-mounted
@@ -208,14 +208,14 @@ the ammunition.
 
 **Table: Robot Weapon Mounts**
 
-| Robot’s Frame Size   | Maximum Weapon Mounts | Purchase DC |
-| -------------------- | --------------------- | ----------- |
-| Diminutive or Tiny   | 1                     | 4           |
-| Small or Medium-size | 2                     | 6           |
-| Large                | 3                     | 8           |
-| Huge                 | 4                     | 10          |
-| Gargantuan           | 5                     | 12          |
-| Colossal             | 6                     | 14          |
+| Robot’s Frame Size | Maximum Weapon Mounts | Purchase DC |
+| ------------------ | --------------------- | ----------- |
+| Diminutive or Tiny | 1                     | 4           |
+| Small or Medium    | 2                     | 6           |
+| Large              | 3                     | 8           |
+| Huge               | 4                     | 10          |
+| Gargantuan         | 5                     | 12          |
+| Colossal           | 6                     | 14          |
 
 ## Integrated Videophone (PL 6)
 
@@ -273,17 +273,17 @@ size.
 
 **Table: Robot Self-Destruct Systems**
 
-| Robot Size  | Collateral Damage | Purchase DC |
-| ----------- | ----------------- | ----------- |
-| Colossal    | 12d6              | 27          |
-| Gargantuan  | 9d6               | 24          |
-| Huge        | 6d6               | 21          |
-| Large       | 4d6               | 19          |
-| Medium-size | 2d6               | 17          |
-| Small       | 1d6               | 16          |
-| Tiny        | —                 | 15          |
-| Diminutive  | —                 | 15          |
-| Fine        | —                 | 15          |
+| Robot Size | Collateral Damage | Purchase DC |
+| ---------- | ----------------- | ----------- |
+| Colossal   | 12d6              | 27          |
+| Gargantuan | 9d6               | 24          |
+| Huge       | 6d6               | 21          |
+| Large      | 4d6               | 19          |
+| Medium     | 2d6               | 17          |
+| Small      | 1d6               | 16          |
+| Tiny       | —                 | 15          |
+| Diminutive | —                 | 15          |
+| Fine       | —                 | 15          |
 
 ## Survivor Array (PL 6)
 

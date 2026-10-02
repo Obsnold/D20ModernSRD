@@ -118,7 +118,7 @@ have these feats. A human revenant keeps the extra feat it gained as a
 | Stat              | Value                                                                                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CR                | 3                                                                                                                                                    |
-| Size              | Medium-size                                                                                                                                          |
+| Size              | Medium                                                                                                                                               |
 | Type              | undead                                                                                                                                               |
 | HD                | 2d12                                                                                                                                                 |
 | hp                | 11                                                                                                                                                   |

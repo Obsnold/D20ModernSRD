@@ -7,7 +7,7 @@ stinger on the end of a tail or similar appendage.
 **MP Cost:** 4.
 
 **Benefit:** Your sharp stinger deals piercing damage dependent on your
-size: Small 1d4, Medium-size 1d6, Large 1d8. If you get multiple attacks
+size: Small 1d4, Medium 1d6, Large 1d8. If you get multiple attacks
 in a round, you can sting multiple times. The stinger is treated as a
 natural weapon and does not provoke attacks of opportunity. In addition,
 the stinger injects poison into the target, with effects similar to

@@ -10,17 +10,16 @@ Police and well-marked hoverlanes keep traffic in line. Unless otherwise
 noted, civilian hovervehicles provide three-quarters cover for their
 occupants. The operative skill for hovervehicles is Pilot.
 
-**Table: Civilian Hovervehicles**
+**Table: Civilian Hovervehicles: Progress Level 7: Gravity Age**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
-| --------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | ---- | ---------- | ---- | ----------- | ----------- |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| AD-Bright police cruiser          | 1    | 4    | L     | –2   | +0       | 245 (24)  | 8       | 5    | 32         | H    | 38          | Res (+2)    |
-| AutoDyn hoverbike                 | 1    | 1    | D     | +1   | +2       | 410 (41)  | 10      | 5    | 15         | M    | 37          | Lic (+1)    |
-| AutoDyn hoverbus                  | 1    | 38   | H     | –4   | –4       | 160 (16)  | 6       | 5    | 45         | G    | 45          | Lic (+1)    |
-| AutoDyn hovercar                  | 1    | 4    | L     | –1   | +0       | 250 (25)  | 9       | 5    | 28         | L    | 36          | Lic (+1)    |
-| AutoDyn hovertruck                | 1    | 1    | H     | –3   | –4       | 180 (18)  | 6       | 8    | 35         | G    | 42          | Lic (+1)    |
-| HydroDyn SeaHawk                  | 1    | 3    | S     | –2   | +0       | 160 (16)  | 9       | 5    | 30         | L    | 36          | Lic (+1)    |
+| Name                     | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| ------------------------ | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| AD-Bright police cruiser | 1    | 4    | L     | –2   | +0       | 245 (24)  | 8       | 5        | 32         | Huge       | 38          | Res (+2)    |
+| AutoDyn hoverbike        | 1    | 1    | D     | +1   | +2       | 410 (41)  | 10      | 5        | 15         | Medium     | 37          | Lic (+1)    |
+| AutoDyn hoverbus         | 1    | 38   | H     | –4   | –4       | 160 (16)  | 6       | 5        | 45         | Gargantuan | 45          | Lic (+1)    |
+| AutoDyn hovercar         | 1    | 4    | L     | –1   | +0       | 250 (25)  | 9       | 5        | 28         | Large      | 36          | Lic (+1)    |
+| AutoDyn hovertruck       | 1    | 1    | H     | –3   | –4       | 180 (18)  | 6       | 8        | 35         | Gargantuan | 42          | Lic (+1)    |
+| HydroDyn SeaHawk         | 1    | 3    | S     | –2   | +0       | 160 (16)  | 9       | 5        | 30         | Large      | 36          | Lic (+1)    |
 
 ## AD-Bright Police Cruiser (PL 7)
 

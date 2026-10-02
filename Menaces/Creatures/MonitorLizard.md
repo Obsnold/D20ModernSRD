@@ -21,7 +21,7 @@ checks improves to +8.
 | Stat              | Value                  |
 | ----------------- | ---------------------- |
 | CR                | 3                      |
-| Size              | Medium-size            |
+| Size              | Medium                 |
 | Type              | animal                 |
 | HD                | 3d8+9                  |
 | hp                | 22                     |
@@ -57,4 +57,4 @@ Listen +4, Move Silently +6, Spot +4.
 
 **Feats:** None.
 
-**Advancement:** 4–5 HD (Medium-size); 6–12 HD (Large).
+**Advancement:** 4–5 HD (Medium); 6–12 HD (Large).

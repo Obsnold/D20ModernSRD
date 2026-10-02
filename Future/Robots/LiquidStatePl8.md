@@ -38,7 +38,7 @@ round. It can shape these appendages into various crude weapons as a
 free action; depending on their shape, one or both weapons can deal
 bludgeoning, piercing, or slashing damage. The robot’s size determines
 the amount of damage these appendages deal: Fine 1, Diminutive 1d2 ,
-Tiny 1d3, Small 1d4, Medium-size 1d6, Large 1d8, Huge 2d6, Gargantuan
+Tiny 1d3, Small 1d4, Medium 1d6, Large 1d8, Huge 2d6, Gargantuan
 2d8, Colossal 4d6.
 
 **Amorphous Form (Ex):** Because a liquid-state robot can alter its
@@ -58,15 +58,14 @@ construct immunities, including immunity to critical hits.
 
 **Table: Liquid-State Robot Frames (PL 8)**
 
-|             |                      |                   |                      | ——— Base Ability Scores ——— |         |         |         |         |         |                                           |
-| ----------- | -------------------- | ----------------- | -------------------- | --------------------------- | ------- | ------- | ------- | ------- | ------- | ----------------------------------------- |
-| Robot Size  | **Base Purchase DC** | **Base Hit Dice** | **Extra Hit Points** | Str                         | **Dex** | **Con** | **Int** | **Wis** | **Cha** | **Maximum Hit Dice/Purchase DC Modifier** |
-| Colossal    | 56                   | 32d10             | 120                  | 45                          | 8       | —       | 10      | 11      | 10      | 40d10/+3 per HD                           |
-| Gargantuan  | 48                   | 16d10             | 80                   | 37                          | 8       | —       | 10      | 11      | 10      | 32d10/+3 per HD                           |
-| Huge        | 40                   | 8d10              | 40                   | 29                          | 8       | —       | 10      | 11      | 10      | 24d10/+2 per HD                           |
-| Large       | 36                   | 4d10              | 20                   | 23                          | 10      | —       | 10      | 11      | 10      | 16d10/+2 per HD                           |
-| Medium-size | 32                   | 2d10              | 10                   | 13                          | 12      | —       | 10      | 11      | 10      | 8d10/+1 per HD                            |
-| Small       | 28                   | 1d10              | 5                    | 9                           | 14      | —       | 10      | 11      | 10      | —                                         |
-| Tiny        | 24                   | 1/2d10            | —                    | 5                           | 16      | —       | 10      | 11      | 10      | —                                         |
-| Diminutive  | 20                   | 1/4d10            | —                    | 3                           | 18      | —       | 10      | 11      | 10      | —                                         |
-| Fine        | 16                   | 1/8d10            | —                    | 1                           | 20      | —       | 10      | 11      | 10      | —                                         |
+| Robot Size | Base Purchase DC | Base Hit Dice | Extra Hit Points | Str | Dex | Con | Int | Wis | Cha | Maximum Hit Dice/Purchase DC Modifier |
+| ---------- | ---------------- | ------------- | ---------------- | --- | --- | --- | --- | --- | --- | ------------------------------------- |
+| Colossal   | 56               | 32d10         | 120              | 45  | 8   | —   | 10  | 11  | 10  | 40d10/+3 per HD                       |
+| Gargantuan | 48               | 16d10         | 80               | 37  | 8   | —   | 10  | 11  | 10  | 32d10/+3 per HD                       |
+| Huge       | 40               | 8d10          | 40               | 29  | 8   | —   | 10  | 11  | 10  | 24d10/+2 per HD                       |
+| Large      | 36               | 4d10          | 20               | 23  | 10  | —   | 10  | 11  | 10  | 16d10/+2 per HD                       |
+| Medium     | 32               | 2d10          | 10               | 13  | 12  | —   | 10  | 11  | 10  | 8d10/+1 per HD                        |
+| Small      | 28               | 1d10          | 5                | 9   | 14  | —   | 10  | 11  | 10  | —                                     |
+| Tiny       | 24               | 1/2d10        | —                | 5   | 16  | —   | 10  | 11  | 10  | —                                     |
+| Diminutive | 20               | 1/4d10        | —                | 3   | 18  | —   | 10  | 11  | 10  | —                                     |
+| Fine       | 16               | 1/8d10        | —                | 1   | 20  | —   | 10  | 11  | 10  | —                                     |

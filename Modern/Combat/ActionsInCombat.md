@@ -195,7 +195,7 @@ foe, but a character provokes an attack of opportunity from that
 creature if the character makes an unarmed attack against it. The Combat
 Martial Arts feat makes a character’s unarmed attacks count as armed.
 
-**Unarmed Strike Damage:** An unarmed strike from a Medium-size character
+**Unarmed Strike Damage:** An unarmed strike from a Medium character
 deals 1d3 points (plus the character’s Strength modifier, as normal) of
 nonlethal damage.
 

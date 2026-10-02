@@ -7,17 +7,20 @@ Generally, the Drive skill is used for vehicles that travel on the
 ground or on water; if the vehicle flies or hovers, Pilot is the
 operative skill.
 
-**Table: Military Vehicles**
+**Table: Military Vehicles: Progress Level 6: Fusion Age**
 
-| Name                              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hard | Hit Points | Size | Purchase DC | Restriction |
-| --------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | ---- | ---------- | ---- | ----------- | ----------- |
-| **Progress Level 6: Fusion Age**  |      |      |       |      |          |           |         |      |            |      |             |             |
-| Appel-Siems Gyrocopter            | 1    | 0    | F     | –3   | –2       | 360 (36)  | 8       | 5    | 23         | L    | 38          | Mil (+3)    |
-| EU2A1 Mendez APC                  | 3    | 8    | M     | –1   | –1       | 95 (9)    | 6       | 15   | 56         | G    | 42¹         | Mil (+3)    |
-| UN-500 Turtledove                 | 3    | 12   | L     | –3   | –2       | 360 (36)  | 6       | 10   | 46         | G    | 48          | Mil (+3)    |
-| **Progress Level 7: Gravity Age** |      |      |       |      |          |           |         |      |            |      |             |             |
-| IS-2000 Ifrit APC                 | 4    | 11   | L     | –3   | –3       | 100 (10)  | 6       | 15   | 58         | G    | 46¹         | Mil (+3)    |
-| M-300 Hovertank                   | 4    | 0    | M     | –4   | –3       | 120 (12)  | 6       | 20   | 62         | G    | 50¹         | Mil (+3)    |
+| Name                   | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| ---------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| Appel-Siems Gyrocopter | 1    | 0    | F     | –3   | –2       | 360 (36)  | 8       | 5        | 23         | Large      | 38          | Mil (+3)    |
+| EU2A1 Mendez APC       | 3    | 8    | M     | –1   | –1       | 95 (9)    | 6       | 15       | 56         | Gargantuan | 42¹         | Mil (+3)    |
+| UN-500 Turtledove      | 3    | 12   | L     | –3   | –2       | 360 (36)  | 6       | 10       | 46         | Gargantuan | 48          | Mil (+3)    |
+
+**Table: Military Vehicles: Progress Level 7: Gravity Age**
+
+| Name              | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size       | Purchase DC | Restriction |
+| ----------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---------- | ----------- | ----------- |
+| IS-2000 Ifrit APC | 4    | 11   | L     | –3   | –3       | 100 (10)  | 6       | 15       | 58         | Gargantuan | 46¹         | Mil (+3)    |
+| M-300 Hovertank   | 4    | 0    | M     | –4   | –3       | 120 (12)  | 6       | 20       | 62         | Gargantuan | 50¹         | Mil (+3)    |
 
 ¹ The vehicle’s purchase DC does not include its mounted weapons.
 
@@ -80,11 +83,14 @@ tactical assist system (see Vehicle Gear, below).
 Statistics for the Hovertank’s M-300 Rhino mass cannon and T-95
 Cavalcade chaingun are presented in Table: M-300 Hovertank Weapons.
 
-**Table: M-300 Hovertank Weapons**
+**Table: M-300 Hovertank Weapons: Progress Level 6: Fusion Age**
 
-| Weapon                            | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
-| --------------------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------- | ----------- | ----------- |
-| **Progress Level 6: Fusion Age**  |        |          |             |                 |              |          |      |         |             |             |
-| T-95 Cavalcade chain gun          | 7d6    | 20       | Ballistic   | 60 feet         | S, A         | Linked   | Huge | 185 lb. | 21          | Mil (+3)    |
-| **Progress Level 7: Gravity Age** |        |          |             |                 |              |          |      |         |             |             |
-| M-300 Rhino mass cannon           | 8d12   | 20       | Ballistic   | 100 feet        | S            | —        | Huge | 450 lb. | 29          | Mil (+3)    |
+| Weapon                   | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
+| ------------------------ | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------- | ----------- | ----------- |
+| T-95 Cavalcade chain gun | 7d6    | 20       | Ballistic   | 60 feet         | S, A         | Linked   | Huge | 185 lb. | 21          | Mil (+3)    |
+
+**Table: M-300 Hovertank Weapons: Progress Level 7: Gravity Age**
+
+| Weapon                  | Damage | Critical | Damage Type | Range Increment | Rate of Fire | Magazine | Size | Weight  | Purchase DC | Restriction |
+| ----------------------- | ------ | -------- | ----------- | --------------- | ------------ | -------- | ---- | ------- | ----------- | ----------- |
+| M-300 Rhino mass cannon | 8d12   | 20       | Ballistic   | 100 feet        | S            | —        | Huge | 450 lb. | 29          | Mil (+3)    |

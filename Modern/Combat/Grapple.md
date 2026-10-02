@@ -53,7 +53,7 @@ from **Table: Grapple Modifiers.**
 | Gargantuan (gray whale [40 ft. long]) | +12              |
 | Huge (elephant)                       | +8               |
 | Large (lion)                          | +4               |
-| Medium-size (human)                   | +0               |
+| Medium (human)                        | +0               |
 | Small (German shepherd)               | –4               |
 | Tiny (housecat)                       | –8               |
 | Diminutive (rat)                      | –12              |

@@ -29,7 +29,7 @@ be sentient and what happens to a bioreplica after it “dies.”
 
 Bioreplicas are constructs. They also share the following traits:
 
-**Size:** Same as emulated species, although only Small and Medium-size
+**Size:** Same as emulated species, although only Small and Medium
 bioreplicas may be selected as player characters.
 
 **Speed:** A bioreplica has the same means of locomotion and speed as
@@ -52,7 +52,7 @@ hero, but robots have no such life experiences.
 per level. At character creation, a 1st-level bioreplica gets maximum
 hit points (10). It does not apply a Constitution modifier to its hit
 points but gains additional hit points at 1st level based on its size:
-Small 5, Medium-size 10. (For other sizes, see the Construct type
+Small 5, Medium 10. (For other sizes, see the Construct type
 description)
 
 **Armor:** A bioreplica modeled after a creature with natural armor does

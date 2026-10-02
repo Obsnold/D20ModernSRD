@@ -22,7 +22,7 @@ Intimidate checks.
 | Stat              | Value                                                   |
 | ----------------- | ------------------------------------------------------- |
 | CR                | 2                                                       |
-| Size              | Medium-size                                             |
+| Size              | Medium                                                  |
 | Type              | outsider                                                |
 | HD                | 2d8+2                                                   |
 | hp                | 11                                                      |
@@ -67,7 +67,7 @@ Read/Write Aramaic, Speak Aramaic, Speak English.
 | Stat              | Value                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------- |
 | CR                | 8                                                                                     |
-| Size              | Medium-size                                                                           |
+| Size              | Medium                                                                                |
 | Type              | outsider                                                                              |
 | HD                | 2d8+2 plus 3d6+6 plus 3d6+6                                                           |
 | hp                | 44                                                                                    |

@@ -87,7 +87,7 @@ language known by the original.
 | Stat              | Value                                                        |
 | ----------------- | ------------------------------------------------------------ |
 | CR                | 6                                                            |
-| Size              | Medium-size                                                  |
+| Size              | Medium                                                       |
 | Type              | humanoid                                                     |
 | HD                | 7d6+7                                                        |
 | hp                | 31                                                           |

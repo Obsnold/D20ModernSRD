@@ -6,11 +6,11 @@ cover to their occupants.
 
 **Table: Vehicles: Civilian Motorcycles**
 
-| Name                                | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size | Purchase DC | Restriction |
-| ----------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ---- | ----------- | ----------- |
-| Ducati 998R (racing bike)           | 1    | 0    | 0 lb. | +0   | +3       | 370 (37)  | 10      | 5        | 18         | M    | 27          | Lic (+1)    |
-| Harley Davidson FLSTF (street bike) | 1    | 1    | 0 lb. | –1   | +1       | 275 (27)  | 9       | 5        | 22         | L    | 26          | Lic (+1)    |
-| Yamaha YZ250F (dirt bike)           | 1    | 1    | 0 lb. | +0   | +2       | 165 (16)  | 10      | 5        | 18         | M    | 23          | Lic (+1)    |
+| Name                                | Crew | Pass | Cargo | Init | Maneuver | Top Speed | Defense | Hardness | Hit Points | Size   | Purchase DC | Restriction |
+| ----------------------------------- | ---- | ---- | ----- | ---- | -------- | --------- | ------- | -------- | ---------- | ------ | ----------- | ----------- |
+| Ducati 998R (racing bike)           | 1    | 0    | 0 lb. | +0   | +3       | 370 (37)  | 10      | 5        | 18         | Medium | 27          | Lic (+1)    |
+| Harley Davidson FLSTF (street bike) | 1    | 1    | 0 lb. | –1   | +1       | 275 (27)  | 9       | 5        | 22         | Large  | 26          | Lic (+1)    |
+| Yamaha YZ250F (dirt bike)           | 1    | 1    | 0 lb. | +0   | +2       | 165 (16)  | 10      | 5        | 18         | Medium | 23          | Lic (+1)    |
 
 ## Ducati 998R
 

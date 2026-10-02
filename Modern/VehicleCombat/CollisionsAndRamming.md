@@ -24,7 +24,7 @@ size of the two colliding objects and refer to Table: Collision Damage.
 | Gargantuan                       | 16              |
 | Huge                             | 12              |
 | Large                            | 8               |
-| Medium-size                      | 4               |
+| Medium                           | 4               |
 | Small                            | 2               |
 | Tiny                             | 1               |
 | Smaller than Tiny                | 0               |

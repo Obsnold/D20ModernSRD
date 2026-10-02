@@ -20,23 +20,21 @@ object; clothing purposely tailored to conceal objects provides a bonus.
 
 **Table: General Equipment: Clothing**
 
-| Object                 | Size  | Weight | Purchase DC | Restriction |
-| ---------------------- | ----- | ------ | ----------- | ----------- |
-| **Clothing outfit**    |       |        |             |             |
-| Business               | Med   | 3 lb.  | 12          | —           |
-| Casual                 | Med   | 2 lb.  | 8           | —           |
-| Formal                 | Med   | 3 lb.  | 15          | —           |
-| Fatigues               | Med   | 3 lb.  | 9           | —           |
-| Uniform                | Med   | 2 lb.  | 9           | —           |
-| Ghillie suit           | Med   | 5 lb.  | 6           | —           |
-| **Outerwear**          |       |        |             |             |
-| Coat                   | Med   | 2 lb.  | 8           | —           |
-| Fatigue jacket         | Med   | 2 lb.  | 7           | —           |
-| Overcoat               | Med   | 3 lb.  | 9           | —           |
-| Parka                  | Med   | 3 lb.  | 9           | —           |
-| Photojournalist’s vest | Med   | 1 lb.  | 9           | —           |
-| Windbreaker            | Med   | 1 lb.  | 6           | —           |
-| Tool belt              | Small | 2 lb.  | 9           | —           |
+| Object                    | Size   | Weight | Purchase DC | Restriction |
+| ------------------------- | ------ | ------ | ----------- | ----------- |
+| Clothing outfit, business | Medium | 3 lb.  | 12          | —           |
+| Clothing outfit, casual   | Medium | 2 lb.  | 8           | —           |
+| Clothing outfit, formal   | Medium | 3 lb.  | 15          | —           |
+| Clothing outfit, fatigues | Medium | 3 lb.  | 9           | —           |
+| Clothing outfit, uniform  | Medium | 2 lb.  | 9           | —           |
+| Ghillie suit              | Medium | 5 lb.  | 6           | —           |
+| Coat                      | Medium | 2 lb.  | 8           | —           |
+| Fatigue jacket            | Medium | 2 lb.  | 7           | —           |
+| Overcoat                  | Medium | 3 lb.  | 9           | —           |
+| Parka                     | Medium | 3 lb.  | 9           | —           |
+| Photojournalist’s vest    | Medium | 1 lb.  | 9           | —           |
+| Windbreaker               | Medium | 1 lb.  | 6           | —           |
+| Tool belt                 | Small  | 2 lb.  | 9           | —           |
 
 ## Clothing Outfit
 

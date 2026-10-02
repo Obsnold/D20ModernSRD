@@ -39,7 +39,7 @@ above.
 
 The most reliable and powerful personal defense mechanism in the Energy
 Age, the personal force field projects a defensive bubble around a
-single Medium-size or smaller character or item. The personal force
+single Medium or smaller character or item. The personal force
 field comes in two varieties, one that provides a DR of 5/— and another
 that provides DR 10/—. The device contains a power pack that provides up
 to 2 hours of use. A power backpack may be used to extend this duration
@@ -50,7 +50,7 @@ to 8 hours.
 A hologram player is a small disc with several small light projectors
 arranged around its outer edge. When activated, the device projects a
 three-dimensional image in full color as small as three inches in height
-or as large as a Medium-size character. The hologram player can be
+or as large as a Medium character. The hologram player can be
 hooked into a hologram recorder (capable of storing three-dimensional
 images), or even to a unicom to receive three-dimensional images for
 real-time communications.
@@ -169,7 +169,7 @@ properties of black holes. By using controlled gravity waves to create
 millions of microscopic black holes around the user, the photon shield
 bends light renders him invisible.
 
-A photon shield can cover a Medium-size or smaller creature or a Huge or
+A photon shield can cover a Medium or smaller creature or a Huge or
 smaller object. It grants a +40 equipment bonus on Hide checks if the
 subject is standing still, or a +20 equipment bonus if the subject is
 moving. Pinpointing the location of a character wearing a photon shield
@@ -201,28 +201,39 @@ robotic blueprints, any repairs made using the robocomp as a reference
 are more efficient, granting a +4 equipment bonus on all Repair checks
 made to robots.
 
-**Table: Progress Level 8 Equipment**
+**Table: Progress Level 8 Equipment: Chemical and Medical Equipment**
 
-| Name                               | Size       | Weight  | Purchase DC | Restriction |
-| ---------------------------------- | ---------- | ------- | ----------- | ----------- |
-| **Chemical and Medical Equipment** |            |         |             |             |
-| Chemical, plastiflesh              | Tiny       | 0.5 lb. | 6           | —           |
-| Chemical, truthtell                | Diminutive | —       | 8           | Lic (+1)    |
-| Regen wand                         | Small      | 1 lb.   | 18          | —           |
-| **Computer Equipment**             |            |         |             |             |
-| Neural computer link               | Fine       | —       | 25          | —           |
-| Neural network jack, wireless      | Fine       | —       | 12          | —           |
-| **Miscellaneous Equipment**        |            |         |             |             |
-| Energy shield                      | Tiny       | 0.5 lb. | 16          | —           |
-| Force field, personal (DR 5/–)     | Tiny       | 0.5 lb. | 18          | Mil (+3)    |
-| Force field, personal (DR 10/–)    | Tiny       | 0.5 lb. | 22          | Mil (+3)    |
-| Hologram player                    | Small      | 2 lb.   | 6           | —           |
-| Hologram recorder                  | Diminutive | —       | 9           | —           |
-| Hologuise                          | Small      | 1 lb.   | 15          | —           |
-| Matter shield                      | Tiny       | 0.5 lb. | 20          | Mil (+3)    |
-| Micro-aural communicator           | Fine       | —       | 6           | —           |
-| Neural recorder                    | Small      | 1 lb.   | 15          | Lic (+1)    |
-| Photon shield                      | Small      | 2 lb.   | 24          | Mil (+3)    |
-| Polyvox                            | Tiny       | 0.5 lb. | 10          | —           |
-| **Sensor Equipment**               |            |         |             |             |
-| Sensor, robocomp                   | Small      | 1 lb.   | 18          | —           |
+| Object                | Size       | Weight  | Purchase DC | Restriction |
+| --------------------- | ---------- | ------- | ----------- | ----------- |
+| Chemical, plastiflesh | Tiny       | 0.5 lb. | 6           | —           |
+| Chemical, truthtell   | Diminutive | —       | 8           | Lic (+1)    |
+| Regen wand            | Small      | 1 lb.   | 18          | —           |
+
+**Table: Progress Level 8 Equipment: Computer Equipment**
+
+| Object                        | Size | Weight | Purchase DC | Restriction |
+| ----------------------------- | ---- | ------ | ----------- | ----------- |
+| Neural computer link          | Fine | —      | 25          | —           |
+| Neural network jack, wireless | Fine | —      | 12          | —           |
+
+**Table: Progress Level 8 Equipment: Miscellaneous Equipment**
+
+| Object                          | Size       | Weight  | Purchase DC | Restriction |
+| ------------------------------- | ---------- | ------- | ----------- | ----------- |
+| Energy shield                   | Tiny       | 0.5 lb. | 16          | —           |
+| Force field, personal (DR 5/–)  | Tiny       | 0.5 lb. | 18          | Mil (+3)    |
+| Force field, personal (DR 10/–) | Tiny       | 0.5 lb. | 22          | Mil (+3)    |
+| Hologram player                 | Small      | 2 lb.   | 6           | —           |
+| Hologram recorder               | Diminutive | —       | 9           | —           |
+| Hologuise                       | Small      | 1 lb.   | 15          | —           |
+| Matter shield                   | Tiny       | 0.5 lb. | 20          | Mil (+3)    |
+| Micro-aural communicator        | Fine       | —       | 6           | —           |
+| Neural recorder                 | Small      | 1 lb.   | 15          | Lic (+1)    |
+| Photon shield                   | Small      | 2 lb.   | 24          | Mil (+3)    |
+| Polyvox                         | Tiny       | 0.5 lb. | 10          | —           |
+
+**Table: Progress Level 8 Equipment: Sensor Equipment**
+
+| Object           | Size  | Weight | Purchase DC | Restriction |
+| ---------------- | ----- | ------ | ----------- | ----------- |
+| Sensor, robocomp | Small | 1 lb.  | 18          | —           |

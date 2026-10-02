@@ -22,7 +22,7 @@ checks when concealed against a white background, such as snow and ice.
 | Stat              | Value                                                                     |
 | ----------------- | ------------------------------------------------------------------------- |
 | CR                | 1                                                                         |
-| Size              | Medium-size                                                               |
+| Size              | Medium                                                                    |
 | Type              | monstrous humanoid                                                        |
 | HD                | 2d8+2                                                                     |
 | hp                | 11                                                                        |
@@ -67,7 +67,7 @@ Proficiency.
 | Stat              | Value                                                                                      |
 | ----------------- | ------------------------------------------------------------------------------------------ |
 | CR                | 2                                                                                          |
-| Size              | Medium-size                                                                                |
+| Size              | Medium                                                                                     |
 | Type              | monstrous humanoid                                                                         |
 | HD                | 2d8+2 plus 1d8+1                                                                           |
 | hp                | 16                                                                                         |

@@ -8,31 +8,27 @@ ongoing subscription costs.
 
 **Table: General Equipment: Computers and Consumer Electronics**
 
-| Object                   | Size  | Weight  | Purchase DC | Restriction |
-| ------------------------ | ----- | ------- | ----------- | ----------- |
-| **Camera**               |       |         |             |             |
-| 35mm                     | Small | 2 lb.   | 17          | —           |
-| Digital                  | Tiny  | 0.5 lb. | 14          | —           |
-| Disposable               | Tiny  | 0.5 lb. | 4           | —           |
-| Film                     | Dim   | —       | 3           | —           |
-| Film developing (roll)   | —     | —       | 3           | —           |
-| Cell phone               | Dim   | —       | 9           | —           |
-| **Computer**             |       |         |             |             |
-| Desktop                  | Large | 10 lb.  | 22          | —           |
-| Notebook                 | Med   | 5 lb.   | 23          | —           |
-| Upgrade                  | —     | —       | See text    | —           |
-| Digital audio recorder   | Tiny  | 1 lb.   | 10          | —           |
-| **Modem**                |       |         |             |             |
-| Broadband                | Tiny  | 1 lb.   | 6           | —           |
-| Cellular                 | Tiny  | 1 lb.   | 6           | —           |
-| PDA                      | Tiny  | 0.5 lb. | 16          | —           |
-| Portable satellite phone | Small | 2 lb.   | 17          | —           |
-| Portable video camera    | Small | 2 lb.   | 16          | —           |
-| Printer                  | Med   | 3 lb.   | 12          | —           |
-| Scanner                  | Med   | 3 lb.   | 12          | —           |
-| **Walkie-talkie**        |       |         |             |             |
-| Basic                    | Tiny  | 1 lb.   | 7           | —           |
-| Professional             | Tiny  | 1 lb.   | 15          | —           |
+| Object                      | Size       | Weight  | Purchase DC | Restriction |
+| --------------------------- | ---------- | ------- | ----------- | ----------- |
+| Camera, 35mm                | Small      | 2 lb.   | 17          | —           |
+| Camera, digital             | Tiny       | 0.5 lb. | 14          | —           |
+| Camera, disposable          | Tiny       | 0.5 lb. | 4           | —           |
+| Film                        | Diminutive | —       | 3           | —           |
+| Film developing (roll)      | —          | —       | 3           | —           |
+| Cell phone                  | Diminutive | —       | 9           | —           |
+| Computer, desktop           | Large      | 10 lb.  | 22          | —           |
+| Computer, notebook          | Medium     | 5 lb.   | 23          | —           |
+| Computer, upgrade           | —          | —       | See text    | —           |
+| Digital audio recorder      | Tiny       | 1 lb.   | 10          | —           |
+| Modem, broadband            | Tiny       | 1 lb.   | 6           | —           |
+| Modem, cellular             | Tiny       | 1 lb.   | 6           | —           |
+| PDA                         | Tiny       | 0.5 lb. | 16          | —           |
+| Portable satellite phone    | Small      | 2 lb.   | 17          | —           |
+| Portable video camera       | Small      | 2 lb.   | 16          | —           |
+| Printer                     | Medium     | 3 lb.   | 12          | —           |
+| Scanner                     | Medium     | 3 lb.   | 12          | —           |
+| Walkie-talkie, basic        | Tiny       | 1 lb.   | 7           | —           |
+| Walkie-talkie, professional | Tiny       | 1 lb.   | 15          | —           |
 
 ## Camera
 

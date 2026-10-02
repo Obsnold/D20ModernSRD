@@ -102,7 +102,7 @@ between a weapon’s size and that of its wielder defines whether it can
 be used one-handed, if it requires two hands, and if it’s a light
 weapon.
 
-A Medium-size or smaller weapon can be used one-handed or two-handed. A
+A Medium or smaller weapon can be used one-handed or two-handed. A
 Large weapon requires two hands. A Huge weapon requires two hands and a
 bipod or other mount.
 
