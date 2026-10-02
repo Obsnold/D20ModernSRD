@@ -90,6 +90,7 @@ possessing the feat, this entry is absent.
 - [Medical Expert](MedicalExpert.md)
 - [Meticulous](Meticulous.md)
 - [Mobility](Mobility.md)
+- [Multiattack](Multiattack.md)
 - [Nimble](Nimble.md)
 - [Personal Firearms Proficiency](PersonalFirearmsProficiency.md)
 - [Point Blank Shot](PointBlankShot.md)
