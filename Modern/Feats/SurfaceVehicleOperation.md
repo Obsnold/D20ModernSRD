@@ -13,7 +13,7 @@ feet in length. Sailboats are wind-powered water vessels. Ships are
 large, multicrewed water vessels. Tracked vehicles include bulldozers
 and tanks and other military vehicles.
 
-## Prerequisite
+## Prerequisites
 
 Drive 4 ranks.
 

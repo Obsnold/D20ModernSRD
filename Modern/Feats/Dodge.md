@@ -1,6 +1,6 @@
 # Dodge
 
-## Prerequisite
+## Prerequisites
 
 Dexterity 13.
 

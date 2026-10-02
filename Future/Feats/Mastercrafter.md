@@ -3,10 +3,14 @@
 You are adept at creating mastercraft electronic and mechanical devices
 (including tools, vehicles, weapons, robot manipulators, and armor).
 
-**Prerequisites:** Craft (electrical) 8 ranks, Craft (mechanical) 8
+## Prerequisites
+
+Craft (electrical) 8 ranks, Craft (mechanical) 8
 ranks.
 
-**Benefit:** When successfully completed, a mastercraft electronic or
+## Benefit
+
+When successfully completed, a mastercraft electronic or
 mechanical object provides an equipment bonus on skill checks made to
 use the object (in the case of mastercraft vehicles, this includes Drive
 or Pilot checks). A mastercraft weapon provides a bonus on attack or

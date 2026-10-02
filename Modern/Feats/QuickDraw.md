@@ -1,6 +1,6 @@
 # Quick Draw
 
-## Prerequisite
+## Prerequisites
 
 Base attack bonus +1.
 

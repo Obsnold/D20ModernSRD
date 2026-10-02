@@ -3,9 +3,13 @@
 You can graft cybernetic attachments onto living tissue as well as
 safely remove them.
 
-**Prerequisites:** Treat Injury 8 ranks, Surgery.
+## Prerequisites
 
-**Benefit:** You can make a Treat Injury check (DC 20) to install or
+Treat Injury 8 ranks, Surgery.
+
+## Benefit
+
+You can make a Treat Injury check (DC 20) to install or
 remove a cybernetic attachment. If you do not have a surgery kit or
 access to a medical facility, you take a –4 penalty on the check.
 Cybernetic surgery takes 1d4 hours.
@@ -21,6 +25,8 @@ fatigued for 24 hours. Reduce this time by 2 hours for every point above
 the DC the surgeon achieves. The period of fatigue can never be reduced
 below 6 hours in this fashion.
 
-**Normal:** Characters without this feat take a –8 penalty on Treat
+## Normal
+
+Characters without this feat take a –8 penalty on Treat
 Injury checks made to perform cybernetic surgery (–4 penalty if they
 have the Surgery feat).

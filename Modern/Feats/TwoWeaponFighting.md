@@ -1,6 +1,6 @@
 # Two-Weapon Fighting
 
-## Prerequisite
+## Prerequisites
 
 Dexterity 13.
 

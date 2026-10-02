@@ -3,7 +3,9 @@
 Your physiology has been altered by life on a planet with a harsh
 climate or adverse environmental conditions.
 
-**Benefit:** You gain one of the benefits listed below, depending on
+## Benefit
+
+You gain one of the benefits listed below, depending on
 your planet of origin.
 
 *Barren World:* You gain a +4 bonus on Survival checks and a +4 bonus on
@@ -27,6 +29,8 @@ height by 6 inches.
 *Water World:* You gain a +4 bonus on Swim checks and can hold your
 breath for a number of rounds equal to twice your Constitution score.
 
-**Special:** You may only take this feat at 1st level. You may select
+## Special
+
+You may only take this feat at 1st level. You may select
 this feat more than once, however, if you get multiple feats at 1st
 level; each time you choose this feat, you gain a different benefit.

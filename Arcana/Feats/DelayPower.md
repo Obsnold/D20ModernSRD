@@ -2,7 +2,9 @@
 
 You can manifest powers that trigger a set duration after manifestation.
 
-**Benefit:** A delayed power doesn’t activate until 1 to 5 rounds after
+## Benefit
+
+A delayed power doesn’t activate until 1 to 5 rounds after
 you finish manifesting it. You determine the delay when manifesting the
 power, and it cannot be changed once set. The power activates just
 before your turn on the round you designate. Only area, personal, and

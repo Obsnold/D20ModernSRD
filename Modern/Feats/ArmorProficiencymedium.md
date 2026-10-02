@@ -1,6 +1,6 @@
 # Armor Proficiency (medium)
 
-## Prerequisite
+## Prerequisites
 
 Armor Proficiency (light).
 

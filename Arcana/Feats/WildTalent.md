@@ -5,7 +5,9 @@ sure she is using psionics before selecting this feat. This feat may be
 used even if psionics are not part of the campaign, in which case
 psionics are treated as spell-like abilities.
 
-**Benefit:** You may use one of the following 0-level psionic powers:
+## Benefit
+
+You may use one of the following 0-level psionic powers:
 *burst, daze, detect psionics, distract, far hand, far punch, finger of
 fire, missive*, or *verve.* You can manifest this power up to three
 times per day. There is no Power Point cost for using this power.

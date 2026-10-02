@@ -1,6 +1,6 @@
 # Surgery
 
-## Prerequisite
+## Prerequisites
 
 Treat Injury 4 ranks.
 

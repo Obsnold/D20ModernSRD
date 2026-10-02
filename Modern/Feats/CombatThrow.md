@@ -1,6 +1,6 @@
 # Combat Throw
 
-## Prerequisite
+## Prerequisites
 
 Defensive Martial Arts.
 

@@ -2,9 +2,13 @@
 
 You make one of your powers last all day.
 
-**Prerequisite:** Extend Power.
+## Prerequisites
 
-**Benefit:** A persistent power has a duration of 24 hours. The
+Extend Power.
+
+## Benefit
+
+A persistent power has a duration of 24 hours. The
 persistent power must have a personal range or a fixed range; you can’t
 use this feat on a power with a variable range, or on a power with an
 instantaneous duration. Note that you must concentrate on some powers to

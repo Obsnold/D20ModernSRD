@@ -1,6 +1,6 @@
 # Power Attack
 
-## Prerequisite
+## Prerequisites
 
 Strength 13.
 

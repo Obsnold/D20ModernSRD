@@ -3,9 +3,13 @@
 You are skilled at starship skirmish tactics, zipping in and out of an
 enemy’s sights.
 
-**Prerequisite:** Dexterity 13, Starship Dodge, Starship Mobility.
+## Prerequisites
 
-**Benefit:** When using an attack action with a starship ranged weapon,
+Dexterity 13, Starship Dodge, Starship Mobility.
+
+## Benefit
+
+When using an attack action with a starship ranged weapon,
 you can move both before and after the attack, provided that the total
 distance moved does not exceed the starship’s tactical speed.
 

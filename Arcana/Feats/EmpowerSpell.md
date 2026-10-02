@@ -2,7 +2,9 @@
 
 You can cast spells to greater effect.
 
-**Benefit:** All variable, numeric effects of an empowered spell are
+## Benefit
+
+All variable, numeric effects of an empowered spell are
 increased by one-half. An empowered spell deals half again as much
 damage as normal, cures half again as many hit points, affects half
 again as many targets, and so forth, as appropriate. For example, an

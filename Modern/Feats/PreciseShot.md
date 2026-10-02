@@ -1,6 +1,6 @@
 # Precise Shot
 
-## Prerequisite
+## Prerequisites
 
 Point Blank Shot.
 

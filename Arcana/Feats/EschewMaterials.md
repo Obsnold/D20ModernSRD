@@ -2,7 +2,9 @@
 
 You can cast spells without relying on material components.
 
-**Benefit:** An eschewed spell can be cast with no material components.
+## Benefit
+
+An eschewed spell can be cast with no material components.
 Spells without material components or whose material components have a
 Purchase DC of 4 or greater are not affected by this feat.
 

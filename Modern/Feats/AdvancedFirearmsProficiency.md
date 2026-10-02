@@ -1,6 +1,6 @@
 # Advanced Firearms Proficiency
 
-## Prerequisite
+## Prerequisites
 
 Personal Firearms Proficiency.
 

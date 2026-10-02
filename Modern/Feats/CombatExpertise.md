@@ -1,6 +1,6 @@
 # Combat Expertise
 
-## Prerequisite
+## Prerequisites
 
 Intelligence 13.
 

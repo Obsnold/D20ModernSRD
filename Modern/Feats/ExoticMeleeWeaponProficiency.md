@@ -3,7 +3,7 @@
 Choose one exotic melee weapon from. The character is proficient with
 that melee weapon in combat.
 
-## Prerequisite
+## Prerequisites
 
 Base attack bonus +1.
 

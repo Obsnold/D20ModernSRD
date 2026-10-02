@@ -2,10 +2,14 @@
 
 You can construct cybernetic attachments.
 
-**Prerequisites:** Craft (electrical) 10 ranks, Craft (mechanical) 10
+## Prerequisites
+
+Craft (electrical) 10 ranks, Craft (mechanical) 10
 ranks, Knowledge (life sciences) 5 ranks.
 
-**Benefits:** You can build cybernetic attachments. You must first make
+## Benefit
+
+You can build cybernetic attachments. You must first make
 a Wealth check against the purchase DC of the attachment (to acquire the
 necessary components), then invest 24 hours in its construction. At the
 end of that time, you must succeed at a Craft (mechanical) check (DC 30)
@@ -17,5 +21,7 @@ feat). If either or both checks fail, the attachment’s design is flawed;
 another 24 hours must be spent fixing the problems, and two new checks
 must be made at the end of that time.
 
-**Special:** This feat does not allow you to build a cybernetic
+## Special
+
+This feat does not allow you to build a cybernetic
 attachment of a higher Progress Level.

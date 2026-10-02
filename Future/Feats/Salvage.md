@@ -3,7 +3,9 @@
 You can salvage electrical and mechanical parts from destroyed vehicles,
 mecha, starships, robots, and cybernetic attachments.
 
-**Benefit:** Salvaging a destroyed vehicle, mecha, starship, robot, or
+## Benefit
+
+Salvaging a destroyed vehicle, mecha, starship, robot, or
 cybernetic attachment takes time, as noted in Table: Salvage.
 
 At the end of this time, make a Search check. If the check succeeds, you
@@ -35,6 +37,8 @@ the cost of future building projects.
 | Replacement               | 10 min.       | 15              | +1              |
 | Enhancement               | 30 min.       | 20              | +2              |
 
-**Special:** A particular vehicle, mecha, starship, robot, or cybernetic
+## Special
+
+A particular vehicle, mecha, starship, robot, or cybernetic
 attachment can be successfully salvaged only once. Any further attempts
 to salvage the wreckage fail automatically.

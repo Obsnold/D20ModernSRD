@@ -10,7 +10,7 @@ engines. Helicopters include transport and combat helicopters of all
 types. Jet fighters include military fighter and ground attack jets.
 Spacecraft are vehicles such as the space shuttle and the lunar lander.
 
-## Prerequisite
+## Prerequisites
 
 Pilot 4 ranks.
 

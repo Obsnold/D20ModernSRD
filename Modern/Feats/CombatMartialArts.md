@@ -1,6 +1,6 @@
 # Combat Martial Arts
 
-## Prerequisite
+## Prerequisites
 
 Base attack bonus +1.
 

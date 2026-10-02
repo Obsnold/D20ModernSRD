@@ -1,6 +1,6 @@
 # Quick Reload
 
-## Prerequisite
+## Prerequisites
 
 Base attack bonus +1.
 

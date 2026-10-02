@@ -2,7 +2,9 @@
 
 Your spells are more effective against creatures of Shadow.
 
-**Benefit:** Creatures of Shadow and characters with shadowblood (humans
+## Benefit
+
+Creatures of Shadow and characters with shadowblood (humans
 of shadow heritage, or elves and dwarves, for example) take a –4 penalty
 on the spell’s saving throw.
 

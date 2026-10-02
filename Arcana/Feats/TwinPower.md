@@ -2,7 +2,9 @@
 
 You can manifest a power simultaneously with another power just like it.
 
-**Benefit:** Manifesting a power altered by this feat causes the power
+## Benefit
+
+Manifesting a power altered by this feat causes the power
 to take effect twice on the target, as if you were simultaneously
 manifesting the same power two times on the same location or target. Any
 variables in the power (such as targets, shaping an area, and so on)
