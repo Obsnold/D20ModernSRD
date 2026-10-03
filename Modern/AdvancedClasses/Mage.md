@@ -1,4 +1,4 @@
-# MAGE
+# Mage
 
 The fastest path into this advanced class is from the Smart hero basic
 class, though other paths are possible.

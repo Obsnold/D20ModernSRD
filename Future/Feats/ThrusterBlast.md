@@ -3,10 +3,14 @@
 By directing your vectored thrusters all around your mecha, you can kick
 up a cloud of dust and debris that obscures the battlefield.
 
-**Prerequisite:** Pilot 10 ranks, mecha flight system (either jetpack,
+## Prerequisites
+
+Pilot 10 ranks, mecha flight system (either jetpack,
 thruster boots, or ramjet thruster boots).
 
-**Benefit:** You can aim your thruster exhaust toward the ground to
+## Benefit
+
+You can aim your thruster exhaust toward the ground to
 create a hemispherical cloud. If you are within 30 feet of the ground
 and there is loose debris or dust, you can create a cloud with a 50-foot
 radius centered directly below you. The generated winds snuff out small

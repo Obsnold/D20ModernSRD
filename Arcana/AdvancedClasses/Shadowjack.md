@@ -111,22 +111,25 @@ meet all of the prerequisites for the feat to select it.
 - Studious
 - Windfall
 
-### Electronic Empathy
+### Shadowjack Abilities
+
+Beginning at 4th level, the Shadowjack gains the following abilities.
+
+#### Electronic Empathy
 
 At 4th level, the Shadowjack gains a +2 competence bonus
 when repairing or disabling electronic devices. This is in addition to
 any synergy bonuses for related skills.
 
-### Careful Progress
+#### Careful Progress
 
 At 4th level, when the Shadowjack attempts to defeat computer
 security, the administrator is alerted only if the Shadowjack fails his
-Computer Use check by 10 or more. At 5th level, the Shadowjack gains the
-following abilities:
+Computer Use check by 10 or more.
 
-### False Trail
+#### False Trail
 
-At 4th level, when covering his electronically tracks through the
+At 5th level, when covering his electronically tracks through the
 internet, the Shadowjack can lay in a false trail. With a successful DC
 25 Computer Use check, the Shadowjack imposes a –5 penalty on any
 attempt to trace him (as described in the *Defend Security* function of
@@ -135,9 +138,9 @@ tracker follows the Shadowjack’s false trail to an innocent internet
 address. If the trace fails by less than 10 points, the tracker realizes
 the trail is bogus and gives up.
 
-### Install Backdoor
+#### Install Backdoor
 
-At 4th level, after successfully breaking into a specific
+At 5th level, after successfully breaking into a specific
 computer system, the Shadowjack can install a “backdoor” to the system.
 A backdoor is a piece of code that makes it easier for the Shadowjack to
 break into that particular system in the future. Writing and installing
@@ -160,7 +163,7 @@ every time he uses it he must make an opposed Computer Use check against
 the administrator. Failure means the backdoor is discovered and will be
 deleted before the next time the Shadowjack returns.
 
-### Online Spell Resistance
+#### Online Spell Resistance
 
 At 7th level, the Shadowjack becomes harder to hurt by
 spells and spell-like abilities sent through email and electronic
@@ -169,7 +172,7 @@ as magical items which use electronic components. The Shadowjack gains
 Spell Resistance equal to 10 + his Shadowjack levels. This is a
 supernatural ability.
 
-### Improved Degradation
+#### Improved Degradation
 
 At 7th level, the Shadowjack’s attempts to alter and
 degrade existing programming get more insidious. The degradation is
@@ -179,13 +182,13 @@ unless the Computer Use check to fix the degraded program exceeds the DC
 by 5, the degradation returns within 6 hours—this happens automatically,
 the Shadowjack does not have to make a second check.
 
-### Passfirewall
+#### Passfirewall
 
 At 8th level, when the Shadowjack attempts to defeat computer
 security, the administrator is alerted only if the Shadowjack rolls a 1
 on his Computer Use check.
 
-### Walking Database
+#### Walking Database
 
 At 8th level, the Shadowjack gains the supernatural ability to
 recall vast amounts of information gleaned while traveling through

@@ -1,4 +1,4 @@
-# SOLDIER
+# Soldier
 
 ## Requirements
 

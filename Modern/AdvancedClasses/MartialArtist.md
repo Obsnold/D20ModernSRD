@@ -1,4 +1,4 @@
-# MARTIAL ARTIST
+# Martial Artist
 
 ## Requirements
 

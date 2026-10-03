@@ -44,7 +44,7 @@ The Technosavant’s class skills are as follows.
 - Navigate (Int)
 - Pilot (Dex)
 - Profession (Wis)
-- Read/ Write Language (none)
+- Read/Write Language (none)
 - Repair (Int)
 - Research (Int)
 - Speak Language (none)

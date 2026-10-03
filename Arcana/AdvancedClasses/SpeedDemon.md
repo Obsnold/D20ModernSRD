@@ -37,7 +37,7 @@ The Speed Demon’s class skills are as follows:
 - Concentration (Con)
 - Craft (electronic) (Int)
 - Craft (mechanical) (Int)
-- Disable Device (Dex)
+- Disable Device (Int)
 - Drive (Dex)
 - Knowledge (current events) (Int)
 - Knowledge (popular culture) (Int)
@@ -67,7 +67,7 @@ The Speed Demon’s class skills are as follows:
 | 6th         | +4                | +2        | +5       | +2        | Bonus feat, commandeer      | +3            | +2               |
 | 7th         | +5                | +2        | +5       | +2        | Leadfoot                    | +4            | +2               |
 | 8th         | +6                | +2        | +6       | +2        | Redlining the needle        | +4            | +2               |
-| 9th         | +6                | +3        | +6       | +3        | Bonus feat. restore vehicle | +5            | +3               |
+| 9th         | +6                | +3        | +6       | +3        | Bonus feat, restore vehicle | +5            | +3               |
 | 10th        | +7                | +3        | +7       | +3        | One with the machine        | +5            | +3               |
 
 ## Class Features

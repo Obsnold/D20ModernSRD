@@ -1,4 +1,4 @@
-# TECHIE
+# Techie
 
 ## Requirements
 

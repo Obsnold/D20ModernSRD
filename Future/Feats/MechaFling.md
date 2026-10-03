@@ -2,9 +2,13 @@
 
 You can pick up an opponent with your mecha and fling it.
 
-**Prerequisite:** Mecha Operation, at least one free hand slot.
+## Prerequisites
 
-**Benefit:** Your mecha can make a grapple check at a –20 penalty
+Mecha Operation, at least one free hand slot.
+
+## Benefit
+
+Your mecha can make a grapple check at a –20 penalty
 against an opponent at least two size categories smaller than it. If the
 grapple succeeds, you can use an attack action to fling the held
 opponent on your next action. The range increment for the thrown foe is

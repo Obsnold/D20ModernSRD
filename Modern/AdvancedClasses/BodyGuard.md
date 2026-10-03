@@ -1,4 +1,4 @@
-# BODYGUARD
+# Bodyguard
 
 ## Requirements
 

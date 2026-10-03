@@ -1,4 +1,4 @@
-# PERSONALITY
+# Personality
 
 ## Requirements
 

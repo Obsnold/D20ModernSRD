@@ -38,7 +38,7 @@ The Thrasher’s class skills are as follows:
 - Concentration (Con)
 - Drive (Dex)
 - Profession (Wis)
-- Read/Write Languages (none)
+- Read/Write Language (none)
 - Ride (Dex)
 - Speak Language (none)
 - Spot (Wis)

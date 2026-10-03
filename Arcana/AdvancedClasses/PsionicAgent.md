@@ -59,7 +59,7 @@ The Psionic Agent’s class skills are as follows:
 
 **Table: The Psionic Agent**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                              | Defense Bonus | Reputation Bonus |
 | ----- | ----------------- | --------- | -------- | --------- | ------------------------------------ | ------------- | ---------------- |
 | 1st   | +0                | +0        | +2       | +0        | Psionic skills, psionic powers       | +1            | +0               |
 | 2nd   | +1                | +0        | +3       | +0        | Psionic Focus, psionic powers        | +2            | +0               |
@@ -133,9 +133,20 @@ At 3rd, 6th, and 9th level, the Psionic Agent gets a bonus feat. The
 bonus feat must be selected from the following list, and the Psionic
 Agent must meet all of the prerequisites for the feat to select it.
 
-Athletic, Blind-Fight, Cleave, Combat Reflexes, Double Tap, Exotic Melee
-Weapons Proficiency, Focused, Point Blank Shot, Precise Shot, Shot on
-the Run, Skip Shot, Weapon Focus, as well as any metapsionic feats.
+- Athletic
+- Blind-Fight
+- Cleave
+- Combat Reflexes
+- Double Tap
+- Exotic Melee Weapon Proficiency
+- Focused
+- Point Blank Shot
+- Precise Shot
+- Shot on the Run
+- Skip Shot
+- Weapon Focus
+
+The Psionic Agent can also select any metapsionic feat.
 
 ### Draw Power
 

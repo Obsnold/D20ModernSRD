@@ -1,20 +1,22 @@
-# THE DEDICATED HERO
+# Dedicated Hero
 
-## Ability
+## Class Information
+
+### Ability
 
 Wisdom
 
-## Hit Die
+### Hit Die
 
 1d6
 
-## Action Points
+### Action Points
 
 Dedicated heroes gain a number of action points equal
 to 5 + one-half their character level, rounded down, at 1st level and
 every time they attain a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Dedicated hero’s class skills (and the key ability
 for each skill) are:
@@ -54,12 +56,14 @@ class skills to choose from.
 
 **Skill Points at Each Additional Level:** 5 + Int modifier.
 
-## Starting Feats
+### Starting Feats
 
 In addition to the two feats all characters get at 1st level, a
 Dedicated hero begins play with the Simple Weapons Proficiency feat.
 
-## Class Table
+### Class Table
+
+**Table: The Dedicated Hero**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
 | ----------- | ----------------- | --------- | -------- | --------- | -------------- | ------------- | ---------------- |

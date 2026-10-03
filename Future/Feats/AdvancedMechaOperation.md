@@ -3,9 +3,13 @@
 You have received advanced training or extensive practice in mecha
 movement.
 
-**Prerequisite:** Mecha Operation.
+## Prerequisites
 
-**Benefit:** Choose a size of mecha (Large, Huge, Gargantuan, or
+Mecha Operation.
+
+## Benefit
+
+Choose a size of mecha (Large, Huge, Gargantuan, or
 Colossal). When you are operating a mecha of the chosen size, you gain a
 +1 dodge bonus to Defense. Furthermore, armor penalties for operating
 the mecha are 2 less than they would otherwise be (minimum penalty –0).

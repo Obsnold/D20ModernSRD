@@ -1,4 +1,4 @@
-# BATTLE MIND
+# Battle Mind
 
 ## Requirements
 

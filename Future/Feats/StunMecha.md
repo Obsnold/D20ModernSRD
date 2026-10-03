@@ -3,9 +3,13 @@
 By channeling electricity into an enemy mecha’s control system, you can
 temporarily short it out.
 
-**Prerequisite:** Base attack bonus +8, Mecha Operation, Precise Shot.
+## Prerequisites
 
-**Benefit:** If you threaten a critical hit with an electricity attack
+Base attack bonus +8, Mecha Operation, Precise Shot.
+
+## Benefit
+
+If you threaten a critical hit with an electricity attack
 against another mecha, you may automatically confirm the critical. In
 addition to suffering the effects of the critical hit, the mecha is
 automatically stunned for 2d4 rounds. The stunned mecha automatically

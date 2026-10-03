@@ -1,4 +1,4 @@
-# ACOLYTE
+# Acolyte
 
 ## Requirements
 

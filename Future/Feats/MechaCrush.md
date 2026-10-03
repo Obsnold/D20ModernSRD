@@ -2,9 +2,13 @@
 
 You can hurl your mecha’s body onto opponents to deal tremendous damage.
 
-**Prerequisite:** Mecha Operation.
+## Prerequisites
 
-**Benefit:** As an attack action, you can maneuver your mecha to jump or
+Mecha Operation.
+
+## Benefit
+
+As an attack action, you can maneuver your mecha to jump or
 fall onto opponents, using the mecha’s body to crush them. This attack
 is useful only against creatures at least two size categories smaller
 than your mecha. The base damage for a crush attack depends on your

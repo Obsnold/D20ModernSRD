@@ -1,4 +1,4 @@
-# FIELD MEDIC
+# Field Medic
 
 ## Requirements
 

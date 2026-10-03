@@ -1,4 +1,4 @@
-# GUNSLINGER
+# Gunslinger
 
 ## Requirements
 

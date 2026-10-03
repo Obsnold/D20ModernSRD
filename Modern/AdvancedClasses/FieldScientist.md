@@ -1,4 +1,4 @@
-# FIELD SCIENTIST
+# Field Scientist
 
 ## Requirements
 

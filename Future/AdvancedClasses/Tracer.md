@@ -73,7 +73,7 @@ nonhumans).
 | 4th         | +4                | +1        | +4       | +1        | Uncanny stealth (full speed)   | +2            | +1               |
 | 5th         | +5                | +1        | +4       | +1        | Swift strike +2d6              | +3            | +2               |
 | 6th         | +6                | +2        | +5       | +2        | Bonus feat                     | +3            | +2               |
-| 7th         | +7                | +2        | +5       | +2        | Uncanny stealth (charge/run)   | + 4           | +2               |
+| 7th         | +7                | +2        | +5       | +2        | Uncanny stealth (charge/run)   | +4            | +2               |
 | 8th         | +8                | +2        | +6       | +2        | Swift strike +3d6              | +4            | +3               |
 | 9th         | +9                | +3        | +6       | +3        | Bonus feat                     | +4            | +3               |
 | 10th        | +10               | +3        | +7       | +3        | Swift tracking                 | +5            | +3               |

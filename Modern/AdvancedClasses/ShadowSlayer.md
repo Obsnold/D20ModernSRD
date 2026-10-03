@@ -1,4 +1,4 @@
-# SHADOW SLAYER
+# Shadow Slayer
 
 ## Requirements
 

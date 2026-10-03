@@ -3,9 +3,13 @@
 You can use your mecha to wield improvised weapons and attack several
 spaces at once.
 
-**Prerequisite:** Mecha Operation, Power Attack, two free hand slots.
+## Prerequisites
 
-**Benefit:** You can use your mecha’s great size and strength, along
+Mecha Operation, Power Attack, two free hand slots.
+
+## Benefit
+
+You can use your mecha’s great size and strength, along
 with your own knowledge of balance and leverage, to pick up a heavy
 object (such as a large tree or boulder) and attack an area as an attack
 action. The area affected is a half-circle with a radius equal to your

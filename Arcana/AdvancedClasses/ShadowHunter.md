@@ -46,7 +46,7 @@ The Shadow Hunter’s class skills are as follows:
 - Knowledge (streetwise) (Int)
 - Listen (Wis)
 - Profession (Wis)
-- Read/ Write Language (none)
+- Read/Write Language (none)
 - Research (Int)
 - Search (Int)
 - Sense Motive (Wis)

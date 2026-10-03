@@ -81,8 +81,9 @@ The following class features pertain to the Space Monkey advanced class.
 ### Hibernation Trance
 
 A Space Monkey can enter a deep trance that allows him to gain the full
-benefits of sleep or bed rest in half the usual time. **Monkey’s
-Wrench**
+benefits of sleep or bed rest in half the usual time.
+
+### Monkey’s Wrench
 
 Space Monkeys use tools expertly and creatively. Starting at 2nd level,
 a Space Monkey gains a competence bonus equal to one-half his Space

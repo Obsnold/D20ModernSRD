@@ -1,20 +1,22 @@
-# THE CHARISMATIC HERO
+# Charismatic Hero
 
-## Ability
+## Class Information
+
+### Ability
 
 Charisma
 
-## Hit Die
+### Hit Die
 
 1d6
 
-## Action Points
+### Action Points
 
 Charismatic heroes gain a number of action points
 equal to 5 + one-half their character level, rounded down, at 1st level
 and every time they attain a new level in this class.
 
-## Class Skills
+### Class Skills
 
 The Charismatic hero’s class skills (and the key
 ability for each skill) are:
@@ -55,12 +57,14 @@ class skills to choose from.
 
 **Skill Points at Each Additional Level:** 7 + Int modifier.
 
-## Starting Feats
+### Starting Feats
 
 In addition to the two feats all characters get at 1st level, a
 Charismatic hero begins play with the Simple Weapons Proficiency feat.
 
-## Class Table
+### Class Table
+
+**Table: The Charismatic Hero**
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
 | ----------- | ----------------- | --------- | -------- | --------- | -------------- | ------------- | ---------------- |
@@ -276,7 +280,7 @@ down (to a minimum of one ally).
 
 **Prerequisites:** Coordinate, inspiration.
 
-#### Bonus Feats
+### Bonus Feats
 
 At 2nd, 4th, 6th, 8th, and 10th level, the Charismatic hero gains a
 bonus feat. This feat must be selected from the following list, and the

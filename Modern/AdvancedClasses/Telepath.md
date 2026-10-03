@@ -1,4 +1,4 @@
-# TELEPATH
+# Telepath
 
 The fastest path into this advanced class is from the Charismatic hero
 basic class, though other paths are possible.
