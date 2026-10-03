@@ -125,7 +125,7 @@ their human agents to act as interpreters.
 | Cha               | 11                                                                                                                                            |
 
 **Skills:** Computer Use +13, Craft (electrical) +13, Craft (mechanical)
-+13, Demolitions +9, Disable Device +13, Knowledge (technology) +11;
++13, Demolitions +9, Disable Device +13, Knowledge (technology) +11,
 Repair +13, Treat Injury +7.
 
 **Feats:** Builder, Cautious, Gearhead, Surgery, Weapon Finesse

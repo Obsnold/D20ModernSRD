@@ -87,14 +87,14 @@ Artist checks.
 | Cha               | 11                                                               |
 
 **Skills:** Bluff +8, Climb +3, Concentration +6, Disguise +13, Escape
-Artist +14, Knowledge (current events) +2, Read/ Write English, Speak
+Artist +14, Knowledge (current events) +2, Read/Write English, Speak
 English, Spot +7, Survival +7.
 
 **Feats:** Armor Proficiency (light), Combat Martial Arts, Defensive
 Martial Arts, Great Fortitude, Improved Combat Martial Arts, Nimble,
 Simple Weapons Proficiency, Toughness.
 
-**Talents (Tough Hero):** Damage reduction 1/–, remain conscious.
+**Talents (Tough Hero):** Damage reduction 1/—, remain conscious.
 
 **Talents (Dedicated Hero):** Intuition, skill emphasis (Disguise).
 

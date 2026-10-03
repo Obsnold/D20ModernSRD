@@ -166,7 +166,7 @@ Str +2, Dex +2.
 Demolitions +8, Disguise +3, Drive +5, Forgery +6, Gather Information
 +1, Intimidate +3, Knowledge (current events) +6, Knowledge (tactics)
 +5, Knowledge (technology) +6, Knowledge (theology and philosophy) +4,
-Navigate +4, Pilot +5, Profession +4, Read/ Write English, Repair +4,
+Navigate +4, Pilot +5, Profession +4, Read/Write English, Repair +4,
 Research +5, Search +4, Speak English.
 
 **Feats:** Advanced Firearms Proficiency, Armor Proficiency (light),

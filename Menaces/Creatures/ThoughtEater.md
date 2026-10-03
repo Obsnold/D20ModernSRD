@@ -58,9 +58,9 @@ modifier + power level.
 | Grap              | –2                                              |
 | Atk               | +3 melee touch (6 power points or 1 Int, touch) |
 | Full Atk          | +3 melee touch (6 power points or 1 Int, touch) |
-| SQ                | dimensional jaunt, eat thoughts, *psionics*     |
 | FS                | 5 ft. by 5 ft.                                  |
 | Reach             | 5 ft.                                           |
+| SQ                | dimensional jaunt, eat thoughts, *psionics*     |
 | AL                | none                                            |
 | Fort              | +1                                              |
 | Ref               | +5                                              |

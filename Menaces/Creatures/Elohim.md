@@ -103,7 +103,7 @@ language that the latter can understand in order to converse.
 | Cha                    | 19                                                                                                                                                                      |
 
 **Skills:** Bluff +10, Diplomacy +10, Gather Information +10, Intimidate
-+10, Investigate +8, Read/Write English, Read/ Write Language (any two),
++10, Investigate +8, Read/Write English, Read/Write Language (any two),
 Research +8, Search +4, Speak English, Speak Language (any two).
 
 **Feats:** Archaic Weapons Proficiency, Personal Firearms Proficiency,

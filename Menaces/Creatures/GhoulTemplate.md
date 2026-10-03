@@ -125,8 +125,8 @@ character.
 **Occupation:** Blue collar (class skills: Drive, Intimidate)
 
 **Skills:** Craft (mechanical) +5, Drive +6, Intimidate +3, Knowledge
-(popular culture) +2, Knowledge (streetwise) +2, Profession +4, Read/
-Write English, Repair +2, Speak English, Swim +4.
+(popular culture) +2, Knowledge (streetwise) +2, Profession +4, Read/Write
+ English, Repair +2, Speak English, Swim +4.
 
 **Feats:** Brawl, Multiattack, Personal Firearms Proficiency, Simple
 Weapons Proficiency.

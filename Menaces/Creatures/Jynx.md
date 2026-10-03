@@ -113,6 +113,6 @@ Drive +7, Escape Artist +14, Hide +8, Jump +4, Listen +7, Move Silently
 Operation (jet fighters), Dodge, Mobility, Personal Firearms
 Proficiency, Weapon Finesse (claws).
 
-**Talents:** Evasion, uncanny dodge 1.
+**Talents (Fast Hero):** Evasion, uncanny dodge 1.
 
 **Possessions:** None.

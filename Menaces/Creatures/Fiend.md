@@ -126,8 +126,8 @@ Knowledge (business) +46, Knowledge (civics) +46, Knowledge (current
 events) +40, Knowledge (history) +24, Knowledge (technology) +18,
 Knowledge (theology and philosophy) +16, Listen +13, Profession +41,
 Read/Write Abyssal, Read/Write Arabic, Read/Write Dutch, Read/Write
-English, Read/Write French, Read/Write German, Read/Write Greek, Read/
-Write Italian, Read/Write Japanese, Read/Write Russian, Read/Write
+English, Read/Write French, Read/Write German, Read/Write Greek, Read/Write
+ Italian, Read/Write Japanese, Read/Write Russian, Read/Write
 Spanish, Research +19, Sense Motive +32, Speak Abyssal, Speak Arabic,
 Speak Dutch, Speak English, Speak French, Speak German, Speak Greek,
 Speak Italian, Speak Japanese, Speak Russian, Speak Spanish, Spot +13.
@@ -471,7 +471,7 @@ Speak English, Tumble +17.
 Arts, Dodge, Elusive Target, Heroic Surge, Improved Initiative,
 Mobility, Simple Weapons Proficiency, Spring Attack.
 
-**Talents:** Evasion, defensive roll, increased speed, uncanny dodge 1,
+**Talents (Fast Hero):** Evasion, defensive roll, increased speed, uncanny dodge 1,
 uncanny dodge 2.
 
 **Possessions:** Colt Python (fully loaded).

@@ -97,7 +97,7 @@ or one other language.
 Firearms Proficiency, Power Attack, Simple Weapons Proficiency, Weapon
 Focus (great club).
 
-**Talents (Tough Hero):** Damage reduction 1/—, 2/—, and Second Wind.
+**Talents (Tough Hero):** Damage reduction 1/—, damage reduction 2/—, second wind.
 
 **Talents (Bodyguard):** Harm’s way.
 

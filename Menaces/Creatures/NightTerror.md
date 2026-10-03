@@ -137,7 +137,7 @@ Silently +5, Search +3, Sense Motive +13, Spot +6.
 
 **Skills:** Bluff +10, Climb +3, Disguise +9, Escape Artist +2, Hide +4,
 Intimidate +17, Knowledge (behavioral science) +12, Knowledge (popular
-culture) +7, Listen +11, Move Silently +5, Read/ Write English, Search
+culture) +7, Listen +11, Move Silently +5, Read/Write English, Search
 +3, Sense Motive +13, Speak English, Spot +11.
 
 **Feats:** Dodge, Improved Initiative, Point Blank Shot, Personal

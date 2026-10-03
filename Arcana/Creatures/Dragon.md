@@ -256,8 +256,8 @@ Language (any two), Spot +9.
 | Cha               | 14                                                                                 |
 
 **Skills:** Bluff +10, Diplomacy +10, Jump +10,
-Knowledge (arcane lore) +10, Listen +12, Read/Write Draconic, Read/
-Write Language (any two), Search +10, Sense Motive +10, Speak Draconic,
+Knowledge (arcane lore) +10, Listen +12, Read/Write Draconic, Read/Write
+ Language (any two), Search +10, Sense Motive +10, Speak Draconic,
 Speak Language (any two), Spot +12.
 
 **Feats:** Alertness, Cleave, Power Attack.

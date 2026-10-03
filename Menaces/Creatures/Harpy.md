@@ -116,7 +116,7 @@ Speak English, Spot +9.
 **Feats:** Flyby Attack, Personal Firearms Proficiency, Point Blank Shot,
 Renown, Simple Weapons Proficiency, Weapon Focus (S&W M29).
 
-**Talents (Charismatic):** Charm, fast-talk.
+**Talents (Charismatic Hero):** Charm, fast-talk.
 
 **Possessions:** Leather jacket, S&W M29 (.44 magnum revolver), 50
 rounds of ammunition, metal baton.

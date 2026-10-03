@@ -95,6 +95,6 @@ Read/Write English, Speak English.
 Blind-Fight, Brawl, Endurance, Great Fortitude, Improved Brawl, Improved
 Damage Threshold (×3), Power Attack, Simple Weapons Proficiency, Sunder.
 
-**Talents:** Damage reduction 1/—, robust, stamina.
+**Talents (Tough Hero):** Damage reduction 1/—, robust, stamina.
 
 **Possessions:** Variety of slashing weapons.

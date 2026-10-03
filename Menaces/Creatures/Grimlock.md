@@ -115,6 +115,6 @@ Jump +7, Listen +4, Search +5, Survival +5, Swim +5.
 **Feats:** Archaic Weapons Proficiency, Athletic, Brawl, Improved Brawl,
 Simple Weapons Proficiency, Track, Weapon Focus (spear).
 
-**Talents:** Improved Melee Smash, Melee Smash.
+**Talents (Strong Hero):** Improved Melee Smash, Melee Smash.
 
 **Possessions:** Spear, compound bow with 12 arrows.

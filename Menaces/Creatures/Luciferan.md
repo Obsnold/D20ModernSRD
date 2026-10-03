@@ -110,7 +110,7 @@ English, Speak French, Spellcraft +7.
 **Feats:** Alien Weapons Proficiency, Archaic Weapons Proficiency,
 Combat Expertise, Iron Will, Low Profile, Simple Weapons Proficiency.
 
-**Talents:** Savant (research), trick.
+**Talents (Smart Hero):** Savant (research), trick.
 
 **Mage Spells** (4/3/1): 0—*detect magical aura*, *light*, *mage hand*,
 *read magic*; 1st—*change self*, *power device*, *sleep*;
