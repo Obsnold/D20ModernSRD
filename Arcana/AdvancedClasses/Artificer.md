@@ -176,7 +176,7 @@ saved as a file on a computer or PDA.
 **Improved Scribe Tattoo**: With this talent, an Artificer can create
 tattoos on his body or on someone else’s. Tattoos function similarly to
 scrolls, and are created in the same way (see Scribe Scroll), except
-that the pertinent skill is Craft (visual arts). **Magic Mastercraft:**
+that the pertinent skill is Craft (visual art). **Magic Mastercraft:**
 With this talent, the Artificer can create magical mastercraft items.
 
 Each time the Artificer selects this Craft Artifice talent, he applies

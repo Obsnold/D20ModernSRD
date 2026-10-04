@@ -40,7 +40,7 @@ The Telepath’s class skills are as follows.
 - Knowledge (behavioral sciences) (Int)
 - Knowledge (current events) (Int)
 - Knowledge (popular culture) (Int)
-- Knowledge (philosophy and theology) (Int)
+- Knowledge (theology and philosophy) (Int)
 - Profession (Wis)
 - Psicraft (Int)
 - Read/Write Language (none)

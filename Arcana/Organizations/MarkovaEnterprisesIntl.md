@@ -157,7 +157,7 @@ lifestyle.
 | Wis               | 18                                                                                                                        |
 | Cha               | 20                                                                                                                        |
 
-**Skills**: Bluff +20, Computer Use +8, Craft (visual arts) +13, Craft
+**Skills**: Bluff +20, Computer Use +8, Craft (visual art) +13, Craft
 (writing) +13, Diplomacy +22, Disguise +12, Drive +7, Gamble +13, Gather
 Information +20, Intimidate +15, Knowledge (business) +18, Knowledge
 (current events) +14, Knowledge (popular culture) +18, Knowledge

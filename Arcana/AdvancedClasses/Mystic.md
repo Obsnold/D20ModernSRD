@@ -39,7 +39,7 @@ The Mystic’s class skills are as follows:
 - Concentration (Con)
 - Craft (chemical) (Int)
 - Craft (pharmaceutical) (Int)
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Diplomacy (Cha)
 - Gather Information (Cha)
 - Knowledge (art) (Int)

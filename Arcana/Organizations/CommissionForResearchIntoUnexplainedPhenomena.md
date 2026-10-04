@@ -135,7 +135,7 @@ sciences\]), plan.
 **Talents (Dedicated Hero):** Healing knack.
 
 **Talents (Field Scientist):** Smart Defense, scientific improvisation,
-skill mastery (Computer Use, Knowledge [behavioral science], Knowledge
+skill mastery (Computer Use, Knowledge [behavioral sciences], Knowledge
 [earth and life sciences], Craft [pharmaceutical], Craft
 [chemical], Research, Treat Injury), minor breakthrough (Knowledge
 [earth and life sciences]).

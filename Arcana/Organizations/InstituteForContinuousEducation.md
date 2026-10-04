@@ -60,5 +60,5 @@ succeeding at a DC 20 Computer Use check.)
 Anyone using *Dr. Allison’s Guide to the Mystic Arts* gets a +5
 equipment bonus on Research and Knowledge (Arcane Lore) checks. Users
 also receive a +2 equipment bonus on Craft (chemical), Craft (visual
-arts), and Craft (writing) checks when brewing potions and scribing
+art), and Craft (writing) checks when brewing potions and scribing
 tattoos or scrolls.

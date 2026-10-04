@@ -90,7 +90,7 @@ effect.
 | Cha               | 17                                                                                                                                   |
 
 **Skills:** Bluff +6, Climb +3, Disguise +5, Escape Artist +2, Hide +4,
-Intimidate +13, Knowledge (behavioral science) +6, Listen +6, Move
+Intimidate +13, Knowledge (behavioral sciences) +6, Listen +6, Move
 Silently +5, Search +3, Sense Motive +13, Spot +6.
 
 **Feats:** Improved Initiative, Renown, Simple Weapons Proficiency.
@@ -136,7 +136,7 @@ Silently +5, Search +3, Sense Motive +13, Spot +6.
 | Cha               | 18                                                                                                                                                |
 
 **Skills:** Bluff +10, Climb +3, Disguise +9, Escape Artist +2, Hide +4,
-Intimidate +17, Knowledge (behavioral science) +12, Knowledge (popular
+Intimidate +17, Knowledge (behavioral sciences) +12, Knowledge (popular
 culture) +7, Listen +11, Move Silently +5, Read/Write English, Search
 +3, Sense Motive +13, Speak English, Spot +11.
 

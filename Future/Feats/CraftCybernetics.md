@@ -5,7 +5,7 @@ You can construct cybernetic attachments.
 ## Prerequisites
 
 Craft (electrical) 10 ranks, Craft (mechanical) 10
-ranks, Knowledge (life sciences) 5 ranks.
+ranks, Knowledge (earth and life sciences) 5 ranks.
 
 ## Benefit
 

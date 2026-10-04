@@ -51,7 +51,7 @@ The Acolyte’s class skills are as follows.
 
 - Concentration (Con)
 - Craft (structural) (Int)
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Craft (writing) (Int)
 - Diplomacy (Cha)
 - Knowledge (behavioral sciences) (Int)

@@ -32,7 +32,7 @@ this class.
 
 The Occultist’s class skills are as follows.
 
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Craft (writing) (Int)
 - Decipher Script (Int)
 - Drive (Dex)

@@ -34,7 +34,7 @@ The Battle Mind’s class skills are as follows.
 - Balance (Dex)
 - Climb (Str)
 - Concentration (Con)
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Drive (Dex)
 - Jump (Str)
 - Knowledge (current events) (Int)
@@ -222,7 +222,7 @@ The Battle Mind must also spend experience points to imprint a tattoo.
 The XP cost is equal to the power level x the manifester level x the
 purchase DC of the raw materials.
 
-Finally, the Battle Mind makes a Craft (visual arts) check. The DC for
+Finally, the Battle Mind makes a Craft (visual art) check. The DC for
 the check is 10 + the power level + the manifester level of the power.
 If the check fails, the raw materials are used up but the XP are not
 spent. The Battle Mind can try imprinting the tattoo again as soon as he

@@ -132,7 +132,7 @@ concealed carry holster, formal outfit.
 | Cha               | 16                                                                              |
 
 **Skills**: Balance +10, Bluff +6, Disguise +8, Gather Information +7,
-Hide +11, Knowledge (behavioral science) +5, Knowledge (streetwise) +5,
+Hide +11, Knowledge (behavioral sciences) +5, Knowledge (streetwise) +5,
 Listen +10, Read/Write English, Read/Write Cat Folk, Speak English,
 Speak Cat Folk, Spot +10, Tumble +8.
 

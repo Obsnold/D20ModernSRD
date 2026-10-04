@@ -63,7 +63,7 @@ unfriendly.
 | Cha               | 18                                                            |
 
 **Skills:** Escape Artist +11, Handle Animal +11, Hide
-+11, Knowledge (life science) +11, Listen +9, Move Silently +11, Ride
++11, Knowledge (earth and life sciences) +11, Listen +9, Move Silently +11, Ride
 +6, Spot +9, Survival +9.
 
 **Feats:** Great Fortitude, Improved Initiative.

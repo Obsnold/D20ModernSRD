@@ -208,7 +208,7 @@ fleshraker is disarmed.
 | Cha               | 10                                                                                                |
 
 **Skills:** Balance +8, Bluff +4, Disguise +4, Escape Artist +8, Hide
-+8, Knowledge (arcane lore) +6, Knowledge (behavioral science) +6,
++8, Knowledge (arcane lore) +6, Knowledge (behavioral sciences) +6,
 Listen +5, Move Silently +8, Read/Write Abyssal, Read/Write English,
 Read/Write Latin, Speak English, Speak Abyssal, Speak Latin, Spot +5.
 
@@ -256,7 +256,7 @@ Weapon Finesse (knife), Weapon Focus (knife).
 | Cha               | 10                                                                                                              |
 
 **Skills:** Balance +10, Bluff +7, Disguise +7, Escape Artist +10, Hide
-+11, Knowledge (arcane lore) +6, Knowledge (behavioral science) +6,
++11, Knowledge (arcane lore) +6, Knowledge (behavioral sciences) +6,
 Listen +6, Move Silently +11, Read/Write Abyssal, Read/Write English,
 Read/Write Latin, Speak English, Speak Abyssal, Speak Latin, Spot +6.
 

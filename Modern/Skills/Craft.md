@@ -9,7 +9,7 @@
 This skill encompasses several categories, each of them treated as a
 separate skill: Craft (chemical), Craft (electronic), Craft
 (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual
-arts), and Craft (writing).
+art), and Craft (writing).
 
 Craft skills are specifically focused on creating objects. To use a
 Craft skill effectively, a character must have a kit or some other set

@@ -27,7 +27,7 @@ attains a new level in this class.
 The Personality’s class skills (and the key ability for each skill) are:
 
 - Bluff (Cha)
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Craft (writing) (Int)
 - Diplomacy (Cha)
 - Knowledge (art) (Int)

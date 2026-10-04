@@ -33,7 +33,7 @@ stay out of the way of those affected by the illusion.
 
 **Options:** You can create the material component for the *mystic veil*
 illusion yourself at no cost. If you do, the incantation also requires
-a successful Craft (visual arts) check (DC 34).
+a successful Craft (visual art) check (DC 34).
 
 **Material Component:** Realistic paintings, digitally-altered photos, or
 other representations of the desired illusion (purchase DC 17).

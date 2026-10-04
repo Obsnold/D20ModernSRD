@@ -42,7 +42,7 @@ The Shadow Hunter’s class skills are as follows:
 - Investigate (Int)
 - Knowledge (arcane lore) (Int)
 - Knowledge (current events) (Int)
-- Knowledge (popular cultures) (Int)
+- Knowledge (popular culture) (Int)
 - Knowledge (streetwise) (Int)
 - Listen (Wis)
 - Profession (Wis)

@@ -34,7 +34,7 @@ The Mage’s class skills are as follows.
 - Concentration (Con)
 - Craft (chemical) (Int)
 - Craft (pharmaceutical) (Int)
-- Craft (visual arts) (Int)
+- Craft (visual art) (Int)
 - Craft (writing) (Int)
 - Decipher Script (Int)
 - Investigate (Int)
@@ -425,7 +425,7 @@ creating the potion.
 At 4th level, a Mage can create tattoos on his body or someone else’s.
 Tattoos function similarly to scrolls, and are created in the same way
 (see the scribe scroll ability), except that the pertinent skill is
-Craft (visual arts). See Chapter Ten: FX Abilities for more about
+Craft (visual art). See Chapter Ten: FX Abilities for more about
 tattoos.
 
 ### Spell Mastery
