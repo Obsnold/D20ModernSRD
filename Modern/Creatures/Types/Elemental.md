@@ -7,7 +7,7 @@ scores, recommended minimum Hit Dice, and damage based on size.
 | Stat               | Value                                                                         |
 | ------------------ | ----------------------------------------------------------------------------- |
 | Hit Die            | d8                                                                            |
-| Base Attack Bonus  | 3/4 of total Hit Dice (see Table 8–2: Creature Saves and Base Attack Bonuses) |
+| Base Attack Bonus  | 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses)     |
 | Good Saving Throws | Varies by element: Fortitude (earth, water) or Reflex (air, fire)             |
 | Skill Points       | 2 x Int score, plus 2 points per Hit Dice beyond 1 HD                         |
 | Feats              | Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1 HD              |
