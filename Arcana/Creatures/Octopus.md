@@ -46,16 +46,43 @@ checks.
 **Bonus Feats:** Normal octopi gain the bonus feats
 Weapon Finesse (bite) and Weapon Finesse (tentacles).
 
-**Octopus:** CR 1/6 (1/2 if venomous); Small animal; HD
-1/2 d8; hp 2; Mas 11; Init +3; Spd 5 ft., swim 30 ft.; Defense 15, touch
-14, flat-footed 12 (+1 size, +3 Dex, +1 natural); BAB +0; Grap –3; Atk
-+4 melee (special, tentacles); Full Atk +4 melee (special, tentacles),
-–1 melee (1d4, bite); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ Aquatic,
-improved grab, poison (DC 10), ink cloud, jet, low-light vision; AL
-none; SV Fort +2, Ref +5, Will +1; AP 0; Rep +0; Str 10, Dex 17, Con 11,
-Int 3, Wis 12, Cha 3.
+## Octopus
 
-**Skills**: Escape Artist +13, Hide +7, Listen +5, Move
+| Stat              | Value                                                                    |
+| ----------------- | ------------------------------------------------------------------------ |
+| CR                | 1/6 (1/2 if venomous)                                                    |
+| Size              | Small                                                                    |
+| Type              | animal                                                                   |
+| HD                | 1/2 d8                                                                   |
+| hp                | 2                                                                        |
+| Mas               | 11                                                                       |
+| Init              | +3                                                                       |
+| Spd               | 5 ft., swim 30 ft.                                                       |
+| Defense           | 15                                                                       |
+| Touch             | 14                                                                       |
+| Flat-Footed       | 12                                                                       |
+| Defense Breakdown | +1 size, +3 Dex, +1 natural                                              |
+| BAB               | +0                                                                       |
+| Grap              | –3                                                                       |
+| Atk               | +4 melee (special, tentacles)                                            |
+| Full Atk          | +4 melee (special, tentacles), –1 melee (1d4, bite)                      |
+| FS                | 5 ft. by 5 ft.                                                           |
+| Reach             | 5 ft.                                                                    |
+| SQ                | aquatic, improved grab, poison (DC 10), ink cloud, jet, low-light vision |
+| AL                | none                                                                     |
+| Fort              | +2                                                                       |
+| Ref               | +5                                                                       |
+| Will              | +1                                                                       |
+| AP                | 0                                                                        |
+| Rep               | +0                                                                       |
+| Str               | 10                                                                       |
+| Dex               | 17                                                                       |
+| Con               | 11                                                                       |
+| Int               | 3                                                                        |
+| Wis               | 12                                                                       |
+| Cha               | 3                                                                        |
+
+**Skills:** Escape Artist +13, Hide +7, Listen +5, Move
 Silently +5, Spot +5.
 
 **Feats:** Weapon Finesse (bite, tentacles).

@@ -61,18 +61,7 @@ Magic batteries can be obtained from the manufacturer’s web site
 arcanobots’ true magical nature) assume that the high-cost “magic”
 batteries are a joke or publicity stunt. Only those with a true
 understanding of Shadow are likely to pay the price to unlock the
-Arcanobots actual potential. An ARCANOBOT action figure has the
-following statistics:
-
-**Arcanobot:** CR 1/4; Diminutive construct; HD 1/8d10; hp 1; Mas —;
-Init +3; Spd 10 ft., fly 30 ft. (good); Defense 17, touch 17,
-flat-footed 14 (+3 Dex, +4 size); BAB +0; Grap –16; Atk +0 melee (1d2–4
-nonlethal, unarmed strike) or +3 ranged touch (1d3 sonic/concussion,
-“death ray”); Full Atk +0 melee (1d2–4 nonlethal, unarmed strike) or +3
-ranged touch (1d3 sonic/concussion, “death ray”); FS 1 ft. by 1 ft.;
-Reach 0 ft.; SQ darkvision 60 ft., construct immunities; AL creator or
-owner; SV Fort +0, Ref +3, Will –5; AP 0; Rep +0; Str 3, Dex 16, Con —,
-Int —, Wis 1, Cha 1.
+Arcanobots actual potential.
 
 | Stat         | Value                                |
 | ------------ | ------------------------------------ |
@@ -80,6 +69,44 @@ Int —, Wis 1, Cha 1.
 | Caster Level | 10th                                 |
 | Purchase DC  | 5 (does not include magic batteries) |
 | Weight       | 1 lb.                                |
+
+### Arcanobot
+
+An ARCANOBOT action figure has the following statistics:
+
+| Stat              | Value                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| CR                | 1/4                                                                                               |
+| Size              | Diminutive                                                                                        |
+| Type              | construct                                                                                         |
+| HD                | 1/8d10                                                                                            |
+| hp                | 1                                                                                                 |
+| Mas               | —                                                                                                 |
+| Init              | +3                                                                                                |
+| Spd               | 10 ft., fly 30 ft. (good)                                                                         |
+| Defense           | 17                                                                                                |
+| Touch             | 17                                                                                                |
+| Flat-Footed       | 14                                                                                                |
+| Defense Breakdown | +3 Dex, +4 size                                                                                   |
+| BAB               | +0                                                                                                |
+| Grap              | –16                                                                                               |
+| Atk               | +0 melee (1d2–4 nonlethal, unarmed strike) or +3 ranged touch (1d3 sonic/concussion, “death ray”) |
+| Full Atk          | +0 melee (1d2–4 nonlethal, unarmed strike) or +3 ranged touch (1d3 sonic/concussion, “death ray”) |
+| FS                | 1 ft. by 1 ft.                                                                                    |
+| Reach             | 0 ft.                                                                                             |
+| SQ                | darkvision 60 ft., construct immunities                                                           |
+| AL                | creator or owner                                                                                  |
+| Fort              | +0                                                                                                |
+| Ref               | +3                                                                                                |
+| Will              | –5                                                                                                |
+| AP                | 0                                                                                                 |
+| Rep               | +0                                                                                                |
+| Str               | 3                                                                                                 |
+| Dex               | 16                                                                                                |
+| Con               | —                                                                                                 |
+| Int               | —                                                                                                 |
+| Wis               | 1                                                                                                 |
+| Cha               | 1                                                                                                 |
 
 ## Backpack of Holding
 
