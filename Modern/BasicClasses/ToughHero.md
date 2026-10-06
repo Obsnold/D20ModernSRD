@@ -91,7 +91,7 @@ least one talent from the Energy Resistance or Unbreakable Talent Tree.
 The Tough hero ignores 1 point of damage from
 melee and ranged weapons.
 
-Prerequisite: One other talent from either the Energy Resistance Talent
+**Prerequisite:** One other talent from either the Energy Resistance Talent
 Tree or the Unbreakable Talent Tree.
 
 ##### Damage Reduction 2/—
