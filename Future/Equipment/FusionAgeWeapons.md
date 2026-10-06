@@ -98,6 +98,8 @@ reduced to roughly the size of a large pistol. Additionally, the
 ammunition it uses, while still as potent as hand-held counterparts, is
 reduced in size to match the weapon.
 
+## Mini-Rocket Launcher
+
 Though shoulder-carried missile launchers were commonly found in the
 Information Age, the mini-rocket launcher is somewhat different in that
 it is reduced to roughly the size of a large pistol. Additionally, the
